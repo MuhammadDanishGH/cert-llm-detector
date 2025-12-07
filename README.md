@@ -271,15 +271,6 @@ LLM occasionally returns malformed JSON. The system retries with fallback prompt
 - Verify certificate format (should be ASCII)
 - Ensure ground truth labels are correct
 
-## 📊 Expected Performance
-
-Based on semantic analysis capabilities:
-
-- **Accuracy**: 75-90% (depends on certificate quality)
-- **Precision**: High for obvious phishing patterns
-- **Recall**: May miss sophisticated attacks
-- **Processing Speed**: ~4-5 seconds per certificate
-
 ## 🔬 Research Applications
 
 This system demonstrates:
@@ -293,18 +284,6 @@ Ideal for:
 - Benchmark comparisons vs. rule-based systems
 - Explainable AI in cybersecurity
 - Prompt engineering case studies
-
-## 📝 Citation
-
-If you use this project in research, please cite:
-```bibtex
-@software{llm_cert_detection_2024,
-  title={LLM-Based TLS Certificate Phishing Detection},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/llm-cert-phishing-detection}
-}
-```
 
 ## 🤝 Contributing
 
@@ -328,10 +307,6 @@ This is a research tool. For production security systems:
 
 ## 🆘 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/llm-cert-phishing-detection/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/llm-cert-phishing-detection/discussions)
-- **Email**: your.email@example.com
+- **Email**: danish.ejaz99@gmail.com
 
 ---
-
-**Built with ❤️ for the cybersecurity research community**
