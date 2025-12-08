@@ -48,6 +48,12 @@ class Config:
     DETAILED_ERROR_LOGGING = True
     SAVE_ERROR_DETAILS = True
     
+    # Sampling Configuration
+    ENABLE_SAMPLING = os.getenv("ENABLE_SAMPLING", "false").lower() == "true"
+    SAMPLE_SIZE_PER_CLASS = int(os.getenv("SAMPLE_SIZE_PER_CLASS", "3000"))
+    SAMPLING_METHOD = os.getenv("SAMPLING_METHOD", "random")  # 'random', 'stratified', 'first'
+    RANDOM_SEED = int(os.getenv("RANDOM_SEED", "42"))
+    
     # Directory Structure
     RESULTS_DIR = Path("results")
     LOGS_DIR = RESULTS_DIR / "logs"
@@ -87,11 +93,13 @@ class Config:
     
     @classmethod
     def get_cert_directories(cls, base_path: Path):
-        """Get certificate directories."""
+        """Get certificate directories - always uses selected-subset."""
         base = Path(base_path)
         return {
-            "phishing": base / "phishing-certificates",
-            "benign": base / "benign-certificates"
+            "phishing": base / "selected-subset" / "phishing-certificates",
+            "benign": base / "selected-subset" / "benign-certificates",
+            "phishing_raw": base / "phishing-certificates",
+            "benign_raw": base / "benign-certificates"
         }
     
     @classmethod

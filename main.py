@@ -231,7 +231,7 @@ class OptimizedCertificateDetector:
             
         except json.JSONDecodeError as e:
             print(f"⚠️  JSON decode error: {e}")
-            print(f"   Attempting to salvage partial results...")
+            print("   Attempting to salvage partial results...")
             
             # Try to salvage partial results
             salvaged = self._try_salvage_partial_json(response_text, batch)
@@ -428,15 +428,48 @@ class OptimizedCertificateDetector:
         """Main execution."""
         cert_dirs = Config.get_cert_directories(base_path)
         
-        if cert_dirs["phishing"].exists():
-            self.process_certificates(cert_dirs["phishing"], "phishing")
-        else:
-            print(f"⚠️  Phishing directory not found: {cert_dirs['phishing']}")
+        # Check if subset directories exist and are not empty
+        print("\n" + "="*70)
+        print("📂 CHECKING SUBSET DIRECTORIES")
+        print("="*70)
         
-        if cert_dirs["benign"].exists():
-            self.process_certificates(cert_dirs["benign"], "benign")
-        else:
-            print(f"⚠️  Benign directory not found: {cert_dirs['benign']}")
+        phishing_subset = cert_dirs["phishing"]
+        benign_subset = cert_dirs["benign"]
+        
+        # Validate subsets exist
+        if not phishing_subset.exists() or not list(phishing_subset.glob("*")):
+            print("❌ Error: Phishing subset directory is empty or doesn't exist!")
+            print(f"   Expected: {phishing_subset}")
+            print("\n💡 Solution:")
+            print("   1. Enable sampling in .env: ENABLE_SAMPLING=true")
+            print("   2. Run: python sampler.py certificates/")
+            print("   3. Or run: python sampler.py certificates/ --force")
+            return
+        
+        if not benign_subset.exists() or not list(benign_subset.glob("*")):
+            print("❌ Error: Benign subset directory is empty or doesn't exist!")
+            print(f"   Expected: {benign_subset}")
+            print("\n💡 Solution:")
+            print("   1. Enable sampling in .env: ENABLE_SAMPLING=true")
+            print("   2. Run: python sampler.py certificates/")
+            print("   3. Or run: python sampler.py certificates/ --force")
+            return
+        
+        # Count subset files
+        phishing_count = len(list(phishing_subset.glob("*")))
+        benign_count = len(list(benign_subset.glob("*")))
+        
+        print(f"✓ Phishing subset: {phishing_count} certificates")
+        print(f"✓ Benign subset: {benign_count} certificates")
+        print(f"✓ Total subset size: {phishing_count + benign_count}")
+        print("="*70)
+        
+        # Process subsets
+        if phishing_subset.exists():
+            self.process_certificates(phishing_subset, "phishing")
+        
+        if benign_subset.exists():
+            self.process_certificates(benign_subset, "benign")
         
         self._print_summary()
     
@@ -459,7 +492,7 @@ class OptimizedCertificateDetector:
         print(f"Processing time: {elapsed / 3600:.2f} hours ({elapsed / 60:.1f} minutes)")
         print(f"Average rate: {self.stats['total_processed'] / elapsed:.2f} certs/sec")
         print(f"\n📊 Results saved to: {Config.PREDICTIONS_CSV}")
-        print(f"📈 Run 'python analysis.py results/' to analyze performance")
+        print("📈 Run 'python analysis.py results/' to analyze performance")
         print("="*70)
 
 
@@ -467,10 +500,18 @@ def main():
     """Main entry point."""
     if len(sys.argv) != 2:
         print("Usage: python main.py certificates/")
+        print("\nPrerequisite - Generate subset first:")
+        print("  python sampler.py certificates/")
+        print("  python sampler.py certificates/ --force  # Regenerate")
         print("\nLLM Modes:")
         print("  export LLM_MODE=local   # Use local Ollama/Llama")
         print("  export LLM_MODE=cloud   # Use cloud Gemini")
         print("  export LLM_MODE=auto    # Try local, fallback to cloud")
+        print("\nSampling:")
+        print("  export ENABLE_SAMPLING=true       # Enable subset sampling")
+        print("  export SAMPLE_SIZE_PER_CLASS=3000 # Samples per class")
+        print("  export SAMPLING_METHOD=random     # random/stratified/first")
+        print("  export RANDOM_SEED=42             # For reproducibility")
         print("\nOptimization:")
         print("  export CERTS_PER_API_CALL=5         # Batch size")
         print("  export MAX_CONCURRENT_REQUESTS=2    # Parallel requests")
