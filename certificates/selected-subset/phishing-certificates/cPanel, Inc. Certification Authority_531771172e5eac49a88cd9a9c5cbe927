@@ -1,0 +1,72 @@
+https://olgasidoran.com/David/Evans/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = olgasidoran.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGhTCCBW2gAwIBAgIQUxdxFy5erEmojNmpxcvpJzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDcxNDAwMDAwMFoXDTIxMTAxMjIzNTk1
+OVowGjEYMBYGA1UEAxMPb2xnYXNpZG9yYW4uY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAu7W+x3L3+Kb6JJOp4WAJ+f0/ManILKm4v9lHrvD3wXzj
+abayXwP276283hA6VsYX/U4ocRwiik+1+K//s9GuRJyII/F791/6DC7pxyd5ZHYg
+PIjScrjsVt1+ZExf+FcoiRFP33oRxDFM1ZgTW1oVxNEM1Lpw+xhfQURXB7X9XWgq
+F/yRihWZit3441M1RfYPydv3Hl693pjvwXms3mSMBwGrUaHncjkJ97Xp1V1Ml6sz
++zR6TgZ7UGQgVRwHf3sujMxi2ZfywsNLmjD0O02xAdl/clDkPVczmcU21rR0F/By
+Qu6V169cDkaH1lUFrz+Xtq68BxFODftDc+vwnCYrbQIDAQABo4IDbTCCA2kwHwYD
+VR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFPLxkcJfojnJ
+Ut13zPxZA5k9LhCOMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEB
+AgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeB
+DAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRx
+MG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbElu
+Y0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8v
+b2NzcC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgB9PvL4
+j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXqkEzWMAAAEAwBHMEUCIAGt
+2JOG1TZWTvSYEs0s9E30QFBHjDNQEc/GauCBp+4WAiEAr8fsdqF6cWRM1SWoaos7
+pSRCJveZx1JyFLEQgp4tRZkAdQBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOW
+tbaBqAAAAXqkEzVRAAAEAwBGMEQCIGewhm//hZ6+sAB+OUoy7hX5BA4O2z7NZBgm
+ns8SZSrfAiBRacrzfaXymBdsq06qRs+VvYnhEbr5OwYcRyLvjbKkYTCBygYDVR0R
+BIHCMIG/gg9vbGdhc2lkb3Jhbi5jb22CFmNwYW5lbC5vbGdhc2lkb3Jhbi5jb22C
+G2NwY2FsZW5kYXJzLm9sZ2FzaWRvcmFuLmNvbYIaY3Bjb250YWN0cy5vbGdhc2lk
+b3Jhbi5jb22CFG1haWwub2xnYXNpZG9yYW4uY29tghd3ZWJkaXNrLm9sZ2FzaWRv
+cmFuLmNvbYIXd2VibWFpbC5vbGdhc2lkb3Jhbi5jb22CE3d3dy5vbGdhc2lkb3Jh
+bi5jb20wDQYJKoZIhvcNAQELBQADggEBAIlADMWWBIfz9xkvBtz7iU4tOrSE5Hcu
+1IPB/0JfUSc/F55yzJawh6zc6nTQd0jot+8YMjEiAjtcZFVDakoVUSVY1o6Z7nYT
+5l0HNg4tr6mT4EWK/f2OMgFHKMwzheRlcRwBiKD0YyjTP16Qv+OHpZQzu/ru4iN5
+mzhvFeCB9gu8je5x7aKxdMNUmGw6XoWhkwmtaSRzn7xl0AlrNB/DjzCqV+kEdM53
+IHlcgFxY2qXScZMGV1WfQGxEqbf3hn48bgxwujObo/afNAcTOm684XE6yId2emR0
+X1q08DUjwkDZDlu5at0xUO+4RV+PMD1HyUrJUk1QyjMq1s2KVQnUSgM=
+-----END CERTIFICATE-----
+subject=CN = olgasidoran.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5178 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

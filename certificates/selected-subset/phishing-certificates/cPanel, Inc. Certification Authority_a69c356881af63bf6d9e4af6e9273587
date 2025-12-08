@@ -1,0 +1,73 @@
+http://postdepot-parcel.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = postdepot-parcel.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGszCCBZugAwIBAgIRAKacNWiBr2O/bZ5K9uknNYcwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTEyMjQwMDAwMDBaFw0yMjAzMjQyMzU5
+NTlaMB8xHTAbBgNVBAMTFHBvc3RkZXBvdC1wYXJjZWwuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv87RqLWTMoQOnmqwmqV3RluN2moCePr6SIuN
+N4PAsm+B5U+ACq9vgyY0/S17lDnzKGeUOZUxLI0dESImcvzBufzwmhRh0aHLbcp8
+Cxc4Sc7H6zDKPDQ+vP4G09JBs5azub+/8IW0WS2OJHURkaA9gC+9MdXVqtChBnTu
+bj/Fqlkirzo3AFMBi+iRmG3LQeZeKgQGERyDHgbozfDhEgW4t1FrnQj6ic+0TVyW
+4R5hhEW6IKvCw0n7rbEnSCxLvxFGxGWm6kiIRVnrGLTr6+EKRAENNkbJsrKKuqcA
+weQRXz0k7nzZF0+F2WbYrrOja9dnuTAYqKxG3tGB3O9UF/9NEQIDAQABo4IDlTCC
+A5EwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFFZZ
+ogEZ3dsQILl5Uyjte+lf7aY1MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAA
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysG
+AQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BT
+MAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2Nh
+LmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEF
+BQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQ
+YW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhho
+dHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8A
+dQBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX3s+8DoAAAEAwBG
+MEQCIBOA2v9SXFE4XZYAfOEk2AvizNYh8sJ/YOCcYRHUYO2IAiAzl5SFe39TLn6s
+hYZ4L8R27cksKkMV4ZVNSdxTVJzC1wB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vr
+S8do8JBilgb2AAABfez7wPoAAAQDAEcwRQIhAJiBgNDe+5ZIMBb6JHaVfsR/wPaO
+iXhwWzW9P8epc/6DAiBwm6KmFfyh5QnyDoyzCMlO6s8nCvTvCuUo5BCZd6n2HzCB
+8gYDVR0RBIHqMIHnghRwb3N0ZGVwb3QtcGFyY2VsLmNvbYIbY3BhbmVsLnBvc3Rk
+ZXBvdC1wYXJjZWwuY29tgiBjcGNhbGVuZGFycy5wb3N0ZGVwb3QtcGFyY2VsLmNv
+bYIfY3Bjb250YWN0cy5wb3N0ZGVwb3QtcGFyY2VsLmNvbYIZbWFpbC5wb3N0ZGVw
+b3QtcGFyY2VsLmNvbYIcd2ViZGlzay5wb3N0ZGVwb3QtcGFyY2VsLmNvbYIcd2Vi
+bWFpbC5wb3N0ZGVwb3QtcGFyY2VsLmNvbYIYd3d3LnBvc3RkZXBvdC1wYXJjZWwu
+Y29tMA0GCSqGSIb3DQEBCwUAA4IBAQBDCzga9RxTvItTf2FX9zoiUuE/zEsh0NZD
+Eif1QxXWu3JYkAIB9S0VoReJp62uTgQfSL2Q8s0DD52u6DoA/GkW+H8WAGUgHYZA
+rPoPH4XA5WQCiHQH18ORa0X6/5uv88IKdiGu+RjbqgfqxMnCZ0w9H0F1EA6BLhSb
+rbJwO4qa0rysiTjgXB9hQG9HvZ+fZoJt7gvyab+KzLFv4J6U+Z+81H73mRXb7SBQ
+HD9Lc3plIbq9bQz2mMqR8/Vw0ZyWxVOg1jEKr3MGEQnoOuXT5DV09eC7uyZ3qpDU
+0fvfPLIt8U91sm7LfgbQFvnTZ9+/s4TuPkVZdamiuHL4q3so5yKa
+-----END CERTIFICATE-----
+subject=CN = postdepot-parcel.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5154 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

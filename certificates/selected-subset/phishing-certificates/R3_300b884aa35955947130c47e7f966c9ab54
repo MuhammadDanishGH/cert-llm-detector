@@ -1,0 +1,63 @@
+https://nscf58hxr2gr.podolife.com.tr/re/?username=jhouser@solovis.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.podolife.com.tr
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOzCCBCOgAwIBAgISAwC4hKo1lVlHEwxH5/lmyatUMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTYyMzA2MjFaFw0yMjAzMTYyMzA2MjBaMBwxGjAYBgNVBAMM
+ESoucG9kb2xpZmUuY29tLnRyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAtL87uc9cHG4+ypvw2o0NkpeBTQbdR1U7R40NYNj1o26l2QJHdGcldY1q/D+p
+ZSDhy9vkWi++yi7bKA84KNNDOZYRG3Cykv0hTC+qvHTjaj1k5eMHtDZa0NZOBe1L
+u3+kk3eHbCug0fG8Kt/z3MZNiRTqIycTFcafQj4HI3ZljqwYvhD+1FThXf2uXcIo
+wFkK6xJBrSXaeaYI0h47U/akEWNpsxY4fS80MTUWVCFvYW8EhqUqM6N+Vzg7CNTT
+q4vo7Yf8XuPpo88AxDM9wxwNkjSH0pV9RRgABn1of0mtRJDx9J4oiWts2BBn+aSw
+nRMc7TZDfqIPsz4zicSP4j09GwIDAQABo4ICXzCCAlswDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBREdwRWoqhdHaRJrXLrJOwYiR41SzAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzAtBgNVHREEJjAkghEqLnBvZG9saWZlLmNvbS50coIPcG9kb2xpZmUuY29t
+LnRyMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYB
+BQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBgYKKwYBBAHWeQIE
+AgSB9wSB9ADyAHcA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF9
+xbYIcwAABAMASDBGAiEAmOnIdj/J38266K6pBdaSqk1Ppeniy6wE/XrHwumYYC0C
+IQCn40SlA6ty+wd1a9cqbjWPer4SmTekGY5bIobK/UZqfQB3ACl5vvCeOTkh8FZz
+n2Old+W+V32cYAr4+U1dJlwlXceEAAABfcW2CIgAAAQDAEgwRgIhAK8sr2ebVEEJ
+O7wTtXKKNtNdfCapKj/4ZWg1tzwe+/1UAiEA5qgWOsjp3a01sanRzcdoZH/W3iqb
+93+/jArNsm9gj+swDQYJKoZIhvcNAQELBQADggEBABYbEmZK+YpQGMLseIf8IxkC
+tUH+DlVOLywVQ/JwdwTu/k5wM5oJzOh+27HnzLv5YAiQ7J0izRUsZi3HAm8cn57l
+PMMtlSzOlrMWl4Z0mIjTk6Q02iwzDyOvF9flxfijhuktpjYr53biGps0V2lF6r/E
+4+FF66YIjPhHtzSuUy4DUuu18eUs9Il2h1YxlI8uMHaGnZ1mTcwshs28iqCm21N1
+pSBHlNHRNJx8Aq2wfZ0/jhgg+JqpAe6/f9ABDK8bDBCvp3BSm3AlL2fxRf5jLfKN
+Z8OE7TkN1wB6/EFT6G4YJpzzUrspstcSgy1vx/L4k/kIK9OVtKvwPVm08K0Ret8=
+-----END CERTIFICATE-----
+subject=CN = *.podolife.com.tr
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3144 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

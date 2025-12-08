@@ -1,0 +1,66 @@
+https://smdc-crab.com-mom-inbox.kisecf.cn
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = smdc-crab.com-mom-inbox.kisecf.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFSjCCBDKgAwIBAgISBD5TwkF6zd2yG/GqNL85RkkLMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MjUxNzQ2NDZaFw0yMTExMjMxNzQ2NDVaMCwxKjAoBgNVBAMT
+IXNtZGMtY3JhYi5jb20tbW9tLWluYm94Lmtpc2VjZi5jbjCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBANH0pExGECRBkoYuklWSTmqi+eLVZRtGn4/pl/gL
+sCUU8f6tNwmW9H5yLE55YQvQ8Ex9q2fT0KYGQLqbeB1GDuL9L1GzmmVvLE6xTjys
+NWWa98sGxCsJSN+SXjDWDLeqH4TxQMf59uLh/qlgWtTmsm9ZSCYVc5C5KczDpfXF
+CU/qEq8S7VXfRZ1k5uki9rtg9aSOzukRWBQYKM8qJckeOxfczeFnazKINiZgyykM
+h5kCZOVcpLL6EyGOFbt9t1UYG7eFxX3nrFdgmyoqoAbGaYLhRUOS6T26cF/jS6P5
+8arkW2nRCtltP7u/iED+JGqhTPkI++eE43FnbCc2sHrZkKsCAwEAAaOCAl4wggJa
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+DAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU3uDWDYtVNsxEi+dhAQfeD7wjPLcwHwYD
+VR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEG
+CCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0
+dHA6Ly9yMy5pLmxlbmNyLm9yZy8wLAYDVR0RBCUwI4Ihc21kYy1jcmFiLmNvbS1t
+b20taW5ib3gua2lzZWNmLmNuMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcARJRlLrDuzq/EQAfYqP4owNrmgr7Y
+yzG1P9MzlrW2gagAAAF7fqLaOAAABAMASDBGAiEAjYynftDNr444c9lVme0693Ta
+c42enU3Z7JBEARV6h24CIQD/aULYyfuyxDSPOQfREttwM/06kgTCCTjH24Ieve/v
+KAB3APZclC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTjAAABe36i2iIAAAQD
+AEgwRgIhAPAluFUjt1OKUhiCO91p2ZnNTImdORCVhPRCF5l+yTOXAiEAnr2morqm
+Qn3i4yYNXRaJG+pVJgeu2DATpoZjqphSxGowDQYJKoZIhvcNAQELBQADggEBAKWd
+pVxMxMsr/L3QSE+JsTEYFlQZLVJnStaLXUxH9+3Q4XcfffUqietc3taxihEIbvnK
+5YSqIHzUaXCAxllFsVYo4c/QPK3NVlj3bRAfaSotcG/KO3unrSvf/i86PDppr5VG
+RuMynahah1Ue6hdPaav/EoU3/aOHhUQdOM19OditFeg9iIO7fmEaVbzQc1TbjXVz
+hQiXQu3Cn5rgXHPRCTbGDm0jjOQs53qzpS/hNC1JsCYW7Hqz1OTgrws7D2wH/HWH
+xG7a3eRZjInDkx1Krdqb8T/t0AWB2XLp6BbWynTgLp2x1kTuwVTWkdj2UVS+4Nr9
+ckSFl2Jmd4XPRCZVWvk=
+-----END CERTIFICATE-----
+subject=CN = smdc-crab.com-mom-inbox.kisecf.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4614 bytes and written 415 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

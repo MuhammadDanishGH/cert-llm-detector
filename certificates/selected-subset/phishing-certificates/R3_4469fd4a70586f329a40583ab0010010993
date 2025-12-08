@@ -1,0 +1,69 @@
+https://www.etc-melsai.jp/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.etc-meisai.jp.s0lgmro.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF8jCCBNqgAwIBAgISBEaf1KcFhvMppAWDqwAQAQmTMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTcxMjM5MjZaFw0yMTEyMTYxMjM5MjVaMCcxJTAjBgNVBAMT
+HHd3dy5ldGMtbWVpc2FpLmpwLnMwbGdtcm8uY24wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDZyM3wSJb6Up5riuoO2tjaEXNMjgHpcFz/fwBH78Xh3b5G
+ShEwzPOzASObDdPlWV896lLYCBSowcICuIcpIAoWVq3FcPK53rmTtFfYQD4EHY1H
+eTKFhFvoZD2wFiIJYXTHomDqWELWklHKhLPrTi2XnUHJK5Eikrupv0kfmsGGunGS
+4+xfhWlEe9ilUEagHv2RVj+OmCeggGx+B00y5R1EDkcmSdsJnpGW8w+huTfBpGxi
+GbvgawVlyRd6g7q1snSvJ3yYtLNpLjJINhqOdi0rJx3hDR8dO3+M01NFgy5L7Djh
+Ib9cT9UaM0qTuRd3fGDpaPQ5HOhSKJ17pGXOzDyLAgMBAAGjggMLMIIDBzAOBgNV
+HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1Ud
+EwEB/wQCMAAwHQYDVR0OBBYEFAjlrET+H58aCPI6Yfhx1wMD2V8bMB8GA1UdIwQY
+MBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEF
+BQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8v
+cjMuaS5sZW5jci5vcmcvMIHaBgNVHREEgdIwgc+CHHd3dy5ldGMtbWVpc2FpLmpw
+Lmc5NWhrMXIuY26CHHd3dy5ldGMtbWVpc2FpLmpwLmdsZ3pwbTYuY26CHHd3dy5l
+dGMtbWVpc2FpLmpwLm9tbDVlbDguY26CHHd3dy5ldGMtbWVpc2FpLmpwLnBpc3dw
+aDcuY26CHHd3dy5ldGMtbWVpc2FpLmpwLnMwbGdtcm8uY26CEXd3dy5ldGMtbWVp
+c2FsLmpwghF3d3cuZXRjLW1laXNpYS5qcIIRd3d3LmV0Yy1tZWxzYWkuanAwTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHy
+APAAdQD2XJQv0XcwIhRUGAgwlFaO400TGTO/3wwvIAvMTvFk4wAAAXvz+70oAAAE
+AwBGMEQCIGYXnanEYC6LM4YwJpzTooOjmBy3DWRAVZCjc08EZJM/AiBG0NHOy1sJ
+nbMudQmXjWC1T2GSQtZrqXrn5mw/mGSEEAB3AJQgvB6O1Y1siHMfgosiLA3R2k1e
+bE+UPWHbTi9YTaLCAAABe/P7vW0AAAQDAEgwRgIhAKfOZj9OaveEm1wBpEWv+ite
+aWj85prr3n93RgIMuZwxAiEAq4xu9dFTE+fqlloJuX+QABl5rcV3tiVIY4zCWbmU
+D6AwDQYJKoZIhvcNAQELBQADggEBAGBuui4StLnNshNaOl6IASgV4cciNpPdkTR3
+rOuW6oHFkwvPRi5zgclCGiRe75pSGQ2+vQUc4s9ewvvYaRGC9WR2swZQ7+TaSLeT
+Bx4FVaF/8ozeD6A9tmonmOlkwoT3wB4YlyqjRXslByNpRl+takqFVoFfO6enuQSO
+FyQIgVSay47pWvZJ7Ayn+Nlu/JX/43a62NvcSzVwPjA8yqa4VjlamY+/vpeJcd46
+TC+LJWYJpIxKXM+W48fNG1m7xwlxB5xyl5GOIZbJdT89oMi29B/IkdclunRa/KMX
+dDYuMOX3zXoivmsJbj6Kz4jC8ux3MbxrEB3EIUUafMKA7mUf4d0=
+-----END CERTIFICATE-----
+subject=CN = www.etc-meisai.jp.s0lgmro.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4782 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

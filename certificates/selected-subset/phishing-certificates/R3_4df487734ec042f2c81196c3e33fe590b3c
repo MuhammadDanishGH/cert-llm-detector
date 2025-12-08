@@ -1,0 +1,71 @@
+https://chatwhatsapp-8.duckdns.org
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = chatwhatsapp-8.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGOjCCBSKgAwIBAgISBN9IdzTsBC8sgRlsPjP+WQs8MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTMwMTAxMjZaFw0yMTEyMTIwMTAxMjVaMCUxIzAhBgNVBAMT
+GmNoYXR3aGF0c2FwcC04LmR1Y2tkbnMub3JnMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAuXSSI20gVZh+cza5iDvzfySqvxOHZhA9opPbCvuavOwOa0VI
+jD0ENkiSK8sUm+PpOwNjdarcQoaXLd19yEGMxGYGVPCO+yfZTJsUvIgtkqZ1XVzW
+GgAAr5ImECXtdGbwrozMiLyMuwtmpBFB0u9iJsJkYWPK6yHjoEUa7KzRsT7vdJBh
+caduH/EffM9mg/Z7cIHuTpRdoQVel4jILOCH3LlDX0fqh9e0oVyxjHxMNalbwHGP
+0IIYkr+r5mtuSGzmk9Gnceaw4AqUlNDV8tqZIUXHKsRWs8ifgyAH/w/DgsjhPSCQ
+19sx38g5Wf0RKA8Lwed/G1BTCtwKG/A0tSk38QIDAQABo4IDVTCCA1EwDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBQw54snnpSQx6ZH4r7m8UQRJq+nHjAfBgNVHSMEGDAW
+gBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUH
+MAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3Iz
+LmkubGVuY3Iub3JnLzCCASQGA1UdEQSCARswggEXghpjaGF0d2hhdHNhcHAtOC5k
+dWNrZG5zLm9yZ4IhY3BhbmVsLmNoYXR3aGF0c2FwcC04LmR1Y2tkbnMub3JngiZj
+cGNhbGVuZGFycy5jaGF0d2hhdHNhcHAtOC5kdWNrZG5zLm9yZ4IlY3Bjb250YWN0
+cy5jaGF0d2hhdHNhcHAtOC5kdWNrZG5zLm9yZ4IfbWFpbC5jaGF0d2hhdHNhcHAt
+OC5kdWNrZG5zLm9yZ4Iid2ViZGlzay5jaGF0d2hhdHNhcHAtOC5kdWNrZG5zLm9y
+Z4Iid2VibWFpbC5jaGF0d2hhdHNhcHAtOC5kdWNrZG5zLm9yZ4Ied3d3LmNoYXR3
+aGF0c2FwcC04LmR1Y2tkbnMub3JnMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysG
+AQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQu
+b3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAXNxDkv7mq0VEsV6a1FbmEDf7
+1fpH3KFzlLJe5vbHDsoAAAF73ONEbAAABAMARjBEAiBiJ38BXNa17HpMzjRqaeH1
++wpqU/+ZkryTl3u8hi9TiwIgQmKbxagkWfJziMQZcApdoiIpvVV7FynnLJIiMXAd
+mM4AdgD2XJQv0XcwIhRUGAgwlFaO400TGTO/3wwvIAvMTvFk4wAAAXvc40RZAAAE
+AwBHMEUCIQDYxCdRCKeXjd0oXSYYbMLsGlQOqwEw4wR8TLy9cFCWTQIgLtmrx7KW
+m7skCaRg38mjJIm7hPKH7clDvukIkNewrf8wDQYJKoZIhvcNAQELBQADggEBABEw
+Kx2pr9HLN0r+yk1tbch7cefSI+RulNUmW1tJjjlPcENcRSd87j0758npLhnvuEuB
+3bIQAgPTDQJIcmGWUl+UdBQ0KwkpVIZ8VX2RtBpzYizF0gKoWfQKyJlzavpy88sB
+12D58YGpSBEQsutWldda2cgf2l9CIq4u8hbGu7e1lv1JjzTq9ruAx30jfpkms+KY
+3GSobfMKCviMvWI2Hjjxcf6LJTTKPX7E3icUY/KB6Zhow53KwbZyhKsZuX1jRFq0
+726Za15i9wYYdxAOQDX1whqnxrzKgsiVntslcXG3ZvSLNSQRt/lGc1SZeRhv7wpq
+a8SauU9LFz+C/xuZVcg=
+-----END CERTIFICATE-----
+subject=CN = chatwhatsapp-8.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4784 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

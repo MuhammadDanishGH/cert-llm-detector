@@ -1,0 +1,99 @@
+https://www.diazantonio.com/wp-content/upgrade/dsk/user/account/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = diazantonio.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGxDCCBaygAwIBAgISA0KDORLvOBWi1d1v9epUkg2UMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA0MjMwNTE0MjJaFw0x
+OTA3MjIwNTE0MjJaMBoxGDAWBgNVBAMTD2RpYXphbnRvbmlvLmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAJs+4yNqZ6PI/wyYIKxUt78hR/fbD0TS
+4jsIU0NpsLsY15ETJPmmXOSSU3Y3KQpsnEdkRT5OPfax1r3H2sCHyNKb4wNoyUFa
+Vs/w3TsYPXhz5SWJktMl0/D0CDXj4DV0Gqvp5FMKVDoj3+kg7l+K2CA9GJGhEdru
+7p4Sl0C2JCqsqSYGFF6+Z+jIeIF1A5RvYVlhziPGzqpW1fRxbdd3sD7PD5xklas9
+q9KYB9hX+dGF/pNf89xfxqX4FpGp4OSw82TA5HuaJJY0EQKEhPHnl6QxGFDtl8xa
+q1iJx7uu9U/HN4JHumhp3eqD2zF38j6VcKQGhABbaw1e6yvmvM6TCRsCAwEAAaOC
+A9IwggPOMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUCg8R3ifnQWL4Jm1uwbKnI8AX
+OWswHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnLzCCAYUGA1UdEQSCAXwwggF4gg9kaWF6YW50b25pby5jb22CG2RpYXphbnRv
+bmlvLm1hc3Rlcm9mZGV2LmNvbYIRZmNoYXJsZXNsYXdwci5jb22CHWZjaGFybGVz
+bGF3cHIubWFzdGVyb2ZkZXYuY29tghRtYWlsLmRpYXphbnRvbmlvLmNvbYIWbWFp
+bC5mY2hhcmxlc2xhd3ByLmNvbYIbbWFzdGVyb2ZkZXYubWFzdGVyb2ZkZXYuY29t
+ghpyaWFzb3VmZmxlLm1hc3Rlcm9mZGV2LmNvbYITd3d3LmRpYXphbnRvbmlvLmNv
+bYIfd3d3LmRpYXphbnRvbmlvLm1hc3Rlcm9mZGV2LmNvbYIVd3d3LmZjaGFybGVz
+bGF3cHIuY29tgiF3d3cuZmNoYXJsZXNsYXdwci5tYXN0ZXJvZmRldi5jb22CH3d3
+dy5tYXN0ZXJvZmRldi5tYXN0ZXJvZmRldi5jb22CHnd3dy5yaWFzb3VmZmxlLm1h
+c3Rlcm9mZGV2LmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEB
+ATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUG
+CisGAQQB1nkCBAIEgfYEgfMA8QB3AOJpS64m6OlACeiGG7Y7g9Q+5/50iPukjyiT
+AZ3d8dv+AAABakjUvAsAAAQDAEgwRgIhAN3wLWRKW17PlFBf71hQs7pMJpZo9FVB
+3TrmuKcqNz70AiEA/KbvD56YZU4OTVcG8PxKwEKiGohGP4MMzJhVP6M6Ii4AdgAp
+PFGWVMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAWpI1LyBAAAEAwBHMEUC
+ICP6MEVZEYsEQyYh+xUvxie4Ca2bgt4xSL8/oxR0lVGAAiEAy1UVPoe7jwC6ehJQ
+md4ePGqlg+TuhzwK376eVevPdkMwDQYJKoZIhvcNAQELBQADggEBAD/A+sQlgvUz
+GEG5m29jpTr0fi/ZYyIu3My7i4ZYZDdKItqV8gVetYTwVvPraEcVaqvpuvzKQtXh
++q58nHyy/zfdLj+5aFLkpM8L7pgh/oU7LCf2fMUTB0OcxMnHKEdg5+WyCjQsHaBf
+Zxx9vu8gsGPm1lne6lUmrkO5fsi4at53sDmM4wdy50+KVTJc2MOu/+8LtSO8bZK6
+O9Ub2Z+e+5ua5qQEMfSHaitNP+j5UODDtWpX1b+osnsMOvgMEvLj+J0f38WNAWOb
+AT1im+3NfBM/CMrxlUvD4C2j1Xln8eDkSawZL8aUnPCtL+7q9+2SolPTLuEhIj61
+liPMjjYQ/UU=
+-----END CERTIFICATE-----
+subject=CN = diazantonio.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3619 bytes and written 457 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: F1B85A7BF09A381CE3BF26362A0CB2EEBF65366E1FC0CCAEC3FF9CA16B5E14E2
+    Session-ID-ctx: 
+    Master-Key: 0110846F19BC99D79D44EC791F6A109709F18C55DE975B2F2CD75A8381887DF6B683ABD8E7C4F99C7701F47886382F01
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - dd d5 f1 26 ce 9d f2 4e-36 dc cf 2d a4 f6 70 6a   ...&...N6..-..pj
+    0010 - 15 49 71 1e ce d3 a2 68-58 92 0c ff f8 3a dd bc   .Iq....hX....:..
+    0020 - 63 3c 70 d2 db c4 10 9b-da ca 12 fb 81 d7 41 dc   c<p...........A.
+    0030 - 06 68 c8 eb a3 d1 69 80-b6 d5 bb 29 03 42 68 4c   .h....i....).BhL
+    0040 - a4 4c 7f b6 90 d0 c5 64-e4 3d 87 0f eb d0 c0 74   .L.....d.=.....t
+    0050 - 85 3e 07 fe 03 e1 1c d2-ed ba 21 2f bd eb 11 62   .>........!/...b
+    0060 - 27 a5 56 7e 53 9e 8a a0-78 52 cc d5 9a 1c dc 85   '.V~S...xR......
+    0070 - 15 fe 16 da 4b 91 63 20-4d 95 db 19 01 c7 47 dd   ....K.c M.....G.
+    0080 - 55 97 cc 71 3a cd 89 b3-3d b9 95 45 9f 27 85 e1   U..q:...=..E.'..
+    0090 - 9c aa 12 98 33 81 42 54-d0 1f 62 41 0d 7a 1e 0b   ....3.BT..bA.z..
+    00a0 - 0e 70 4f 90 f8 db a6 f4-94 6a 28 32 6d 2a 4d 5f   .pO......j(2m*M_
+    00b0 - 4b 26 66 6a da b9 95 f4-8f b9 bc 21 89 4e dc f2   K&fj.......!.N..
+    00c0 - f9 d6 13 ba c1 73 bd 43-c6 2c fd 49 75 e5 a0 1a   .....s.C.,.Iu...
+
+    Start Time: 1561381226
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,74 @@
+http://securr09b-navyyfeddcu.tk/card_loading.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = securr09b-navyyfeddcu.tk
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG2TCCBcGgAwIBAgIQEOXX4cLN6RQ4GZhywPHpTTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDcyMjAwMDAwMFoXDTIxMTAyMDIzNTk1
+OVowIzEhMB8GA1UEAxMYc2VjdXJyMDliLW5hdnl5ZmVkZGN1LnRrMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA37y77tCdr/ifkRdwESPoNNBKizQYa/o9
+H1POS9oQMiO5wRiQ0xbJEcfrKNj6ezWKgtLhsW0XUOz591bkHMJ3i+2I/AG15XR1
+GpSvKw7mwDZEOqLFl8FNGDHS0O2bF191+HYEj0rJKyGbiSwQqVGigH4hCVEDqUg9
+cQi2QOko3UVleEU7+FJuBbhxCkc4NqiakvwONGn2iBNqNX2Fb+5K0MJTaqHQqG3f
+jiyD5DSSKrf8u5oZ9cADHu2QyCU1lZ0C9Zgoi4nTZNq0Kqwd5E7zoAFzy8PCDbBp
+oBS252cmQDuUKiYDbkcWKXM6vt9iykS8+W94iv2+9b4qSsKbSL583wIDAQABo4ID
+uDCCA7QwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYE
+FJUdr139Dc8xlm+Q5ePppHLEGhNWMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8E
+AjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQG
+CysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20v
+Q1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9k
+b2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9Bggr
+BgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzAB
+hhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0BIHx
+AO8AdQB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXrOZFnKAAAE
+AwBGMEQCIDy74MMlgqgB34cB8U5kO8yVG2+xKu+gvVjkx8Qp4yQIAiAtGM7aryMS
+5KxhhKWpIHmf6Q/JD44N3LVc1leub4DuCQB2AESUZS6w7s6vxEAH2Kj+KMDa5oK+
+2MsxtT/TM5a1toGoAAABes5kWYcAAAQDAEcwRQIhAPGrgsj6ffC2dN2PIrLDnYDr
+GdW7/R7s59Ehg/Cmy2KDAiAi+WaPrVUM4oUNx1/bKcIVECT04C6qHa1BMwZxvwev
+sDCCARQGA1UdEQSCAQswggEHghhzZWN1cnIwOWItbmF2eXlmZWRkY3UudGuCH2Nw
+YW5lbC5zZWN1cnIwOWItbmF2eXlmZWRkY3UudGuCJGNwY2FsZW5kYXJzLnNlY3Vy
+cjA5Yi1uYXZ5eWZlZGRjdS50a4IjY3Bjb250YWN0cy5zZWN1cnIwOWItbmF2eXlm
+ZWRkY3UudGuCHW1haWwuc2VjdXJyMDliLW5hdnl5ZmVkZGN1LnRrgiB3ZWJkaXNr
+LnNlY3VycjA5Yi1uYXZ5eWZlZGRjdS50a4Igd2VibWFpbC5zZWN1cnIwOWItbmF2
+eXlmZWRkY3UudGuCHHd3dy5zZWN1cnIwOWItbmF2eXlmZWRkY3UudGswDQYJKoZI
+hvcNAQELBQADggEBAG8MvT+u0NEk5RvGTLA9SO+z1tfdxWzVXvhKA+/5tWb8cpDW
+40e79UK3DovZZY0W3h+Hsvlxp/4wPvjOmLkkHlDHbOKwJXGKYiTK0O5KgQKPLsOZ
+JRQ+fbWkXX3R9JPg4clI/YDDK8dvTRSBKuj1xf9XwFPrU5OGRL1JVp61rAPiNn0T
+PBpso4s5DJv1Ei/iYji3343Mo65V17wqmor0Ir670sSegvjOE5qhQiWuS0GfgSY9
+ndxd+9qbv4P/KQb+5K0fRq09ltHrElq7AGbVwLyG9I54BL0BH+u+JSrO6acFImFr
+zvPHKpfhw0hyANsF1xqA5Tmm330a634SP4NZeS4=
+-----END CERTIFICATE-----
+subject=CN = securr09b-navyyfeddcu.tk
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5262 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

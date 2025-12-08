@@ -1,0 +1,69 @@
+http://paypal.kenkenuae.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = paypal.kenkenuae.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF+DCCBOCgAwIBAgIQGJjt7+wh2nypZk6usn9+ijANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDkyMDAwMDAwMFoXDTIxMTIxOTIzNTk1
+OVowHzEdMBsGA1UEAxMUcGF5cGFsLmtlbmtlbnVhZS5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQC/8D1VI+x0HJ/xUKgkrGBOwnE8vCUrG8baYaTy
+Rv8VfolYlmyYGn/29lyWXVjlTjH7RTiayZ4eAY0iCLWc4z+ahwUF6CYl15dlFpIl
+CTbkS/w09kD2p28Llb3xjeDylrgTMAYiuAiqCi1f4ZzfW70KrsNGC54PNtvpXacm
+7Lq4Karuey8zB6Cc1SpEuYhhhizKIzDHUF1aio8OI8Kra7oOzeowr1tF0PzUS1fd
+hMHaumg4uDWCIg280bjqB8lMueDWkUit+NVWb4aYrEMLBynClysAXnVIHI523L8c
+/jQgQdGnAkljdhq3WofNECahBB5nyYsK/YZX5p9V43re805HAgMBAAGjggLbMIIC
+1zAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUjLu7
+M41O4ixGKf6mvCPDGLWPmH8wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYB
+BAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMw
+CAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUF
+BwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1Bh
+bmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1
+AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABfAJc/JAAAAQDAEYw
+RAIgNPIB37ukQA/xzoQFB/VLUg6fPNuin9xei9PpMJ5qXFoCIFF0K2oziKJRU4zx
+oA0hiGU651od2L+hqpqTnmjDOd5rAHYARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1
+P9MzlrW2gagAAAF8Alz8UQAABAMARzBFAiAnui7VStQ2SdGAdk7IPt2NPnCVrg6s
+zm8FcwVqyc7kAAIhAOMJymKBamaa485XRXie8mkXc9LQbRf75yMjlQvOlJPBMDkG
+A1UdEQQyMDCCFHBheXBhbC5rZW5rZW51YWUuY29tghh3d3cucGF5cGFsLmtlbmtl
+bnVhZS5jb20wDQYJKoZIhvcNAQELBQADggEBACp9V0g/CTBsreq6QgX+lqqMG9D0
+3RdETus8ohU5jG0JywGR0Xa9ioEtCCBqnnwjxdy5MVPXNltdi7DZJw0TdC8QsWEq
+vQ6falC/dKQBBxxab0dqgtUCLJ0LQpkbvUiLTlW1i2qiKoMCPYzD7u2s9ENE9FgC
+CtwAwErxlgIt+tTsAZgDC0p39YK4/exVFWKaqu/gw5k8MEoYRj1KM81B91U2ARpv
+GME5RDhqfNWIVhdwez+rcKZhwFkDE6fuso0b7BsFP64Z1j0vyRnfdMlETltCAK5o
+XOS+mw6wSdgCnSDnjSJZVVDejU/3ijILh3vM7GlifFLx3LGPshKr+mK+OQk=
+-----END CERTIFICATE-----
+subject=CN = paypal.kenkenuae.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5037 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

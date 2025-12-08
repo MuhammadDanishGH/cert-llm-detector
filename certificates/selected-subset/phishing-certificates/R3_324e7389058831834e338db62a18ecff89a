@@ -1,0 +1,65 @@
+https://nakedalchemyskinclinic.com/Docfile/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = nakedalchemyskinclinic.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOjCCBCKgAwIBAgISAyTnOJBYgxg04zjbYqGOz/iaMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjQxMDI5MDJaFw0yMjAyMjIxMDI5MDFaMCUxIzAhBgNVBAMT
+Gm5ha2VkYWxjaGVteXNraW5jbGluaWMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA5+Al1vYPgHi3m1zsLW8/1q6MldVoHXWQcFeZQdygIhs+umTw
+XE5KBGCuM9LiDLPjVt6je+Bh+iSVx1Oo9ubCP4UB7fuRUTrhBsO4yP7iM0P0/K4o
+bXVVns1ADWS95ueBLwLDYFH61SDO/QFqJr4hlWmoVYSv2guz3C1mnyDfZEhnrcK7
+6kYDuFCzyJ+MMUpxP4jai4Ip3k0jdLE/mXONZK2u5KM3NibS8zxIMKDVSRFLpODB
+rRFP/cmBSjBpjx6CnEjbHF78HL5rwJjKCFZN1sWCMwF8dwhdhugfjJ0LIE5vKo/L
+l1JdhHftWKqiwTA9zA3Qg05ojZTidPP2e+Q48QIDAQABo4ICVTCCAlEwDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBQ12teiAXn5InX/hte47n1KFJgZHzAfBgNVHSMEGDAW
+gBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUH
+MAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3Iz
+LmkubGVuY3Iub3JnLzAlBgNVHREEHjAcghpuYWtlZGFsY2hlbXlza2luY2xpbmlj
+LmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsG
+AQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkC
+BAIEgfUEgfIA8AB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAAB
+fVG0ycIAAAQDAEcwRQIhAN5aTi6+tnk6vg9UcYjgeNBXG161FewEfL0UZyCwMc7w
+AiBKYgZlTi+DsJ0BDycXucFoRJOYg19vEncP7gyYOO2uvQB2AG9Tdqwx8DEZ2JkA
+pFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABfVG0zXIAAAQDAEcwRQIgV+4bmwKNfqek
+Fl7wjI+woC9WXu+ei96FsxxFRs7oDfUCIQCHboCd3oPj/EEv1LuXeRZr6W+jyVLW
+IqwOfArSqn+vjzANBgkqhkiG9w0BAQsFAAOCAQEAI4Q1ip5uYP87wO5KjBllKzLx
+Faqeo7lSjKP+Dl2PNWiITzp+WKifrUkzutMRthuIT/9c4eCBrwdjmpE2USSrUKZ6
+VRdHNXTUmnduni4baEtoeUd13qIY4EUigk5wrMyLWcN0CRymTxp51I7e1vjeoJFq
+lhUn0Nmos1ZAPGe1Oooo8fQBxTQpXjwpRv6fGEbSrAOSTjl+qzZOV3WBxh5o056J
+9zIAQqeXUIB5Zq5ulBct76hdl20wikFl2s8ArC1Bzsa67SO4RbXzr3w1u1BWhlhq
+UcmYU1FYsCtlNkxjBma/JPBi3p43W94etnrYkuQmdiCoAsXduXDE9yX6l8JC0A==
+-----END CERTIFICATE-----
+subject=CN = nakedalchemyskinclinic.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4598 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

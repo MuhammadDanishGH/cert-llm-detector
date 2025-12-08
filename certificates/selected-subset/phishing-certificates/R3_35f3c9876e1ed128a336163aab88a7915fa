@@ -1,0 +1,100 @@
+https://www.armas-shirt.com/modules/hi/clients/login.php?verification=3D
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.armas-shirt.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGsTCCBZmgAwIBAgISA188mHbh7RKKM2FjqriKeRX6MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MjYxNjQ3MzNaFw0yMTEwMjQxNjQ3MzFaMB4xHDAaBgNVBAMT
+E3d3dy5hcm1hcy1zaGlydC5jb20wggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIK
+AoICAQDEaJrT1PgN1sM1nXfbFb6fwzV77Du8xVNAo5QAyLgo9mBtGvdpjKu3fNET
+cpNvqBOh/mkjqToNvEd97qUQeQ7rlBak2HZmakpuxXukdraFbXHB6PZ9l2yitDNH
+SDDLD2EYM8WKEKI6JhEQX1AqQn3lunzHVEtRgeeLXTeB47pITIaijyXMAoA+cmLC
+vMVwDoKJuZZEaE/1OaPLEKnJithtF6GKWRqI3gE1sTInsuWpRI5yGliWOrG7OQLW
+WiTIy6M0lENlPQhqOeBiUy5n9q+ozdjDIsx2ldi3MMK3W+C2l4wNLHRL85NzH4QB
+CJ8gfwRC7uUG+94dMxrAuStRbEmojNKmpWa9K8tY0lCywlABE85b5Wo8EQCWjwHY
+BkZmbTSLRVU47wjTyO9RlKAgUlvTWb0U0nwH6vPyjJhG5DkrNH0rjJQQmI6Z/Ppr
+PJw4CED4HWxjfQ+UNcUKxJqRBukIaJLPtXM0tzxtKcT6dBPNU1IJ5dKBWJvVB3Is
++BEol1JPTcGTp9AdJ7ah5Cq9VdbzhDOuscB5wcXHcSMqFHOyVz1eGE8gAJ9aWgJO
+GVE475gCzqvRiz0znJhIL90baACXgWLOqSWbiQGDTW02swpxev6qnkO77j3KUee5
+j2Xe3XoPs51JccgY3KaAxFqnD+akSyRHk3RJucByclPqq9CjiQIDAQABo4IC0zCC
+As8wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQB6G8h5cU/v9+h3DqG3uoczzKsCDAf
+BgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcw
+IQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYW
+aHR0cDovL3IzLmkubGVuY3Iub3JnLzCBpAYDVR0RBIGcMIGZgg1hcm1hcy1oZW1k
+LmF0gg5hcm1hcy1oZW1kLmNvbYIOYXJtYXMtc2hpcnQuYXSCGGFybWFzc2hvcC5w
+ZXBwZXJzaW5uLm5ldIIRd3d3LmFybWFzLWhlbWQuYXSCEnd3dy5hcm1hcy1oZW1k
+LmNvbYISd3d3LmFybWFzLXNoaXJ0LmF0ghN3d3cuYXJtYXMtc2hpcnQuY29tMEwG
+A1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEW
+Gmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAgYKKwYBBAHWeQIEAgSB8wSB
+8ADuAHUAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF64+3bJAAA
+BAMARjBEAiBmQJ7i07s23L6CXldGgT5OsZ8hbE2+ekCtXGQo6dJrMAIgHdiEfzQ6
+9+C3eoHOEy2+TWqqQwejQtlA/vH+XPUimx4AdQBvU3asMfAxGdiZAKRRFf93FRwR
+2QLBACkGjbIImjfZEwAAAXrj7dxRAAAEAwBGMEQCIBnLESPpInfNC3Qczq5y6uyo
+GflwYrzl3neZriq4KgoxAiBf9ybNEd+WufZbVIGb7khezBsXQkwoIVGBZez+G+T6
+jTANBgkqhkiG9w0BAQsFAAOCAQEAfKGHpLIHZZVdn87sA0MdecyxccjJU3YSfXIn
+3L4CKxkhSlKM0yb4zA9+4ar/mFPQFXollR2QTlWF9O4mM4FSPilipKJVTVvCTtho
+CPdXxDxgLhoQhFiX5LuvV00hEQqNmPdhEWY7kcTZDPr9+eNQXkPcj9EY7Lwc7P1X
+UVzvoDqqZ/VHksNNUPHnGbA3vRnsfp6a9T5dlH9Dj4vS2V395vF2x2f2xKswQMJw
++oqZhB1cikodFD8lFOu41RXRMfjN2gVROGQKzEDmR88LrJI03340E8T/Icrvcx3K
+8R0c3MmNiMdvjo6lET/Ir8f/bxQ4ptdmoZ4YAv2q9cOHLI8xwQ==
+-----END CERTIFICATE-----
+subject=CN = www.armas-shirt.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5371 bytes and written 447 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 2CED864715BE6B95F828106FB85342E646493CD2767099D8B85A7BB0D9B2D8FA
+    Session-ID-ctx: 
+    Master-Key: CB7C01A2F585C24D7142BC9EBC4A60A4378763B78E17EE2F460C932826C36DDC5AC9A42F5735824EEEAE160FC9A9DF21
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 6b dd db a9 61 1f 83 3b-0f 39 8d 3c 93 60 97 b8   k...a..;.9.<.`..
+    0010 - e1 71 07 6e 72 71 51 90-ab a6 1d ad 5d 12 4d 34   .q.nrqQ.....].M4
+    0020 - 02 03 76 d3 9b ab 99 2e-da f9 8f ef 9a c5 f9 12   ..v.............
+    0030 - 71 de 2c 8c 6c ef e1 19-6d 75 53 8d aa 2e 26 d2   q.,.l...muS...&.
+    0040 - 77 85 62 95 da df 38 87-25 95 72 6a 10 a3 f8 6d   w.b...8.%.rj...m
+    0050 - df 28 65 eb 40 f0 3f b4-5f 1f b2 0a eb fa e0 b3   .(e.@.?._.......
+    0060 - 13 85 ef e0 7d eb 8d 0d-00 98 98 cb 2a f4 18 6a   ....}.......*..j
+    0070 - 79 f2 f2 b2 12 2d 3b 42-d6 ad 02 4f a0 84 0c e2   y....-;B...O....
+    0080 - 6d 01 91 c3 82 4a fe 79-93 e6 ef d9 1e c1 37 7c   m....J.y......7|
+    0090 - e0 ec a2 1d 0c e6 9b 39-cd 80 2e 7e b4 1f 21 14   .......9...~..!.
+    00a0 - 12 a6 c4 aa 35 90 21 af-d9 58 0b 1e 03 1a 72 0f   ....5.!..X....r.
+    00b0 - d4 33 b6 2d 75 70 41 a3-29 7d 14 68 93 a4 16 d8   .3.-upA.)}.h....
+    00c0 - 55 13 cb 5f 52 4a c5 b5-e0 d2 8e dd 4e 70 71 21   U.._RJ......Npq!
+
+    Start Time: 1628296847
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

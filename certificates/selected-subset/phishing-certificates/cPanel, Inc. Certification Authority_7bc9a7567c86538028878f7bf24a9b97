@@ -1,0 +1,70 @@
+http://twitter.com.shia.com.au/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = twitter.com.shia.com.au
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGAjCCBOqgAwIBAgIQe8mnVnyGU4Aoh4978kqblzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIyMDEyNzAwMDAwMFoXDTIyMDQyNzIzNTk1
+OVowIjEgMB4GA1UEAxMXdHdpdHRlci5jb20uc2hpYS5jb20uYXUwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDAOnC54agQsMcHQ4lLmfQhtTfTFLOH5RNc
+jJgifqUDLsCRhC5rjWuxL7u2p+vO4aeh3VG4Y3UjS42eFdJdQuexuFIALS20KiZa
+r+5ge3iuv9lv7bate0dm6YFyiRKlDlAJGBAtD5FY6UT5C/htsxY88FFEsb/lJWhr
+Fcqjj1StfR+GfALZ+2xVEAbolUZhXAWTFiV8NzGc+ibzcASHmU4+qEXGw/lF4CDg
+V0dRfZ7A6VB/ajzkO31qGbtth90e5aq5he1wcw3d+IeWE0YYksI2MpozudCtmjU5
+wKv6Y6mqRP86gkOc/u9Lwpra7Gk6l+78HqILxEWHqD7OBco8ZwBPAgMBAAGjggLi
+MIIC3jAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU
+SiUL+kZkXIDZvyzCKGUae9+cQ70wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
+MAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYL
+KwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9D
+UFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2Rv
+Y2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsG
+AQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGG
+GGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUEgfIA
+8AB2AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfpt9mlUAAAQD
+AEcwRQIgR0j+EqvoGjxBC8tHyBeWdYNfpVLRtHKAKlAds3NV9TsCIQC4S9609xXX
+EkwqTrsaMTJfydF3MfYJkXeAeCe2hUUj1gB2AEHIyrHfIkZKEMahOglCh15OMYsb
+A+vrS8do8JBilgb2AAABfpt9miAAAAQDAEcwRQIgfY9Q4FnY/T3LbmjRlwLQ4uKQ
+mNnP3xUHE53CKSgqDjcCIQCoOej/oEgiZeSuiElDvzSxD2F73L8sSkyVc89u0kxj
+sTA/BgNVHREEODA2ghd0d2l0dGVyLmNvbS5zaGlhLmNvbS5hdYIbd3d3LnR3aXR0
+ZXIuY29tLnNoaWEuY29tLmF1MA0GCSqGSIb3DQEBCwUAA4IBAQB2/3jVWXdpqcbv
+ifaTNRaS61OCOu1I6+H3w1EjxTDN0n6kTVVDSEthrT7ClJaGUoU7SaV0SH9PR7o0
+1LidqeC0uYu8/KsYVUicRSFQuvXz2xLXV7yHv8uG+rFSKL3+VycFFPx8xmL/d0TS
+V/GeyTrinY585GFxbwkB3NFYqPkkC44XlN6duD1uKAZmOEREYYSMqw014W4m1EAP
+9ajiX7bY6iUUL25/g0WIbrOzkOC/pyewxGm78tV7LMEiNDVk9Ys1xj0sBvZCXop7
+BfhixvrfqvMV3ayQ4UhiB4tUguzTkSwd+1E1wxz83/Ir6GEOLPuN6pzS6+b6PSLe
+bf2jEWpT
+-----END CERTIFICATE-----
+subject=CN = twitter.com.shia.com.au
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5047 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,69 @@
+https://secure.rewvls.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = secure.rewvls.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF8TCCBNmgAwIBAgIQAknjHWc2kjH275liqWwtqTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTE5MTAyNzAwMDAwMFoXDTIwMDEyNTIzNTk1
+OVowHDEaMBgGA1UEAxMRc2VjdXJlLnJld3Zscy5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCxVNdOHOmdn1ieveRqnYNzWAyTN5Y1FPPdtvDypHKb
++eFXTUAgFyl0UMgn6tYI4jq5AkxoQ8o12whZO/xC1jgDooJA/pHMMG8vUKCVHovY
+JnNhb/Za7wzHQXT8yNPfG3Qtv6DnHnbO7lpmuUnq8kv4sK5bBIMJVXppwBhaQV/A
+31mCnl5Z8wlTyKMYhvotDgAFujd9cge6PszzQl6DQ3OUNY+48TzqvYKjTa06lrM/
+dXpsR88bQJsZaU6MGXHjKHwE45BN4EITKOK3ZuRGVFPrJgGM2iv73ek9zFZYZMqM
+7LVUBkSjUHui7ETuS/x+tubEcNBAtaLQ35TYthlj/X7XAgMBAAGjggLXMIIC0zAf
+BgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUiAahDx28
+2x0Le8GDU4HYY1VyCbMwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGy
+MQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYG
+Z4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEB
+BHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVs
+SW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmNvbW9kb2NhLmNvbTAzBgNVHREELDAqghFzZWN1cmUucmV3dmxzLmNv
+bYIVd3d3LnNlY3VyZS5yZXd2bHMuY29tMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDx
+AHcAB7dcG+V9aP/xsMYdIxXHuuZXfFeUt2ruvGE6GmnTohwAAAFuDoybPgAABAMA
+SDBGAiEAvkoUj7w/GtutqL/uxN4/z9u5uJiNDGPNccDcaz94soICIQDHLiuhVOHe
+RvwefNFiojF42iQ4JhaEwCcDg7/+NYIl1AB2AF6nc/nfVsDntTZIfdBJ4DJ6kZoM
+hKESEoQYdZaBcUVYAAABbg6MmyoAAAQDAEcwRQIgOH0V6LTgQrGjG7vCbnYo7Vi6
+01xm7aPUBCmuS7rP24cCIQC+BSYmIVZ2OGnfuzG0DbUDBYtRzpaXnd73BcbQ6GbW
+gDANBgkqhkiG9w0BAQsFAAOCAQEAMojttrBRLtyoE4xBRMAYkgxUEhniHU4lT9VN
+SwOamdDpcUsSgdNRG3vRT8nSBNov2+SZjXU1aUtqYyW0q4X6Ueguetj++vVYxfV6
+WOJ+UtWh1t2zvIVcnKaklDqVYCrMmHSXJgg3zlBka6Q9dWNzUJZrJFlARJR8QCNq
+8nKEZgP1lm0pB5Hi/5oO/ppF9z4qxfe1jjn7B8xwqwPFRpCTS/zHT3GMSo8ShCFO
+VZCRukVJhIDYlx0TfFQbUjBS8ZoatvpMd0u1KRlICmIboCp8s/mfqvhWWvmL32/v
+eYgQUbPhuCcZ5y/oU1vEjgzSdVjDDyVi7C5bJLM3wgLvHhlAhA==
+-----END CERTIFICATE-----
+subject=CN = secure.rewvls.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4950 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

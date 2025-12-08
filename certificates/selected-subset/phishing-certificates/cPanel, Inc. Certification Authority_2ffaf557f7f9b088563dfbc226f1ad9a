@@ -1,0 +1,71 @@
+http://account.paxful.com.unissenseafrica.com/index.php/false/false/py1n.html/discovercard.com/dfs/accounthome/summary/-www.schwab.com/secure.accurint.com/unfcu2.org/login1/wachovia.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = account.paxful.com.unissenseafrica.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGLjCCBRagAwIBAgIQL/r1V/f5sIhWPfvCJvGtmjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDYxMDAwMDAwMFoXDTIxMDkwODIzNTk1
+OVowMTEvMC0GA1UEAxMmYWNjb3VudC5wYXhmdWwuY29tLnVuaXNzZW5zZWFmcmlj
+YS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDQRYsxOPLSMul+
+UtqTEJ9xdziBQx1QLVWvUyXAfzPWdnS0r9mORX7OBksNuUpZtWHLAM9+ytgdeNeJ
+bTzo6TZQL5Qe4OccjDeBMtR8zY/VQgM7FGTif/3aKuzY7qF8Fqpj8SaH+vUuEhBz
+FP/w6QP62R/aN0HLU0UjfwDjQKzr8Yp2hIhX7t+7cw18D/B4mPQylcjdsQlPXBG8
+6wUDFAvv63gQlspxQlnltIdovR/D2UEDTtsJIEBTTIUemUdI70PdTk0Z+kcjHWLi
+9YqiPCPe10Xlo4wo8ZxI/2rg9ao9YY5KjRf+x0srEQBLzQKdVx+sVZ3aQ5qRcuOb
+/gTpaQ4NAgMBAAGjggL/MIIC+zAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2O
+HWrHZTAdBgNVHQ4EFgQUWDt9H7B4nO3I2CR83FfeDFc8wAYwDgYDVR0PAQH/BAQD
+AgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6
+Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0
+dHA6Ly9jcmwuY29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRo
+b3JpdHkuY3JsMH0GCCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2Ny
+dC5jb21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5j
+cnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQMGCisG
+AQQB1nkCBAIEgfQEgfEA7wB1AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+
+IvDXAAABefWkCxAAAAQDAEYwRAIgAwHoijQqeIBb2NNX64r6LcUv8mVim8KsKINA
+tGhWknsCIDpuNY7WwUs6kxDFgeZ0sOpbfUIPWjYEjoCEOVRPrh9bAHYARJRlLrDu
+zq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAF59aQLGwAABAMARzBFAiEA/SAA
+x0U5fFv1WwfQn7Cd4Kx0i1R0r1QlTCO53a1kGKoCIG8yplZb/Ft5YTHGZts1L186
+gGuGpV3Ftc7QLigCwfjyMF0GA1UdEQRWMFSCJmFjY291bnQucGF4ZnVsLmNvbS51
+bmlzc2Vuc2VhZnJpY2EuY29tgip3d3cuYWNjb3VudC5wYXhmdWwuY29tLnVuaXNz
+ZW5zZWFmcmljYS5jb20wDQYJKoZIhvcNAQELBQADggEBABDcs4uoeOu+DtC1Ic9J
+QZ703u7Jh+5Q+K8PPmArdq2QPoIUm+30rpC2m4gS24khWYXOYrQGjYwnTV9w/bmA
+pznnBu3HGKy1YlJOvjPRUn+yTr5VLADyX4T/paLlqeX3JTXoGvOIeVHfBUJODAoo
+FbnJ1eBD6iJnSpx7/++omR2m/0qqTujBVnicfmVt7myJD2SnASwbXkEp3v25eJ10
+lhFOL2G0Tn6sHFl2Ri2LxkORaQqXA7ycmsLykQluFDX3Q2YwpJ4NgZ493DhTdcES
+uRAgq9xvhSapeetUSr+M6g3h1Bk2XK89kxx2RnuqgeRMjsDpfcwNKptjmice4JC9
+4cw=
+-----END CERTIFICATE-----
+subject=CN = account.paxful.com.unissenseafrica.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5091 bytes and written 420 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

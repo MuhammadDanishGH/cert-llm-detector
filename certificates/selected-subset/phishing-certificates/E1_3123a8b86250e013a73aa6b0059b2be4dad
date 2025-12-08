@@ -1,0 +1,60 @@
+https://onlineservicehelp.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.onlineservicehelp.com
+   i:C = US, O = Let's Encrypt, CN = E1
+ 1 s:C = US, O = Let's Encrypt, CN = E1
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X2
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X2
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 3 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID3zCCA2WgAwIBAgISAxI6i4YlDgE6c6prAFmyvk2tMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+MTAeFw0yMjAyMDYxODA3NTdaFw0yMjA1MDcxODA3NTZaMCIxIDAeBgNVBAMMFyou
+b25saW5lc2VydmljZWhlbHAuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE
+0z7dMskJ2eyiZn44DoIcJ5T6S5kxQMfjljfryc72Us9UJ4Bmi4IplmZ+Eja2gpNx
+0Wbz9/fX8y0Pn4unZk9YgaOCAmkwggJlMA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU
+nKwd5GHSSWeaYSF4I7pcm8UtaLowHwYDVR0jBBgwFoAUWvPtK/w2wjd5uVIw6lRv
+z1XLLqwwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vZTEuby5s
+ZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9lMS5pLmxlbmNyLm9yZy8wOQYD
+VR0RBDIwMIIXKi5vbmxpbmVzZXJ2aWNlaGVscC5jb22CFW9ubGluZXNlcnZpY2Vo
+ZWxwLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYG
+CCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB
+1nkCBAIEgfUEgfIA8AB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2
+AAABftBviNAAAAQDAEcwRQIgO5yBJsPvmTbynZRMdSdjGfS6JsSVjQ95EVddvlzH
+wxMCIQDo2Jh0Hsq9zFsA7HkESrUsr+5bIMDMwKGxtAqMAzAU/AB2ACl5vvCeOTkh
+8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABftBviLUAAAQDAEcwRQIhANoH01od
+zYrgxyaIiZsJC+SKo3LLDZhZYsL6dXD3y730AiAcwt0BI5pEwFaY2ffEFQfsjGIu
+zfVTpHvGFnVEfwBR3TAKBggqhkjOPQQDAwNoADBlAjBdRkfSW07rnyvff8tm+kvR
+uRufLVfcv1Z13Fi/fGgD2GiiVR4cI9D9U48WP1eNYkgCMQCmmNJMcelVedIihMwb
+c5ljkgLoiMNJKl/byB1Ze5r/fAPAXMKGZa/3WxTbzC2C/rs=
+-----END CERTIFICATE-----
+subject=CN = *.onlineservicehelp.com
+
+issuer=C = US, O = Let's Encrypt, CN = E1
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4537 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

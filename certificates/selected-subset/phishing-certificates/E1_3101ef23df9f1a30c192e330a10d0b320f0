@@ -1,0 +1,60 @@
+http://hypesquad-test.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.hypesquad-test.com
+   i:C = US, O = Let's Encrypt, CN = E1
+ 1 s:C = US, O = Let's Encrypt, CN = E1
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X2
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X2
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 3 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID1zCCA1ygAwIBAgISAxAe8j358aMMGS4zChDQsyDwMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+MTAeFw0yMjAyMDgwMTQzMjRaFw0yMjA1MDkwMTQzMjNaMB8xHTAbBgNVBAMMFCou
+aHlwZXNxdWFkLXRlc3QuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAED42X
+2ViOxMPoDH85loFeyxjqXpWSQb3PubzWyiuL+18NLA0PoRysnXOqrbkyraNFm08z
+UQUZoUdmXcXTX1JWxqOCAmMwggJfMA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUutPZ
+Yo6WPcdwChg6M372BbSCm/IwHwYDVR0jBBgwFoAUWvPtK/w2wjd5uVIw6lRvz1XL
+LqwwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vZTEuby5sZW5j
+ci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9lMS5pLmxlbmNyLm9yZy8wMwYDVR0R
+BCwwKoIUKi5oeXBlc3F1YWQtdGVzdC5jb22CEmh5cGVzcXVhZC10ZXN0LmNvbTBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB3AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABftc24P4A
+AAQDAEgwRgIhAPGRRbv4lXg3Jbu6DH20BSJpZxwthMjoSW/gw8b4N38IAiEAxdl0
+76b3+4Rszzc9xiBiHVur3gmgVcTA5GwOrcMVBT0AdQBGpVXrdfqRIDC1oolp9PN9
+ESxBdL79SbiFq/L8cP5tRwAAAX7XNuF5AAAEAwBGMEQCIG8M3fS5uSBU5AXzA1dh
+gv/hN5pO1Jjhvl6XNNmzG+xxAiAI2pEyieqNDS/PaJkOFoJNcpnl5fCrMVHKCcAQ
+xk8FHjAKBggqhkjOPQQDAwNpADBmAjEA1J9gsuJrmU0G6Vc6tcoET7G0JSr586Ve
+LATepWsYPnUMV6AEtzQU2Lc+Ws3+u90jAjEAqXULgbPo6BHcSeUpAdZWI4QPRQ9T
+MpbuR0kxo40HE2gLeuYkw48761/6Tzgw/140
+-----END CERTIFICATE-----
+subject=CN = *.hypesquad-test.com
+
+issuer=C = US, O = Let's Encrypt, CN = E1
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4529 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

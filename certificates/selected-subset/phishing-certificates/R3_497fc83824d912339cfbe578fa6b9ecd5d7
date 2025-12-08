@@ -1,0 +1,65 @@
+https://procommsavvy.com/44/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = procommsavvy.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOjCCBCKgAwIBAgISBJf8g4JNkSM5z75Xj6a57NXXMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MDYyMTIxMDRaFw0yMTExMDQyMTIxMDJaMBsxGTAXBgNVBAMT
+EHByb2NvbW1zYXZ2eS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCl5po3krCmgWr4Sx2ITG9WBaUCuQYbbRfkZhRJs1g9nC2C8b7SIAMoUzMhhL5f
+fHOeJnuUFctjfhUfUQWKqKMnkaYoly66MMHsHF6tksTvIWuoDzxxxntFLG74UkLI
+dIPZgAv21QZIMipXfu8/v4KbOZEeNUzJHDx79XC3Fs6pDCWPkpBsy6xCTPEFxFQR
+PTKxzvnFUQn4eWmDLtKNJtYR/MzxAJut/tKCZSQFbln8jkL+9ivdF1jkWphtqz01
+XkxWUPrNQayzjooGmBo2hlllOXkTKaYZWYT6HI4jcKOXUbRcknO8H0neiBBG5tFc
+sCpN0VhkELKL2KzXoDHVaVHnAgMBAAGjggJfMIICWzAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFL89Y8A7RKyDz/4j8ODx3q/nZa93MB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMC8GA1UdEQQoMCaCEioucHJvY29tbXNhdnZ5LmNvbYIQcHJvY29tbXNhdnZ5
+LmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsG
+AQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkC
+BAIEgfUEgfIA8AB1AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAAB
+ex2ON30AAAQDAEYwRAIgLiumVoSbPT1PLoRV9QOwCiGq1T+PEcH9n2lJmooUppkC
+IHRTwl9f/RTUbXMAs7VvuGH8sjxv7e6YKmE8vsPjPT36AHcAb1N2rDHwMRnYmQCk
+URX/dxUcEdkCwQApBo2yCJo32RMAAAF7HY44PAAABAMASDBGAiEAnbyjdp8blCGi
+i5i4e+yMxC+YS5WRO8SPVJdUo4vdn6kCIQCvl/jCLnltYirdKQhdjgLh/bKD1P5e
+nU9xvKebB0VHZDANBgkqhkiG9w0BAQsFAAOCAQEAfuqp8TS1HsERguES/bkhSU+o
+12/KGJUkGRFiKkCPsKdERjkGHUx6OseY3iPzyYHFFOKBYtD/EIZH11U6/pr3XRGb
+uJlehTTTMVlGRM0yvfZ+QCFXper/B7IP3iSdLyMLwbdTPIOW9Z7IYgXqIASSwmH6
+L9DHCCDwCWNC/c72Njcc+bL1wH8+6fCbAlavqL2kNcm2+Jq+oHKVdQ47pZndaIyr
+LffG7C+f2ys/0EIc9dK4hgIBg2XrDo3MIGnsPIS6gsmpD+zkLVuwFFagnj6MIUSY
+Q9xsViVJMtEwogdQMhqtNmOc+XX+gG4a5/AQf0zLtNLF5FcY9Rk7hChfPVRH4Q==
+-----END CERTIFICATE-----
+subject=CN = procommsavvy.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4598 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

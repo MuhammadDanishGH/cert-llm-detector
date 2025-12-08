@@ -1,0 +1,65 @@
+https://iuoi.vwu6sns.cn
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = iuoi.vwu6sns.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJDCCBAygAwIBAgISAwkeZhphPaNN4OdBQyKZIrOWMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDkxMjQ0NTdaFw0yMjAzMDkxMjQ0NTZaMBoxGDAWBgNVBAMT
+D2l1b2kudnd1NnNucy5jbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AJ1QGcGTM4Z9LMBn8h7hWWxxRkpyozeno8mGNwaJsS1o8PP9eSEqgRzlozpGKODi
+7XxYMYV5otw9JQgMt68v/5/LUBfPO+yx/jcJ1kbTXdTXaPXs5RusGiMLQOb6+OJz
+Q17fg/vVyNEDIwxswGBfMrdmgknDopJWRZdRkz+BuytPdSbRO0qxvfbMnYtzzlcu
+do52UlWCIJbbqpv9E93lERHN9QcmoJkDyzeurBKUPBff2qub8vWFymcoA1ewqIDM
+zNAePOgV9Vc2Paz46BgGAkFSK/tOsJ4wkCpl4Apa+HHvbq+yHw8VdFqDcfs/wvNO
+R5995rdGUUjEfPNU7lFxKKkCAwEAAaOCAkowggJGMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUeaYJhDiV2oO0+thR2OZohXoxoEowHwYDVR0jBBgwFoAUFC6zF7dYVsuu
+UAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8v
+cjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9y
+Zy8wGgYDVR0RBBMwEYIPaXVvaS52d3U2c25zLmNuMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA36Veq2iCTx9s
+re64X04+WurNohKkal6OOxLAIERcKnMAAAF9n3CcZgAABAMARzBFAiA9TP+JkKHZ
+XqOyTyrphW+ywZhYT6Z64kmAGGAxXUXGzAIhALzBBwbsQQM+pEud+B3GjzkpTP/S
+XD7iMziH/hCSAKEaAHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcA
+AAF9n3CcmAAABAMARzBFAiEAjmzEcYtiWxPzI3r7yiU47MpoKq5Mc3sa2Kw9+gdo
+0iMCIBzle13qIIzSY2jBYmuw+m4QrFPJ0eEPXLPrBAviaMhBMA0GCSqGSIb3DQEB
+CwUAA4IBAQBi513LERoQa6UHEvBENcK0XU4b4Qt8BPaCvThcGt0cHDan0p4+HRNx
+r5U+VRQBZXR656hDO9VMhhQVP2IH9YXTWclp05FZdBR/vdIiPp0eflXbN5naHg24
+gvZpgVaQ2ZcxlY5GDz/W6HkHkGUzFpOT6yuCmazQxCo47WCMR9OfTbYpVmERWfwK
+C4rbKMxDGqbPEfGTpQPXdYFH7KxjyRrO/TZpBrZlrtjD4T+M0qf60K5eBBaIBGMD
+mrcNrUpoSZ9yLW5OMj7VTmjS03/Bchb4lphBlbcVr7k1YNwwqHwbq5XZhJZcM+nb
+Hm2gopR3DuKKL18VgldFFZo+ULIKRBEw
+-----END CERTIFICATE-----
+subject=CN = iuoi.vwu6sns.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4576 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

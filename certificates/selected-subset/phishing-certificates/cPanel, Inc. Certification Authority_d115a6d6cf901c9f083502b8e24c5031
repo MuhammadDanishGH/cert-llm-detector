@@ -1,0 +1,72 @@
+https://shipmonkit.com/fcb/AMENCN-1/en.php?rand=13InboxLightaspxn.1774256418&fid.4.1252899642&fid=1&fav.1&rand.13InboxLight.aspxn.1774256418&fid.1252899642&fid.1&fav.1&email=dGVzdEBleGFtcGxlLmNvbQ==&.rand=13InboxLight.aspx?n=1774256418&fid=4
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = shipmonkit.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGfjCCBWagAwIBAgIRANEVptbPkByfCDUCuOJMUDEwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA5MjQwMDAwMDBaFw0yMTEyMjMyMzU5
+NTlaMBkxFzAVBgNVBAMTDnNoaXBtb25raXQuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAnAZ2O46XAY7tVt1i7R0eyqHeJH2j60FTJGV5u4GafHG1
+H2pViHMT68+Y9ADAItX56KQwbENNebv2q7W0samU8Eul+lW5NpZ2W+mBVunfKE9B
+Pk4PcyN1O7vzGC3eK1DonWNCwH2DUE843R/eP2i7OgOAVr0FOafcRXJ9ceABgguv
+/Ee/tge8Thl9kbnS3rbEpJhtI5UWCl+jgLEszJikX2n/oxhx01OSdex+oMH9GNWw
+ZrG6119IJ3EQbXALD8N2o3sClzfXn0RuebD/9T7ehySNDJ2lTYmC5lhPnh5gMLzG
+6MMKa2NgerEQOSTjgJ6+w73r0UAzc6HnNTZ5wmV7KwIDAQABo4IDZjCCA2IwHwYD
+VR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFN5CNt57TZId
+F/vdwlkPQbligu/wMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEB
+AgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeB
+DAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRx
+MG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbElu
+Y0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8v
+b2NzcC5jb21vZG9jYS5jb20wggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgB9PvL4
+j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXwaCM73AAAEAwBHMEUCIQDn
+KuIBjpJYi6gYOo86AwbsGVqNqtdatx2tlaATBJ54AQIgIP7dKd/n0w/k+1qR5IE8
+yp60bbp3aJHszhXRmL9eeb4AdgBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOW
+tbaBqAAAAXwaCM7LAAAEAwBHMEUCIFyTEA3NgTpOV8R94bHaOsrq+/9mww9toPw1
+DF59Xzf/AiEAiTTZS+Zluh4om3JiBOy1+nKHIWIWlzqCE6D8qBTwXjwwgcIGA1Ud
+EQSBujCBt4IOc2hpcG1vbmtpdC5jb22CFWNwYW5lbC5zaGlwbW9ua2l0LmNvbYIa
+Y3BjYWxlbmRhcnMuc2hpcG1vbmtpdC5jb22CGWNwY29udGFjdHMuc2hpcG1vbmtp
+dC5jb22CE21haWwuc2hpcG1vbmtpdC5jb22CFndlYmRpc2suc2hpcG1vbmtpdC5j
+b22CFndlYm1haWwuc2hpcG1vbmtpdC5jb22CEnd3dy5zaGlwbW9ua2l0LmNvbTAN
+BgkqhkiG9w0BAQsFAAOCAQEAJXN/FDNIlbS46N/EtYEQmjVpd46MQNozeSRKHch1
+fsAhhbg+rn5vn6IeaE5qDe/O5ND34Y0bkvijvOIQNzJ2UkhIJ7PccVcKf6IpJILJ
+Y5NGslsxKYkrQpKUVf+pOGTw3+cI7rVmroqQlVkBT9AVn2cLH7/dJa/o7adSyPXP
+ahP01soDTICvkf75dEPb+tXQlV6oMn2xIF/2xWe+rydEmLfgxIijWmKMdaBqgynV
+W/IcJbuN7381iEyvzGQkQo9RNJxJs0XjXPVP311Kvv8ZnBU7Ptuwpr2fjXKQYwdV
+eiyG+VPvLiZgEMUdCyjOcHzXDU96GS8B7SL7WCEvQK/dEA==
+-----END CERTIFICATE-----
+subject=CN = shipmonkit.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5171 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,65 @@
+https://aiu.kdda.deasw2.xyz/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = aiu.kdda.deasw2.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKjCCBBKgAwIBAgISA+RIQNOksLHq+90vvV08cF2aMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTcxNTA4MDhaFw0yMjA1MTgxNTA4MDdaMB4xHDAaBgNVBAMT
+E2FpdS5rZGRhLmRlYXN3Mi54eXowggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDZLbSSbbPMtwDzeeVcGTNE/0MDv6hZDe9rZRnw58r57xGfYm2uzdjwqMgf
+53lwgxqjr/1Zqm93ylfsRtuIr4qDkMg7SoDgIbmyVYezsW4aed9Lkm3mih3NDBc2
+BFkfn5kTP2fu3zE2tOZPav/W21/zP0XefjN/XcoN1GvCEXme1y+6oGHVHbgzneGV
+/+2Rk5PltwlLm7PIk13pICRBFHhVz3cgvqJxmo6KEscsJMSN+A2ZlPjiLaFq7vXm
+UzSNF0Wvu90jgE7MDTnBs007wEOg9LWWnQ4b7kDmhPSk1ntETPpDdfV1PSRS/NBl
+16yymywFes+9JbtL9pL1rJBy9uHDAgMBAAGjggJMMIICSDAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFJeE5tje0URcQtPLIFtQQUwxZ/tKMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMB4GA1UdEQQXMBWCE2FpdS5rZGRhLmRlYXN3Mi54eXowTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQBG
+pVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX8IcN1iAAAEAwBGMEQC
+IGv6VK6QFrmMPDDs0icd47Ralbfb+XsyIbeEBtC9m6xFAiA2VQ9ipS5DfyHMTX1J
+6/NkMTQJRbSlthKqFdmxv7WIhwB1AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaN
+sgiaN9kTAAABfwhw3oMAAAQDAEYwRAIgEYZ2a+mbMwrQv3PqIgAByvuH5VFoTs+Q
+idHevtonUpMCIFVl7dgXbeYvCOfT7KsYtNXB2S0ZD/KAFWJDvI4LwCiDMA0GCSqG
+SIb3DQEBCwUAA4IBAQChRjvaPPCor9UCRxx7+SNovdRd8lX1d5M3Kfv7DGWBunDL
+nzg4LTsI01XkZ/1glsi4BwDg2y0+qoo/3NE1RtyL6n5ksIXxp5KyQ8/t8eXV23Vx
++2NvXwu3X5K/0PQXApxQv8rruJVwfwh2haKk5dSIMOhuCFrCtcCAZmlH3TSzV1ND
+qqJ5yMul/6S/j1d4CFL9TtDqm7ScOX8ZSEOo1I2aNoYPCWkduK+9zQ2hNSj4O8VE
+4i3MW29/Tswj4d7daT1WpZ1SSgNdAa/KzMHhLWUNETUX3vRWRFfO1LBFKnLjrgmO
+w7L8Hnr494kvo/XWDNzr6mxqqSW2NPsDJP9oznYn
+-----END CERTIFICATE-----
+subject=CN = aiu.kdda.deasw2.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4582 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,71 @@
+https://londonmakt.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = londonmakt.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGOjCCBSKgAwIBAgIRALzR/tw1Dqnn7/XzozJUjVAwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMTA2MDEwMDAwMDBaFw0yMjA2MDEyMzU5NTlaMBkxFzAVBgNVBAMTDmxv
+bmRvbm1ha3QuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyVRH
+7yzlNsQo03jSJcE+iXuC9YdU3w/3InuChYPB2q/dM6ub16Sgce2hmpL2eCrsUkTz
+UKLPVMbvWP87F9rip/P13JgG11XPx/O4mLwNfu/X7+n2grhHd01Ym43bIZP+HPiK
+y0q0fjMFhaunnRO+WaRqdQ/FHaFRF/XGK2ad8zBln+07MLJpekQXBvP8DU+GljCU
+fqDXe69GMUkSxaJNfH0eHGIE9Gv5vy4RaBhakpxrLpTikYFq/StlOw+AQj+gh4+w
+YWbDwXin8Ae6m8etswla8nhyiH9DqrLt10rvom8w6/CVt/CY6dGk8/jnhomn7lC9
+WYMjMp8tQMG7T/NTzQIDAQABo4IDBDCCAwAwHwYDVR0jBBgwFoAUjYxexFStiuF3
+6Zv5mwXhuAGNYeEwHQYDVR0OBBYEFDdtLhKQDauYJ3sqkdfkTnOxUW9HMA4GA1Ud
+DwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYBBQUHAgEW
+F2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYBBQUHAQEE
+eDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29S
+U0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsGAQUFBzAB
+hhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTAtBgNVHREEJjAkgg5sb25kb25tYWt0
+LmNvbYISd3d3LmxvbmRvbm1ha3QuY29tMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFq
+AWgAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXnH5qEsAAAE
+AwBHMEUCIHD6ArrEajBWxjoqibyG4jZu09kbIfdLSQA6fnDW5NBLAiEArxAsJqq4
+eh4D+pAJo2NTXVki9mkYcC8jHSBKn5L9XS4AdgBByMqx3yJGShDGoToJQodeTjGL
+GwPr60vHaPCQYpYG9gAAAXnH5qD/AAAEAwBHMEUCIQDK8ju0B+9t+aOw1fA4EiTa
+XllIje6vqQZdhSPezl+KIwIgHU7Ol3J7hJj2//pfA2WBJIEppSN2fU/b28CB+6EH
+GxoAdgApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAXnH5qDMAAAE
+AwBHMEUCIDMN5fNLiHRyd0O5CibUe1dbjBiA6g3u5F6rTMjnt0XvAiEAuLDPKdlj
+or99D1r930pkmQM4NjDvL8uJ7yDsazJ8RKMwDQYJKoZIhvcNAQELBQADggEBADM+
+stF7cpbSrbEHgfKOBsUV8JckqzB1eHuqNznFVeyZMcSmHPj37iJXoRP2awQiGM/n
+s1UZ5syHFoObfiEzhQyK8xcttQqgv/gVZnkgXVtQ1oZeHMX+D1iJBZz0c3W/cMlx
+oLYVrHnO8CyLeM2tlypfigZ/e4Y/9SBfR8UPtYEl1+bteX5pEFZgWwO0yMyig8j1
+1TZO8FDfLOfM+N7Dqn2s7DHBBNBN+Ti17dhSUpXGPvY380TA5F3D7uBfVfCw8ZLy
+uvfTwTevSQU1D4jW/iCsGChLheE/EB+RBO1QQsv2EGnk2BGWZOGv35DmGfzb4Hvv
+p9sNJhtaIWbkKkvQCRk=
+-----END CERTIFICATE-----
+subject=CN = londonmakt.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5140 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

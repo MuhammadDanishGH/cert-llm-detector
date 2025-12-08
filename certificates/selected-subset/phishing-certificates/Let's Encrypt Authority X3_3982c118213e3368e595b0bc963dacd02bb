@@ -1,0 +1,95 @@
+https://agrovitaracoes.com.br/pub/red.htm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = agrovitaracoes.com.br
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGGzCCBQOgAwIBAgISA5gsEYIT4zaOWVsLyWPazQK7MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MDExMDEyNTVaFw0x
+OTEwMzAxMDEyNTVaMCAxHjAcBgNVBAMTFWFncm92aXRhcmFjb2VzLmNvbS5icjCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANFI9yELw0JgrH29UoQC5RsH
+3918RSu1TbYDoIVH5kpgLmGkdNyJ/z6KO6m1W2PgNKAAIa5zgoTGWtPPhnnrBYN9
+JFCT08THlK7e38C0box1DmvGK/sDZClN71F/3ql+TCsy15jVtpjkSQSqtJ/vtRe0
+BnmmrqtzkfM8uPmEzTrukPKjcYixtahLy6FBs74a7yWFWF81+b3pZrdDmPbXvQr2
+YCjIsw47OTqRddOYpGxxuf67lt02Ae0cP0ho4u8BpJp2rVIaaq4d8IktnCUQHBoV
+YqTYUmCMqPMzOOAUWIwD6Mzva6tE+Ct+bhZJlLUwk6SxJoY9IL/et7AIZqnYp1kC
+AwEAAaOCAyMwggMfMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU93W6HlFGuGKOleZX
+liPDXj8U81EwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYB
+BQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnLzCB2QYDVR0RBIHRMIHOghVhZ3Jvdml0YXJhY29lcy5jb20uYnKC
+ImF1dG9kaXNjb3Zlci5hZ3Jvdml0YXJhY29lcy5jb20uYnKCHGNwYW5lbC5hZ3Jv
+dml0YXJhY29lcy5jb20uYnKCGm1haWwuYWdyb3ZpdGFyYWNvZXMuY29tLmJygh13
+ZWJkaXNrLmFncm92aXRhcmFjb2VzLmNvbS5icoIdd2VibWFpbC5hZ3Jvdml0YXJh
+Y29lcy5jb20uYnKCGXd3dy5hZ3Jvdml0YXJhY29lcy5jb20uYnIwTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgDi
+aUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWxM4f8rAAAEAwBHMEUC
+IFfI4l8jKlkbd3WtvcNcB4OqPDvvZkzt2mdxbJk3N4X5AiEA1jccyN/DgalHo7iq
+QwA5LXu+aKJTrzxbn9dQntXoUn0AdQBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4
+scdoVEvYjQAAAWxM4f9KAAAEAwBGMEQCICduTangNd0Q4HcXzIjvbTrDLekwbfRZ
+CIZkaEYYuDMdAiB8lsUJ+wgAzgef8zWbItROfO9UJEEs2lAIYTmzFEJyDzANBgkq
+hkiG9w0BAQsFAAOCAQEAAlOT7vyqkezqUSyONSqze1SRyFRV1O/wxNgyB8whlynM
+kiG7PPJvOTb9MmvFG9/9QjTWX4WbJ/3rQK1MR1EKyclknDpygiohbpqmKpTASwis
+S6fAKoKHbUB2YD9Jr311GFlVFJkbRPVpWj2FyTaRYdkzJII+MP6qcryRli6hhNlR
+hKDLxGJwoOYsHP8u7PwICAkTMMUmihSGKiWCMfxfXKQTzixMj1NF5wanGM0vVh0s
+S8PoKBJye/bcSwnoEW/xP1O/JhigpA6PKrlWA1ALxnfUOq0KsOYPpYvZ4eQ82eCC
+sxnBbnhKEf043jgULHHBe8nXtOml3K8V6c8BI/TwoQ==
+-----END CERTIFICATE-----
+subject=CN = agrovitaracoes.com.br
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3450 bytes and written 459 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: F74387809DBF5C99A67A3CBE96F9D8A62AAC14C841448188D0AC9153E7CC37D3
+    Session-ID-ctx: 
+    Master-Key: 745EFD52626CFDE9AA7A92428098126AD7413A7792A5E41ED6F2B425E5A4AC6748C57E2E80340CC4317BA961BF300831
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - fa ef cc 3e 38 85 f8 b7-5f 89 69 16 a2 be 09 d2   ...>8..._.i.....
+    0010 - 6b 10 ab 03 f2 b5 2d 94-af 49 77 a5 78 3f ce 0b   k.....-..Iw.x?..
+    0020 - 86 06 38 07 ab 6b ca ff-65 e1 35 54 45 c9 8e c1   ..8..k..e.5TE...
+    0030 - 87 6a 55 70 ae 43 e9 ff-0a bb be 5e 35 95 a1 18   .jUp.C.....^5...
+    0040 - ea 83 e5 4f a4 c2 e3 fe-a7 91 c6 a2 50 15 7a 31   ...O........P.z1
+    0050 - 0c e9 69 f5 fd f2 65 db-05 d2 ec 9e 7e 50 22 6f   ..i...e.....~P"o
+    0060 - ed 3d c3 b9 93 ae 77 14-e3 15 20 73 8b d7 a7 68   .=....w... s...h
+    0070 - 3f 11 80 29 66 9d e1 ad-3e 9d 7c 16 3f e3 df f3   ?..)f...>.|.?...
+    0080 - 3d 0c 53 ad 53 7e 80 a7-99 04 00 fe af 04 26 59   =.S.S~........&Y
+    0090 - 8f ea 10 79 cd 00 18 b4-9f da a9 f2 32 54 f3 6a   ...y........2T.j
+    00a0 - 51 35 a1 fa 09 57 6e 08-bd 19 81 c9 38 8d 83 bc   Q5...Wn.....8...
+    00b0 - e7 0c 70 95 ec 7b 65 e8-a7 db b3 f3 c1 be 7c 9e   ..p..{e.......|.
+    00c0 - c9 f4 fc 68 f6 68 ee f1-e3 bd 4f ad 68 7f 46 57   ...h.h....O.h.FW
+
+    Start Time: 1566910826
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,72 @@
+https://irs.govaccess.payment911-safelink.com/?$3
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = webmail.payment911-safelink.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGeTCCBWGgAwIBAgISBDCnJ5a4Hr7+V5irJsG+EeDbMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDQxMDA0MzlaFw0yMjAzMDQxMDA0MzhaMCoxKDAmBgNVBAMT
+H3dlYm1haWwucGF5bWVudDkxMS1zYWZlbGluay5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDM7zuFuyvPSpmyNkXYpS2fnm41M5qOZwa5yt7o/nFM
+9HAcTZPdjqn+m2OWkO6zCg2hvswCFIFG7EcVXwPFv47e1GeT1PyT/K1JbgLkaymp
+9Uan/kEmq7fEwCYLDjZmkorvOYXYanc3LRxor7sU9uKn3Y5lmDeAkcvjzaOr7D4r
+ZjAzroJ/B1ijEmn28yrgaN/EwqmYYK6u2i82mPHkSTOC4M0vmi+CKkLBaKi1DL6o
+8uyhK5YU4sOlz0U9zTUsJlBoWabL73RcNqA9bAZg8xEMCNQAwrG6oEtCvDq49nd7
+9LWVHqeuQbl8Re7e6ArfwA4PMOI8qhPIaFp9/buUFpIdAgMBAAGjggOPMIIDizAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwG
+A1UdEwEB/wQCMAAwHQYDVR0OBBYEFLkoe9J2wZsD63SCEZsw+pa5dHliMB8GA1Ud
+IwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggr
+BgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRw
+Oi8vcjMuaS5sZW5jci5vcmcvMIIBXgYDVR0RBIIBVTCCAVGCHmNwYW5lbC5wYXlt
+ZW50OTExLXNhZmVsaW5rLmNvbYIjY3BjYWxlbmRhcnMucGF5bWVudDkxMS1zYWZl
+bGluay5jb22CImNwY29udGFjdHMucGF5bWVudDkxMS1zYWZlbGluay5jb22CJWly
+cy5nb3ZhY2Nlc3MucGF5bWVudDkxMS1zYWZlbGluay5jb22CHG1haWwucGF5bWVu
+dDkxMS1zYWZlbGluay5jb22CF3BheW1lbnQ5MTEtc2FmZWxpbmsuY29tgh93ZWJk
+aXNrLnBheW1lbnQ5MTEtc2FmZWxpbmsuY29tgh93ZWJtYWlsLnBheW1lbnQ5MTEt
+c2FmZWxpbmsuY29tgil3d3cuaXJzLmdvdmFjY2Vzcy5wYXltZW50OTExLXNhZmVs
+aW5rLmNvbYIbd3d3LnBheW1lbnQ5MTEtc2FmZWxpbmsuY29tMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYARqVV
+63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9hR4PKgAABAMARzBFAiBR
+jEhupCuPKQG8oHvJ5WNqx8L/DYz+V0opNSxiu7E6ZAIhAM097vSxyfntZLg7JJXB
+mwqd87wUgp4PAHNXqsKk1s22AHUA36Veq2iCTx9sre64X04+WurNohKkal6OOxLA
+IERcKnMAAAF9hR4Q9wAABAMARjBEAiBBlz4+rw9JK1Pwau0MnUAadftkFv/06Lac
+Mg09aXPEaQIgNbuBz3siwJ9xdtaFjuEGVVySGJ9v6kyT+aq8GEfQO0cwDQYJKoZI
+hvcNAQELBQADggEBAIMWFtfcPibX1G22JJcMIUymXB7CCTHLbni74L0SaySl9Ynh
+vokW/PfWXCY2eQmeZ5+MGl+8Pc4YNf8nnIqTqAPAz1FPO9MvOUzJMA0gBRX2aJlc
+X4F1P4vILUD8Ef5x0QsKwzzjULbkO1N5JDZbNIcYKqU3fl+hhcuKUtW9v6UkzDvc
+4KH/3WXUChGcnXFU3wEos2W/gXmjEf3iEp1VIBcZ8R6ypGkFT6pvhmnut/yXTrOf
+GAGfrbphxK0PSNWKlXGFVLtCCDr+YeOqO/juchS+W8YRkj+np6YJrxIpK/FBLkTO
+okNBpN9etegw40Xy2rQWu0KLeRwfd1hHTF8PhE8=
+-----END CERTIFICATE-----
+subject=CN = webmail.payment911-safelink.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4917 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

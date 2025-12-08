@@ -1,0 +1,98 @@
+https://www.crud-wastrel.com/swatch/koenigsberg/tableland/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = rimyswallowtailhull979.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGdzCCBV+gAwIBAgISA5o/NORBpRNS/sw0PtisoVZFMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MTYxNzMyNDlaFw0x
+OTEwMTQxNzMyNDlaMCUxIzAhBgNVBAMTGnJpbXlzd2FsbG93dGFpbGh1bGw5Nzku
+Y29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0CMOGoq4xDATb93h
+dkwYyrNgGJ7+TOoTYDcuJzHXNiEwohpwsXcUuT17va72AOfLBA3PgcKxg6KS9JP8
+XYKKJceEeHwvYAcbQhBz7ezfZVnNLFSfRKqgPzBo6V5l92GoiFSNUpOJAN6/l5ZX
+LRkS8fT9HlVOTHm1MccpzhIT/il0yiyyvUDIQN/cP1JPb9Z433MoUTDZw6nYi05X
+bJYq4iLlAvbZpX5ckkXfBVbXkxd/Ecn755SsT1b3IAN5hMsg9d0poAsdDQbc3z19
+BGs2tMxWhi6DzsJUquURwOXNgG42EfMTqnRcNfjchh5tVvZPtogBrXQocV0f2jQo
+GW+QywIDAQABo4IDejCCA3YwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRpN0uSLqjs
+QlFc35Qebs7x4QclZTAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBv
+BggrBgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5s
+ZXRzZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5s
+ZXRzZW5jcnlwdC5vcmcvMIIBLQYDVR0RBIIBJDCCASCCFWNvcm5lcnN0b25lLWNy
+b3NzLmNvbYISZGlhYm9saWNzb290aGUuY29tghpyaW15c3dhbGxvd3RhaWxodWxs
+OTc5LmNvbYIUd3d3LmNvbGxpbnMtcm9zcy5jb22CFHd3dy5jcnVkLXdhc3RyZWwu
+Y29tghp3d3cuaW50cm9kdWNlLWd1ZXJyZXJvLmNvbYIed3d3LmxvdXNlZGFuemln
+ZGlzdGluZ3Vpc2guY29tghV3d3cubWFkYW1mb3hnbG92ZS5jb22CHXd3dy5tYW5u
+a25hcHByZWltYnVyc2FibGUuY29tgiF3d3cucmlnaHQtbWlsbGVyLXBlcnJ5LWJ1
+c2hlbC5jb22CFnd3dy50aGlja2Vuc2FwaWVudC5jb20wTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwB0ftqDMa0z
+EJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWv8DwGXAAAEAwBIMEYCIQD42TLi
+7vvW8+zPEhJFdznzaAr81vBBhLVQ3qss/7cikQIhANn4G6OGTFxlh/gH3e14tNn/
+B9Ug0+Hj6Tfop/AQZ2ILAHYAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL
+2I0AAAFr/A7/owAABAMARzBFAiA+IYTC79RZXy5I5J6X4bdTwhivTrD9Y79qlnyQ
+0sFE4gIhALS8SFUeQ8jti4ihvwbbXH62NilKdw6esR8xdCaMDcutMA0GCSqGSIb3
+DQEBCwUAA4IBAQAT41ZwuP8OKEh4J4Mx2JYTD0G4tpnrFFejyfO4wLewbpT2XNS7
+Sj4P1wJglx8jZQpD5ifZZpU8fF6slx+FYmCWbigJMCSObSOA/KTyVbZbX/poNMGJ
+2kauxx8z1hI2QIWcAUKnZN9Jyfwl+p3fbUt+GLQ5qnOgLNlX9ZqY+5p9yqgmrM6I
+U1II1R41jQkhXus8QMgsJ7rMbTOVaJgO242lN44H1I3l9JGgTxQ1BhevH6hlUhrf
+V4WT1pWfk/Wq+O7VycL8Dc9xnf2IynD+uCuwUyHLAmMHL3SQzmfyvuYRxHM8AR4/
+2imGwBIoFH3gE95GvLg79kxpbL0ngwlW6HVb
+-----END CERTIFICATE-----
+subject=CN = rimyswallowtailhull979.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3521 bytes and written 417 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: E7C1685BEDFF348D16E6FC57981C1EDD9238D76756F20E9427EB7681DE82287E
+    Session-ID-ctx: 
+    Master-Key: 8C639534AF017D6EB113A8DA3B834E7C61407D22E0F1506C57B36C829023AC3D75199D1940BBF316B026A3FC548FB9B9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 58 ce a6 4f 43 31 0c e8-5b 3a e5 e1 75 e8 14 3d   X..OC1..[:..u..=
+    0010 - b8 ba 56 b5 19 01 cf 76-51 e9 85 b1 56 55 3e d9   ..V....vQ...VU>.
+    0020 - dc 07 00 21 d4 64 ac dc-ea 22 96 fc 92 63 4e fa   ...!.d..."...cN.
+    0030 - 13 44 b6 12 45 99 31 62-00 f3 c7 b6 10 1d 39 fd   .D..E.1b......9.
+    0040 - 50 ff 42 26 1d 5b 38 13-7a 32 d0 77 34 9b 22 a2   P.B&.[8.z2.w4.".
+    0050 - b8 50 8d 7c 15 5b ba 5f-7a 95 65 7e 31 75 70 a2   .P.|.[._z.e~1up.
+    0060 - 77 ad f1 08 2d 58 f2 15-f8 16 1d c3 a7 32 c5 d3   w...-X.......2..
+    0070 - 7f ec ef 7f 91 a2 a8 a5-c5 99 c9 eb 96 ed e2 a3   ................
+    0080 - e3 e6 96 4d a2 3f cd d0-b2 19 05 4a b5 5c 55 08   ...M.?.....J.\U.
+    0090 - 46 56 c5 55 d3 82 ec c0-f4 5e d1 84 48 05 65 6e   FV.U.....^..H.en
+    00a0 - db 87 94 ca 24 3a d5 e6-5f 8c cd c3 44 53 de aa   ....$:.._...DS..
+    00b0 - d8 1c 19 42 3a ab 39 c4-a5 68 e9 5a 91 10 37 6e   ...B:.9..h.Z..7n
+    00c0 - 81 cd b8 c0 d4 85 c0 f0-a5 27 fa 08 1a 32 c0 5d   .........'...2.]
+    00d0 - 49 3e c9 20 b3 0c 77 22-53 1f d3 fb 67 2d 66 8f   I>. ..w"S...g-f.
+
+    Start Time: 1563800426
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

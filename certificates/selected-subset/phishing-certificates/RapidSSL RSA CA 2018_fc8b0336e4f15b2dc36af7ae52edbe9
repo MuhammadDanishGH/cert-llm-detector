@@ -1,0 +1,72 @@
+http://maximasport.eu/bg/vhod
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.maximasport.eu
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = RapidSSL RSA CA 2018
+ 1 s:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = RapidSSL RSA CA 2018
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGwTCCBamgAwIBAgIQD8iwM25PFbLcNq965S7b6TANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRSYXBpZFNTTCBSU0EgQ0EgMjAxODAe
+Fw0yMDA3MTgwMDAwMDBaFw0yMTEwMTYxMjAwMDBaMB0xGzAZBgNVBAMTEnd3dy5t
+YXhpbWFzcG9ydC5ldTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAKH7
+oo3DvQFF3P4O1pBZJgLPmN+bpkHkNVBqpebz2g9rlkK2NpfjLvoWUyBYrwNtMGK8
+M/atAQX4YaKSuJAbYDIDBMz7qc3bSc9M5PmwhIzoV04/df4QFC+GWn/TKANiWjn8
+w7rrnzkMRfeScOYOaunFwBLaRFI8Gl+6jiT6Ps0bBjCTtVSSGt9xSG/IjHFG0cCR
+yX6h4aywTCkseJq1iuDTW6pR+huGL9+v63OeDh1qyifcE6Bpy59M2QyhR8NZvGtt
+bJNBM9BK3aGGl495gSWNhq0q7iZehUXyt+1YMRRntaXik9rgt5rGW1TZLfY+wBQS
+E9KHY553SkP32PEkONQP0EjUM5no/CwZenK6AtVXDaCtVXVOPORbPkqIgveeZZJ+
+oiuSfp5IC4uv08UtStt4PMntvpX+S15v8qUd89SKv3y2jUGiibzMt9CjpQUH0nM5
+E7a0yj4taasYbiQLG/3yaAnJKq2gloB22DLQaKRpmBFvTOWcPdXlJITOeii35qgu
+iB1VbIZ5GJg/fYAaII8E9dg18ttzB9yj5/3JkTd77iptHxtxiN4kPYdHL9+g/nlT
+WjYPgHBU8hXU6nqCZBfzar4gdJFiFUG9FMYWNZjUtAAg5px+tA7l8GiRxcGEBx8/
+nqOHFPnr/v8HhyPxoBfy7xj/dACs7xEprhKFIjP9AgMBAAGjggK6MIICtjAfBgNV
+HSMEGDAWgBRTyhdZ/GvAAyEvGq7kqqgcglbadTAdBgNVHQ4EFgQU2+XB7ZkODkQe
+hijIxFDpKVuf8ykwLQYDVR0RBCYwJIISd3d3Lm1heGltYXNwb3J0LmV1gg5tYXhp
+bWFzcG9ydC5ldTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jZHAucmFwaWRzc2wu
+Y29tL1JhcGlkU1NMUlNBQ0EyMDE4LmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwB
+AjAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgG
+BmeBDAECATB1BggrBgEFBQcBAQRpMGcwJgYIKwYBBQUHMAGGGmh0dHA6Ly9zdGF0
+dXMucmFwaWRzc2wuY29tMD0GCCsGAQUFBzAChjFodHRwOi8vY2FjZXJ0cy5yYXBp
+ZHNzbC5jb20vUmFwaWRTU0xSU0FDQTIwMTguY3J0MAkGA1UdEwQCMAAwggEEBgor
+BgEEAdZ5AgQCBIH1BIHyAPAAdwD2XJQv0XcwIhRUGAgwlFaO400TGTO/3wwvIAvM
+TvFk4wAAAXNiBQy3AAAEAwBIMEYCIQC9E9hBJvOEXVgCiWRvV8s4vKD86ZHGPWIk
+k/L7Y9rTKwIhAKIIZGzkL2Nfo1oBBCMJL8XaxcaxBZZDxeZgPGLzm+oRAHUAXNxD
+kv7mq0VEsV6a1FbmEDf71fpH3KFzlLJe5vbHDsoAAAFzYgUM5gAABAMARjBEAiAR
+0iXxrt27R3zXGTWQ0XvWdyPpLoM4IMJuPXlj0T/LugIgX9ZI3CwsOyvla/owVmI3
+JxPpvw51DnV3dLmlH8SLdTkwDQYJKoZIhvcNAQELBQADggEBAJoE0Wh3YAuOw1R4
+9hINxi7rzgTMBx2PbDuyFBBp8O6e0rczRG+At4qXIBQsu2ZmTcdQX0p1OrvzG9n+
+AuKiYn9G4PG8DJb1uu5l/fyZC2St7JEdKklCWlEvVVEeel8zJ0u/sQrQe4tDBBZm
+28aFfGE6hH/lXh9DogNqjA0bhFTvN3v/8gz83Y0mKYm9AyYbT/VXi5R3oM9Lon+y
+qWU8cUcRW5yUgvsMDFmNrOr9MyFrLWup+G6xKoTDR6XJL4ob41+s19QUSHos4y6E
+VxTPxZyG57kuU1AZmL/6ylgJEBm2IClelg4AkfMplDKhcHR0aGDhAI0fujKOcKnP
+lba/y/o=
+-----END CERTIFICATE-----
+subject=CN = www.maximasport.eu
+
+issuer=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = RapidSSL RSA CA 2018
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3759 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

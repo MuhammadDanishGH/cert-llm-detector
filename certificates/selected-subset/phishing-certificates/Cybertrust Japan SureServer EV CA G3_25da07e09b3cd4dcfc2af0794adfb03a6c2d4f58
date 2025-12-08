@@ -1,0 +1,78 @@
+https://www1.micard.co.jp/app/login?link=top&_ga=2.162722040.571581556.1640015159-288505638.1640015159
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:jurisdictionC = JP, serialNumber = 0111-01-001801, businessCategory = Private Organization, C = JP, ST = Tokyo, L = Chuo Ku, O = "MICARD CO., LTD.", OU = IS01, CN = www.micard.co.jp
+   i:C = JP, O = "Cybertrust Japan Co., Ltd.", CN = Cybertrust Japan SureServer EV CA G3
+ 1 s:C = JP, O = "Cybertrust Japan Co., Ltd.", CN = Cybertrust Japan SureServer EV CA G3
+   i:C = JP, O = "SECOM Trust Systems CO.,LTD.", OU = Security Communication RootCA2
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIH3TCCBsWgAwIBAgIUJdoH4Js81Nz8KvB5St+wOmwtT1gwDQYJKoZIhvcNAQEL
+BQAwYTELMAkGA1UEBhMCSlAxIzAhBgNVBAoTGkN5YmVydHJ1c3QgSmFwYW4gQ28u
+LCBMdGQuMS0wKwYDVQQDEyRDeWJlcnRydXN0IEphcGFuIFN1cmVTZXJ2ZXIgRVYg
+Q0EgRzMwHhcNMjEwNTE5MDM1ODQ5WhcNMjIwNjAxMTQ1OTAwWjCBwTETMBEGCysG
+AQQBgjc8AgEDEwJKUDEXMBUGA1UEBRMOMDExMS0wMS0wMDE4MDExHTAbBgNVBA8T
+FFByaXZhdGUgT3JnYW5pemF0aW9uMQswCQYDVQQGEwJKUDEOMAwGA1UECBMFVG9r
+eW8xEDAOBgNVBAcTB0NodW8gS3UxGTAXBgNVBAoTEE1JQ0FSRCBDTy4sIExURC4x
+DTALBgNVBAsTBElTMDExGTAXBgNVBAMTEHd3dy5taWNhcmQuY28uanAwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCwjh35Qmmi5AGwj7ETWl425YXWx49Z
+EWUbUgpnWKPi8FtfreDnyT8tstcuwLAPISeil/aLV4SrDwplp/lSWSzrOkY7fTdZ
+84PBOm6QX8XfwrfrZr//p/oejd0PBBCG4V2hkbplR+zK2DOur8IQA9Kd2a1lmPxS
+IdC8PgQqK7xnW8ZsX0reTIO2+8F0p9jQwVHj30Q0kbIlxAtvf6lbP9rgUqwU7/Pl
+LQP5xmrpWdUzZ37yAVZcBkytywZGAI/JINEUI2lEMSorqIOl+QqYwRIRu5aRpl5p
+JcmOQcHp2E2hJBx+el5kbu+wOqEqFJjozgpBRP7NsY1kTyUhPfpej9mBAgMBAAGj
+ggQqMIIEJjAMBgNVHRMBAf8EAjAAMHMGA1UdIARsMGowDAYKKoMIjJsbZIVRATAH
+BgVngQwBATBRBgkqgwiMmxEBFgEwRDBCBggrBgEFBQcCARY2aHR0cHM6Ly93d3cu
+Y3liZXJ0cnVzdC5uZS5qcC9zc2wvcmVwb3NpdG9yeS9pbmRleC5odG1sMIGLBggr
+BgEFBQcBAQR/MH0wNQYIKwYBBQUHMAGGKWh0dHA6Ly9ldm9jc3AuY3liZXJ0cnVz
+dC5uZS5qcC9PY3NwU2VydmVyMEQGCCsGAQUFBzAChjhodHRwOi8vY3JsLmN5YmVy
+dHJ1c3QubmUuanAvU3VyZVNlcnZlci9ldmNhZzMvZXZjYWczLmNydDBgBgNVHREE
+WTBXghB3d3cubWljYXJkLmNvLmpwggxtaWNhcmQuY28uanCCEXd3dzEubWljYXJk
+LmNvLmpwghBzdGcubWljYXJkLmNvLmpwghBwcmUubWljYXJkLmNvLmpwMA4GA1Ud
+DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHwYDVR0j
+BBgwFoAUgmx1XVP1RWm8JS2kTInmsrdBh6MwRgYDVR0fBD8wPTA7oDmgN4Y1aHR0
+cDovL2NybC5jeWJlcnRydXN0Lm5lLmpwL1N1cmVTZXJ2ZXIvZXZjYWczL2NkcC5j
+cmwwHQYDVR0OBBYEFBaMh7BnNSkDodDPRD6ghLOPjVl8MIIB+AYKKwYBBAHWeQIE
+AgSCAegEggHkAeIAdgApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAA
+AXmC2s8LAAAEAwBHMEUCICF24ve2IU1C30qb2p948/6lGqY90NNlJ5rHkI74stJV
+AiEAmTqvfcFL3VBg5rDPbxiH+QsNPI5+TiBq1FPGH7jJydoAdwBGpVXrdfqRIDC1
+oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXmC2tWiAAAEAwBIMEYCIQD12yoTDFEk
+cQ/ovb9q3+URqpyQiDPKXHbI8swzSeUHBgIhAO7fB2Y147i9YmtktxB38pQyNQrP
+s9PNGK7jRReyPqMnAHcAIkVFB1lVJFaWP6Ev8fdthuAjJmOtwEt/XcaDXG7iDwIA
+AAF5gtrY7wAABAMASDBGAiEAvdKun3kqtp6puv53MBpyFjs5RlFEeLS7SgW+tOjB
+hDYCIQCalT/Bg8tVsMYG4gpG8h73Scb+6qgMBlhaFSIXNrDC4wB2AN+lXqtogk8f
+bK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABeYLa3OUAAAQDAEcwRQIge6nkjwku
+R3GagZhgmcyCfBDzXD3A4u8Dvj4uwzfYImMCIQCcyFlT5DunDBQpjc6zsddrnTOL
+mbMEsr+sPsDXsIXRYjANBgkqhkiG9w0BAQsFAAOCAQEAnMAkbMtmETPG3rORs7t2
+u+jOBW/XDkL2dSv76AdFKniZCy7SjRrCdBVZjFvtJ7Ux+o/W+LcExZFQyIiWyR/l
+27eZEwfUKPSBBkbrNBrwficKuTj0GYYKXKG0WQ6/HkNspFrrdXJYQIxEPh3I7E5k
+P9iEamexfFqGC1QixpMxgbsYWz0oJ2ksoYXVV0Im4SOulCcTEt1SofoQC9phitEp
+5T1nqJbFj6j8rlWAybVMnaJdcxH2UIRHISmIola/dxIlymd4oU7fkhQSBCBPOg88
+EMON5Uff0OCzvxBnXqTmbLvMQB3FwIsW6wXv5wd9HwLhtIgQNK5OXYU5qRjY0MVm
+GQ==
+-----END CERTIFICATE-----
+subject=jurisdictionC = JP, serialNumber = 0111-01-001801, businessCategory = Private Organization, C = JP, ST = Tokyo, L = Chuo Ku, O = "MICARD CO., LTD.", OU = IS01, CN = www.micard.co.jp
+
+issuer=C = JP, O = "Cybertrust Japan Co., Ltd.", CN = Cybertrust Japan SureServer EV CA G3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3835 bytes and written 375 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

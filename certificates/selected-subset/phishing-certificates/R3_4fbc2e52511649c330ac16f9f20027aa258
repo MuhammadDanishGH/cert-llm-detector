@@ -1,0 +1,70 @@
+https://exploretravel.com/wp-content/dhl/dhl_topscript/cmd-login=e1cbb08316a704d8f3ba7f66dd385d49/content/login.php?email=info@deltapackind.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = volunteertravel.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGYDCCBUigAwIBAgISBPvC5SURZJwzCsFvnyACeqJYMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTMwMzQxMzFaFw0yMTEyMTIwMzQxMzBaMB4xHDAaBgNVBAMT
+E3ZvbHVudGVlcnRyYXZlbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCdM+zTMK72ncV2oj8N3fGGGOaDP4p9tfYn25QgZXFMAZR5ZwzUciBIEMQM
+FiLf+cJVYrfNEmXW9JyBESY897VuVhb/FLWn6oyyMd1Odc4xNCyfTkah/PiVGnkM
+DhwVOK/Cd4yXV1bNv5Mk/UofgOsVBlcujkhcvn81LCF5mE1ryftIstUH1W3HuJzz
+bGDERumss/lIz9ITO39H/KtsxX9n0doxXJN93qiPr/KqtfJL24dBXEN7mS7C7QW/
+rC9fU6MHVPhCjSnac8FYywHdHgQXZ9NFZX2EqgQIOP1REIPKkIlr9I1ySETmVzfn
+KkI4d4PF1fHzhmjpuxMTXE8yxQQ3AgMBAAGjggOCMIIDfjAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFPc3Lr66UgcNMGO8DccHk7h8VpxzMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMIIBTgYDVR0RBIIBRTCCAUGCDyouY29ybmVyZG9nLmNvbYIUKi5jb3Ju
+ZXJkb2dwcmVzcy5jb22CEyouZXhwbG9yZXRyYXZlbC5jb22CECouZmVhcmZ1bGRv
+Zy5jb22CFSoudm9sdW50ZWVydHJhdmVsLmNvbYIZKi52b2x1bnRlZXJ0cmF2ZWxp
+bmZvLmNvbYINY29ybmVyZG9nLmNvbYISY29ybmVyZG9ncHJlc3MuY29tghFleHBs
+b3JldHJhdmVsLmNvbYIOZmVhcmZ1bGRvZy5jb22CE3ZvbHVudGVlcnRyYXZlbC5j
+b22CF3ZvbHVudGVlcnRyYXZlbGluZm8uY29tgiR3d3cuY29ybmVyZG9ncHJlc3Mu
+ZXhwbG9yZXRyYXZlbC5jb22CJXd3dy52b2x1bnRlZXJ0cmF2ZWwuZXhwbG9yZXRy
+YXZlbC5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAm
+BggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEGBgorBgEE
+AdZ5AgQCBIH3BIH0APIAdwBc3EOS/uarRUSxXprUVuYQN/vV+kfcoXOUsl7m9scO
+ygAAAXvdddRDAAAEAwBIMEYCIQDVybcc5bPSUG39MkdXB/bGWg+Fldk8cGZlpqQb
+bBZMvgIhAJusneRhMhP6geG++Ew5n7cic2fQ5EFtEkRp479ahinoAHcAfT7y+I//
+iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF73XXUagAABAMASDBGAiEAxDGQ
+Etyxf1M1cdKocVXzByAolQRNsDSFZmtAgTW/zDcCIQCDsbfKqt70+drRzISlZjF0
+nD3Xn5jo0XhiMsLPrKCe4TANBgkqhkiG9w0BAQsFAAOCAQEAZ5pwLq2u9CQ87tFM
+sHxBJ2048qSIXK//VeFM8z0Tfg79TMcuOxCEpjfQQ9wmACuAuUKnJA4KzMdYqLln
+Lhk4ZfbY+1zuxiZ6VdymnjSU+OvEQsixCGEi6SHz/2MgdGE0fAFsdfuUYsZ+k9kW
+dgBcC+QXZ2qy07v56GGpAf5PAoabWnqDXtBHWEl9/b0oPE0GR1ATxGv6Pmv/4Dqd
+6PqboDyQZq26bXgsf4JESCMkCBznDtlERV2mbIGUz2cjD/VYnPDbndYV+cja5njL
+RYTBQd6Zq3Ew+V4ufBkI2IG1hbGJnyVL16J9HIeczMbxBJnVIh3Y7cr6QRf4cTOc
+dh/q4A==
+-----END CERTIFICATE-----
+subject=CN = volunteertravel.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3507 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

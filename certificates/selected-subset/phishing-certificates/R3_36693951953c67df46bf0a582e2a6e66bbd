@@ -1,0 +1,92 @@
+https://nl-spotify.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = nl-spotify.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFIjCCBAqgAwIBAgISA2aTlRlTxn30a/ClguKm5mu9MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTQxNTU5NTVaFw0yMTEyMTMxNTU5NTRaMBkxFzAVBgNVBAMT
+Dm5sLXNwb3RpZnkuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+xwji1ANVkOCqN1MJngjxvybV3z2UZzRtE9zv27iBpaeszh9PbZbAodIqAhgObid5
+rtaAzRQQhTZILznY1sp0MxDVtewWySrKnTUuHjZH4qe9JiR9v85dh5rHZMcFGJK+
+nsDpJxICx721MAJZTqjbaG2n4NNcFgtjupnw07qx5YRWfqbpFikPP/URajrDUCnv
+ByLqguzaLgvNKSfb1PJMsBefY+u18KrsTbER98YSXherT1fRJnh9OgrJAQzFQFrM
+IW9A0pUWOjf27f0aCMAcJogqTHakv/7WowB3jEsLx7YW6FDJHuIb73lDRR35CUVh
+lXa839AaLSfGlx+Qcc4mJwIDAQABo4ICSTCCAkUwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBTJIDLbYUCm9ILKljuQajEFN0uvbjAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzAZBgNVHREEEjAQgg5ubC1zcG90aWZ5LmNvbTBMBgNVHSAERTBDMAgGBmeBDAEC
+ATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNl
+bmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AESUZS6w7s6vxEAH
+2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABe+VANyEAAAQDAEcwRQIhAOBbkIUPS3kn
+5nQDHsyrK06YYU/2ED1K52lKUQiWDa0rAiBkdDCcf5OncGD3pyTSmAer/lN/7gCR
+V0SNot8cT42ZKwB2APZclC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTjAAAB
+e+VANwAAAAQDAEcwRQIgS3WFPeoUTQOU7KVnRO9KSiXfz4AKHBPTKf9nt8zZnUUC
+IQD1HTUImgx0Fh+1b6wRXZ9NP4nCuxOlEeDUejnW+KqJlTANBgkqhkiG9w0BAQsF
+AAOCAQEAeDv7pCGYC8+H1QCAIw65qsgLQulJTxCGdJTefhQ1pc8KsVOJEYeTTRYO
+p7v6CPpfcwHyYb3o5rLytiVn7ofdS7PyEQGo4TpkwAFW2XzQgOjrmUhciYK8IlS4
+9qdZITZi/IpS/wWj2y63Ri+5i639kahAbzNRuzUWfshbkpV6xwy+vt4VN9xgLIQ3
+QFiaqs0rsBa8tRRamV0SYO3CqTQRrZFYU2vmye4hwcmjWgI7cAQ4nxp8GRIJwdXl
+OJbFVU1khyk8XCOyOLn+s+87YoWZDrvp1B+wH1W4auaDaUBYL7c+ZjbGDc1eCbaM
+JinhTSs9zZ9rfLwzn5NF+5/jhAmX1Q==
+-----END CERTIFICATE-----
+subject=CN = nl-spotify.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4679 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: DED9D61759CC487EFE3578517425DBDF2350BCAB03A548985C151E6FFCFB4CE3
+    Session-ID-ctx: 
+    Master-Key: 32BAC03457B9ECEE3EF23E052F56AE30FB36F300E384A4CB2D310ED336CE8CBC1FE526DB16963CE5D3E0192917B87F8B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 85 46 f8 0b 49 0d e3 2c-cc 3f 54 57 cb b2 38 d7   .F..I..,.?TW..8.
+    0010 - de 5f 92 55 de a3 89 be-2b fc fa d0 1a 85 01 99   ._.U....+.......
+    0020 - 12 43 1e 5e b9 65 85 ad-db 6a 39 ed 30 52 f9 64   .C.^.e...j9.0R.d
+    0030 - 64 7c f0 e0 6e 72 c7 1d-2d a8 48 ce 67 e8 da 45   d|..nr..-.H.g..E
+    0040 - b2 db d4 46 d5 d5 3a 4c-09 df 7a 97 a4 74 2e 60   ...F..:L..z..t.`
+    0050 - 86 81 b6 b3 1a 18 5a bc-16 24 3d 43 d9 58 6f c8   ......Z..$=C.Xo.
+    0060 - 1b dd 4e 4f 15 68 b9 87-ef f0 68 de b1 48 37 1b   ..NO.h....h..H7.
+    0070 - ac 9d 27 01 a5 d9 1d b2-7e 22 2b 6b 35 ec a7 86   ..'.....~"+k5...
+    0080 - 92 2c 3a e7 7f 3b e2 5d-60 66 c3 59 59 db 0c f5   .,:..;.]`f.YY...
+    0090 - 71 03 2b bf cf 1a 20 0f-43 5a 66 f7 80 f6 e0 7a   q.+... .CZf....z
+    00a0 - 59 49 60 01 f7 1e 1a 12-d2 80 94 3f b0 39 8c 09   YI`........?.9..
+    00b0 - 9b a5 ad c2 9d 45 5c dd-a3 cd a3 1e 82 a2 da c8   .....E\.........
+    00c0 - 20 76 3b 1a f8 6b 97 2c-ca c5 c0 07 cf b4 25 38    v;..k.,......%8
+
+    Start Time: 1631880817
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

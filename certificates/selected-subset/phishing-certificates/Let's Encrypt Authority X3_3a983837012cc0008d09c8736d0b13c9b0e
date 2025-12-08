@@ -1,0 +1,91 @@
+https://cancelreqlink.com/AlTB0V35GalfredduughjReJGWD0g/?55bT9FbrFtj=amlhbl9jaGVuQGJjdC10ZWNoLmNvbQ==
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cancelreqlink.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFcTCCBFmgAwIBAgISA6mDg3ASzAAI0JyHNtCxPJsOMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMDQxNzM0MzNaFw0y
+MDAyMDIxNzM0MzNaMBwxGjAYBgNVBAMTEWNhbmNlbHJlcWxpbmsuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4UsXcajKjHZ4D2prbUvvVb/zshvR
+Y30Irjkm+I83ZwMTjDCbiApZXQxCrogorRPvm2Z2KX12/2+FjERS0/6M/ysZXQ8o
+O30tVRQBZlD/7wy7J9a+okyU69GtaYa7kqpogEqDaVw/HovqnTUgI2SFUNu9ygbY
+AFoZrnfEltllJsKzRGQ2xreb4JJSp4BO9Wrxae/nMyQ3eTrugSbXqzVar+3IDujC
+z4uEZtXntdyOV5zEwy5sfbpj2Xz0AIDP1Wkj+UHqaCilgtvjFcbhbX0QtlO1f42E
+tTk72I6b/YUV2Trhb3lfKrJgkLwCIgztC8CGiSc0ei1Bxp3A4+Vz2crXKQIDAQAB
+o4ICfTCCAnkwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTegjh+GXxrhOgY27pQluK0
+rdjZ0zAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMDMGA1UdEQQsMCqCEWNhbmNlbHJlcWxpbmsuY29tghV3d3cuY2FuY2Vs
+cmVxbGluay5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEw
+KDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgor
+BgEEAdZ5AgQCBIH1BIHyAPAAdwBep3P531bA57U2SH3QSeAyepGaDIShEhKEGHWW
+gXFFWAAAAW43snbnAAAEAwBIMEYCIQDiVQDQWhEyzUeCYut3I5LSJOaGNTKGxxTn
+xHz/pYsVbwIhALsKOCPuqXXCowCOCGjOsWZ6OjZu7h+VxDJ67KHY77EwAHUAsh4F
+zIuizYogTodm+Su5iiUgZ2va+nDnsklTLe+LkF4AAAFuN7J21gAABAMARjBEAiBY
+TOida+P0fL0S4+LAmiUqpmmpOIaGx8CL3jjlKWz0DwIgHMBslHE7qYlV6pSJmp4x
+it2MPw2OjSF+3LKWtXjqyzkwDQYJKoZIhvcNAQELBQADggEBAFJLpLhYGTsL7C22
+QrMkkYjVPOOFzapK2bBlACGZHnGpZ1xRoO6kqcxwLojHIix2Rsst9zslQpi4pakN
+5CtGnjMDuXeEvCXK9NN+Wxm56bZ0hJRDdmpjLZcOI/y5houL5KEEHb2a3RakyCB2
+ipW83op6BPIpGptKdh2r1ZCQy73tKP3wimuln5nN6qSD8QxX59hsNdROG5rlZPnH
+ZHoAP5tN5sBmwJX3I8l58t1FMmj+X4ygLMwQbkQ5xSD0tALyP0ntOM2r7Nii/Unj
+eNTALPHhUjmEWRjXcGbd6BLuSquOc7kjcypiveRD0Am0XW9LkZX5koxGJePLheBn
+oEXDIrA=
+-----END CERTIFICATE-----
+subject=CN = cancelreqlink.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3260 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 973B5FFA21C38C8F9365B80399DC8EAAB7CD5707C46CC70493E99FA2F963496D
+    Session-ID-ctx: 
+    Master-Key: 670CA8622A05F32CA2735056412F4EF095A4840D848BE1FA7DD8DB874075F20F7697EE8DC55851014DD753C467F9AA90
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 54 84 d2 5a 06 a3 7f a0-4f 00 d6 0e 76 9c ba 94   T..Z....O...v...
+    0010 - 92 2d 4a 5f 8f 09 f8 47-5b 61 38 2a 8f 67 b0 d3   .-J_...G[a8*.g..
+    0020 - d3 05 d1 e0 65 bb de c3-62 89 98 db da 9b ae cb   ....e...b.......
+    0030 - 86 4e b6 05 82 02 a6 ad-1d 87 12 9b a3 78 3f b6   .N...........x?.
+    0040 - d1 e0 6f ee 7c 0d e5 e9-50 23 7e 47 ed 15 8a 06   ..o.|...P#~G....
+    0050 - bf 76 10 6c 5a b3 b0 3b-59 c8 39 40 da b3 2f f8   .v.lZ..;Y.9@../.
+    0060 - 1b 96 b4 18 67 d9 1b c4-27 ec 0b 3d 29 69 35 56   ....g...'..=)i5V
+    0070 - ce 5c 2e d6 9b a2 4d 71-ef 92 de a6 0e 63 53 98   .\....Mq.....cS.
+    0080 - ad 5a 9d 4b 82 8b c7 da-de ae fe 0e 6c a5 07 ff   .Z.K........l...
+    0090 - 75 eb f2 5a 0c e7 e1 3e-0b 8b 17 c9 49 99 48 a8   u..Z...>....I.H.
+    00a0 - 11 3e 4d 5b 66 bd 56 2f-39 60 e8 53 09 57 be e1   .>M[f.V/9`.S.W..
+    00b0 - 8d 6b b0 92 06 b1 e3 52-f5 a3 87 c6 c5 53 8f 27   .k.....R.....S.'
+
+    Start Time: 1573135275
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

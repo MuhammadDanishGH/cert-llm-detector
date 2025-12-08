@@ -1,0 +1,89 @@
+https://myaccess-ur-apple.com/signin.html?InvitationUrl=095bfb785d5d5ebd1b54f700508d9814&KeyInvite=095bfb785d5d5ebd1b54f700508d9814
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = myaccess-ur-apple.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEmjCCA4KgAwIBAgISBEnonEAUrUxoueLu/lPqD6xGMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MDUwOTAzMjFaFw0yMTEwMDMwOTAzMjBaMCAxHjAcBgNVBAMT
+FW15YWNjZXNzLXVyLWFwcGxlLmNvbTB2MBAGByqGSM49AgEGBSuBBAAiA2IABNJj
+IdJT2xmonNJLyrhksS2OaEX6lY7dfLwcPXkWSSGUXs35RwFSOKOGBKmDCKMqtuMO
+T21d7IAE9OotF1YhtNPzTAt20H9Hyl+jKfSaKaaR3G8knm2oPH5ugm10hwtdp6OC
+AmgwggJkMA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQULB08bxtxy0qkB+jmnLmboNHj
+SegwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEE
+STBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUH
+MAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wOQYDVR0RBDIwMIIXKi5teWFjY2Vz
+cy11ci1hcHBsZS5jb22CFW15YWNjZXNzLXVyLWFwcGxlLmNvbTBMBgNVHSAERTBD
+MAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8v
+Y3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AESU
+ZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABenYfUnEAAAQDAEYwRAIg
+XUbxbcWBRxa1rDXyNuuybsB/UpJSiQ9ifK1SBWBa6HsCIFnSKCgdy4fNaL1+pyXg
+tVyrvWu91cuv7Vk2y81Y2PJ2AHYAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdo
+mX4i8NcAAAF6dh9SawAABAMARzBFAiEAziaWYEVxjpwCeXdw1+uOtsMf55s2/wN1
+/cxcvVp+4s4CIG4t5wB3GQkyrKbpsQl6bW/wd4hlhcxmvTsNMZbOH7VSMA0GCSqG
+SIb3DQEBCwUAA4IBAQCI0qyt72MVZtv5tzVoVB/OoqqmJTzv34+NZ8qfb/M2XfLB
+iRA3ujVZQlmlMhbOWWexfV0oo/nXaIyT5jQhBR+0tTRfGNUwza4gS+MWXHjh4mA7
+lWV2MOXTnlPHL7kOscOZyy7Fv24OTomUw0Mmn5WtkAD3qd3s6KW7O9YR2JOxMt4B
+WW7quRQDzFfPYR5Zyvpfmqfo8W+wO1ixpLvaeN/avIDsXEcB61paFv2Uy33ovyk5
+SrC+L+q9SVCiiQHGOwTCWJSp8E2lzQDgM87ZbhBqxhrt3mHWBm+xXPp7Wlmym2yC
+7uveaOVKrnDGb3OJs6HBcHr+PmVSuZGQYeeYXpop
+-----END CERTIFICATE-----
+subject=CN = myaccess-ur-apple.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: ECDSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4427 bytes and written 449 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+Server public key is 384 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
+    Session-ID: 597C4D6260203E32E447DE20753800B72B5B453769B3AAAB56AB8DB05EA2C422
+    Session-ID-ctx: 
+    Master-Key: 9FBB7101E9541691C9EF3DE9A91ABDBE3ECE40CA17854A7D56CF91B8A08FE287380284F6E00B95A7C2ED86B843E1957F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 26 33 66 10 55 73 b2 19-f7 b9 59 dd cd 7d 1e 10   &3f.Us....Y..}..
+    0010 - 0e 29 ef 98 83 b5 58 43-d5 71 a8 ff 9c 9b fe 0b   .)....XC.q......
+    0020 - c9 53 db 96 af 17 e8 5f-6c 81 2d 89 60 ec cb 6e   .S....._l.-.`..n
+    0030 - 63 b7 be 3f f2 f0 a9 6b-15 de 96 99 17 ea 67 93   c..?...k......g.
+    0040 - 39 ce fc f5 27 c2 fa f7-9c 15 79 76 1e f4 26 c7   9...'.....yv..&.
+    0050 - 73 30 58 7a c1 93 e8 f4-eb 56 ed b2 43 a5 da f3   s0Xz.....V..C...
+    0060 - ff d9 3e 94 a1 59 06 73-d3 dd e3 8e 4b 2c 86 79   ..>..Y.s....K,.y
+    0070 - ac 7e 9b ed 3a 9d d2 bd-50 72 9a 94 4d b8 a8 9d   .~..:...Pr..M...
+    0080 - 2a 40 24 ee 21 3b 92 c5-2b 08 91 d5 5b 45 27 ef   *@$.!;..+...[E'.
+    0090 - 54 29 85 f0 c7 4d 79 48-67 c9 09 26 1a be 65 4e   T)...MyHg..&..eN
+    00a0 - f2 37 71 fa a3 f2 3e 24-f4 64 6b 76 06 fc a4 0d   .7q...>$.dkv....
+    00b0 - 6b de 86 f6 a1 fb f6 c6-34 b1 e7 94 aa 4a eb f2   k.......4....J..
+    00c0 - 78 81 20 fd f6 cc 44 e9-7b 93 2d 3b 53 de 73 82   x. ...D.{.-;S.s.
+
+    Start Time: 1625604922
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,66 @@
+https://poczta-order.pl-id98699585.xyz
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = poczta-order.pl-id98699585.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFZzCCBE+gAwIBAgISA4C5+EX06cCsPV//EYAGtWShMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MTcxOTM3MjZaFw0yMTExMTUxOTM3MjRaMCkxJzAlBgNVBAMT
+HnBvY3p0YS1vcmRlci5wbC1pZDk4Njk5NTg1Lnh5ejCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBALRRtp2kPCCQv0cEoePFTJ4hLH26sLh9TvJoZbj/1KlN
+6kp1WoOjWnpjn2sm2FIAeyxKzXmFcfUSqYg6JWgC0FskEK8vLZDjtmgsvTgbHWIw
+jmhuLcusd1f7ctf8dkQrJwzPCYC1U8K6MQnPBb7mJr/wVSGHs9NIoTUmWMf5XJ5w
+LRmd0J5z2nYAeodFb0AbNMPRRCt176qUnkAeh7RC7DCmXHp6ZqKgS150rNIGhdzd
+sgz+HwD9ujrkejfUO7HIIIHMz2mohDVYYc3qmb+v+efPtqw789Met82AjKj4Gejj
+xrRKbSKTEMcvCcTXDJ0X7qAtayAEFHPCmwtf6U7lsy0CAwEAAaOCAn4wggJ6MA4G
+A1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYD
+VR0TAQH/BAIwADAdBgNVHQ4EFgQUSdfcaAn4H5ERhf2V9s2v2HWSGPMwHwYDVR0j
+BBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsG
+AQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6
+Ly9yMy5pLmxlbmNyLm9yZy8wTQYDVR0RBEYwRIIecG9jenRhLW9yZGVyLnBsLWlk
+OTg2OTk1ODUueHl6giJ3d3cucG9jenRhLW9yZGVyLnBsLWlkOTg2OTk1ODUueHl6
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB
+9gSB8wDxAHYAlCC8Ho7VjWyIcx+CiyIsDdHaTV5sT5Q9YdtOL1hNosIAAAF7VdVK
+6QAABAMARzBFAiBSFpFLIMTAw301Xc0K9ZMXvP7Abe9quaLWuBnL3Hz7xQIhAPg7
+9kp+m4eUIl+oV2R87lLMQKNDVg6R/UChtwRw5f16AHcAfT7y+I//iFVoJMLAyp5S
+iXkrxQ54CX8uapdomX4i8NcAAAF7VdVLEgAABAMASDBGAiEAjIKmedaL42yn422I
+IWzOrCX9omer/R7Ct9RLA+YvuyMCIQCgwKTqaOYdnRq5gXho9cLq6xjv2XHD9etb
+thPuYelIejANBgkqhkiG9w0BAQsFAAOCAQEAcxQ2DR3GgPGCC4wkTd/lmWzF/UgM
+laYZgb5bducaHrWL1Tzffsb4293CsVsq7z0vyUVHHxfhEpbHXfXiaDBzfjOvNMdR
+fjf8UbbTC9BXKQ4hyYQx2m8MWXqAfns3VJ0ARS1GeYB71G/98WCTLjQ6XmigwS5A
+I7bLoCeZ2ojiUJT9hzkmYLKbncMobRSOAtQM8Ql3Hvflc4vUahWv7EBhCDr4zVOy
+bLXx3YkdOA/rk6XOntnl/1KPdsAkDz9BFKORXQmZ9nGu+zDLxW8UTEts8sc9VTq+
+XhcpiCHM2k1TS8tBtzxGV6SR4hObzGaN2KpVgBlh7DoP3HQ7zh5gPn97ig==
+-----END CERTIFICATE-----
+subject=CN = poczta-order.pl-id98699585.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4627 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

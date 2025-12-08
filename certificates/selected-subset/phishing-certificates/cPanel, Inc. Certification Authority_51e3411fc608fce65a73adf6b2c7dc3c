@@ -1,0 +1,73 @@
+http://kentmererehab.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = kentmererehab.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGmTCCBYGgAwIBAgIQUeNBH8YI/OZac632ssfcPDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDYwNjAwMDAwMFoXDTIxMDkwNDIzNTk1
+OVowHDEaMBgGA1UEAxMRa2VudG1lcmVyZWhhYi5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDJVdzyBP9mQFhXZ2+QVn3R/CVN0iYysblrgrEVi4th
+doVP5Lhrcdftbc6lVotPMUx4V8m0B0ipmUGkaBbJZHEW58aIlgoTO2POF+3s+NTB
+JGDY6pqLsZEeurqKt9iluqoV4jSn1eeIaKTzEA6zilSf29xFFV79Q+iShNSe5Q3r
+uQisCmkJPxIQB0VAc8t5nZ4QihEvT1R74iSu2mDhyDyak45nbcZYci7+YP0qVpQp
+XKbUuvA1CoZo9Rvt777iHl16y613FYawxeyha5VYFf7e/Ku6352YnA0o5k4zS4IH
+r47vTNYLcdCUdujtMCNZJblgO4yrAKxsHwHScFZz0wZDAgMBAAGjggN/MIIDezAf
+BgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU0EVcb4fi
+WHENowDHM53cOXUXp/8wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGy
+MQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYG
+Z4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEB
+BHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVs
+SW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2AH0+
+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABed7gpJwAAAQDAEcwRQIh
+ALBT/XXGPzQNyeZ+55TneVEi08OvX5QeodPI2EwehLjAAiA20a+C47y6GpH/pnwr
+URI+oaYz6ouwICLM7v7YPDFkPQB3AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/T
+M5a1toGoAAABed7gpFgAAAQDAEgwRgIhAPHU3i4MomEAPAuqOooVZcoLiCTASfPd
+VymhnVLJ8Mv3AiEAjEiThTnOTGK+1fL6fgmQJKVt0dv/Ci8+F14lgh34l80wgdoG
+A1UdEQSB0jCBz4IRa2VudG1lcmVyZWhhYi5jb22CGGNwYW5lbC5rZW50bWVyZXJl
+aGFiLmNvbYIdY3BjYWxlbmRhcnMua2VudG1lcmVyZWhhYi5jb22CHGNwY29udGFj
+dHMua2VudG1lcmVyZWhhYi5jb22CFm1haWwua2VudG1lcmVyZWhhYi5jb22CGXdl
+YmRpc2sua2VudG1lcmVyZWhhYi5jb22CGXdlYm1haWwua2VudG1lcmVyZWhhYi5j
+b22CFXd3dy5rZW50bWVyZXJlaGFiLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAVLCi
+LILqUdwjPTACappz+DrA4qAyv8rGDQOKkDSDDZ2ZAoSnTQscNvVnz6yEVOa6WFXd
+olEag1NFByHAmGGdGw0VzpXnRt3qIlxiPBo7praCdO+MyxlVo+Zs9ojDcZnJ/4Q3
+sv4AFrwK13imIeiFadSWxiclVzPxq80cXUq/f5h/JFG7woH7eTL51AV7ZZGEx0Bh
+OCPGE6tVevMMiq4L3JlDByhElQHEDAzBN+aDYej3pc6AYqratfqUm0n0SHw9h+vc
+af9M+SqhhFhyXvAY5EshDc3JOtAwLsdwnkYuLTAhzM+57bRezMWzL/PG7+oK5RKp
+TR0IfVJtlfNd2gjjuw==
+-----END CERTIFICATE-----
+subject=CN = kentmererehab.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5198 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

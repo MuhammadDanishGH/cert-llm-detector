@@ -1,0 +1,65 @@
+http://myjcb23.co.pomble.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = pomble.top
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMDCCBBigAwIBAgISBEGL26gssE63TMl2ELFFnYCrMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTcxODMzMTJaFw0yMTEwMTUxODMzMTBaMBUxEzARBgNVBAMT
+CnBvbWJsZS50b3AwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDTxfjr
+0qR6bcmwoKqhUmb4awKDX+i76BXWz3YAh6iYgjVU5Nbj3o5Xfb23yZUxQsVVov1L
+jTGWQLwJWQviyV/VjK2e5d5VC1eD5Uakzr67GTbBjjPTuujpvgu2T2Aoxrvb1jck
+HTzniGwsjbvYKf3p4UenCzN1NgoWZX1G/zfm09PsYjC2QJhNQ8dvyf0H8iCx3iHY
+JUDalK0RM/mZOJ0Em50Jit0cWLjc7XDq0FV20LiNK9yUqa0yCqqTUqLSY2SQCXLF
+zo8PeawWGFthe75JOqaTu1TOGZo69zeOpIIz11Ztku0uA+GEY93QpbWSa+X/PHOq
+WCW9QkAXdToZ7oSvAgMBAAGjggJbMIICVzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FD/by62GHDoJXOHDjcs5Id0fn2zoMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYf
+r52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8u
+bGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMCwG
+A1UdEQQlMCOCFW15amNiMjMuY28ucG9tYmxlLnRvcIIKcG9tYmxlLnRvcDBMBgNV
+HSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpo
+dHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA
+7wB2AFzcQ5L+5qtFRLFemtRW5hA3+9X6R9yhc5SyXub2xw7KAAABerX1V20AAAQD
+AEcwRQIhANYbKUjcsCnbhat//vGvQycJD+r6wqatDrV58jr5o8J1AiB32YWp0QVV
+NfMWzJILcVCeeNE1oZvx6yHIXm61NvryQwB1APZclC/RdzAiFFQYCDCUVo7jTRMZ
+M7/fDC8gC8xO8WTjAAABerX1V1gAAAQDAEYwRAIgT+DfzGcXOoTCb/y75LlplQgq
+GIthRvH1nR6MzVzd6mgCIE8bwucvrjCLJsQaMbVi+XH18L8ZmzaxLGP326l9rI+v
+MA0GCSqGSIb3DQEBCwUAA4IBAQA9UQpPyM0w0ABC7hEmjWkduSG2ccNMoJXjkYzF
+pe4VPl5JapjiryQi+V1I6t3aHBLR1sACXSaE5JoutGfeVRkEjnTYV0aKcn8xMllo
+0bPmEWoxRYVtfAmz4A5SskNLV1+fWeFvAl9N/PslDoq7Pgb3vCrDzw49bx41PU6g
+t0F2zWbq6rqI3XibH4gVmHzWoXI+jQjM2GCpi+YFz6nJebi+eaeDU6vzuv8d40Ul
+O3WXVaLNa+PhRW0MJSEyX99Ffu0npaZ/VynpuT02zOK6Q9NqZZM+c8ofiMRV/Wg3
+xVFadsEAeeVFTPc9t26MO56zJpD3RQmyyGg8riB3T/CUzkDp
+-----END CERTIFICATE-----
+subject=CN = pomble.top
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4588 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,95 @@
+http://supermanwansafe.com/myaccount/billing.php?websrc=e17ea285ad581008aac6b89b49ab879e&amp;dispatched=78&amp;id=2109119631
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = supermanwansafe.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGCzCCBPOgAwIBAgISA5NQ8cJGK5jH+YTx1ColyvRiMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAxMTkwMDE5NTJaFw0x
+OTA0MTkwMDE5NTJaMB4xHDAaBgNVBAMTE3N1cGVybWFud2Fuc2FmZS5jb20wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDIGbj8jq2zgne2JwTb222ywn2e
+HLY6/yXEOA8U8XhJOZHXbypAykr16oEe0hnz9NDNju+OPTT7InGA/37x0D32c93a
+KqhVzeee3cTqTZ+kK2ej+cny6rdEH9MKCC5Re/ZpcBAsjw+PQrZD1jvcMVwQxZ9h
+UFV0H/tZuRsx+sMOHsYlYaamJWrfBKTBVBe9aM9z48YiXzET6NOrhV4Ca6wXjPKF
+2cSdvJnuD2jWS0Ns5ICU/lm8Wn/TRBGtEbEw54D1c3LtjraY76B7zDw6WUWUEGDj
+jGB0sWvccrn3QmVXyyeG5RMODwwuLw9ZH+pzxAa4fZIsNBwJK0gW4fP7h1xjAgMB
+AAGjggMVMIIDETAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFCrvhEcdif49a8HttDpH
+WDbMeT/2MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUF
+BwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZy8wgcsGA1UdEQSBwzCBwIIgYXV0b2Rpc2NvdmVyLnN1cGVybWFud2Fu
+c2FmZS5jb22CGmNwYW5lbC5zdXBlcm1hbndhbnNhZmUuY29tghhtYWlsLnN1cGVy
+bWFud2Fuc2FmZS5jb22CE3N1cGVybWFud2Fuc2FmZS5jb22CG3dlYmRpc2suc3Vw
+ZXJtYW53YW5zYWZlLmNvbYIbd2VibWFpbC5zdXBlcm1hbndhbnNhZmUuY29tghd3
+d3cuc3VwZXJtYW53YW5zYWZlLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AHR+2oMxrTMQkSGcziVPQnDC
+v/1eQiAIxjc1eeYQe8xWAAABaGOxVZoAAAQDAEcwRQIhAM0iWP5eYiWowl0A5J0R
+VAyYsg4X5WSAJykEc0RvMuXIAiAdbFDJd2knd9IRwVlmNTfU9CkmrV36OQCmjcwb
+pXC0dgB1ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABaGOxVfQA
+AAQDAEYwRAIgQR183bxa1nnakN42WyxeHofMbVtUWE+zbN93Ndhl3gUCIDM/KXm8
+x8CEjMLVSrmL6aRHZJVpLiiIktrq4S7K08GHMA0GCSqGSIb3DQEBCwUAA4IBAQBj
+BZCRUjP4VQLN/U5/ATjfAm3z/oX37YG5M+NrNv+0b1V4L7Zl7SYLHeHC86PTcbFa
+OxMAu/EhTiFRDl1loneXZO95uco18ireZNJWGoWvn4kPIdHab73lHjebjl1fpevY
+ixFvta7duHHbhHEiousk8GRwB16YwADbf5Dw4ZgRQe10iIbJvBTvp49vTjP8XIug
+IB4kU8ifT4vq7wRVMSccKRqgbXDo2XG7jFOS9WbUptj70ZDuYNnQ0HI5XsEo1CrN
+2elp+XDVx4N5BdWBUP/mOeIYTnChCs94QzhW6iWqsYeNtg3MQULNFcARaLlDl7e2
+5tEuLU3MqSntQguACch3
+-----END CERTIFICATE-----
+subject=CN = supermanwansafe.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3405 bytes and written 424 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: C14A32233B9BA08AD4FDE4E6E6FBCDAF2D8C7DECB44967E48EDBF59A91C1BBD4
+    Session-ID-ctx: 
+    Master-Key: 34FD2D422F82C170F2B30289F497DDF2709678AED485FB3DCCE77061A23CB74F0A57CF9100DAFCA7D038DF0EE016FA74
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 9a e5 3b b2 51 d6 11 69-92 40 b1 9f 1f 8d 78 79   ..;.Q..i.@....xy
+    0010 - 47 8d 03 fa 06 f7 52 b6-92 71 cf 39 ad fe 44 c2   G.....R..q.9..D.
+    0020 - 55 70 c0 46 c3 62 18 08-08 49 29 2f cd 3d 86 06   Up.F.b...I)/.=..
+    0030 - 3f 77 90 ad 03 83 02 6a-b3 8f c5 9c 12 a7 fd 2e   ?w.....j........
+    0040 - 90 3c 2d f9 24 39 39 4f-e8 83 d8 ae 18 78 71 8a   .<-.$99O.....xq.
+    0050 - fc 49 2c 9b d4 af b5 0f-06 a3 96 63 e9 d6 97 64   .I,........c...d
+    0060 - 85 b9 eb 3a 79 0d f9 a0-30 9e 37 61 32 79 3e 40   ...:y...0.7a2y>@
+    0070 - c6 59 65 f7 fe 1e fb 28-0b 83 3a c1 80 0f 5b db   .Ye....(..:...[.
+    0080 - 28 96 e3 06 a4 c1 9b 51-e7 65 d8 14 a0 64 b7 0d   (......Q.e...d..
+    0090 - 67 2d 71 82 49 df e8 50-64 4e a1 1f ff 98 e6 7f   g-q.I..PdN......
+    00a0 - 6c 38 cb ce 65 01 8e 04-cd 70 93 d0 2d 46 79 48   l8..e....p..-FyH
+    00b0 - 76 7b 67 7f 84 a2 18 4a-29 a6 24 ff 7b c5 1f d9   v{g....J).$.{...
+    00c0 - 1c 25 0a 68 58 4d 2d 07-bc ef 20 3b d5 da cf eb   .%.hXM-... ;....
+
+    Start Time: 1549548019
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

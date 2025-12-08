@@ -1,0 +1,74 @@
+https://www.3dscalpmicrosrilanka.com/auth/r/YCAZgCd
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = 3dscalpmicrosrilanka.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG2TCCBcGgAwIBAgIQGj4VjUKAtQKZpvLgp9FeYzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTExNTAwMDAwMFoXDTIyMDIxMzIzNTk1
+OVowIzEhMB8GA1UEAxMYM2RzY2FscG1pY3Jvc3JpbGFua2EuY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArP90qlvD9WJ12avXQnEgQJAZInDU7itg
+IgY1dvQOk7VclRO2cEv0GfzKadyv2IP+VbhGbvVP4vvH4U08y+7HybNHw0kx18oS
+Jt2KOvpaxj/T69+5f3wwSxLkZ/ZhP3sM9rmF9XtP0sfFsueFZC7njqYVl4iwpRyy
+hN8ziOqKbFrMYBsnZzsNN+KWbKQkPjixFXze7q01epAxOqZ/sXqXSbqlbBaI5/pO
+zIbPsSIliD84QhTQ8eRCw8PRvQ09zHPgZh+Up4T6iRr6OfZcoNRkwKEBfY/AjJ+v
+fpRuDUVqAYPH7ElNXZCHVHJ6PD1yXkDsnd1fiw8inp4hVPLdIEPHoQIDAQABo4ID
+uDCCA7QwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYE
+FDsJmcuXx3D64Q96SNpj/m0Ch/ymMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8E
+AjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQG
+CysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20v
+Q1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9k
+b2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9Bggr
+BgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzAB
+hhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0BIHx
+AO8AdQBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX0jclpcAAAE
+AwBGMEQCIFb0jCOe5ZKiDGxrtxaNzJ01KqJ01bOjp2KFZdf6FrzIAiAevhMhMZR7
+o5leZxJS5fH63rLPQr8kS0LCD6dLxhO18wB2AN+lXqtogk8fbK3uuF9OPlrqzaIS
+pGpejjsSwCBEXCpzAAABfSNyWhsAAAQDAEcwRQIgAgfJGiK4NWZZq7oIeDPsqTbR
+Ck+RgmlfK8jmW5GhknoCIQD7gyVIiOWpnREUo6C8kQfW1YVgfHpamzY99RN2hhgr
+CTCCARQGA1UdEQSCAQswggEHghgzZHNjYWxwbWljcm9zcmlsYW5rYS5jb22CH2Nw
+YW5lbC4zZHNjYWxwbWljcm9zcmlsYW5rYS5jb22CJGNwY2FsZW5kYXJzLjNkc2Nh
+bHBtaWNyb3NyaWxhbmthLmNvbYIjY3Bjb250YWN0cy4zZHNjYWxwbWljcm9zcmls
+YW5rYS5jb22CHW1haWwuM2RzY2FscG1pY3Jvc3JpbGFua2EuY29tgiB3ZWJkaXNr
+LjNkc2NhbHBtaWNyb3NyaWxhbmthLmNvbYIgd2VibWFpbC4zZHNjYWxwbWljcm9z
+cmlsYW5rYS5jb22CHHd3dy4zZHNjYWxwbWljcm9zcmlsYW5rYS5jb20wDQYJKoZI
+hvcNAQELBQADggEBAHmGHe2RtYqHJK2A0A8/n7fWFHwgEgwY3lCVB/dTouNxHqem
+qB3P3Jx7LRMgBiG7P8hFhco3BT4MieO4BAAzbabxNphJcwLdEDRtfU4xP517/5wm
+c+2036QWcNdFI2iqZopBzbtjnlRIOgQu4MylTqA9ZdmmO3/KPhWcF47vyVOH27iG
+91GnhDqKu6EPyYNSd8vkRm8GiUGv9n8MWBqkT3C6+gMo+/w/mUHy1yv4LPnOxcwj
+UmgIBJS7NhAj8/zu55eE28xRPxDJamtlj6q2Wtyfs4hONFJeOaNXn31Mka3f+EXt
+qflhmZIjPjmVt7+TMDkvlqP+yyltXH/QZq8yXg0=
+-----END CERTIFICATE-----
+subject=CN = 3dscalpmicrosrilanka.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5192 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,95 @@
+http://absarokaadventures.com/hub/bextcaps/bextcaps/EmailVerification.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = absarokaadventures.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGJDCCBQygAwIBAgISA/TVcfERDlGKi3u6utJaZi7hMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MzAxMDQwNTZaFw0x
+OTEyMjkxMDQwNTZaMCExHzAdBgNVBAMTFmFic2Fyb2thYWR2ZW50dXJlcy5jb20w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDiurtNOXA/zVJdXHy1x5P1
+xyx2EjPgUhi1OTXIjtm7Kdw1x6unyo9fD9u2qVvWrvLPdExsZWArL9txI3/wjDht
+hzH7A2+WIFvbCPW5rYqYqkP65UL8Zrb27TQ6g45rzM7Y8Yl4ERJuyg6/ZkLur7jo
+6wjVzh1RrnzEPuPXviRoiZGoe6JaWGgESjcWOJk4Se+YaHyhEjloBKid6Pyf+QfW
+is1RGwVOLTHljUy40hGzBtyHsbBgXgo98YKgiM+5wlFI394ZKw7hE84gTAbKW/uu
++EHGu06Ou8jKAXd83rdXbcsjU6ePENW/3PjyQzhhGJagLqScjN4Uz4DySoElYul/
+AgMBAAGjggMrMIIDJzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFDwvqjVqm/zs47y9
++iMkZ/DhHJbLMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsG
+AQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZy8wgeAGA1UdEQSB2DCB1YIWYWJzYXJva2FhZHZlbnR1cmVzLmNv
+bYIjYXV0b2Rpc2NvdmVyLmFic2Fyb2thYWR2ZW50dXJlcy5jb22CHWNwYW5lbC5h
+YnNhcm9rYWFkdmVudHVyZXMuY29tghttYWlsLmFic2Fyb2thYWR2ZW50dXJlcy5j
+b22CHndlYmRpc2suYWJzYXJva2FhZHZlbnR1cmVzLmNvbYIed2VibWFpbC5hYnNh
+cm9rYWFkdmVudHVyZXMuY29tghp3d3cuYWJzYXJva2FhZHZlbnR1cmVzLmNvbTBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB2AOJpS64m6OlACeiGG7Y7g9Q+5/50iPukjyiTAZ3d8dv+AAABbYH5NpIA
+AAQDAEcwRQIhAI0xIyTE9Fpsih9LOoXRatbG4iMZ2nv+txXE1HhTprEaAiBRVu/g
+OAWw/oVU7DAJLCfELsIgUKzTgyFacmgYjFR3jQB2ACk8UZZUyDlluqpQ/FgH1Ldv
+v1h6KXLcpMMM9OVFR/R4AAABbYH5OJ0AAAQDAEcwRQIgL1jkHQOso2slc2QW/Bdj
+aOCrwqvyTqbGGZ2g7TCmHz0CIQDPS9eQKJTNpV1obm0ZI5rB/5lDC5Ht0E5OEGR0
+zc4uTTANBgkqhkiG9w0BAQsFAAOCAQEAlYUHLXVzIgx1OncHBdP9b2KmrvqvOmao
+CWkRdlytlI/vs9ghZc8rGNmuR9dhsOhVBlESOw0R254KEvf3Oha9k4tpGCNrGzKU
+BU7SyI9ShCRaJ334MAjC8+lZd7o066rhy03c5+gA9UG3kQK5pCdiYUzxTD0ykAiW
+76dl0es2eiSLeO707tpwRwiX1q9vZIgK7cw72aH50/hChOcPAJGMmsNIjZ9s16TR
+rG/NuAa0sdC7QrHzFIUEkZHGv8Yr2N2DHzbaUuaBR5q7ezo/EFOy2UpC7iDl4rJJ
+6ucFUa2ud+Izhz2qOzyE/XUR+2gp98cjr+KAsrpLGPsUz8VbWwPk2A==
+-----END CERTIFICATE-----
+subject=CN = absarokaadventures.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3459 bytes and written 460 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 1AA8BDD247DD07332C038505EBA70074785EBC29C661DA4B16990D1177CB7153
+    Session-ID-ctx: 
+    Master-Key: 2FBFECF4CCB45294662CA0126C192A3291764CBCA35C3B3C4C63B59784086A306CD15CB6E29A2454375BB82EA42B3F88
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 7d 06 9a 05 cc 62 64 13-2e 9a 22 72 0e 21 51 36   }....bd..."r.!Q6
+    0010 - f4 b4 6e 64 bb 58 60 5b-3c 6b 44 d9 6b 56 2d 33   ..nd.X`[<kD.kV-3
+    0020 - b5 03 54 f4 9a 01 a7 e1-9c 84 4c 58 30 37 f8 f2   ..T.......LX07..
+    0030 - 72 f3 4f 36 b5 4b 3d 15-46 4c 52 e6 4e 20 51 a9   r.O6.K=.FLR.N Q.
+    0040 - 10 f3 30 5a bf 8a 39 0c-76 3f bc d9 d1 17 5b 0e   ..0Z..9.v?....[.
+    0050 - 04 c0 30 9c 06 6e b7 53-b2 bf 95 76 cc 0f 82 d8   ..0..n.S...v....
+    0060 - 8c 5e ba 76 62 29 95 bd-58 85 7f bb 14 26 fb 7c   .^.vb)..X....&.|
+    0070 - 4e 15 65 70 1e f9 30 f6-10 96 b0 d7 07 f6 a8 8b   N.ep..0.........
+    0080 - 36 78 b6 4b ed 28 07 29-81 5f 07 8d 41 ce 3c b5   6x.K.(.)._..A.<.
+    0090 - 19 96 b7 25 f5 a2 57 15-15 02 8e 33 0c 64 80 13   ...%..W....3.d..
+    00a0 - 23 d3 11 44 02 40 5b 3b-fa 59 c5 84 3e dd ce 66   #..D.@[;.Y..>..f
+    00b0 - c7 b7 68 e8 93 fa cc c7-9d f1 b8 27 82 6e 67 62   ..h........'.ngb
+    00c0 - 19 8a 44 c0 d5 c7 46 5a-02 b7 15 05 13 96 cb 65   ..D...FZ.......e
+
+    Start Time: 1570021228
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

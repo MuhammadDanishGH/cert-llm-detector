@@ -1,0 +1,93 @@
+https://whbrasil.org/cbtarpley/work/page/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = whbrasil.org
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFuDCCBKCgAwIBAgISA/tDt2g3nRyFJ89Jsea8BcbQMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MjcwODMyMTdaFw0x
+OTExMjUwODMyMTdaMBcxFTATBgNVBAMTDHdoYnJhc2lsLm9yZzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAKUUONsSeO8xJwEjfwRlMPMx2tJ6/mTk8Hq1
+D3shN59Wu/FghW1Yc+wom3p6eJALuCspCJl8n9dcqC9mUFkvfN5VJJ4Dt7snMdQQ
+3MvCLHF1e+9plcOusiTxEDh0q6FJypRju1RZc2dyB80ZZqYiEBnI7gIGejkAToa+
+jYiQEBcSfmgYGlqy+8OE+dv284VT7ggObtznvHgpxKE/fZVMgTV+vfJqTUjIYkmQ
+w77a4T4b022hPy3R5zr8Z7E1mapchos/P6zeDXXS8zAU0WK8EJvQBxQT0usI9NMi
+wFL9jo9Y9zmwHQzrx7iJLajVxVtv1SnmfajukD1m0cZVL5S0bsMCAwEAAaOCAskw
+ggLFMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUsuGS7ZkwOFm2Zao7wXk1OI4r8TUw
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzB9BgNVHREEdjB0ghNjcGFuZWwud2hicmFzaWwub3JnghFtYWlsLndoYnJhc2ls
+Lm9yZ4IUd2ViZGlzay53aGJyYXNpbC5vcmeCFHdlYm1haWwud2hicmFzaWwub3Jn
+ggx3aGJyYXNpbC5vcmeCEHd3dy53aGJyYXNpbC5vcmcwTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEGBgorBgEEAdZ5AgQCBIH3BIH0APIAdwDiaUuuJujp
+QAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWzSazakAAAEAwBIMEYCIQDHiWc+
+i/mxf1lhliCYub8Llocldgf8ns2qp0D6MjqZLgIhAIXYh7t6Ji+ROHfy1BRitWnF
+6igPJW/HycCZEoS5LCOsAHcAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL
+2I0AAAFs0ms2lQAABAMASDBGAiEA1to1KyyAxyXG4JY6zxZwpAUOJavTjUnwSB87
+TKhv2VMCIQCu63iEnXk0jYGzXVM/8CIP5NVyL1D1MIpgWubshGidTTANBgkqhkiG
+9w0BAQsFAAOCAQEAYOHiN73wgaKvM3f5z1Yxz9m6Ki8vIn4rJGlV7WQkY259MLBX
+DJvrGwXHPQbtCUsDv+eKVIvPjSvfrrKvWURjYsZZiBZH+Cg50JT4BsJaUHfnzSZy
+N4zqk2373JLfeaBUNn5A3TDtxYNZgdszzvDIL63qv1mVs1EIRxWp1NJtTObYbc77
+FSXhIgfOy1KA4iI7yMtbRj9zXPOsJ0NoQZfMxkxck/i+RHCp3IM9x9lBQDbXJGs8
+mlMeZPwql6vQ2R7SdCov6HhQon4AYZmynVzS4P1QKrHTsL2qI8CZGkHSR2ScfMkw
+aFHsu/MS7quhKKeOydFn+bogqA7jDvw5JsK3Tw==
+-----END CERTIFICATE-----
+subject=CN = whbrasil.org
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3351 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 536E2F1FB4166490187E76E4278B58906432BE35EAADE9595B82BCD2135FDD2A
+    Session-ID-ctx: 
+    Master-Key: 2435E768C5A8B5E6330A879F4338054783ED3A5FB92E388F62ECD580179E57736801A5D10DAC7D12FF39020002838CF9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 3c 8d 1f 9f 8a 09 5c 8b-c5 79 ab 6b 9c 0e e9 30   <.....\..y.k...0
+    0010 - 88 bd 9f 0a c0 79 f1 ce-c6 04 3f 61 94 dd 7d 0d   .....y....?a..}.
+    0020 - 14 f8 f3 70 a3 11 eb 61-7e d2 f7 4a 8e 21 25 50   ...p...a~..J.!%P
+    0030 - be 31 b9 cb 1a 5d 91 3a-fa df 80 65 f5 39 cf ec   .1...].:...e.9..
+    0040 - 30 af 7c bf 9f 46 26 eb-e3 24 80 32 a3 dc 63 3a   0.|..F&..$.2..c:
+    0050 - 20 ef 24 eb ab cb 5f 16-b9 15 4f 16 cf d6 3a f8    .$..._...O...:.
+    0060 - 5f 47 9a 7e 00 bb 82 8a-7d 48 18 47 55 22 19 13   _G.~....}H.GU"..
+    0070 - 23 01 93 7a a6 21 c8 c0-2d 01 49 26 af 38 8c 2a   #..z.!..-.I&.8.*
+    0080 - e5 76 3d df cd 77 96 56-5e 8e f8 f3 05 71 ff 4e   .v=..w.V^....q.N
+    0090 - 8e 89 28 d8 aa 82 80 3c-37 74 11 6d fb 61 1b be   ..(....<7t.m.a..
+    00a0 - a3 e2 08 f1 bc b1 3c 2c-e4 43 88 41 51 fc cb d6   ......<,.C.AQ...
+    00b0 - 26 b6 d0 7a c6 ff 4e 40-c3 45 1a a5 d7 66 57 8a   &..z..N@.E...fW.
+    00c0 - 2e 9f e5 55 61 7e e7 f2-b8 7a 5f 7b 08 8f b0 44   ...Ua~...z_{...D
+
+    Start Time: 1571403627
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

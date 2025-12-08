@@ -1,0 +1,74 @@
+https://fosnetsecuritycameras.com/googledoctello/moremoreandmore/verification.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = fosnetsecuritycameras.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG4jCCBcqgAwIBAgIQFDfZAR0xuoS6aeBe+AArDTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTIwMTAwMDAwMFoXDTIyMDMwMTIzNTk1
+OVowJDEiMCAGA1UEAxMZZm9zbmV0c2VjdXJpdHljYW1lcmFzLmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAMMEuV6h/nkJzQATAgkV74XBZXo04VHm
+ICG6QUKHpJTk2OSf1WwEGbqQkzQ1mlnQK005T/lawXdZol89Mv5DFcxxIm+dRvNn
+2l94VvM2+NbTazIe6I8R+lL5S0oLEWs6ic9jSLQqcO9dX3KGt0yYh3gB7k2UgykL
+M5tFA3I+5Ao39/KVCCnEWhJe+MPDDp2iJU2ftVtOWyB8Q/95LdLdAIWjUTSNFUFT
+5yZQlubLVvlDCynGGlrui0jfkbBuUrSkPZXdw4owv9l4JW1RlbRjjIGVDN4KIVg0
+jpejdI+i/Zu7vreXgpazFRq6uOCDrrgdhOazlkXvZKjSZolTnTOUPWsCAwEAAaOC
+A8AwggO8MB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQW
+BBQerRQ1sLjQzDsBnwo4LoaCUq0vFDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/
+BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0
+BgsrBgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29t
+L0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21v
+ZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYI
+KwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNv
+bS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcw
+AYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBAwYKKwYBBAHWeQIEAgSB9ASB
+8QDvAHUARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9dHqtDQAA
+BAMARjBEAiBN+TZ82HCT/+wzDvYIlCrKQjfH0QdKD+vMVXFJIDFsggIgV4H4Bi76
+9p3rcTiEi+b9J8WCk3z9PLFCRkfira8eRhcAdgBByMqx3yJGShDGoToJQodeTjGL
+GwPr60vHaPCQYpYG9gAAAX10eqzMAAAEAwBHMEUCIQCrmiapE7VRi7E7SlGhgtGB
+wvQTguyiO0d7lUAGDX0ozQIgHeOn/JiOt+DPhpz7bXpmetCNFgGdItxhEoDcUR3j
+9oAwggEcBgNVHREEggETMIIBD4IZZm9zbmV0c2VjdXJpdHljYW1lcmFzLmNvbYIg
+Y3BhbmVsLmZvc25ldHNlY3VyaXR5Y2FtZXJhcy5jb22CJWNwY2FsZW5kYXJzLmZv
+c25ldHNlY3VyaXR5Y2FtZXJhcy5jb22CJGNwY29udGFjdHMuZm9zbmV0c2VjdXJp
+dHljYW1lcmFzLmNvbYIebWFpbC5mb3NuZXRzZWN1cml0eWNhbWVyYXMuY29tgiF3
+ZWJkaXNrLmZvc25ldHNlY3VyaXR5Y2FtZXJhcy5jb22CIXdlYm1haWwuZm9zbmV0
+c2VjdXJpdHljYW1lcmFzLmNvbYIdd3d3LmZvc25ldHNlY3VyaXR5Y2FtZXJhcy5j
+b20wDQYJKoZIhvcNAQELBQADggEBAD+ghCsbMPJ+5x5mlvpT/axyOI9tc24yw28O
+ztUsJVBPWhNOYvfHEqywzQ66/yHARgSmU6MAfO3ErDqAmdC1PJ0DaMZAJ9QKADif
+L2W0so4xzxgJNsE8JiIBZ5THREC+4G4OS1z0BeFv+GJCuW/rMpPDmyZkWMDjObu/
+VppoKHO29tTvi0wrcj5q8dsH++q9KWxzogsbaExMbFAWSV2kRFGK2d8070jbkM3B
+jStCVpcCI96q6ibThrpbKbE5WATBf9uKNA4Uk4dTTPYf54/PgD/MIZHuwuL4MyCy
+prhlOjeRmUCJMrYLKK98qeMk1YZ3fsM0qVbG97UJCd7BCuVLXUk=
+-----END CERTIFICATE-----
+subject=CN = fosnetsecuritycameras.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5271 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,65 @@
+https://azmno.ip.jp.prsy.net/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = azmno.ip.jp.prsy.net
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLzCCBBegAwIBAgISAxqvUUZlKRzp1CoVZ2oFcDvBMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjQxNTA1NDhaFw0yMjAyMjIxNTA1NDdaMB8xHTAbBgNVBAMT
+FGF6bW5vLmlwLmpwLnByc3kubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAyWhs3/wEeGf9sUWZDkgeHNuw5lOh0thThxAeBGEhZdAal3+I6bgyz4gf
+E+EN954BUTwdlPeC27tzVVzdRDOnHUbEjSFu7CqWG1/es1iFQn954Idj5FbkXOfu
+8XIokpV7qfBZM1M/5tJjqv+Mn3dl3auHeq5Z8KJvW2WjDIUuY1hqF6dXok21ZxwJ
+ik7C0OgkXeL9ctYYWzqzTLcTZefnMbtJG6EqBvWWlz21mHV8huxsIScP2y8OUJOW
+QPljP3d28scGt7k6zmz8oJ8OS/9d+SikO3bcDAndUEp4kSiP3fjiFdwTrUQZ4eMa
+s5vP1PKC8SczOh3Myg3opMtG52uqPQIDAQABo4ICUDCCAkwwDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBSq9qEjEs3TtswICjDIHRV70tuLEDAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzAfBgNVHREEGDAWghRhem1uby5pcC5qcC5wcnN5Lm5ldDBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3
+AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfVKyLYYAAAQDAEgw
+RgIhAIjcRKTxNBJI6So0Ffd9ce7facWbVn6gSbU4jqnsKDQuAiEA2zUFxuozP4Ui
+4n7wlUjB4pDX6ddZJ0fC2PQ+qfWcetwAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLB
+ACkGjbIImjfZEwAAAX1Ssi59AAAEAwBHMEUCIFHCChps36cV+hkCdza12azjXGG9
+IebXl1zFo+whpoOfAiEArdQl9mWHQv1hPRJhR7SfS+7/e120fYyewrj1k+MWY5Uw
+DQYJKoZIhvcNAQELBQADggEBAKX6Ya6qmIHCR1fHmWLne/k9XFr1k0tK0xSRkS+G
+zXF83QGQQLMv+HemlnwsbxchYwBLS3Gimqliu9Ax76JV1Xm1K+xHxUQu2i6cfCjc
+V3dUr6La+CsghQUPYVMIlJXmOc2pFEU9h2RmjksH1yyxyN5pgoQeisgcIrFQaC2E
+4FH3Yymx2hbLwDXfoDXQFPgERkJBo3eFSaV8dgFCRGwTpwYGGwhCccg5jmW5Vk8k
+8p4z5nScRd8CrP0ke8EQCyk0b8lXu8GIyzCUKeDBq0FDMCb1GUppVUGIRtVMycFK
+iQ4jUs08/asq+D3foJH/iBddwU877hleZ5V+kLsMObK0mV0=
+-----END CERTIFICATE-----
+subject=CN = azmno.ip.jp.prsy.net
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4587 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

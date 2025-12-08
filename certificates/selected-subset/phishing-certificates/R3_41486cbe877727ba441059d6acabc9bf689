@@ -1,0 +1,95 @@
+https://bol.mercantilsantac.repl.co/acceso/pagina/general/Login.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mercantilsantac.repl.co
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTzCCBDegAwIBAgISBBSGy+h3cnukQQWdasq8m/aJMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTExMDU4MDBaFw0yMjA0MTExMDU3NTlaMCIxIDAeBgNVBAMT
+F21lcmNhbnRpbHNhbnRhYy5yZXBsLmNvMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAxyFM5dCXS9am327zkJl49itRPKhR7zUxG5RES34GRSbNTRdNHAsi
+MxXSY9h/yNIUX7iK9jU3ukiYSVYB5icY9S9gtn7DSwodorxngO50StqsN869cjzo
+MqrslCkW1yQeqMyjU4Z8Kq5AYA1qTRKq8fwq3MDP7/M3s2zU9hIubSWNo11oxzqN
+vXxSiFOPoP4l6VgwJUpPu37l7al84j8eWDhkRwzdeC10LvxxRGZeuwKivdjqsJnH
+lzBfN97rs3z6rPXSc0bMRvoGDn74TcC2xmoNsb0qWM2T3EVo8jykcg8/EOiui5sk
+RmCDNFwlNN/jc6P04fzvn2FyWHdN2qziQQIDAQABo4ICbTCCAmkwDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8E
+AjAAMB0GA1UdDgQWBBRj2lA3kSoC3OlnVJsLm7uBf6BGpDAfBgNVHSMEGDAWgBQU
+LrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGG
+FWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmku
+bGVuY3Iub3JnLzA9BgNVHREENjA0ghkqLm1lcmNhbnRpbHNhbnRhYy5yZXBsLmNv
+ghdtZXJjYW50aWxzYW50YWMucmVwbC5jbzBMBgNVHSAERTBDMAgGBmeBDAECATA3
+BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNy
+eXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AEHIyrHfIkZKEMahOglC
+h15OMYsbA+vrS8do8JBilgb2AAABfkkAjp4AAAQDAEcwRQIhAMidwU09qEk/7FA2
+UD2ORqR4damA5FzWpo70ZzYzi4ymAiAmOWtebG3M2SSmfmZisDfjrUoXsNX8JT/S
+Zp1qKWaUIQB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfkkA
+joYAAAQDAEcwRQIgG1NM5ZXZdyIj8bv7GuEDf7P7ad43DWmblYCLUbn9vdsCIQCj
+50QJsuqXC3UKUQ50FnOmYoW8uxA4Bc0wb41btG4BrjANBgkqhkiG9w0BAQsFAAOC
+AQEAZLMjTZCw1Jhsi/YN658FgtWHv3t6Z3nMl/21LrDiLsIM6P4y0IxyFWwUQATb
+fjn7Qar2jCBg2/QPC24claSE0JpK0X+2sBgQ7aA52xVGgk3kNtNiGBWH9pYXCz+T
+8SuZ1SG87JMXT1j/IuT1jWpgvwAbjw8hA46JvhsbIWm41L5IKWPPi8JKh+k937H+
+CAU5gNzxfZjUjs6B3vLw9Useb/JNHrOYHhMpdax7rsd/74LRWMhoMvDhlSJz/thD
+8mQTcDcC4eqAMCIbxiYh1pPYTd5iG1vjkpPPmXjFpH/uXTNk2814IXy0O9kHb1Ic
+OFOzLqweWmdTzu/7xssevSj8Ww==
+-----END CERTIFICATE-----
+subject=CN = mercantilsantac.repl.co
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4599 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 8B821723D9CDBF6DE042A649A7461199A52759E285C208414454624A34ADFD82
+    Session-ID-ctx: 
+    Resumption PSK: 2FBF597D5A525991CC4CCD3BC1B556E502912638D981C61624F0655797BFEF3F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - d3 ce 30 5e 13 c6 54 01-ee d9 43 49 86 af 71 56   ..0^..T...CI..qV
+    0010 - 55 30 40 d7 b9 ea 52 0f-f0 d9 4e 21 79 5c fb 08   U0@...R...N!y\..
+    0020 - 2c 36 db 41 d1 9f 79 44-d1 0e 58 09 b0 50 35 84   ,6.A..yD..X..P5.
+    0030 - 54 1e a8 64 df ae 24 a5-e8 2f ca 5b 61 d1 94 3a   T..d..$../.[a..:
+    0040 - 6b 0e 24 2f 25 e5 42 d3-30 ad 9f 54 44 71 bb 9d   k.$/%.B.0..TDq..
+    0050 - ee 30 98 5a 1d 9a a2 7b-15 dd 61 c3 99 1b b0 7c   .0.Z...{..a....|
+    0060 - 5a 44 d6 69 b3 34 04 c6-a7 67 e9 9a fa 3a 05 84   ZD.i.4...g...:..
+    0070 - 08                                                .
+
+    Start Time: 1641926030
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

@@ -1,0 +1,65 @@
+https://feastios.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.feastios.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNTCCBB2gAwIBAgISA84M89rve/EJGLlM2+5uQbCzMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMDEyMzA0NTlaFw0yMjA1MDIyMzA0NThaMBsxGTAXBgNVBAMT
+EHd3dy5mZWFzdGlvcy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQC0np6VTr/crZc1FEnIDHL0jpVYTc/qiClIMoHlA29LrtywU4Hyy093tMuXNtOV
+b4ncuBqGdf3Hl4KGVETtyLt/ZB14DxoXY1LCPt/VS32AsufncsSAimGcrHP60HCr
+GrEld+44xoFDLiHLk3HLNFzBcJpYj22A2Ty7lHbtl25Gf07KKndKk+XXiz4ExK+a
+Y8GHKUCk3BsVibbpXDa0PiSDh/OeV62xqii88V/C9rReHRX6a74M75aHfIuudl7q
+P9/+GU2uq7ac0RDw4zM5Ggud9jM6GGqY8TjsqeslPnDl3E2JNTT4BIyUSOrCOJBL
+3cU30B0gqTSv5eM7kyP44kuvAgMBAAGjggJaMIICVjAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFLgwf8ukwOYbZhrTtQbr+5veiZ0yMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMCkGA1UdEQQiMCCCDGZlYXN0aW9zLmNvbYIQd3d3LmZlYXN0aW9zLmNvbTBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYE
+gfMA8QB2AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABfre/r88A
+AAQDAEcwRQIhANw6+k1Dq29icGQUffe48I/yRnEVFo0I/8kfckCoJ7qwAiAeqefJ
+LYSjzOoXLb4j4XPsB/fEqV4gLvh8z7xGbOOHggB3ACl5vvCeOTkh8FZzn2Old+W+
+V32cYAr4+U1dJlwlXceEAAABfre/r8MAAAQDAEgwRgIhAIrcO8KU7doTOoqjSCwn
+kwt9jwmBM7ndosPuP0eStRA2AiEA753MnhseStJixOR5MQF6krDPEbS4LKrJ+hh4
+nrjb3jIwDQYJKoZIhvcNAQELBQADggEBADYbiVrzjpzTQvOUL8YQFcLTNyUteuxK
+XZhrfJPx7vo+M557sIQVSCqaN1ZGLTqRs0+FGakjYBQZTi005mrhLAMoDbbt/Wov
+7PzLmchaO1/zSVDmMMM+DHO3Ja2iJgFPFel9Qmr5ErwEpFan7OFGX2MamxKmJWEE
+cDjfRG/rnu2Fr7AJdnOZkIC7oUnLp1MrsQ4oAHHTGMzqjAJdeUUUSI3v16K9UpNS
+/qAoEzinU+idZCl7DBocZEwuU79ecDlj+CKE6x9QZxTdm4SCN3FWHDaTTPQe86/W
+K71RAQi7DJGl5w0Ghl9GN2JnqBjZP8qHPJLKyqBFsIassG0aq/8bKTw=
+-----END CERTIFICATE-----
+subject=CN = www.feastios.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4593 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

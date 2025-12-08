@@ -1,0 +1,65 @@
+https://ijmca.dlgcsvb.cn
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ijmca.dlgcsvb.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJjCCBA6gAwIBAgISA/2DGmPnW43s5VQr1jpmNTdvMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMDEwMzQ3MzFaFw0yMjA0MDEwMzQ3MzBaMBsxGTAXBgNVBAMT
+EGlqbWNhLmRsZ2NzdmIuY24wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQC+1xw/EkY2zXVYyArPAZ42opGxrZBethOSwKqtMpgGRexW7oailFCaoE+tqJrB
+i84ftC1E9WXc4LekCWNO02/W0oEkpJfy0Dvzh0DPj5zdnU6MPHUd/OMMOxTyaGpN
+CUVDnAaUZitOVZE4F4ZH8nbqtzrPAu5ztb2I94/kLbG92pFUhhtKdDt+9p80796T
+wZtd5WmZ1r+OfZeBhNj7d4JXQ3GsgP04EhRdDDXRnxBUmWQXSqBL3qgbky5FsTcU
+Ip+/5J5kKdyh7jwQMJDQYuHnmcsxs5fwzjKk+QHTh7rQBtrIuV9kBMijccW7WVTV
+kY/98vPOOc49T+GOAerPNy8bAgMBAAGjggJLMIICRzAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFBZW+BjtXCLsSNmlPWO2q2Y6BQfuMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMBsGA1UdEQQUMBKCEGlqbWNhLmRsZ2NzdmIuY24wTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdQBByMqx3yJG
+ShDGoToJQodeTjGLGwPr60vHaPCQYpYG9gAAAX4T9tgvAAAEAwBGMEQCIAWGkbZH
+qqrx+n0giEZqZq3Si9mYCvvkHwBg49gRMs+NAiBgtQEwA+EQHdLarXslPEOneVzY
+l7HtIwsAow/7Mr3tzwB3AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1H
+AAABfhP22DEAAAQDAEgwRgIhALmFLH559OmvZFwsQlrLm3C4IgQbyOAc5kZgM6JK
+moECAiEAvojH3mllxLWDh8zCzkvEPUPc73dIhZcVs2JvV71lZkswDQYJKoZIhvcN
+AQELBQADggEBAH6yRqiYGCW82rCZ6PuNbrecMJFb9B3JI0A4TCiaVazHw0nCejhU
+tGABLGKnjdgUUm7fA2bWWQ0I0jgsb6DUzzwy+rRDHtGdsbmKLpdil/agMVxZRFqp
+2Ig7fwlUYz+IZVC3XekttXYbIejUZAUTYCxv7GBpQfDrUham0XXqHDhgD4qEmu4x
+VwQBXH4QyFwajZHVkIKL65gktrKiP2qHpp10XPF1gr/ueDel0Y4eyVhfisdSIPUX
+kcOv24xSR9DSCewtDtbRVAAts0E448ooaDGOub36wCm35zJC8/zS5s2tDXwbY0f4
+vg9UADHR1MnRKDSvMokoj46WVk9kne8ba04=
+-----END CERTIFICATE-----
+subject=CN = ijmca.dlgcsvb.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4578 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,67 @@
+https://actualisatie-protocolomgeving.193-42-39-24.plesk.page/formulieropgave/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = actualisatie-protocolomgeving.193-42-39-24.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFbjCCBFagAwIBAgISA5R3fq2s1bkm+/LMg+HwgG7pMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMjQxNTA3NDlaFw0yMjA1MjUxNTA3NDhaMEAxPjA8BgNVBAMT
+NWFjdHVhbGlzYXRpZS1wcm90b2NvbG9tZ2V2aW5nLjE5My00Mi0zOS0yNC5wbGVz
+ay5wYWdlMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlvZIxBO/PTOI
+ooPVK0VyXogquEBIiZaRubsj/TBjpAut9Gfs2SABQKydwq4kdXQuEkvrM1fgDJXl
+CZybVga4b57XIwooEuilzX6fVfMjPqWXe/qEbSeZs6/PHoxxWTvES5kCjapa62c6
+4w7ThmxHrKl2KvufiXB7O13YxPEbkuZaA4iVng28nN0kpCN3ouQJDXOSM7FrtSf/
+rfJ8YydEmct01McUttFVmyUzrw+ZWSvKLnG3WtLcdtVczxNDk17WSfhjvdB4DN1/
+PC2nZFl7zheDpgc71da9yTOouXqsKbik75pJWAUGQ38eTIl6eoagSXFd05YM5FZX
+Og1OHv5uUQIDAQABo4ICbjCCAmowDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQG
+CCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTOElU9
+3ER6q0n39UI1uzgdun4xMzAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTC
+xjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNy
+Lm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzBABgNVHREE
+OTA3gjVhY3R1YWxpc2F0aWUtcHJvdG9jb2xvbWdldmluZy4xOTMtNDItMzktMjQu
+cGxlc2sucGFnZTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQIGCisG
+AQQB1nkCBAIEgfMEgfAA7gB1AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgia
+N9kTAAABfyx9FfwAAAQDAEYwRAIgEwfH1ePyMhQmmD32yJoyGWu1f/zZub+tuRSx
+SEqqSnUCIE37s0GzcmTwg4prfkG11GbvlN4WoNa8Gl23GhJTtrtQAHUARqVV63X6
+kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF/LH0V9wAABAMARjBEAiBDQZSC
+YEhguotmGbXsUIeM5IrQvQyej7CMNbMPj50nXQIgLz9+kMvQXOga/61L3n9L1wUq
+PkHRpvZPLgzhcEn5QmgwDQYJKoZIhvcNAQELBQADggEBAEx3C8GUmci9BIU1u+kI
+CA1WYSKRce/1OLWlDf6Le/ItSEpEdExlRSJ1HJUJgYYi0s2i4+z2f6XClBxPKtx5
+kh8futPR4zEYFzI+QqqEwS7CLD1z368qaVLn6bsHQmOhAEI++j2bCwIlcYVCq0ps
+IH63RVkWS8UacX+OQ9N30sk6NhQS7O9SpBpftXsumwm+0Gr8aUMgqC4SwrkrD6Z0
+IrBqPOBFvfVIIJ3kJGWfwolEcHsp0usXzbYHJNyQcmHLuoDpipXUtKzurlPS9B8Q
+GN1NXs4rBB1Z5iOYmCNnOL7hysaERdosDlMFkPXFGceS09MshOCqP3GF99AvYidt
+eHQ=
+-----END CERTIFICATE-----
+subject=CN = actualisatie-protocolomgeving.193-42-39-24.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4650 bytes and written 427 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

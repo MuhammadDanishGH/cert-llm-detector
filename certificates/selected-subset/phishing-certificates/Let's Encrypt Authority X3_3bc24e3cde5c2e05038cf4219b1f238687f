@@ -1,0 +1,97 @@
+http://www.akoladiesjeans.com/pmserv.htm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = akoladiesjeans.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGbzCCBVegAwIBAgISA7wk483lwuBQOM9CGbHyOGh/MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAyMTAwMTA0MTBaFw0x
+OTA1MTEwMTA0MTBaMB0xGzAZBgNVBAMTEmFrb2xhZGllc2plYW5zLmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALhLJ/UOE0vyKc8JL4WAIxYVrf2p
+i+v1f6EJICGBesS2MkG20xAIMznKXSdJib5+njf+S5ca6nOOGMcMR9FLTCwwBXKo
+OXHltkeTnEAVIuzj+SHG3llw90UJoIP0Jjkar2tik171C66eFuhVYswjvtOcKJco
+hj1SjX194qIGFVh7NDg4sE57Q5VDAPoiCM0VIOi7RFReqk8uKdb/Evq8vdu/YB2P
+prLi8i2A9VPM+xtnbj2Sl6WCLeOBLfaYhwFAWjP/4x5lpOppFwftcKL8MTpjYthi
+z70ko+z7hSNyTbpHGMem83JRqYtTI2GP9QeHeDDq9q+hkDUe6rKbMYxDsLUCAwEA
+AaOCA3owggN2MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU8L81Nx1xXy3NnANcKdT6
+IuHVpn4wHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzCCAS8GA1UdEQSCASYwggEigg1ha28tamVhbnMuY29tggxha29qZWFu
+cy5jb22CEmFrb2xhZGllc2plYW5zLmNvbYIfYXV0b2Rpc2NvdmVyLmFrb2xhZGll
+c2plYW5zLmNvbYIZY3BhbmVsLmFrb2xhZGllc2plYW5zLmNvbYISbWFpbC5ha28t
+amVhbnMuY29tghFtYWlsLmFrb2plYW5zLmNvbYIXbWFpbC5ha29sYWRpZXNqZWFu
+cy5jb22CGndlYmRpc2suYWtvbGFkaWVzamVhbnMuY29tghp3ZWJtYWlsLmFrb2xh
+ZGllc2plYW5zLmNvbYIRd3d3LmFrby1qZWFucy5jb22CEHd3dy5ha29qZWFucy5j
+b22CFnd3dy5ha29sYWRpZXNqZWFucy5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEw
+NwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5j
+cnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQDiaUuuJujpQAnohhu2
+O4PUPuf+dIj7pI8okwGd3fHb/gAAAWjVJc1uAAAEAwBGMEQCIFKVA6y5NaExigGy
+Y6iSNtmKPUclmAgapM7AOUFlEV65AiAsFy7nvEGDK4xEp5+f0CEqYdw4QxBFdiGs
+0rn6svwOrgB2ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABaNUl
+zW0AAAQDAEcwRQIhAK25uPHn2D2o7LZ1j+4ZvQ0WaHVjXegC5YioFGg1/hOwAiAt
+iLXmpOkl0nsa6wpC2dRm/eP9wBZAipofEpDts+6A4jANBgkqhkiG9w0BAQsFAAOC
+AQEAB1tiutWtvr4xkOsB+MleKNKwSsm0o+Z5Y4jUlo8qksWN6W7zpzdzR5zQBq6r
+lcapLNHwkYTZKRTRy8QykXTQvFZk3qyQEqLYUWMm9Yvqq13egY8EEeLyQoQauEOG
+f3im5/kkzakta36ywkdbPZSzkz7ouor5ajHMAjZMqBYOfrykyoyQPn+p5tZIokeV
+ZJATIXd17GazWhIkjqq5yy03rqR6eHgjgeg4di5mfdKtFIWLc9Gxe1n9t6Fubzpi
+eV/1xGg18g+DGHweMWoNLlLnhqHy4ms51dX+LfmsMVYftUnM9dRggGEqIcA5pOGV
+wo5iKQrNPq5zHzKdrQmMaXvezQ==
+-----END CERTIFICATE-----
+subject=CN = akoladiesjeans.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3505 bytes and written 427 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 7A83715D48DB30D7E6A92AFBC4B6BCC8BD77698CB1C063FA6D518750389896BD
+    Session-ID-ctx: 
+    Master-Key: D9BA5C855B049D2F09D69750235765023C3B7FB4F36EFEC88EACA6447FB59EDAAC770C8580AB267B4E41958090613103
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 7e c1 c2 f7 95 9e c1 d6-63 e3 16 11 e6 90 5c 75   ~.......c.....\u
+    0010 - ef c6 d6 6d 6d 09 3a f1-eb 6c 2a 50 49 d8 f2 4b   ...mm.:..l*PI..K
+    0020 - 71 c1 a9 fb 17 fa f2 1b-08 da e1 30 32 b8 11 da   q..........02...
+    0030 - 6b 5c 0b ec db cb d7 a3-3a 5e e9 ef 08 6c 7b 03   k\......:^...l{.
+    0040 - 46 30 fa dc 79 bd 3b 3c-16 0d ff 7a 5c 71 de 05   F0..y.;<...z\q..
+    0050 - 0a e0 40 bf 8a ac 44 37-fe 50 c2 c2 ca a5 24 18   ..@...D7.P....$.
+    0060 - d7 4d 23 1a eb a4 dd 3d-3e 28 52 60 3a d2 f9 fa   .M#....=>(R`:...
+    0070 - fd e0 17 67 db 18 b5 61-90 33 16 cf f8 bb 87 a0   ...g...a.3......
+    0080 - c2 22 f5 f7 59 37 65 4e-a1 e4 46 5b 9f b6 f2 85   ."..Y7eN..F[....
+    0090 - 73 fd 1c af 4f 95 7c c6-84 24 df df 6d 82 32 b1   s...O.|..$..m.2.
+    00a0 - 20 79 f6 26 b2 45 6a 00-28 36 81 27 a5 8d 2e f6    y.&.Ej.(6.'....
+    00b0 - e2 45 b0 34 ba 8e a7 a6-e3 76 59 66 f2 0c 7a 28   .E.4.....vYf..z(
+    00c0 - 0e 6c 77 7d b4 5b 06 48-d6 1b f8 6d 59 52 a8 18   .lw}.[.H...mYR..
+
+    Start Time: 1550498432
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

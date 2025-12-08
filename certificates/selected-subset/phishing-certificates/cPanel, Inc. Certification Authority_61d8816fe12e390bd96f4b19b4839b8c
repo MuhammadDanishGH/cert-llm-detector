@@ -1,0 +1,74 @@
+https://sashacorporationbd.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = sashacorporationbd.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGxTCCBa2gAwIBAgIQYdiBb+EuOQvZb0sZtIObjDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDgxNTAwMDAwMFoXDTIxMTExMzIzNTk1
+OVowITEfMB0GA1UEAxMWc2FzaGFjb3Jwb3JhdGlvbmJkLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBALtHL8mvyilo7b+z0thZf/Va1FmXWaDKA0D1
+uf7nzywSQo4XLzFWvWJhTZVMBdEs8HZcRb8zzWAFTTlYB/GYvbd+syD49D/EG44D
+U1RKyre+mhhNSlQBmh5fY/E2g77+4QHaSR1A6MiscgyW7KRQ42SonRpAcgx78OMh
+tMO24zcXIqqCUy3rawSKh//Gs5C/d8xdLC3ad/L1+LOrM4+AvhyzEARy93A7rh1E
+OiQfV0314NYG3y5iZ8VATt/dCl/L/6XuEWBTFXBb3rVCYIZUFIpNaSbtC2yncxks
+ElF8f0FzhyrtOBg78IiHje/R8Kp7tgbjZuH7Gdhyo+6TmjioLPMCAwEAAaOCA6Yw
+ggOiMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBR2
+2f01whURDIYyZQZTOzWk+Sz9VDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIw
+ADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0Bgsr
+BgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQ
+UzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYB
+BQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYY
+aHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDv
+AHUAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7R0AvfgAABAMA
+RjBEAh80HCdsFDREX7gphFbH6JSRNoy97P5ywSG5NQqnDCwSAiEAg5dwX9xdH8w+
+zRJb7fSN+j6XbcwpBkjf50rSCPJ/tosAdgBElGUusO7Or8RAB9io/ijA2uaCvtjL
+MbU/0zOWtbaBqAAAAXtHQC+UAAAEAwBHMEUCIHaCkrnIuC5NbbQtwV5UWPuFRtzy
+MlGFdTvkUFvcJd8tAiEA1YPD9v18mwPsxng/5eQGwHoQW3WKn1nbFK0tRQXaws8w
+ggECBgNVHREEgfowgfeCFnNhc2hhY29ycG9yYXRpb25iZC5jb22CHWNwYW5lbC5z
+YXNoYWNvcnBvcmF0aW9uYmQuY29tgiJjcGNhbGVuZGFycy5zYXNoYWNvcnBvcmF0
+aW9uYmQuY29tgiFjcGNvbnRhY3RzLnNhc2hhY29ycG9yYXRpb25iZC5jb22CG21h
+aWwuc2FzaGFjb3Jwb3JhdGlvbmJkLmNvbYIed2ViZGlzay5zYXNoYWNvcnBvcmF0
+aW9uYmQuY29tgh53ZWJtYWlsLnNhc2hhY29ycG9yYXRpb25iZC5jb22CGnd3dy5z
+YXNoYWNvcnBvcmF0aW9uYmQuY29tMA0GCSqGSIb3DQEBCwUAA4IBAQCHad6bn5SA
+GEGYMaZQ32/mvyqv1BtboSa38WsF9uS1DscYl/hCOA06ug1RE3LSeS1ztw98/m8V
+HxlQoYuvzooc+VZgPUU1345ENLd98c5OJa/6v1XhWH6Av4lgoTIzhYcOC8PRvQFC
+NTRbYdaHzo2UFvdJZxAQMAK/t3oodXCGbEz2RXPTkjTGc1ywFUxOWup7JH9aZdR3
+dyrWbMn5Q3/hK2lxlt/0H2mILeHBOppkj2wSEGRSB95mqSrPHVtSzgfB5FpPRouX
+s1RH0R6NwXAIaGj4NQlFDN7s1G8silPVwQcIV8GjyTLkV72Pe7KaUg27kbpM16UR
+np30N7oKrZ6d
+-----END CERTIFICATE-----
+subject=CN = sashacorporationbd.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5242 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

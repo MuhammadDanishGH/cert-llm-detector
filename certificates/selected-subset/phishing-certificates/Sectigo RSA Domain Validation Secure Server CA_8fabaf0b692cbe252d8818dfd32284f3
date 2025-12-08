@@ -1,0 +1,71 @@
+https://axieinfinity.gift/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.axieinfinity.gift
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGQzCCBSugAwIBAgIRAI+rrwtpLL4lLYgY39MihPMwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMTA4MjMwMDAwMDBaFw0yMjA4MjMyMzU5NTlaMB4xHDAaBgNVBAMMEyou
+YXhpZWluZmluaXR5LmdpZnQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCbR2IUMg2Qioy6PYSGz88QSFS4aMpz0A+TeiTu7YVr6jFiRSAjwQOQ+0Rq77Nq
+7ylkGiZthLasORZG46Kq+ZR2SHSuoswKpjdxxvofC82F5oYbtRQojCkkz0BuQT8T
+GZN+kXT2shcdyKxgV7DVwiqrzB4Mv1i3CDlzAZS5swoTVY+XF0x5QQgzBo6F7CYr
+MBAJ4DoiMFZtclTw6dR9DeJNydKf9YB5FSFkQafLRXS6q9l0zKmiGq3hd7UBvRWb
+wVpyAbuoTdSxgLPptufA0irkJFzoHtV/wPPHmvMs/HoNS5+bYBPouA3ccomJ4GFR
+/rfwFhkqrSdb1WEfKi1zZqcZAgMBAAGjggMIMIIDBDAfBgNVHSMEGDAWgBSNjF7E
+VK2K4Xfpm/mbBeG4AY1h4TAdBgNVHQ4EFgQUZQANkfU0zJl1mDy2vIa9ahR9SWQw
+DgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAjBggrBgEF
+BQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGEBggrBgEF
+BQcBAQR4MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2Vj
+dGlnb1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYB
+BQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMDEGA1UdEQQqMCiCEyouYXhp
+ZWluZmluaXR5LmdpZnSCEWF4aWVpbmZpbml0eS5naWZ0MIIBfgYKKwYBBAHWeQIE
+AgSCAW4EggFqAWgAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAA
+AXt0QWZiAAAEAwBHMEUCIQDSlbYppnGxYjN1BX/u/T1U2epdn6fb0Cz5iiQxCRn6
+6gIgc+vjOF0eOfuVLU7bdbDfiF46tposhSO0wbzImk4DCWcAdwBByMqx3yJGShDG
+oToJQodeTjGLGwPr60vHaPCQYpYG9gAAAXt0QWZ1AAAEAwBIMEYCIQCyHdQ1KIaE
+F3UuzSXZx4l5K60V8l5DrvZYw2D0OzRPXAIhAPLubEpOXQquYXtpawABkOoNsx6h
+DB18pMxs6brt7AnkAHUAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QA
+AAF7dEFmQgAABAMARjBEAiALRfpsUkKZ6UDuflobzNrOINi4PriXicwUxHyug5Uq
+5AIgPyrOaR56ZkuJXyDPv2iz659c46pdMVKZQpeGIVBh4qkwDQYJKoZIhvcNAQEL
+BQADggEBAHIjH5/f5xSTM1s4FU56lzOfx0Tu4t0F0Tty0rLwpI4vjsjzR7u0MvgL
+sPY92H4jnjNP7Nr1eCTGcwrkvRD+iOnzF1sC8qXtXOEvD00kYC0S2aymT6qt1fEO
+6MC0STnXuCw/AuyJeHdgXevtzPneF2gyscuIZbiA8ecEjlemgeYxYvH5Ua5HaIai
+zeEP9M/F2ggCxmj/6ffz4yBKjMp5x2pkGpKMbnbg2hVK5CqoSTNZ1kGLfry/Gl+k
+MNdvtCWpOrd6bG0rh5jR+vtATRFXWhrbaxHoBIbRz9yPNQhoxjIiOrkE2K8OPJUG
+ni4EX3bpd5H+e61ffiY/55RYA9tuXiw=
+-----END CERTIFICATE-----
+subject=CN = *.axieinfinity.gift
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5145 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

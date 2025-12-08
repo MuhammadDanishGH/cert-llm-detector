@@ -1,0 +1,94 @@
+https://waszewiadomosci11.pl/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = waszewiadomosci11.pl
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRzCCBC+gAwIBAgISA8rNH5XLBR6tm7SPXN5a0VpgMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTUxMzM4NDFaFw0yMjAyMTMxMzM4NDBaMB8xHTAbBgNVBAMT
+FHdhc3pld2lhZG9tb3NjaTExLnBsMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAwVX6xgO33/pGFuap6KeMzcMlxWRySj7/KguYiY2OYAv/Kh7ZAfFXpRwM
+Rktk74ZNVGNCk86J/iHR9QoBB3ogc2AsgqrFmJKeUZsXK5YUxqjhe2k5VQuuJKJQ
+9683VkQ3yyQmi6r1Fkh5TWhDwncG/5u1jT1osGDR84CC3L5V+HSlVkVAfW6LHGpN
+x0MvE4sUp2S9N4CKHEMFV+tLgl8kRUVJk37El91e29rmPwsaP3UUK6U9oG52zpFL
+Q8YgOkAxb66Sx/Q/0oFauUNcEC2e/zluj7BiuGdpO0SGGayL7zxjETR2ZUAm6bC5
+jsY7CJf3ak9A2zsCd89qHGyrp6av7QIDAQABo4ICaDCCAmQwDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBShnEBnJJyETXP0n6Hzc0c+7SifmjAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzA3BgNVHREEMDAughYqLndhc3pld2lhZG9tb3NjaTExLnBsghR3YXN6
+ZXdpYWRvbW9zY2kxMS5wbDBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLf
+EwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCC
+AQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2AN+lXqtogk8fbK3uuF9OPlrqzaISpGpe
+jjsSwCBEXCpzAAABfSQJMGcAAAQDAEcwRQIgfr04vt+7Hw3sDEJjGMHEskaN4wob
+dzGA+F10w8kirMQCIQDfzimo3c4k9Onm8sanp0vZD3fVDTAwP/Ll/VYt2zFJZgB3
+AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfSQJMJAAAAQDAEgw
+RgIhAOCwdiR8Pa6m15hsUXcGoX/lNJla3nQjVQ+lTkDX6lX4AiEA37M1wq3WDPCa
+k/56bO5kRZv0aHBS2/2W8FdQDwPA8EAwDQYJKoZIhvcNAQELBQADggEBACQHh905
+4AHLYlUTi6/s09e+WZNyuuEm75S/D7eE1cpvvfVQpciS0eWjnisOuK0BS7+6wT5+
+8NMlOlvoGP6TUjwEzMi/TUFo/q3XDA08derkP6hSdbc/gBOa0I2mpHfA8Ul04GUZ
+SW0gRZUKTJoqsdbOKwIp5e0IUPxbn8+a1M84J12yPIxFVdNugNqApUsS380W0zQk
+7D1VCCFkzBHU+4jM60I06+8XrWlNlXNCv/XuTIxqQJEXpDI2QWK6xL2b+3FZ3Lu4
+mq9HmM7KIINFKqXyaln2qsvB5UnqkYGtojIWJ/Cp+8aKr8PlFBC20IDcA5inu4Vh
+oeP2P/jQaH0EPUg=
+-----END CERTIFICATE-----
+subject=CN = waszewiadomosci11.pl
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4740 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 50786CFDDFC5DAC303C9A840CEC46D7CFD14FEDABA763AC9F3A6747453D29D3C
+    Session-ID-ctx: 
+    Master-Key: 186CC72D6B58C86C173E9D495688C769ED415DA4C943B2AB6E121541705CD056443645F27DA068266608C8609C671AD5
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 57 ba 0c c6 ce 7a 84 cf-4a a6 b4 1b 00 4c a9 4d   W....z..J....L.M
+    0010 - 50 2c 46 54 23 ba 94 c5-bf 50 ce 34 56 6a 9a 33   P,FT#....P.4Vj.3
+    0020 - de 7b d2 c1 31 6a 37 37-27 5d 4e d4 3c c0 4d ed   .{..1j77']N.<.M.
+    0030 - b0 7d 73 5e 64 42 71 09-6a 83 7e ee d0 35 6b 0b   .}s^dBq.j.~..5k.
+    0040 - 49 e7 98 3e 54 23 ba 0e-6d 9f e2 ff 9b f0 be 33   I..>T#..m......3
+    0050 - 1b 69 0b 80 51 f4 8f cf-77 4e 17 2a ed 1f d8 29   .i..Q...wN.*...)
+    0060 - ec 63 24 9d 0b ab 3f 96-89 88 5a 2d 71 d6 89 a7   .c$...?...Z-q...
+    0070 - cf 85 1e d0 2f 3b bf 2f-d2 ab 75 89 97 11 a8 d7   ..../;./..u.....
+    0080 - 74 1a 6f cc 3b ee 97 18-41 40 dc 07 76 da b6 ed   t.o.;...A@..v...
+    0090 - b1 23 00 60 d3 b2 cf 6c-67 ac 40 47 ee 8c 70 6f   .#.`...lg.@G..po
+    00a0 - ba 2c 1c 4a f0 09 14 c6-a1 0a 24 6b 29 b5 67 33   .,.J......$k).g3
+    00b0 - 4a 19 9f e5 38 29 d1 49-93 ac 6d f3 cd 50 e6 57   J...8).I..m..P.W
+    00c0 - 76 c0 e2 92 5d d9 e4 31-c3 62 b7 2c 0d 53 ab fc   v...]..1.b.,.S..
+    00d0 - e6 e3 bd 74 06 8e 09 9f-3c 89 c1 85 d9 f7 0a d4   ...t....<.......
+
+    Start Time: 1637066439
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

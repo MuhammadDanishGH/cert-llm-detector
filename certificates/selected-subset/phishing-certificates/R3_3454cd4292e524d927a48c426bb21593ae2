@@ -1,0 +1,65 @@
+https://dlscordsteam.com/airdrop
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = dlscordsteam.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJTCCBA2gAwIBAgISA0VM1CkuUk2SekjEJrshWTriMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MjYxODQ5MjdaFw0yMTEyMjUxODQ5MjZaMBsxGTAXBgNVBAMT
+EGRsc2NvcmRzdGVhbS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDNJOFksuXYJ+2e01wARLWpeaufH0ZhXCE+cWtK3CzAqkvRYgO6xYAh56EvnL+M
+HdAwezWzTafkVuGGtt7c+5adKsDNhrGA2MmuEuHyvDIKU6q/DQZdr8kWlI3q3rH4
+kkZBDPZE13nnDB5lvtcaDw+PuYLZ4K9g7i1l+vc1FezX10dJy0uRR4x9nyCdPMof
+ZmKzcZ3+rdQP/WNhcH41CC12ZW4anR1KEvmWThfu1FkFXjADO01bJBmliVM3CYOZ
+kx5SGSPfqibA14m4Tvwks9OgaSCM5tzN9JyFT2l16iPSuufM8+xh9hOmI0z+DtQf
+k9mBwEtwj8W1UgOV2tU3quYRAgMBAAGjggJKMIICRjAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFL9/5/Rm8scSYqkV4LClBjHOOXLSMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMBsGA1UdEQQUMBKCEGRsc2NvcmRzdGVhbS5jb20wTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQBc3EOS/uar
+RUSxXprUVuYQN/vV+kfcoXOUsl7m9scOygAAAXwjp7w/AAAEAwBGMEQCID4TPwSM
+gOP7VmZb1ebYKCttfu8C/cD2ypkxi94Aa79OAiAFJSALDqQmzcc1pBC/9l+aBEPZ
+/B96Lo0zzYEAB/Rf+AB2APZclC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTj
+AAABfCOnvDYAAAQDAEcwRQIgKEWbzbtkQrvmihtrayQvYIC9Hf2D7+3oN1IoDsTZ
+tJICIQDujGxZv5MlbHCfbmgVlkhwSgbbqlFncX3hvZWuTzKZuTANBgkqhkiG9w0B
+AQsFAAOCAQEANHrKqYfSa0QWNIKOQjRkKm7ofZbEE6m2bq8j6udLF+E1s7zLfbMs
+64pTIY6DkhAZFQBUYLeqFAQUApUeNJxIoNanJzSmk1n7dg7vaKPwocEkseVQEdp1
+EALSbrY02VrIcX1K/NfdahtEhfJCaeM6G33e8Gj/6Cn86ntSiQOG8GZ5tag70mfn
+zfGJrMDuD8pHO/dCojHfjbQL0DX5pMBroxsqdy3oO8ZUO4Tdn6zmfHJBA4t7Hsaq
+6xVLb3pKw6PcoY3zXIo3qF1ylGR8fxB8iPeTjDMUmkfswPfa0U1Emg5fufS7oIXM
+owF5OzUCtWukzFq8DMa34fAxZmpS/39QJg==
+-----END CERTIFICATE-----
+subject=CN = dlscordsteam.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4577 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

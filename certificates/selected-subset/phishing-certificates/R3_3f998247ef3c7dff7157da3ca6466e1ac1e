@@ -1,0 +1,65 @@
+https://uc-card.com.lkjtl.cn
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = uc-card.com.lkjtl.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLTCCBBWgAwIBAgISA/mYJH7zx9/3FX2jymRm4aweMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MDkxMTM0NTVaFw0yMTExMDcxMTM0NTNaMB8xHTAbBgNVBAMT
+FHVjLWNhcmQuY29tLmxranRsLmNuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAvCFwodoZ2iPHBYb5wVAM7Akt69dYEw14EU9EHcIdhs2fgcVMA0ul5WnR
+gwiGRFfoY3jSAWqOKB7xcv6/ILx0G9lNg03L8qiPx/SbL+c3T/IAwlESIC83JyQf
+JNzXx35/iTdsDOEJ34Qgb04Sg5d/v8Hl2vuKX3jL4ifg7C7bq5QTy5OJLJSNq86c
+ptPfsRoBLwpzFM3TOavW06b8l+XLg1AE46sU0yJ2aFHm+RfNDsM6ZEAQUa/iAfiH
+eHMftWroStsrmoouchDoe1dq+EHkPo1ypksEykmWVNTmIKSQQtYiOqNmrbFYZnld
+coxBFAWQZUERUDuZhEWYiGjtIZcOywIDAQABo4ICTjCCAkowDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBTrhb7lJo+hM6zAWEE36BjS2q7cBDAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzAfBgNVHREEGDAWghR1Yy1jYXJkLmNvbS5sa2p0bC5jbjBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2
+AJQgvB6O1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABeyroqPkAAAQDAEcw
+RQIgMPRKA6iMKHWv9BCtmdWnpsBsRa/bc2HRQ4Il4cV9KCMCIQDjXriCFJjVbyab
+UtX1C4FycXpMY5gULpOpErb9TY/CPgB1AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/
+LmqXaJl+IvDXAAABeyroqbYAAAQDAEYwRAIgXXf9x3K4BNN/Abup2/Y7x/ZMDGdj
+6LGa0rNAc7DqKYoCIHvjqQN7MZ/i0+PSUdM6Vq7RuwsZ3MzaQtZ38jf3Nn2xMA0G
+CSqGSIb3DQEBCwUAA4IBAQBYG8Dwbztbz+qITcUuQrjjRMkprtpSI2y7rS7MrAPD
+HtM/8ZXRrs9YSVw+pSIOTS6WZduaTP5vZRmO+OhbdTbnR5IrSOp2ipvmPLAff6/w
+73HfUXa0oZ2Sw/njZmB1Gu4pXX4o5XFj0KhEOQT7MnTJOAKUa0ZJRz6yo/cJYpr6
+297oRG/X6dq+E2vpaXEAWgAH7gIAk1IzZVXs0YJ1+gSxNo05T4Owg0fX6J/if5OQ
+3ggfgt8QpEmBa+o9onW1F6dktesEVgcmQpMuRtR9iJ15sYkNwuE1cd46Sy1Hb13g
+G8VYqDE0ComoQVQe6qDfH2nCf5UFmwQu5TKgnXFWPYji
+-----END CERTIFICATE-----
+subject=CN = uc-card.com.lkjtl.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4585 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

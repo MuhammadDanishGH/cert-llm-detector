@@ -1,0 +1,70 @@
+http://www.moonton-giveaway.vxc.se.ke/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = moonton-giveaway.vxc.se.ke
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGCzCCBPOgAwIBAgIQTldqpC7d1CbyNnK4wfZtgjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDkxNjAwMDAwMFoXDTIxMTIxNTIzNTk1
+OVowJTEjMCEGA1UEAxMabW9vbnRvbi1naXZlYXdheS52eGMuc2Uua2UwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDTTJlX61ykuv4FXo3xdiOyB++AOSXK
+p+Zrc4zv6tPSlb2+T8bVBBRDzwGQjHrh5g/u1wTI7Jz9Z5icebAZH5W/OFdbtgRU
+flkkPsmtDU+4+PIb9AEN1MZ4e5F1DhBKaZsrned5j3eQ3Ek4SACYUdP6p0MBZ3G2
+ggJ2/TU9EZDE+myCPV57AZ9+dWETXQj/apoq1VadJUSc5uGwaPdGXIPLc0EoPLLA
+/AWCRhX01vga8MP1/5L30UYYG2oWm2ePdLbbfiTPn7XSrqs+zySrUwmHrFCNGwEx
+9t6qxVslDlLglAciuDlKMALNzM3kvfiutVeI3x9jWsYtT6Yf5oCqpxdlAgMBAAGj
+ggLoMIIC5DAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4E
+FgQUpnzvuobFKzl7Bpp2FivN0fs0IrYwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB
+/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAw
+NAYLKwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNv
+bS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29t
+b2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0G
+CCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5j
+b20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB2AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABe+5RHw0A
+AAQDAEcwRQIhAOhRNr4FjERaFiQd/j7jISoXG7NujprbqWybSIFmCPbPAiA+KKK4
+Llk2kvBZNe97aefwNkKVDNMbKBcplqH0Z7GYqgB2AESUZS6w7s6vxEAH2Kj+KMDa
+5oK+2MsxtT/TM5a1toGoAAABe+5RHxMAAAQDAEcwRQIhAJoT8+UAg/h8q5AGAwrW
++H3uKhHMo+AlrG1dHU1sxEtHAiAEWdWlhhTNa/idfdWopZBDb67OGHLfHKMu7pYf
+uCskjjBFBgNVHREEPjA8ghptb29udG9uLWdpdmVhd2F5LnZ4Yy5zZS5rZYIed3d3
+Lm1vb250b24tZ2l2ZWF3YXkudnhjLnNlLmtlMA0GCSqGSIb3DQEBCwUAA4IBAQBO
+aolY0MgWIqTsDJiASUwc7/UL5BnetNqd7bCImB0Y7OnZUzMPW/EzW76romWGGzyN
+TpQqM7Eo7Uljh875oZUBLBUIENAHRUARva8GjXkBEFH+rdcFTmzlt66GH69Om0px
+N3geqdmTSEFuqLDWqqIqoQH4054QdWnHR9lxCc2d5FoFnx3I2rLIqfsmb0F/mb4p
+aj1bZ/A7qpRugMJxtZYngQO2sEagwe5OvjZiGtR10xm/Y59NSBOT5RIqp2LpxVoi
+WB3xuwfWrVNJtNRKj/io6gsb+thRsvlwiGzYIWxsu9fr+iGd33VqEVhmk1sGVeP4
+/a8l8m8nP/e9HEMob8qa
+-----END CERTIFICATE-----
+subject=CN = moonton-giveaway.vxc.se.ke
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5056 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

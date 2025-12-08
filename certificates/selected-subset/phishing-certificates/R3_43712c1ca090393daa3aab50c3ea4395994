@@ -1,0 +1,69 @@
+https://treechop.co.za/dhl/a1b2c3/0c4ca6357bf5fc7058f2ddd2d9678f75/start/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = treechop.co.za
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF6jCCBNKgAwIBAgISBDcSwcoJA5Pao6q1DD6kOVmUMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MDUxOTE5MjRaFw0yMTExMDMxOTE5MjJaMBkxFzAVBgNVBAMT
+DnRyZWVjaG9wLmNvLnphMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+27ZGUJyel5ZmJ6H2DbZKAy6AKwcS9DrZHmfyFAAK0nRXrhz4Rz6cP7mFI/1TGOYt
+INrLMTsefiTjzPc06jwDPbrLDyj5mrRvQmB2C/qBbch88/7vhWrdTfN0N81FYthn
+J1d2SV6AzDe6emDVzRIp2VxZS2EwO+VorFH0gGWmzwOOrUsUGBf9ZphS8a+IqHnm
+4yd9gg5aq/LZl+YFginRcjBMbqJ352V3LzWZ0rNPZueVAXeuv8bE5PWD2X0erFIW
+Rb6IHVaiNQArGqaEokJy8R3Zw34lyXKpoUjFZ/08nRwHZjzEeAgmysrS+tgHU+Ww
+Z5BxiSjYgVAWMOXkXWChCQIDAQABo4IDETCCAw0wDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBQSvOLFC2DssWxMm9HIH9trYoCSqDAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzCB3wYDVR0RBIHXMIHUghthdXRvZGlzY292ZXIudHJlZWNob3AuY28uemGCFWNw
+YW5lbC50cmVlY2hvcC5jby56YYIaY3BjYWxlbmRhcnMudHJlZWNob3AuY28uemGC
+GWNwY29udGFjdHMudHJlZWNob3AuY28uemGCE21haWwudHJlZWNob3AuY28uemGC
+DnRyZWVjaG9wLmNvLnphghZ3ZWJkaXNrLnRyZWVjaG9wLmNvLnphghZ3ZWJtYWls
+LnRyZWVjaG9wLmNvLnphghJ3d3cudHJlZWNob3AuY28uemEwTAYDVR0gBEUwQzAI
+BgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nw
+cy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgBElGUu
+sO7Or8RAB9io/ijA2uaCvtjLMbU/0zOWtbaBqAAAAXsX+He0AAAEAwBHMEUCIQDO
+Pwo/fLEpwa1WvKb8ntUMrOH28woGHyVrx+nQw7b4PgIgIXe15g9wVgRn9AktMgwP
+2hvXzaCf7Wo1KZVUPOR1rQsAdwD2XJQv0XcwIhRUGAgwlFaO400TGTO/3wwvIAvM
+TvFk4wAAAXsX+HeTAAAEAwBIMEYCIQDI8qKiUmSt2P11HKOJafGQxCzpeS9nm2nJ
+c0k+B9vWlAIhAOLs1wQA+kG8frfasSE4C5rlJWuWQfJRhAl2zffC4yPZMA0GCSqG
+SIb3DQEBCwUAA4IBAQBzPWTJ3voR3x1CN2IFWFSTzOxQrH81pfOnTSJ03D/69zMK
+46KfuNFux+JfIpMEjm4lNDq6K2oJGiFb5Jgmfp8GV8RUrDBaTaiwzJkOKIsFAkCx
+03WOetZE5CeollsQqZ7+ob81p4vx/4NBUJIBlTDesN7ZmroKJtM2sIrweNQZNcoU
++iy9rmqydce8VNwTD52HqO9RdIsPEDwsuv+M0g47UGL0urQ6uF+Cc2WhqNaTjEj2
+kcBTiQMXoaRLnCfzENBX4tZKyx+HEpqJb6X8FiGcaMa0FT/tG2ffFy7n7MSSs115
+XCdq688mE5Olazmlk7ElxTIUJAZugN/8NMqpx0dR
+-----END CERTIFICATE-----
+subject=CN = treechop.co.za
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4688 bytes and written 380 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_CHACHA20_POLY1305_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

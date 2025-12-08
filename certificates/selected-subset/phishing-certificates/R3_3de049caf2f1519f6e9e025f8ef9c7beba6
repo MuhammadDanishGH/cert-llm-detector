@@ -1,0 +1,66 @@
+http://docmartensingapore.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = docmartensingapore.top
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTTCCBDWgAwIBAgISA94EnK8vFRn26eAl+O+ce+umMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MjMxMjAxMDdaFw0yMTEwMjExMjAxMDVaMCExHzAdBgNVBAMT
+FmRvY21hcnRlbnNpbmdhcG9yZS50b3AwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDkambIu352pHY7+bgLWzYEwYs5/zes76esT179XPVT6o/M491rmVBW
+o1pVDXvl9/uPfIm5YkJeS5oQG/YA7HiX+HnhTg4w6MBbaI0zkhbsUnhs8v1aGgbz
+mgF+PJP4YqK/Gk3poadohWKdhBiBzwpElavaJArE95gJuKB9ATi2clQA1KlOMAmg
+OHTSkS/CIqYLuH93ZcNvSh/VlK4OYIKBc5HVrzaVY1R1u19OGn5ea6mYBGCkBBNe
+qSunhCxA64g9RmzRjZ2fLBPBG0ciu98NyUlwQ6EnB4bT1rQDz0HVpoj1k/V66V60
+RJM3yU+If7rW9Jlwt2Njmg464eP/jDwjAgMBAAGjggJsMIICaDAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFF2ht9BE4XtNpE2KysVlWAxatx0GMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMD0GA1UdEQQ2MDSCFmRvY21hcnRlbnNpbmdhcG9yZS50b3CCGnd3
+dy5kb2NtYXJ0ZW5zaW5nYXBvcmUudG9wMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcG
+CysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5
+cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYAfT7y+I//iFVoJMLAyp5S
+iXkrxQ54CX8uapdomX4i8NcAAAF603SJyAAABAMARzBFAiBZMR8COhCHE+68eba4
+aspaQVK0bCLx9zSEeWKyXjIMjQIhAOpMF2HHwwJhhwBjXRJr520HRBucd71I8H9g
+KCpBDD7ZAHUAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAF603SK
+ggAABAMARjBEAiBj2Tc+cI3jOJ0rG303bflQ4s2276+ALkW5PD3Q/nOO9wIgVe0h
+dGAkDX/DZczQI41Yv2gBrNpWIzMXvC+joerJUxowDQYJKoZIhvcNAQELBQADggEB
+AGKsutAE6DsyRIjynm3udBx7yw6AGl4dmKDKkwHtdyuwBtrpEY10gKy171PnodW9
+GGXpbb14jLfQiFEy5qFItc23H5orw3StIYRD5AMmM50VO4hBeON13QUogkh6hYVW
+MwxLbHOEiYnDyDWLh9C0r6TN1lIgTBLlIyeazf7k2JRDM+Qx6GezWwlEmpfwRAHA
+9jqyUHH3DlCB3bdEPkH3RtP6EvhDHTA2ljWvgxFt5ztA4v0ewxpDjyr16g7BZZss
+9IshHn/P7egehAB2XsjFzHEgeTTC7i1KOTPZSgcXzoHyQ96cZjazgWEaeA3jT8nB
+ZoI4weYCr5w1sMVsxn2pc/8=
+-----END CERTIFICATE-----
+subject=CN = docmartensingapore.top
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4617 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,60 @@
+http://pancaketswap.finance
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.pancaketswap.finance
+   i:C = US, O = Let's Encrypt, CN = E1
+ 1 s:C = US, O = Let's Encrypt, CN = E1
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X2
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X2
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 3 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID2zCCA2GgAwIBAgISBJA6+0/gsV0EAnS3FhutxMquMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+MTAeFw0yMjAyMDkyMTIzMzdaFw0yMjA1MTAyMTIzMzZaMCExHzAdBgNVBAMMFiou
+cGFuY2FrZXRzd2FwLmZpbmFuY2UwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAT5
+SwAs6WTWqq+IAM/6VEFNIAYXz7iMY2nWFsA7oNHCd+5UiJrE9lXlqIT5rhk2JWOc
+tTRkyXkBnHVCnHOgMC3Go4ICZjCCAmIwDgYDVR0PAQH/BAQDAgeAMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQ+
+5d+gY6Lo6hjFjUhw11SK31m7tjAfBgNVHSMEGDAWgBRa8+0r/DbCN3m5UjDqVG/P
+VcsurDBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9lMS5vLmxl
+bmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL2UxLmkubGVuY3Iub3JnLzA3BgNV
+HREEMDAughYqLnBhbmNha2V0c3dhcC5maW5hbmNlghRwYW5jYWtldHN3YXAuZmlu
+YW5jZTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsG
+AQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkC
+BAIEgfQEgfEA7wB1AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAAB
+fuCVwVsAAAQDAEYwRAIgKsfymD0Cm9r0YVglHkg/pMxLFS9qmJ9x0lcilRfN6AgC
+ICRXEwC5K/efrE3dEYN7LKbWKnjjeEG/bn5ccEBQ+jvRAHYARqVV63X6kSAwtaKJ
+afTzfREsQXS+/Um4havy/HD+bUcAAAF+4JXBewAABAMARzBFAiEAszmPhLnWbbEP
+2bPgntLJm3qpJ+aAZvTAcsG+agvWomECIH9kJLwnBElzL7wLgj18ikhbifOFYKn0
+LpNaTbihsd2XMAoGCCqGSM49BAMDA2gAMGUCMB6nVATq/El6EDpeECMUu1qQDad9
+9A+mVupVMZWPL9uJ8K0CTPDMuS4qWD4xWdtM/wIxAPL7vPeqKDlI9b9v2ylU+Jtw
+SY229dQmORD/YU+LjZpcejOqLaMlM+kEKQ2chmgsAg==
+-----END CERTIFICATE-----
+subject=CN = *.pancaketswap.finance
+
+issuer=C = US, O = Let's Encrypt, CN = E1
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4533 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

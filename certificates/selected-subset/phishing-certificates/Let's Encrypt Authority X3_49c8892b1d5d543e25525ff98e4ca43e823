@@ -1,0 +1,98 @@
+https://bataleyecenter.com/umde/Absa%20Online%20-%20PROFILE.htm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bataleyecenter.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGqDCCBZCgAwIBAgISBJyIkrHV1UPiVSX/mOTKQ+gjMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MTUwMzAxMDRaFw0x
+OTEyMTQwMzAxMDRaMB0xGzAZBgNVBAMTEmJhdGFsZXllY2VudGVyLmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMn+AfXW8zdsMFRm1gQxD0Ro5NAC
+c5teypUZVznbfYu43fuEMxTPAXY91AkZo4x33qTf+AtaX5ke/f0ljisa0SPaxILs
+1pOpcU49DSjnOQn09OU+sjPQ378lgM0Y6+wVMTQAUkgCIagjmu/g4jXohMTLzbCu
+lUZTLUWPHsQAoXZdSvsyo/IdqVfGLl5bOYLmZrmMHBnQQ6vGvEoQisNxKpuC/hX7
+TeTv+A+/CLL1XFb/jzlIK5LMjvATlElBgwVDSP2EQbM0+q57LgV+Ut4YNdTIwBBZ
+Zq6UoocBZy1gieqxfalQ7cA2SSWNd/r/LFpFP/6uQ3VJXajb3gpgW+5HmpECAwEA
+AaOCA7MwggOvMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUNqxnMk+mxKZ9f3bou3df
+AmOBd+wwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzCCAWcGA1UdEQSCAV4wggFaghJiYXRhbGV5ZWNlbnRlci5jb22CGWNw
+YW5lbC5iYXRhbGV5ZWNlbnRlci5jb22CFWNwYW5lbC5wcmVzLWJ5b25kLmNvbYIX
+bWFpbC5iYXRhbGV5ZWNlbnRlci5jb22CE21haWwucHJlcy1ieW9uZC5jb22CHXBy
+ZXMtYnlvbmQuYmF0YWxleWVjZW50ZXIuY29tgg5wcmVzLWJ5b25kLmNvbYIad2Vi
+ZGlzay5iYXRhbGV5ZWNlbnRlci5jb22CFndlYmRpc2sucHJlcy1ieW9uZC5jb22C
+GndlYm1haWwuYmF0YWxleWVjZW50ZXIuY29tghZ3ZWJtYWlsLnByZXMtYnlvbmQu
+Y29tghZ3d3cuYmF0YWxleWVjZW50ZXIuY29tgiF3d3cucHJlcy1ieW9uZC5iYXRh
+bGV5ZWNlbnRlci5jb22CEnd3dy5wcmVzLWJ5b25kLmNvbTBMBgNVHSAERTBDMAgG
+BmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3Bz
+LmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AG9Tdqwx
+8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABbTMUzUcAAAQDAEcwRQIgJBPe
+qJ4bP0OwffO31HD0ILTHEmSuc/IIiSsCrETkc0ACIQDuDi7nOhNU+7gQeuR/COvR
+TT2gHZAptAeTNeHfYTpuaQB2ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVF
+R/R4AAABbTMUzRQAAAQDAEcwRQIhANkWYmluDUSsDvkZ9WkTnJL2aaKE6dTyMiIt
+1vwLE0OfAiARzfl0Ek3n61YBtLBG/O4EQL/STcurdZ6P92ogw/NQFjANBgkqhkiG
+9w0BAQsFAAOCAQEAKyZjOM5ovW2mBocFPgafH3PQGm6A0ObQgmmnUaLiGtPHr3uj
+fhXvJ34mW48q89Hkn48fxPvfrlYxcJoMNGWHwaqLtu1FgMzf2EwiArsBfiLbJric
+KHDFC9MzhytosWlmOBGpOkJY4/K3uDXIEz40jv6mUfm4kRzUznPnrrau8BfulHGw
+TR3x2bidDfSDqB5+Qvk7aHZbYUcsx9S5ClIlkgQ4/oN9UKNRtd5RD4TOA5vUTgmT
+dQtdsfTEpwpdBerRJk2rHxu71ktrguW/2cFHwaGiYj38HQjDuBFuu1bNPwuR7YnI
+c3xebnDjMU+Zn7p1PquoNclQy+SEiMHf646wAw==
+-----END CERTIFICATE-----
+subject=CN = bataleyecenter.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3591 bytes and written 456 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: D0BC96A2C4AF381ABD571E855870BFBCCE17875A5BA8A376ECAA8713AA3229DA
+    Session-ID-ctx: 
+    Master-Key: E996F8E10B53B98369B983EB639F5B9C86FD21A688AD922E1555193E037EEDD1DC4AFA4E7146CE02A2FFD9FEC38AC75E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - cc 42 0b cc d6 e8 e9 15-bf 25 6a e0 70 ce 6d e5   .B.......%j.p.m.
+    0010 - 29 be b7 e4 93 39 62 20-bf 46 9d 26 6a 48 23 68   )....9b .F.&jH#h
+    0020 - 97 d7 d0 97 72 10 99 84-be b4 6e ad 80 5f d2 4a   ....r.....n.._.J
+    0030 - a7 78 0a c6 f6 b1 57 58-8c c1 2e 8c c4 d6 b1 3b   .x....WX.......;
+    0040 - 1b d7 34 e5 bb 9b d4 bc-5e 20 bd 01 f2 89 05 bb   ..4.....^ ......
+    0050 - 90 54 42 ed dc ff 26 2a-90 b9 92 e6 b4 0e 0b 17   .TB...&*........
+    0060 - d7 55 24 d0 30 7d b5 c1-28 97 3e 4e 49 53 7b 46   .U$.0}..(.>NIS{F
+    0070 - e4 ee 40 17 77 07 30 a2-64 eb 7b 80 ba 9d 64 55   ..@.w.0.d.{...dU
+    0080 - 26 ae 95 ae 4e 73 27 02-87 0a 59 8d 81 10 63 62   &...Ns'...Y...cb
+    0090 - 24 de 20 d1 fa 56 26 54-2c f7 98 0f c9 09 bc 3c   $. ..V&T,......<
+    00a0 - 80 06 19 44 55 ad 67 7d-ac 5f f1 6a 1b 6b b7 45   ...DU.g}._.j.k.E
+    00b0 - b2 80 61 be be 17 6d b0-fa 77 82 07 2d 7e 28 94   ..a...m..w..-~(.
+    00c0 - 4b 60 2c ef 79 5f bf 57-c0 47 5c 9b 07 a8 14 5c   K`,.y_.W.G\....\
+
+    Start Time: 1568984431
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

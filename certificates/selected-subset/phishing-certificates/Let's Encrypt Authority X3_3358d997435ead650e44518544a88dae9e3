@@ -1,0 +1,95 @@
+http://promocoesdeinverno.com/PROMOCAO/PRODUTOe0c5e4ce2af501bca32abadcf9030c6bMRBT/Identificacao/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = promocoesdeinverno.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGJTCCBQ2gAwIBAgISAzWNmXQ16tZQ5EUYVEqI2unjMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MDYxNTIxMThaFw0x
+OTA5MDQxNTIxMThaMCExHzAdBgNVBAMTFnByb21vY29lc2RlaW52ZXJuby5jb20w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC+qmkYrptEZoRwugsODhGn
+o6Fuq13ZumOj7kuhIsNE7vgnGDDNLvqdpZBWq/VcM1uEZvOTvsabADba10mIqb6p
+r147yxZMOxZFui2d1diXR1H09MK1v2/CY/KDQza+l8Sn2fqDlsvCnzsf+FIb9J8y
+pfiKCJqtAnAAOSXZhK5cT+8fkQ/2TTrXUJE938kGh8Tdm2K4JAVK9Z4ZZKzz8+1w
+gjqNaaonPwammlIXUNJkH9GYBiRuREjx5NpkqPPgHwPg20huX6bu4BvqU3RUi9eJ
+DGXgl+q6DI0kYFMG4G7RcAmpEn1FYIb3AJ9lMzpIW2JAKRLVcLYJcHVy3RfLggop
+AgMBAAGjggMsMIIDKDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFPEAh6Ot/2+HwMur
+XEbawwYZ33SfMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsG
+AQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZy8wgeAGA1UdEQSB2DCB1YIjYXV0b2Rpc2NvdmVyLnByb21vY29l
+c2RlaW52ZXJuby5jb22CHWNwYW5lbC5wcm9tb2NvZXNkZWludmVybm8uY29tghtt
+YWlsLnByb21vY29lc2RlaW52ZXJuby5jb22CFnByb21vY29lc2RlaW52ZXJuby5j
+b22CHndlYmRpc2sucHJvbW9jb2VzZGVpbnZlcm5vLmNvbYIed2VibWFpbC5wcm9t
+b2NvZXNkZWludmVybm8uY29tghp3d3cucHJvbW9jb2VzZGVpbnZlcm5vLmNvbTBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYE
+gfMA8QB2AOJpS64m6OlACeiGG7Y7g9Q+5/50iPukjyiTAZ3d8dv+AAABay2YNHoA
+AAQDAEcwRQIhAJxyJLtCXuVt54nPHw6/ANUQquJ43jJASukebcZeNKQLAiAAkM5X
+x4X6KhdGxo0ljjX0Ew+Gk4uPYRLvEAbpC5DtUgB3ACk8UZZUyDlluqpQ/FgH1Ldv
+v1h6KXLcpMMM9OVFR/R4AAABay2YNGsAAAQDAEgwRgIhANm1hJYBO6RxNWKx2+WJ
+ovD6XBhJYMtnIujeT48NTDYyAiEAicO6ERtsKask3wcuFx89pCwHKsZdDic8tILN
+YfnJfP0wDQYJKoZIhvcNAQELBQADggEBAIHnSU7bvUupRC57Waf5KdjFaLKc0QL7
+8YXs/6rQIex0ar014kCPIPUdgDstCxEwtItRvQqkeOanbWheQR11UjoCCewbJe7J
+Y37LtHmTH90mFlgRBQsKXoC/5H3NHkuBXnGyws4dhNMxdgdrawR5E6VoV2VCIx4A
+R+nVVyOc4BboUFYvX3eA99SfGU+A+QB6TcY5sfC5ltoGCcVrRBCp/LM/R4YiQG2H
+2vFujTLRppGnnWt5Bk+XqBgDfJyua2CwYEnYPMREIKn9fUH6ISlfRkMLy2Iptu53
+zXao+r+7+N0mvhaqAU61NgpRGPXs1ex8LMMjFuhxj+r36j3YAhfZCm0=
+-----END CERTIFICATE-----
+subject=CN = promocoesdeinverno.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3460 bytes and written 460 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 8C8FDC22753C8C3CB2275DEB372A66448CD32913426C8A46F289E316FE64DC9E
+    Session-ID-ctx: 
+    Master-Key: 50741E51F2114D14560A4C72CD57A75CEFD7EA2370EE1A258260878976406CF50443521761F35A2E45E6FAC574360803
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - ea 21 84 41 2f 5e 25 75-29 16 a1 9e a2 40 11 d7   .!.A/^%u)....@..
+    0010 - 53 e3 75 70 50 e7 61 85-85 7f 41 26 52 6f 83 40   S.upP.a...A&Ro.@
+    0020 - 26 f0 9c 54 93 5e 4d 76-c5 62 c8 89 78 6e 3f a8   &..T.^Mv.b..xn?.
+    0030 - ca c6 8b 3e 7c 53 e6 84-1a a1 8d ed 03 e2 d4 e2   ...>|S..........
+    0040 - 4e b6 ca 5c 97 1d bb 64-1b f6 90 62 46 58 ff c5   N..\...d...bFX..
+    0050 - b8 57 bc 5f 6d 16 2c 22-72 73 42 ef d5 80 97 97   .W._m.,"rsB.....
+    0060 - 15 11 d9 37 b1 16 69 d2-25 54 76 06 d0 b7 fc 3b   ...7..i.%Tv....;
+    0070 - 57 5c dd 7d df f4 ac 0d-b4 a6 79 98 57 dc d3 01   W\.}......y.W...
+    0080 - 18 7a 4f 26 d3 b1 ea 9f-8d f4 07 2e 51 aa 5e 0a   .zO&........Q.^.
+    0090 - 74 81 87 76 dd 39 41 84-74 47 d7 86 85 97 39 15   t..v.9A.tG....9.
+    00a0 - 4c ef 99 3e 87 60 48 00-38 cd 95 89 90 b4 6f 91   L..>.`H.8.....o.
+    00b0 - 46 c3 cb 8f a4 86 c1 8b-23 f7 59 fc ca 81 9f 4c   F.......#.Y....L
+    00c0 - c4 6a 1b 1c 1d af 38 e5-8d 4c 95 7e ef a1 42 58   .j....8..L.~..BX
+
+    Start Time: 1562158822
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

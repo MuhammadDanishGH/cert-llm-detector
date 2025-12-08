@@ -1,0 +1,97 @@
+http://wassersuche.ch/Jose
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = wassersuche.ch
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGAzCCBOugAwIBAgIQJJ14ZqLobAp6tXXuN52doTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTE5MDUxMDAwMDAwMFoXDTE5MDgwODIzNTk1
+OVowGTEXMBUGA1UEAxMOd2Fzc2Vyc3VjaGUuY2gwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQC+oZz+dbwBsvTpyXMBFxMXKpJ4QUjsxxj8p9RVxHZH7mBy
+8ua0E24YMz83rlwBIQxpQtHVrL6CydBizWKclEjqHv+p0ULSsH7rZmBv28YmylIb
+ollt1PiMYz1w0FpbHBVXS5zNzTskC12bHBbFp5hnfTfkb9DWAT34t86pJS8pZS+m
+XbSy0FHl9HWZRpzXowPdJ4DL0KmmOKBmhcZaJx40XXB7uVlaXQKEiIrbdyxVb4yl
+M6pyQbUCjhCfz0LTz6+vrhCxWg78jac6C5YF6VJvTdIzMRbn3Sg0lsvaoxEwMGqP
+8ldW4ZXmwA7TTiO9kwwM/Vp5L28WceukjVv7hZa3AgMBAAGjggLsMIIC6DAfBgNV
+HSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUpWVdGSnMI2cj
+yPqQS+gnPnaM64MwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYBBAGyMQEC
+AjQwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNvbS9DUFMw
+CAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUF
+BwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1Bh
+bmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTBCBgNVHREEOzA5gg53YXNzZXJzdWNoZS5j
+aIITbWFpbC53YXNzZXJzdWNoZS5jaIISd3d3Lndhc3NlcnN1Y2hlLmNoMIIBBQYK
+KwYBBAHWeQIEAgSB9gSB8wDxAHYAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZk
+No4e0YUAAAFqn0R91wAABAMARzBFAiBWSYyeQxl3ctckV0nRsP2TmQ9g7g764u5q
+tdtp6kKFuQIhAIvkqYPRRgPukU7cxW0bWoslBS7EPceu2FY9foXqSaeJAHcAdH7a
+gzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFqn0R+EAAABAMASDBGAiEA
+5SYXsazBGdsXP3LLc7i702BcfFro93TuegFFcJG9UzQCIQCfytHQEQSb7i+N9+QH
+lvkSpsSgIA7wI2FA2wIFUueZ2TANBgkqhkiG9w0BAQsFAAOCAQEAJPkr1/jUQO6G
+/iMsIk2zEtz9ZEojyiTrUlcoQryCbZ6nrByRucI4xmSHLwu+LwwTEaWUoW/neCnP
+5VvqahKHVc6iulv6n66vl+N7l309ssT0pr1A8XAZbnI3pnjiQtMVngY96l2AKoN6
+ZygWybYvKWcrvQF4aqS8ek5lZXbORTPsKWcbVqJEy9IpPxqeSs0/cwQ6frmAgAjM
+Uw+EXUf0aBFn1voy+GAnK4aPxzfdA6Yjx0sfrxircjiInkSmpSMitwk0SV8T8N05
+auNqfqAq4Kww8GoCz64GrGo/BH4DZ02/ZYI4F5edH4nExA86jAF9rNfod9sFghVt
+4lhbURvJVg==
+-----END CERTIFICATE-----
+subject=CN = wassersuche.ch
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5180 bytes and written 452 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 1AEBCCA60AD07C8E52E730E6A78008A1C05313B792CA8933B11269F5C05774F7
+    Session-ID-ctx: 
+    Master-Key: 15B6960F40E48040855F1EB727641F2887145BCBEF598EBBEC47528E777848B6B17BD2AC2F53FE79A91C61F744E07546
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - a2 62 c5 2a cd e5 54 2f-73 ec d4 58 66 0e e2 c5   .b.*..T/s..Xf...
+    0010 - a5 d6 a0 6e 40 a7 b2 a6-be 79 20 21 67 c9 8d 3a   ...n@....y !g..:
+    0020 - de a8 cd 46 97 dd 1f 5b-92 4d 95 d0 91 cd 44 e8   ...F...[.M....D.
+    0030 - 48 4a 7d 5b 1a 6a 00 71-4c 43 4c 79 d7 58 e7 40   HJ}[.j.qLCLy.X.@
+    0040 - 93 90 7e 06 0e 10 06 66-60 ce 96 4c b5 9d 19 49   ..~....f`..L...I
+    0050 - 3f fe 23 40 44 0f 65 cc-fe 47 59 48 b6 7c 20 ad   ?.#@D.e..GYH.| .
+    0060 - 4d 90 a4 59 ce 16 d9 ea-7e 4f 7d d7 43 f9 cd 5a   M..Y....~O}.C..Z
+    0070 - a0 ba 6a 81 19 8c 48 54-96 50 40 ae af 57 f0 ff   ..j...HT.P@..W..
+    0080 - c6 72 cd d4 82 c6 6b fa-48 98 f7 59 b4 9f 9c 08   .r....k.H..Y....
+    0090 - 75 51 91 36 1d 7f 00 85-f7 45 c4 c5 c8 69 93 4d   uQ.6.....E...i.M
+    00a0 - 71 b2 fc 83 22 ba ce ec-73 e8 db 70 ba d3 b3 39   q..."...s..p...9
+    00b0 - 70 78 21 91 d6 3d b9 43-84 a8 1c 31 9a 4b 7c 1e   px!..=.C...1.K|.
+    00c0 - 19 46 52 fe 30 cf e9 98-3d 11 41 bd 02 a4 d0 9a   .FR.0...=.A.....
+
+    Start Time: 1558098025
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,92 @@
+http://stock-militaire-distribution.net/roct/Absa%20Online%20-%20PROFILE.htm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = stock-militaire-distribution.net
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdzCCBF+gAwIBAgISA92MGS+dPymK4AIa5t3EoMaUMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAxMDcxMDA4MDdaFw0x
+OTA0MDcxMDA4MDdaMCsxKTAnBgNVBAMTIHN0b2NrLW1pbGl0YWlyZS1kaXN0cmli
+dXRpb24ubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAli1CDh93
+XMBNSyvstz2IJHoPgWDPFWgAy5FarUX/GFu/nXaJ+y8E0Fp0t8jf9bNVKiOHi/Q7
+qMc19pfxJkf4WKeYSGB5Rte6h0KbQP+q8IZCV61TNycEEDkS3wN57GKa9nbanpHr
+/qOADUs77Okxx2+tGTkMZsTbrOXBiSpEx3MEAASUxJmTV4plJInIw1g/ILxiLeCb
+P5byXW24ngG0x08Waey9LGLVVVG2GiP3fYp/l0WQG1dae1910cN/LJXxUy4Bw4Xb
+HHHhRGHjKzyYtGKo+dXJ4y1HJTUPa6y5Gar4snKmFHLuNUGwCBiAZQRb/HHSE/Rk
+uqe4IxxER2TOSQIDAQABo4ICdDCCAnAwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRo
+BkXD1HPJ3q+XZvAU46/FudRxrTAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv
+86jsoTBvBggrBgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmlu
+dC14My5sZXRzZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0Lmlu
+dC14My5sZXRzZW5jcnlwdC5vcmcvMCsGA1UdEQQkMCKCIHN0b2NrLW1pbGl0YWly
+ZS1kaXN0cmlidXRpb24ubmV0MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAdH7agzGtMxCRIZzOJU9CcMK//V5C
+IAjGNzV55hB7zFYAAAFoJ/+WlQAABAMARjBEAiBPo3q8GLjZWfHoSdJcTMA9ToD7
+bbtfCFaOOWFi0EEwiAIgC8n6OAdZDUXdbyM9zU3yUHlDBksfppMl1W1yEBvFz8YA
+dgApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAWgn/5TuAAAEAwBH
+MEUCIQDdTZumAo/sCbbVn9K63oh/cp+bpu8edq+eWSQyOb6JqwIgft7TZqrVz0UK
+ai0bwKHiv7HB+zDDAAriIzzhY1VuDecwDQYJKoZIhvcNAQELBQADggEBACo6oJ9i
+44KuP3hA28WuiaOPvM3yaiQPlFGleGEA9NUsoXaK8HbfdsLh0P9LtbrkYO68VfBr
+u1x5R37UqOS3KnEDdiWMPx0KpxH6Woe2i0Te56hNkAXTtima35eKgZLx19y4SvCg
+IJLiThORVyMyAxFVNanoyGnYDf8pPmeFrr//PZXtTc6+gvkLLfKC+mbgxbXeamOd
+s5DWJdbSkW8fhENEXper5iY2zEz2ndWhU246aBu4MgGBwheGA62C+Uvoe18Dmoro
+GER5TLl9whS/8IIMqTZCVHIMxLG3kJV9s4m9LYDzG4Pgy2Pjr02TkKh60RlgCA50
+TosFPMM0XWzf4Xc=
+-----END CERTIFICATE-----
+subject=CN = stock-militaire-distribution.net
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3286 bytes and written 470 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 54F6147066AEB499F04FB12C211E6E0094ED6B8CE75F1F4654530EE7F586636A
+    Session-ID-ctx: 
+    Master-Key: 8CDC0FCA232B223E38003CF6F9909ECBBFF395D47D68A2F61934786493CF058ABF14947DE73655B8A5FC17524CA9AB49
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f5 3f a9 8d 70 0f 38 0e-e6 b3 95 4e c1 a9 6d 14   .?..p.8....N..m.
+    0010 - 9d d9 b8 05 57 26 69 f3-05 fd 7b 76 7f a9 91 0e   ....W&i...{v....
+    0020 - da c5 68 3e bb 11 3f 84-36 dc 8d c1 61 88 83 bc   ..h>..?.6...a...
+    0030 - 24 f9 c4 e0 5d 36 1a 41-21 f7 62 c4 05 9e 85 df   $...]6.A!.b.....
+    0040 - 99 f5 32 c0 0f cf 9c f0-0c 18 64 fe 3d 99 d8 4b   ..2.......d.=..K
+    0050 - 00 e4 d1 62 c7 95 99 08-0a 25 fb 20 c7 0a 80 08   ...b.....%. ....
+    0060 - bd 45 7e 62 cd 55 3c 6d-84 05 1f 4f 5b 26 60 1f   .E~b.U<m...O[&`.
+    0070 - e3 12 73 b1 81 04 c0 b2-36 f5 b5 89 94 b3 ab 53   ..s.....6......S
+    0080 - b0 51 df 75 3e 38 85 cb-7b 15 09 39 d1 bc 1d 4c   .Q.u>8..{..9...L
+    0090 - c6 5b ef 94 5d 65 ca fb-59 c9 95 39 23 1a 08 f4   .[..]e..Y..9#...
+    00a0 - 07 10 72 9b 6f 16 16 ed-2a 0e 9d c8 8d a4 cf 08   ..r.o...*.......
+    00b0 - 60 d8 6b 50 25 8e 33 3b-d7 22 0e 6f 67 dc 84 c8   `.kP%.3;.".og...
+    00c0 - 43 87 97 f5 f4 26 2f eb-ef 6d 6f 80 f4 41 d6 74   C....&/..mo..A.t
+
+    Start Time: 1551276019
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,75 @@
+http://ambil-gratis771.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ambil-gratis771.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG9DCCBdygAwIBAgIQEwqdIB87YgOgiPTVeJuwpzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDkwODAwMDAwMFoXDTIxMTIwNzIzNTk1
+OVowJjEkMCIGA1UEAxMbYW1iaWwtZ3JhdGlzNzcxLmR1Y2tkbnMub3JnMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtdcNYrhD+OnTtkR8qvigaYYZMRpD
+qb8N0QPXJkhIOyqr85qff6AeHpVYBpJHmZO9nN25rX9FUztoVuVwVDAaHpzlZIxE
+3itn/k3NKoTAKn+KedrUW3EE22lGFJBcRYtKdOlHKFm6cdp7XPmUtyFO6O4lw5if
+ROdTogdeVOiEu6x143D/rgoi/bgv9OF9Lm8APbQyCEBWL8uyCQp6pc5ZoL0kobkA
+N5miVbgwMMojBrgelOdWYkqJ+3mYmAJtjwDJiuILf3iGPdL8khnlm3UXcSkiStIb
+c6oGS/OQxu2qFqMIyOTZwhBrNh/V7TD7vO+oP56F76WcG0cXFcQVQpLZRwIDAQAB
+o4ID0DCCA8wwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0O
+BBYEFGbFRWf248JqsB+Jta0fltFEhvyRMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMB
+Af8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBA
+MDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5j
+b20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNv
+bW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9
+BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUF
+BzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0
+BIHxAO8AdgB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXvDC4rm
+AAAEAwBHMEUCIEDtx9Y4rIUFPfQsBZKB8kv2NsPurEjhm34ExwIwumsEAiEApAfP
+HXZb65CFXz3r7A1nbpgpJwhwZAoKgN4bcvi6LMEAdQBElGUusO7Or8RAB9io/ijA
+2uaCvtjLMbU/0zOWtbaBqAAAAXvDC4qrAAAEAwBGMEQCIHFHAtrotnGpnQKY1QHT
+w7jCrJU4W1xyyYcdqjEAmXiGAiBXKhk5GnwkhkpTDK5nNHIvPv90p4Lr9a/mJgkq
++GnzXTCCASwGA1UdEQSCASMwggEfghthbWJpbC1ncmF0aXM3NzEuZHVja2Rucy5v
+cmeCImNwYW5lbC5hbWJpbC1ncmF0aXM3NzEuZHVja2Rucy5vcmeCJ2NwY2FsZW5k
+YXJzLmFtYmlsLWdyYXRpczc3MS5kdWNrZG5zLm9yZ4ImY3Bjb250YWN0cy5hbWJp
+bC1ncmF0aXM3NzEuZHVja2Rucy5vcmeCIG1haWwuYW1iaWwtZ3JhdGlzNzcxLmR1
+Y2tkbnMub3JngiN3ZWJkaXNrLmFtYmlsLWdyYXRpczc3MS5kdWNrZG5zLm9yZ4Ij
+d2VibWFpbC5hbWJpbC1ncmF0aXM3NzEuZHVja2Rucy5vcmeCH3d3dy5hbWJpbC1n
+cmF0aXM3NzEuZHVja2Rucy5vcmcwDQYJKoZIhvcNAQELBQADggEBAGQ3JH8JebCc
+L2q1hekgl6jj5omB22ACjh1bp0Vx6MY7EZ+B04iXW2hSmxt+sHU/V8t1XIYKk3nY
+A7i3AlIxbdWOLuArumdTHgJTd5S7VBhVRuUKuGNUpiD/3IEHgsMsH0AJmUSYMGVW
+h31GqtCSKSRfJRw1B5OxSw8dV0+di2YSdRPe2yt+z/bBQOCqLiomgOQ8zEPSziqG
+lq2mWt8HODSf/0i/Mwn0EMggo4spt5aeiVZaJhry1LnIu8EnkbegA62tVbl/4ajc
+x5BEIX/1jwZY15X5BXlrMkaX0IRtvy1erUdfwVpv+bWnkWk/Dj0pVqyPXijJqBcn
+iVfDVbu4CHw=
+-----END CERTIFICATE-----
+subject=CN = ambil-gratis771.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5289 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

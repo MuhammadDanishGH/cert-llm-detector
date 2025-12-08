@@ -1,0 +1,67 @@
+http://armansafavi.nyc/rack/rackspace/ftimer.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = webmail.armansafavi.nyc
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF+jCCBOKgAwIBAgISAyTt7GWGLH38fZpkm2XRdzy2MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTQxMDE1MDlaFw0yMjA0MTQxMDE1MDhaMCIxIDAeBgNVBAMT
+F3dlYm1haWwuYXJtYW5zYWZhdmkubnljMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAxboBQH0/+Ya3+zSPE5wHF1CjQLKbAlftRHkwMd6Flr/fhifAkffn
+57cBFULxxI6Qoh7cXOamEoVM/PliSVZAY9ACaY9jrNoSjJoa+zz3MfVH936m/9jV
+E/cqbjrBx3OPR/X2s2TGlhdYXrEgice2f94BaR0riHXbGsiGQRaLXkKDoxi3N37J
+pa/kYlNR5g3TOMX7Pnb6XHw6AR0qjiiFT3eH/Z4vqqA3LTyb3VjUi19W+S2/Tifj
+gDfJqKx0pZ3ikWYC0d5AiYnZXmoE1jD3s1ZHWsvtfPYXRjUMKl32zpdmqoQUOGLX
+qKZDDISp3cJiDbWdbRQCfWhKSXdCa7dUkQIDAQABo4IDGDCCAxQwDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8E
+AjAAMB0GA1UdDgQWBBTnPeNF5PKGDu4NTK87C5nhHBqvQTAfBgNVHSMEGDAWgBQU
+LrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGG
+FWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmku
+bGVuY3Iub3JnLzCB6AYDVR0RBIHgMIHdgg9hcm1hbnNhZmF2aS5ueWOCHGF1dG9k
+aXNjb3Zlci5hcm1hbnNhZmF2aS5ueWOCFmNwYW5lbC5hcm1hbnNhZmF2aS5ueWOC
+G2NwY2FsZW5kYXJzLmFybWFuc2FmYXZpLm55Y4IaY3Bjb250YWN0cy5hcm1hbnNh
+ZmF2aS5ueWOCFG1haWwuYXJtYW5zYWZhdmkubnljghd3ZWJkaXNrLmFybWFuc2Fm
+YXZpLm55Y4IXd2VibWFpbC5hcm1hbnNhZmF2aS5ueWOCE3d3dy5hcm1hbnNhZmF2
+aS5ueWMwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggr
+BgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5
+AgQCBIH0BIHxAO8AdQDfpV6raIJPH2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAA
+AX5YTGpDAAAEAwBGMEQCIHbsrtlOLALVMnMG7groL5jLocHasywR0zt44gsmvBjl
+AiBEAaUMGJVLo9WTHjFSoq+Tys4duat0tfA4FODuURqe5wB2AEalVet1+pEgMLWi
+iWn0830RLEF0vv1JuIWr8vxw/m1HAAABflhMamoAAAQDAEcwRQIgPqxH5Q9AEuCh
+qZNYMBIN4nKiY7PiXHugi8HbDZ2YuS0CIQDUB5i5PjRQr+LhstdIGHcDafpRQw8M
+Aczrcw3hgUusrTANBgkqhkiG9w0BAQsFAAOCAQEAnTPKe7GmtOJzAJ2RssDQq/Xm
+ou6PfuRze33tboVMNQS0XvxOddtp1lD0W/1VxYra5q5/P/cndSEIi5ZX8raChJw5
+pLGmTuF+hvorSiXSljVF9ZLFBcNN9TXQhi8nR/15eOkjocoByYw7DynVZrKB66PH
+iN7UJfvTZW2jNsfu6IRm8MG7ACujk/VVy7u56m/NLaeoiqKa+RODqs3M3Adv6Dy/
+iqEIpbVU8E/+oP+TFCJAAFTZ57LNRlJnPQ0GsQDo5Vnw85TMRmhCIucGFvXgWORm
+Mj/ipJXWm6c/qsqloODKNbgfs9QH+Zk0TwtnnfBBhnK30zZf9K7bl5N4dCGSSA==
+-----END CERTIFICATE-----
+subject=CN = webmail.armansafavi.nyc
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3405 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

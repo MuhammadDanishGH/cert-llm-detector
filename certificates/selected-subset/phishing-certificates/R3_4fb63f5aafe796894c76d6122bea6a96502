@@ -1,0 +1,67 @@
+http://fixmetamask.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = fixmetamask.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFhjCCBG6gAwIBAgISBPtj9ar+eWiUx21hIr6mqWUCMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMDUxMTQxMjlaFw0yMjA1MDYxMTQxMjhaMBoxGDAWBgNVBAMT
+D2ZpeG1ldGFtYXNrLm9yZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AJ/n+Q82LeYXp9OjvtsqgXz468wPTiBrsQZQ7ca2KHK4xtmIvs6fazUtwH4xOgcJ
+mtLOiy7oK2nRbT38vXwkJirm+yrYFOPYki76oCl8gTdljD9tIrsxh1p5QIpXaQE4
+2qO0zQ2ADsYTcclNUGbtHztNvqkznsMohexhHoyfUJ0uksWf7xr4YFQp/zcGtou+
+GpZXEtoXd9J566vfpez3ExA/BQbWEwxwfQMavQZPScmD3K7m0zYqP5JUgOKPIFNi
+29f2o/fYktRVGKPSTa9yteGmLTmIRaen32fef3Mtn72V/tzjtoa2Dsb9xILmxNox
+G2oAb6eJNWpfCsUnOugiBsUCAwEAAaOCAqwwggKoMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUavRcMXwvPZrshJALK/Pv7+HkOokwHwYDVR0jBBgwFoAUFC6zF7dYVsuu
+UAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8v
+cjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9y
+Zy8wewYDVR0RBHQwcoIRKi5maXhtZXRhbWFzay5vcmeCD2ZpeG1ldGFtYXNrLm9y
+Z4IjZml4bWV0YW1hc2tvcmcuc2VjdXJlLXdhbGxldGZpeC54eXqCJ3d3dy5maXht
+ZXRhbWFza29yZy5zZWN1cmUtd2FsbGV0Zml4Lnh5ejBMBgNVHSAERTBDMAgGBmeB
+DAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxl
+dHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2AEHIyrHfIkZK
+EMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfsnnXMYAAAQDAEcwRQIhANiw6xs8
+uuRE1L3At1BVZOnZ7aBMGMd1K4z8EF4HqntbAiAaFkf58kXwcvGKCRvMUIvcEC6x
+IReXpEZWAGXWN2oC4wB3ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceE
+AAABfsnnXMUAAAQDAEgwRgIhAMG6i1UFU4MjfwgBdbQyh4w0e5pv9n2HOjhGENpd
+WFUNAiEAtGHtxo09fpmoBk4fPlt4jYFdkm4TOLO0lJTocguKq08wDQYJKoZIhvcN
+AQELBQADggEBAKv+J4OzVHhxohh4I3X60+7k9FiFAukr3BK2IxlbpY9RoAOI4SVM
+bG3nu8JeUnp/1wFipVgPfDYKsGVSFzKrxPSwBaU/RyrdQ+v7xzLEceQ39O9VmPD3
+aC+/qo2pO2KYabJYWIIz90ArrFP5uDQwAvSH8QO/mpJKClSUx6lHhGFtQDu1O7dd
+vekSs9PQT54xdlKKCQPsZzf4NVF1EYOSnEs6PEvJ5ftvTSO8yaq6vFvxG3579eIS
+FyrxU9giYG9hRSYb6V9az/oLmPvSD+tYJxZ8LlZ6a0MQHzDNoAQcSfzxCVDXXV8T
+iYgAf8HHG4V6EeCI4yYECprVzAyxlenC1Nw=
+-----END CERTIFICATE-----
+subject=CN = fixmetamask.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4604 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

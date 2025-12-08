@@ -1,0 +1,68 @@
+http://wanxyz26.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.wanxyz26.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFvjCCBKagAwIBAgISA8ypnBqJdD2jgaTkTFrGj1vuMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMDgwMzI4MzlaFw0yMjA1MDkwMzI4MzhaMBsxGTAXBgNVBAMT
+EHd3dy53YW54eXoyNi5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDcBCceOqAg3SeQLRNvw2VRmGQGo/KBFjd921UK3r6TPnSPgeOGR6kQY3LAXdf0
+k1zA/CNMyEzqvnGL539/8AdArcfnp/3mGIg22giyrZmvbnOQaplmov5ZefeN5+u8
+YlzikEw0SF2F5oZ3N2sIKZ5z+KC6rhFVq1eXCe4Zz0SAQyG8ck1Vbmodufl+xgzi
+8IQ2JiOxNOgjByLm3+VeDEDOqcf62x97W/KblXvxkYpSD/LXzOS4xQA1y1D55cCt
+DV1phPI2nFkuHIY6GhOL8OFlUnrn30CW4KRW29lIOlXcCGad+VO4F8AYlwkbTr/P
+w+hug5sYiQ/5kAf1wg57/bAJAgMBAAGjggLjMIIC3zAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFHWYOL88+nqwndG3y2tv840DAxrdMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMIGyBgNVHREEgaowgaeCE2NwYW5lbC53YW54eXoyNi5jb22CGGNwY2FsZW5k
+YXJzLndhbnh5ejI2LmNvbYIXY3Bjb250YWN0cy53YW54eXoyNi5jb22CEW1haWwu
+d2FueHl6MjYuY29tggx3YW54eXoyNi5jb22CFHdlYmRpc2sud2FueHl6MjYuY29t
+ghR3ZWJtYWlsLndhbnh5ejI2LmNvbYIQd3d3Lndhbnh5ejI2LmNvbTBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2
+ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfteXOWEAAAQDAEcw
+RQIgF5dlu8RVRG2yEFdv4KJOCR0MJaomaNfIaCTEszna7XsCIQCtLu0zc5EcJY2L
+VkVMNC9pQSikcaUXT8cCWlRcPJvFbwB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vr
+S8do8JBilgb2AAABfteXOa0AAAQDAEcwRQIgLlajHKLvg4R8x4pn8m1AtM+3wyLA
+eQErTFt4zyik7yACIQDcr40uwpCXB+TRCC89iRcXbn6Jtp4QWkL2Y3RfydRdEzAN
+BgkqhkiG9w0BAQsFAAOCAQEAGG3Bpur+48MrFfclCtEQBYlG4a1jiIwVzTewyXQc
+wRjmVw7L60KhfF71zmgqkYpHSL6M7VGDcT0vLPJtFG/Wcj+PgwZSDo3SofBcVC/b
+1tJStxakYO/wTVr0yENNcXPjX+IdwK7BhtANmPU647GP953qtwVsbh7mPhV+3ixK
+zOCS8PrdjZEVnFZunkTyKXIPWfBx+0FDGSjAV8ihNJaNYPpJCRd5uQ9l9w9Ep3aM
+T7i+/1FSVV1ygYMNWkN9ZxbZfCVKie6YDoU68sEHslAnqD0g08V3pNi12CYoZ2zy
+qtl4qvljEAscuqqyQHW/P/dgnEAhIyNqrmZCapeUkmhbcw==
+-----END CERTIFICATE-----
+subject=CN = www.wanxyz26.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4730 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,97 @@
+http://apprizesecurityforce.com/log-in.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = apprizesecurityforce.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGVDCCBTygAwIBAgISA4Fr3HP+9szaGsw2qNhGj4kRMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMjMwMjI1MTdaFw0y
+MDAxMjEwMjI1MTdaMCMxITAfBgNVBAMTGGFwcHJpemVzZWN1cml0eWZvcmNlLmNv
+bTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALbFqBc0NS5OwZu5HI21
+dBo4iNCHndA3aRNPnxOp/o2f8XRGn/0QuBLxM9ZqmDE7Y0Ry/MvnDLGvyZtDiSlh
+jDbsaObAsV06XdL2Pxv54idH3h3Hg1W3r+vyGzIpb/3bwkimezKfCTOfMBoeidni
+PNgeizy3zXQs9r+tecIK9Ilrz7JVlW8pRhNsiL7Z6zjSjw9mIVBMatAqjQVtcLab
+NvVXSExrOIZ3519NJFQJmnxBifnV1+wGV2vrKg2lI6f3zXYQjBJ98sOZw+uLLOp1
+9M+C9TzlfNj5I+9mtqaT5rk+luYUEE2T7T0pSzzDadbLjWg5gPHPvpU295v5iena
+yssCAwEAAaOCA1kwggNVMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUDzZj0MEUEKg+
+Qx2av7QFf05EqN8wHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYI
+KwYBBQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0
+c2VuY3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0
+c2VuY3J5cHQub3JnLzCCAQ0GA1UdEQSCAQQwggEAgh5hcHByaXplc2VjdXJpdHlm
+b3JjZS5hYXlhbS5uZXSCGGFwcHJpemVzZWN1cml0eWZvcmNlLmNvbYIfY3BhbmVs
+LmFwcHJpemVzZWN1cml0eWZvcmNlLmNvbYIdbWFpbC5hcHByaXplc2VjdXJpdHlm
+b3JjZS5jb22CIHdlYmRpc2suYXBwcml6ZXNlY3VyaXR5Zm9yY2UuY29tgiB3ZWJt
+YWlsLmFwcHJpemVzZWN1cml0eWZvcmNlLmNvbYIid3d3LmFwcHJpemVzZWN1cml0
+eWZvcmNlLmFheWFtLm5ldIIcd3d3LmFwcHJpemVzZWN1cml0eWZvcmNlLmNvbTBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB3AF6nc/nfVsDntTZIfdBJ4DJ6kZoMhKESEoQYdZaBcUVYAAABbfalsqMA
+AAQDAEgwRgIhAMrD5OF1ZTXBEijfRjm2YRYcoPyE538U0zmhJ1Cq1dKiAiEA03Ol
+UJBJX7R50FM1jhfIZggw9yJb6dHysEFmgA1gfsQAdQAHt1wb5X1o//Gwxh0jFce6
+5ld8V5S3au68YToaadOiHAAAAW32pbLvAAAEAwBGMEQCID7rDZed/X2g8IQuyUEU
+aSdQkWVqFX8C/d1X+ri3FWjzAiAusDv0udozZthKm6TUCq7dTwp3yoId9Q6FNNgl
+nXK04TANBgkqhkiG9w0BAQsFAAOCAQEAMw0cN4XpuUqKXFFlZ/FCyZk2ITjhIigk
+7ZY2KnfyPbVLzPNMcJuK37toFaj6iKw4pBBbTU3r51n74Hl82Loz6t1r5oX0U+tI
+sYdPQGaOKqGEFEJ2eDxz4IQ2EyfmHlzPZvpmgNLiQERDeCk3tv+892wb8qRdrDnC
+VaLY7oL06KT36TBU432+0UBsorBOhpouZlrUTlqfzD0ZEY4xum/R9Z5noH9Lb525
+2z65eeUKin2l9D/yREjbiwx5YLEkDn4nCmaawHJyqAL+ZbdVw6MKXIItwgOt7MaH
+Iwwtv5VKg7FPnOLOEpb/N3GUqVLQp4X+l/LW0HnbCrQC6J0PAP3oig==
+-----END CERTIFICATE-----
+subject=CN = apprizesecurityforce.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3523 bytes and written 462 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 0CC8EA5F07613B8106E065CEACD473DD877E6C9235164F726BAB903985384F30
+    Session-ID-ctx: 
+    Master-Key: 9855555D0407B088A958B5AC8388005DFA5F0EBAF6D8A0DD2753B8DA5DABC9F80E77FE5B1BC63282A1C2915EC99BD8D7
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 2b 46 82 0c 02 44 d1 f1-8f 07 02 85 e8 f0 0b 37   +F...D.........7
+    0010 - a8 33 8e b3 2e 79 38 06-02 c7 12 7d f7 c8 d8 25   .3...y8....}...%
+    0020 - 2e e4 65 b2 e8 53 74 65-00 00 e2 5a b7 b1 9e ce   ..e..Ste...Z....
+    0030 - 94 c7 ab fd a2 df 47 40-b1 b7 ab bc eb 47 20 55   ......G@.....G U
+    0040 - 76 56 a6 ea 23 49 f6 e5-9f 01 9e e8 e2 8f 18 5c   vV..#I.........\
+    0050 - 10 f7 b7 12 8c 61 83 52-92 7f 1b 5d 7a 8c f1 c3   .....a.R...]z...
+    0060 - fb b0 a3 5e 43 77 5a 62-c2 1d 7f ae 8a a3 83 d7   ...^CwZb........
+    0070 - 49 d7 62 d6 09 7d 11 ab-e7 ea fb d5 e9 38 ef 0b   I.b..}.......8..
+    0080 - d2 fb 40 e1 c0 83 0f c9-56 47 da df a4 69 8d 1d   ..@.....VG...i..
+    0090 - f1 b1 23 50 bc 85 ee 6f-7a df 59 07 ef e5 cb 9e   ..#P...oz.Y.....
+    00a0 - 75 86 df e9 53 af 47 8d-91 5d 5b 10 a2 92 3c 22   u...S.G..][...<"
+    00b0 - 4b 20 6e 89 ce ed 2a 9b-fd d1 fd 05 06 4b 11 83   K n...*......K..
+    00c0 - 57 e6 4a 20 81 23 3a dc-e0 bd e7 7d be 40 0e f3   W.J .#:....}.@..
+    00d0 - bc bd 60 c2 5a 7e e7 52-d7 8b 0b 66 89 48 11 bf   ..`.Z~.R...f.H..
+
+    Start Time: 1574690427
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

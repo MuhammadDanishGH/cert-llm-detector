@@ -1,0 +1,66 @@
+https://senjing2012.cn/smbc/smbcupdatebill.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = senjing2012.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTDCCBDSgAwIBAgISA1aJlDHJbaeOizTfqBx24l5nMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MzAyMDAxNTZaFw0yMTEwMjgyMDAxNTRaMBkxFzAVBgNVBAMT
+DnNlbmppbmcyMDEyLmNuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+1Si39erlE/dygia/R8W47YovFhG8ozlW3od1Qy+OwHJey80OEwHKV4S1h449Y9/n
+Oytx67HwT0mrwiWmx4Sx92CsKLHIcrVg6sApvVHn+MOhqb9LcAuI1sW+oGLDTshu
+QFtseRbKWHcN4MdRyWccx4ZYj0wwuQO2N0sxpJtz62cZGgnYLtzutavztnLrO742
+cEx+NAv1you4uxwSIsRWNXxt8WvY4iU3NmKYHdk3keYzvmRGrVj/meTSq2ZjDMLA
+DGY5F0Z9bCsqyj+7WgdyMP4M34B5g7L68S7qACMAfx9yn1egQlXrbCgOX7e8Vec5
+vFZbx2svpr3tWBYdDkGrPwIDAQABo4ICczCCAm8wDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBSqsQdHuLm6KythTyzTm0aKwrQmezAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzBCBgNVHREEOzA5gg5zZW5qaW5nMjAxMi5jboInd3d3MS5zbmRjLWNyYWQtbmVt
+LWluZWR4LnNlbmppbmcyMDEyLmNuMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysG
+AQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQu
+b3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAfT7y+I//iFVoJMLAyp5SiXkr
+xQ54CX8uapdomX4i8NcAAAF6+TlA1gAABAMASDBGAiEAmo90HdUTAaDGj9df5Qo1
+WV5EK45FceSEPMDo97vuZIkCIQDRPpFa/MYWkovi9XTi6ZSNngMHBRvZoKYafzXK
+YDITCwB2AJQgvB6O1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABevk5QhMA
+AAQDAEcwRQIhAI8/DsSVmI4VG2iklJJ5bg7GkdihDO3F0ZukdST4Q9CbAiBTDZV3
++5M6pXBeK1gEs0tV1CSp5K4irK8wphiBDv4kuTANBgkqhkiG9w0BAQsFAAOCAQEA
+HF0vQf8pWvUINs2wopszgIaPzzw5/KzSrvxgnvcTl2i5CXHHsmtxGVpZqKzKq27b
+gtj3xIWeUjslGZ36D8QeF6d7A/tVbU+IX4VxM70Sl0Re9d/4rtZB/3ftLICEi8Cv
+HWHSBOIra4QEIHrrUUU2Hc9SJ6r7wHQ5sLehXoZb6P8xOTQX/7Xe2RXb/tPk5M2q
+3LeTUOytEdMksxJbQlc42EdFB43Jfj8VhQeqiqIxaPvi3AJfAxuYZRBR7gc8yToE
+SH7Eg5cmUsK1tIueAJJe+E2NEaPgeUn+Acr8f0YvSHRUZncummsI2X62EcTDl9YG
+v4rQtUM9/o+QLigimIYNTw==
+-----END CERTIFICATE-----
+subject=CN = senjing2012.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4616 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

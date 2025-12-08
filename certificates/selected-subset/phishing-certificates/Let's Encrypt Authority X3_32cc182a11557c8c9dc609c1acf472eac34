@@ -1,0 +1,92 @@
+http://www.bakingwithbylo.com/wp-admin/max/login/1/bill%20(2).php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bakingwithbylo.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFjTCCBHWgAwIBAgISAyzBgqEVV8jJ3GCcGs9HLqw0MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMTMwOTAwNTBaFw0x
+OTA2MTEwOTAwNTBaMB0xGzAZBgNVBAMTEmJha2luZ3dpdGhieWxvLmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMj+K3S+mo/DM1QXnsun+toe8EWZ
+Rwi1QP7R0+G1Kvo53TANiQOhTfFUPjOzdpJupdDHiUV28tY4+xE4DZY9qvQW0e4f
+CO5bXEKcAE+7g5agRKBtMqRicTjMVFM9yeLA9eyQ5hXbZdw/UU2BClxLJMNmnL+q
+oaWu7OqoT1HiqFBcnka2YQm1RDfS/aUqfuCxvgxUmY9mP7IlPunbOMM58QOkLZJ4
+6UzF68+tDgLEPgWUvUpBds/dJ/SYP4/RTO4EPMvk+vyHIcFzosXFU8NoX7/x/X02
++bSBEWo9aabuCo5HHLViKOTvplOuydpDUn8W6xRfEBh5HWMQRIuMb+oup6ECAwEA
+AaOCApgwggKUMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUc85hT5ORwLlqA7xn92HX
+QhcPWeYwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzBOBgNVHREERzBFghJiYWtpbmd3aXRoYnlsby5jb22CF21haWwuYmFr
+aW5nd2l0aGJ5bG8uY29tghZ3d3cuYmFraW5nd2l0aGJ5bG8uY29tMEwGA1UdIARF
+MEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6
+Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA
+dH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFpdn9XrgAABAMARzBF
+AiEAy7IyM0P5+7wrEjC6L00r+eFTKPv5PwMmY+kH2u8CBtsCIDlyZdorB4gLSUNK
+BEPFxiOvgisedVK4BTkDn4xzuxF3AHYAKTxRllTIOWW6qlD8WAfUt2+/WHopctyk
+wwz05UVH9HgAAAFpdn9V2AAABAMARzBFAiBrl5p+qKFpzTeb/PkEg2CBJ88UOHSG
+X7OzHIt5cgzM6QIhAMPxXn+M0F7HyfN3/oe+vE6ILDx0tgZTT/BcRDRRiMgAMA0G
+CSqGSIb3DQEBCwUAA4IBAQAAtRFNzQ+3G86wLVXhHvTgwHUa/X1ggGUqY+aXV5d1
+kaJSRYKZNwSMngB/KlC+H4ycFJeSC9/ooExf28Us7TnZfyTjJKgpnK/bE5Ar3DIb
+yhQ/T62ywe7EgUHFJZUSAzhBrNtyeWjEDdzcykP82EjZ4/wnc/gCi7gUBaCuFaBv
+ZuVaxqgYmCtFVI7ckT++ON19kNJolSqb/C+y/ySe9iiTNMfp0bRwak37lc4rV3W/
+r7NkYjFdvtvJNUD++IjzdKYkdI5gZU369QHTLu4CDHxy1dMsZRkA/X7CmtblpmpD
+4KVCE19WyYylEwXzw8WggN8rCmYd4xEbyQ5EaFccBzs6
+-----END CERTIFICATE-----
+subject=CN = bakingwithbylo.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3279 bytes and written 427 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 5AC2657AD460DE53070FD26C7E2F3A924C1D1DBAB1446929728063886E5D1C27
+    Session-ID-ctx: 
+    Master-Key: 3327E73C9B813F0D6860CC55802164463069D5E554C01010E84DBD454DD50C3A5DD07A07911CDB253D01B1C609DCAE24
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 22 20 d9 69 d4 51 19 f4-b2 f7 d5 c7 2d bd 58 53   " .i.Q......-.XS
+    0010 - 42 2c 6a 10 28 ce 05 eb-18 c1 ee ca 16 ff 18 1b   B,j.(...........
+    0020 - 10 1b 16 3b 7f 1b 56 d4-7d d2 96 d1 73 95 e4 5c   ...;..V.}...s..\
+    0030 - 3a 4d 16 fb 89 ca 27 64-7a 75 6d e4 f8 4c 11 ce   :M....'dzum..L..
+    0040 - 89 cd 3d dc 93 2b 8f 12-91 78 1b 1f df e5 3f 1b   ..=..+...x....?.
+    0050 - 5c 0a 82 b0 42 38 74 10-da a2 46 98 dd 3a c7 05   \...B8t...F..:..
+    0060 - ec f3 d5 d2 a2 00 93 03-ed 0c d7 50 48 ed c3 45   ...........PH..E
+    0070 - b9 a0 14 3a 4d ae cd ac-65 c8 b0 f2 f3 ac 35 f9   ...:M...e.....5.
+    0080 - ef 29 c7 1e 46 eb 97 37-d5 4b 48 8c 6a 47 f7 11   .)..F..7.KH.jG..
+    0090 - 14 84 87 ae d5 94 9a 08-08 9a 2a a1 69 19 2d a8   ..........*.i.-.
+    00a0 - 81 25 fc ec 9d 85 02 7c-f0 c3 e3 9b f9 d9 81 40   .%.....|.......@
+    00b0 - 03 f5 10 83 2e 12 74 3d-b1 4e 91 f0 50 da c7 d4   ......t=.N..P...
+    00c0 - 6f 1d 03 7e 16 97 26 32-57 ee ee 03 f3 b7 86 a8   o..~..&2W.......
+
+    Start Time: 1555678816
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

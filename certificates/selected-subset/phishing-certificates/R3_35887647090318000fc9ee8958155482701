@@ -1,0 +1,65 @@
+https://srnbc-card.com.kombus.cn/mobile/smbc_mobile_signin.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = kombus.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMjCCBBqgAwIBAgISA1iHZHCQMYAA/J7olYFVSCcBMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDExMzI5MTRaFw0yMjAxMzAxMzI5MTNaMBQxEjAQBgNVBAMT
+CWtvbWJ1cy5jbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKaT0yhV
+af404TcU3R/YWsHZT9cLHsRDKB+GSbehqo9uUsKZgM/uPWuDTK8r42DM2//tXdYz
+q+LWKvToKjoKvBwnGK/aJWSHUDgVq6vRdKEEKDQqBFoZesSSXVPPGOfm+GDqX4bw
+wE3byUXz+iUhZVfl62ud3U3/upwIr1QcKEPACcjshePlV31jYOfQHkGXjxm0McxF
+vntI5zy+1yzU+tl1eszmben91nJkr1vdMN4JYyCokLmFXoWWoPSOWshAw/0RiPcL
+mpzEQ/9Wy0KdgmmeoZutotp2AkQFFX+CGXQ/K1UpkB61QHQyeq5gUzj8tp5v/3ox
+wEaOYQq3BGWARyUCAwEAAaOCAl4wggJaMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU
+IdyYWrLj1/8sU4oAtsS6dRYHf8owHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+v
+nYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5s
+ZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wLgYD
+VR0RBCcwJYIJa29tYnVzLmNughhzcm5iYy1jYXJkLmNvbS5rb21idXMuY24wTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHy
+APAAdgDfpV6raIJPH2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAXzb54EJAAAE
+AwBHMEUCIQCmkVphskAMK/PdhTqtQoxhACwttjPHgpw5COzdVxK+pQIgZ3u+Va5i
+5vLogRbzhVA59d5uvyQlsCxvfzeuTfxI+JIAdgBGpVXrdfqRIDC1oolp9PN9ESxB
+dL79SbiFq/L8cP5tRwAAAXzb54ExAAAEAwBHMEUCIBOOhfsbWpHMwjBPz1bYWeDq
+nODte7wgGigSZ0zrRYACAiEAyAj4vhD60222JiOtMd4yLOm0LcKxrlajl3gtPyMm
+ZUgwDQYJKoZIhvcNAQELBQADggEBABkAHRMKQ+t+8C3t56rIV/5cjU2bGDGXgwKO
+k8PLBG0ba3XV89E+3E+zmZAzLFDb2VeOGgpYCRNKaFeCWye5mSw0nihVUNhAwVX6
+J+4bnChteNyuZ5aIWClXB7sOSqGRL61Hxx1Wub3T70UmbHYNfkJIZqmv+y4PydRK
+H4r5+XWOMJDa7om5BGvdNpN35iikwYVRq1gJSluNFXZK8vC+NBZNSBS948dnh18d
+1dG5yXjho4FZ73pE05kj0/LPrN59tP6jiSCDxqiFGoDk3qm80FKis+c/oTOB/FtI
+htxPCp50wgVLcICHGiYKFRu5u1OoHNN62ss6ItYjp+y/n2rZCb0=
+-----END CERTIFICATE-----
+subject=CN = kombus.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4590 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

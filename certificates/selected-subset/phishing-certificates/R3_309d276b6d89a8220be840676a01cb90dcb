@@ -1,0 +1,71 @@
+https://justincaseofemergency.com/ana/D7/sharepoint-D7/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpcontacts.justincaseofemergency.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGPjCCBSagAwIBAgISAwnSdrbYmoIgvoQGdqAcuQ3LMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMDYxMTQ3NThaFw0yMjA1MDcxMTQ3NTdaMC8xLTArBgNVBAMT
+JGNwY29udGFjdHMuanVzdGluY2FzZW9mZW1lcmdlbmN5LmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAKhKUVwrynVzWVvZip/drFzQZNnZa0wbt0Zt
+eJqGono1honCWfsd6k2+B0+kEOf1qHQT5OMmGDzCeAcxZeh/P+MHCpB4EAeB6x1e
+6JolDmumYMspxshHvQma8mJvjUeUN8sIQBXui7nqUGhQSGOViFpk7jpPoOSHyBdu
+YY3mqbVCLn3YxM2UCCJe+s8vm2hCnnd9MBTW7xVd2lqKdlhQUOvXx7Tj+sxLpmQK
+ZfY4f3XBbedYn4KJWFFSqp+K3cfA24qzD7/29DbSLTn9n9MzCee2skXSefai8XF6
+J+FbY2mea2NRKdQQXH/vVpbKc96uvmwCc2MuB6+jFqLZZzefi1ECAwEAAaOCA08w
+ggNLMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU64qcJoZjmNcmKLFjth/bbsXkyssw
+HwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBH
+MCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKG
+Fmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wggEcBgNVHREEggETMIIBD4IgY3BhbmVs
+Lmp1c3RpbmNhc2VvZmVtZXJnZW5jeS5jb22CJWNwY2FsZW5kYXJzLmp1c3RpbmNh
+c2VvZmVtZXJnZW5jeS5jb22CJGNwY29udGFjdHMuanVzdGluY2FzZW9mZW1lcmdl
+bmN5LmNvbYIZanVzdGluY2FzZW9mZW1lcmdlbmN5LmNvbYIebWFpbC5qdXN0aW5j
+YXNlb2ZlbWVyZ2VuY3kuY29tgiF3ZWJkaXNrLmp1c3RpbmNhc2VvZmVtZXJnZW5j
+eS5jb22CIXdlYm1haWwuanVzdGluY2FzZW9mZW1lcmdlbmN5LmNvbYIdd3d3Lmp1
+c3RpbmNhc2VvZmVtZXJnZW5jeS5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYL
+KwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlw
+dC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwApeb7wnjk5IfBWc59jpXfl
+vld9nGAK+PlNXSZcJV3HhAAAAX7PE6Y8AAAEAwBIMEYCIQCNkQoALcd1HtjX2Uff
+lGMZz6HfLkJUJv1NKNDtyBS3igIhAJe1BnUFeTC/Z8PDwM8Pj3olbHXe68Fz7eGm
+zu0l/yroAHYA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF+zxOm
+ugAABAMARzBFAiBIoH2bMLw8k2PH8bAwljSP5kNuElfALxmY5IZi+dcnkQIhAOLT
+G2abEVFWFcsq863HBrWxYPjER8xhaONPf+okJPRUMA0GCSqGSIb3DQEBCwUAA4IB
+AQApY8v7Jq2+4WSfpTfSHJaZv5F7QpQaBFeOsDFd0y8loCFrsr3m/BjYvpCZIPM2
+48LegWObA0Qj1yB+Y0dCXRZGt/dRP5vn/8LcLn6QAEA3MIe3136ZgtOn3caCpNv3
+knZNcUhRbcjlri3oicj0Ni+9Y38ECPVBOkp/admkuoXxGtudayYsYRCCB5Z6j5G1
+UvBMN1BvnslUfd5AVHqdWYicYBHgvUMQ5A/Ggepd2j48ucmqUkF8bNosSvMnkm3Q
+VSCONVesBzIntkEf9bSyfUiBVFng5czX5th4A9JGcMFAyWMx3I3dWUDPHUI+lO6T
+pfbhMiA0U9O16OWbh9NRFJE4
+-----END CERTIFICATE-----
+subject=CN = cpcontacts.justincaseofemergency.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4858 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,65 @@
+https://theory.prionics.net/disastrous
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = theory.prionics.net
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKzCCBBOgAwIBAgISAyJ2CI1uxGNnUGZvIQfZdO6jMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDgwMjExMzlaFw0yMjAzMDgwMjExMzhaMB4xHDAaBgNVBAMT
+E3RoZW9yeS5wcmlvbmljcy5uZXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDsSlShX6fDoaSPFesQNhTp60p57dy+GAHQuhjGAUDbWhTLZbtXqmLk9dTW
+JREM08d+ajL9XJhZRGx71tOia0d+KcFXzzJRxagkLT2G9WKerhI8MeNWgEH84F3/
+D2h4YFxptXN/wzdjhrs1s6nEUg0lO1KyHXKSTpaB5AZXgRXQVqx06pUSxry+68NB
+UMk10Ycgn3i4hGY/wrIIc3NY1rU9YbVFtJp1GQV404vvnWGPUlpUfmpajDOsPUiJ
+iQJEESw4vbxQz7ywalS5GbaIz6sThPg2iNTut3SSP25+JFtxv+ttRePja1Htvu1M
+V/s51QBP7PQCybxfWCN9QUuGIvgrAgMBAAGjggJNMIICSTAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFGWhpUo5PkyXVof4xGJBfSkVRZ6WMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMB4GA1UdEQQXMBWCE3RoZW9yeS5wcmlvbmljcy5uZXQwTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQBG
+pVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX2YBnRSAAAEAwBGMEQC
+IDimHu04/JVGfKNczTrqUN03WNyVC8ip+03yCaIXauzRAiAkhPp5ZmKvkFEvnSyF
+2V7nyhk2qxgw3bBTCD4b4ciDggB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do
+8JBilgb2AAABfZgGdh4AAAQDAEcwRQIhAPasl4Wf0d9tKiFZv5amQlOc2heU7U9X
+adPcl4J22Z7WAiArEmOJc6UnlinkD72ZEmSxs61OGopR95WSNp6dzaPKezANBgkq
+hkiG9w0BAQsFAAOCAQEAUMZfBkiLYH6jY4HvjEWcd35MjchQGG8bOYQEB3prG+OT
+WWGxd+yX1ssIpgXOs5PZ52H6CQt+LHInBRzJb6j6R+pdVJNasheqFhZYUYo/gNV7
+Dex7psOjMmHoi/pRnn40Ate4dlnXFXm69Jdpw+SSZnEAlDwlwS5wPnguxbcbzgfU
+9TsnT4Bh3cTZ32vUsRdt+WbXyasf02YeIRRJJI5JaVPCua7+4ouwupeN6tTACA72
+yIDZPXM13LbtAuWewGeSZgce/5+DJcZ+rWeJBtb4c/coE/zvBplBqzbMotcycLiC
+k5uThSbvni96XcxKaXVQsYA+yt55o2kMpuiwdvXcmw==
+-----END CERTIFICATE-----
+subject=CN = theory.prionics.net
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4583 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

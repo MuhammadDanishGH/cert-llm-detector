@@ -1,0 +1,92 @@
+https://kidzonelearningcenter.co.za/wp-content/plugins/three-column-screen-layout/SC/EN/x5l3xVhelPw80qrflcVuG7GrzNwPBNj7/SignIn.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = kidzonelearningcenter.co.za
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGIzCCBQugAwIBAgISAy0bNy+5o+Uj7oHZQ2hjA0gLMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MjcwMTQxMjFaFw0x
+OTA5MjUwMTQxMjFaMCYxJDAiBgNVBAMTG2tpZHpvbmVsZWFybmluZ2NlbnRlci5j
+by56YTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOTUQxpmUGQF9Tsz
+eHMyyUNa4UvDAgU94+YHXkmn7us5/rGXgbT9NBMrEoP6/0yJ43cea9XUj+Dirjfa
+OWTxYLOe6AMYZig2/Sd+k+3HSnVRwoL3YkyHSBB2RTfzt+62gosAcTmG0LsWEk4n
+Ei6SkApuuh9xdSl201Rxf2pVp5aodAAYRHbUWfRaoakqUfw/Ljh6K5VB7ueLwQqQ
+9O5lUDfuWT0UubDzuJvR5rc22t/TevL0QosqpM0gqMt9JsQ5KbR5MWHpiX9OaFWs
+c7HFN213CJeFY7BiSn73uEO3XCDGTmLhrdrK5YQSJcDKtYD/gscVB6qGT6DxwRZs
++jMVPI0CAwEAAaOCAyUwggMhMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggr
+BgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUaaI+yX5h
+pVejsbyg5E55I0fr4t4wHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEw
+bwYIKwYBBQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMu
+bGV0c2VuY3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMu
+bGV0c2VuY3J5cHQub3JnLzCB2QYDVR0RBIHRMIHOgiJjcGFuZWwua2lkem9uZWxl
+YXJuaW5nY2VudGVyLmNvLnphghtraWR6b25lbGVhcm5pbmdjZW50ZXIuY28uemGC
+IG1haWwua2lkem9uZWxlYXJuaW5nY2VudGVyLmNvLnphgiN3ZWJkaXNrLmtpZHpv
+bmVsZWFybmluZ2NlbnRlci5jby56YYIjd2VibWFpbC5raWR6b25lbGVhcm5pbmdj
+ZW50ZXIuY28uemGCH3d3dy5raWR6b25lbGVhcm5pbmdjZW50ZXIuY28uemEwTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHz
+APEAdwDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWuWzxCfAAAE
+AwBIMEYCIQDvS5oPg2N1mcIwreYF7w/e6YkBwsKEdJo3YsoFvt52wQIhANQikjEM
+MUfz3YCoNdGEbvWBTuM0vvev0JTMo1RklfmWAHYAKTxRllTIOWW6qlD8WAfUt2+/
+WHopctykwwz05UVH9HgAAAFrls8QlwAABAMARzBFAiEA1mO+unHzwLefscIE5y5v
+Ayap5A79ig/VESqC7vqyL2kCIC0hfQAOVFxslCCQJA4KDQWY5t/YZhBhf/9C52ia
+D9M8MA0GCSqGSIb3DQEBCwUAA4IBAQAetlTvgywesLFkjMz5OR9A+FrL2uuORb7J
+AqE0v84cLVgMFr0Epq8KRW7nz8d/KFTDcUFP3e4xxvm2eKeTTa0yE0Eq01kgI79/
+trLEOVlbbUeqIbh7pW6LBgPZMRE2vvqIW9JE+QmSh19ffc+Yc8wjuOt2qH9h2nRi
+Pgs587JmWyZG8956P1ZyHwaAAT2I9ucRWj1GL9vucxcTHsTNIVB6eA81ARfEtQQE
+wRyfEdjj+xYpWs30hdCa7KYQTYVda5D5mXlnrcA3FkD1EtrYtrPjj3sMYVcr25uB
+YUC4Z5iNgrd9U4aXydc60bNGyy2lrMHfYR+vTFI37L8qnXoZ4y17
+-----END CERTIFICATE-----
+subject=CN = kidzonelearningcenter.co.za
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3375 bytes and written 432 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: EF80197084DD799CD655D1B67D16C284E27860E6EED6A2A9A60DAA441FFBC41C
+    Session-ID-ctx: 
+    Master-Key: 2E5C8291CBF04273EB2BDF1F3D1C97F759E56DC78EB0734D1E445CDEC514D4B0608DA3304A719969DC22EFD9099A5279
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 5f 05 06 c9 30 dd aa bc-de 63 de 3f f5 ad c3 1d   _...0....c.?....
+    0010 - df e2 c3 86 e6 1e 3d 79-26 f5 5d b3 9f 2b 1d 9b   ......=y&.]..+..
+    0020 - cf 18 3c 3e 31 b5 7a 17-5c a9 8f 0f 4d 9d ce 2e   ..<>1.z.\...M...
+    0030 - bf 75 f8 05 d8 04 fe f1-f7 5e b9 47 c3 64 36 9f   .u.......^.G.d6.
+    0040 - a1 ae f8 62 d6 4e a8 50-38 64 7d 72 0c 62 5c 25   ...b.N.P8d}r.b\%
+    0050 - 7a 17 3b ce 85 9e 89 84-75 e5 2b 85 82 38 61 29   z.;.....u.+..8a)
+    0060 - 9c 8d 13 4c 35 26 8a cc-44 73 42 58 0a a4 d8 00   ...L5&..DsBX....
+    0070 - 68 88 dc 99 d2 3c d4 e1-7d cd 21 6f 0d e4 4c 01   h....<..}.!o..L.
+    0080 - ec 81 70 16 ae 79 b7 f7-63 89 c7 69 f8 7c 24 9f   ..p..y..c..i.|$.
+    0090 - da 91 6e 25 7d 5c 15 43-a1 c8 9a 8e 4b 49 bf 0a   ..n%}\.C....KI..
+
+    Start Time: 1566219627
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

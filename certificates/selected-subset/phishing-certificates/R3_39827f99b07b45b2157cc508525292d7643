@@ -1,0 +1,62 @@
+http://www.woodbridgedevelopment.com/wp-admin/network/ziz/MyOrderPost/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = woodbridgedevelopment.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEijCCA3KgAwIBAgISA5gn+ZsHtFshV8xQhSUpLXZDMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MDkyMjI3MjBaFw0yMTEwMDcyMjI3MTlaMCQxIjAgBgNVBAMT
+GXdvb2RicmlkZ2VkZXZlbG9wbWVudC5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMB
+BwNCAAQDDPJ3fHLursp30u7aoegv+S8bDmZUZbCcBRhrwdemVZMTgbzlPVrDdt6h
+Oi5jgjjpuzjbaAOXfryN7rdeo12Ko4ICcTCCAm0wDgYDVR0PAQH/BAQDAgeAMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBSli7uaxW9B+ZNo2TnCoppGef/B+zAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzBDBgNVHREEPDA6ghl3b29kYnJpZGdlZGV2ZWxvcG1lbnQuY29tgh13d3cud29v
+ZGJyaWRnZWRldmVsb3BtZW50LmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1AJQgvB6O1Y1siHMfgosiLA3R
+2k1ebE+UPWHbTi9YTaLCAAABeo2Y0XMAAAQDAEYwRAIgOCDTgK3ARLu8zQmj5uDG
+31e0Bvqj1MQGXaRe+OhssDACIHSaLfBmVxv0ocNAkqP+XHZZ6W9FNOtdPAnx4CZ1
+0MPWAHUAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF6jZjSFwAA
+BAMARjBEAiAHe09KG7b/OY3hcRISwBH193e00Z+ZDkZ32l8LRreRxQIgXUNXsHQm
+PynUgbmKOhTQcxv9yUPAGw2OfCIyvRqq8CAwDQYJKoZIhvcNAQELBQADggEBADTN
+k9ibDzE3gGZtfNZzP6iORVxNedTkGgt+qUGBHc2P1sppmsLCYTxyQcVf9be7iJpE
+4P+zbhnpF/3RWzovYQzSIf/PCuOQyqPCyd3o8mFrAmNoHTpFy6ClBITFqC2oWIXO
+uFD6LP2pP58CCS5JbecDwZ+X7QA8PBuiz35jxNUEfXyJo/hzL1AEIhgwMxGxfHfw
+9FLP6y/HEFPjvAb0TQocPQmYOjwbCarCnbnEB/EfDpCfwRA03s9dN7lhIZ15dFBE
+27G/IGL1zKJp2V7vCBJQQ3KjIMLXSeMlc7dwxD0RRqpGbEGgVI2T7/tgLSNy7p6p
+1W1xhIFFyi9tDXDOCsc=
+-----END CERTIFICATE-----
+subject=CN = woodbridgedevelopment.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4237 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

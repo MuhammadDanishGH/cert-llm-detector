@@ -1,0 +1,94 @@
+http://vignanits.ac.in/js/box.com/login/verification/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = vignanits.ac.in
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF7DCCBNSgAwIBAgISA1pV9CcXACC+LgkKp1sBJQthMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMDExNDU1MjlaFw0x
+OTEyMzAxNDU1MjlaMBoxGDAWBgNVBAMTD3ZpZ25hbml0cy5hYy5pbjCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAOAijgox2PzbFgvT0HrR445lKrD8zSyA
+ufIZkzkimqGFSpBusTKnzcafLS/JDzM/oF6wTHX7+yfoPS71dTQ0Vz61xpiRGZ9U
+QsC08Zcjt2OsDZTFJQDq9CE4XeEO7Cxthi6nyFed2lpY23zX42gm3//MKg9PKK2l
+41lPPxSTa8HcMEnZwNlxZSZTgTPBsoW7m9h4G85JO33bqxTqK6lisbT3wf5/qWVV
+xTFoLvB44CH2IoxuuBDlI+FcO/p9xbYXhYXfdDe/CsB+tcLUZnwOo8fhyILM6KSd
+/vIx+VYGrCx/xm/8yaVGUPdjy/YCFXiylE+v08EVpuXWLbuVgqPQJBcCAwEAAaOC
+AvowggL2MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU2OXavH3K3m0+yIq7KSA0RhrK
+dqMwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnLzCBrwYDVR0RBIGnMIGkghxhdXRvZGlzY292ZXIudmlnbmFuaXRzLmFjLmlu
+ghZjcGFuZWwudmlnbmFuaXRzLmFjLmlughRtYWlsLnZpZ25hbml0cy5hYy5pboIP
+dmlnbmFuaXRzLmFjLmlughd3ZWJkaXNrLnZpZ25hbml0cy5hYy5pboIXd2VibWFp
+bC52aWduYW5pdHMuYWMuaW6CE3d3dy52aWduYW5pdHMuYWMuaW4wTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdQDi
+aUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAW2ICJ2xAAAEAwBGMEQC
+IBYZn+eBu+tf9uzaSF2DKkal/yR3acxy4vgMObKcTZ5UAiBEr3QDCllIjQ2IOihu
+HkJQVU3mwW9W/yUmE2ot7FjsUwB3AGPy283oO8wszwtyhCdXazOkjWF3j711pjix
+x2hUS9iNAAABbYgInbMAAAQDAEgwRgIhANdDSGYdr3T0gmevreCDxKbZO/j3CP/Y
+2LxCvvjzlP1nAiEA6WSafJvR/ZcHqqWX0IRh46pqKX83ChMDyCwC4cITEGEwDQYJ
+KoZIhvcNAQELBQADggEBAGsB4lzYlTqMKjSltX36ajIoQ4Cit73imVDoRalv5hZk
+JMioBMncht4j/XTFH0Q0Muj0m+skcEGBsLnTLDjfcnIfA+zs80uCD5rFhIVW5Snn
+552JbJwxo17abC9FE3bC41d/nBrY+BWPn/hurUME2ASbz6fn//u40vLQQTCi54r5
+K9tCDV8WiY+ZyMcyKLEaBhUAyznqojFI4vlcmIH4dGVdGO89BuJ8sEEkxpD2bXoX
++HVMq3H9y+oAatKt/Z1FhupKVnTG8SBdKJ7iIaBaCWbXOXGtJJohU9bwcDUxOTbs
+dukql1PI8E2yUOlugEKkdGz+aHMZw3bGW0Q6//IglD0=
+-----END CERTIFICATE-----
+subject=CN = vignanits.ac.in
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3403 bytes and written 453 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 45C594E9D6F21CA3A55FA9179B48726BEAB19CA4617ADB81EE96853B9E1BABE8
+    Session-ID-ctx: 
+    Master-Key: 8E17EF6308BB657933D1F340277F5FEC8852BEE418B8736F2D309CED80FAE8AD0A1F66E3E3C507F0762FEDA4C2632978
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 98 ca 98 1e 29 11 02 ca-53 41 9f 7c 1c d6 40 bd   ....)...SA.|..@.
+    0010 - 82 e6 d8 f7 4d b1 1e 8f-91 1c ee bf 09 60 e0 66   ....M........`.f
+    0020 - 20 bb f5 21 00 21 c1 38-6e b5 b3 4e c2 80 a3 d0    ..!.!.8n..N....
+    0030 - 98 06 6d 2c c8 57 0d f8-bf 93 56 57 25 94 9d 15   ..m,.W....VW%...
+    0040 - f4 b2 c4 7a 26 1c 90 2e-74 44 1a 55 10 02 80 46   ...z&...tD.U...F
+    0050 - 05 d8 ce ba 44 2e 2c a8-cb 5e e4 98 b1 f8 8e 36   ....D.,..^.....6
+    0060 - c1 0d e3 76 c0 77 a6 ba-5b 32 eb 4f 3f a7 e4 74   ...v.w..[2.O?..t
+    0070 - f8 70 44 f6 02 9b a3 3f-76 8f 09 1d 96 7d cd cd   .pD....?v....}..
+    0080 - 22 17 a0 63 01 ac 32 de-cd c1 84 98 76 b1 74 3f   "..c..2.....v.t?
+    0090 - 68 e8 89 99 3c 77 11 fc-58 e4 78 c0 10 a7 37 4f   h...<w..X.x...7O
+    00a0 - 55 f9 b0 a2 7d 09 ef 91-13 97 c9 1e da 07 ce 4d   U...}..........M
+    00b0 - 19 bf 84 35 54 6a 15 ad-ac 4d 52 f7 c9 d3 1b 3d   ...5Tj...MR....=
+    00c0 - 8e 29 ae d1 81 1b b2 51-b4 11 93 ad ab 21 48 f2   .).....Q.....!H.
+
+    Start Time: 1572008428
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

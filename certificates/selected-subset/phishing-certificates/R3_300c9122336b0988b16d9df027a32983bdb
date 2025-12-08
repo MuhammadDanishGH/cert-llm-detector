@@ -1,0 +1,66 @@
+http://instagramcopyrigtnoticeig.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.instagramcopyrigtnoticeig.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYjCCBEqgAwIBAgISAwDJEiM2sJiLFtnfAnoymDvbMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMzExNjMyMTZaFw0yMjA1MDExNjMyMTVaMCoxKDAmBgNVBAMM
+HyouaW5zdGFncmFtY29weXJpZ3Rub3RpY2VpZy5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDj3x/aVaP6v6QwuHiBf8kktN4wyFXldtQ5AdZsypUC
+Siz6CkNRVqf1suqFP7ZSlf/DeknjxrFIFevvc5tFiilDYgWB5K0O5tBs1pHPkh4i
+tUHtjlItNVHhkue7ynzwAd+mmU+iqyupVBoiXFMktA7qQTbk4IIwnUIHpQa7xq+L
+WjbiMZ8UbU2YICqpsEVV2dMLraFqaNvLuADIaS57kk4lwkNHRlq/IUwwWiTdAG2b
+NjPyp+hJEZZ0sqn9U5SWtaoywy2ni1JDEEWZPrjSzwFKhsExsQHC4uHjMJW3yzj0
+Wxgq4bqtLN0HHBzrtZ8zEnNURiPtrNA2PoE0Z3TiiBGRAgMBAAGjggJ4MIICdDAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwG
+A1UdEwEB/wQCMAAwHQYDVR0OBBYEFJSpcG/XlSK0EtSyvRq5l5oeYpw6MB8GA1Ud
+IwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggr
+BgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRw
+Oi8vcjMuaS5sZW5jci5vcmcvMEkGA1UdEQRCMECCHyouaW5zdGFncmFtY29weXJp
+Z3Rub3RpY2VpZy5jb22CHWluc3RhZ3JhbWNvcHlyaWd0bm90aWNlaWcuY29tMEwG
+A1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEW
+Gmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB
+8QDvAHUA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF+sTHJIgAA
+BAMARjBEAiAKL2JZx0gkWUf+W7gXYFd+F6ap/ENYfQ+Mmst+1gYNCwIgO8HSpyfS
+R7Lxml54Og+Uz6/E119vNOLUjVsuiThdTscAdgBGpVXrdfqRIDC1oolp9PN9ESxB
+dL79SbiFq/L8cP5tRwAAAX6xMclJAAAEAwBHMEUCIQD6nNt/+T8MhWtPixzaILNG
+Se/LXlgHTtr7zAifDQtPawIgTM9XxwBorwjlt1Gq9lpi0YwFJ/MSGBETUYc4VTIJ
+fN8wDQYJKoZIhvcNAQELBQADggEBAEWOJb6A9EBlr9bKyIZ95tTQfIgf0kZmZ+Cl
+tkxb5E5pLn/Hs+8O8o3LNhtSSUQfl9nbH86B2gA2psRuPmZ+yKgW0p2ZzgwM7ePw
+GU81mmTARXrUfW7bhG3qV2YBsG9gf1YCUN347JYz3YG8og5M0VxdypBGRqoPMbTe
+DB+X6vaaxxLHObtXZRNLgA92yd0uuXs1GxBFdjeyFXNId4o9n5FCnd5wn0U2dUus
+cJGWHm9MDdvqn3ugwGf63PDBVJhfWKaa0erH5Wz4NhBEsl64CNx7KQt3z6O3u/7L
+xZgdsAghk599IJO+HAPWVNGO6BbW5Fufq+ZjlIJHwkg4/1HcIoc=
+-----END CERTIFICATE-----
+subject=CN = *.instagramcopyrigtnoticeig.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4568 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

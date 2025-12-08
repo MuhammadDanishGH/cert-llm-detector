@@ -1,0 +1,94 @@
+https://benefit.serveftp.com/?checkid=a@abc
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = desire.ddnsking.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIKnDCCCYSgAwIBAgISBMczfzfU0Cl9KcG4KY+/3ux/MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjYxMDA1MjlaFw0yMjAyMjQxMDA1MjhaMB4xHDAaBgNVBAMT
+E2Rlc2lyZS5kZG5za2luZy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQD4Xjn/gbzfmc3yQ2ZIfgIIpJv1DT6JlL5ckefyNDi2URayXc5i9BUiyWcL
+LlKIA+NMjVchGeu4x/HyV6YZcrMR+cCR0TZycBEGzKhhkya6xQqzs1que0xd7sTR
+LurrAaEskNWFx2RjnKoRHwcLCEnJQRT5yaQw+e8a8qWkIjiAB/YGgPl8Y8DHRALE
+l4smkfpwtmFd+evWh6d7A2UXxD2BCJz1BWhBWPq0xyVe11TCRKZhrK28st+uHKni
+Nd24SmPGqA8OPvQ3D5dfpK890Z/QEaSYtcHALnpY/8Tj7dv91Gqka33cGDN+d4V3
+tQ+Z2zDVCLhhPQ0KUhtmwBno43n5AgMBAAGjgge+MIIHujAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFAi7tMqXWbaT4YXg/n32rw7Pe8kXMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMIIFjAYDVR0RBIIFgzCCBX+CEWFjaGlldmUubXl2bmMuY29tghZhZGVx
+dWF0ZS5zZXJ2ZWJlZXIuY29tghhhZHZhbnRhZ2Uuc2VydmVxdWFrZS5jb22CFmFk
+dmlzYWJsZS5zZXJ2ZW1wMy5jb22CGGFmZm9yZC5zZXJ2ZWhhbGZsaWZlLmNvbYIX
+YW1iaXRpb3VzLnNlcnZlaHR0cC5jb22CE2Fycml2ZS5zZXJ2ZWZ0cC5jb22CFGJl
+bmVmaXQuc2VydmVmdHAuY29tghRiZXR3ZWVuLnNlcnZlbXAzLmNvbYIVY2VydGFp
+bi5zZXJ2ZWdhbWUuY29tghVjb21wZXRpdGl2ZS5teXZuYy5jb22CGWNvbnRyaWJ1
+dGVzLnNlcnZlZ2FtZS5jb22CFGNyb3dkZWQuc2VydmVtcDMuY29tghNkZXNpcmUu
+ZGRuc2tpbmcuY29tghhkaWZmZXJlbmNlLnNlcnZlcGljcy5jb22CEmR1bHkuc2Vy
+dmVnYW1lLmNvbYIUZWZmb3J0cy5zZXJ2ZWlyYy5jb22CEWVubGFyZ2UubXl2bmMu
+Y29tghdldmVyeXRoaW5nLnNlcnZlaXJjLmNvbYIXZXhlcmNpc2VzLnNlcnZlYmVl
+ci5jb22CFGZ1bGZpbGwuc2VydmVmdHAuY29tghtoYXBwaW5lc3Muc2VydmVoYWxm
+bGlmZS5jb22CE2hpZ2hseS5zZXJ2ZWlyYy5jb22CHGltcG9ydGFuY2Uuc2VydmVo
+YWxmbGlmZS5jb22CGGludGVyZXN0ZWQuc2VydmVodHRwLmNvbYITbHV4dXJ5LnNl
+cnZlZnRwLmNvbYIWbWFpbnRhaW4uc2VydmViZWVyLmNvbYIVbWFya2V0LjN1dGls
+aXRpZXMuY29tghVtb3Jlb3Zlci5zZXJ2ZWlyYy5jb22CFG1vcm5pbmcuZGRuc2tp
+bmcuY29tghZub3RpY2VkLnNlcnZlcXVha2UuY29tghZub3dhZGF5cy5zZXJ2ZWJl
+ZXIuY29tghdvcHBvcnR1bml0aWVzLm15dm5jLmNvbYIab3Bwb3J0dW5pdGllcy5z
+ZXJ2ZWlyYy5jb22CG29wcG9ydHVuaXRpZXMuc2VydmVwaWNzLmNvbYIXb3RoZXJ3
+aXNlLnNlcnZlZ2FtZS5jb22CFW91dGxpbmUuc2VydmVwaWNzLmNvbYITb3duaW5n
+LmRkbnNraW5nLmNvbYIUb3duaW5nLnNlcnZlZ2FtZS5jb22CFW93bmluZy5zZXJ2
+ZXF1YWtlLmNvbYIScGh5c2ljYWwubXl2bmMuY29tghRwbGVudHkuc2VydmVodHRw
+LmNvbYIUcHJpdmF0ZS5zZXJ2ZW1wMy5jb22CFXByb2dyZXNzLnNlcnZlZnRwLmNv
+bYIUcHJvbWlzZS5kZG5za2luZy5jb22CFXF1aWV0bHkuc2VydmVwaWNzLmNvbYIX
+cmVhbGl6ZXMuM3V0aWxpdGllcy5jb22CGnJlYWxpemVzLnNlcnZlaGFsZmxpZmUu
+Y29tghZyZWd1bGFyLjN1dGlsaXRpZXMuY29tghhyZWxheGF0aW9uLnNlcnZlaHR0
+cC5jb22CE3N1YndheS5zZXJ2ZW1wMy5jb22CFXN1Y2NlZWRzLmRkbnNraW5nLmNv
+bYIZc3VjY2Vzc2Z1bC5zZXJ2ZXF1YWtlLmNvbYIWdGhlcmVmb3JlLnNlcnZlbXAz
+LmNvbYIXdHJhdmVsaW5nLnNlcnZlaHR0cC5jb22CFXRyZWF0cy4zdXRpbGl0aWVz
+LmNvbYIYdW5pdmVyc2FsLjN1dGlsaXRpZXMuY29tgh51bnN1Y2Nlc3NmdWwuc2Vy
+dmVoYWxmbGlmZS5jb22CFndlZWtlbmRzLnNlcnZlcGljcy5jb20wTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdQDf
+pV6raIJPH2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAX1b6/SkAAAEAwBGMEQC
+IDbcBqyfJvWYH+qD96Qp+vrhciZYLxMjbeDFl8ER0O7EAiB1SH8YQSZUbXyv9GBW
+WKndB/Zteto4BJIEqKt0GEtugAB3ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1d
+JlwlXceEAAABfVvr9JgAAAQDAEgwRgIhAK0B675Snn+9eFBFsGM7KB+PuWPgmGyn
+QyBQMBKkfGbGAiEA1sYHHHQlHayn+ewxeEZWOk/Tcph9B5nccqylStsdQhIwDQYJ
+KoZIhvcNAQELBQADggEBAAkPmpShZEAdHYJoIe6UvZmyOnJw1VCENKAIbyedKUmn
+w4PmWG6qDoeM0VMy3ymOcwzembp2FdT873Mfzxwt/y6a1c/u7gjPgd8p6sGl5kD9
+OB8py7atqoop7zKcwj0kWTDq+tWVsxikZo6BfIpLcuiFGy1Y6DRac3zS6OH910kt
+CSEJycV184wP/Jgo7w14rLW+b4s3rsZvclbrdVLkvTj+SJXvHcZulZfCp5JlcWef
+U7elA79c+H1ymXHnq+1WFUlrO7ZONX8fnaeZL4GEZQuLul/tPeiYz2ZXklzgRFqX
+RPFdc6usK4tOU+QgCWEtnMCe9o8OR3gbheNneQULCw8=
+-----END CERTIFICATE-----
+subject=CN = desire.ddnsking.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5976 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,75 @@
+https://transferenciasinternacionales2021.com/bancos/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = autodiscover.transferenciasinternacionales2021.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHUzCCBjugAwIBAgISAyS4bAlOw3fdYAaeXlo0TLjEMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MzExODEyMzNaFw0yMTExMjkxODEyMzJaMD0xOzA5BgNVBAMT
+MmF1dG9kaXNjb3Zlci50cmFuc2ZlcmVuY2lhc2ludGVybmFjaW9uYWxlczIwMjEu
+Y29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA12fvrm9DU+J6Wxfy
+ea7SjaHnfF4soDMldj9G2BoIFMvFxxvmX2Xq1cILfhRs4OwAXsM2Hmkzx8bA2MWP
+4d+C6sRiagpgbJpIhH3JezCtLbPyuZQ9sXMtvKxtjSleNRfePwUasGln+YpOuWhN
+5h9AIElsjLjBYHNHn5G//ufeMLl3C52snFtC12dumYjkhqILq59b8xA6pBSUaC1f
+55mf0L+MJQBidd4Lo4TrRqN0ZcFaZzZ5NukAJ3yhFAILS675qsIY5UjgJnDiApcr
+YfdJs8pdu+zUr6EfOgmpt9PILSTnUjpaXYYO4/DYgHH+//qHS51iEnFfGqVMfi9Q
+03GdcwIDAQABo4IEVjCCBFIwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSfhDMbi3UL
+q/yAMZ7B7cSATHI/6zAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBV
+BggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9y
+ZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzCCAiQGA1UdEQSC
+AhswggIXgjJhdXRvZGlzY292ZXIudHJhbnNmZXJlbmNpYXNpbnRlcm5hY2lvbmFs
+ZXMyMDIxLmNvbYIsY3BhbmVsLnRyYW5zZmVyZW5jaWFzaW50ZXJuYWNpb25hbGVz
+MjAyMS5jb22CMWNwY2FsZW5kYXJzLnRyYW5zZmVyZW5jaWFzaW50ZXJuYWNpb25h
+bGVzMjAyMS5jb22CMGNwY29udGFjdHMudHJhbnNmZXJlbmNpYXNpbnRlcm5hY2lv
+bmFsZXMyMDIxLmNvbYIqbWFpbC50cmFuc2ZlcmVuY2lhc2ludGVybmFjaW9uYWxl
+czIwMjEuY29tgiV0cmFuc2ZlcmVuY2lhc2ludGVybmFjaW9uYWxlczIwMjEuY29t
+gjZ0cmFuc2ZlcmVuY2lhc2ludGVybmFjaW9uYWxlczIwMjEuY3Jjb250cmF0YWNp
+b25lcy5jb22CLXdlYmRpc2sudHJhbnNmZXJlbmNpYXNpbnRlcm5hY2lvbmFsZXMy
+MDIxLmNvbYItd2VibWFpbC50cmFuc2ZlcmVuY2lhc2ludGVybmFjaW9uYWxlczIw
+MjEuY29tgil3d3cudHJhbnNmZXJlbmNpYXNpbnRlcm5hY2lvbmFsZXMyMDIxLmNv
+bYI6d3d3LnRyYW5zZmVyZW5jaWFzaW50ZXJuYWNpb25hbGVzMjAyMS5jcmNvbnRy
+YXRhY2lvbmVzLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEB
+ATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQG
+CisGAQQB1nkCBAIEgfUEgfIA8AB1AFzcQ5L+5qtFRLFemtRW5hA3+9X6R9yhc5Sy
+Xub2xw7KAAABe52gmjUAAAQDAEYwRAIgUqkWj7V+E8V8leFWOUDL2rDw8AeezOD0
+2cd+3U4GBUQCIEpgqFheouyWLoXsqA1Csrom4LRVZQVRMsLqCaD+nvmRAHcAfT7y
++I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7naCacwAABAMASDBGAiEA
++spUQpU4JfjlrSrEsDapUowjNYd1TtnsvC1ujaBzM9kCIQCAazcCzghrokFpT1Mk
+JcIC0OJ9ZrnsGcLMYe253G3L9DANBgkqhkiG9w0BAQsFAAOCAQEAJNAkJZOnSR8p
+2+4023BVWiuUdA6aYHNZ0BQQqX0tvr15HXBpiP4n+3GRcZ0hfcxSQZZLIoCVnvsy
+RgyyOvIsC07O6WQdPVr8ulqF/A6Jja6jHOWNxyDMYQbiLsRbp37S7z9DWvmNqbHg
+c48ZLkFcRAFz9t6F47hehWTclLGslWu1c0q+iqnMM0CXfCzf1x5XN7XsKHxf7YmQ
+kEDEbyYW07mTocXYkpSkBSzphXXylMplo/6n3rnxioLBjwDqZC/PExK1uWcHSTmb
+6DI9hA0ymtyyFqSoVZlGzEHSoDqzx3JdjZGqPLIJs+GQXYQqaTFlIXgJtGFFav2b
+H59OBfsTBQ==
+-----END CERTIFICATE-----
+subject=CN = autodiscover.transferenciasinternacionales2021.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3750 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

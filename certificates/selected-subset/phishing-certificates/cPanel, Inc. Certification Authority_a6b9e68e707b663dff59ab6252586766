@@ -1,0 +1,73 @@
+https://westimagefilms.com/wp-includes/pomo/Update/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = westimagefilms.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGojCCBYqgAwIBAgIRAKa55o5we2Y9/1mrYlJYZ2YwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA1MTEwMDAwMDBaFw0yMTA4MDkyMzU5
+NTlaMB0xGzAZBgNVBAMTEndlc3RpbWFnZWZpbG1zLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAOo9xFEc/w3mQr8FUssOiNrqsVtHCb/bI9yhtUre
+rxkXwH6yXIR13vguqICyowd4eUa3k/PIfJT4nplbz0uNYlFrORpKFPSyYR/LbpWU
+G7+1FRvkr2UpiH8Kv4VM0fLqQ+aZ49PUWVJ8F138i8JoDBbkR4eqVJpBmYciLm+E
+VxoBItx1HdnluxLoCtXjCZ0eIRBw7qmq9hFZRceCZB03wAdFEJenO05ahnnnjWMv
+GwIlrMLkvZ9mAHJ5BUo39d1EUgWivffD3uHI6pvyPYpOFOPua9k7eL9TiNtxkDvf
+34cByjk2xh0SNq6tja4disC3JdWrT2q9EVcNnevlSwd4u3UCAwEAAaOCA4YwggOC
+MB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBRSO0ox
+mamsKDwlrqbhZz/P3pgETTAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEE
+AbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAI
+BgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5j
+b20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUH
+AQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFu
+ZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0
+cDovL29jc3AuY29tb2RvY2EuY29tMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA
+fT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF5W2h23QAABAMARzBF
+AiA1wmP7HzTz+xFI6AUpf/OaqZNBKPqQ7tNh6S6k9m0KaQIhAO1XRfZnyjMzH/9s
+wq6OnPKGbucljtL39Ri1ZYP2pYOKAHYAlCC8Ho7VjWyIcx+CiyIsDdHaTV5sT5Q9
+YdtOL1hNosIAAAF5W2h2jAAABAMARzBFAiEArdjjPuYEQOijsHgy6nA9BG0nwi0x
+WGGGbVN+iPyY3tcCIDRF8frj6GNs85BpViW+CEYrS1mz8kDFiUiDBASMJYVQMIHi
+BgNVHREEgdowgdeCEndlc3RpbWFnZWZpbG1zLmNvbYIZY3BhbmVsLndlc3RpbWFn
+ZWZpbG1zLmNvbYIeY3BjYWxlbmRhcnMud2VzdGltYWdlZmlsbXMuY29tgh1jcGNv
+bnRhY3RzLndlc3RpbWFnZWZpbG1zLmNvbYIXbWFpbC53ZXN0aW1hZ2VmaWxtcy5j
+b22CGndlYmRpc2sud2VzdGltYWdlZmlsbXMuY29tghp3ZWJtYWlsLndlc3RpbWFn
+ZWZpbG1zLmNvbYIWd3d3Lndlc3RpbWFnZWZpbG1zLmNvbTANBgkqhkiG9w0BAQsF
+AAOCAQEAI/r30/n3YcP1hwbNtmONAdN92uxwz1Sv0XTlFUMbQeSPrNSlWm6Olf9U
+RJm7hrVqzvr3NfT2uU1opCdDYrkRjyppSyePFPmNOfp1eOLbcSMzVxJ86AahMsdX
+VEQZke9fxehbCyKSk1+6WOzQH/TMgH8Z5oFGy4cIlkMfrGD8bvfzNMoKxHRmB48m
+pAOrPK50J01LW9vqoQZrHACjpIyAaukEWfNVU9iI3V+7T3UlSx4GXVm6cSLWeYzs
+FMlu0sdx0ClWcJ9F0NqTRrRAhOV81txqxxFRGVet3bQvnyRxX8Xf0KWk0EsbWHvc
+jHOgiwZqbS8J3M4jLLUdNZNwOphmJA==
+-----END CERTIFICATE-----
+subject=CN = westimagefilms.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5207 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

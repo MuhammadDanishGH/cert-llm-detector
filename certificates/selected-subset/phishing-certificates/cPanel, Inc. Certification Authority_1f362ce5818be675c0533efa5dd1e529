@@ -1,0 +1,69 @@
+https://voda.recent-bill.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = voda.recent-bill.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF+DCCBOCgAwIBAgIQHzYs5YGL5nXAUz76XdHlKTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDgyMzAwMDAwMFoXDTIxMTEyMTIzNTk1
+OVowHzEdMBsGA1UEAxMUdm9kYS5yZWNlbnQtYmlsbC5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDMgceNfO5i5i+ng4kh0UuePeG6XNybq/nvM5sY
+ySKE70W72YeDAMbkPydwoKtqT+zK76wYsq6AohAjxlOn6wsz2PF04leS49zW9Ho+
+vmP7mIiqrw/Y5zWgzV0um4UDhLvNPERLoQri5vku4YyYi3VfacwrFEKLRGZs8fxk
+RJZQQ76SlNTI9MoVtKhGUhuZKdT3/vhyV8ok2zqmQZNTvEdNwOr0Hbopyy3sb3kE
+UKc3cENxPUP86fs7mJEBAJ5GGtafHYK+rtsDsG8/fDtfo6TvIm4nBin1dazTGpTN
+/bpoUhkOkqRl8TeBt79QrgTjpynlBDkAATaoZphgro1lF18pAgMBAAGjggLbMIIC
+1zAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUpDMm
+SZmdJ617e8DoMFaRdarP320wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYB
+BAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMw
+CAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUF
+BwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1Bh
+bmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2
+AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABe3HVQIYAAAQDAEcw
+RQIhAJPEMewvzcW+Dv49MoR3E3lHezy038/SRyep1cc/FENLAiB+6CgjkvmSaZHv
+jKWo2a2fJLBmyTNmzK64YUCPkCTOJQB1AESUZS6w7s6vxEAH2Kj+KMDa5oK+2Msx
+tT/TM5a1toGoAAABe3HVQEUAAAQDAEYwRAIgZL0JTBT8zHNCi7BdOjNxVpRZHSEX
+koFkxglpmf4AP8UCIFkgeK7HRO4sNgA6uqznCFMdqoJ9OsJjIpCzoiA4ubjgMDkG
+A1UdEQQyMDCCFHZvZGEucmVjZW50LWJpbGwuY29tghh3d3cudm9kYS5yZWNlbnQt
+YmlsbC5jb20wDQYJKoZIhvcNAQELBQADggEBAHbdMemscFYOB1OatWl+Et/KWdfK
+Cum6qNT7zesHj7Hi0uZFf1o8DxETnpdhvCQ7mqXBr4HGzMxIy8IMclZj9usHVMjU
+rZ+axPLRpBkqbR3Jk1vqw0mqoHNfcMlYqUTE6Y7NSLKr+RFtL3LI3kZhhXFmi+mk
+saHTrhvW78uza7vB4z2ANp1glgwrprfSyBG+YxH99ldOe9VwmBwJbUyw0ls6B5CW
+mgT67c2+JrEkuY+9OE3qpZfWRccuguK3tYpwH/5sxB+XaMd7/LreQusm9AfCCIli
+uprGnjTpnJFdDNKhk7zN57MUtSV1PHBAoEugJPeZe6ALPFK8DZJM7cYyIFo=
+-----END CERTIFICATE-----
+subject=CN = voda.recent-bill.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5037 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

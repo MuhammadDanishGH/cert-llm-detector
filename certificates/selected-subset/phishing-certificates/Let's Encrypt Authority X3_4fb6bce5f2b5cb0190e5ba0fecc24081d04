@@ -1,0 +1,93 @@
+http://akaycorap.com/wp-content/languages/themes/o/indexa.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = akaycorap.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFvTCCBKWgAwIBAgISBPtrzl8rXLAZDlug/swkCB0EMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MTUxOTM0MjBaFw0x
+OTExMTMxOTM0MjBaMBgxFjAUBgNVBAMTDWFrYXljb3JhcC5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDaFQIxo40KPY6Ts1jCzI8wVBQqFdJBmy+0
+JPsm7RApfe9+T07P1Zy65lS/Y1OODuDCxR5bq3J3e+YlziYfSo0dA5OiTKKE5qO/
+W1Lv1gSPAdYXAmGJ4QnucdKLML1FE3ZaBjmKRgM/kE+D5nv9/cwc6OD+gyUaprW+
+IDWk/Ava9wqs9NoIRoKtCJeVhJkiB4VdM9QX07ScRfmFN2B7jp1Hpm8ppvXrTNsB
+F7Pj2MjyTvYTsmZfe1MN9XaSkC/2CAv3yrFQDop6L2A3fCbqWSrxmfOm2st1Vy1H
+hZEZNzd4XO27JObBQ4ta7Vjy38HVvhMTdmjrzJaKIB/tmLWwyS9NAgMBAAGjggLN
+MIICyTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFHq2+NanyABkDHP4ZsZobY1Oy7GG
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wgYMGA1UdEQR8MHqCDWFrYXljb3JhcC5jb22CFGNwYW5lbC5ha2F5Y29yYXAu
+Y29tghJtYWlsLmFrYXljb3JhcC5jb22CFXdlYmRpc2suYWtheWNvcmFwLmNvbYIV
+d2VibWFpbC5ha2F5Y29yYXAuY29tghF3d3cuYWtheWNvcmFwLmNvbTBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2
+AOJpS64m6OlACeiGG7Y7g9Q+5/50iPukjyiTAZ3d8dv+AAABbJb9BTIAAAQDAEcw
+RQIgbRLV6Lkh4CZh8tASM20uei5p60mqu3pgVh10PiiTZtYCIQDsLKF3OF9DyFNU
+Q26L/Q0fFVs6ZUagDqPSaYCxTCrpPgB1ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLc
+pMMM9OVFR/R4AAABbJb9BSYAAAQDAEYwRAIgO7tsjsVqvwAt6WZ/2DKnFja2+GDY
+2jl8ieJ9mL2lw7oCID0ksUU+B+6VXTKsJUtEzBS4Zd+5tnmOq88QryHY3IjjMA0G
+CSqGSIb3DQEBCwUAA4IBAQALxPfEY8ceraKGJnm2zgwnPOol5qWw9kBb5L5MhwqO
+frv5AL2L+QaMk0Sg5XOH7QdA+fYlR5LvV6TbZVWTzx0KOuZmnW1nqfOGZMKqrdsG
+7uYQoVpHfbLSqUO0yxntvB3MT7oWhEc4REoa0hZWilIyKpBz0AWf9eDoc583FsxE
+T1n9hgEuaI8ZdBCsdTFVpODvANXIrqyUhG72yssK2RfnpC5G5N7KAGFPkl7kf5vR
+84g9qQtydnIEi4g2f+ZuIxk10YZEW8tDWEvKa/iJRwGodvC2dSIjmEJvGULc9oT1
+dPcP1AeVKtaVhXNrtC2EsLkgDu6GSQVMsP3b2RafJbcn
+-----END CERTIFICATE-----
+subject=CN = akaycorap.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3356 bytes and written 451 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 893B4C07EFC383B16124067E9EA31DD1A7334F7159A280A44DA9A9A97C8AE77C
+    Session-ID-ctx: 
+    Master-Key: 021675D6D2FA591262DA623FEBA7C70F7804B01123F56A65490C45FE5EAEF5E9C6A8190F2FCC44C56D2F1F0F84296317
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - b2 db 30 58 0d 1d b5 c7-77 5f 5a f7 48 e4 4e 4a   ..0X....w_Z.H.NJ
+    0010 - d0 64 d4 63 f3 17 bf 30-d7 f1 c9 6e 1a ad 80 bd   .d.c...0...n....
+    0020 - f3 bd 4a 36 a2 89 a4 de-83 b6 d2 29 73 69 4a 8a   ..J6.......)siJ.
+    0030 - 6f 62 29 ee 4d 98 ab 83-50 b3 ab d5 de 17 fa a8   ob).M...P.......
+    0040 - 7a ed 3c ef ad 3c 60 d3-28 0f 30 73 7c a8 74 af   z.<..<`.(.0s|.t.
+    0050 - f2 a1 69 20 50 01 dc 98-ed 18 e2 b0 b8 72 e1 58   ..i P........r.X
+    0060 - 41 c7 83 e2 ba e8 bd a0-33 ea 00 8e a5 58 99 75   A.......3....X.u
+    0070 - a9 8c 1c f8 1a 02 dc e4-69 4f 62 f3 ec 84 69 2f   ........iOb...i/
+    0080 - 07 be c0 c2 e6 ef 90 0b-cb df cf 24 47 0a 63 36   ...........$G.c6
+    0090 - e5 1d f3 da d7 e8 37 01-5c 4f 7a b6 cf 21 45 6f   ......7.\Oz..!Eo
+    00a0 - af 32 58 d1 17 71 55 07-a2 82 ee f7 14 a0 53 1b   .2X..qU.......S.
+    00b0 - ab 5c b6 0b 05 75 70 cd-0d 43 26 fb a5 c6 c9 a7   .\...up..C&.....
+    00c0 - 16 d2 e0 dd bb 56 f8 fe-8a 11 01 54 11 48 09 c4   .....V.....T.H..
+
+    Start Time: 1566133226
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

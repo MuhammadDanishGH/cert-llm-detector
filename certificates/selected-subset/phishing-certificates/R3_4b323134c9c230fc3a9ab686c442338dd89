@@ -1,0 +1,76 @@
+http://chat-whatsapp-com-go8i7q-qregrabc-ibuxub.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = chat-whatsapp-com-go8i7q-qregrabc-ibuxub.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHJTCCBg2gAwIBAgISBLMjE0ycIw/DqatobEQjON2JMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTYwNzAzMDBaFw0yMjA0MTYwNzAyNTlaMD8xPTA7BgNVBAMT
+NGNoYXQtd2hhdHNhcHAtY29tLWdvOGk3cS1xcmVncmFiYy1pYnV4dWIuZHVja2Ru
+cy5vcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC61UazXiKWmUlL
+FcoTYjQyiBp4lPUTnrPK3hR0yOolxD4v/b6Qk+Ua5Kc3xRJl/RzmQ7+bhKndlUH4
+WXTdoyCZB3LzL9r81RQB+nwYz/Rv9W/x7j7BmvZdboiUlyuDK44B4kDfNKWbKzsg
+EPLQGCZnW7Win+qZ3EAeXoh1vR8mFzw+qqvTpLKHQHrFev/eapj5MY7WL1cC0cIV
+YuKBND8pg5q4OVgmkvOxW3L9+rdrUkfimNaTN/JGN1/hGlo6Y4sEEeqTrRu7pcjm
+Ts/haS1oD3ZSJ7urvd/w+JBRFut4/guI3MRlraTDhQJhbMZacv62vv5MkVoxK4Jc
+9o6Jwh+ZAgMBAAGjggQmMIIEIjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFGBYkjAU
+2OADqTVg2EpYn14c22OLMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLG
+MFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iu
+b3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMIIB9AYDVR0R
+BIIB6zCCAeeCNGNoYXQtd2hhdHNhcHAtY29tLWdvOGk3cS1xcmVncmFiYy1pYnV4
+dWIuZHVja2Rucy5vcmeCO2NwYW5lbC5jaGF0LXdoYXRzYXBwLWNvbS1nbzhpN3Et
+cXJlZ3JhYmMtaWJ1eHViLmR1Y2tkbnMub3JngkBjcGNhbGVuZGFycy5jaGF0LXdo
+YXRzYXBwLWNvbS1nbzhpN3EtcXJlZ3JhYmMtaWJ1eHViLmR1Y2tkbnMub3Jngj9j
+cGNvbnRhY3RzLmNoYXQtd2hhdHNhcHAtY29tLWdvOGk3cS1xcmVncmFiYy1pYnV4
+dWIuZHVja2Rucy5vcmeCOW1haWwuY2hhdC13aGF0c2FwcC1jb20tZ284aTdxLXFy
+ZWdyYWJjLWlidXh1Yi5kdWNrZG5zLm9yZ4I8d2ViZGlzay5jaGF0LXdoYXRzYXBw
+LWNvbS1nbzhpN3EtcXJlZ3JhYmMtaWJ1eHViLmR1Y2tkbnMub3Jngjx3ZWJtYWls
+LmNoYXQtd2hhdHNhcHAtY29tLWdvOGk3cS1xcmVncmFiYy1pYnV4dWIuZHVja2Ru
+cy5vcmeCOHd3dy5jaGF0LXdoYXRzYXBwLWNvbS1nbzhpN3EtcXJlZ3JhYmMtaWJ1
+eHViLmR1Y2tkbnMub3JnMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+BAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5
+TV0mXCVdx4QAAAF+Yek3kQAABAMASDBGAiEAg87WNvwe8XKCuovRgKpLLK/1+OrA
+YDYR4cWjc4dfpzcCIQCuck/CZ07pGVe2gS8AwepzImdVvVkJ0+6wmcxim+LNjwB1
+AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABfmHpOZYAAAQDAEYw
+RAIgETUwhmwQD0KeuY77apwBI64rXr0KdHDtf6maKJ9E98YCID8gCDSFRqnbr6oV
+2qXvkhJAUYzN4C62jHdi+EjXjnvWMA0GCSqGSIb3DQEBCwUAA4IBAQCtPeA1OW33
+0Lmv2J0JSdtonyfw1dlaUYJlq/OhEULSTAPIdTkY9rbjNUhrS5/pssT9N8EmWr8A
+1E4QC850uBr5dQOqScUhocVCZLB9Gm2UH/WeUL4IcSotXRGpbMvCetf0Vy0Vjjru
+xFh97L0ORiqCfpeDjBXCJy7YbEUTqAGHFAfqHVDkBblo59VkQtj5MuXWJMkHoFEz
+so5MnfbQ4rLjWU47fAk+rLHnLKhQyWaY8ry5Qv7avGNXqmviqE+h8WDsQwXxpaQY
+EPnnzNEBOBLggc7JGkvwJOKzD1jZYMpS+q+VA3citk4/iKtMJwg3FiY68/WM9wNP
+z6RKT7Dty0fl
+-----END CERTIFICATE-----
+subject=CN = chat-whatsapp-com-go8i7q-qregrabc-ibuxub.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5089 bytes and written 426 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

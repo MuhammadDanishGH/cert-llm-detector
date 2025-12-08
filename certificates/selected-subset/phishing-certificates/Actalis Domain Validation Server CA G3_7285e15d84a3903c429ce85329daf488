@@ -1,0 +1,76 @@
+https://www.nib-primabanka.eu/prima/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.nib-primabanka.eu
+   i:C = IT, ST = Bergamo, L = Ponte San Pietro, O = Actalis S.p.A., CN = Actalis Domain Validation Server CA G3
+ 1 s:C = IT, ST = Bergamo, L = Ponte San Pietro, O = Actalis S.p.A., CN = Actalis Domain Validation Server CA G3
+   i:C = IT, L = Milan, O = Actalis S.p.A./03358520967, CN = Actalis Authentication Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHgjCCBWqgAwIBAgIQcoXhXYSjkDxCnOhTKdr0iDANBgkqhkiG9w0BAQsFADCB
+hDELMAkGA1UEBhMCSVQxEDAOBgNVBAgMB0JlcmdhbW8xGTAXBgNVBAcMEFBvbnRl
+IFNhbiBQaWV0cm8xFzAVBgNVBAoMDkFjdGFsaXMgUy5wLkEuMS8wLQYDVQQDDCZB
+Y3RhbGlzIERvbWFpbiBWYWxpZGF0aW9uIFNlcnZlciBDQSBHMzAeFw0yMjAyMTYx
+MDE3MjNaFw0yMzAyMTYxMDE3MjNaMB4xHDAaBgNVBAMMEyoubmliLXByaW1hYmFu
+a2EuZXUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC444oFY7Fl+RjB
+JjZ2UT00QeCHfDN6923HBMw68bg1QKAz7QUXkTO7fYX22mipsxolYqGQ+9DOhA+b
+bhefJeN8kiPV/Rl+RmxvZ0FdCUyzzD9GfHX3DuUxEoXIIBPTcDhXn2X1SkUJ4Oh8
+A/eYHeG+QWHBIWRT6yMusyEbnkOEwuKwb8kfUX5pzRLcBNJ+q1tWPdiPc/rQw1iV
+sRTLmUB60eYnGeZSkIommtxmlLLPJGeSFf7uFBh3w21+HGgb/i3X6Ptc6wJhVxMd
+k0wR5lwQcbD+ryFgaoQSi1npT/I3tO1qE9d6OQLjRoUPlvoHoy+Ekly5Eicnau22
++Gtu+EkRAgMBAAGjggNTMIIDTzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFEKD
+bYB8CYRn/YBXq/Em9XfIIoJxMH0GCCsGAQUFBwEBBHEwbzA6BggrBgEFBQcwAoYu
+aHR0cDovL2NhY2VydC5hY3RhbGlzLml0L2NlcnRzL2FjdGFsaXMtYXV0ZHZnMzAx
+BggrBgEFBQcwAYYlaHR0cDovL29jc3AwNi5hY3RhbGlzLml0L1ZBL0FVVEhEVi1H
+MzAxBgNVHREEKjAoghFuaWItcHJpbWFiYW5rYS5ldYITKi5uaWItcHJpbWFiYW5r
+YS5ldTBRBgNVHSAESjBIMDwGBiuBHwEXATAyMDAGCCsGAQUFBwIBFiRodHRwczov
+L3d3dy5hY3RhbGlzLml0L2FyZWEtZG93bmxvYWQwCAYGZ4EMAQIBMB0GA1UdJQQW
+MBQGCCsGAQUFBwMCBggrBgEFBQcDATBIBgNVHR8EQTA/MD2gO6A5hjdodHRwOi8v
+Y3JsMDYuYWN0YWxpcy5pdC9SZXBvc2l0b3J5L0FVVEhEVi1HMy9nZXRMYXN0Q1JM
+MB0GA1UdDgQWBBT7AyLn0pNFxWlO0Q94//YaqZCyFDAOBgNVHQ8BAf8EBAMCBaAw
+ggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB2AK33vvp8/xDIi509nB4+GGq0Zyld
+z7EMJMqFhjTr3IKKAAABfwISkQgAAAQDAEcwRQIgKeu6vDvqOEJ7Slm1pOINxGvU
+3bif2Inqh3X+GOq5WP8CIQCHxM0u79cidakzbNaC154UcQGe/3e+X4JTZuWYiCes
+3AB2AOg+0No+9QY1MudXKLyJa8kD08vREWvs62nhd31tBr1uAAABfwISkTwAAAQD
+AEcwRQIgcH6FInuFDqppJOTsY1bc9SKO0oC7MC4nUre1E5IG+/kCIQDOdDcebrG4
+/GgaEFbo2Fn0LZAWF7AKyKQwCUT7IIDsmwB3AG9Tdqwx8DEZ2JkApFEV/3cVHBHZ
+AsEAKQaNsgiaN9kTAAABfwISkZkAAAQDAEgwRgIhAKngyEWuX40fDRBMsB0PUzwo
+qG4sXH9uhCftAxpwAxyYAiEAmQPAq9G2zcYy+NRp6tnlA6W4AZznNp9PCHSsqZd8
+HgwwDQYJKoZIhvcNAQELBQADggIBAGiYRkn4khk7Kx1+BQ1Z9lG753/4GcIHaOrA
+cSyYBqZCX7OhMhlrecqwaIrVCfhWcq9OA6t5GEk3cOXKUWe9j+YSWwoustqH5QIm
+TGQNUYTSR2mDtX2pwwgLpc6QZ+xDyoadoXd+galF/KBAqANGSmqdEzX97pxpuaDa
++3VAPrjipVlgxN5fdMf4vn5Tp+H4ZMPTyEcHnnnDl7LY2hDUe9lgACRmpOI3a7Jz
+UayPPPOJPMbdjoXGeb1h32yAFjXyAZzyReBIsTnvwzD/fvu77bJX8rDMaCuspMvW
+aGQLRZkQ4bydkPP9p/MRwPwrhX436CBF/vgKfxCdnck+h+fjNwUQr2wNO7O67cMU
+KcFha8nJXhlAl86wWLsiRgxNNjuNiifFJRSJYtE06tPXf3rz9+dJ18wsYxyBjaxk
+BwYZdIz4jTftzW0nwwl4uDg9TJQvTnvWMIsK8fzhE/IPaVtDlTRJURFdI5AQoHo+
+WBqeYaiLpDIEcSxf0xNQgFdb1+j3mlRD3nDWO7kI2QI7wM+5WHK5DOR+sWchNKG0
+Nj9uW9oIQDHliv1STR5NROtaslbWFS+gP8y64qFjzoiQkNi8B+2A9ixbS11aTFTK
+bMt5rJfLbnoNtm3UMC7f1pGwHQeAZjzLGDaBc1vxlkNOembyuwavm6sDHPtR7ryN
+5OWBOk2h
+-----END CERTIFICATE-----
+subject=CN = *.nib-primabanka.eu
+
+issuer=C = IT, ST = Bergamo, L = Ponte San Pietro, O = Actalis S.p.A., CN = Actalis Domain Validation Server CA G3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4399 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

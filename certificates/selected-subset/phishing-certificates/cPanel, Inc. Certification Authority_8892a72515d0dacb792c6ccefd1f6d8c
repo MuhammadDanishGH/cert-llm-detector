@@ -1,0 +1,75 @@
+https://castroleaoadvocacia.com.br/7666/LUNO/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = castroleaoadvocacia.com.br
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG7TCCBdWgAwIBAgIRAIiSpyUV0NrLeSxszv0fbYwwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA4MTMwMDAwMDBaFw0yMTExMTEyMzU5
+NTlaMCUxIzAhBgNVBAMTGmNhc3Ryb2xlYW9hZHZvY2FjaWEuY29tLmJyMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5yGWWT/n0ggmLOfelOctROr5D0st
+EUQOqkxrjQ1yB3dFJu0khMERCPEDkRsTjQ1ip1Jhl0yuYDxGBGHnnUbMze3ASwsD
+qs2PJIUaHx3v+HVS1ZFnA6juhLK4D7MfjlXxxFiBRHa3Pj3Ctv9QYYrHVnfSOu/F
+XZmLqGJiBnH45uw2Vwy+LKjn1U19HSYU4Ha1y6oOQcIw3vw1qWr5Jwvxy/fbBwEC
+k2ewRnolwk5RBc3yUeNt955xQB43JwnFlc3+eivZVCZsS+P/FrqwaLZozUrqN9op
+X6thj6+A1HOyOaOKUWMXh4feYDA05ibheaVQgkQkQ9/iPsl3NknDL1YxlQIDAQAB
+o4IDyTCCA8UwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0O
+BBYEFHXndtCi74mFhUMIlR39nbDjgPIPMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMB
+Af8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBA
+MDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5j
+b20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNv
+bW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9
+BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUF
+BzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEEBgorBgEEAdZ5AgQCBIH1
+BIHyAPAAdgB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXs+THZz
+AAAEAwBHMEUCIQCd/YL9B7FTfCngxVCR5mAd/0nG/SM74E08p0mJmYSTmwIgTcRd
+0LIXyj+CQD1oBHbnwlRZfWgUpQsxx6ySGxKJn/gAdgBElGUusO7Or8RAB9io/ijA
+2uaCvtjLMbU/0zOWtbaBqAAAAXs+THYzAAAEAwBHMEUCIQCR/LxMsun60kYIU6uA
+n4DotQUrV2kblXkw7pFgRu3DjQIgL6CY0oYlzQKab0fGoxdQuj4Nq0zsq+sGNgC3
+IrpgKOAwggEkBgNVHREEggEbMIIBF4IaY2FzdHJvbGVhb2Fkdm9jYWNpYS5jb20u
+YnKCIWNwYW5lbC5jYXN0cm9sZWFvYWR2b2NhY2lhLmNvbS5icoImY3BjYWxlbmRh
+cnMuY2FzdHJvbGVhb2Fkdm9jYWNpYS5jb20uYnKCJWNwY29udGFjdHMuY2FzdHJv
+bGVhb2Fkdm9jYWNpYS5jb20uYnKCH21haWwuY2FzdHJvbGVhb2Fkdm9jYWNpYS5j
+b20uYnKCIndlYmRpc2suY2FzdHJvbGVhb2Fkdm9jYWNpYS5jb20uYnKCIndlYm1h
+aWwuY2FzdHJvbGVhb2Fkdm9jYWNpYS5jb20uYnKCHnd3dy5jYXN0cm9sZWFvYWR2
+b2NhY2lhLmNvbS5icjANBgkqhkiG9w0BAQsFAAOCAQEAYfOAcC8eyCR1XuD13uWi
+DWogC8wyEz69Iy7cE2+QflqFg3LtKpeFYef8a3fBcnIIlyHHaT+CBIHuOWYwq7li
+nivLEbTbgVb8hGpAfsCjLm7Jv6D17EaGO6c8vM/334svj5ydq6OfW5NIBnxlPn7Q
+sKytRH7Y467A1q1rIfYlNDHnQFYoppnXyptRoidyLjQfaHaNs8NdlJEzN6U8hJcT
+otbTZ74962WsIqncbfT5ZrpB2mzdAK/YUMNoFbaUNecU1/wcr4Z+kyhXC/NfGAdz
+NVChjWkL1PtrPrvwC/xEkapt357dUPW//qXAbluFt9LC2/ihwu87eHg3KeBW7rbQ
+CA==
+-----END CERTIFICATE-----
+subject=CN = castroleaoadvocacia.com.br
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5282 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

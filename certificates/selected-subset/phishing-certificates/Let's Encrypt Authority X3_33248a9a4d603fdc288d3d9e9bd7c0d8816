@@ -1,0 +1,92 @@
+https://www.ajaymehta.co.in/.well-known/challenge/account/incident/ticket-BANKlNG-OF-AMERlCA/screen/login/sign-in/question.php
+----------END URL----------
+CONNECTED(00000004)
+---
+Certificate chain
+ 0 s:CN = ajaymehta.co.in
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFgTCCBGmgAwIBAgISAzJIqaTWA/3CiNPZ6b18DYgWMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xODEyMDkwODUyMjNaFw0x
+OTAzMDkwODUyMjNaMBoxGDAWBgNVBAMTD2FqYXltZWh0YS5jby5pbjCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAKjp/cDG/Ivuqfe72Fnf07VKX5JKS4Ez
+PUlNsCGu0/EUk2CGzgUl9o0cgVktS0Zik3WOIxj/A/r5vDPiI+FBvBVU4eGaC79J
+dmoAyz3gVFlcLPHmvu4KpyV9Ba3ClUsU66DnJYRJNbn0KFQTh6G/bFKF+UrAXhlp
+7ujYTktVRNHuKP0DK+LnvbBV5v23wnjf6yV3AINk5m+AfmDq6eSNCdqhZflvU8w6
+++EwuvmzoWD4Wq9gj6vAz/7srBJ7C+jzTpeQwXWJIaLIiE/yoSDuwkCfq6Q7cdUq
+glq4+85FL5PMWv0d8EmX4E+f6fERNFI2ciITpPuw8tsGECirnZhW/3UCAwEAAaOC
+Ao8wggKLMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUuyUDpgwftdn7/udAo1nsuiXo
+GjUwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnLzBFBgNVHREEPjA8gg9hamF5bWVodGEuY28uaW6CFG1haWwuYWpheW1laHRh
+LmNvLmlughN3d3cuYWpheW1laHRhLmNvLmluMEwGA1UdIARFMEMwCAYGZ4EMAQIB
+MDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2Vu
+Y3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA4mlLribo6UAJ6IYb
+tjuD1D7n/nSI+6SPKJMBnd3x2/4AAAFnkmHSswAABAMARzBFAiAFQXrGijJPQOcZ
+20jG3F78epmLAv7kUSBFxiVaRB5TyQIhAPRu+y3R2ovjunw8tEs3O4/SJw9mhx5Q
+OUhx/ylvBldRAHYAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFn
+kmHSswAABAMARzBFAiBIr/JEfXiM1i9ghVd5q02GgieOqMHpaaJ/LYdxC0E3kgIh
+AOXVsht/2ZlfZd+2WVHnIArwgnLLGyCmaX0jy75OCYt0MA0GCSqGSIb3DQEBCwUA
+A4IBAQATl4z9omFP2rMT2mKqDIti2ZajQnLZ9LgmogUgfNHo6p8QgZm+PySDRgyF
+9496ukLpEFfPtaixMZ4hEK+Db+cqN35/7v/PRP+F6OzlBDWxqfsY42HHpcf3x0DZ
+Wi2vP/K9qwi9alIZQklUd3va82Brm5syi8EpFLdYdPfIcpXEcs4GrnNBYZs3WQBR
+y1c3lZCE0qv60Qqyx1MVtIXdnTa87MDBgX1xNuNsvmDCnlW+pH8+QItSwJIEJd3i
+RxakA7asnf6bGO3+pHrz1V2H4cWap1k0I1K7gLpjTFbB+2NpXMt+vos2eB5v7AVM
+OXBeICHOiLtTfIsKWliwDNgXcqX4
+-----END CERTIFICATE-----
+subject=CN = ajaymehta.co.in
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3296 bytes and written 457 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 1B9B7D10B77642E75C65949910AF9114095BB6386363227B581A238F8A14D1D8
+    Session-ID-ctx: 
+    Master-Key: BFE0271F0AD563B0843028CBA3F03116880C5CA2769E363BC9382F006DF4B68296DBDAF4FE7E3A2E4967DD117D5EFA25
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 76 15 81 26 2d 81 f4 fb-8b 28 5d cc 08 cc 5a a8   v..&-....(]...Z.
+    0010 - 68 ff e7 98 70 47 6d c7-d2 15 40 a0 1d 9f b3 e1   h...pGm...@.....
+    0020 - d3 dc b3 4f e9 e0 cb 31-d6 ac f4 ae a2 9f 37 1a   ...O...1......7.
+    0030 - b1 78 c4 cf 0a 92 fc e9-ea b5 40 22 c1 05 41 46   .x........@"..AF
+    0040 - 57 eb c5 d2 60 ec 56 c8-35 03 16 03 da 08 7d 20   W...`.V.5.....} 
+    0050 - d8 4f d7 09 4b 62 f7 2b-fa 3e 4f 7d 2e 1c de a4   .O..Kb.+.>O}....
+    0060 - 81 17 98 71 f8 d8 88 e5-79 31 14 ae 93 ea 0b 31   ...q....y1.....1
+    0070 - 82 7a 90 5a 62 da c5 c5-23 ab d2 23 d1 68 5e 67   .z.Zb...#..#.h^g
+    0080 - e6 dc 52 38 e2 ef 30 5a-18 e3 63 85 b0 16 f1 a2   ..R8..0Z..c.....
+    0090 - 21 53 17 dd 64 77 90 d5-06 fe c7 a2 c0 ce 27 a3   !S..dw........'.
+    00a0 - ce a9 a9 a0 c7 eb 2b 1a-fe 9e b5 92 c4 36 79 17   ......+......6y.
+    00b0 - 64 87 f3 af 3b 57 20 4d-6c f7 10 aa 2e fe 8c 64   d...;W Ml......d
+    00c0 - 3a 30 67 7f 64 a3 95 9e-44 69 31 31 6f b6 3d 73   :0g.d...Di11o.=s
+
+    Start Time: 1547820023
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

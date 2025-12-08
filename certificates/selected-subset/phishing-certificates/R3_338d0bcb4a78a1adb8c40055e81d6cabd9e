@@ -1,0 +1,74 @@
+http://gabung-grup-bokeptante1.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpcontacts.gabung-grup-bokeptante1.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGvzCCBaegAwIBAgISAzjQvLSnihrbjEAFXoHWyr2eMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMDUxMTEzMTJaFw0yMjA0MDUxMTEzMTFaMDkxNzA1BgNVBAMT
+LmNwY29udGFjdHMuZ2FidW5nLWdydXAtYm9rZXB0YW50ZTEuZHVja2Rucy5vcmcw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDywiy7orRJxqnpRvvWpVk8
+exKOck5ej15AoUh7Oj+dvVMSiFwNaJF4ji11p4F18OEsIXDVFRohHSHl97UupCxt
+y1Q+z9OOVr1iUzzogb+W7dBSrl9xQiDOtNIs+x+hE4eqh/33w0qlZ/NPVxmXE248
+8YriLFjOxyZS+CITkGm3Glkq/cgkmlS0MSIBnkBzkbezH8cn6EWLk4WBCrpEscbI
+2ib4RBiUDssv8Y82A8caqiixUBUCsTp6TGEJYn609dhNeXkRBQxP3XWviJfzKUQ/
+cAe5B9O9+PRRoOn1d4AE78EM2PSobV14cxaUeL5+E1dlQMqm+B1hYfedAjA3assn
+AgMBAAGjggPGMIIDwjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFBs81Ujdrk1e2AuY
+6cXQI1MlmyqTMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsG
+AQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIG
+CCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMIIBlQYDVR0RBIIBjDCC
+AYiCKmNwYW5lbC5nYWJ1bmctZ3J1cC1ib2tlcHRhbnRlMS5kdWNrZG5zLm9yZ4Iv
+Y3BjYWxlbmRhcnMuZ2FidW5nLWdydXAtYm9rZXB0YW50ZTEuZHVja2Rucy5vcmeC
+LmNwY29udGFjdHMuZ2FidW5nLWdydXAtYm9rZXB0YW50ZTEuZHVja2Rucy5vcmeC
+I2dhYnVuZy1ncnVwLWJva2VwdGFudGUxLmR1Y2tkbnMub3JngihtYWlsLmdhYnVu
+Zy1ncnVwLWJva2VwdGFudGUxLmR1Y2tkbnMub3Jngit3ZWJkaXNrLmdhYnVuZy1n
+cnVwLWJva2VwdGFudGUxLmR1Y2tkbnMub3Jngit3ZWJtYWlsLmdhYnVuZy1ncnVw
+LWJva2VwdGFudGUxLmR1Y2tkbnMub3Jngid3aG0uZ2FidW5nLWdydXAtYm9rZXB0
+YW50ZTEuZHVja2Rucy5vcmeCJ3d3dy5nYWJ1bmctZ3J1cC1ib2tlcHRhbnRlMS5k
+dWNrZG5zLm9yZzBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisG
+AQQB1nkCBAIEgfQEgfEA7wB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwl
+XceEAAABfiooU0sAAAQDAEcwRQIhAJovj6IyE+ximNUJpzqujynIcikzlvOh0eWI
+wAJZmmhLAiA6TNz+KRzIgpHDZWG9xzT2M8X1/OytSksqZhGl6VKAoQB1AN+lXqto
+gk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABfiooU8wAAAQDAEYwRAIgNRey
+qSGN0G9n3jRDAiwBD4uZsFLRZ2GaMoBtJiclPr0CIHii3QmWnqXNxSz2/0HsFdsS
+CbSCmISeUTGusIC4R3txMA0GCSqGSIb3DQEBCwUAA4IBAQAsgXuyfHEdR8QzdfYk
+jc1JC7X43sB38IU+3kFI6Ryn9kNSIjcXMVZ5itGALylsDvabJhlDsGRlH2mCFMcg
+Rye7GH4RvOAl1JPXKxF9ECMMZuvtX0Kivnr21BNschM9e2SiZTFZGEhQQ/4U0WrC
+6CQ0GOhrjHBP2JfmWJ1wD7/JDTD3KMZsdHxSuigKDZIgnUzRFp6+COT4ypUYvrIJ
+d80l5i7IyKHp0mBsaL5GWmCIsPAcJDXe66GJihesPeYS9w0RlvrQbgu31ePsIhqO
+8r+iOLpN1j2phVtZBAPz6bOCCBZaAsdYs2BtItblqNz//R/zSt2aVMgXmUg4+hsK
+EXLk
+-----END CERTIFICATE-----
+subject=CN = cpcontacts.gabung-grup-bokeptante1.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4987 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

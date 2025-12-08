@@ -1,0 +1,71 @@
+https://wobexpress.us.com/newonec/redirection.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = wobexpress.us.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGQTCCBSmgAwIBAgIQF+7YghikxG/vskyWLS6WjTANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTIwMDQxNjAwMDAwMFoXDTIyMDMxMjIzNTk1OVowHDEaMBgGA1UEAxMRd29i
+ZXhwcmVzcy51cy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDK
+bwV39MPxhDtZsuDi05h/WEJZvenD7cw0sgSlMXzqfI6+u3MErWiiKjX1iO8loOra
+w5ODBdA1yIECMURivS7b0SGZ6SlavzKPrld+wYJsHlJuHHTLHdQ1uVcmy40Qe//W
+Vwd2UrCte004wHbRaPLYhetSLE/GI8JfUtNBeQxm0f+gte3d6yyUb9ACzohcikYP
+9sTvE+q3Z6v+P1m4Tr8SN1vYIm2+JkoTxrmPXuYLcCCcdiMBoAwUQPud6NTRznE2
+obnwUHFkDzbEF7c1PJ0ALWSD1F005av4eEeoUraeooWu4wG6ojivRPNspE+RioM2
+Z200I57JX3PsJmmhTFURAgMBAAGjggMJMIIDBTAfBgNVHSMEGDAWgBSNjF7EVK2K
+4Xfpm/mbBeG4AY1h4TAdBgNVHQ4EFgQULHQdC472zu53mxxwQZgeBaRwNzEwDgYD
+VR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAjBggrBgEFBQcC
+ARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGEBggrBgEFBQcB
+AQR4MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGln
+b1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYBBQUH
+MAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMDMGA1UdEQQsMCqCEXdvYmV4cHJl
+c3MudXMuY29tghV3d3cud29iZXhwcmVzcy51cy5jb20wggF9BgorBgEEAdZ5AgQC
+BIIBbQSCAWkBZwB2AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAAB
+cYVtpTAAAAQDAEcwRQIhAMdlFr6JX9A7E5x1FZUoCBBe7253B+vErHdSQoaFcuvn
+AiB8y2dvtsuROAqEIZaICSHEQCIy0ZMCK1HIq+vZfIMhkwB2AN+lXqtogk8fbK3u
+uF9OPlrqzaISpGpejjsSwCBEXCpzAAABcYVtpVgAAAQDAEcwRQIgCejm92DLBdxD
+Zflk6A3p6eylSn35gngXt/lAn1FwrkECIQDtuDY+b1CL2QydZeYLxKIX+pCy5lsw
+9MKGOtBv+axnJgB1AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAAB
+cYVtpSkAAAQDAEYwRAIgP3/WG2mFQCqs4cT9l3MxY/IreG3fqiYuuyvy+O7X4kEC
+IGmn/KWaggvI1LTAQWCRtjv6IXYYX4HhM/MNATFEfX9WMA0GCSqGSIb3DQEBCwUA
+A4IBAQCdBVCHUjtYhR4lsXq6LqtNKgRou7wPAcX2d2fg4S9FiXpcgyu+76OJCU1F
+Llcng2JwasEnVReZ7wR6ls+te9dW4gimTOXElcwmEKBHEABEbs1o7QQOGQwZcq/F
+YYoc/Onl6D/1MLKAt2mEmwz0lA2ZBcyIE6/7+g2huxwVF4Yq+jYRrKXXs2jMJZR6
+/Chm8wpICHizs2F6CDV3q07jAFPCi6xCoGPcx14Yr7BgZz5njiOIRFCO1XgR5w4g
+JIYTknCi/povTIz8m3XZ9/gj3U1y3H9w50oYW3kOZrnYJDp9nRJc21+QJ08d7KxL
+eqv+J9B4wE04tI0Oh7KWUZlDhuPg
+-----END CERTIFICATE-----
+subject=CN = wobexpress.us.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5147 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

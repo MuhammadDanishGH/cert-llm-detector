@@ -1,0 +1,71 @@
+http://www.returninvoicemyrech.xyz/mysunrise/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = returninvoicemyrech.xyz
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGUzCCBTugAwIBAgIQfJwS1gsiga2H6Wua0Kp6ZjANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTIyMDEwNDAwMDAwMFoXDTIzMDEwNDIzNTk1OVowIjEgMB4GA1UEAxMXcmV0
+dXJuaW52b2ljZW15cmVjaC54eXowggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDrKLFUCS1SPqY/sjggA2hOvVJwbOqeM2Zqc8s0EiZOAeUYhUVStS/r6q0/
+S3NaVt2BrDu4ECPEQHMrdnsWJatNOt3297L0Ty4CTJ4w3p6u/NoiyAThZjwXYV2O
+s1dJ300edFbjauYqWIYa+Ja4NcJij4fP1ah4PFInKsWYEMEvGdUChSh1cdWLbByL
+yL15QfK1/hzI0rrRDXGlrKtwGtYI7ItlDMY3dSG3ljsFzKXbu2bygwMSs7B31jD4
+kpqKt2SJ3AUv6xJ0qHADR9yI3kZ9BVWBM0GAc3GU8MCz90eRqgf6+YoC6RFazY1x
+T2RRehEelklBk1aTjeu0QLdrXu11AgMBAAGjggMVMIIDETAfBgNVHSMEGDAWgBSN
+jF7EVK2K4Xfpm/mbBeG4AY1h4TAdBgNVHQ4EFgQUnpujT9TW2J4CtBA1YKC4DfFY
+lJ4wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAjBggr
+BgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGEBggr
+BgEFBQcBAQR4MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20v
+U2VjdGlnb1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYI
+KwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMD8GA1UdEQQ4MDaCF3Jl
+dHVybmludm9pY2VteXJlY2gueHl6ght3d3cucmV0dXJuaW52b2ljZW15cmVjaC54
+eXowggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB1AK33vvp8/xDIi509nB4+GGq0
+Zyldz7EMJMqFhjTr3IKKAAABfiZqRcwAAAQDAEYwRAIgazTbFCmIQxjUSNRLyxjP
+NZiBD9Ccom04sEXGMPpD/JgCIERMVSWgyrVTpWHNsgZ3gE40lvZhCcY6CwOU19RS
+dJFXAHYAejKMVNi3LbYg6jjgUh7phBZwMhOFTTvSK8E6V6NS61IAAAF+JmpFjAAA
+BAMARzBFAiEA1euwKrRS9DmHfBBqCYSbZ5iFuaZ1xmDK+BiXHia5zr8CIGgx1yDm
+NnjOBjcGkNfIq3PUFflNa9IOVPFwxCLbmn9PAHYA6D7Q2j71BjUy51covIlryQPT
+y9ERa+zraeF3fW0GvW4AAAF+JmpFZgAABAMARzBFAiB6xhlD/bNP3BhgNDcNItZB
+C4CpUJzI42dkzAXCA0m4KAIhAN0wElxzHc7mEfyzHYaMNY14Eu7oCmVN2eR42lEe
+b5ZUMA0GCSqGSIb3DQEBCwUAA4IBAQBZ7l3Qz7dDVe4pSTj4fltRUg0D1xloNcYr
+yHpDf7+0ZJqhNSI/H9xiCkvN2iUw1++rIZLdtgd/Fyc1PITmWs7Dl1O4YiSyRlE3
+3GnB3sW14WHNOx+Qg019fi/NH4MvCGrsG4WKLxzlG+iq/SjFFGa++txKwh1NY7Dn
+F/p0wM/fCoOqJI0olRa/adwwlA5kKcD8alwQnd112oWyVXc2I2pGgGGrhMdoInRz
+6OOA4QipJxWXMqngK0FDaGLEJcrdciDPJo4wQWjwLee1ALpVQiZOsSMIsZxIYPTe
+EecU4is4QkBs7B8SCcsSLqm7sk5q9A9LwkyLwsR2TyGX3kizWaEB
+-----END CERTIFICATE-----
+subject=CN = returninvoicemyrech.xyz
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5165 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,66 @@
+https://mercari.jp.no-replyoks.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mercari.jp.no-replyoks.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFVDCCBDygAwIBAgISBAsrVJYJip8SPxIabl7E+HFPMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMzAwMTM0MTVaFw0yMjAxMjgwMTM0MTRaMCUxIzAhBgNVBAMT
+Gm1lcmNhcmkuanAubm8tcmVwbHlva3MuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEArq31VVd+WStrR/uogrQO73mcnI8IQwjrXSh98KRvXbWI9Y0H
+LV9lw/WqRNX06YHKv0RYEiBmOZfgN1S+Zd0+6aAnb8i60Ya3iLoRjN3ipcCs1ROn
+NS5N0jlnZNmxO/hOt0BvvnnBwo6UiJUOvtic7gU6FAIdPneeutaX3ZWjIAM8Xc+h
+CQRbhGBF3xNvy3SR4qQ/WAKFoEhU7emZdWpDKvP5HUM1atSBk7x4cedP59ecsYT8
+IGYSrM1R0j7ZYqKqA+ZlmlYF5YGTx0e3HfPIyzsUaGIF1sL33EyFbPIWdQ2P+RLi
+smkFLfCcjAzqT9LDffDKAx9sHVmQebQGxDwg6wIDAQABo4ICbzCCAmswDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBQ1/URIiV4ImUNSZKjWsxamohhLbzAfBgNVHSMEGDAW
+gBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUH
+MAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3Iz
+LmkubGVuY3Iub3JnLzBBBgNVHREEOjA4ghptZXJjYXJpLmpwLm5vLXJlcGx5b2tz
+LmNvbYIad3d3Lm1lYXJjZWlyLW5vcmFyb21ucC5jb20wTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQApeb7wnjk5
+IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAXzPDDFnAAAEAwBGMEQCIEYkm9iy
+r1+EAxE1Tb5FPpzc/WfwYRE+gNNii4SryVt8AiA7/htc6tpLYr4u/2LIi2UNztQj
+xOfCJOIlxfQ6r+FJiQB1AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kT
+AAABfM8MMaAAAAQDAEYwRAIgHeN4SswN4VAamRVOJxWsfA8q2QKAyjnk/n1X3l/u
+29oCIGozgj7A4Z9lRscbC2CC2tfAEI8I5B+hZDFFF/s0xeWCMA0GCSqGSIb3DQEB
+CwUAA4IBAQA0Hb8pRvUpVgQBBUWie+QrhQAHpGM5M9D59GiJNBka3u9RSzKHBCoD
+bAz1qTPaQXMIUi6CS0KKB3L0AprGc0IvTGoTEATuDVsFLL1+0Ca4VQnfZDsaq/g6
+x9njc95RNKhhhmIHhshOvaMbFeV3LfwEuGd8jhtqKJm2oIkRNkMAD9rnLFCj9xt+
+y3b5G1wN9mTLkG7mYjRYnA0Vh82fiy2IDvIBWEMOIcqkwmfN+4k7OvFR7s9x6yuZ
+G7z3QoSx2x2dhExV7jlwRZlL97ZlHBhwqmJtWO1qxS5cosiEsVL25hId4OtNQF1E
+XkR/8FSZgSzhAADoEolLlx7b5Vxb8Bc0
+-----END CERTIFICATE-----
+subject=CN = mercari.jp.no-replyoks.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4624 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

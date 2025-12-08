@@ -1,0 +1,71 @@
+http://xn--pruschowitz-gebudedienstleistungen-p4c.de/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.xn--pruschowitz-gebudedienstleistungen-p4c.de
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGlzCCBX+gAwIBAgISA2x3XtrzyiV2fZRN4G4BwzcEMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA2MjUwMjA1MDNaFw0yMTA5MjMwMjA1MDJaMDwxOjA4BgNVBAMT
+MXd3dy54bi0tcHJ1c2Nob3dpdHotZ2VidWRlZGllbnN0bGVpc3R1bmdlbi1wNGMu
+ZGUwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDK580LIoPL4p/yxbOk
+g3eKxKdCt9LnwY+HZqsNPeBQdCk9SEpGsLv7qo+n2+QD6Ka8M8ei+YwSHP8cH52I
+eT4o2FBiPJ8xtFPMHejKR6iZ4UkBJVbRoNZ+eREfgCQBr0jQJX8aHIWrHdxijVx8
+WKB7Xi1MDuXL3PTU6wBuR67tl98U810FxD6iKHMJPepBA3YLTCzWebu5rTr0SqeT
+LG5xDfrAAVueIdWp9sMNzbq6yRf1LQSZBoeCOJl2dLhtMJXfMKYi2rlmi25+XRm/
+WK5eZ4tKOc2RhP5k9iQ+5CaOSCyabFDF46SkthziE/NyHZmRPIRQ/7G9RDLk7v13
+UvF5fYwabInVCiizpIz2P3DZXY4QaLVov5MAQRM6SPHTDeS6A63IlC4pO0rFeuGU
+YOLMQsA9TksMGMnVdUg2lnTixiehTTZf7KDavsFe4CvaMMhRO9IT+5hi3npth0vp
+7MlkcZm65IvCzGwVcWk/dZwMDJvsJl2xBj1PgzhaeOdyKuZR89vIKxvSMTS4Ighh
+yyN9WyNHFWhjtd33lg7mBpR7BzngFRb8SAyRz6Ctwi93YZG51q1ueHHMPHG1IZWC
+4gC6ExznAUTfVo5iHfqOAiRO+3LeyfUI9vJOaueCF6NGe47p8mCa0Dr/WC6R5Vvl
+fG4vXSpBNRQPi4cZpgq9woAtcwIDAQABo4ICmzCCApcwDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBSryPGtOG5Dd6FEUuF4DuG2ciT2EDAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzBrBgNVHREEZDBigjF3d3cueG4tLXBydXNjaG93aXR6LWdlYnVkZWRpZW5z
+dGxlaXN0dW5nZW4tcDRjLmRlgi14bi0tcHJ1c2Nob3dpdHotZ2VidWRlZGllbnN0
+bGVpc3R1bmdlbi1wNGMuZGUwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC
+3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcw
+ggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLB
+ACkGjbIImjfZEwAAAXpBIMDgAAAEAwBHMEUCIDok/3Y0zWN4MVwjDt85rLcXU6rr
+RpzWwflt48Nnaq5YAiEA2pjvqQ3FpgS9gfoU2T3jS/g6vJmd5BjxqLUDqsmDMcgA
+dgB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXpBIMDxAAAEAwBH
+MEUCIFUMdDKb1OqDTqkv2Cx5MERlxjDK9ko+K4g4iCxDEn+aAiEA/mdIBCkUSKZq
+vy65tWF+Z4DKDa4VRY3X0oLAEeoeV00wDQYJKoZIhvcNAQELBQADggEBAEornR2A
+jjvQ4Rp5+C41SsbWYVqOTPv3O8A7gxazV5sKedeW6MwC6maKY3Yhg/dBQQL52rrS
+ez0WVODwIb4Mo3w7kwADoHYzixhaJ+NB6XyHZb4JB/SWpW7ev0AXLydKlcBcRVhm
+EUs9/g3aiWxcFWOuKj3Z91nFFqafM9dtbcRjsHp7K85EYzQf3FDXZ+qCDEYOqXcr
+VviWkorgMbUS8L7DtGA/I6DmUWe2TiZzGc2golHjb+4+UD41h15D1sq6gyq+owR/
+sVbAm+YjTne6HbnEZUOAFqJo4HQrybL5WZBfvYCTtQvBOV0fKAItU09rSgO4yac2
++n77Hu2+SdBlKsA=
+-----END CERTIFICATE-----
+subject=CN = www.xn--pruschowitz-gebudedienstleistungen-p4c.de
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3641 bytes and written 427 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

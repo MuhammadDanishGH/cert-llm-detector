@@ -1,0 +1,71 @@
+http://signin-membershipaccountsupportmail.mimikri.us/71ad16ad2c4d81f348082ff6c4b20768/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = signin-membershipaccountsupportmail.mimikri.us
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGSTCCBTGgAwIBAgIRAKNmTpXK2Kf4m/mwVSOk9nAwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTEwMzAwMDAwMDBaFw0yMjAxMjgyMzU5
+NTlaMDkxNzA1BgNVBAMTLnNpZ25pbi1tZW1iZXJzaGlwYWNjb3VudHN1cHBvcnRt
+YWlsLm1pbWlrcmkudXMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4
+RNk0zcx/c0pJm5MkfAAF91xzNThhW7BdeUB/xEdWGs51nNsFwYXHK1lSoxa0AI7E
+DsK56IxbMdHsVtypGKFqer5ntXZL++y7NhydoUPHv8TzIPYT6qSRcBiP390dtJ/3
+hrzjvjMlOxFhUazHzanJso1M6KZu2D5xsQn+IpYRI1qjSH1ltvP8tHNbOo9Jcvhi
+gSbm/CAp+9WAhceTzuRhegVdM6TMjunV69l7lsL1MDqu2kuNiaoU13SVPTO3hHCi
+PXE+w4MqOFHoao4IqFwkEozFm+C6FtE5W8X+9QQ21D1juPnaltPDSrNAvlHp5qU4
+WWmPPXi7TWTbdU+yNrVVAgMBAAGjggMRMIIDDTAfBgNVHSMEGDAWgBR+A1plQWun
+fgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUUT4Pzo+Q4V9pRNQRrXbyvvIK6/AwDgYD
+VR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAjQwJTAjBggrBgEFBQcC
+ARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMw
+QaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmlj
+YXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7
+aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1
+dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNv
+bTCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AEalVet1+pEgMLWiiWn0830RLEF0
+vv1JuIWr8vxw/m1HAAABfNG+tqUAAAQDAEgwRgIhAKFMPuurYU7BohH83EZp9NNK
+YlbAoKaAqhq4dRZJocI8AiEAk9dsQoIj+w96zauaDd39p9r+fFUNsBpG4IyADrr0
+hMcAdgBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG9gAAAXzRvrZ4AAAE
+AwBHMEUCIGx2HhOBitHDm1AALXnEg0sQ5czJbphLnW9rJq3CaJSmAiEA9/DAfuP/
+PhP5W8EFY2emK8xUgUoAFKPzTXZIr+ghFjgwbQYDVR0RBGYwZIIuc2lnbmluLW1l
+bWJlcnNoaXBhY2NvdW50c3VwcG9ydG1haWwubWltaWtyaS51c4Iyd3d3LnNpZ25p
+bi1tZW1iZXJzaGlwYWNjb3VudHN1cHBvcnRtYWlsLm1pbWlrcmkudXMwDQYJKoZI
+hvcNAQELBQADggEBAE4x+oI2N1FyJUOwJahKeGYlAakoRTnNpCW/zhIFlyT1c2Kq
+PhllMpaLPiPFEdz2I1X74GZgtGECdhOvY8Pj5kYPUmUrVbn3UW92JavB2aBowvr7
+F9ZbHAvUJTVSn0VrdVBF0DqtdSdsvafvoZt2D1NH0BGVtMr+n0ro8jx3OrZ6HJ2R
+6LCPyw6VcjbYeC2zqi4+DSCWQXhlWWQVKqnAJrjl1H6Xiu/oLpwCWx07Qiuk132d
+LYAKmOCrNXnosiRscEWEPLd7LavJjw5KYmWtIjM8/XldxQp+Hn26B8oCrBiN8KMG
+JuVSSEAy32RJ1ez1BFSdjZPQXzO7RFYlwiSai9s=
+-----END CERTIFICATE-----
+subject=CN = signin-membershipaccountsupportmail.mimikri.us
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5118 bytes and written 420 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

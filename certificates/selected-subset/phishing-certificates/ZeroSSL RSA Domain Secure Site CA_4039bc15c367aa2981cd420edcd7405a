@@ -1,0 +1,98 @@
+https://h5.hiflyk26522.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = h5.hiflyk26522.top
+   i:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+ 1 s:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+DzIBlX+ZE44UWScpWltTxNh6KssS
+-----END CERTIFICATE-----
+subject=CN = h5.hiflyk26522.top
+
+issuer=C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5515 bytes and written 438 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: EA8E50A2D58E85EBB7A33E93B27B1F2567472B5BBF08FF4ADF3621BE173518B2
+    Session-ID-ctx: 
+    Master-Key: F0A48FC0BDB2B807E5FBB5172A5FCD09FA38D38A51F9758022F220DF37655A6C9D20F276A848A46CFAB030F1EF2A01EF
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - d3 7f 15 04 cd 29 2d 92-cd ec c0 b0 ce a3 59 7d   .....)-.......Y}
+    0010 - ab 15 02 b5 5c c8 28 46-26 47 69 67 75 5c cc 8c   ....\.(F&Gigu\..
+    0020 - 24 21 e6 05 39 87 db 51-65 7d 6a c3 94 6f de fc   $!..9..Qe}j..o..
+    0030 - 19 ca 18 ce 05 f6 6b 28-65 3b 62 80 85 12 6c 37   ......k(e;b...l7
+    0040 - f3 81 03 ed 56 59 13 1a-58 a7 08 33 17 61 78 73   ....VY..X..3.axs
+    0050 - 2f 88 1c 82 dd 7d 9c e4-e8 ad fe 6d d6 85 04 7f   /....}.....m....
+    0060 - 37 a9 ec 75 35 52 4d d6-80 47 91 27 e3 77 79 b0   7..u5RM..G.'.wy.
+    0070 - 1c 30 68 85 ee 52 63 ad-fa ab 3b cc c1 be 6b f0   .0h..Rc...;...k.
+    0080 - cb 5e 3f 95 67 81 59 92-da bb 8e e4 15 4a 8a 77   .^?.g.Y......J.w
+    0090 - 65 af 26 84 34 c6 ba bd-30 4d 89 77 35 74 42 ff   e.&.4...0M.w5tB.
+    00a0 - 7d 71 49 c0 c1 9b 39 39-e1 91 a0 11 92 35 0f 81   }qI...99.....5..
+    00b0 - 60 d5 bd ab ff 32 1a 8c-c0 23 ff 29 5f 6c cf 77   `....2...#.)_l.w
+
+    Start Time: 1645577299
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,68 @@
+http://wetransfers.xyz/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = wetransfers.xyz
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFxDCCBKygAwIBAgIRAJZJoRK0Z/z7LotZ9wUTRcswDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMTEwMjkwMDAwMDBaFw0yMjAzMTYyMzU5NTlaMBoxGDAWBgNVBAMTD3dl
+dHJhbnNmZXJzLnh5ejCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKbb
+1x6mFv5+wbVwwLnjNTxQt8/xjgsRa6lQjyi+vq1r5qu0YVOrnZUqWLVdo+3WZUsF
+le3P7QpZRrDQ1bqCewzon/0p5m2NA43TkkLQjyn/Z4yTKjzwof/s5fLlPnmv1Ogl
+HgZPKG1Ll3vaMsDqmdofbVNjlf7uPuL8SYY4yeSKDT+nTZyJjLAiHkALrJH4RuTi
+NiIMME0Vg1Kc3Q2GuAFh6PF0T1H57t8/apjplGpx3oP75NRf7Af4vNO4UYhNVDM6
+dsxfyC8y7VJc+oXW0Vl8nF8d8SI42ovK8VLqNVy1vwuGH1XNwUIQCKHYuSoTsUYG
+8BH/jh03qxwjkZhSpAECAwEAAaOCAo0wggKJMB8GA1UdIwQYMBaAFI2MXsRUrYrh
+d+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBQfVjqBZv8q4HIS7lCVhz/JYu0r+DAOBgNV
+HQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUFBwIB
+FhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsGAQUFBwEB
+BHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdv
+UlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEFBQcw
+AYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wLwYDVR0RBCgwJoIPd2V0cmFuc2Zl
+cnMueHl6ghN3d3cud2V0cmFuc2ZlcnMueHl6MIIBBQYKKwYBBAHWeQIEAgSB9gSB
+8wDxAHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF8zFuidQAA
+BAMARzBFAiBCxK6OeykymvSffciMtIPZRc20LsMHzTfFo3o5g/U6hwIhAJFbc02g
+NmJMzUL3LmSv6KNAHvFRrGhh8mTHxwW477H4AHcAQcjKsd8iRkoQxqE6CUKHXk4x
+ixsD6+tLx2jwkGKWBvYAAAF8zFuiOwAABAMASDBGAiEAyKt+s67uEdLiQKRMcPkV
+6K5dw/+V0OFu31Ymtzzwje4CIQCXY7po50mlhIxdTgAznV4ZfTV4yF6gCJEnk5oo
+XAOF8jANBgkqhkiG9w0BAQsFAAOCAQEAePQjuSK5Te50PaWUzZCUmunTd+21Ecl2
+j4vXV2SiIOAkY0M063q0uvO4YiMzKRFP8KRa1UCo/97hX7Pq/15ptGBOmtw2ZBBF
+Nu+mY2dFCFWobY817p7JZyVlmBQlWKmSnraiIv97w2nT2sJMCdMUS6N0q9JJHWRT
+ZWdLhUpnPR3u970PxZnrF7JHjp5N6I+6lzdx1Hqp1TKr87pPgNG93BiPurrTojf3
+nVhKgglgc7qWMbY6PEFSNP7eQnvd4qaeeKnQkG8Q8RU2b9ROWknNyU1L4KvN7X5o
+S1gnn/L1mXpPAHCAjdr3qfRUhK+GkIGdE7I26LQuBpFYvqbN4sEz4g==
+-----END CERTIFICATE-----
+subject=CN = wetransfers.xyz
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5022 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,91 @@
+https://sportbeclick.com/wp-admin/jsss/proposal/proposal/verificationAttempt.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = sportbeclick.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF1DCCBLygAwIBAgISA6br2oZ78JmPJ3OSSSX/IuHgMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMTQwNDU2MTlaFw0y
+MDAxMTIwNDU2MTlaMBsxGTAXBgNVBAMTEHNwb3J0YmVjbGljay5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDSQdtd6QVS1ZWqYXafeD7GAztMlCGH
+C6gV4lSSRxH2S54zj4iPZZqpElQFdly5f33A7pRTwSBaMQTQzykwHNtNO/9SBHot
+ic87JFNxMqdSI7j3oWT+8iJGqVng9XqwleOeHMRCuCrNxcegVL9Enqeb5PlPOspA
+We4D9fYPMvuAgx2xgLFu1HfDKNq5enDmGt5nUe2FSbVZ/dxA4kgyKPJT/0DB/Tta
+ixQfLVQy1DkCzIrXvoXLC6NzwRMNrfyBTZCQbprSwwWaUr9xPKYA4yK466azK6vC
+TEa8QJHPdamoHER9q70ZnkKR5cUdxbIQzqaNSN9G/ha3RHoIUnGGF9ijAgMBAAGj
+ggLhMIIC3TAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFLAZ121/4iPOddxC5r3ULEOR
+Dj6QMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEB
+BGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZy8wgZcGA1UdEQSBjzCBjIIXY3BhbmVsLnNwb3J0YmVjbGljay5jb22CFW1h
+aWwuc3BvcnRiZWNsaWNrLmNvbYIQc3BvcnRiZWNsaWNrLmNvbYIYd2ViZGlzay5z
+cG9ydGJlY2xpY2suY29tghh3ZWJtYWlsLnNwb3J0YmVjbGljay5jb22CFHd3dy5z
+cG9ydGJlY2xpY2suY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+AwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAXqdz+d9WwOe1Nkh90EngMnqRmgyEoRIS
+hBh1loFxRVgAAAFtyNa/oQAABAMARjBEAiAIEL5TxOJag/QQyISjDWJlLW6YyIf9
+c8FleKaWPbLmOgIgYi8QCQsuQjC3fKAj1w/WSS862Xu9Z9UWM5ZLdo2B1T4AdgAp
+PFGWVMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAW3I1r92AAAEAwBHMEUC
+IBkJjRCYSI6PVR6K6haLwepj6qVVIC+Q/llubQQ8OZ/mAiEAtP1CIkVdB3U34WTG
+OSJnOqKeb4O7yJMsHUA1tbW/lMQwDQYJKoZIhvcNAQELBQADggEBAG21lOhzqqYL
+yirrCuREOR1WHXTU1HvF627wdPCORtVHqiG2ZCw9Ouor0cNEV6M2LX3NEjnf3vxS
+APIrFQAt1a7CWtjUEy3+Wk2VT6pP4sooTvhqdo2gv3Ov/0PCCv1UwPHhFIKYVEnw
+zy0BTViB4x/l4mK8bRvaszxmcXiBsKP1qR1XWp5G/CdGgT1KX7LaZuK3pTgiutEy
+7tM/fId+IZRWeyUtWN4ZGWOE8xvNOnf1ZxTi+ylwgIKyq3kVEfK/p/cHXbFMaXuP
+i0KRDQzw9SfrvbhKGzUnUW3rcdW+VDhrmYOIXOh31vB6S4NFdbqKFY+rQWkLMfum
+rOTOaxzuKkA=
+-----END CERTIFICATE-----
+subject=CN = sportbeclick.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3296 bytes and written 421 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 1A2BC50077AE84637DC3A87E1B9B6A9265B0F66E143DB0C88546FCD431FEBC47
+    Session-ID-ctx: 
+    Master-Key: D64B9F7199BD4DB2DA16A1A4F2E052035F53BEC28A07F939B5D82EBDE80D08EEA496C844DFF765E28DFE6CF146C9719D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - d0 56 55 1b 09 5e 95 69-ce 21 fc a6 fb 07 ca c5   .VU..^.i.!......
+    0010 - 58 9c ca f8 72 8f df ec-ab 22 07 9a b9 e6 fc 9d   X...r...."......
+    0020 - e8 fe 13 95 59 fc 45 bf-30 c1 38 e9 ac 17 ad 5d   ....Y.E.0.8....]
+    0030 - d9 c8 01 74 be 2d 28 c0-60 3a 5b 9e 60 c8 d4 0c   ...t.-(.`:[.`...
+    0040 - 5e 40 f9 d5 db 1f 67 88-ed 0a d8 e9 d7 38 dd e7   ^@....g......8..
+    0050 - c4 7b be 95 42 a6 d4 a0-59 a1 a6 aa a2 f0 c3 6d   .{..B...Y......m
+    0060 - 8e eb c8 71 7d 23 74 b8-8a e1 e7 84 3e 30 06 dc   ...q}#t.....>0..
+    0070 - 0c 0d 4f d0 30 1e ee 80-a8 de 9c a2 04 bb 8d 2a   ..O.0..........*
+    0080 - 9a ae 33 4e 78 d7 5d 1e-4b f0 0a 92 65 3f 8c b5   ..3Nx.].K...e?..
+    0090 - a7 6e 14 34 4e 71 cd d9-a5 27 20 46 50 dc cc 8e   .n.4Nq...' FP...
+
+    Start Time: 1573135242
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

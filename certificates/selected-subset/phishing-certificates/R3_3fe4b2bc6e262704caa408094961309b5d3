@@ -1,0 +1,63 @@
+http://solarsouth.in/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.solarsouth.in
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMzCCBBugAwIBAgISA/5LK8biYnBMqkCAlJYTCbXTMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTkwMTA4MTlaFw0yMjAyMTcwMTA4MThaMBoxGDAWBgNVBAMM
+Dyouc29sYXJzb3V0aC5pbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+ALAJevJ+RoMJ01UCkaLlSvXlNvB5pj1XsaGjOFfquDnlSbxN7icicGzBsxW+C4FK
+nt9Ei6HAhqv7UmzcpTGZOesdtgt7g8yqeHzk15TrQaOqp/2/G0fd1B14WUPFQEfb
+N1hQAzJ/nymSx7gGX6wWr7akH96fL7tUTGARdwcK0JRjRwc9tOJHofRKrpTpZRfh
+uScas1qYVZk0gHqoqe4JTiW3ORlYS7lF8Syk1O/fJspxVlsyovwolz9XMOPuvZgd
+QIOijwTD4+ZN2qkd9Vqdz7pdSxCTVrI7Tz0DEJjF3ZsqrGQDXxFnu8VVvKv8DQUZ
+4SeVU59j16SYeByrmXQQ8akCAwEAAaOCAlkwggJVMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUd4E8gEhfrMxBANBUptRj6w1ngzowHwYDVR0jBBgwFoAUFC6zF7dYVsuu
+UAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8v
+cjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9y
+Zy8wKQYDVR0RBCIwIIIPKi5zb2xhcnNvdXRoLmlugg1zb2xhcnNvdXRoLmluMEwG
+A1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEW
+Gmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB
+8gDwAHYA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF9NfOj1QAA
+BAMARzBFAiEA0oXpWf92XDiGfB6cVBiap7yzJYxRcEA+YIpaXX4xx1ECIH2V4bUY
+QXVhpxGlP10JzXGpnwFOqeSPsOznATKfvQk6AHYARqVV63X6kSAwtaKJafTzfREs
+QXS+/Um4havy/HD+bUcAAAF9NfOj/wAABAMARzBFAiEAosNkgKNhmXmzDIlw6Z+C
+9OENcwXGPMkdB8NpFLbSnuACIFwD6nTNVlAEYwDrYeGr4N8/yfskRbjIj5VlC7CG
+IWfEMA0GCSqGSIb3DQEBCwUAA4IBAQCloN87WcIVLPuqXvvwV8kb3+erpnbv4foJ
+Pgv5VJR24MWMlVbj+XAjhlky52xHOndlT1+vED+EIctFuFbIkHOUtMUcgTFo7ih5
+GL7wkZEjamsj8UoV3Cow8NPa1RYmBN1q+soCkbFaFMLAYlYQkfeAhMpC6jfcpaWf
+DfPwBP7JOyZ3nQbJu+GSkSL4qNm8+wBOQ4fkb9vSTgCKKWRMIYzaRGlEpsejTrSG
+xSDY0oJB/qJ74qxXXrrLjlTHGv8h0fE90BJKgsXa8SuDVTxIdlqiIN1TkLaSqxM8
+eOYdB1I9Kkt2QhKujrMJsn1tA2/2Pwdo5hwIMTR2Ahr8J2BkHdPw
+-----END CERTIFICATE-----
+subject=CN = *.solarsouth.in
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3206 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

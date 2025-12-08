@@ -1,0 +1,97 @@
+http://dd.walshwebworks.com/vendor/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = api.walshwebworks.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGXzCCBUegAwIBAgISA4LFTytPonZePns3XXE5uCG6MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MTQxMDM5MTFaFw0x
+OTEyMTMxMDM5MTFaMCAxHjAcBgNVBAMTFWFwaS53YWxzaHdlYndvcmtzLmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALgKZmVxZibC+OopqjepBuSS
+g8I1vxZV7Cx7sMsJ9rk2v1qsP+a938J+jq+u4cNksruPepTjACuahqL2u054iRVH
+jJhS+Ndchlw3p8OXVeWl3uodYOpVs2TnwrxE4SJ4Eoa+PT6zdAZYavqO1VA+ICnS
+poMev7TpHOcAmoc0HxE8kBPsrP7CSz9esLZiFTa+1lU3CRwgVfJXCtTTKibvW6Lx
+xMk9pkG+O3LvxOcqi0AG2SqW5maOcygCjZ2D/sn5dtSQFQagjssIrG4CQQIyRPGI
+tDuNSV5Rr7XY0oZ2uq6k8BxthCt1cxWuxqtz5T5WLVwDd98WEXhLneO6WphJvBEC
+AwEAAaOCA2cwggNjMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUU/Buwf+D+o6L/lFE
+WIPBton3opUwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYB
+BQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnLzCCARkGA1UdEQSCARAwggEMghVhcGkud2Fsc2h3ZWJ3b3Jrcy5j
+b22CFGRkLndhbHNod2Vid29ya3MuY29tghZzdGFyLndhbHNod2Vid29ya3MuY29t
+ghd0b3RlbS53YWxzaHdlYndvcmtzLmNvbYIcd2F0Y2h0b3dlci53YWxzaHdlYndv
+cmtzLmNvbYIZd3d3LmFwaS53YWxzaHdlYndvcmtzLmNvbYIYd3d3LmRkLndhbHNo
+d2Vid29ya3MuY29tghp3d3cuc3Rhci53YWxzaHdlYndvcmtzLmNvbYIbd3d3LnRv
+dGVtLndhbHNod2Vid29ya3MuY29tgiB3d3cud2F0Y2h0b3dlci53YWxzaHdlYndv
+cmtzLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYG
+CCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQYGCisGAQQB
+1nkCBAIEgfcEgfQA8gB3AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAIxjc1eeYQe8xW
+AAABbS+R3O4AAAQDAEgwRgIhAJ4IkFc432KvVyB6A630QCy8nAcy1nIr12wnqNP6
+ycOaAiEAxk8VwLY4n+Z8qIu9Min6vac/a5lpdRUg0EgzDK6RM8IAdwApPFGWVMg5
+ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAW0vkd0OAAAEAwBIMEYCIQDTRz3d
+wCL2DhLmk8+pL4cB3dUMREBO6Ct3ApPtHdvI7QIhAJ2EsxaLw23RW4+BY9gc8avh
++qvXoGeoh9iPC64qoKNAMA0GCSqGSIb3DQEBCwUAA4IBAQBJps/wFEc/LBrwET30
+k+VoF2Jm5fyM26ijY5fGazYpx+h5PBE/zMp51g7BVtgl7Q3r3DgctHafU0xy9LPf
+d3ia8A100oVtha7pVF13eHsrLXSGgRBgooc1ghy2mn6jGQdvJ0zrz19Gb1u8YvF2
+IjPV8Nr4kwF/6mGsGNOEprY4nuuvkv+ProUUJ3TX+EjpHUqcP0l+wp9ux1PRQhQx
+eKner1lQwFxIvBw9LT7hsMfK2dGWiyNWx/PI2bEPWkeY0KG6Hv3NN0UFl17f8aHr
+GGV81RFPJipx0RFK5psUNpERUskmJSF7IRr6sy9xLZn38Xump2pZNI/zIvHcuo2m
+c1zc
+-----END CERTIFICATE-----
+subject=CN = api.walshwebworks.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3518 bytes and written 458 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 947BD3719F1BDE098049CA9E3DDF7C433EB38FD56E6EE8D4FC3B5F9381A9F96A
+    Session-ID-ctx: 
+    Master-Key: 8FD73EB52C08A7C54ED741CD1E93AE38A98F20994CC3BB374D2DF688730E23AF019E61F4EE182BD857677FF2DA60EB6B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - b0 ff 8c 4e 7a 7e ef 87-32 4d e5 4d b3 7f bb c5   ...Nz~..2M.M....
+    0010 - 34 26 e7 7b 15 af ae 49-3c 96 55 5c d2 98 9f 6f   4&.{...I<.U\...o
+    0020 - f7 96 d8 26 81 2a c4 86-27 5c c6 aa 30 3b 89 da   ...&.*..'\..0;..
+    0030 - 49 b1 08 35 59 df a6 96-3a 41 46 af 76 f7 b1 f5   I..5Y...:AF.v...
+    0040 - 7b 77 f2 78 09 64 66 f0-b6 88 3b d5 f9 00 d1 54   {w.x.df...;....T
+    0050 - 07 7d 99 e6 2e fe 4f 50-85 61 08 2a 36 6f 83 b5   .}....OP.a.*6o..
+    0060 - b1 42 0b 26 8e fb c6 9c-a2 e1 1a 44 aa fa 85 7c   .B.&.......D...|
+    0070 - 5a 25 5c 49 7d 1b b3 ae-8c 76 4e 88 fd ca 36 1a   Z%\I}....vN...6.
+    0080 - d1 16 41 fe 2c 11 79 e1-31 95 45 11 5d 05 92 1a   ..A.,.y.1.E.]...
+    0090 - 61 53 33 be ed ba fa 81-e9 11 ba d0 f7 86 53 46   aS3...........SF
+    00a0 - 94 bc 58 fc 8a dd ec b8-6a b3 53 92 fe b6 55 46   ..X.....j.S...UF
+    00b0 - 6c 22 c0 80 7c 7e 1a bc-d5 71 6d 3d f4 99 8e 39   l"..|~...qm=...9
+    00c0 - 44 50 65 0a dd 87 17 38-bf eb 00 ed 34 33 fe a8   DPe....8....43..
+
+    Start Time: 1570712426
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

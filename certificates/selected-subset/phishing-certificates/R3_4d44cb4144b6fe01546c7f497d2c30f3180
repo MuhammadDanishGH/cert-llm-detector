@@ -1,0 +1,71 @@
+https://www.grupwatant309.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpcontacts.grupwatant309.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGPTCCBSWgAwIBAgISBNRMtBRLb+AVRsf0l9LDDzGAMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTIwOTI1MTFaFw0yMTEyMTEwOTI1MTBaMC8xLTArBgNVBAMT
+JGNwY29udGFjdHMuZ3J1cHdhdGFudDMwOS5kdWNrZG5zLm9yZzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAOTIfyYHGFx9aqqRM2ujVxZCEV9z4iEsXaSI
+1Evjcoui1+gWGX18wGOKHMFth9wgtodTvm8r0gOGcmSA+sFWE3Ohu0I4MTevRk7N
+xN9pQRt3tkTQdDj79KHj6grvrf6JCiwCRONx0KBuMmyYFQxLCooQoRHFhtOY6kIy
+teW7hrMLaQrWWPeeCv2QHSnyR0iAhCp3Jo0e3nuO4f3Q9hvaV6Pcyh9lv01Gpj8W
+A7mvwedb2jEbtp+gg0ZSnbwy5DrHzbdWM7xSJ9HuctaF57JOjldzcn5PSSftIhmU
+gg+IXZGLaxTQT2DSCi/MH1uXhz1TePeynI3Us4sRVJd/238KFnECAwEAAaOCA04w
+ggNKMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU4Kbg0ID7xNRYS2cz6JKhiJ04fW8w
+HwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBH
+MCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKG
+Fmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wggEcBgNVHREEggETMIIBD4IgY3BhbmVs
+LmdydXB3YXRhbnQzMDkuZHVja2Rucy5vcmeCJWNwY2FsZW5kYXJzLmdydXB3YXRh
+bnQzMDkuZHVja2Rucy5vcmeCJGNwY29udGFjdHMuZ3J1cHdhdGFudDMwOS5kdWNr
+ZG5zLm9yZ4IZZ3J1cHdhdGFudDMwOS5kdWNrZG5zLm9yZ4IebWFpbC5ncnVwd2F0
+YW50MzA5LmR1Y2tkbnMub3JngiF3ZWJkaXNrLmdydXB3YXRhbnQzMDkuZHVja2Ru
+cy5vcmeCIXdlYm1haWwuZ3J1cHdhdGFudDMwOS5kdWNrZG5zLm9yZ4Idd3d3Lmdy
+dXB3YXRhbnQzMDkuZHVja2Rucy5vcmcwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYL
+KwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlw
+dC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgCUILwejtWNbIhzH4KLIiwN
+0dpNXmxPlD1h204vWE2iwgAAAXvZihkLAAAEAwBHMEUCIBxHMVQIikgDS8b8lNDC
+vTRy3TEW8l3dOiA5SesbA/6BAiEA8rrF3s63/eVTWx9SJlgYpOlcMHInu6l7GmSm
+NJf/UGgAdgD2XJQv0XcwIhRUGAgwlFaO400TGTO/3wwvIAvMTvFk4wAAAXvZihkN
+AAAEAwBHMEUCIQChHLTY3G3clRJRtlr6E0dYpyQGuPeAuWXAyQBRzdwa+AIgXvZb
+GUWJZaRKkDCHO0mv07r0c5M67zUee9we8Y3D7GMwDQYJKoZIhvcNAQELBQADggEB
+AIX8L0ve5OX/1lPRBefv8Zs9rEDHFEfFUKcI3aUAJgjfdHTv2tvWRVyMnSXdtR+c
+nZYAjW768L5NLwsDXxi0Xs+owmrIVawZkATZfCHOT120tGxh3QWIE5SLRmwXVH4P
+AWVBukBJVtgnra9Cz2P5yzClO7/9bNKlN9Rltgck85kt79MKYwbDBAJArkb/RMW8
+v6iyQ4NWJ7mT65BGrhjYzeJ2rnJPUYRDbJmp6GF4PmzdO/ODJbXt8ZTH9IMN4jwp
+oZtlEqc9lFaSzgMm3ks1ozsfM3elOMoFK8kvxOAm2YiiN0J3WF/MsRO2Ez1q0cT3
+jWF7vAecoQ/jxIvuaGJbNSw=
+-----END CERTIFICATE-----
+subject=CN = cpcontacts.grupwatant309.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4787 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

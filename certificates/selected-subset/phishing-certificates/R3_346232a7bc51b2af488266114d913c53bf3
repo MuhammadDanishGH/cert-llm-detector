@@ -1,0 +1,67 @@
+http://e-aidat-online-kart-aidat-iade-edevlet.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = e-aidat-online-kart-aidat-iade-edevlet.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFizCCBHOgAwIBAgISA0YjKnvFGyr0iCZhFNkTxTvzMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MDUxNzQxMTRaFw0yMTExMDMxNzQxMTJaMDUxMzAxBgNVBAMT
+KmUtYWlkYXQtb25saW5lLWthcnQtYWlkYXQtaWFkZS1lZGV2bGV0LmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALbZXw/N8k1hVaBV+VvxoAOf7/5N
+uscLAJE5+tkf2vYYUQoc6r2iJ7l7v/bMUxSaB4HpHjwK1RAU8P91KmI6crRrpIU1
+Kc/W1LIN+3PEQreW0cZ1KCVtHrMwfL09sQdzui87251xh0qy97gdCufs9h6mou4m
+c8KLZRrCyCHgUqK0+Lkm3Ie40j3ngPLWRFPgsLTggwYLEtQ8NqlJcz7Cn9rnIPhT
+tYSfa64LcRrIhZEs/2PtjpZ0+R9Gqo+KApzHKiDkcq9SkLgils/qiuINfP/hq9+D
+6r9WH9QjlKf14kqlbBN5WXbaumkHWTsQWmbYfilUugB+YnuDMtTFU4LhOf8CAwEA
+AaOCApYwggKSMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUgON2SVRIK7dhEL/zDjE8
+DBEkx/0wHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUH
+AQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYB
+BQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wZQYDVR0RBF4wXIIqZS1haWRh
+dC1vbmxpbmUta2FydC1haWRhdC1pYWRlLWVkZXZsZXQuY29tgi53d3cuZS1haWRh
+dC1vbmxpbmUta2FydC1haWRhdC1pYWRlLWVkZXZsZXQuY29tMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYARJRl
+LrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAF7F56XuQAABAMARzBFAiEA
+wy1h0g59v6+5DE5OL4dJt4q2LEdDQ1ufLkewYnz8qmsCIBKlVVltuDL2SBQgPzV+
+bh6eQSNTyYJgaiICDT0cpzzlAHcAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdo
+mX4i8NcAAAF7F56X4QAABAMASDBGAiEAv8e2AxVV7cpc/8lM3W6jqnVB54vfF+uY
+SJWwqxbuQaUCIQCUPujH7p//VM3rpmgIxr1bPlDQHUISjeiHyKapOXvdWjANBgkq
+hkiG9w0BAQsFAAOCAQEAeAeBnQQp8aPXFzaP8swh6BQkeUIcPQd3Xr3kiZZr3rDO
+DztvlhcMv1jEIWoQcZW5zqWSZiJlyALxMSausbmTDYb9Kgb7ejBtYMggSg4vsaut
+KZvtc5y2n8iR1AsLB8FMhk1K4LRrs9segpJRe7NrBBDGJhzwOpxhzbKbDzRoJG4a
+aReOnnvFVN7ON9XNNRbAgfbYlsYEmNG7cwwgwsTeV+sD1fKGDsSyoQWH7gHP8cGf
+UVEU0S2BRdRlYzRuxWk1Z5/RgdLERl31oywchaW4kQYSHAjrSdsVd0tMFgUHOZRR
+ILhxq+T4SrzTU97S2tsD4goXROCiYzLJkmTJYZOgtw==
+-----END CERTIFICATE-----
+subject=CN = e-aidat-online-kart-aidat-iade-edevlet.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4679 bytes and written 424 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

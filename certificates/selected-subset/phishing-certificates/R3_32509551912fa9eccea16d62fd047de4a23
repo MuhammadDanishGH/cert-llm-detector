@@ -1,0 +1,65 @@
+https://ikjgd.rg6bzk7.cn
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ikjgd.rg6bzk7.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJjCCBA6gAwIBAgISAyUJVRkS+p7M6hbWL9BH3kojMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMDkwNjMyNDhaFw0yMjA0MDkwNjMyNDdaMBsxGTAXBgNVBAMT
+EGlramdkLnJnNmJ6azcuY24wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDFk+tA/QLvos9AFoxOjAGWb3kaq+lfXG7LF2o0IA2Aquec1XZEVFdrarp5357o
+gLQkJllswXhy97PjnekG+FVyNBuEZOdQSQyQuGG4vuPNKJGfjy6jTjT2yP4Kc1Ys
+L/4U4hBnR6cF1RU/vTPJ+SWFghKVIB/g6sq0moH/2JMnGaKGayemHZBKM7nHN0qK
+gEng0vTOR/N+efnT6mAAMMsRvomoLad0/Vb/wmimsClG277aPhKGm5f9qbkItiv7
+XjAZ1S6cfPj/jt7Bm6Xfm3CH27ABLpyvSw8UaBpfzFkT6tAXcHPy/4dg4V0iJr5f
+ptPARhLfdPU8NFpgfQnh5d2/AgMBAAGjggJLMIICRzAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFN5Jn+XIMGf1r16SmkEbwSS/D8WTMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMBsGA1UdEQQUMBKCEGlramdkLnJnNmJ6azcuY24wTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdwDfpV6raIJP
+H2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAX49wQszAAAEAwBIMEYCIQCQk9/2
+fbuPtQsR6CA/hRwVzlhsDoPRgy5B5u6uIVexSwIhAJ2A45FgJH7os/QLoYeRO52A
+CrDV9rCzQ0gpIkQAHwFGAHUAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVd
+x4QAAAF+PcELKAAABAMARjBEAiB37JIx/bH0qhUpOjhIkokL3kriW8FO8IyHbmAn
+wY0scQIgYiE1CYOJ4XbUtc+gqUofg6xEIlmfkFugUPyKtxXCjUYwDQYJKoZIhvcN
+AQELBQADggEBAFvBa5SklPnnH7i1vSWpS7mhFlfnA4aT/bO6bNkrgYhrCCjVYj3H
+3KNHC+dM0UXtpod2W2Beqxy44KzAECGRLE4tZ/n1lb1LRNWZSXRYnjB+kG8o/Vpy
+VbiOjraWho43Z8Tga+hL3Kt3IAdUryyKM1z/6zbadhnXeBcMp8UJCu9LgOgJOrbg
+6Od5g288pzlqtxvLojHAVJBmNe0NybrKN+PhRXdNOT3AE57d6dWAwioVs64zncew
+WbRzdB6Bfmb1sKYP1WDYN6bJfudGeBOS/ryMELDumFIWtL1vCLLXQ0KkCm0IiZgv
+n6I2Rg9h/w9RWBU5Jp/ufJJf7TvR00CibEc=
+-----END CERTIFICATE-----
+subject=CN = ikjgd.rg6bzk7.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4578 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

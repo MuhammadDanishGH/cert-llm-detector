@@ -1,0 +1,94 @@
+https://lunartechit.com/public/uploads/qouta25.4GB/Email_Usage/roundcube/index.php?email
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = lunartechit.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF7jCCBNagAwIBAgISA4ZgQuUrrdcUaOsvS0INvrmaMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMDMxMzUwMTdaFw0y
+MDAyMDExMzUwMTdaMBoxGDAWBgNVBAMTD2x1bmFydGVjaGl0LmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBANhdGYQi0RQNW+/oBZxmurv/DCc1AZCn
+xPwhXyIBZLvqy4ygBRMcNeC0lpXRJRCEXOYYa2aqMXSzJ30qLyY5omZL4AGkUS2k
+BMJtlzJ/1DGnJtTS/t6qP2T5lc156iNAzGyFfnmXNozeODk+LFN9OhEJVmVVIErh
+IWYb3VGrhIBhjR61Is8LKTu0ABVtm+ZhC7voXbnSvs1S3zChrcgWDxDj9Qby/OMD
+kf5X7ds9oc+H6l80nxB2nJ5DjaMG5F+w9oI2kkza84WvBL3/qA+WSACeTdoH7eiQ
+LGCBFQWZcfWm9rviF1r7m7KaOis/WfTy7Rw8bD7AokxtAad7F6nJchcCAwEAAaOC
+AvwwggL4MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUavuqJIjhLjiGiSbuHoPRLqW8
+fT0wHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnLzCBrwYDVR0RBIGnMIGkghxhdXRvZGlzY292ZXIubHVuYXJ0ZWNoaXQuY29t
+ghZjcGFuZWwubHVuYXJ0ZWNoaXQuY29tgg9sdW5hcnRlY2hpdC5jb22CFG1haWwu
+bHVuYXJ0ZWNoaXQuY29tghd3ZWJkaXNrLmx1bmFydGVjaGl0LmNvbYIXd2VibWFp
+bC5sdW5hcnRlY2hpdC5jb22CE3d3dy5sdW5hcnRlY2hpdC5jb20wTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEGBgorBgEEAdZ5AgQCBIH3BIH0APIAdwDw
+laRZ8gDRgkAQLS+TiI6tS/4dR+OZ4dA0prCoqo6ycwAAAW4xvsryAAAEAwBIMEYC
+IQD9RPi9LEFTob6enCkN9LuJ3IBNLfSEudLy1/xVYe0fxgIhAPp1lw6U7sJBiOa+
+1F3WdeluFJomGIr//uqbQlLy8+wDAHcAsh4FzIuizYogTodm+Su5iiUgZ2va+nDn
+sklTLe+LkF4AAAFuMb7K5QAABAMASDBGAiEAi1yU6PPgrpvU/6cJmEGRxxyqzWXp
+dbjBuK4wfs0XavsCIQCH6hCDUQsDxpK4E3kO+lrLhn/57D6CIUDzjsqo2m+C9TAN
+BgkqhkiG9w0BAQsFAAOCAQEAZsaGktZ3KcvFITwRbXyc78zAaJSrerVbNqVu9iQF
+Uk4ULIPHX4OK6K7Q2Ezt5upUz4RKUQZitJYtGfcONgtEIiwwBZsKfCZWd+FWu7Te
+E2uy5TkWXl1DSKrMYrQWPdBzpzlq0+Z2q0oQcaSlqeUPdTr6KQjSMOxJ2e20EeFr
+OskfiHlvTUDX0FUcctBWT1xhy9kb2kKdvLopORqtTAvYNNK99wKSGPzJ6iVLBCyK
+DqQB73R/Kr/uY9HKWe7OzGgMmE0SYVuWOxZgBGKrskcfq76jYu3cp83rLXNqIZZN
+B2I7RCAlWDjEXxuNshQ0lbnXL3amEUteuPr2kqoMx8Vd2g==
+-----END CERTIFICATE-----
+subject=CN = lunartechit.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3405 bytes and written 453 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 8726131D9FD6A8F22DB616E9EEBA058BA2909BC3CEBFB3758F254EB72038AD85
+    Session-ID-ctx: 
+    Master-Key: 528C938F8DD5E173D40325B5292AD4459C27E66586D717BF88DF045A03F3B82F5407FCC754C89839A29D8E2A57503B4D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 3d 17 df 88 ba e4 35 1e-bd e6 d2 7a 7a 89 13 ab   =.....5....zz...
+    0010 - e9 9f db a6 3a 26 44 9e-2f e8 36 78 26 27 45 09   ....:&D./.6x&'E.
+    0020 - 97 53 d1 78 6e 17 0d a9-12 df 37 b3 59 f2 fe c5   .S.xn.....7.Y...
+    0030 - 06 f6 ab c6 13 76 41 e7-19 03 27 51 2c 3e d6 5b   .....vA...'Q,>.[
+    0040 - b7 c9 1e 72 3b 1e 7c ae-6e c5 6e 4b e9 86 cd b7   ...r;.|.n.nK....
+    0050 - 35 af 78 bb 3f 59 b0 b0-e2 29 92 b7 c0 0c 7d d2   5.x.?Y...)....}.
+    0060 - 6e c4 73 c1 29 de f8 28-8a 7c 1a f7 d2 3a f9 5d   n.s.)..(.|...:.]
+    0070 - eb bd bf 83 67 26 f5 1c-f7 54 e1 2f 9a 42 17 73   ....g&...T./.B.s
+    0080 - ca 40 35 ac 87 ae fb a8-74 81 31 a3 ce ce d0 68   .@5.....t.1....h
+    0090 - 15 e7 c8 4c 61 d6 c5 73-c8 ec a4 0e 5c 17 b6 e1   ...La..s....\...
+    00a0 - 79 9f 5a c5 de 38 dd e5-62 be c4 0e bd e5 06 23   y.Z..8..b......#
+    00b0 - d3 d1 52 28 8d 63 86 6c-5c c7 f8 f0 24 0d 73 0f   ..R(.c.l\...$.s.
+    00c0 - 3a 37 c9 d9 8e c1 49 29-a0 bd f8 52 ef 06 4c dc   :7....I)...R..L.
+
+    Start Time: 1575640828
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

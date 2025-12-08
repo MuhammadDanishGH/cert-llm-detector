@@ -1,0 +1,91 @@
+http://www.bongomillionaire.com/cobac/wpm.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bongomillionaire.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF8TCCBNmgAwIBAgISAwmdt0mf6CFgHt54fyJTtLP9MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MDIwODUxMzRaFw0x
+OTA3MzEwODUxMzRaMB8xHTAbBgNVBAMTFGJvbmdvbWlsbGlvbmFpcmUuY29tMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs2z45k01L1dzA4I4iz4rpXbj
+CIsTMYM+DuradJbISezLziUWob+708q+7uC/AbpViaiXR+pDVpt59mf0lCh5CBcG
+Llexpot180q3xW4SAACp81T8E3E/mPWcVnDmwFuoDzpxEkG3Wd0e8I0OsNQnJSx8
+zfnnPG84pzsn+c/cWHTxLAxg72SC2oIvVFLn1OReHpRH1WJ95voA7KpgiL0Ai1rM
+g+Mlu3qylxTrTwQ+9fPCKGQ4u0AVmNAxFv0s0xz3fQWzmurFi9JBFf2E/8elNu8E
+t5M8t9EXnJMMv/Ch5sLlL2BeXpCdttRtjWacven46P0bXm+CBkbLxtntB2/MoQID
+AQABo4IC+jCCAvYwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTlh1Ekp/Wqq45h3TP9
+7vradU3NZjAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEF
+BQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5j
+cnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5j
+cnlwdC5vcmcvMIGvBgNVHREEgacwgaSCFGJvbmdvbWlsbGlvbmFpcmUuY29tghtj
+cGFuZWwuYm9uZ29taWxsaW9uYWlyZS5jb22CGW1haWwuYm9uZ29taWxsaW9uYWly
+ZS5jb22CHHdlYmRpc2suYm9uZ29taWxsaW9uYWlyZS5jb22CHHdlYm1haWwuYm9u
+Z29taWxsaW9uYWlyZS5jb22CGHd3dy5ib25nb21pbGxpb25haXJlLmNvbTBMBgNV
+HSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpo
+dHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA
+8AB3AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAIxjc1eeYQe8xWAAABanf00MkAAAQD
+AEgwRgIhAMybPJMbUKVjk0dNnCNjcQN6a0w9fzhf46ImL9r0H4VZAiEA9tWcQiI/
+2oaCw8faE6uZZZqT3KAhE7nxJYXA8k7g7qEAdQApPFGWVMg5ZbqqUPxYB9S3b79Y
+eily3KTDDPTlRUf0eAAAAWp39NLeAAAEAwBGMEQCICxv+ANKtgeWLLpzd1RozFFD
+XbSf83aryIBmDFQs42xXAiBSINXkzgshY/Fqg4fZCo7U89Zzp/+7PJkp2DHU8Ddg
+5DANBgkqhkiG9w0BAQsFAAOCAQEAhaDjeJS7PZcu5ckzIFqgt6z9rb4t8G2ImWl6
+g3ZRIliqoweV4kQfSvsQ54lxIWtk8mjpgm3Axl762n6pAJF71NYWllmvwtKxGNEG
+oO99pgspYcIzz5XXlR5jfTfiPRMvBK8I1Cw3i5TuOZZEDgo3DyJVd56VucXc02sC
+7iqHoDmS/MUk90BI3faiAhjH6tnQrGUuUKncjoZwII+aEKKOyHYPjD0nkeoCPkgn
+qRchO022V/7WVlXYYSxc26Muq3g+zC7DR7zoSeenWRDV909g71tHz5IzOc/MtjR2
+vPHb8SyeBumwpgJjEtWveBqZMbs3lLNWUoVzg+rQR7Ia8P4/Nw==
+-----END CERTIFICATE-----
+subject=CN = bongomillionaire.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3317 bytes and written 421 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: E304C5053B2B9B81024CD436D54406EA4E14D092BB25E5875DF7DACE38B25700
+    Session-ID-ctx: 
+    Master-Key: 438D0AF85533CEB9227D3AB631F963C27E650D8CF7513EA0B8DF2DE3DB4B59F6CD968AFE430102022C9C468F18B28DED
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 26 02 39 95 74 87 42 e3-5f 39 10 19 87 f0 87 ac   &.9.t.B._9......
+    0010 - 33 e2 b5 25 14 51 e6 32-5f 56 0b 7c b5 16 75 df   3..%.Q.2_V.|..u.
+    0020 - d2 30 2b 5a 45 86 c2 89-a0 58 21 3f 11 71 ec b5   .0+ZE....X!?.q..
+    0030 - db 92 3a 1d 49 ce 67 1d-ef 8a b1 d6 59 d9 aa 55   ..:.I.g.....Y..U
+    0040 - 85 49 49 4e 9a b0 f7 dc-27 42 58 fc 7f 93 5e 2a   .IIN....'BX...^*
+    0050 - 0f d5 62 81 fa 93 ce 45-d9 da 60 40 ab c0 c4 42   ..b....E..`@...B
+    0060 - 2a ba e8 5c da 09 25 59-c0 b4 29 7b 3f 65 e1 83   *..\..%Y..){?e..
+    0070 - 42 32 44 f4 bf 20 05 32-59 f3 cb 52 f0 dd c6 14   B2D.. .2Y..R....
+    0080 - c1 c2 50 89 ba a4 f2 d0-09 90 7b a3 61 6c af 55   ..P.......{.al.U
+    0090 - 6c 06 b5 54 8f db 94 22-7d 92 fe 1b 90 98 43 f2   l..T..."}.....C.
+
+    Start Time: 1560949234
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

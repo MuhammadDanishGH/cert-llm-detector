@@ -1,0 +1,65 @@
+https://sanadwebs.com/update/f201cb8b2ed866f/region.php?particulier
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.sanadwebs.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNzCCBB+gAwIBAgISA/2/DhL+/0ytXZjkI4FWhHtfMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MjAwNzQ4MjRaFw0yMTExMTgwNzQ4MjNaMBwxGjAYBgNVBAMT
+EXd3dy5zYW5hZHdlYnMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAoPpofKHDFtf7H5sEBqr9xpZgwzmx86UFMQLla4f80Izef8aTu6KNjF1F0iLY
++1HCEF8fmjXXvLw65VEAdlud0RPKYojYn8d8K1yUjnxjBLc7WpRqGBS9ZgXZmSXf
+MI47DJ/p4tvYxXy0e1d/hx4exZhZIj/XPHd3m8Ry9PKOCTKVgYjQBCnJF3Kd59b9
+wBOQfe3xwP6KxFHVeJYFb+sTjvHkmBaf+tQH97FV2y70+Gis8ezdexHiX0Fl751x
+GtI0s264iXKqtre7PnpI/Rr2azBS9veOaeI3R4IRQlqYlVXQmeIE8QWFaKU9+h6u
+uNuIwhNj6V9g0QgYONqb5izpOwIDAQABo4ICWzCCAlcwDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBRrwXqvFpgx7Ak0KNlLbM6sHY9BDTAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzArBgNVHREEJDAigg1zYW5hZHdlYnMuY29tghF3d3cuc2FuYWR3ZWJzLmNv
+bTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUF
+BwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIE
+gfUEgfIA8AB2AFzcQ5L+5qtFRLFemtRW5hA3+9X6R9yhc5SyXub2xw7KAAABe2K/
+OcoAAAQDAEcwRQIgcvz67s2fioZD5VddIZDjX78zgZbY6OlUcB9BXuzPnEwCIQDJ
+3WM1GFgNFxZIlfo0kFA9zJRrNTWZhl9Z4ZxBGLYvbwB2AH0+8viP/4hVaCTCwMqe
+Uol5K8UOeAl/LmqXaJl+IvDXAAABe2K/OfIAAAQDAEcwRQIhAOXxBk22IXwL+keu
+Bmg/4drvJtsCWW64qxjqiiNJGH+MAiBLIW65mFc0O7Yf/576MYD3wO65SdsgzqoX
+bGy7dTmxgTANBgkqhkiG9w0BAQsFAAOCAQEArfYSysO3mgcau/F1srq8/hYaEakQ
+5d7Nv19v27N2iRpSXYyN2MLNXnNpHl6JGymx+KV4dmYPpVttU7o4PwBBEuqJs4yj
+ZeHaRxmiReKaeLwD73+n058dZEM4rHv0cFqY32C7aRukalrzUdNuDekCyt07UeyY
+8zL1i4F0oxPFDnxNpGvGcl4OwJVstR55+u/jaNg8BON5wgml6kgp3dQiTrNiAabc
+VthsZ0xO1jt4xVOCor1UkgD2DsUj7FWeEa4wXWZhZNqVwyPkaueEtsrtn473SEsF
+hOJgqdbZgiGqZPzRP/gpUGIyl0KjzAo4WeEyoeb2J0+gLZsPYRDMwZZbBA==
+-----END CERTIFICATE-----
+subject=CN = www.sanadwebs.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4595 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

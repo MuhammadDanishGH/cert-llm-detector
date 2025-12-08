@@ -1,0 +1,97 @@
+https://dantasfilmagens.com.br/attach/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = dantasfilmagens.com.br
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGIjCCBQqgAwIBAgIRAPeA+NApBEFeUXaBWyJv0YEwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0xOTAzMjIwMDAwMDBaFw0xOTA2MjAyMzU5
+NTlaMCExHzAdBgNVBAMTFmRhbnRhc2ZpbG1hZ2Vucy5jb20uYnIwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDT/BaI0uF5LY5vLKrLKdKCjYD2Couy0Mu3
+nqS/QklpQbQHzQc3D4ZSnjgyW5ubNfFRS48Kzi0AbF66k2H4tJI2riN/avENuH73
+SyJvea/2DIHCj7bgJMP1S5WEeP8KL6nT1r9I4OoeCGVCHi1DWW+1hRHPvpvCu5vA
+mEfr+S/GfCi0k9pyk4RtBjymI1dRXG1rR5H8qLxRTSdigycEA677B/SuL8ccToBw
+dhnf6N3ApMdSDvKClR48wPuOA4DJ9mqy/T4J3YAKkeeD/G406ViCM1EPNecKzhKU
+CaO874X3wxqbiO42XiacJuO+sM9+rmKADA1NAzD5LTAPjAai9vVhAgMBAAGjggMC
+MIIC/jAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU
+An0FaN6wSDNPzjOqzyeSt0eQvkIwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
+MAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYL
+KwYBBAGyMQECAjQwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2Rv
+LmNvbS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwu
+Y29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3Js
+MH0GCCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYB
+BQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTBaBgNVHREEUzBRghZkYW50
+YXNmaWxtYWdlbnMuY29tLmJyghttYWlsLmRhbnRhc2ZpbG1hZ2Vucy5jb20uYnKC
+Gnd3dy5kYW50YXNmaWxtYWdlbnMuY29tLmJyMIIBAwYKKwYBBAHWeQIEAgSB9ASB
+8QDvAHYAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUAAAFppEdiGgAA
+BAMARzBFAiEAn2Kloq4kXUrOKrqYIfbTzfDygJ+yFtINKbcw7huz1C4CIAZ8JRqc
+GKnUCFPhEXpBHw9vw0EkUMzLjHbRCYcUd7hZAHUAdH7agzGtMxCRIZzOJU9CcMK/
+/V5CIAjGNzV55hB7zFYAAAFppEdiUAAABAMARjBEAiBs/XfANxQYUoaQsZ1R/FQU
+dGuqqHAqbQDqjBzPJCT+CwIgWCvlxmLwQPSjHlhk7TSoTp/bfLmz93Qt7OcHeCRg
+kiUwDQYJKoZIhvcNAQELBQADggEBAHTAAZGk7O9sqZh0OrR4gwGYI+FJaEsSv31S
+DLDiJRnqykGCMbVzEK67SmwpqH8I8OarzUVQ0ekwmMfm/Zyya03xom6J9Rlw1D2P
+CFGJK9flQaSKVDsF9iMmBBNyteFZq34ev/2NPRir9o2XVPg3gtmP9smc8BSIRXqm
+A4XOwgynQiTqxYTLAPQUYW5eLLe83HYKjw9NK4xviErMOwyIgcBIDcplXCTb6kav
+kP9Q8Gk7Frf7OA6g41XiuXBt1G0dZYdP1ifn+rW/Qeg+kWEW/T3k8iVYsg27wU93
+zrcnRyhctiA+/XRoT4CxQjGKBNwJkZN9wCpuovvKlroX2LqsAYI=
+-----END CERTIFICATE-----
+subject=CN = dantasfilmagens.com.br
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5211 bytes and written 460 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 8CEC283E4CE614B26E835B2B03EA5CC5AF678374D172D6EAB2B61F3093BC086B
+    Session-ID-ctx: 
+    Master-Key: 879A0AA5FCB06E628F624A913681E39D60B1D94F32B538825FA79A1C29E855FC450857D7A85F056556DF6BDC365FB919
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 1d 68 a1 9f a9 50 18 d2-98 e1 d4 02 b0 80 e2 ca   .h...P..........
+    0010 - 39 c5 ba a8 05 06 bc f9-84 a3 38 c2 b6 c5 6a 21   9.........8...j!
+    0020 - fa 23 70 cf 6f 5e d2 5f-47 39 18 0b 92 18 bd 08   .#p.o^._G9......
+    0030 - b9 c3 3e 7a c2 63 9a 6e-88 72 3b bb 98 d9 c1 2d   ..>z.c.n.r;....-
+    0040 - ce f3 d1 a9 93 00 36 d2-7a ea 13 bf 1a b5 7b 3e   ......6.z.....{>
+    0050 - b9 d4 f7 87 44 55 cb 3a-46 6d 12 31 fa 00 21 d6   ....DU.:Fm.1..!.
+    0060 - 45 50 6d f2 cb 78 16 c8-65 db 44 b8 58 28 1a fc   EPm..x..e.D.X(..
+    0070 - d6 a7 21 0f 14 bc de ae-ba 9a c9 66 10 70 54 5b   ..!........f.pT[
+    0080 - 85 06 07 fe 74 2c f8 1d-4a 7b 70 86 8c 0b 97 47   ....t,..J{p....G
+    0090 - 20 49 ea 56 e0 ab 01 f0-29 6e ba 05 07 ba cd 15    I.V....)n......
+    00a0 - 28 3e fe 33 47 02 79 cd-bc 39 2d 5d d6 d6 85 fd   (>.3G.y..9-]....
+    00b0 - 58 e0 cf a2 b8 01 73 bc-50 40 92 24 26 5d 4d 2b   X.....s.P@.$&]M+
+    00c0 - ad 12 c3 d5 60 bc f1 0a-1e 17 9b c3 43 4e e8 69   ....`.......CN.i
+
+    Start Time: 1558357219
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

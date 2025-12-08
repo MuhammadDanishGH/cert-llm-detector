@@ -1,0 +1,95 @@
+http://nokiastorebd.com/1/in.php
+----------END URL----------
+CONNECTED(00000004)
+---
+Certificate chain
+ 0 s:CN = nokiastorebd.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGWjCCBUKgAwIBAgIQVhEyGLSU4u8lMZbBJ4s+6TANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTE4MTAwODAwMDAwMFoXDTE5MDEwNjIzNTk1
+OVowGzEZMBcGA1UEAxMQbm9raWFzdG9yZWJkLmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBANZYRTRsdsOoSC4uBx0jjT3kmaNey/MHXZM3UAXnc02F
+Q5/VFEJ0UUm94gDHu6Tg33qGpHJwltyQtNPkuGV9yFZ2h8JnQRHmB2coVRnQ7Oio
+JdOjoRXkQctpUNR+ONQP3JP+CJRZj3I3OAUN1mCZBkRx1ube+9Tdjpgr6K3/cP0g
+JYOb94/T+rt/pwUt/ZDUa//fej9+2COv3+2dU6ZzkUltkhqPwAc1aZw1wICaISQM
+EbDFDLbdwxYLVbbskhnFEk5DHhmCekDaNWZLmHQn8BfKcluVbBN2Qglgg6dr7YRr
+6xfmJ1eRm86kTTjmShFfQzqpwkRrNXUahy6ipi+TGncCAwEAAaOCA0EwggM9MB8G
+A1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBSO4fCevWy8
+lcPPFlJcJrnlnElrmDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwTwYDVR0gBEgwRjA6BgsrBgEEAbIx
+AQICNDArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8uY29tL0NQ
+UzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYB
+BQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYY
+aHR0cDovL29jc3AuY29tb2RvY2EuY29tMIGXBgNVHREEgY8wgYyCEG5va2lhc3Rv
+cmViZC5jb22CF2NwYW5lbC5ub2tpYXN0b3JlYmQuY29tghVtYWlsLm5va2lhc3Rv
+cmViZC5jb22CGHdlYmRpc2subm9raWFzdG9yZWJkLmNvbYIYd2VibWFpbC5ub2tp
+YXN0b3JlYmQuY29tghR3d3cubm9raWFzdG9yZWJkLmNvbTCCAQQGCisGAQQB1nkC
+BAIEgfUEgfIA8AB3AO5Lvbd1zmC64UJpH6vhnmajD35fsHLYgwDEe4l6qP3LAAAB
+ZlJqKXYAAAQDAEgwRgIhAI3oHRRJ6V3xuEdBjiYaAzsEbtJxZAY/dfyjELyMkspV
+AiEAiVF5v8mpzR2ik3coLg04L53ahRgBI2bjSw9nb3NPIoMAdQB0ftqDMa0zEJEh
+nM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWZSaimjAAAEAwBGMEQCICfQU37rGsD7
+z4mPuHt72tVgrkyAngQtErInI3G2YonTAiBpL5JFDfcbd0HzVrZzFMuw6HFiDQ8a
+EGt/zSxPu5z5bTANBgkqhkiG9w0BAQsFAAOCAQEAbzIzX0Oq0dzj/1B1PXUAYo0C
+leGGpAF3Wv55ij8Z2MD4W+mtL+tWS4ha6MG2MRAf2wSQwLPz582rEJHZ5+GFOHmC
+YfkRIj1v6nnCh/7RFyRTxHNeVZe7AzjtFrCD7aKj9QJQOUT98YiTOyY1hxR24Ajm
+3b5v0XFRFdjLp5JEjmPEEhUAG1q8IShGAmjIbEPf+E1VNmiMagGHCESDbphvFDpx
+HJ1dLDrvRFvJ84wjsf/ooN3Mz/PR/PGpz+Z3iTzn54lvva486BpeEWHayDotwk/W
+GPMHLb6pfGYTN/E0cwCLjsjScazgL06D3lO8Yt7Loe2S2VLkkCe2LB9jOhyMQQ==
+-----END CERTIFICATE-----
+subject=CN = nokiastorebd.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5184 bytes and written 421 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 6BFB4DE1BB19482A06D2B702075213C8BBC0EE468918B7FED8BFED01AABEDA7F
+    Session-ID-ctx: 
+    Master-Key: 979A44C7B0F262C6FC72875B11DB2E371F083EADAA7D017CC3530E3820FF151770D3310A5FC7702B033CB00FBCF7028D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 03 fb c3 47 95 5f 71 ba-15 ec d5 ad a8 10 dd 56   ...G._q........V
+    0010 - 10 fb a0 bd 94 41 39 a4-a3 30 1c 0d 0d e7 d6 15   .....A9..0......
+    0020 - 9f b2 4d a0 6b e3 5c 2f-26 0f 75 9e 41 fb cc 97   ..M.k.\/&.u.A...
+    0030 - a0 ed 50 cf 2a d4 85 7a-03 31 ba fa 32 61 05 91   ..P.*..z.1..2a..
+    0040 - 3f 6c 53 a6 54 14 35 f2-d4 b1 75 90 64 96 90 31   ?lS.T.5...u.d..1
+    0050 - ba f8 61 9f 67 90 e6 04-32 0d d0 60 19 0d f2 82   ..a.g...2..`....
+    0060 - 23 96 d5 44 f4 9d 76 ec-df 41 f4 2f 8c 35 0b d7   #..D..v..A./.5..
+    0070 - 64 00 57 dc 5b c7 82 9c-99 36 ea bc 04 e1 4a 45   d.W.[....6....JE
+    0080 - bf 0c 8f 50 5a 61 0c af-15 75 21 fd 3d 26 e3 53   ...PZa...u!.=&.S
+    0090 - 40 e1 97 61 43 27 71 fe-97 7d f7 c7 96 27 80 01   @..aC'q..}...'..
+
+    Start Time: 1546610416
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

@@ -1,0 +1,70 @@
+http://loejmrumfh.zaha52ne.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = loejmrumfh.zaha52ne.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGAjCCBOqgAwIBAgIQIW9GMtWyc46ZTtiB5inOVDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIyMDIwMTAwMDAwMFoXDTIyMDUwMjIzNTk1
+OVowIjEgMB4GA1UEAxMXbG9lam1ydW1maC56YWhhNTJuZS5vcmcwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDJhFitRmgZ7kRUXz40Z5tO6pUtNS0JbRAL
++vfRg9KKo+MXaKX63gDjxqugtqa1sOOJxnL43u6TRwPdgP/YFFVm8XnV7Fu7gB9b
+rluxiJOgT4DP4qu623EYl9h2kPWGWbgesj/y5dzpAui95HIHXZ4SDx34mi6ltoal
+5EA79vBVekWLxa/uFOLTmTAnC5vTkqT8ZsQ6axXSBoYkv1DyyyI4AkAhlLYRBxaH
+W0JrFwilZ2Z5/EISxWerAeBO977Pr/JBMo6VDJAy14OR3Sxw12MVVIT0wwMHYMo+
+R3LhM4ZGSguhKgUNJ2IDAjozuhwFgENyxlFhkPqBLFUHzso7MNKpAgMBAAGjggLi
+MIIC3jAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU
+4sZsZmGl1YoPeByeVqzuslJHd6YwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
+MAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYL
+KwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9D
+UFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2Rv
+Y2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsG
+AQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGG
+GGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUEgfIA
+8AB2AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfrZ0vWUAAAQD
+AEcwRQIhAJtH1Yc9voFyyD+X6rc1uOh3FBbNGwDYKcCkFxJRFELlAiAY0OwOo1IF
+JoBXQQV1t48GEQuHiMCVs0dc8PNuk5+tZwB2AEHIyrHfIkZKEMahOglCh15OMYsb
+A+vrS8do8JBilgb2AAABfrZ0vUoAAAQDAEcwRQIgF85AaFk9+5qNibYjUWmNBvZI
+kNWJ+M4q/3m6IzJQNFMCIQCO53i9PCV13T88Pbqz3UI8C5RYmrfSM0UG+X8wtM8E
+gzA/BgNVHREEODA2ghdsb2VqbXJ1bWZoLnphaGE1Mm5lLm9yZ4Ibd3d3LmxvZWpt
+cnVtZmguemFoYTUybmUub3JnMA0GCSqGSIb3DQEBCwUAA4IBAQABfbGopivdC60X
+Ga1C98JyROqXdnPJB17zDY83xt0wJeI6WYFzw/GOgFCB6on5BtXuROkGI14Qqwxv
+D6aZ+JwMCefNq8qjLiGrtqV/OE/yr3E331Co6gZm9f/d69zQrxiSoAdSJptBR8cl
+v4lcbL/avOxnn64hh/k0zmoBvGhOJYSuOCzhNEDR+0geRuLkCDtrAWEv+Rh15nng
+kiejbcQBP/ew/aA6S04C/gP98KyWdNfq/QV90MAAfwikpHAOA01xsfeYGLcGVGyZ
+2+f2leixibEsOXBu+C+Iu/4uc+W+qlDZQfbl7t0g6NoH1KhLbn1o1EDX0D8dEGOK
+cl9P31WR
+-----END CERTIFICATE-----
+subject=CN = loejmrumfh.zaha52ne.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5047 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,66 @@
+https://paankakesvveop-fund.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = paankakesvveop-fund.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUjCCBDqgAwIBAgISBMLH6fuGuLPAq0f4octlx7TzMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDQwNTMyNDBaFw0yMjAyMDIwNTMyMzlaMCIxIDAeBgNVBAMT
+F3BhYW5rYWtlc3Z2ZW9wLWZ1bmQuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAuaFL7efZ6jwTaFPYqChMkYA2ogj17i937h1W4bLGTU4vGxS454Gh
+dMgGGCn4B87l4khUmzq2YgbYBO61oQQCflDoptEgTlBwX/w0FNskpznRfM96cd4N
+o/xF9rKM37dHqHDkadanJ3FxNi5GtItMJi92uNCUB7qf9kbIk9Za+c/ay9DwKSBQ
+atn05mcwaLLVndaQFzvaT44VoW0lSB6xen8bDOYDvAVA6K0qa0TKWcTKCaU8ZSv5
+iXs0+I1B06PuFNMaec7flk8JSiDLIvP7VoCtkHXccWnMX0dsMoD2+HDLWjAOmkH/
+gTuyEl+RgccbAUPiH5sS5EmpzuyEl1kqnwIDAQABo4ICcDCCAmwwDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8E
+AjAAMB0GA1UdDgQWBBR/VJAj91E/nlu08yw/DLvEWDXT5jAfBgNVHSMEGDAWgBQU
+LrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGG
+FWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmku
+bGVuY3Iub3JnLzA/BgNVHREEODA2ghdwYWFua2FrZXN2dmVvcC1mdW5kLmNvbYIb
+d3d3LnBhYW5rYWtlc3Z2ZW9wLWZ1bmQuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIB
+MDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2Vu
+Y3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAQcjKsd8iRkoQxqE6
+CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF86aZEVAAABAMASDBGAiEA3tLGcY0/vZxH
+vZ+sKvgOOGWWU/4+fxwDIIO71+2sJ5wCIQCpwPTeNtrXUcsG3qNsOocWbw2/t8bj
+4z/s24J+nO61iAB2AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAAB
+fOmmRG8AAAQDAEcwRQIhAMKK+fB3TXZVv4dgc2EFeSN/pz9gnT2ErV/T83yJ0RMh
+AiBjpkMUoxyj4kNFfx/ZbHsCt9p6xSYETSWvCdOm9wdTYTANBgkqhkiG9w0BAQsF
+AAOCAQEAk2GRPEvpvKv7Psg9wfKBsJwEtXL3C0q0wrKOiCBY9CtLdOzZEoFj/jUw
+HbRT+WpsGJ38nfoIll2VI4+857wD8MG4EfRoVAaujBTmIB1q5P2e4aiXed4YlwAo
+LvgqAkb/XjDz3pZNU3vkrPgtglPeDVNPJNx8yx8DAxCRNqYnzI4JkMWr/SEiCvEP
+SPd8DzVoeHYmaGbP6pzLby9lD3h4uLloaEp33A2MvZc2laLUcARKcuUZ5dgEu669
+5q9jsp6+3hjouZ+J3vdawp074qcv6nnk84zWabiZ/tU6po03W5zDGogWI+hF9dr/
+EkXviauRtmM10cbW+J/G0A7RsDvk8A==
+-----END CERTIFICATE-----
+subject=CN = paankakesvveop-fund.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4606 bytes and written 381 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

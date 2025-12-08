@@ -1,0 +1,81 @@
+https://www.ciamx.com/wp/yahoo/new%20yahoo/login.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ciamx.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGJTCCBQ2gAwIBAgIQA4daw4TiaZRq/zTKOV3gSjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTE5MDUxMzAwMDAwMFoXDTE5MDgxMTIzNTk1
+OVowFDESMBAGA1UEAxMJY2lhbXguY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAy9Qru4nYEzQeJd+7SHclppqtvdID0t/qx7bN6J9atKe4c7V8JxTb
+9xv+8lcIv5BDqEHwbq0DeVv1h30A2Aqj1HtQsCbvoDjGufDIMvjqEfSmb3KLCCUM
+Uzls3KHzfSA/aWg5I1fCFUNaFGpVzXf2l+pls08jzuQzNX5K0oVZZdOF1nQXFy48
+k9J8opUMbaLze3RU86kMOZhdELXRd30nSmlU3zbrF1AVL/3DZTUHGYPd6bhscUES
+ejT6hHAQA/1/VuqgYEqEUYn1C4MD4pwCdP1U6kGGUr1zxLdpoVe8+0i7Mnujibpe
+YoLQdCVhgkeNQ1AvuO5mo8yuzI9lXSRG9wIDAQABo4IDEzCCAw8wHwYDVR0jBBgw
+FoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFDlswKeSO+IJkd66i4e/
+Z2LYk72UMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQG
+CCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysGAQQBsjEBAgI0MCsw
+KQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5jb20vQ1BTMAgGBmeB
+DAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRx
+MG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbElu
+Y0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8v
+b2NzcC5jb21vZG9jYS5jb20wawYDVR0RBGQwYoIJY2lhbXguY29tghBjcGFuZWwu
+Y2lhbXguY29tgg5tYWlsLmNpYW14LmNvbYIRd2ViZGlzay5jaWFteC5jb22CEXdl
+Ym1haWwuY2lhbXguY29tgg13d3cuY2lhbXguY29tMIIBAwYKKwYBBAHWeQIEAgSB
+9ASB8QDvAHYAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUAAAFqr6q1
+kQAABAMARzBFAiEA5ENdrVvsxXkDYTendZ8yT4timEbBaq7X3moNVxDG28ACIEI5
+9klW1lKOvzceNKcKH+uXRitLlWENupyeyVPOEXMlAHUAdH7agzGtMxCRIZzOJU9C
+cMK//V5CIAjGNzV55hB7zFYAAAFqr6q1rQAABAMARjBEAiBHPQaZa/TvhBUFkVLx
+hND7vNl6UxsN8hN6smjcyjg7EQIgOUc1oppuvcMSmA5F4f2+R18KApKc9E7q/WRG
+icKU1BMwDQYJKoZIhvcNAQELBQADggEBAINz7M9DnOPWmmL44YRk0UHPGvedYlYU
+bR50hZWUDAf5U3qeBRddgKeFH0Gi5AOnNpdTdrxTiKrr4zgGwEBDOZKsnE5XL8sU
+yCTOEWA13ggcmqFPmaF15+G6nnEfKgugyD181eLFXct8W5XxCTZAlnOwDx5gl+Un
+/pKAaWZMrafRnDuS8+sJrCiVNdhkKV12cFn2aCVsACIVOYYbNIRPYCFtP7EaINTG
+WYgng59FRffFa8lxwmUqwAQOV3MxOMz2uzd8TsFYzqWgGI2u22FzypmVGgDu8oMX
+Y/bCgvFoFSmwG7pEXyEG0Z3FMd+u8SuniLBphC8FkOtpy51gbOGbDmo=
+-----END CERTIFICATE-----
+subject=CN = ciamx.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5019 bytes and written 451 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: DF09D44824FABB91B1F73385840FC8F4B1EA6DC4E6D57708BDBFE0AC2B59D291
+    Session-ID-ctx: 
+    Master-Key: E339E49A0E5EE2450DF2526B0DA53A3FA7DBF6E57843FDD3270134BA371D1A806702A065FF87A279B8D97EAE4588291D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1558616422
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

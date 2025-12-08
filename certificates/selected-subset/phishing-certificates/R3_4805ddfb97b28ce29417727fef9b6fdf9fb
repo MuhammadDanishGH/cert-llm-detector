@@ -1,0 +1,63 @@
+https://luzeciamt.com.br/onedrive/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.luzeciamt.com.br
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOjCCBCKgAwIBAgISBIBd37l7KM4pQXcn/vm2/fn7MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjIwODAzMjZaFw0yMjAyMjAwODAzMjVaMB0xGzAZBgNVBAMM
+EioubHV6ZWNpYW10LmNvbS5icjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAK3eiSyT447TLHlTqrwY7rHPBYv6KyvdCcrrID2baVNaAfQWW9DmBd6liIGJ
+qV7BpteUxl2esDfJ2/YZugeeL6AGEV2eH6/EFE8NcO/8XWTab3Prfl5Bi4Wy8n+S
+m/amjIfhFXkfBRqaISxmtV00EuFdXMZ71JDni1EItaMYHlU657Y5JjGJBSiQV+HY
+NeYlCYELZvjV0xV2OV1mhYKh6vZO7u3Rx1Fx80/Mb45axjX1+VPmRmKFRDLTPVRv
+/dpxiwdFIiuewu/Jg2vnrr4vB+M1qSPiGeB70LEXP0aHV6DCq9uI3t4sieeNCwuk
+p6PfbcwOoM7/+JOOOO2jt5btZqUCAwEAAaOCAl0wggJZMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUvlstpQlk+oFuP1lCb0IbXRPU6DwwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wLwYDVR0RBCgwJoISKi5sdXplY2lhbXQuY29tLmJyghBsdXplY2lhbXQu
+Y29tLmJyMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAgYKKwYBBAHW
+eQIEAgSB8wSB8ADuAHUA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMA
+AAF9RuLExQAABAMARjBEAiAemimHq/KyuuvZ34Sb4eviUVh44JioeadAiUBvVV05
+9wIgSaMkTSRWlS5fmTC/dMkXYKaLoGHaQ6YJ4ap+XPotgUAAdQApeb7wnjk5IfBW
+c59jpXflvld9nGAK+PlNXSZcJV3HhAAAAX1G4sS4AAAEAwBGMEQCIA2Y70vZvq1q
+dhEi3AvgSb9sdn0+15BipqZ4Xe2p+m30AiAC+46xiNNnjcZa5HqtG7kFmbt4kvbV
+eTHKM8WYUo+WyDANBgkqhkiG9w0BAQsFAAOCAQEAc0jiZ4R3yfJv+TvDA9AioSxa
+OrQ9YDCCM6ntSTstdRrUOHHBWG26e85zg1ZMuIwLI/WOtYN++GZ6zDtIIAhlJUWC
+Va8a1nwXCCD0K0OUYYLoEByjbVRhuZyw/uHgbbdh+0S8u4k8u5PuRgn2v1z0yJTU
+I//jf/bHqrcBOF9jMRKysPJ3Cx6Zp3tVNmaOwjFodsGhTtIhQFYdaSHXgmyhvfcs
+T14+erI2paHMk/C62BVJWTxJrccod1dMQMLRN4b9lX+hNvCJGkXIjAyoZv4WQztc
+eCcTGqleH/1aSQ1unw0pcokJErxR8RNVECreTtA1ieGhGXwx+3aW4Ic2s3V0ng==
+-----END CERTIFICATE-----
+subject=CN = *.luzeciamt.com.br
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3213 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

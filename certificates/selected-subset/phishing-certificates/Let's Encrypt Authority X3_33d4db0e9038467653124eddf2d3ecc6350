@@ -1,0 +1,94 @@
+http://primera-africa.com/thapelo/tshipi/mn/mining/za/index3.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = primera-africa.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF6DCCBNCgAwIBAgISAz1NsOkDhGdlMSTt3y0+zGNQMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xODEyMDIwMjUwMzNaFw0x
+OTAzMDIwMjUwMzNaMB0xGzAZBgNVBAMTEnByaW1lcmEtYWZyaWNhLmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMQ/AusAmJ3G63ho+m1BMmpVF7VS
+wIHXRtEMYMqYq5jCti6SrrCo+ejO9uKjuXhS6goacEWeGXbHwnMLlrqVKNb1Tem5
+WVerLCGK1ECJ0zERSxB6D6zGpukpcyHbUzzc9tgDoY2epRwEirVxsiIhjjBb/a3q
+BIWnKCmzOz3/teJqgU2AJtBHRfaS+gNnEu+oa473TtmiQlQYmI5v9PByQS5914Hd
+dktGPWx8HuDspgy3trFJPd0D5k7iVK1LpMYBYcPaEJPnGsGeWCTdQyZifu5Dh2Eh
+JxF9EwbUDKei3q9hIh6tdCw28m46SW4S6fsUR3HuiT8QOj79zzptdcoxcg8CAwEA
+AaOCAvMwggLvMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU1HuE+37m0knW9cAzwDE7
+EBmPZAQwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzCBqAYDVR0RBIGgMIGdgh9hdXRvZGlzY292ZXIucHJpbWVyYS1hZnJp
+Y2EuY29tghljcGFuZWwucHJpbWVyYS1hZnJpY2EuY29tghdtYWlsLnByaW1lcmEt
+YWZyaWNhLmNvbYIScHJpbWVyYS1hZnJpY2EuY29tghp3ZWJkaXNrLnByaW1lcmEt
+YWZyaWNhLmNvbYIWd3d3LnByaW1lcmEtYWZyaWNhLmNvbTBMBgNVHSAERTBDMAgG
+BmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3Bz
+LmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AOJpS64m
+6OlACeiGG7Y7g9Q+5/50iPukjyiTAZ3d8dv+AAABZ20KCRsAAAQDAEcwRQIgL6ju
+Kt/w6m/MAfFWdgviXE3yoqjgZ2cwG2kNLU6UdQACIQCa4tkarYLvLaUSwFF8QfcD
+n+Gw6tzMcilRngq7nQoVcQB2ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVF
+R/R4AAABZ20KCPwAAAQDAEcwRQIhAPJ9Xtn42JS06rw17DtSJ7mOWQbU25AYWpSu
+Mbz/Dez8AiB4kZnQ/+uH6abPSjW4eIuA/8PRkzPgh3Rl9955/M06TTANBgkqhkiG
+9w0BAQsFAAOCAQEAXUCzkvwfF3kL/zizggPSIlDcmqvb1zqqgJxiyoglVegxrtu4
+RLk9FqOhCd2O3P6NgSqdWfl9a/W4NF54OFZEDrQquczjXhdP6iV4FZEMhered2ho
+4ojBt/18kZvQokTyGt/qUkOWHKbSxrli9AynsWqTnQcv1aNe3gihYF1iGjvycXN/
+oADB23+pxR/XK04u3/cLA+gJYz5x5J1OX+fHqHCLnO+HtD8tij7FRDqVAg2klrP9
+vjkF43KuGIuWrk0P/eqbijl5GoPxFBOv+rAtMKRtTfsRMt+InhkF35cyxYIxObl3
+TiTfPUzL16fVcwxwCir2BBrCkyp9+EGMoCJFnA==
+-----END CERTIFICATE-----
+subject=CN = primera-africa.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3370 bytes and written 423 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: CF9ABB15C46945E6C420376382F56EFCA4169268906263754D61F2EE7C2AC85F
+    Session-ID-ctx: 
+    Master-Key: 860830057E3F802A844E325DA6865BFA12B2FE587D956ABEF62A1177FB0D79231296C505E81CB1C1426EF67765111ACF
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e6 0b d6 a3 98 12 50 2e-c5 37 77 70 07 19 b0 a9   ......P..7wp....
+    0010 - 3c 20 3a 2c c5 c3 df 4e-65 c7 02 3c 4a 88 46 e5   < :,...Ne..<J.F.
+    0020 - c7 9f 78 88 a0 53 d1 bf-b5 ca 1a f2 33 bb 7a 43   ..x..S......3.zC
+    0030 - 7a e6 93 d2 ad b9 ad e9-6f 66 88 3d dc 30 c5 42   z.......of.=.0.B
+    0040 - 45 88 0f 19 2c d0 c6 d7-a5 cf 28 c9 c9 81 dd 74   E...,.....(....t
+    0050 - f6 85 ac d8 3a a7 52 45-32 5f 85 de aa c5 3b 33   ....:.RE2_....;3
+    0060 - 1a dd b3 01 db 41 9c 37-d0 be 1f a0 dd f5 c0 bc   .....A.7........
+    0070 - de ae bd 99 1f 4d 02 f3-f6 02 f5 59 1e ff 2f cc   .....M.....Y../.
+    0080 - 15 cc d6 75 5d 1c 16 8d-a5 9d 3a df fc 98 a7 49   ...u].....:....I
+    0090 - 22 93 85 66 b0 19 11 b6-9e d3 41 78 26 91 c7 a1   "..f......Ax&...
+    00a0 - 6a 9c e2 60 99 f0 0e 8a-a1 f1 29 db 5a 5c 6f 16   j..`......).Z\o.
+    00b0 - 85 39 63 f4 18 ff 3c 0c-0f cb cf b6 68 9b 73 c8   .9c...<.....h.s.
+    00c0 - b3 1c b0 4a 7a b5 34 1b-02 2b 34 1f d9 2f cf fb   ...Jz.4..+4../..
+
+    Start Time: 1550066414
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

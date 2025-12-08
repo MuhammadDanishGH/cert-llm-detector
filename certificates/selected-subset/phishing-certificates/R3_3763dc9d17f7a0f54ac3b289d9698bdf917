@@ -1,0 +1,69 @@
+https://mail.sharewatshaqq00.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = webmail.sharewatshaqq00.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGSzCCBTOgAwIBAgISA3Y9ydF/eg9UrDsonZaYvfkXMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMTIwNjI3MTRaFw0yMjAxMTAwNjI3MTNaMC4xLDAqBgNVBAMT
+I3dlYm1haWwuc2hhcmV3YXRzaGFxcTAwLmR1Y2tkbnMub3JnMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxQ/2usqg84ifvbTibZ9/U48gjaHd185JNna3
+rkby/1ZdCXLbBrnvWxEs3Xyih21euQV7mLApGC/EqXztGGQQPOi9ePEEJVX2USdk
+0Y/i6x0qE4EIbDIRDKmSFV0dqD2WG/XkzXJMdB7DVJFKyu3sByZGSZbEEgQJ8oZS
+Fbt88XBpA5kPIUzez5InUp8o5UR1Bj25b53jKxIcJt80BCz9kFUFFnM+aaljWpal
+lsv/lhk0e+laBsVsICCu/2B38wkAirruf8RPUYtairvwRysAEN2XsKAcm4jLYCRB
+KdjkDhuyySn/af3v5Ki3a58hIpIEiBr34aiVeLsNYZRgBDcmEQIDAQABo4IDXTCC
+A1kwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRw7X2VYXSsfBuX1H0KD+Gzkj80iDAf
+BgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcw
+IQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYW
+aHR0cDovL3IzLmkubGVuY3Iub3JnLzCCASwGA1UdEQSCASMwggEfgiJjcGFuZWwu
+c2hhcmV3YXRzaGFxcTAwLmR1Y2tkbnMub3JngidjcGNhbGVuZGFycy5zaGFyZXdh
+dHNoYXFxMDAuZHVja2Rucy5vcmeCJmNwY29udGFjdHMuc2hhcmV3YXRzaGFxcTAw
+LmR1Y2tkbnMub3JngiBtYWlsLnNoYXJld2F0c2hhcXEwMC5kdWNrZG5zLm9yZ4Ib
+c2hhcmV3YXRzaGFxcTAwLmR1Y2tkbnMub3JngiN3ZWJkaXNrLnNoYXJld2F0c2hh
+cXEwMC5kdWNrZG5zLm9yZ4Ijd2VibWFpbC5zaGFyZXdhdHNoYXFxMDAuZHVja2Ru
+cy5vcmeCH3d3dy5zaGFyZXdhdHNoYXFxMDAuZHVja2Rucy5vcmcwTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQDf
+pV6raIJPH2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAXxzZfTFAAAEAwBGMEQC
+IF0Q4x2oW6JIRL9WTRHL6NAZab5GDkEjzA+zjitMeI8iAiBfFBlKuQqSxiiB8GiF
+sVJrvwT3veUbzaOyQ5KY9qRADQB2AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr
+8vxw/m1HAAABfHNl9uMAAAQDAEcwRQIhAJwhMcMebaytBXI8kXxW4xVEzPBctWzs
+Fb2Ce5LIW3uEAiBHKExV/iNLau0CXj5btlnTwV2Da7SGaAmf7bgxXsFe0zANBgkq
+hkiG9w0BAQsFAAOCAQEAAw+YmIR9CUxjl6KhBoNfL2GVMxFtcpiVoBj+JQ7CK0PO
+gRzyGZn/Yr+O3aQ3wUKgzrFaM4n2AxpPSqHaNtgeXInXB2Q+mHfbV7fyvFnQbRDA
+IEgTEZSbt+KVAHOx7tbOOVcuVa7AgFyiTaAq+WI9oN3Ob4tl50nvaUC5G30Nvu1I
+N8rIwld8kl1Gd+1xqFcis18JHtepdJUVPImWIjxMjz79GF4qghRuNJPxrYCTFMYP
+8gaY3bPCYwVyoxC4ROg0R2Sxy88XIoq3daFSfZNzyJRT4NGAOmwRuu4PbldTYmEM
+bz3IvbWgfV92m6rav/ZAO/1XOchCkRzT/zd9KkgPrg==
+-----END CERTIFICATE-----
+subject=CN = webmail.sharewatshaqq00.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3486 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

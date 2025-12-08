@@ -1,0 +1,65 @@
+https://gamekor.net.ru/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = gamekor.net.ru
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFIzCCBAugAwIBAgISA/OCKBf+Q84XfQhspvoTOcXuMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MjkxNDEyMTlaFw0yMTEwMjcxNDEyMTdaMBkxFzAVBgNVBAMT
+DmdhbWVrb3IubmV0LnJ1MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+xebO3WG9H1hhMZvMwcNKDSMT/yxp5VISf9xqjuJjW9Ie+CbDnFpGwxE5x+ffp7I5
+KVNusjIWDza4S7WCaI3F+1T3qt/YC5cXlJwD+FaG5711rOtVsowIAm5SW3fmAvgE
+kQfb4TSr4p8adyJEdxq/XkF7mQJ8J+zhUf9UgOwdsyp7+Sm4LfreqFmck+tDucGC
+5UUq9nbtwwyl264WNgQGB81JR5/3xECd+kHC/9Wnt1Z9+m4bPrUtuigbPsCbwp1d
+UBgU/ZM4z7xsYRo59fia0uK7E98IGCXP1AX2/wt+Mg2O9Z76u/l5ti0jk1C3dnlc
+HkOrpQrRh4ZHu/HRP6SGlQIDAQABo4ICSjCCAkYwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBR3m+ovzQzMEp55ft4VMCc+BOzsjzAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzAZBgNVHREEEjAQgg5nYW1la29yLm5ldC5ydTBMBgNVHSAERTBDMAgGBmeBDAEC
+ATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNl
+bmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AG9Tdqwx8DEZ2JkA
+pFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABevLSzLsAAAQDAEgwRgIhAOv0J/UUx8vD
+0uR5Zt2V7x4qE7OXiGNujjP0uJ1IyKYLAiEA00hwCQ7XNBTE0jNZQExEyldp+EAX
+m4FE8Z85TXgznkwAdgB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAA
+AXry0s1LAAAEAwBHMEUCIQCjDrjgJswNZTlIfcJ3PKDnCI+66zJuPb9l+F3dVxfu
+UgIgaU21jXnrD73mcCGLRdwz/QS6qetRYl4ZgKmg1ps2wHIwDQYJKoZIhvcNAQEL
+BQADggEBACxfMgJcivhgZOyrLJ/EXKmaUNVkyJLbEQuxkdHSOlDeYRYA7TmSo9yH
+bIKC7ELwviINZIc8yxtN/iZRZ7iEM28qvzmYzGjoCzWdZ3ePeBWrFMMdhWcFZL5P
+rN3gDzT53TgGqwp4LIm/a5QTOxG3COvHF3sSTdWoB2V+8ZBujU0zDj02SuWVodr1
+hErbJD8DimcHR7U1zh73MhkIk7b7b/V3D//HvNZabkVD8UW0KgWwlS/mSE94yRhl
+2xwZqugN/2TfLVrTRcesafLIwxLHwFME2MbUADu3J0jKBidyEeTIIu+kWFAvGROs
+hLaU7geRuwp89D0AvSaP6PEAdFi3rBA=
+-----END CERTIFICATE-----
+subject=CN = gamekor.net.ru
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4575 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

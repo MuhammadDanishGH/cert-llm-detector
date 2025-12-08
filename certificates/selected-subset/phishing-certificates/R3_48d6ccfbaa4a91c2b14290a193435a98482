@@ -1,0 +1,75 @@
+https://newsek20.servebeer.com/?loginid=a@abc
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = newsek2.myvnc.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG9TCCBd2gAwIBAgISBI1sz7qkqRwrFCkKGTQ1qYSCMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MjcxMjIwMzhaFw0yMTEyMjYxMjIwMzdaMBwxGjAYBgNVBAMT
+EW5ld3NlazIubXl2bmMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAk/ZsNEWrOxQz/Njg7UMBNEUgIPjVN9gsWjqMxLx3hOCGavDE6OV+CY2NC4iS
+79MXh6PzOt0lFaAMtRHx+HX3UOT3ahN5SjruyQEMyJlrSrKLpv9raZSC8ONz4xev
+eDsEw4AM4RhEGbvqvPuoJI3oSjxyJy8i+Nb1yMj4BSx/jnmoFG9yPWWaN8zmmcAt
+kVJJFeA7UZIDHGLAv/26RSraJEwo7YFUm8hnbrpwXY82+RDR4krDwFw+XBwyA+gC
+fTJM/L3cmkKogVmaOCNxcY8x10W+rA5qHS9K68NbVbPh/tg+hMj5M1XYVnl378Q4
+sg8zPE/vRC+LvUYc+7wYQTLFmQIDAQABo4IEGTCCBBUwDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBRhcpC+dvKVkA0ozpdiy/NFbQVhHTAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzCCAegGA1UdEQSCAd8wggHbghZuZXdzZWsxLjN1dGlsaXRpZXMuY29tghZu
+ZXdzZWsxMC5zZXJ2ZWJlZXIuY29tghZuZXdzZWsxMS5zZXJ2ZWJlZXIuY29tghJu
+ZXdzZWsxMi5teXZuYy5jb22CEm5ld3NlazEzLm15dm5jLmNvbYISbmV3c2VrMTQu
+bXl2bmMuY29tghVuZXdzZWsxNS5zZXJ2ZWZ0cC5jb22CFm5ld3NlazE2LnNlcnZl
+YmVlci5jb22CFm5ld3NlazE3LnNlcnZlZ2FtZS5jb22CEm5ld3NlazE4Lm15dm5j
+LmNvbYIWbmV3c2VrMTkuc2VydmViZWVyLmNvbYIRbmV3c2VrMi5teXZuYy5jb22C
+Fm5ld3NlazIwLnNlcnZlYmVlci5jb22CFm5ld3NlazIxLnNlcnZlYmVlci5jb22C
+FW5ld3NlazMuc2VydmVodHRwLmNvbYIVbmV3c2VrNC5zZXJ2ZWJlZXIuY29tghVu
+ZXdzZWs1LnNlcnZlYmVlci5jb22CFW5ld3NlazYuc2VydmVodHRwLmNvbYIVbmV3
+c2VrNy5zZXJ2ZWJlZXIuY29tghVuZXdzZWs4LnNlcnZlcGljcy5jb22CFW5ld3Nl
+azkuc2VydmVodHRwLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLf
+EwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCC
+AQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AESUZS6w7s6vxEAH2Kj+KMDa5oK+2Msx
+tT/TM5a1toGoAAABfCdqHwUAAAQDAEcwRQIhAPeclLQp4aCFMoZa/tQIfslwj7wN
+UW3lPqVbKjd3afJSAiA41mxXi3shB4TOe9bu12UWMYLTGgGlL0HN8pwmcdmhPQB1
+AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABfCdqH5wAAAQDAEYw
+RAIgJ4gBynAJRQa6SVN+vq+b5ikz2VV0wXSofXqjcWe1Mk0CIDjo/HFuZTQgpHo8
+jPFeN1hpSImgG2XHp4eEswkciueoMA0GCSqGSIb3DQEBCwUAA4IBAQCnF23C8NkC
+Nb8aEiMuFJhUl84o4jcVmYpNWaRHkATK2lVIlwFZndJcnwbVbiEZj32ASZts8GV4
+UE8ycC7QrWhTN2UtEJJ7iXuf3BY9BxH1j48K4CCyypi/+s4oU+Z0pmADvCro63iv
+wiv/bDAu4csW5Luz+b9TW9k36kTCepzw2+vnM+bFOrvg4aGY/ArGFOyB8LI181cN
+J/rZHlwT3BGxRo653PN0CNX0t3Bj4DL7sDdYVmKcNEfMOkltat3tE31SjbiAsl46
+/BzIUir4wxBwWi1zgSb3GJfRO1LszaVSiXdy4JVE9OtfkTuZXAYaiq62Em7EXLHz
+wrQxx/InF/Gp
+-----END CERTIFICATE-----
+subject=CN = newsek2.myvnc.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5041 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,65 @@
+https://ro.v-update.com/whatsapp/whatsapp.htm?cep=RJ6yMRj4elt8upputXUfeRZMnvgCBlCHA2qBAX7YB0kxDSlqPAA-Vn_spX7m3chSIhCLsukTUqDQ4qLXrRrN_aeQjNdtQKeb1mFFDQvZrv1-7FUOeF06ivZZCbJPBGlvNFiX2FzKhVTXt_h0BeXrZ2VPklSPdf81jQ8eQwpBKj3VTTLB-Ez5E39-1ZGKyAtcVctpE65scOln5RhPmJylxHOv-barsK-CYm2-hey-QIU_G8IPaqECi8puHtI3gOj19pl6O1J26yAYOlOP7GARl3zNlkA3VKozoaKzaQyiN42XaQajr-LYxwk2gsOh2psNyPYa5TuyIXdD9_mL0VrhLZMFQnlIvYYZkuDSS_eDAL8&lptoken=161140a2851a72d71168
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.v-update.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJDCCBAygAwIBAgISAyqtUxtlnAfebS7zOCRQLvgbMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTUxMjIyMzRaFw0yMjAzMTUxMjIyMzNaMBkxFzAVBgNVBAMM
+Dioudi11cGRhdGUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+4K0uFu3g6C+cdE26GqadhWitiiSxJ3Z91Ju47TCO25syYlgnYPFatdox7jflS+y2
+FbKyl1V25a90wQtaLWUl82KKFDVSDe8n1QbCDvwzpsFBRvRtxu5yWb0gNmUNAUuG
+HBeGH6fwXbEnqotN9c9vdwC/zOU6iXHyQnge7J7GPnBhRWXgfkICpUNQklq+TZK7
+9l6beB7Vf84qA2MeRV52Ya9J42cYmeBxxEzIpUQEUcdtWGlZSWOf8J4ry5OV/ZBO
+JelVTeF/QUjRoHW0xZ8/13SlXFe1N+xALpxX4XCrWIlAJu9tPqZnyA/NwTODs1hk
+lHw0Fqj6GeSJC3DRvVB/wwIDAQABo4ICSzCCAkcwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBThLYFU6xkXUUopr9n3sxd1ilqDlTAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzAZBgNVHREEEjAQgg4qLnYtdXBkYXRlLmNvbTBMBgNVHSAERTBDMAgGBmeBDAEC
+ATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNl
+bmNyeXB0Lm9yZzCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AN+lXqtogk8fbK3u
+uF9OPlrqzaISpGpejjsSwCBEXCpzAAABfb5CRyoAAAQDAEgwRgIhAKjAuCMb1OV3
+2vU/Dauo3LAcHOCq4mXHo9GFuL5acwL0AiEA37bvYnAQrsy9iCuTUGm3CoM9jlQX
+XMOdAqDNZ1EivrQAdwApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAA
+AX2+QkciAAAEAwBIMEYCIQCfl+f6WaIdCiCzNeIJ0zSQSBUnC2U5ruVWPfsuFHnw
+FQIhAKIdqqFCk2VwUYfeVj180/7UyCxFH4Oh5TUdz+NIJTMjMA0GCSqGSIb3DQEB
+CwUAA4IBAQCbbxgS4TbcgCY9girQ6sfApaHS2YEf8LxLA8wc84hFoCHWUAV5fW1J
+tKtvmyLuSMo9Vb5eFnIjUeMqcqo7bVHlA2Zi10eK8LqqDpjFvaOUDRUZxMeDinlw
+r5MuwHxuFSbfstDx3XVlXBoglKyLZyGq+h8L3U/fpNy0a5zmY1E088JOW/93HAqW
+1S5kYeEHVOs6Pwmd+wkE2SX4Nr34FRf2dEeOqaBYygtHjVWjkprqnxBz5WMy4O4Y
+9iP6X955x0SpgegfBWNTzvJe2UMnYbL5UYdtTxeAqGjKZtitdOLReDpPjiXvJsr8
+TDKgrQk2ieI0FTVzHrTnUPJpDdRBO2Cx
+-----END CERTIFICATE-----
+subject=CN = *.v-update.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4576 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

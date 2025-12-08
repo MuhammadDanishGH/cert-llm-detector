@@ -1,0 +1,66 @@
+http://islem-vibionlinecekilis.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = islem-vibionlinecekilis.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXDCCBESgAwIBAgISA+HcxeVoQaboc1JWU/uMw3bpMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTUxNDE3NDNaFw0yMjAzMTUxNDE3NDJaMCYxJDAiBgNVBAMT
+G2lzbGVtLXZpYmlvbmxpbmVjZWtpbGlzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAMpqCY9TzOrV7JMoyc5k2H4BApcE1APbaPlsR2vKPhlRa87h
+l+FgsLyeBZKepLqAw0CoHPALwjF9ILNDL+kvXJ3gSqrz3Jlh27EYNI9hc9lTPNdF
+ZoAvlEJ5QiLwpi80BxXzrNzTwxKO2urVdIZKaapvH9zIxKwigPFnCDOJ7LsWyVlQ
+X1IJOlRT24aTXgc+vuNzm3x0Er3tYMX/6vbYcSQ27B4SgubgExFEFgWoq7y+oZnQ
+4VHev028nXqpQyR0RAJS9Io7JihEiUNAZXJvFGdNfD3VQFX4hExSL+d25NllvMsf
+8DWxU3e/7nfTUXCPQg4n/ljl4MdZV8pUcMugSeECAwEAAaOCAnYwggJyMA4GA1Ud
+DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0T
+AQH/BAIwADAdBgNVHQ4EFgQUtUXImq61YdOryxYNqWKExK9ni3cwHwYDVR0jBBgw
+FoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUF
+BzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9y
+My5pLmxlbmNyLm9yZy8wRwYDVR0RBEAwPoIbaXNsZW0tdmliaW9ubGluZWNla2ls
+aXMuY29tgh93d3cuaXNsZW0tdmliaW9ubGluZWNla2lsaXMuY29tMEwGA1UdIARF
+MEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6
+Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUA
+KXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF9vqu0cgAABAMARjBE
+AiBzyOXcclXhYpfO/ANADik5PWHYNM4GfNlVpN6xqIZEHQIgDm+ktTDanJrZseat
+q5sqm2cZ1bqJByed99vPNes+qO0AdgBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkG
+jbIImjfZEwAAAX2+q7SpAAAEAwBHMEUCIQC4FjDASoQ1pWZ2nuVuFqUsgYC82MfM
+e85EZXj83eXyNQIgT229pXfz5m8BGtbPyHYiukf2fgCBuypWV44Jchvh6QgwDQYJ
+KoZIhvcNAQELBQADggEBAABt4x1ALdHDtOnz0YfPdx9G9T4aw1BMo1Ghzo2dQy3M
+sFxhL6xzFDZ93qZAfJ2lsbimpzwmtrUSyczfXWWu8iPMwV2zJngPTUFD/DfisUHS
+5ngTIh3SD5iB0I5UvoF48tPzLRhcePdCZCahgU5EOZZUHZo0iAT7gY9BganE8ib6
+KsninSVPPnHlr64FsTg5253NWPVdILG9k5XfUmvgoq4geIvLD1dsDNnIrz0zWqWT
+vGbxL2ScV1HwOYFETN79OOS4vP4yIltPT7E88OLWogWQOaHIKhTrmvJS+OoQ/uCX
+ivKKmww8KPdyRTevgyG0bxgrQvFP202mUFevIcLoXQQ=
+-----END CERTIFICATE-----
+subject=CN = islem-vibionlinecekilis.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4632 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

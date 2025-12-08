@@ -1,0 +1,67 @@
+https://partners-program-academy.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = partners-program-academy.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF6TCCBNGgAwIBAgIRAOHyXcbgesq8TiBIObCz0o4wDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMjAyMjQwMDAwMDBaFw0yMjA1MjUyMzU5NTlaMCcxJTAjBgNVBAMTHHBh
+cnRuZXJzLXByb2dyYW0tYWNhZGVteS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCqX2CalgN6yNDAGGb8UEpZPvhaUbJ+aoHTOSIPdhGNoul2fl1s
+6YKOZHqThiyXr0QaYSgsmtPOcIG/fYcjE1Li3POH+FhXw4BEweE3WmHX/yl34bn5
+/AXD7ekScxNNyBGxzu0gj4Hpult+O0+eYj9O+kMuKxA1Khckur7O0D6nIS47IhMf
+pDB+RxWuQ9KyyLGzeF6H6jkAoq1BJWZDFepwiCFyZ3jDXYDwI2ovKXrHdwtCBBEa
+NHEJCn9sQ62arbDpWD5n1rsWeg3J5yWTalx7f5XwzF7pGXpsCD6xh7sodfAWLPud
+aaQLuMWzUkCaSsr0unt3MzrJyOsXki6PxtDDAgMBAAGjggKlMIICoTAfBgNVHSME
+GDAWgBSNjF7EVK2K4Xfpm/mbBeG4AY1h4TAdBgNVHQ4EFgQUh7r3hSj3wRcbW3VV
+qi4VahSY0kkwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcw
+JTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIB
+MIGEBggrBgEFBQcBAQR4MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGln
+by5jb20vU2VjdGlnb1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5j
+cnQwIwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMIIBAwYKKwYB
+BAHWeQIEAgSB9ASB8QDvAHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+
+bUcAAAF/LMNyAgAABAMARzBFAiA72UOF249JjlbVCrU1k3zY1mnUBAeJnnZlfK1W
+H3YIEAIhAPhuQznhY/0fV25ZkWYapd4SdBmj5TjgUYXeks4ojC3sAHUAQcjKsd8i
+RkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF/LMNxzQAABAMARjBEAiBW4vp8
+Bz27aVkDh5o2RaElcj8qFf+xOIVIx2R9I+Vg1wIgI/5oRvyUMKvHecXyPo6aFCgo
+iIdLKBTG6ailiHV+fP4wSQYDVR0RBEIwQIIccGFydG5lcnMtcHJvZ3JhbS1hY2Fk
+ZW15LmNvbYIgd3d3LnBhcnRuZXJzLXByb2dyYW0tYWNhZGVteS5jb20wDQYJKoZI
+hvcNAQELBQADggEBAGkXfvDZ73pzXWbuecPdTIop8cSBb3qVOXyfRytdrNQSWc7z
+/gYOPHDAAVWttCRXGQNVcYirq7tVZ+hOS2ogpzuNV5HtMr7z8P4pFT7ve7BmTbxp
+6niIv4nDO0PmVzECfAJyMGGLpYQF137lepV9l027JGO3b9sPVXtH5Efim7YuSC5C
+kvstjcaGBwQZDCuxnQS9lgvEkY+kFGh2LyalSl2NyAX2dc0xaY0+Gr9toExX4JCm
+aWO00BpYnywitxcXv7dLWGF6KBMcXiH1OGhw3L/KhO9g8gSNetHX4CrptuVyTpQC
+4gNoyi84vxzsPbBwubHJ2SyvWebblHuh0OqphoA=
+-----END CERTIFICATE-----
+subject=CN = partners-program-academy.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3641 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

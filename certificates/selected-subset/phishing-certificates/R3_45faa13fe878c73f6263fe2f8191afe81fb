@@ -1,0 +1,67 @@
+http://objective-mirzakhani.213-32-105-175.plesk.page/ww/a73f41502e881a40e88d5e3d9ea56e6b/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = objective-mirzakhani.213-32-105-175.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFmDCCBICgAwIBAgISBF+qE/6HjHP2Jj/i+Bka/oH7MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjcxNjQ5MjRaFw0yMjA0MjcxNjQ5MjNaMDkxNzA1BgNVBAMT
+Lm9iamVjdGl2ZS1taXJ6YWtoYW5pLjIxMy0zMi0xMDUtMTc1LnBsZXNrLnBhZ2Uw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDh5Xx1qVos3p1iUgslHqiQ
+zfCNNrLoTvWUpSnrBPjbF9pc9BwSG/iYX9ojtg04mbAS0NbMKQMupeCzQ8jUCOa5
+9/rs2wysDHkNVTBYP55tIqhZyL60byCUQ+ufkZ2zD8Gu13nmiuhOS+ViWEs/Gh1s
+AHlA6rbLv0uwBq5Ht6U8YZnzvYw9zMZ8IxlBiijmX+OOHv9NZJxVukpKAA4pnExn
+EnWruTSyO+yD6xBvLBzGHLKbJhVEiR+jHGfqqeI1yNY0sQHPesEjN8lRuqix3end
+dbV5Gzce0uI2Wv4tsPm9WYsHRy/hXETqgAdzyBZv/TVyJSubhwHj4Ss2qZgrza+v
+AgMBAAGjggKfMIICmzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFG6vYiQJjv5nhogy
+V/97ucBpQZdFMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsG
+AQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIG
+CCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMG0GA1UdEQRmMGSCLm9i
+amVjdGl2ZS1taXJ6YWtoYW5pLjIxMy0zMi0xMDUtMTc1LnBsZXNrLnBhZ2WCMnd3
+dy5vYmplY3RpdmUtbWlyemFraGFuaS4yMTMtMzItMTA1LTE3NS5wbGVzay5wYWdl
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBgYKKwYBBAHWeQIEAgSB
+9wSB9ADyAHcAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF+nKgG
+nAAABAMASDBGAiEArHnQicJiWwT4PD+lHoPm2+Qiqk10mKBAKjSrigDuu5ICIQDL
+ayRehk5dayJr4ISeSsqBwnsVFDICUUdsQBCZJqPxTgB3AEalVet1+pEgMLWiiWn0
+830RLEF0vv1JuIWr8vxw/m1HAAABfpyoBrEAAAQDAEgwRgIhAJ8NFh7I6nbvHxRT
+r1oXRyLaY80qycuAoMIcol+rLv1zAiEA0Fhc7y/zeUZEY6Zk+0Y3ak3EDf9tzmC2
+ajgiJCxCHdgwDQYJKoZIhvcNAQELBQADggEBACqfGRCLqqrFJ82yfyHcQp7ox+rH
+fV4NpPfvP4x3pI/NIGa3oZEJ13A60hAP/LW+VFaKmJgr5YUh0KWABxYwiLfaDFbz
+IycPXUROk+gT4DKpp0srY86vUKnwG1lYvAa9s8FKvIQIpC/L+EJlWblGlevmdHdq
+ImZ7XiUqf5XMNNo8PxjYh69XPsEJL2zo3AoQsA89cLmlM22LMELy1MDIJsjZW95R
+bAm6yLQkbqYBEIHO9rJRgLD1Q1G3T8sBTj2KnIWMJcBL7t81AOwEJTbVR2wj4ORD
+XRs7y6W6dPmn0GOTfdxylGCcNO3NwWyLjvqdYOLl1+rVsTIEAWTARb220lk=
+-----END CERTIFICATE-----
+subject=CN = objective-mirzakhani.213-32-105-175.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4692 bytes and written 420 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

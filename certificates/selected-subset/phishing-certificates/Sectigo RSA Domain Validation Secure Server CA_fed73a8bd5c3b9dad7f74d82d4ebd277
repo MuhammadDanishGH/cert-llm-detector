@@ -1,0 +1,71 @@
+https://walletdapp.solutions/wallets/import/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = walletdapp.solutions
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGSzCCBTOgAwIBAgIRAP7XOovVw7na1/dNgtTr0ncwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMTEwMTEwMDAwMDBaFw0yMjEwMTEyMzU5NTlaMB8xHTAbBgNVBAMTFHdh
+bGxldGRhcHAuc29sdXRpb25zMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEA0Ig1c7rshn9z3m0Xq8Sgqwp0soaRVg0dQdXwXwmiCSpyjGCYbzoG4H3dMXRk
+zSqtG/Od3JrqKcxi5b9sOcdjtodxqAqKu3H2dvLkxDYc3l2GEDUqdAIlpsmxaxO1
+dcXQVWUy8BbXqjzYXvbI8w4XYlNhB7Spa1CF4bU0ByF+m0SvU91WI1MMI9onrPU9
+60AMskskGJchi8AACoshM/yZMrUXfLd3sSEmKZfLc5vTDg4puJLFJsQ/ywstSqbO
+CuUl1B1CsvIXBfKqSMkMuhRg4Duy1sBgRGtgbMHGJhKmjhzwvorWCq38b7gKg6aj
+sOCRC1T3bFvpN5Ve+za2L5mZQwIDAQABo4IDDzCCAwswHwYDVR0jBBgwFoAUjYxe
+xFStiuF36Zv5mwXhuAGNYeEwHQYDVR0OBBYEFMvxiOLqJMdx64WXI89e12K8H1j6
+MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYB
+BQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYB
+BQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1Nl
+Y3RpZ29SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsG
+AQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTA5BgNVHREEMjAwghR3YWxs
+ZXRkYXBwLnNvbHV0aW9uc4IYd3d3LndhbGxldGRhcHAuc29sdXRpb25zMIIBfQYK
+KwYBBAHWeQIEAgSCAW0EggFpAWcAdQBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiF
+q/L8cP5tRwAAAXxs0t0cAAAEAwBGMEQCIAV+kLckkum39rPlhrobfcQ55rAjBFaZ
+metH/6oyOb0CAiBlN50gWHOjMO6A+hYgRMmSI7YS9YtzCfCtFwffSee0jAB2AEHI
+yrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfGzS3N0AAAQDAEcwRQIg
+cYoBZduNeBWUrI55qy58Sq0GzDaJQDrRISsSJlmYzwQCIQC3GMskQ9MdYRUH+JZ8
+Kr3D1fxfNXKHTzSxejTPbL2sNAB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1d
+JlwlXceEAAABfGzS3LMAAAQDAEcwRQIgGfIaZABUzAWhE9Q7iUyA8tOFDDJrf+Wg
+eH5dDRtSK4ECIQDakv/Qq5p50bcxLBvJkj25pb2izvpzqvaIOp1M7lYgoDANBgkq
+hkiG9w0BAQsFAAOCAQEAXyeMjlPLOJLNYrPvW1V/l+vQq2jFzVVq8rlIQUppf1ty
+feqWWraWStxCN8s4UEaailqwLY/8CIVFql7f4LKyq2BK3kwQk9BoDNpobodO/N86
+QSa2WByx2S9leun/Seg3fL4cRHEgucFIumqSQj9tscvPQCk+3bwPLx19G8eSGyqw
+p5HaLbwpADSf9M/xaUbBew/b+IIIRB0YiohaNOOPDthTi3Gr/wD02gSIkk4JaGY4
+4i3jWPuiennuPvXa4ghbfOd1GHdMbixmFGH4aoS+Jelp2RnUg04XlN0FPUdxwH9k
+yPf8z4Lmsf8++D+WvNXJSRV5hI55jf+TQcylNAewOQ==
+-----END CERTIFICATE-----
+subject=CN = walletdapp.solutions
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5157 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

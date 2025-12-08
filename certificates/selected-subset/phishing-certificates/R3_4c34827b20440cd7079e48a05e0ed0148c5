@@ -1,0 +1,66 @@
+https://amaizon-accouint-update.rknlr.ga/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amaizon-accouint-update.rknlr.ga
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRzCCBC+gAwIBAgISBMNIJ7IEQM1weeSKBeDtAUjFMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTIxNTMwMzBaFw0yMjAzMTIxNTMwMjlaMCsxKTAnBgNVBAMT
+IGFtYWl6b24tYWNjb3VpbnQtdXBkYXRlLnJrbmxyLmdhMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEApDnyW+88ynMnYw5DcRUPUSaD+KfA7lT1C+ejMvv7
+DmlrG4arr3zzgO5st5Ipa5uK3HwJVUrn1KfvRi2P8XqTNcJ1dNl26oz5wBL+JV7z
+E6/7witA2GoBpcsK6xVxCAPiYlvoAQH4yIGYVTjfxGSlgnxixzNk1M2DXQnkp0Bn
+Dkc8MGUim4z09gi+/URHKKdb5zUOSpSesgb7PcNX7iDOuHb5s0oKlHieSRmguup9
++kFcDkyN+0Ndr7DjcUcLlhZ6AHGPqUcGZ5dMczI0TlaQnoOWh5NWJPx+Tjz+G0Lh
+myFfb3AVpq5ErgepLbekMAnZOu7CupE2Iujvq/3vN48XCQIDAQABo4ICXDCCAlgw
+DgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAM
+BgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQ8S+yDFA9Yi//gN2f2Z2qrrU+xSzAfBgNV
+HSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYI
+KwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0
+cDovL3IzLmkubGVuY3Iub3JnLzArBgNVHREEJDAigiBhbWFpem9uLWFjY291aW50
+LXVwZGF0ZS5ya25sci5nYTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLf
+EwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCC
+AQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AEHIyrHfIkZKEMahOglCh15OMYsbA+vr
+S8do8JBilgb2AAABfa97QikAAAQDAEgwRgIhAKOV5PIpGOf9AfS/j8N/1Sp+00EC
+V+3DjDD6+2Tfj12FAiEA4A5Uv1rgz11nAYYpJRNTaSJkXZmDxWQcFbJWzzxi/hAA
+dgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX2ve0JDAAAEAwBH
+MEUCIQCz2+ASaK4yw0Jy1kPoD8AEJU9GzdY0WFcMivnrxMpv6gIgCCGs9/vVUVJE
+HeZB7PTHuduUYhZzskWpQpwKLoH7B/kwDQYJKoZIhvcNAQELBQADggEBABTRzRhO
+M3PlwNyiMBuK3m5o/Dhw+gwgcJqXsvb822UeYj0QoE36pj0sI+wncSIjoWip5zoV
+KEREOhNDvukCBcEsmhHiwDoojW653lDMmdemZDbr4ID/FSIpjaIsDR+bccIXon7i
+QpFzjLQp34aYs4TQt2WHlUttDOqSgy1QBbmcMf3iAaWEkcfLP5qngtkGSXnLfE9Q
+jG/4IiqRHUPs1AiJhNTsiS2bwJ1q51Bw3EsWrE7EiUs4nrqJ8nL3jlsYBRe1Mnft
+przUcRxPQlN8Nxl0A/tyUMbQBVisUzxhceC7fj3V+vRbNi0DyxbNOwrehKo7/dlO
+Edso4RHJCT3k8sA=
+-----END CERTIFICATE-----
+subject=CN = amaizon-accouint-update.rknlr.ga
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4611 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

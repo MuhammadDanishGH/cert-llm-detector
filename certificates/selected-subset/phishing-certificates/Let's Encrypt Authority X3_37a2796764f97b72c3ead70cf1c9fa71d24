@@ -1,0 +1,94 @@
+https://designtask.co.uk/wp-includes/review/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = designtask.co.uk
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF8zCCBNugAwIBAgISA3onlnZPl7csPq1wzxyfpx0kMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MjExMzQ1NTFaFw0x
+OTEwMTkxMzQ1NTFaMBsxGTAXBgNVBAMTEGRlc2lnbnRhc2suY28udWswggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDEiOHcgq1AKbkesa6teOCcH6oBdq1T
+6Yw96QNbmmftSrxNYib5Z3FnywDd7rg0vKm6RoMHZwjV3AZ53xo8fccPSLt+HBBx
+WFP1V6laTeqpuavQcgYus8+TyKqx4E1sYdGJ2aroOTq7H4MLgLjtF/He/VS/UqaW
+Fpy+jGIBw492gYJDxlswFAFzu6Z3R4ol2431YqhGTbMD0/NsoVPWh53j52UBE3gX
+MRc7z0QH+uLvrS61cvDO4buwx7guu3cnYfg6MLUeIykTxUCayBD/fTtK8rNN1NU1
++FDLReZQRVvenRvPR15Due+dLS2Jh37XQwpfYgrxn9+MaVXIpWarWqGTAgMBAAGj
+ggMAMIIC/DAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFNhjpzc9lAspxKUGWBEeaLDl
+rT7pMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEB
+BGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZy8wgbYGA1UdEQSBrjCBq4IdYXV0b2Rpc2NvdmVyLmRlc2lnbnRhc2suY28u
+dWuCF2NwYW5lbC5kZXNpZ250YXNrLmNvLnVrghBkZXNpZ250YXNrLmNvLnVrghVt
+YWlsLmRlc2lnbnRhc2suY28udWuCGHdlYmRpc2suZGVzaWdudGFzay5jby51a4IY
+d2VibWFpbC5kZXNpZ250YXNrLmNvLnVrghR3d3cuZGVzaWdudGFzay5jby51azBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQE
+gfEA7wB2AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAIxjc1eeYQe8xWAAABbBT+/3MA
+AAQDAEcwRQIgJYGmI4FcW4907qPXjGjqFrj5dqYXXHynbUf7K88gDR0CIQCIsYwd
+pY2bfBrXj+nnX+rbFzLwjC71o9E8fsFurmiZUgB1AGPy283oO8wszwtyhCdXazOk
+jWF3j711pjixx2hUS9iNAAABbBT+/30AAAQDAEYwRAIgfzD3NmEUp4/wBtyq+hhV
+9/hpGKQOX00R2MqidXsmElkCIAEvYOODzVa6UpUhNhnYxrCDgczpQFqNayeRrvKi
+FLcqMA0GCSqGSIb3DQEBCwUAA4IBAQAIWeQ2MwftbdwkfId14d7oO3w1mezfSMIw
+s/o+Ct4i04JQyADZx/B9kE6OB/TcAPN+ccaqlpk5lt1xNjHnF+ORILnxyYtLVQ1L
+EghebmKkfrgBqjmlmcKdKqqBeUgxoPjiUuGlZMAviHl2LU3DiwLmvIQgZboBDlEe
+2QheBvb+X0PE/ElUi0jDlwqeBJfnn8baCAfYwKdOHU/iuImLn4Ao9PsT3n5+ZKJN
+PDn5rVu4OLl01gUsz+gdzCpwKnYBeERUVbwlLtizu1+jBeoWzNIqtyYKwuAAASSA
+NwcXTpY68PAZ2OhCRPZOReGuPBaRwtEtxemGMTVzq4o9FWpg43yr
+-----END CERTIFICATE-----
+subject=CN = designtask.co.uk
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3410 bytes and written 454 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 05EE93489187D62E97085F68FC355E5CAEE2252FB1E0A8474AABC7469B8671DE
+    Session-ID-ctx: 
+    Master-Key: 6D6AC72F5D54F72D089E5F2316EB26BE3BB96134CC381F02E7FC07D69A74E408773A355F8DC873FCAD340A7D12D63227
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - ce e5 59 79 e5 33 43 d1-c5 b4 3a a4 92 18 1d c9   ..Yy.3C...:.....
+    0010 - 6c 83 62 e5 9d 94 31 99-33 f5 66 45 6e 60 bd da   l.b...1.3.fEn`..
+    0020 - 5a 60 d4 65 dd 8c 4b ee-6f 7c 65 b0 8c 22 a7 de   Z`.e..K.o|e.."..
+    0030 - b2 1f e5 35 ac 25 1a 38-22 57 eb 51 82 b5 37 bd   ...5.%.8"W.Q..7.
+    0040 - a7 fc 73 df 12 33 73 9d-7c 04 c4 3a e5 b4 e0 ee   ..s..3s.|..:....
+    0050 - 11 69 54 ff ae 37 c9 01-41 24 9d 0d 9c 35 1a d1   .iT..7..A$...5..
+    0060 - c7 08 c1 f1 2e 9e 94 d3-61 c3 ce 71 0f ae c5 67   ........a..q...g
+    0070 - b5 1d f2 b2 af 4e ab 75-17 98 42 ac 88 a9 5f a3   .....N.u..B..._.
+    0080 - 99 8b 23 5a dd f9 86 28-f2 ad 8d c5 6e b9 ac 85   ..#Z...(....n...
+    0090 - 83 d5 f4 5b 37 8f bb 47-d5 28 47 0e 42 02 56 7f   ...[7..G.(G.B.V.
+    00a0 - 46 26 47 94 94 b9 54 e5-7d 47 4e 16 75 a3 ae a4   F&G...T.}GN.u...
+    00b0 - 87 65 45 57 ad 9e 67 d1-42 14 42 ee 65 8d db 60   .eEW..g.B.B.e..`
+    00c0 - 7a eb 5e ab 48 98 cd 50-40 d5 9e 4f 73 4a 5a 7c   z.^.H..P@..OsJZ|
+
+    Start Time: 1568725226
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

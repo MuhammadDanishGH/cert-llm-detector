@@ -1,0 +1,98 @@
+http://www.vn.ukrstat.gov.ua/images/stories/redirection
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = vn.ukrstat.gov.ua
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGQDCCBSigAwIBAgISA+7CPOCS9ZzE2RX+xYUGHV1DMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MDQyMzA2NDlaFw0yMTExMDIyMzA2NDdaMBwxGjAYBgNVBAMT
+EXZuLnVrcnN0YXQuZ292LnVhMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKC
+AgEAvIO9Lp3e7CEXqMP5tE9BJqZRWemF8WRwnhsslamR2Gd+JPsk8KCkiZIlRCn1
+fzlWoUObla7kHuenhiKLTHSkTgNNaHkM1yziGomyhkeK2eoPQ2dpRV7RrCkQlIQK
+qtYW0RoLFBG1+xiJCTEDBKbMuOJooR6Hr+GCkh24P1JHTD0pD07s+8iOt2rsO/wm
+is9kWPKImQBhFMQKR1LcQMwjoK/cmWvbNUNpCW9zI/jTJP/dNfuHSjFIqqgpPalj
+8rlMvxmwqDFeB7Ti0bMBEtQyaxOC34aK1GXOSJMO+mDcOts1aTUYaBiCWNdkg9H1
+hv4Jroeo4yhv4uFIz0DKz+JEgbeZJ+QSUAdLmvqIt6DoxWxtKjfX1pFFutBVAeAv
+wEldLSQe4IJ4WJPEyroX4+S+xffV5Xq6PPzM4CHB9g080Tr/roJI5lxY+CPpTK49
+hnTTFtj4ME6mpT6QUZp/jlqa26rvNiGQEQr/XJ756mu9cnk44Nefs/T0Ip1O7mgk
+x41YDoBQMbD1rK1EVlqoubE3cEW9E6mPVfGWfSP2uiNNewXga85woe2jrTE6vhCG
+0ufnXHg8dtzDr3jFisSiAUtbtVSNL7CwdzQYCGn71saFwNHYiWLmV92ja5RNxtMN
+142D0e+54sxzTNx7viBhBLQlPb/T3cD4U0rty4cyUCQGbLECAwEAAaOCAmQwggJg
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+DAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU8bSZY8Erv7xFMXwYgvjCCeb0+cQwHwYD
+VR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEG
+CCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0
+dHA6Ly9yMy5pLmxlbmNyLm9yZy8wMwYDVR0RBCwwKoIRdm4udWtyc3RhdC5nb3Yu
+dWGCFXd3dy52bi51a3JzdGF0Lmdvdi51YTBMBgNVHSAERTBDMAgGBmeBDAECATA3
+BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNy
+eXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AJQgvB6O1Y1siHMfgosi
+LA3R2k1ebE+UPWHbTi9YTaLCAAABexOiUAAAAAQDAEgwRgIhAISHa36sAqjIHZMS
+4Uq9mim9ErsRW87yvp4qFpb2dVu2AiEA5jKJaJXVFwSja8Joh47gnt7v1nXXtgXc
+KWZZsXIp0WAAdgD2XJQv0XcwIhRUGAgwlFaO400TGTO/3wwvIAvMTvFk4wAAAXsT
+ok/1AAAEAwBHMEUCIFs4jFB+uSxsCTxhSTT22U4enciDeeoUy84jsYCX/OJkAiEA
+gkj2uzJU7HP9wbOrrKZcuqEk3TQREwxwp1haKOgwFJIwDQYJKoZIhvcNAQELBQAD
+ggEBAEW7nYM7+iRP7cXMeJrgESgSgam2QFZgEI8q8Abt+aczO2GNI/aJPCBcX4Vm
+Y8EDCKN6H6PcEKColuPuE1ynF+UN9b05pYDVn3wRhUcaO4Hl9x0sp7wgjFvQVnA5
+BY9hKRdiQE4/ITT9Ls01EHX2svFj3wKvKEwnzTK8AVzPZtGMFARsI6zz67AWpUKm
+ihfVVzO6x2f98112K7lucKkxTYyRvfIUQA+KLmUMBwWolBegpOk5inYflXbckWgo
+OzOmvFZlX+gEY7ZTTqmFpSH+n50maTQXUh+vN/jJybsCIoBt7hl9tr/He5UlsEuk
+Gprxej1OYtrx5PllDVpFqLdTBdQ=
+-----END CERTIFICATE-----
+subject=CN = vn.ukrstat.gov.ua
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5258 bytes and written 449 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 29722B2E20ACE1044B0684F0CC10DCE01CEB64C9193900495C987AA88FF45501
+    Session-ID-ctx: 
+    Master-Key: 25EEA66C8E35224A1CFF9994A2463B4594B7D04B07F3785DD059DB9B1183D3595E84D8921EE3FBAFA870B0A69383D592
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c1 40 20 9d e8 5a 41 f7-dd 5d 47 22 c2 51 ba b3   .@ ..ZA..]G".Q..
+    0010 - 0f 34 ad cd cb 68 70 ad-61 08 7a 35 ea ef 2f a4   .4...hp.a.z5../.
+    0020 - 95 1c 64 b7 f0 1c 58 73-9e 07 2a 94 91 00 32 6e   ..d...Xs..*...2n
+    0030 - 8d fb 8b 59 50 01 b0 2f-6e a7 f2 62 9c de f5 e1   ...YP../n..b....
+    0040 - 60 79 25 25 f3 60 6d 1c-59 05 20 8c d9 16 66 0c   `y%%.`m.Y. ...f.
+    0050 - 3d 35 40 50 b0 44 35 7a-12 25 8d 0d 23 15 08 bf   =5@P.D5z.%..#...
+    0060 - 9a dc bf 9a 91 cc 59 6a-dd 4c 73 7d 58 b6 b4 4a   ......Yj.Ls}X..J
+    0070 - 23 42 a9 80 a2 82 9f ee-cb 57 d0 ff e8 0a e4 ee   #B.......W......
+    0080 - 6a 63 ce 1e 51 65 c9 3d-53 13 22 ce 07 ab a9 8e   jc..Qe.=S.".....
+    0090 - ec 8f 26 95 61 e6 8c 9f-fb 66 a9 ae 14 8c f8 ed   ..&.a....f......
+    00a0 - 83 34 ee c2 be 66 b5 ed-d7 ac b6 40 45 c1 62 fe   .4...f.....@E.b.
+    00b0 - 2a 8b f9 ce 30 99 fd 6e-f8 70 8d d0 9a c0 91 37   *...0..n.p.....7
+    00c0 - ff f9 fc 34 e0 9c fb 6a-91 2d 50 fc 60 79 f9 55   ...4...j.-P.`y.U
+
+    Start Time: 1630733783
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

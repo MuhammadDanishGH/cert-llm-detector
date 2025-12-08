@@ -1,0 +1,65 @@
+https://makecetsgo.ru/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.makecetsgo.ru
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMzCCBBugAwIBAgISBHIIp13HeBcAAc8EPtX9q2PLMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMDQwODI2NDFaFw0yMjA0MDQwODI2NDBaMBoxGDAWBgNVBAMM
+DyoubWFrZWNldHNnby5ydTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AKta2t5RDWJ63WJK0cSFqkit+NpX+Zvqo/xqNNxVY30A/5Twizwn7hArvvml/gck
+ko76ExqhuycNLQmjV3wM7rOVQ0I7q86Nmzz7ZMr6ATP+EZL0nRpKfdJFDqwKn88O
+WTt39IP3vnBLse/sPoQDHIdovNC7FnVJiGorllk2px3ra/L3gCuCO8apXJRLHBYj
+2FFc4JtkG0D8rRWMQ1oph7I1zzZRik82ju8kgEWu7VTqBLlrIMeIfb5sX+2QpBsK
+TyeX9kWJdHjQTFUldoPHvWQG5G9dO+nHWCcBJan+EclCPKZvlw4wcwNMtu8DurD/
++sRvlF9zAmLDw0Sjwl6AEtECAwEAAaOCAlkwggJVMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUm+mzqEV6Fv0G0MPI7Po3JDPHf3wwHwYDVR0jBBgwFoAUFC6zF7dYVsuu
+UAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8v
+cjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9y
+Zy8wKQYDVR0RBCIwIIIPKi5tYWtlY2V0c2dvLnJ1gg1tYWtlY2V0c2dvLnJ1MEwG
+A1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEW
+Gmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB
+8gDwAHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF+JGmEvQAA
+BAMARzBFAiEA3pgswur7/imdiJgwkteP32vgLsMaRDOiHd4Ir1z0RWECIGXBJOTi
+ir0aTbF5Cz2yNcmrOePtq1MioULCzS50Ql7SAHYARqVV63X6kSAwtaKJafTzfREs
+QXS+/Um4havy/HD+bUcAAAF+JGmE1wAABAMARzBFAiApKSYFctbqC4bz0NmbgEuc
+ZXn0O2SgIUc7B4K33iA2fwIhAMi8XxPl6MUkZvN2tizkdwdFPvlYDoteFl1e1Ba/
+JaMXMA0GCSqGSIb3DQEBCwUAA4IBAQAjVsb2IUsuUQyRuKl/h61EoPZxDHz040qp
+wpdNXlxCTrJUps/aIm2j17T4tg47gAkO9nnOKRbmXU5d2uPmk7uesnxjLLxr60sy
+19NWejiyOG7sBkGZqC/oXtyBff+VVzCW78mpLpNXb9oRCOVUoocpT5DIJHF6fKoc
+AuarhJZNzRiADSCrplpHDpi6iyv9AYOm1YiwkNS8G8iygTdHecif2dsbOGJRDw13
+XMzrc35sDVhqy4x5nMb8rFKCufSiFPHH/B36SLwar7DEwZCj+Nt9GaHYk3W3oxVp
+KW2vUccMF7GmGonZ6MbhNvHjqBlUOoFMDzV2FDa5hb6lxV9Fifdh
+-----END CERTIFICATE-----
+subject=CN = *.makecetsgo.ru
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4525 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

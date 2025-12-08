@@ -1,0 +1,92 @@
+http://comparateurde-entreprise.net/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = comparateurde-entreprise.net
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFkTCCBHmgAwIBAgISAxXQS1k45ayRLZTxmsKXsFkhMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMjUxMTI1MDhaFw0x
+OTA2MjMxMTI1MDhaMCcxJTAjBgNVBAMTHGNvbXBhcmF0ZXVyZGUtZW50cmVwcmlz
+ZS5uZXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC0DWtp+6Ag7LBj
+5uQX1x03kNqBK1LD79i7yPIy3BINOPCAsg6CkxzRskPjygMHbS1nXnniKP85Osfx
+BDfa6ZTLgc2eU1Ste4roUf8rt9qJz3fkyR4yD5e3ByZFlL6zv/gA/eqY3n6WgGeW
+EHEA8hTW3pUiON54IvhGJJ5Mw2fK1uaxGJtY4Yuc4a30ynPztezg8gi8noztBBRa
+AEL6t/+5i+rLZfE0YWbr5EKxyjJKfa3G28VlG+rqFCPDU+sxbzVpIDRoAgN+/TqK
+R8n3/xnkLCHCdjc9Fe1f/dUiGRYjb/6TB3e4kohOc5AchP3whdq7M0IzMmJvfQNj
+zYhnSzv7AgMBAAGjggKSMIICjjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFJAZ2RfR
+oeHCq7f++Un4rlsoOW/+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyh
+MG8GCCsGAQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgz
+LmxldHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgz
+LmxldHNlbmNyeXB0Lm9yZy8wSQYDVR0RBEIwQIIcY29tcGFyYXRldXJkZS1lbnRy
+ZXByaXNlLm5ldIIgd3d3LmNvbXBhcmF0ZXVyZGUtZW50cmVwcmlzZS5uZXQwTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHx
+AO8AdQB0ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWm0z8F1AAAE
+AwBGMEQCIEsc42S2Qj0PhPQOpmWdDClXECPbiP44oHHSCCJfFJ9aAiAGZC/oQBFM
+x8NREfkl0ZQxpCG1BLMBV8jcV/10yaRBVAB2AGPy283oO8wszwtyhCdXazOkjWF3
+j711pjixx2hUS9iNAAABabTPwaEAAAQDAEcwRQIgRySYeENBrlslmcNyRtCukLTO
+h2zR8dfHudRmkBiYQLQCIQCIowJYhmKKEfxVRhYlKOLtdk7WBU/6y/k8qGb6bn1b
+OzANBgkqhkiG9w0BAQsFAAOCAQEAjjp6roKLgCYYUyEFQfW5+PONHUif0MqBeKZP
+87Yzr+bLpWdQBePigfub5/0qSTXLUT7AHX2kQmqCU0C/hMYamjuP+EmDqSwNWFOZ
+v4VOI56jHLimJpz/RiS2D701RcZUiPAnBD6sDZD4gF4m3Xax+EmHuKxPe3JW7//P
+KPx66x5ijiKWtb39seyJOjP54ZNmhwT4THcQ33Dfzuv4yeoRXu8305GVxRupWvN6
+hd/1HAwA/A1HStHq8BSXL5Wi+PzZJ5dWzdR74I2E1aRH3oe/K25oM9XIKsn6jmTg
+Wdxx4zNUXjo6XhEieMNxK4wKzmzsC2/vdyamxuoDcjOLysoylw==
+-----END CERTIFICATE-----
+subject=CN = comparateurde-entreprise.net
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3312 bytes and written 466 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: C5A288E5C19F781B7A1C81AD59E19A685BCE7BFFF4CEB3A602A8F3095C456FD8
+    Session-ID-ctx: 
+    Master-Key: 081CD185B964D7F54CCA21CD35E27C8ED5181F76B9FECFAB98986EEBF1B5A220D0D4DF05CA8A31179FC732BF7875BA10
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - f8 f4 5b 91 e3 ce a1 26-ec 14 34 c0 13 5d c6 f1   ..[....&..4..]..
+    0010 - c4 c7 69 f7 02 52 a2 33-6a af 54 23 c4 69 33 45   ..i..R.3j.T#.i3E
+    0020 - c5 fb 55 bb f5 31 b9 4c-83 58 39 50 64 6f 60 17   ..U..1.L.X9Pdo`.
+    0030 - d0 52 a0 9c 3d 36 ea 96-a3 55 f5 7e 7c 33 58 5b   .R..=6...U.~|3X[
+    0040 - a5 d3 74 9d b9 c2 c6 05-10 49 d8 b0 1d 48 fc 4e   ..t......I...H.N
+    0050 - 9a 76 61 3b 68 9f 23 7d-01 89 1a fd e6 61 d0 7e   .va;h.#}.....a.~
+    0060 - d0 eb 6e 40 f5 3c 38 34-af 76 6d 9d b8 14 1f 86   ..n@.<84.vm.....
+    0070 - 3f 1b 67 3b 04 dc ff 2b-b0 6a 29 1f 9d 54 0b f3   ?.g;...+.j)..T..
+    0080 - f5 00 97 2e 14 3b 2b ee-ac 84 f0 bb 5d 0e 01 80   .....;+.....]...
+    0090 - be c8 82 74 eb cf 64 a7-19 0a 09 c8 28 17 31 1b   ...t..d.....(.1.
+    00a0 - bf 85 96 31 63 d2 c3 6b-ff 9d 62 4a 0b ed dd df   ...1c..k..bJ....
+    00b0 - db c0 52 f3 7b 22 82 aa-e7 7c 6f e0 aa de 91 35   ..R.{"...|o....5
+    00c0 - b3 c9 53 5e f5 7d c5 88-c7 e0 60 c8 4d 44 b6 d5   ..S^.}....`.MD..
+
+    Start Time: 1555419617
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

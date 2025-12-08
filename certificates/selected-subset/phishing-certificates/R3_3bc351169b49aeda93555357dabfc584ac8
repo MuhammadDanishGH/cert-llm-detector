@@ -1,0 +1,65 @@
+https://amazoncustomerservice.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amazoncustomerservice.top
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNzCCBB+gAwIBAgISA7w1EWm0mu2pNVU1fav8WErIMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjYxOTIzNTVaFw0yMjAyMjQxOTIzNTRaMCQxIjAgBgNVBAMT
+GWFtYXpvbmN1c3RvbWVyc2VydmljZS50b3AwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCd9I9OTW/YkIw3z19kYIe/FZfQfPAEAV+oNngiM1EdzbCG8c0r
+vaha9hm3Vu+293abUdshg4Vk5Z3jv9vRG9dglV5Nqt9qzU8EAC3RnBUqaGc6zYzz
+11bND78LKX9cznkKoM8J1RIswsz4TbRZnDc6cgI1zsSaptJBkxPoY5NrY1prnHBx
+stzEEcGOqKkF6EQPninO5WDXATzEgLLjkeovCq7PO3h0eBEu/OtV1pHadf1zx8gB
+mw8nzf0W+BxOMe5TQZbunkIEBxKqtWriWt/vSEZ4ur381B6I4R0943YgczUCeG5Q
+vFEHACtXvUw7C5kR+e26H3JqLU8uSr/djdzbAgMBAAGjggJTMIICTzAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFGcMWElApx/a9DC+A318Sbl5C+TfMB8GA1UdIwQYMBaA
+FBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcw
+AYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMu
+aS5sZW5jci5vcmcvMCQGA1UdEQQdMBuCGWFtYXpvbmN1c3RvbWVyc2VydmljZS50
+b3AwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEF
+BQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQC
+BIH0BIHxAO8AdQDfpV6raIJPH2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAX1d
+6zSfAAAEAwBGMEQCIHVDB+QjhHLaZpX34JhKw27YBpnOg5vAERa2xuGtouvhAiAL
+vEF4PkanIK2L6xMY1bh6UxOJTSQqq+K51hY477om5gB2AEalVet1+pEgMLWiiWn0
+830RLEF0vv1JuIWr8vxw/m1HAAABfV3rNM4AAAQDAEcwRQIhALt3aMUrgPtSRqmV
+8oFYPTR9HUaugLDfrGrq+IOGbqqnAiB9IqK5lcTwlqHenBtc9WzgS2IPMIQEOEtR
+WPZmeOxF/TANBgkqhkiG9w0BAQsFAAOCAQEADgVS85QVMB+Q1Iamt/EOR0j3betB
+LSj2HGC22YnZv9c8aF0teiHa3WFT2V+JBplB87bzfKGsK8encJxxQq1YL1gAvfmh
+wyxUFyVJ2G95xBsI/fFHnIW/hGw69xvJ1Q1YRmNr0Aj1Sgefy6IaLQDOOPp1DxFA
+exS8YLnOH5TAEGXr1Bnd/McDPl4/TR0n+h7KtDNGpUdxc91HcWLhA4axUplheDJ4
+KSSZdnAn0jcyrZiVq0Hw9dt/jQ1t+S+qC0snukNV3hG/brxvbUkpu8O6m1pxvS7n
+4OQWLNT34NeoioM94TsU279Xizh/gTVBVms12F+FtA+tvd1zif65djNrtw==
+-----END CERTIFICATE-----
+subject=CN = amazoncustomerservice.top
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4595 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

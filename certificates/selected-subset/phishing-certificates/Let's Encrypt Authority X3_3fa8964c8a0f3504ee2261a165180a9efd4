@@ -1,0 +1,82 @@
+http://metallicarcticcurrencies.aidan1234567898.repl.co/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = metallicarcticcurrencies.aidan1234567898.repl.co
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEzzCCA7egAwIBAgISA/qJZMig81BO4iYaFlGAqe/UMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MjUxODMzMDFaFw0x
+OTExMjMxODMzMDFaMDsxOTA3BgNVBAMTMG1ldGFsbGljYXJjdGljY3VycmVuY2ll
+cy5haWRhbjEyMzQ1Njc4OTgucmVwbC5jbzBZMBMGByqGSM49AgEGCCqGSM49AwEH
+A0IABLpuzGr4EpBVXzYaq2XQB0OFp9r3KYNaelwNLuHwbtyIfLdN3Tg37GDAC8op
+XGK6BCIpwnGATbfHJUqaxF4Z9jujggKHMIICgzAOBgNVHQ8BAf8EBAMCB4AwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFPFcnXACbOd3c7W0GytBMRscAG2AMB8GA1UdIwQYMBaAFKhKamMEfd265tE5
+t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29j
+c3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2Nl
+cnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8wOwYDVR0RBDQwMoIwbWV0YWxsaWNh
+cmN0aWNjdXJyZW5jaWVzLmFpZGFuMTIzNDU2Nzg5OC5yZXBsLmNvMEwGA1UdIARF
+MEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6
+Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcA
+dH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFsykR/vgAABAMASDBG
+AiEA2fRnbEBoZlmPIj33W+0dn8lcIugsXpuPnO9R9QSkd/kCIQCvMmUMpfW/avrk
+3/SxkEFbSFNZ81ZQN4Ntk3ZoJ+a5+QB3AGPy283oO8wszwtyhCdXazOkjWF3j711
+pjixx2hUS9iNAAABbMpEfbUAAAQDAEgwRgIhALmgWEJj2AxjDCuErPK917uIwwOQ
+15KESM//qP2BOAZ9AiEAlXSM/2zzXd4zrbtXWcA2u/TAji7+l8PKvtQUb1omcPow
+DQYJKoZIhvcNAQELBQADggEBAAwqknWg2bxpPfl/mYVACwg/4oHiBICOdoB9HWad
+INT+VmeVSCLibbEZn8nVn6OBNFcizJ8xillkxh41LlZffl1CoA8Mtvony41/km2h
+Cm43tPC/L0/18vYoz8Vqz23Ozs+AiVdML2rLwl2Lb2/0CBbuF7OPQf5k2q9fj09W
+snpXpUdDFVQXDw5ZRlX72nqysD696HJ381Jts9W4nao1aTb8/FjDSrUAdhpeY+lO
++4Pj8iGcnyvld/BZKJIxSf34dRMcDDNMByyza9w2SChRBvUBThfkwxMr/5TJVlO9
+jg60whnMxeKv9djEDsr1BpCymiSKTH+rzEwyL/trAumpQjs=
+-----END CERTIFICATE-----
+subject=CN = metallicarcticcurrencies.aidan1234567898.repl.co
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2801 bytes and written 453 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
+    Session-ID: 327E5C9A834EF5885FAEA9FC84450EF437EAF5149D9D020D78CE05CCB67047FB
+    Session-ID-ctx: 
+    Master-Key: B618DF0728E8D87F2C47379D752023D368AFE0234DC54D4F8E400A5EA334402118809797B6FD6BF52AEB611FEE694C1B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket:
+    0000 - 09 32 bc 6a 68 c3 7a 1b-fa e2 fd e8 1b ed fc be   .2.jh.z.........
+    0010 - 83 0a d4 8f 78 cc de 68-8f 01 8e 14 d6 8e f5 95   ....x..h........
+    0020 - 79 3e ca 5d 63 13 de f8-40 50 2f 44 35 53 95 a3   y>.]c...@P/D5S..
+    0030 - 67 f6 48 3c 7c 9e 16 db-88 d9 d3 88 b4 76 e1 bc   g.H<|........v..
+    0040 - 3f 0d ce a8 57 3e 0e cc-b5 68 39 a9 4b 40 4c 86   ?...W>...h9.K@L.
+    0050 - 18 11 6f 98 2a 4f 12 21-ba 7c ef cd 87 13 bd 44   ..o.*O.!.|.....D
+    0060 - 1f a4 b5 92 b4 d5 3e 19-e2 97 4f b3 36 52 1b 3e   ......>...O.6R.>
+    0070 - 7b 7f 55 57 45 f4 76 63-                          {.UWE.vc
+
+    Start Time: 1566824426
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

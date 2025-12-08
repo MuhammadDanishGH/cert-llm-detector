@@ -1,0 +1,86 @@
+http://canadaandusavisa.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = canadaandusavisa.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLjCCBBagAwIBAgISBEVrXgTtz8WVzQ0cDXVYfc7eMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjUxMDUxMjdaFw0yMjA0MjUxMDUxMjZaMB8xHTAbBgNVBAMT
+FGNhbmFkYWFuZHVzYXZpc2EuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA8YY3obJ2uavvfsjKD+13xYA03RVXHxrDkzWa2k303wuwR13/BIGFGco2
+pVRHMM6wtWYuqd9g3H0ZgujNBhosr/Xw/YXuAZxRrzPB+CMfR08kzD3pmTnNpUfa
+pTc1fv5yP9QePNsa1Ut+qqbtB5DtpNBaAdiOw2naCgl2zhd0EdiWAA2om1CaEJ5x
+DJ6wSvQPjiZHfv0r34R/dD+q4WWGh3+Q0mpSlwXbEk5wFaCMQlUCcEoExAFT3iQq
+qycHc+7wMyvwZWEhDboQ+ECKY0UfmPbufENCgzXFKn8S9nr7JOmR8iTG1YyPubm9
+dKYbEbOdA2Twr6Q1JrvNMUhGJYdvhQIDAQABo4ICTzCCAkswDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBSfUhENXHZ2t30DVMuFg43KQeHIJjAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzAfBgNVHREEGDAWghRjYW5hZGFhbmR1c2F2aXNhLmNvbTBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2
+AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfpETmOoAAAQDAEcw
+RQIhAMSCk4pcMs/j+nobWUQnsq2YidX84oRTiJYUEB7l2lpHAiBOHD3bL2vhx8ek
+DkxEDiX1oAvWfBnas19DrClY8cMtpQB2AEalVet1+pEgMLWiiWn0830RLEF0vv1J
+uIWr8vxw/m1HAAABfpETmQoAAAQDAEcwRQIhAPUKU9Xq4W7B+32l4QToxQkYlcWd
+Ayn2dKRceMto6I4WAiAn0l+EyxsJu5OnRJwc1Jrxg+utDSEpxVQr7083cV5KhjAN
+BgkqhkiG9w0BAQsFAAOCAQEAj2FJdwX8S8gnU9SAcCJm+SXHr8JEAEZBEgMZy/7a
+6oXgtU6YiMap/S9HNLcWv6JBrRh/l58kbfQXn24NuMsnP9yPRg4YiVK4CZDoYJ0O
+EP8d4+kWVvYAmCNvUdMjsm7zQLor8Jh48Qb2pLwfUabgPuUKp9nmyamtUJUgwLRz
+iWl8cakKnozy/p0uDvJMI3CizKLDifiXIXHhO/cpJV03wzzbnIX+MXpfUrF/B3Ti
+kR7/+0dVqdEwx2MF77uvfLKzLrZXKClS83kMFaLyZ9kVUKKnIQqCOKy0pCPTAJE4
+IC8yC7+2SKilnA6R1cstb0U8PR/SR1i/dBRlgnnTfqQamQ==
+-----END CERTIFICATE-----
+subject=CN = canadaandusavisa.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4595 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 85D6EB6E82374DF1DEC0E85E213E87B2CDB5A60D2E795AD1CF7A78B656D79EE5
+    Session-ID-ctx: 
+    Master-Key: 9D33165D3CACB8736D7F2F63EB42874A36CA33D53181709F5F7CA5356E219E2D44FA49E69DDFDB106DAACD653C760822
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket:
+    0000 - ea 15 d5 e4 ea 3f 7e 7d-f2 5c ba 1b ce 49 bc fa   .....?~}.\...I..
+    0010 - 25 a4 f1 f3 2c 0d ce e7-78 61 6a 2a 2f 88 8a cd   %...,...xaj*/...
+    0020 - 08 ff 20 05 67 e5 84 ec-f5 15 fb 4e 85 83 30 bf   .. .g......N..0.
+    0030 - 15 b6 92 86 1d 22 16 44-e2 c4 f1 68 ec a5 f7 3a   .....".D...h...:
+    0040 - 94 bd f4 c8 3f 5a f0 5d-c1 1e 25 db e6 59 a9 b0   ....?Z.]..%..Y..
+    0050 - 53 d2 32 c5 05 e2 ad a8-ee b8 0e e8 cd 83 ed 85   S.2.............
+    0060 - f3 90 ba 6d b6 db 03 ca-80 eb 51 c0 ea 16 16 dc   ...m......Q.....
+    0070 - b3 3b fb 82 f0 0a 3a db-                          .;....:.
+
+    Start Time: 1644615092
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

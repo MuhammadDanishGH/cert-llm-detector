@@ -1,0 +1,69 @@
+https://amazon.open-apl3.com/_
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amazon.open-apl1.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF9jCCBN6gAwIBAgISA9g/TzG55FvOcGEeECKkF8LiMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MjEyMDIxMThaFw0yMTExMTkyMDIxMTdaMB8xHTAbBgNVBAMT
+FGFtYXpvbi5vcGVuLWFwbDEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAs3YmXhSSQclx16LCktfiD4KGV1jvoCOFBEwPBJqtx1n0NgSHHXIYpLE+
+zo0Gj+cFkOpJDB1ZT421mV3waJf0wcpzMjxerePELfD6qIFIXlyFYVi1irowMOqF
+9VZcr3wiQqpJpOul+7DvjNcwnSSxTEINSBFf7dS7zvJ+ZhuaFLhaxIVZxa3ndlH9
+jVUYnp335xvecR8i4xOeg8HQHNBDn31KmSz5KgqOOYL04NHgU7rSeuopD3Sgv3a2
+RAtxqWo4bL1z0Qn+JbnLCkTDOsjNAqg0RTwEOdqu5PXf5swOFvXUtvdK6PsdQ2gk
+WnGI1FLqpJdrs5yKlH4maNs6KIOxJwIDAQABo4IDFzCCAxMwDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBQL5V9qdLjwYNjVbPxkOko9OaGGgzAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzCB5wYDVR0RBIHfMIHcghRhbWF6b24ub3Blbi1hcGwxLmNvbYIUYW1h
+em9uLm9wZW4tYXBsMS5uZXSCFGFtYXpvbi5vcGVuLWFwbDIuY29tghRhbWF6b24u
+b3Blbi1hcGwyLm5ldIIUYW1hem9uLm9wZW4tYXBsMy5jb22CFGFtYXpvbi5vcGVu
+LWFwbDMubmV0ghRhbWF6b24ub3Blbi1hcGw0LmNvbYIUYW1hem9uLm9wZW4tYXBs
+NC5uZXSCFGFtYXpvbi5vcGVuLWFwbDUuY29tghRhbWF6b24ub3Blbi1hcGw1Lm5l
+dDBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUF
+BwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIE
+gfQEgfEA7wB1AJQgvB6O1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABe2qW
+4aMAAAQDAEYwRAIgUaUye4jGsd3OIm4C+NB4rq6S5zi9PfK7uLLlO0gih8ACIAhC
+eGEdqcQfi2VkqqEMwEF4Z+Dhs31aU/mL6959zio2AHYAfT7y+I//iFVoJMLAyp5S
+iXkrxQ54CX8uapdomX4i8NcAAAF7apbhzgAABAMARzBFAiBz5xlcJ4pR236phfXX
+UzzTp9WHP7wWbC10bWyQcpmW3AIhALWJ98+v6HAcEQMVknx85Qt81CRQgqHqVi05
+pGqD8UiRMA0GCSqGSIb3DQEBCwUAA4IBAQBDYcRLPlOOxNWgx3mVpaj4GsAO/U8x
+X8yla7Qo8kNQ412JxiaOxGjpl39noG/KemLdQTzVgO++AaTFs3mFWd344DFhnR3s
+ifybK28GGceeN+6jF74wJniRHqlRWDuF0PL2nIaQ7yZBQI4u3anH9j1R8YUR6roi
+yS8qOvvG4J2qiNVpnrfoFWXUnEOUsac5+TsXsFJggp/tEz3QIWSCjNRyXeu/TLJq
+ZNNpJFcadS7qJauQuP8LVQnskI8ah1ZnE7n00DM5UvRe8quZlPnsSeziapvTI9e9
+pO/0sA3IkkarlTruyIEwlCk3MAOa8cLcjzaqYVi93yPQH9cY/401ZU6R
+-----END CERTIFICATE-----
+subject=CN = amazon.open-apl1.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4786 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

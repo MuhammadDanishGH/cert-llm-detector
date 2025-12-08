@@ -1,0 +1,74 @@
+http://claim-hadiah-gratis-dari-abang.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.claim-hadiah-gratis-dari-abang.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG0TCCBbmgAwIBAgISA0RbrT+DZu1sHl6zuNArrFYnMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjQwODQ2MjRaFw0yMjA0MjQwODQ2MjNaMDkxNzA1BgNVBAMT
+Lnd3dy5jbGFpbS1oYWRpYWgtZ3JhdGlzLWRhcmktYWJhbmcuZHVja2Rucy5vcmcw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC1dieGYaoosOffjRV4iVXo
+s4DUgOOrkKHz1aR+WE6IqFFr9eXJ2JovXx5ZOhWshtbIlhwVuVxOo7EvEFgBVAib
+KQ/MyYFDnDNtK9NDO3laaStvaL4BupBtuLe8tUKNQjCxgxVyZHHEH0OlCQ2yhsmN
+zbxB494IHUnJHXZsihvBPy0x1Wf/F6BQBp4fUSWYA8Kb+q7kdJOV/Mdx5IeqYUlQ
+TVTiFYbnR3Dit4RR3E8pFJX+yOZK29OpWzeDcCa/GP13MWhOuhlKNdpHQUG95sLE
+HNPOQnbD2O2gO88R7dNif7KH4++kvkQFiEWrw7S3njOFEijNJl6YyBvTdSfo74N5
+AgMBAAGjggPYMIID1DAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFJ0hod/EbwxSWNsW
+K65lfyxCzgLgMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsG
+AQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIG
+CCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMIIBpAYDVR0RBIIBmzCC
+AZeCKmNsYWltLWhhZGlhaC1ncmF0aXMtZGFyaS1hYmFuZy5kdWNrZG5zLm9yZ4Ix
+Y3BhbmVsLmNsYWltLWhhZGlhaC1ncmF0aXMtZGFyaS1hYmFuZy5kdWNrZG5zLm9y
+Z4I2Y3BjYWxlbmRhcnMuY2xhaW0taGFkaWFoLWdyYXRpcy1kYXJpLWFiYW5nLmR1
+Y2tkbnMub3JngjVjcGNvbnRhY3RzLmNsYWltLWhhZGlhaC1ncmF0aXMtZGFyaS1h
+YmFuZy5kdWNrZG5zLm9yZ4IvbWFpbC5jbGFpbS1oYWRpYWgtZ3JhdGlzLWRhcmkt
+YWJhbmcuZHVja2Rucy5vcmeCMndlYmRpc2suY2xhaW0taGFkaWFoLWdyYXRpcy1k
+YXJpLWFiYW5nLmR1Y2tkbnMub3JngjJ3ZWJtYWlsLmNsYWltLWhhZGlhaC1ncmF0
+aXMtZGFyaS1hYmFuZy5kdWNrZG5zLm9yZ4Iud3d3LmNsYWltLWhhZGlhaC1ncmF0
+aXMtZGFyaS1hYmFuZy5kdWNrZG5zLm9yZzBMBgNVHSAERTBDMAgGBmeBDAECATA3
+BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNy
+eXB0Lm9yZzCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AEalVet1+pEgMLWiiWn0
+830RLEF0vv1JuIWr8vxw/m1HAAABfot6wPEAAAQDAEgwRgIhAKzuGrpvYA8z7V6z
+pzR8NkZUYTYGSeyVgs9wmadk0r7pAiEAjeeUFsXdaN37ce57m1rlH9h3KMs/mefS
+4c9ByTmTveUAdwBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAX6L
+esH4AAAEAwBIMEYCIQCLKiNDbxmagXknN9gUyaCpaTCWQ4jPotWbryyptJ1pfgIh
+AMcGKVZmanqVltW1/mQmMjoFZ85xar2HV6njrNAoYisYMA0GCSqGSIb3DQEBCwUA
+A4IBAQAayp+tB7awwzfG9ptTEwsXHzyht7MKUvL23O0vityVLBlzHIoLtGmpN1zg
+nGTr6na/wKGpkg31VPJauEOlvkV1Z9Lwau3VufvBaGAA+fNtPZC8XYSSdA9I4j2Y
+/J5OCFbqlhS8kjmeGuVTbp++Srj3A0azXD4wX+/k9WVFFJKgt59TaKFEVKmnL0fy
+NKWBdGXlTUeDa6JCgUTRnh4GWTnIsR1Swa7A9eFbbiDCMfMJJz0SMQPBRm3tP6Yv
+pQO33YLEeFnEtcV+sgPVG++EOUPi/oZjpCyfoAISkHX+Rf7pCA/NSQl8Sv/UV5J4
+jAqzGoos5dV1/S9Rgz1rXq9Rjr+6
+-----END CERTIFICATE-----
+subject=CN = www.claim-hadiah-gratis-dari-abang.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4935 bytes and written 416 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

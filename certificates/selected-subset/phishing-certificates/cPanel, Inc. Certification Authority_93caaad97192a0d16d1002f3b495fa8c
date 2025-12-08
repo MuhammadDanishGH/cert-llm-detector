@@ -1,0 +1,72 @@
+https://spotifyuser.com/info.php?ip=188.166.98.249
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = spotifyuser.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGcTCCBVmgAwIBAgIRAJPKqtlxkqDRbRAC87SV+owwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0xOTA5MTkwMDAwMDBaFw0xOTEyMTgyMzU5
+NTlaMBoxGDAWBgNVBAMTD3Nwb3RpZnl1c2VyLmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBANV+sAiBLSpePgAeQwUafVHakthQME1K19f9kyIfIBJc
+oeCgqtCg5dGVI2PmVwX47eM37ErgyVhl2fB6yAwgk/DtWt7sKZXqNUwXcjqHbUO+
+7gFctw+v/eJ0EldzbSNw7nUO+yGNi/Nk0Nse/zCNQMToUNCTb0rgQ56flhP4ydIZ
+8yrBkkMD+/47PdiMrA+0FWgu5WHWqD2rm3XZS8FS+0MemzS/nEOtVEE4w7HxPv6z
+q9LWASoz1UjnA/o0gBQrRSF+CgkvQm/W5e5TtbsITZKcwAc20NpvOPVIMxgSUbfX
+IMzzIHZ4VYdHFIV4iy009C+1JB1NwrdRMFZ7RDDThd0CAwEAAaOCA1gwggNUMB8G
+A1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBQ2Ch8Sdli+
++1natnSmqEa5e/AB2jAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwTwYDVR0gBEgwRjA6BgsrBgEEAbIx
+AQICNDArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8uY29tL0NQ
+UzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYB
+BQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYY
+aHR0cDovL29jc3AuY29tb2RvY2EuY29tMIGvBgNVHREEgacwgaSCD3Nwb3RpZnl1
+c2VyLmNvbYIcYXV0b2Rpc2NvdmVyLnNwb3RpZnl1c2VyLmNvbYIWY3BhbmVsLnNw
+b3RpZnl1c2VyLmNvbYIUbWFpbC5zcG90aWZ5dXNlci5jb22CF3dlYmRpc2suc3Bv
+dGlmeXVzZXIuY29tghd3ZWJtYWlsLnNwb3RpZnl1c2VyLmNvbYITd3d3LnNwb3Rp
+Znl1c2VyLmNvbTCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AGPy283oO8wszwty
+hCdXazOkjWF3j711pjixx2hUS9iNAAABbUtT0fgAAAQDAEYwRAIgBwNARNCWiBOG
+Tcj2BIJl0kY8bkqtyr4Y8Mni9ba612ACIGwPJm4HINw+Rv+EDU7bmeNu2RkuY2Cp
+VG3BYar2XgqeAHYAdH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFt
+S1PSEQAABAMARzBFAiEAly0tS4zIQcAgfHRIhnoSziKbMhDC8+JmTg2acyy/3GoC
+IDIjo0dV6tQ4gIquiuBtfRYxjhJ2N7s1UTz02jYGkgaGMA0GCSqGSIb3DQEBCwUA
+A4IBAQBvtGd1CgwNJ7Cc72QOZhjUNlq4GiZuNVouSmqWOVHmMrSr2MlsKt69IkpU
+fGRHvU746u1CphAFrraIaaV7vyNAiLmjlHdcE5e7qCripym9g/S7n1n5gWM78fbE
+CKmiOi0aTP23xuvZ00tBcpZJHu/0XYL1YrabDKGU5Lfm+22MUKkumKJGJF1+nf97
+04Hiae5fV4K3/Htxq4gX9tbfSAy/x/3j3ge86Db9YiUD4KTgBDMSsxpYkeWNkseo
++knvr6zB0nN/hFw+y36D+pa0ujtds7Yu9l53O/oyqtshqKMDDXPEUp8BLtUOD91U
+KNDKwqkZ3L1y2ngUwFGeic3rq9Rd
+-----END CERTIFICATE-----
+subject=CN = spotifyuser.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5062 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_CHACHA20_POLY1305_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

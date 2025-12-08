@@ -1,0 +1,61 @@
+http://discord-moderators-exam.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.discord-moderators-exam.com
+   i:C = US, O = Let's Encrypt, CN = E1
+ 1 s:C = US, O = Let's Encrypt, CN = E1
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X2
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X2
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 3 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID7zCCA3WgAwIBAgISAxECbDC3vHEHHD77ynxyyzWLMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+MTAeFw0yMjAyMDUwNTU4NDlaFw0yMjA1MDYwNTU4NDhaMCgxJjAkBgNVBAMMHSou
+ZGlzY29yZC1tb2RlcmF0b3JzLWV4YW0uY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0D
+AQcDQgAE5aFwnRiMgurUd7o1f/Ustr4vMiAuGNN6bz2KfCxAIFqcdwhPOacphjOq
+irRBLf148KmbwoJ6ZafCLQFhRBeWYKOCAnMwggJvMA4GA1UdDwEB/wQEAwIHgDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUc1RDTAvAv5riGLn3/padtXuvd/8wHwYDVR0jBBgwFoAUWvPtK/w2wjd5
+uVIw6lRvz1XLLqwwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8v
+ZTEuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9lMS5pLmxlbmNyLm9y
+Zy8wRQYDVR0RBD4wPIIdKi5kaXNjb3JkLW1vZGVyYXRvcnMtZXhhbS5jb22CG2Rp
+c2NvcmQtbW9kZXJhdG9ycy1leGFtLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3
+BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNy
+eXB0Lm9yZzCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1AEHIyrHfIkZKEMahOglC
+h15OMYsbA+vrS8do8JBilgb2AAABfsitok8AAAQDAEYwRAIgQXWNJa1AWyN44cb5
+vF7KigtmtNsoMrqDD6jtQq5QgJ8CIHRgLZox3/CfW6WqTRj8Z32E//DdDFO3u0v+
+U6URV4eRAHUAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF+yK2i
+KwAABAMARjBEAiA3QL6EorldkJLXBT19IKOOfclcmnPOoM/yRcnF0qKmnAIgIRUF
+yEvzUEFyjyweXHsLj0w06ItZsZin3gta3Z5yUQwwCgYIKoZIzj0EAwMDaAAwZQIx
+AIIS+jinR+vqf9WDwDSFHVKXUXfyaxcw70HXC0PtFkNQEovplDQYUdm6yvSgW/dI
+hwIwVSqNIXt/+yFSHv4zJMzKLIEVoNBUe8TQLVdia3tS3DD4OpIJP3sO298buYJd
+mPqT
+-----END CERTIFICATE-----
+subject=CN = *.discord-moderators-exam.com
+
+issuer=C = US, O = Let's Encrypt, CN = E1
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4553 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

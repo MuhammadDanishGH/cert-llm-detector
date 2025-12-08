@@ -1,0 +1,76 @@
+http://viralterbaru2021-5video.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = viralterbaru2021-5video.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHPjCCBiagAwIBAgIRANwkLXlQGFXp2+hmEI14Q0owDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA5MTEwMDAwMDBaFw0yMTEyMTAyMzU5
+NTlaMC4xLDAqBgNVBAMTI3ZpcmFsdGVyYmFydTIwMjEtNXZpZGVvLmR1Y2tkbnMu
+b3JnMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwVY2IV70BwjGbXxi
+lqJOvhtPxEJmK9iy04qE0IDVegA/zIPwdMFcRD+JQ2hxT0l4ofHvXJMPjKOivcrV
+I2alwxK0RC2dczhgB7gZ6t6S97q1NvnLQGWaKM2A0aGWG+iy76kaVDgCKzGwuKzv
+gUJ810P7ykN2PEkLdrsE4ZKTEKV01f7ba0nflJvOGtrtSfs/sR3PImFTWgJTST7j
+tBmce3NdJUU4yJ1fHKR8PHkGIZMNPGzsrrl55UBvgur9qo7tvcBKh2x9Zo0qjAht
+6VxqCtS6fYq+xqsSaXvryUpw596UiDzaUpSTV1cEKovjcYyN4qKRbWyEJFjgh8PX
+bepUZwIDAQABo4IEETCCBA0wHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1q
+x2UwHQYDVR0OBBYEFHJENyjHsQ0Nd4GeCgS0epcDT6yjMA4GA1UdDwEB/wQEAwIF
+oDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJ
+BgNVHSAEQjBAMDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8v
+c2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRw
+Oi8vY3JsLmNvbW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9y
+aXR5LmNybDB9BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQu
+Y29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0
+MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEEBgorBgEE
+AdZ5AgQCBIH1BIHyAPAAdgB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw
+1wAAAXvViKrkAAAEAwBHMEUCIQCcfbZIEtZ8y3EaXy6t8CVWkdhEGnpRB3MwEbDb
+VasdqQIgff06FCmF6qaUrfg7383l5uyl/ve7ItCPOjbD8rKrjhsAdgBElGUusO7O
+r8RAB9io/ijA2uaCvtjLMbU/0zOWtbaBqAAAAXvViKqkAAAEAwBHMEUCIQCvjjVI
+HYyNToPOklxfHNDVEBIrURM9gzemL1xwueke5AIgR7ykZ9UFgLvwW9m+/9aba5oQ
+P2tA7r3uZ3WfXHRa5hEwggFsBgNVHREEggFjMIIBX4IjdmlyYWx0ZXJiYXJ1MjAy
+MS01dmlkZW8uZHVja2Rucy5vcmeCKmNwYW5lbC52aXJhbHRlcmJhcnUyMDIxLTV2
+aWRlby5kdWNrZG5zLm9yZ4IvY3BjYWxlbmRhcnMudmlyYWx0ZXJiYXJ1MjAyMS01
+dmlkZW8uZHVja2Rucy5vcmeCLmNwY29udGFjdHMudmlyYWx0ZXJiYXJ1MjAyMS01
+dmlkZW8uZHVja2Rucy5vcmeCKG1haWwudmlyYWx0ZXJiYXJ1MjAyMS01dmlkZW8u
+ZHVja2Rucy5vcmeCK3dlYmRpc2sudmlyYWx0ZXJiYXJ1MjAyMS01dmlkZW8uZHVj
+a2Rucy5vcmeCK3dlYm1haWwudmlyYWx0ZXJiYXJ1MjAyMS01dmlkZW8uZHVja2Ru
+cy5vcmeCJ3d3dy52aXJhbHRlcmJhcnUyMDIxLTV2aWRlby5kdWNrZG5zLm9yZzAN
+BgkqhkiG9w0BAQsFAAOCAQEAVKTFbSh0EuCYUVZavv83qQ8JYepa5RzbMcerhwGs
+Oc6PHS0nncmDB6iFaYT8j9qCKZcqKyDFx3U3eqzb3kuL4IVN6ntsuaWHr7rmsKLp
++kykjoNaIQO9cWxjNlo7zVAYTgwv6/rDRWn9PZkZReowJn4iwlDGvsTeJyyzwRC9
+07tfM4ssb+oeSKSnVBS5YPha78/RvVG0cdIfll9X7nlu2pz3xcAnXE2KW9gltZOC
+K2R9KIIYfkeo64teHRjNC3KncsetaxyudWZ3gnd+Ti3j+UBZbp62hv9l3s31wzF8
+rqv9KwS+vJDUsCY/FElu2y4Tew1aAStG8V6a0tagGQzkxQ==
+-----END CERTIFICATE-----
+subject=CN = viralterbaru2021-5video.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5293 bytes and written 417 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

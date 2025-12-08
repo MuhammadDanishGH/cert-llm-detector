@@ -1,0 +1,71 @@
+https://www.whatswherethisweekend.com/home/www.breeid.fr-pointcheck.secre.region-departement2/15c53/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.whatswherethisweekend.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+subject=CN = www.whatswherethisweekend.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5143 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,67 @@
+https://agenciafibonacci.com.br/HOTMAIL/VdPCnDwL/9ec670090391dbf7a46355fb36d06aa2/?login=&?auth=2&home=1&from=PortalLanding&client-request-id=bcc7c79d-ad79-43ec-9c70-d12e378805d20cDovL3d3dy5hc@
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = patriciateixeira.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFezCCBGOgAwIBAgISAwYgtan53GqNYRcbOo8BrGCOMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MjQwNTE5MzdaFw0yMTExMjIwNTE5MzZaMB8xHTAbBgNVBAMT
+FHBhdHJpY2lhdGVpeGVpcmEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAvahwWkUvBndGUjYmI03gVpSUlW6lDFByV0CMiJ4v0ZPFKRuoJAByY8LN
+1LFK3Ftk2wOiIFncrs0Bn7dqLja3vqVBH/pwN2kCRJ70TQABg4w2aZbI68NN2Au8
+1GaljyDd62eV7oauAWOZlAspbkpxYj1ipSGJUdjCCRRsXEbqL+YjLRbbga1IbzPX
+Wk5TBb91cjhVUcFsDOuAC3H7SjXjynxoBuIXIkR7k4/5AtVAlGr0LiMOESjykwRw
+pHbSYewY+DpuKy4OM8osuVgOO16ZT18up5KkfAjt6lIx/3zMe8sMIWtA8RlASEKy
+zMhsCoKjJAGoogiBkEs6armLDAgG5QIDAQABo4ICnDCCApgwDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBRq3RthXGv+J1eBqSA+lXXqY26ixTAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzBrBgNVHREEZDBighkqLmFnZW5jaWFmaWJvbmFjY2kuY29tLmJyghYq
+LnBhdHJpY2lhdGVpeGVpcmEuY29tghdhZ2VuY2lhZmlib25hY2NpLmNvbS5icoIU
+cGF0cmljaWF0ZWl4ZWlyYS5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYB
+BAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5v
+cmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwD2XJQv0XcwIhRUGAgwlFaO400T
+GTO/3wwvIAvMTvFk4wAAAXt20HLIAAAEAwBIMEYCIQC2SDa84sKxhlnL8HUcq5Ry
+jxPzeGf0Cz+uhiJ0PY4ZugIhAKel0N9aZXLm3G6L+OSobSsQSmak6Zau+e0ttds2
+Bd8/AHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAF7dtBz5gAA
+BAMARzBFAiEAp43VAiYBtIwV3m5UAfMuqE3ijj7OLJKetg5s+DAa2/YCIG+Am5ld
+au8cilCRKRUEWHYB9KcyBf+sMDE188kSUdoDMA0GCSqGSIb3DQEBCwUAA4IBAQBh
+FrZisgHRhlC9//DJ1MBGg53o+3KC7gVWBQhrVruzLpNOPB/kA/sQ1BraA6uhfAuN
+IYQctNcMWLHafSXGqMy4NlgLAJPg23vMFV9GEaxufV5JX/r42M/rIuG1Oi5f7u/I
+yDYSAVLH/joi++Bb2B1F0qSkqoCdABYTPxHhXzZlwImlBU+tBBgYUl4b5Zgjvvr7
+9s43RUQOjvEUTc5laQ0MVnZ2ql6Xxtk9zy+EMoUKKFs8HCFFNrVHk3km1QnKZjao
+mtmS3fHQyCDu3YJQql1V3bXhRxIDxTZ7LZyJlrZwpAQ7Xr0UmDoob5tLnH11jZFZ
+Nedkjh7SLay2M68u8Jli
+-----END CERTIFICATE-----
+subject=CN = patriciateixeira.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4663 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

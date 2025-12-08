@@ -1,0 +1,97 @@
+http://servspl.oceanbreezedapoli.com/servcs/noic/authflw/gs_gen/gsfe46ccea633fd24f527c4220fa35cd42/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = oceanbreezedapoli.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGOzCCBSOgAwIBAgISA3LWKoPy9Ho4UTkldQcy2ycHMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMDIxOTE4MThaFw0y
+MDAxMzExOTE4MThaMCAxHjAcBgNVBAMTFW9jZWFuYnJlZXplZGFwb2xpLmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALN2x7scQWFSS853fgWhhZxT
+jDHNidGb6uh4pyDMyaUGR2U/XLdmbsWybgU0ii8GifvKJmlG/4VjxaADbwu/yeRV
+WrFwA0RC369yl3qRXD6liM87wH+7dJtJa173VDg7nc8EdMsaKmBhbwO4oH5hc5nn
+wHog4sKEB3jkJYxf7uz7AqCznFhiIfB5nKY1PSRlcFlq1VEJzZFFGRZ/Kzua0PZ7
+uPJTeyRgGE7dQq9aT+PA26wiYnfQYif/JFOcUMLwGu0jgCmkPuZYJNWLRBije47k
+4ZfcdOBp4+xbnbKvOED9INuiPeOB2+wVNhXklZiNdfNwg7WzSW/N+XS/KXdxUT0C
+AwEAAaOCA0MwggM/MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUDm3957ovgCyFmx+S
+33Y4Wkb64pQwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYB
+BQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnLzCB9wYDVR0RBIHvMIHsghxjcGFuZWwub2NlYW5icmVlemVkYXBv
+bGkuY29tghptYWlsLm9jZWFuYnJlZXplZGFwb2xpLmNvbYIVb2NlYW5icmVlemVk
+YXBvbGkuY29tgh1zZXJ2c3BsLm9jZWFuYnJlZXplZGFwb2xpLmNvbYIdd2ViZGlz
+ay5vY2VhbmJyZWV6ZWRhcG9saS5jb22CHXdlYm1haWwub2NlYW5icmVlemVkYXBv
+bGkuY29tghl3d3cub2NlYW5icmVlemVkYXBvbGkuY29tgiF3d3cuc2VydnNwbC5v
+Y2VhbmJyZWV6ZWRhcG9saS5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYB
+BAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5v
+cmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwCyHgXMi6LNiiBOh2b5K7mKJSBn
+a9r6cOeySVMt74uQXgAAAW4txL0MAAAEAwBIMEYCIQDNUSvjnfHMK1xWS/PLL317
+F4dQAbFzez5h/WvTgdcimgIhAJuvaWvnCBjYP7PiRusfrKlRtD9hWyacuTatLZJx
+SDI/AHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAFuLcS9QQAA
+BAMARzBFAiAF0bVt8aLyDkrXl79BSuFWPMk4tcXw5Bpa9yuq8m0vDwIhAKycDm7s
+DcBUwP8Tv/xeQ4RTEJ74B056K+uUA6fP4npLMA0GCSqGSIb3DQEBCwUAA4IBAQAy
+Ibsa4lHXs+fFmIRyWG0RYTlC7UA+3vm3XOSXZHKxAmIag6XYTfi2rmDW5RAa4o+V
+nGcT9vHgVT+7G2gqfmERwp+G40CMT12qkEz8QxMkdG/AcqkYaQddXsCwILXCmcsc
+np/A+0PIu7rVFkSCutx4lASVlsa5+L24MI3gD7uRZY0bgs6i5QW6C5mACG1hxJB7
+MjurqGnPm5yI/BD/5RTINf7ZHuT8srgIJGDn5sRyHV1D44RvdOBdtapX/Mrluw1d
+6WqRM0Vvea6+NMaxDEnyIDnJoXRwqllEstNqkly36btVREJVc8XiihH28NI4a/0J
+IvKnRYY1FNsOEQn/FU/F
+-----END CERTIFICATE-----
+subject=CN = oceanbreezedapoli.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3498 bytes and written 467 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 0D4E2261251023F3579DF40C6880096C552F65692B35228C3932008D0AA48C65
+    Session-ID-ctx: 
+    Master-Key: D4C15FD3DA4D76B72477EC2C0B8C52D649050DC5CE02F5F10175680E5E640EC3011C9062B06A663CE2B82425DE8EA582
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 70 ad 80 8e b7 c8 18 73-92 77 52 11 ee b5 f5 15   p......s.wR.....
+    0010 - d7 c0 c4 81 7b dd 45 4f-dd 2d 34 d0 23 f6 2e 94   ....{.EO.-4.#...
+    0020 - 0a e3 3a af 1d 4e eb 08-b1 a5 ce 05 61 01 9e b9   ..:..N......a...
+    0030 - 9a 7d 98 b2 44 54 30 07-69 42 3c 73 d4 93 fc c8   .}..DT0.iB<s....
+    0040 - de 05 f8 70 31 5c b4 34-70 5a b2 4b 05 ca 16 53   ...p1\.4pZ.K...S
+    0050 - f2 03 b9 59 f8 72 6a 98-8c 27 34 c8 68 88 e2 95   ...Y.rj..'4.h...
+    0060 - 2e e4 3b ee 34 81 0c b9-5c dd d7 11 13 39 bb 66   ..;.4...\....9.f
+    0070 - 96 9d 59 c0 6d 34 a8 93-9b 23 07 f9 37 e7 62 d7   ..Y.m4...#..7.b.
+    0080 - a7 10 f0 fd 05 64 06 9c-09 c2 79 fb 12 ac 18 8c   .....d....y.....
+    0090 - 52 0b 84 1c e5 12 20 77-73 d8 1a ea 6b b7 a2 49   R..... ws...k..I
+    00a0 - c5 97 8f f7 91 11 3a 6c-64 a3 c1 07 1f de ac e5   ......:ld.......
+    00b0 - c9 db 66 d2 37 ee 74 26-91 81 0f 99 c3 70 89 64   ..f.7.t&.....p.d
+    00c0 - c5 ab 96 69 06 8b 78 c1-9b 74 6b 73 42 8f 51 82   ...i..x..tksB.Q.
+    00d0 - 7a 6c 53 75 30 44 44 07-cb 02 c6 df dd d3 99 71   zlSu0DD........q
+
+    Start Time: 1574517627
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

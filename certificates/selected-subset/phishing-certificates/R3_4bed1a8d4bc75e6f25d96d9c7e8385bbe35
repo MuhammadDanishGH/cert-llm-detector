@@ -1,0 +1,59 @@
+http://followingfaparta.com/uJxuSaJ
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.followingfaparta.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEfDCCA2SgAwIBAgISBL7RqNS8debyXZbZx+g4W741MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTcxMTU0MDVaFw0yMTEwMTUxMTU0MDNaMCExHzAdBgNVBAMM
+FiouZm9sbG93aW5nZmFwYXJ0YS5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC
+AAREbmxy7p+XCbTQiGaA68uV09LxEWG6KA9JO8aN1X5Au0M/dJbsD0rw1fSYz27U
+Px26cHnIjgKLWkIO1wbklXJHo4ICZjCCAmIwDgYDVR0PAQH/BAQDAgeAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBRf0vHcC2JxQkPJzyFI/4ltBhM//TAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDm
+H6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5v
+LmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzA3
+BgNVHREEMDAughYqLmZvbGxvd2luZ2ZhcGFydGEuY29tghRmb2xsb3dpbmdmYXBh
+cnRhLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYG
+CCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB
+1nkCBAIEgfQEgfEA7wB1AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDX
+AAABerSH7z8AAAQDAEYwRAIgba+R43to8q/IihcGmT1kS7vfqC9nF8CfQOINPrie
+mXECICfDT/yVD0xie0BAHDb5mH/+zMUOYdv5NXuj1zKMVMDWAHYAlCC8Ho7VjWyI
+cx+CiyIsDdHaTV5sT5Q9YdtOL1hNosIAAAF6tIfxDQAABAMARzBFAiBvbQk/+bXv
+i2zG7rbidYqXHjqNm7XcnzDyiae09xN6YgIhALzDIMeGaGppVnRmK5I+qZ8MWDOz
+faTakri1KdkCE0AhMA0GCSqGSIb3DQEBCwUAA4IBAQBrUdUO8x2ECSN9XuH29FoQ
+OVH9UVJO4cJW059qSp1m5ArCLnGemeg7vL/ZAc7NLsakoDQfqRy+LZjjV6C2iSdF
+XuP1gnSuoSiTqjbI71GGSWX41s9NsycGrEIFG6FtPFQdit9JzArC/TDfsS5Hwcg7
+ROOa4Y70e7nJKRkppGQk5gDpwjIhFVv519pfCNsWyikp1p2iQqyVQI5uuP47dCGM
+Ds8RMUtl/SlA5uizZgqVMoRdk/pJTowV9kxwal3jiOahwSWKjSC8+bFVZGmCDFMj
+jaeNizJQZpSF7wsdwJCQOEtcTPZwovnGiEMLAW2oYM9l3YIPjDRvQX1ztwr/YBIB
+-----END CERTIFICATE-----
+subject=CN = *.followingfaparta.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2596 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,65 @@
+https://www.visa.co.jp.zdsvcse.xyz/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.visa.co.jp.zdsvcse.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPDCCBCSgAwIBAgISBJ0DUQVS99ucnR3SM71dSf5wMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMDcyMDM3NTNaFw0yMjA0MDcyMDM3NTJaMCUxIzAhBgNVBAMT
+Gnd3dy52aXNhLmNvLmpwLnpkc3Zjc2UueHl6MIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA3hW6DV+SLn8MceMyWBRFMwh6gqEa5Gax+8BFXWYfcU+Z+ARL
+NZhPg9POgfjQVOyw7eMEyqYClG6HwLSKptUJ8iRvfPGfxE8+51DTWjm4Mt5iueC2
+pAkHTWpJVpeNQJM984kNmUeayYDCjxdLmGZfUFDlI5W8u5Q4dUxTtpMqyFhk4llv
+nR9C+zxwZ6+z3LfmvmuJabxZlFFvUQTq+p+rHP0U4dEWv3J8oCiYsK+yAAoScceX
+0ctDeTXXkWzTFzDbSNtP8/90gVJaMdFqemWRDZVgOsvET7Xm1DD8SSGGiIF+O3AB
+VXmZEd5JeO4Ym1sOV/W7uRGpm+i6A1jCMZxslwIDAQABo4ICVzCCAlMwDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBS6r6TlVlSM7rvTmqBtppRrW2o1UTAfBgNVHSMEGDAW
+gBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUH
+MAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3Iz
+LmkubGVuY3Iub3JnLzAlBgNVHREEHjAcghp3d3cudmlzYS5jby5qcC56ZHN2Y3Nl
+Lnh5ejBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsG
+AQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQYGCisGAQQB1nkC
+BAIEgfcEgfQA8gB3AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAAB
+fjZ6BfoAAAQDAEgwRgIhAImm3srQsagqgr3aK8vAjfiKhGMRagBEofQOPL3UR8b6
+AiEArdKehfSevRxzu6fHp7Qz+G118yXRJ4zCBnRTEnI9EocAdwBGpVXrdfqRIDC1
+oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX42egYeAAAEAwBIMEYCIQDvmHiakBE5
+czGrZi73wi+RiMZHxn6VMuLYM632eS4rUAIhAOZEq/ySkrkBVXGMN6xlnha3as0J
+iLdoiYCvFS9K+q7DMA0GCSqGSIb3DQEBCwUAA4IBAQAVZHZgBCdQXqSoLMyTM+K1
+9qXg2mIenPOPeBBBaQkdbPRmiflw/plryCMK/cpWYPX0ikSqRHkPOr8FuxS0x315
+yxRVpGD+vXATjb4WPfzq+KgeW7HL9TaZjuqe8wBmuwBpxGRs24hCF9D/7+c46vKi
+01Lc6VVWACu5jIMEGD7v08ocUNLrgViqw+bEB73rY9JqZ0y94aEmELBtkr0zBcJS
+FZbGK7fst7aHSAJysd9udsKHaMVUmEKWKvWeeuuDPXrz/WLVHy0tgkB5VCpZ7a8p
+DLsEqj6pEqv6xpp4VTt2cEVPpOMLsF1o1G7ZFnXBcPSy97LfvLBWPOazjw/MnpA9
+-----END CERTIFICATE-----
+subject=CN = www.visa.co.jp.zdsvcse.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4600 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

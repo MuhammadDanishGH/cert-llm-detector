@@ -1,0 +1,96 @@
+https://www.tvsatevolution.com.br/ttaatt/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = tvsatevolution.com.br
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGGzCCBQOgAwIBAgISA/sCtNrhsyUNihS50avL3LxcMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA0MTQwNzA5NTdaFw0x
+OTA3MTMwNzA5NTdaMCAxHjAcBgNVBAMTFXR2c2F0ZXZvbHV0aW9uLmNvbS5icjCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALU+1Q+qREw7w3O2NUasx+2s
+Ia3nftttQDl4g+8ZC10IdYz6hc6kt0kZAEaR5TBv2QUpr4zISIHFgWd0yK3Ob1cH
+UkTrKns1ktGlbDpyBthLmawxGniMGXv1E8MY7LNVAe+wvq2YwXNKgUi9K9JXZJKB
++cJC1sY4bK5pFD5pLx2lJ+o540OS0tHUK67eXOuzwz7cR9F3DTkTWYH5xs8/sYOV
+I0OecV9jP1nd1PmNbKPmQHJCo+xOZJOfLS7W53aoXUsuA7Eb5BHAsLbv6+4G/hyu
+Xri1//0RHTfEtKW+RM5WIQjNeZ7bhPApL7iV2GEdjpwRXdInqRgmrfUnOiSOShkC
+AwEAAaOCAyMwggMfMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUde5Eq1u9+HcOMBSe
+7EfyJUN4cRAwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYB
+BQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnLzCB2QYDVR0RBIHRMIHOgiJhdXRvZGlzY292ZXIudHZzYXRldm9s
+dXRpb24uY29tLmJyghxjcGFuZWwudHZzYXRldm9sdXRpb24uY29tLmJyghptYWls
+LnR2c2F0ZXZvbHV0aW9uLmNvbS5icoIVdHZzYXRldm9sdXRpb24uY29tLmJygh13
+ZWJkaXNrLnR2c2F0ZXZvbHV0aW9uLmNvbS5icoIdd2VibWFpbC50dnNhdGV2b2x1
+dGlvbi5jb20uYnKCGXd3dy50dnNhdGV2b2x1dGlvbi5jb20uYnIwTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQB0
+ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWoa5VQ7AAAEAwBGMEQC
+IFuh7+XXiyjtFC+a3EPqYj5mhAuiggL6CP62KbNnDhrFAiBG+1BIfL3eHMfNpuLD
+KQSAazH2G89xKnompGojFe7lrgB2ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM
+9OVFR/R4AAABahrlUmUAAAQDAEcwRQIgdTBFpMEG79SHvUt5mynGHOuiKggl/gOS
+kXUizLCrvVoCIQCmDtFXv7FDuXKaDyEFZ49cl5JSF4bN3HEo1Fkm+DLQLzANBgkq
+hkiG9w0BAQsFAAOCAQEAWYN9PlMpEHt4JryvuuSouiFeU2HNwFAMcJk9+VkC/ZYv
+0NCgG0Ryhble0kxMyZwTdTzTYBm4W713AdTFPNDznfWQor0OvUo5yeU2iYtuW4fL
+2NGIEcBuycRCft5Ns5SkiNTpLigbEC9RrbZk2lNpv0ZEBH5l5mpXsag80pWBaXYx
+q4u1J7xxnA1CuNd761IWSvo1JeZH/Y/gmXiCUbHmQbecWbki6WbaWGlXxeHNZstb
+aKKkfpRls7qv3YTqYx5QEDRT740+d9Rqud4gg0ZKiAcKEBcy/R6f6uSGYZSigaFw
+zahyPkgQcWufMQKhesypE9e7b4wXhUPutY8Hh67LEg==
+-----END CERTIFICATE-----
+subject=CN = tvsatevolution.com.br
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3466 bytes and written 463 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 1AF4B72ADC4BE4EFE7534164F491F0A140F630809CAECB05EA14F21D536BC106
+    Session-ID-ctx: 
+    Master-Key: F72A0FFF37F226E1328FF675489696EEB1AB0EAAC0EBA43D53A05473A2E103EEBF19FE7415D2F84B62BE024D2D4C55B2
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 49 18 35 41 a1 ed 6c de-fb 8c 43 07 34 e5 b4 a9   I.5A..l...C.4...
+    0010 - c6 70 45 7d c3 52 7b 70-46 46 d8 29 6d 42 4e 7f   .pE}.R{pFF.)mBN.
+    0020 - f0 31 bb fa 13 db b7 c3-fe 61 3f e8 f6 32 51 c7   .1.......a?..2Q.
+    0030 - 57 2f d2 e6 d7 1b d1 0f-31 bc 5c 04 15 4a 63 ce   W/......1.\..Jc.
+    0040 - 61 ec 43 8a 72 4d bc db-71 69 97 93 66 64 6b c8   a.C.rM..qi..fdk.
+    0050 - 15 e4 eb 73 c9 6c fa 2b-65 e2 42 07 5b 7f 87 66   ...s.l.+e.B.[..f
+    0060 - ca 16 73 a4 59 a4 d8 4f-70 a6 84 0c 17 56 ef 96   ..s.Y..Op....V..
+    0070 - 34 03 80 8a f5 ec 45 e1-00 1b d4 16 8c 03 f9 23   4.....E........#
+    0080 - d4 a1 c6 1e c7 3e 5d 4c-90 6a 39 2e 84 51 e3 ba   .....>]L.j9..Q..
+    0090 - 9c d8 6e 30 88 9b dc 26-6e 75 5e bf 07 79 84 ac   ..n0...&nu^..y..
+    00a0 - c5 db da 36 92 5e e2 41-48 1e c4 54 1a 6b 11 13   ...6.^.AH..T.k..
+    00b0 - ee 7b ce 37 1e 24 81 d1-98 87 be ef d4 f4 5b 4b   .{.7.$........[K
+    00c0 - 59 58 cb f8 57 a9 bb b9-3d 8b 0b 79 3b 69 26 80   YX..W...=..y;i&.
+    00d0 - 58 c9 84 28 0a f9 d7 4d-78 1c 61 29 51 71 1b dc   X..(...Mx.a)Qq..
+
+    Start Time: 1560258019
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

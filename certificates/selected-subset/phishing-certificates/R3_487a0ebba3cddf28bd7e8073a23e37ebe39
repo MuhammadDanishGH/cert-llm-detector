@@ -1,0 +1,65 @@
+https://www.voppass.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = voppass.top
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLzCCBBegAwIBAgISBIeg67o83fKL1+gHOiPjfr45MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTkxMzUxMjJaFw0yMjAyMTcxMzUxMjFaMBYxFDASBgNVBAMT
+C3ZvcHBhc3MudG9wMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy+Qr
+UUYu9IbVvM8QZRvPVoOElbO0/XO9aSb6XtG0FAXtBl5Iz4PdRZhhL0UJB0AzzD/W
+q+/6LFSIEEmsY9IfpkoPB27lW4HBOa16hzvWn1wc/6SCUCjiGFoXcwgkkpzYefDv
+467QCc0sBOi3IDKfRWfJKOBSjlq8s3H9zs8Ly5gpRiTvm1MhlA1DP9Pl8ndRsrPI
+1GAXI5DizzwVxlYIjBQzT8uiA2UxOs74SD68f1qg0f7UC2jviybrPxIv48Gw64AW
+O7XMrAKfity2A5rdPLkag8R6qZoX3GqekpfSQrbztd2LJECWFP9vc7F/PpNYzFgB
+/9Q+26Ku2kdgbGRloQIDAQABo4ICWTCCAlUwDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBQueTAzp1nMMqsNk8FLRMZrxywIfDAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDm
+H6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5v
+LmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzAn
+BgNVHREEIDAeggt2b3BwYXNzLnRvcIIPd3d3LnZvcHBhc3MudG9wMEwGA1UdIARF
+MEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6
+Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcA
+RqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9OK48HgAABAMASDBG
+AiEAh7ia4dGlhjo+a3iNNrUNHkr197G8DSa37wdcP/4pin4CIQCunTFu/Yc54ZJV
+HvP++vT68AtKZ18iVLNQ9qH8SuLkCgB3AN+lXqtogk8fbK3uuF9OPlrqzaISpGpe
+jjsSwCBEXCpzAAABfTiuPekAAAQDAEgwRgIhAJyyTk6f1iv1fEHlvLywu/1OjqH/
+X6ndfu56Em30P6WVAiEA/L06VTzpxzCnsN4AE+/Mex32A9M9BNmZbf1ndjb/dOIw
+DQYJKoZIhvcNAQELBQADggEBAB1KqQywaNbPnicdB3bbXAobO4wibwvVsZqoqert
+QYVgAFi3mw2nExYDXfbhDye36iMb01sYPN0VqIl2mFhScgfo6Gp9vGeHnknuIPiw
+rkHkzni5WOHoFN/qWBm4SVqZW9CB/gpVE4V7dRYr6v8cAqOVS08zkyVBu31Lmd+P
+fd/s1CXoaIhaQQowQqqchFuLGIkgNkuoOf505QYBmnPFutE5ccLYzAanHpt/u/is
+n8Txss22AxjlERUgmACeEXg/IOC89xOeudzcUNUaHYBYabU+D+4ihqRCi8EcgPRk
+X6r9Gs2OKPTl/7wbH3MN+acfy9UMIurLFMxQZQl8zOeQuRc=
+-----END CERTIFICATE-----
+subject=CN = voppass.top
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4587 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,64 @@
+https://tilhealthcare.com/ssl/?email=user@calstatela.edu
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.tilhealthcare.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXDCCBESgAwIBAgISBABazmdIlRNOLowcCOm7aRYWMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MDYwNDM4NTlaFw0yMTEwMDQwNDM4NThaMCAxHjAcBgNVBAMT
+FXd3dy50aWxoZWFsdGhjYXJlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAJwjxLP5BqvR6FlNvyUuxGt/JODNrOQJT+EiULjXY6B8MWvgwL829rUa
++rjiN+MKlfx4G09/yze8/3hZtyDE8vBX8+xZaKjYUA67nJzyFOVYb8vRe6WaQhi7
+Oey4IDyu1Y8CybHxOkAmzkkYXAuLqGEKZ80A974Ix+oLkFy2g3C4cTwB6M+W6p6E
+W8XpfAM19NfUmF31ZRrkr9yEpng7BxC2OTOL7c3P9TneSUDvTMXx/xKJ2RTR4c/7
+dD9D2nZeF4DIpPoLVeyYs8GMXLs2dUu76ndB3Y9OfdqnN3lNoQnuurEndOArs5u1
+kV8Vk6QBcifWGonQxyQRCzIJrjlKYiUCAwEAAaOCAnwwggJ4MA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQULWoOO72bl9mVSDz0cImkws/NXmswHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wSwYDVR0RBEQwQoIWbWFpbC50aWxoZWFsdGhjYXJlLmNvbYIRdGls
+aGVhbHRoY2FyZS5jb22CFXd3dy50aWxoZWFsdGhjYXJlLmNvbTBMBgNVHSAERTBD
+MAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8v
+Y3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AH0+
+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABenpTpNMAAAQDAEgwRgIh
+AM+NPiAsK7I0jO7Gm09HjqkC1vPSeMzPwWqvB3m+aVYDAiEA/6S0bsobN2rfvphl
++ERFZwgdm1sRu+IIxWF+jaem5dUAdgBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/
+0zOWtbaBqAAAAXp6U6WRAAAEAwBHMEUCIF5DTXr3oeb1Put8eWJO4eK9JQZNe0HG
+LDTbQeawjzzEAiEA1TfekHkgxMUiLqh42HABVc58eCEqOVLQTwx/+YjGmFEwDQYJ
+KoZIhvcNAQELBQADggEBADYhsT5zjGOvVQWXgTGtXyXL8wQZVzNFaSzDDrxPsd1Y
+w2P+/Ds11Lu3BAhRH2/Q5isBjqeHa7r9fgMu2Gu3zRh4n+qqyV4jYJjX4pMZ2sH5
+QAqjb9nRAmwFSJfCRpaPnqdsWAXH2hSIolrVABPA//MwWgTDTPwqIERvnFTNwrK9
+PgJb0eZymfnKYPRnG7dPOWljCTSPadHZ9MCsLerH86foj+Q7rEH8hOo0b6OHq6Nk
+vVzsGEz7Pct9O29UV/Ny109q0BxEQN1TEMK9nn6IqjuWIHvAT1wDI3rWDlmQrDMb
+BNw+8y8ykv0k0J9vyZN5Mh3UKlvvKEBreYS+oY4Bonc=
+-----END CERTIFICATE-----
+subject=CN = www.tilhealthcare.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3231 bytes and written 375 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,72 @@
+https://www.lcmusic.com.br/wp-admin/com/images/schwab.com-RD588-detail1/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = lcmusic.com.br
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGfzCCBWegAwIBAgIQYF8wkTAXAcUu6AGuB5hSYzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDYyMDAwMDAwMFoXDTIxMDkxODIzNTk1
+OVowGTEXMBUGA1UEAxMObGNtdXNpYy5jb20uYnIwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQC0J7GKx8HFQyiabWkwCieJE9x16HjNiOCreWSeFCr6N+YW
+Kw9tgL3sOanWdA5hb9moNyPqhONNtU8EEnU+m1iwNThLcbogZo3hRy/2qaUgvF5v
+/tayh1TG11NomtTFjG9KzwQJcp6nrY28mhrFSaHL9iiglL4yV1/baNQ/as4oAGif
+MNo77xgwnbHrF+Cjn1lPG4HbpifOpKRc3RPffNWAi6L2VGWpoDuwjxIFFF2hayrI
+v1zfNrcHCAAabn51NfyBIcSVbud5BqCyf8zWThgF2+vllMviBq94dYn7NnhVHlmZ
+JNYIVnqNY/WXAIF9FgUSpeJbWXLGQ9lF3v0JA5+RAgMBAAGjggNoMIIDZDAfBgNV
+HSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU+D718eoQyg7Q
+o6adLTo6VZRpdawwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQEC
+AjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EM
+AQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29tL2NQ
+YW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEBBHEw
+bzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVsSW5j
+Q2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9v
+Y3NwLmNvbW9kb2NhLmNvbTCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AH0+8viP
+/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABeidint4AAAQDAEgwRgIhAOfu
+GVrNUIy2vyOAmoeAZlyR+WbyWybbhBHnaR2tV6knAiEA6awbP/CX7IclRaT5GJZ2
+gvZneFWwd0Zd+n+E3XDz5bgAdwBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOW
+tbaBqAAAAXonYp6cAAAEAwBIMEYCIQDYU01eCgsTz3nNJuD6hJreNJnwSjgk+ExW
+DT+VhA3V/gIhALd6en1CwHxMlLHg+8ZA60n0154Yg8MIqJoWaqVZdvviMIHCBgNV
+HREEgbowgbeCDmxjbXVzaWMuY29tLmJyghVjcGFuZWwubGNtdXNpYy5jb20uYnKC
+GmNwY2FsZW5kYXJzLmxjbXVzaWMuY29tLmJyghljcGNvbnRhY3RzLmxjbXVzaWMu
+Y29tLmJyghNtYWlsLmxjbXVzaWMuY29tLmJyghZ3ZWJkaXNrLmxjbXVzaWMuY29t
+LmJyghZ3ZWJtYWlsLmxjbXVzaWMuY29tLmJyghJ3d3cubGNtdXNpYy5jb20uYnIw
+DQYJKoZIhvcNAQELBQADggEBAHn+MI2E1SZpPqFI++GdlLP0EmNkleswZUu5a3tK
+uPFXhH37Vl50Zz7vbp80piyFvUMDzO/MVGHD3LL3wBJ7dv0sQTgLpNI5Wio7mHgO
+Dx1tkn3alI1LqYITSuaNeeOKjWvrOlGTiTQ6r33qVHSQ5B8GvlCQvECy2pBebbZj
+jXiImq/e78I8jR6VyW+OkXbieTxo0/r01WQu0d5ATl8I4CpawbwgcmXe1O81vJnW
+gasKlisEoeNnZr/ngC38ryAIrF96163x9soDOFFSMN7GYyUQm0x+kVBp3YvCndPh
+tW4TQtPVm9I1/poXE1GB2bSOKzEVH5IJGUGh2hiu4DlJZvM=
+-----END CERTIFICATE-----
+subject=CN = lcmusic.com.br
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5172 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

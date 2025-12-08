@@ -1,0 +1,75 @@
+http://www-chatwhatsapp.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www-chatwhatsapp.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG/zCCBeegAwIBAgIRAI2Kb9gRBQFIzhtyRu60yowwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA3MTgwMDAwMDBaFw0yMTEwMTYyMzU5
+NTlaMCcxJTAjBgNVBAMTHHd3dy1jaGF0d2hhdHNhcHAuZHVja2Rucy5vcmcwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC8iNJrYjxOj3fshyw364FyLuaT
+DeD/1ZD+RJxeNp5pPwxPTp2wQU9kzhcEZKXcLAFjdo0L7C8Ew1MCqSr+gouhclnX
+1A7D6/cl62KdECXFV4w4YyMOo1mM6Z2i5iDAU88SC83XO2JABYFyPz4rqahQG4ud
+ve06SXQipNVTnYw/K6ogZaRIC/8KpbHX60cWpnWn/ZgXE/9647bAss+W/iJS4UlB
+SGz7UN5Ggp4MVUIQE32itA4qzKMGIj8BhAVpv7xsJ0rWPPRQNI+7lcOfMOlmPMZ4
+rPLfiKr05Pbtc+0dK6DOVuNGEDCE8yLTTwrI+fgwcYg1y4/3WIBPWuKGsEYPAgMB
+AAGjggPZMIID1TAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNV
+HQ4EFgQUOox8GxBTvdfID96bWqG53jaTXhwwDgYDVR0PAQH/BAQDAgWgMAwGA1Ud
+EwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARC
+MEAwNAYLKwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdv
+LmNvbS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwu
+Y29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3Js
+MH0GCCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYB
+BQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIE
+gfUEgfIA8AB2AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABerlz
+0/EAAAQDAEcwRQIgXJMvcFi9XutxiY/HDSo0yfyhGt6Y5u9kf1Oj2e+pTGcCIQDH
+NwStF9ewEevQCgM5CuCgiwXOEZF4UsavV9LXKQ/WZAB2AESUZS6w7s6vxEAH2Kj+
+KMDa5oK+2MsxtT/TM5a1toGoAAABerlz078AAAQDAEcwRQIgTCondM1hJhgxWWHE
+AIzmT++WQ9H8pndSys4HyP76MhYCIQDcEo9uXgODcQ18t8LGGDkJiBuJ4becHisG
+7I8PPKjwaTCCATQGA1UdEQSCASswggEnghx3d3ctY2hhdHdoYXRzYXBwLmR1Y2tk
+bnMub3JngiNjcGFuZWwud3d3LWNoYXR3aGF0c2FwcC5kdWNrZG5zLm9yZ4IoY3Bj
+YWxlbmRhcnMud3d3LWNoYXR3aGF0c2FwcC5kdWNrZG5zLm9yZ4InY3Bjb250YWN0
+cy53d3ctY2hhdHdoYXRzYXBwLmR1Y2tkbnMub3JngiFtYWlsLnd3dy1jaGF0d2hh
+dHNhcHAuZHVja2Rucy5vcmeCJHdlYmRpc2sud3d3LWNoYXR3aGF0c2FwcC5kdWNr
+ZG5zLm9yZ4Ikd2VibWFpbC53d3ctY2hhdHdoYXRzYXBwLmR1Y2tkbnMub3JngiB3
+d3cud3d3LWNoYXR3aGF0c2FwcC5kdWNrZG5zLm9yZzANBgkqhkiG9w0BAQsFAAOC
+AQEAMBFQiuzlfyG6BNqpSUylSkbrEYOr2QUJbDFzYExBE+Hh15z4OvGcTEUPrBTP
+PR+W3/G/wz2Q6GBnlVnpbMiN+9uacdC/B+1QsYgP4S4oYCm2fy9+iSwdbV8vNu2g
+mshAGrSTClg6LHL9B7H21P+s/GNbBiHSaiVfuMdCAR/QbVqlwrsLS+jbwEQD+P9W
+un/WadU5ZuH1rVYFU7AissIn/oyFJE5JLZzedAe5yaZlN2kzWgXxle7DD0ihIG9L
+xIT1EGtEQbtt8Nxq+5PdUrAnpVykH9FPzqrVrFq0sDDMzc3nLrFHOO6pMssb+LeL
+dhOYDBWhsKi2b24ngi2I34BhSQ==
+-----END CERTIFICATE-----
+subject=CN = www-chatwhatsapp.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5230 bytes and written 410 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

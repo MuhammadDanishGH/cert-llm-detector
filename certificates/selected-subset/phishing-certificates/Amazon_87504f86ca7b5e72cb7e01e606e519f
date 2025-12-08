@@ -1,0 +1,72 @@
+https://main.ddwyhs72h9ve7.amplifyapp.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.ddwyhs72h9ve7.amplifyapp.com
+   i:C = US, O = Amazon, OU = Server CA 1B, CN = Amazon
+ 1 s:C = US, O = Amazon, OU = Server CA 1B, CN = Amazon
+   i:C = US, O = Amazon, CN = Amazon Root CA 1
+ 2 s:C = US, O = Amazon, CN = Amazon Root CA 1
+   i:C = US, ST = Arizona, L = Scottsdale, O = "Starfield Technologies, Inc.", CN = Starfield Services Root Certificate Authority - G2
+ 3 s:C = US, ST = Arizona, L = Scottsdale, O = "Starfield Technologies, Inc.", CN = Starfield Services Root Certificate Authority - G2
+   i:C = US, O = "Starfield Technologies, Inc.", OU = Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGEzCCBPugAwIBAgIQCHUE+Gyntecst+AeYG5RnzANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0yMjAyMTUwMDAwMDBaFw0yMzAzMTYy
+MzU5NTlaMCkxJzAlBgNVBAMMHiouZGR3eWhzNzJoOXZlNy5hbXBsaWZ5YXBwLmNv
+bTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANe7yIzATKs1PvDrsZCV
+MlW1mx8gB9sUg1PcET7NgO6uSDBzaN9wvxGGl/Kr+ll0MsCQRdVkAsAuEgvWt6SL
+o7mPBQJlswpM9oyjvTkKyNAXrjgrTowVLqdq6a2zzEHdbQ+ByiOZ9ws4AolUgUOd
+zsZeuUHSRWFisiIpazBcdK4uo579wA1VGeZ1uQdG+EsLAkIZOkdf/Lpo50z+fu3h
+KmyaB/7BdN1hw5MM5l89++47ofWRnNM/rjeUH94y2bOH2ASXXry+JQpVL471im4d
+gzNxUhKFRKSEWCWue/qk0i3ieDacUWQwpxqwaTCH7oiDqsPIeiq6vPsczwxC2nDH
+x7kCAwEAAaOCAxgwggMUMB8GA1UdIwQYMBaAFFmkZgZSoHuVkjyjlAcnlnRb+T3Q
+MB0GA1UdDgQWBBTolE0GVgcKXSm0LUe4pjLzkPa+6DBHBgNVHREEQDA+gh4qLmRk
+d3loczcyaDl2ZTcuYW1wbGlmeWFwcC5jb22CHGRkd3loczcyaDl2ZTcuYW1wbGlm
+eWFwcC5jb20wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjA9BgNVHR8ENjA0MDKgMKAuhixodHRwOi8vY3JsLnNjYTFiLmFtYXpv
+bnRydXN0LmNvbS9zY2ExYi0xLmNybDATBgNVHSAEDDAKMAgGBmeBDAECATB1Bggr
+BgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnNjYTFiLmFtYXpv
+bnRydXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0cDovL2NydC5zY2ExYi5hbWF6b250
+cnVzdC5jb20vc2NhMWIuY3J0MAwGA1UdEwEB/wQCMAAwggF/BgorBgEEAdZ5AgQC
+BIIBbwSCAWsBaQB2AOg+0No+9QY1MudXKLyJa8kD08vREWvs62nhd31tBr1uAAAB
+fvy1E4oAAAQDAEcwRQIhAIwZPJL0154gazhufGzXavZ5Zx57IWrksqmVjwJtL4x5
+AiA/fB5P5hzUeSQy2+3zi9x5Ov0csUKLKaiQOsXxSKvvPAB3ADXPGRu/sWxXvw+t
+TG1Cy7u2JyAmUeo/4SrvqAPDO9ZMAAABfvy1E8kAAAQDAEgwRgIhAJhr3W+KKnJ0
+R7DAI0jetSOSpscpTq+tX9wklNRuZUzGAiEA5GgHPl2Di9Ht2FDMNQt+Fy3NRfSo
+gwQMh+o7ovmh3O4AdgCzc3cH4YRQ+GOG1gWp3BEJSnktsWcMC4fc8AMOeTalmgAA
+AX78tRP5AAAEAwBHMEUCIHEF87V2wALgmV75AHCrYHTvykfTyAXkSFH0cOn22Uql
+AiEAu4RpChQ+i8G0LEX60gmE7PlopoFqadV/6IWFwIaGQ1AwDQYJKoZIhvcNAQEL
+BQADggEBAI55XLBMFgDlmN5D+5pCWQpzZitIlveAdqwUiMU3DlVXeXwCjDOIx/I4
+VP2EixkztFp+8L76hdPK79Fjpz6R9PCYSlwzQwNvioFsv8IdSup7Ywcf0Rc5l18f
+1jALlRkYz2fx1FA5cGKsEMLGyv3bTAUV4oYRl8ogb+2BVu8eVvc+VT/M0UT8BBfG
+4ikOu7A2dNa4rVmgNy7Ga+irqn/vl+qQd6I8Jc1PtEVvbIIVOnyyKqRL6ucK6qz1
+UYMRQdtNj6c2A+o+e6rj5J9halokb7G49Jp1R3PqGDWWf1n+6KVWKNCSxvqtBkZQ
+VkwGlPyx3al7O0zVj4MWL+HATWCbSNY=
+-----END CERTIFICATE-----
+subject=CN = *.ddwyhs72h9ve7.amplifyapp.com
+
+issuer=C = US, O = Amazon, OU = Server CA 1B, CN = Amazon
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5538 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

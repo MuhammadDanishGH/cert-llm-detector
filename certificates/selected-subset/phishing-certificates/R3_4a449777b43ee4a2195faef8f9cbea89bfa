@@ -1,0 +1,66 @@
+https://vpeos-ne-inbex.jp.ea32gb.v0o5wtc.cn
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = vpeos-ne-inbex.jp.ea32gb.v0o5wtc.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTDCCBDSgAwIBAgISBKRJd3tD7kohlfrvj5y+qJv6MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMjAxNDIwMzhaFw0yMjA1MjExNDIwMzdaMC4xLDAqBgNVBAMT
+I3ZwZW9zLW5lLWluYmV4LmpwLmVhMzJnYi52MG81d3RjLmNuMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEApKItxEwXospPo8OKZL3X1u+MWIOVZ4P799uI
+/SVWfqPAqPyOIzQxLV3XBb1toIMrwuwcW1ciGOLRPW6SN022fTetceRr2rl24vaa
+KusMoc1Qp3TEGNUsSFaDENsHgqEV7NYmdkecti+aZZhG2xjdra29sw7xQ8g5JJkK
+0B55QiX5XffhDjhaxDUJZYyyGy4vB890EMcPwBCeSGUvWlMtDmLO4raVbA3SEnsP
+TrfICQ9szZU0tAwh5Mp36atKTa9gsBxJ2Qh86XI5VNDk+XrDuvt979F85jdpB53b
+28y1OuH1UGkrC5t1ZSiemVr8wYAzgeOiavcPSjaqxDie46B0ywIDAQABo4ICXjCC
+AlowDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSk9XLD79hHwtGaj6IRlbp/KHLeCzAf
+BgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcw
+IQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYW
+aHR0cDovL3IzLmkubGVuY3Iub3JnLzAuBgNVHREEJzAlgiN2cGVvcy1uZS1pbmJl
+eC5qcC5lYTMyZ2IudjBvNXd0Yy5jbjBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AN+lXqtogk8fbK3uuF9OPlrq
+zaISpGpejjsSwCBEXCpzAAABfxe4dNsAAAQDAEcwRQIhAOG96ZQjuemwvnfDWYZU
+HVA3yHM+pYlI5oIchW56SqbmAiBktlx+KoBXKCyEfFvLL+X/RZFTJ7OE+x3nO4MD
+IHWTCgB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfxe4dNIA
+AAQDAEcwRQIgbuYPgsQJmr6496Wq4ggyOhY2jSHuDTYMgcA6Qo8j1p8CIQCyGnqf
+b6lEGttR+0AEanj1xv8Wigfka9KrjXnaoO94PDANBgkqhkiG9w0BAQsFAAOCAQEA
+XcR/eR2CHevIqCJXwtM+nBVfcRcEYb5BIGscm/wEGfE0Ah2L6yzp5M4euhnWAK51
+KJ4SIxDmvwPQ05G4N9h8qTNNfxaJ2FqobQG0QlbBvyZQcDO19Sxmz69HZNwI2hSv
+3JHaCGLKCYDhoGgW4/fllreKluNhCV/BKo3QcRmJCrqnB2X1vEXHaYfp6mVAgGcA
+I5BAB1/D+APu3SjoIPuLiDK9LLQHKbhKZspUy5IDiPJWati9k56pmLjU9pbz91tr
+T2GItLk6A6/Go7I7/w8h8syw44DwhvjH9m+A60SIZYMNQ+ksLZh9av/Nq6m0UdTA
+lBI1qgskoKqOClwG1jAUAA==
+-----END CERTIFICATE-----
+subject=CN = vpeos-ne-inbex.jp.ea32gb.v0o5wtc.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4616 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

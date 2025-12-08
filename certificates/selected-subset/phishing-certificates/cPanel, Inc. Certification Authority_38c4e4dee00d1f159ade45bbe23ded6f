@@ -1,0 +1,74 @@
+https://asdasas-chasesd.ddns.net/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = asdasas-chasesd.ddns.net
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG2zCCBcOgAwIBAgIQOMTk3uANHxWa3kW74j3tbzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDcyOTAwMDAwMFoXDTIxMTAyNzIzNTk1
+OVowIzEhMB8GA1UEAxMYYXNkYXNhcy1jaGFzZXNkLmRkbnMubmV0MIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxl7L33qqCBo4GNZsA0hrkwqaKDBNHmfm
+F22u9g/penoRVh3GvLN1SdtvAIDKsoAb13+wOZTKl2fgNqM4vdqK7yytsp99habP
+pZOofa6GAi2azHryl0+0dz0usaKDAc/jieZWxisVnh+NjM0KNaHtcy3HBsT9kmMb
+mZt1TKLZkOP/RsW9anm8XCkD+Gp7mTsaQNc/0zuKCHBmbEIKYc+2yOPSwGsmUErC
+5L5TtbblLSgUowpF93mXUcFt92YSb3GCCrsG7Zl2/udWf0l0x3swFgg2ozjLae8V
+/Gz6Wwoz2wmnC73+4/DveHpV75TMW0E6yXxceMSBaArB/RZ6/Vj2lwIDAQABo4ID
+ujCCA7YwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYE
+FFUFYlTqrn6FgJuZwvtafr4Pump1MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8E
+AjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQG
+CysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20v
+Q1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9k
+b2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9Bggr
+BgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzAB
+hhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEFBgorBgEEAdZ5AgQCBIH2BIHz
+APEAdwB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXrzKODWAAAE
+AwBIMEYCIQCA7LumwjYMcAedHBOpDbT3mBtV/u16f1r4naZ1imQSxgIhAIiofKyo
+TtyNO523csGhqKeYkqfj8J8ILIBlv5oMR8n5AHYARJRlLrDuzq/EQAfYqP4owNrm
+gr7YyzG1P9MzlrW2gagAAAF68yjglgAABAMARzBFAiEA8uzrXcMHK1qZdN0aiUOC
+HSdC0L68qxS8+xpkj/6VpMYCIH2KPljV2L9oqI1cI/5IaIYTYm3VoxI67EMFx2l8
+V8lkMIIBFAYDVR0RBIIBCzCCAQeCGGFzZGFzYXMtY2hhc2VzZC5kZG5zLm5ldIIf
+Y3BhbmVsLmFzZGFzYXMtY2hhc2VzZC5kZG5zLm5ldIIkY3BjYWxlbmRhcnMuYXNk
+YXNhcy1jaGFzZXNkLmRkbnMubmV0giNjcGNvbnRhY3RzLmFzZGFzYXMtY2hhc2Vz
+ZC5kZG5zLm5ldIIdbWFpbC5hc2Rhc2FzLWNoYXNlc2QuZGRucy5uZXSCIHdlYmRp
+c2suYXNkYXNhcy1jaGFzZXNkLmRkbnMubmV0giB3ZWJtYWlsLmFzZGFzYXMtY2hh
+c2VzZC5kZG5zLm5ldIIcd3d3LmFzZGFzYXMtY2hhc2VzZC5kZG5zLm5ldDANBgkq
+hkiG9w0BAQsFAAOCAQEASIx85YoKGvafySH3KOk9QayyFovoxQVAUQNrf3TfQKJZ
+qiuC1phzI6+IG6Gf/KfE/Cht1r3UutX3zECRTQbBh+EPYZjPHV+NvbZK8lWmWu+T
+cyCUDtlmPGp8JgBZ8u7q9F8Sfcf1RBikfhWMmGhIcW4fgRpMC2k1EoO80lM0EQwN
+oQr4nGM9bbcv59Za4wfreloTArqSAwzUYW/DgoPtaxtyxbHtHNCaSSQhL6gYjHTa
+Jx3Lkgp3r5PohRm85wGYpmsA12tzhKR7Kpr9ITdkEfi+4wQMPHXb2XWyQSUmuugZ
+P2h1PhXG1fv2Bkg1PctoXoBnG8OQRnp6fhRWFLxbZw==
+-----END CERTIFICATE-----
+subject=CN = asdasas-chasesd.ddns.net
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5264 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

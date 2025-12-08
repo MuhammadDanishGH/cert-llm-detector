@@ -1,0 +1,65 @@
+https://manasyatahucukz.com/r/sKmqR
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = manasyatahucukz.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLTCCBBWgAwIBAgISBMgIlQThxk9hkr0KeLtgjeiiMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDQxOTM1NThaFw0yMjAyMDIxOTM1NTdaMB4xHDAaBgNVBAMT
+E21hbmFzeWF0YWh1Y3Vrei5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDhpfYLUbZYJUjmUqxCHJP3M+EhRtuh4KQ2L1A9y4kixI46+1N/IfKpQBAS
+ZXDk1GRJNw3B5LN0ZWuLSYsZwLISzWpmRk5gnznMlgIPRNmuOr8gaEdMiokvpffy
+OsuyrMnpGQpqm8P0IBBT6SKPHFnYknsji2bWG/ysiO+8pHI4FbcxhoEb/Uvtnncq
+HKJ8QULrNopY38/M76JOb5rEVmBlAw6EBVOmv6u042Ai6eWJ0N8qicYhAwAX1rQ9
+y+fV+Lfl14wuNMFo6Y6X/5u0fmLCXIP7URiFLkgDXTK8aQvzwHAXbvJsN5z830FA
+9cgY+4a1JBuZP2f9jV6ROxHtSap7AgMBAAGjggJPMIICSzAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFJlG9Tb1Fq6Qa0Fhmwxqj58uTamWMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMB4GA1UdEQQXMBWCE21hbmFzeWF0YWh1Y3Vrei5jb20wTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwBB
+yMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG9gAAAXzsqlWkAAAEAwBIMEYC
+IQDLZDnT/NTrCRhZutfACdRfBaP4gvgDFO/kxaDkMmi7awIhAMfFALfzjX1oPDQ6
+uue3XxC4GgG94aAib+CcIoZel0MmAHYAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5
+TV0mXCVdx4QAAAF87KpVlAAABAMARzBFAiAtCm0Jq8YbbB+0RZqvu9RuJHY/d7tf
+3lRngrQ7KOWW4wIhAJL33/0J2Cu4OJbPh1+NWXLQAuKGy9P5fw2/Xqsn/4KIMA0G
+CSqGSIb3DQEBCwUAA4IBAQACMeEpcNy/wxFI2kSqfM8KYsCbIUBYs1akdFN9kjgX
+X+ki8wFlMwrnkv1N3Exg1dsunvajwFRQ44pI84wIRPF+kKr5BN2Tg+gWRMUI5Ajz
+ekTek3FCfY6pTgfA+IvYMxzH7CpEdrJN3G8H3n5oGhxgniJdV5WjvFOZ+6kK0BnV
+5+mEvp4+JFZVF90NjVWwwknJyUcF63wNaNTDr/1MbQ0ZU9effdKqbDHHzUtUoR+5
+7NPZ3VtzVChGATfjLB5PghF7JbHnOUTQ13+0uxBuIHwUYbi1FXle/0rEHnNzIbor
+A7BH1MQ1WVkLAJGIf0QRE/G5P5c8d9cyR4G4QREdZmxM
+-----END CERTIFICATE-----
+subject=CN = manasyatahucukz.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4585 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,93 @@
+https://curefect.com/Account-Verification-case-id-yNzFnz8874MifS804rZRneyzQcS9DLeMyIA28hk3m782j1Ls-4be8nts1Z-WOs84CyKZL1Jvq7l3brVYllA_bm7IpsQdICIxtYvX1ReGt-TBDdttCbyRyLfVX_fT-jhnX2w7n5-O74WnL0KlPAhYH_kqMbqqq8dAFr7va6lyA4g/signin/customer_center/customer-IDPP00C855/myaccount/signin/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = curefect.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF1TCCBL2gAwIBAgISA9/c/olH7a0l1w7aAw6IBjP7MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA0MTEwMDM3MjJaFw0x
+OTA3MTAwMDM3MjJaMBcxFTATBgNVBAMTDGN1cmVmZWN0LmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBANraWRzhTTIQaQrB8IwxdzBMRTkXFHhxJnIU
+qiB384N/7ST4a8kEp7TPAWR436OxUY9XoTIvrTWx78wG3rcf4dxpP6yrwNnQ582z
+XkR1f1q49Wyu2U61u9ZyOQfsgG6ark4wjcwnq++RwLETtBa8bT0Y9nPAs12P7Lln
+sRzpdlddJt7iLUNx9rj2NPa4zHPjj+1N4Wc14ukpJCVSFH6m2casaOVIZQx3DaSs
+bEV44dPxGlvYFX9FAMFu7LfeggZuEkHtUGCQSrkPUVRTOJkv3HpSMaqXysyOV5Nf
+9EGZ7KoEpX/kpTer2TLyTyWcL32f2aOQHMZ3+ipMGYSy+qlrnjkCAwEAAaOCAuYw
+ggLiMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUZkktrkgWYA4C5wqk7ZHHAu30i6Aw
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzCBmgYDVR0RBIGSMIGPghlhdXRvZGlzY292ZXIuY3VyZWZlY3QuY29tghNjcGFu
+ZWwuY3VyZWZlY3QuY29tggxjdXJlZmVjdC5jb22CEW1haWwuY3VyZWZlY3QuY29t
+ghR3ZWJkaXNrLmN1cmVmZWN0LmNvbYIUd2VibWFpbC5jdXJlZmVjdC5jb22CEHd3
+dy5jdXJlZmVjdC5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMB
+AQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEF
+BgorBgEEAdZ5AgQCBIH2BIHzAPEAdwB0ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3
+NXnmEHvMVgAAAWoKCtDXAAAEAwBIMEYCIQDMPFX6jF91MybOG3ocSwm2rkf+ftKa
+8x9Mg/cf52kaKgIhAIu8dzHpr1welZHAmfWg4ammuD5Ekl39j2eHyoUotczVAHYA
+KTxRllTIOWW6qlD8WAfUt2+/WHopctykwwz05UVH9HgAAAFqCgrQ/gAABAMARzBF
+AiAwVlprZn2G3xPVf+nsh8WlgAuLOp2kA2IcJaaEHkP8vAIhAPn+RYWUDToDpONG
+5gVTVf6CURm3Vfm15p2ezC6QVuRnMA0GCSqGSIb3DQEBCwUAA4IBAQAIkT6EYFh3
+rB7Uh+EI6pCXHrf2uTvQhiXOGIDq1XQbrQ4sq0dzC6wQEjQyXLD/2WoB/aUMWcHG
+Va+QOsZJw13Jdf6pznvWCetmXO6kVr/A6c5b0CMAP/azCk/yOkSa6NOVm7jHpIGG
+wrWRBnN0oI3N2sXSmTorwcD0fwC7tDdlTshT2c/2Mn40Yt0NI5V1St6fGxdLf04H
+hlPufhI3KsuYBJc7wyctbzLkffwqdeXm0+6N1QD8pkioZbtICx8vNLKscdx7eJIR
+Ytr9nrlwBf5BAXsl0u+3zfm2S3iVtHMNmWOHOkWJlQmWu9K4IpfqX09Tb5/GjL+E
+qjU8g1xAGkH0
+-----END CERTIFICATE-----
+subject=CN = curefect.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3335 bytes and written 417 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: B8A4DF3CA0C7FA568594F3A325709C3B5E1C06C50551062C9631D39C5A044BAC
+    Session-ID-ctx: 
+    Master-Key: 55808A7BA6EA58F9B24CB7DD4ABB6843E181779E04A5F8D873B70613D04EC1B3A76DB63EA1D9971B9F57CFC13B12F41E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f6 aa 17 47 55 3b e5 67-7e 37 55 39 f8 6c 6f 6f   ...GU;.g~7U9.loo
+    0010 - 1a f3 1a 4d eb 58 a3 db-eb dc e4 33 1b 41 bf 8e   ...M.X.....3.A..
+    0020 - 96 79 38 da 54 23 39 fc-28 38 a2 af 60 23 20 0c   .y8.T#9.(8..`# .
+    0030 - ea 67 79 eb 6b bc ab 4a-40 49 fe dd 93 d0 58 ce   .gy.k..J@I....X.
+    0040 - a7 1e 95 2a 05 c9 cd 28-a3 73 2c 15 41 53 b2 bd   ...*...(.s,.AS..
+    0050 - 17 4c 11 a1 27 96 6c c9-fd ba 4b 8a a3 76 8b ca   .L..'.l...K..v..
+    0060 - 57 58 06 f4 7c e3 ed 21-10 93 9e 00 69 fd 61 de   WX..|..!....i.a.
+    0070 - 62 8a 40 fd 96 4a 2b e7-85 84 68 31 b4 ed ed 51   b.@..J+...h1...Q
+    0080 - 6a 08 4e f7 a1 47 a1 d4-83 6f 87 49 97 6d b0 f9   j.N..G...o.I.m..
+    0090 - 1a a8 12 bb bc 3d 7a e2-65 b5 02 e4 c7 99 ed b9   .....=z.e.......
+    00a0 - e3 18 e5 ae fc 3e 6e 91-9e 3b 94 d4 69 07 dd 11   .....>n..;..i...
+    00b0 - db 31 df a9 87 43 3d 64-f6 63 01 39 b3 5f c0 49   .1...C=d.c.9._.I
+
+    Start Time: 1558530023
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

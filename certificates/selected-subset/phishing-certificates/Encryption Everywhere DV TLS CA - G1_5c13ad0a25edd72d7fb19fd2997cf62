@@ -1,0 +1,94 @@
+http://bancitau.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.bancitau.com
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+ 1 s:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF/zCCBOegAwIBAgIQBcE60KJe3XLX+xn9KZfPYjANBgkqhkiG9w0BAQsFADBu
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS0wKwYDVQQDEyRFbmNyeXB0aW9uIEV2ZXJ5d2hlcmUg
+RFYgVExTIENBIC0gRzEwHhcNMjExMjMwMDAwMDAwWhcNMjIxMjI5MjM1OTU5WjAZ
+MRcwFQYDVQQDDA4qLmJhbmNpdGF1LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAIQ+3BWYc0F0NMuVIGXQl0ucO6LEjSAXIQPj+Phsk0vIscgcJxk5
+EQ1UG0NzI94g/HywWoij+D8getvWdXOGQzbOmSI59CzcNqJLamH5GiokHe8EoBNH
+yRkZuA8/6JoJ+EnMjMpN8OznDTMuG76jy3b1fEnBjvE69hweh1C1bpwhebihc3Rh
+W9xrarull/a6UcehtJPvau625QhNulhntyHrV0EMHN88er9GIcbfsIKnMa2jdnry
+b0zYgV3QcPISmr3t36A9LpuQV9p5OPErTw6uUTUMbhW6EQvXA8oy09FMQL8xOOOo
+KBzOzxrDzWKj8vzeBnPcLopVvtkLd/uDG/8CAwEAAaOCAuwwggLoMB8GA1UdIwQY
+MBaAFFV0T7JyT/VgulDR1+ZRXJoBhxrXMB0GA1UdDgQWBBS+hzLVhdqZB0jn950k
+TEXvtagymDAnBgNVHREEIDAegg4qLmJhbmNpdGF1LmNvbYIMYmFuY2l0YXUuY29t
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+PgYDVR0gBDcwNTAzBgZngQwBAgEwKTAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5k
+aWdpY2VydC5jb20vQ1BTMIGABggrBgEFBQcBAQR0MHIwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBKBggrBgEFBQcwAoY+aHR0cDovL2NhY2Vy
+dHMuZGlnaWNlcnQuY29tL0VuY3J5cHRpb25FdmVyeXdoZXJlRFZUTFNDQS1HMS5j
+cnQwCQYDVR0TBAIwADCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHcAKXm+8J45
+OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF+DMvi3QAABAMASDBGAiEAmDK1
+mr2dOUNMJ8WIbjRZL4fMESbwLNVcw2WfQYTWSSECIQDycBsJJl7Cn/O2I4pEwZxu
+M/827Icn6Z0pyCpVc3ujLAB2AFGjsPX9AXmcVm24N3iPDKR6zBsny/eeiEKaDf7U
+iwXlAAABfgzL4sMAAAQDAEcwRQIhAOCuyIYoCwEsC187cs17E5FliothfMUhRoJM
+YLTiDh8/AiB3OjObWjIG75WBZG18v7AKdc2H5WTwQujetTv578H8YgB1AEHIyrHf
+IkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfgzL4nkAAAQDAEYwRAIgAY7Q
+/GWFrRuO05WnjZowo51YgoRfcpqMgGyeJNbN0JcCIAXQEA43YxaqPMnN9QsHOgug
+bHMU3fOsLv9yz+Ftfgi7MA0GCSqGSIb3DQEBCwUAA4IBAQBrtW4YoiPjbUPh5Z7o
+33B7mXVstXa8PifkrZwLWFIv+I6afyZCZsckD10cjhcMc/tSh5R/1BTZvdgw8m3J
+Q+vsBzoe6ogUXKqcyhOmCc2NCXTjFmPvMGsGAzWKcXcSvRo8jlW8p+8Z2Jll6Ch0
+R2gOSIi5qi22ooR3GUiA/1A0LGLVWG9RnuSCvSHIkib1VQwVN+2SamMSkHXTA/z/
+gJJpayMpycwbNWFna5ybFviZwF/MBh2dhSFAsinNtEC7Xln5Qp0aAEdbz3FFFXGH
+d7P3cfoeBGTbrrK6tkHelpeR2fcaXCBkhWyJNW3vJLGYMWC/tNX6F46EaP+NY43m
+NuYw
+-----END CERTIFICATE-----
+subject=CN = *.bancitau.com
+
+issuer=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3401 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: AF318265B4CD2FA4B3947A4CEF2F21793AD6BF0868BA2CD0275FFA7C291B8CCA
+    Session-ID-ctx: 
+    Master-Key: 6CD8A86F4DDE239589B3265B79DDDBB429FD15124795624F77B113EA85627E98F67BE4D6DBB8468E50BBBF6AE0781FD4
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - b1 73 22 16 1c 4a c6 08-3f 81 aa e9 a3 92 9d 19   .s"..J..?.......
+    0010 - 19 08 ba 6c 36 81 5c 13-56 ef bf 37 ad 4b 25 20   ...l6.\.V..7.K% 
+    0020 - d6 d4 ed f6 29 14 f3 bc-90 98 84 b4 a9 b7 41 ee   ....).........A.
+    0030 - 32 a4 28 4e f9 b3 83 1c-17 da c0 93 70 8d 2f 23   2.(N........p./#
+    0040 - 69 93 cd ab 06 02 74 7e-11 5a 61 2c 27 4f 84 67   i.....t~.Za,'O.g
+    0050 - 4a 45 1e 80 7f 70 2f 78-2c c8 aa d6 9b 4f f9 2d   JE...p/x,....O.-
+    0060 - 26 60 a1 49 d4 26 74 2c-f7 86 37 8d 1c d2 eb 05   &`.I.&t,..7.....
+    0070 - 24 12 c7 21 d1 68 14 c6-7c 33 4c c9 35 4d 9f 79   $..!.h..|3L.5M.y
+    0080 - 6c fa 78 fe 80 75 42 15-1e 1d c9 be 5e 10 81 5c   l.x..uB.....^..\
+    0090 - 95 3e 67 41 72 f2 df be-81 5e 91 94 ba 37 36 c5   .>gAr....^...76.
+    00a0 - 68 37 01 a8 f4 89 20 02-dc 3b 9c 2c 52 fc 3a c1   h7.... ..;.,R.:.
+    00b0 - 65 4b d3 89 27 e6 25 5e-46 d4 7e 1c c9 7d 97 15   eK..'.%^F.~..}..
+
+    Start Time: 1641001213
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

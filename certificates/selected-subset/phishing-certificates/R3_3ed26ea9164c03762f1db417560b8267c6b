@@ -1,0 +1,64 @@
+http://portal-auone-jp.is-a-guru.com/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = portal-auone-jp.is-a-guru.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFQDCCBCigAwIBAgISA+0m6pFkwDdi8dtBdWC4JnxrMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDUxMjU3NDJaFw0yMjAzMDUxMjU3NDFaMCgxJjAkBgNVBAMT
+HXBvcnRhbC1hdW9uZS1qcC5pcy1hLWd1cnUuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAo8O7tMiK3HTRCYakvPSzkmnR9Y/zPw24zvTtc+/4RYBl
+K1RTxAB6IgVRtK+/7TvpV9SO+LFvFuf4CUPIiin6tC24QIoU6B7H36s2bH1evxGL
+Le/zub8uAbSG+7Z8D+6tVf9a8LEferXgHrK8xxshcQmxkV8sDyjag7LF0xtAYqi0
+tsYRTM4fDt06ZSx/HH+eB+5bzBKMOuhRvukIwW8cgJqLOWmYjbte+LQYeBwXDnZ0
+nHj2I8jOhEuQnrUhdqSirS14W+hI8TjJucEgtWadsOIDMJeZMFObJ0jNDJQxRDF+
+QIzZRwpX9GSCFLT0Esv5kOvDKbJIMhL/hLY6P3vBMQIDAQABo4ICWDCCAlQwDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNV
+HRMBAf8EAjAAMB0GA1UdDgQWBBQP9pMMGLSkkcrm2xbhG2VpZf7rFDAfBgNVHSME
+GDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYB
+BQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDov
+L3IzLmkubGVuY3Iub3JnLzAoBgNVHREEITAfgh1wb3J0YWwtYXVvbmUtanAuaXMt
+YS1ndXJ1LmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisG
+AQQB1nkCBAIEgfUEgfIA8AB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBi
+lgb2AAABfYri2k8AAAQDAEcwRQIhAMyp99mq3chYHCGrcLTcBkNpRviuMd5YZ05A
+GSzezU4yAiB5wMYmrsDmQsEsVRZ8uls+rkQymp6PSU0gLVs5kkfv4QB2AEalVet1
++pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfYri2ocAAAQDAEcwRQIgZ9xa
+CJs3OTXfpwKJvVM/FzMU2zDSAtIkZZnw6ck0V+8CIQDT2p1EX5R2sEni7F627Wuc
+2v/Untg+7YM35Tf8n7YnezANBgkqhkiG9w0BAQsFAAOCAQEADpOEiKhXS1zAL7t5
+6fPs/V5Mrc0EW+Q7GLsYPhVs8XiqQRUjKWlXf+AqD1Iq+c1+hzVjRhAtXNAM7UM8
+l4/6bhx+FFSKP6ahiiVnW9e5eK1gZbXew0r7a0y5hIwM89x+OBZ0Y0MoaZzCzmc5
+TE0RWiY8rno6eQs5z4WmeecjOq6ZK+p88s7b9C/RAitRvCBwgUy7tNtwT4Dxx/KB
+BDgrzICthdTNf8zPWvoM6kTMDORmvBKK8NL7UGNzItYu0eQMOpkLnjArBuA4fPwa
+Dh425UM4ZHx7FQPnwMYwpGBBuTznNjrdbhwzwfoPWzwlJ5gW1Wdcyh3yL62HHwG8
+yIVnWQ==
+-----END CERTIFICATE-----
+subject=CN = portal-auone-jp.is-a-guru.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3219 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

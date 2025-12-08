@@ -1,0 +1,66 @@
+http://www.geluidsinstallatiefabriek.nl/wp-admin/bill/9dwo35c08kwd76n3q5yfvuip.php?secure&share=267ch71645022818518f3982492fc48f7c41152f5ccccea0518f3982492fc48f7c41152f5ccccea0518f3982492fc48f7c41152f5ccccea0518f3982492fc48f7c41152f5ccccea0518f3982492fc48f7c41152f5ccccea0
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = geluidsinstallatiefabriek.nl
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXzCCBEegAwIBAgISAxAbgHjpulBBx/jTCznyyIjHMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMDcwNTQ5NTJaFw0yMjA0MDcwNTQ5NTFaMCcxJTAjBgNVBAMT
+HGdlbHVpZHNpbnN0YWxsYXRpZWZhYnJpZWsubmwwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDvOXNGoPWJp179gNBzSdwNCMJ2UpJLIt7yseLArjbIwjRB
+6B8ezxZoNW8Uv+P6LhH8+9IRbDcLYLvnnINGxR++gG1VdUYNDSOKcdx5It03sxD/
+D5VQs2ov89pfTalMIhKiOECqBGa7B0XBlv8A6ww9HsQHEAm7/wZznuZPR8BrKzEW
+I84q0YtGQ+abEx2Hhc9caUSAAPIA524YMJQsQJGSKzTR/lrMlQQtKIDNu/8XXt8g
+ej5xpgEWCCyYkdxCm338TpNds4tvp+ktnhbR44ZW4fgRPNk45v7ijKQOD3irHFrc
+SaO44S5AngXoGY3r/+CWYXn0bhLRnt0Vi8Zy4Ub9AgMBAAGjggJ4MIICdDAOBgNV
+HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1Ud
+EwEB/wQCMAAwHQYDVR0OBBYEFOPevEn1fM8Oh5kfspXOoR6VXmYyMB8GA1UdIwQY
+MBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEF
+BQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8v
+cjMuaS5sZW5jci5vcmcvMEkGA1UdEQRCMECCHGdlbHVpZHNpbnN0YWxsYXRpZWZh
+YnJpZWsubmyCIHd3dy5nZWx1aWRzaW5zdGFsbGF0aWVmYWJyaWVrLm5sMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDv
+AHYA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF+M00FZQAABAMA
+RzBFAiAJVV7bu6ZspNd4J7T6N4bwjNhrFH2e+1Od/5BRa0qDWgIhAKCsS2KTCiQi
+64wpGDg2GTZ06IiKCQp8t2rpvqdF5XjFAHUARqVV63X6kSAwtaKJafTzfREsQXS+
+/Um4havy/HD+bUcAAAF+M00FjAAABAMARjBEAiA6HRZkpmK5+wwe4J/cHM/gC4xO
+5FYpItvuhBDMqtYCsQIgRdL8U8Sm4N5rYvT7od/PkFeHGeluU3ELBqpi/tfhM24w
+DQYJKoZIhvcNAQELBQADggEBAIL3A/Ah+0ZjnkvBpv8p0sjy8H6IWaCeZ6pZtsLD
+DSZ624F8v5w1W6XqDs+ZEBD3xOlTBCSaf6g2DAgmC/sWl3kf07nCkiVcPttVGE+R
+GEf0qSYVr1nPKsYnC3Re0S0dz/TVjmV/NmT8oRKbcbU/P/xvw+cG+X76ZU4MQXCi
+8NNB3H+CVlwYp0HoQpeESTZwuK+VLgd+BmlhiGs+fIYBI5YHdemB4JyO1J2cWMbw
+fXwz135hs/HN5tnDGWK6sN0kQCzUy6TFBBtc0jx8fGu5JgLWTvBHoZDCaEM0foN4
+2XiovOU9zTqMJZA7daMFBjKoVcUYy0383uJncvcARgpvnhs=
+-----END CERTIFICATE-----
+subject=CN = geluidsinstallatiefabriek.nl
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4635 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

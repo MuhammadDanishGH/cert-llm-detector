@@ -1,0 +1,94 @@
+https://login.faceboolk.net/aHWCwkrQ?rid=gjvahre
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = login.faceboolk.net
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKjCCBBKgAwIBAgISBGKzGaFq5O/tEXaeVymzcMQ8MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjAxODU1NTFaFw0yMjA0MjAxODU1NTBaMB4xHDAaBgNVBAMT
+E2xvZ2luLmZhY2Vib29say5uZXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDp1seYDpKQtIKC4b1ZapLEHw7qhRe8MNm/IuunVhMWLAdVYD0PCzYQWbrs
+Libqnkwq9j1hnbHYM04QHuj20sS8IVp3qTfMgYjU9fTUOzH0Ioq3d2sujephg7yk
+r5LIl+wsF30OOy76IB/9A7Wio9+fEgVKykzlylb6CXns01k+S/FPnncuvdnk7qVB
+AAGhRg8jXcdXaZHArqReFrombgVvrQ/1LlyL5rIsFP8wPOSlyKyX9jjtGqUWwsQ7
+SX7xAZt11/RiNVwF1bDEoRCgRbqWJW1l4kZCTBu06Mlu6XCBcOrSFbf+1ifsA+ce
+QYb/IQCBnTJg69QJfAZUhNwG7My/AgMBAAGjggJMMIICSDAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFKskWBDAvQ3IkBuIXES6BuQ7YSXGMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMB4GA1UdEQQXMBWCE2xvZ2luLmZhY2Vib29say5uZXQwTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQBG
+pVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX55D0ZXAAAEAwBGMEQC
+IHYhujurDE2un8j5Aw4W5/ZjwDJxfeq2buM82cL6EPefAiAnNFzrQS3HQnFuJbKo
+0VU89wgAgTZsluZvMP6LImjlyAB1AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsS
+wCBEXCpzAAABfnkPSCcAAAQDAEYwRAIgVk7MF7TV4Kbhu+pfSh67GCs4bXORtpo8
+3ZYA7HfSSBcCIC+9cfM6odJtwpUcPEwE4dKOZErLeVaGMN9NZznweISYMA0GCSqG
+SIb3DQEBCwUAA4IBAQB0f0LgH2T7SBkqrlV6GKUy0c88AFlFKjBuMSPxPMSQ8CWq
+rFP2OE6T0sDbJOuFRNVTgoojnadoTbFY7fiFuaU2azZywlVnc0WunV+/4TVe2aDo
+u/TyKfOendetThNKlR9aCweGOQqltm2HDmrZFBJ/EcK8KgUc/ZUbKcJlikhuN4Qx
+Is04XJoNwfyTliV31M7iWYaSq0H+5cRhgv7+bpHELAcQIVpdG7ycrXik+0xDPHFP
+MaiEmE7uZqhwxJd7HVNr6A2rsOObPZjteQ3gsPFeQg2C7LTsw5NMjFf+mepNNLk1
+LIPIOcv8bh034ROX3fA9qoHnVpRhT377pKhTK/75
+-----END CERTIFICATE-----
+subject=CN = login.faceboolk.net
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4562 bytes and written 377 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 36270277610F3A484C159FA4D5BD1E603496AF4B19B87185B986A6F5106E66F8
+    Session-ID-ctx: 
+    Resumption PSK: FCCA7B7B1147C60EBE3602653654499583F47D8D9B65A9114A223095D903F6D1
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - e2 51 a9 38 64 c8 ec 16-bd 10 6f 8a 2b 9f c8 2a   .Q.8d.....o.+..*
+    0010 - 29 80 9f d5 da 68 1c 6b-4f 31 88 5d a9 15 3f b7   )....h.kO1.]..?.
+    0020 - 2e b7 05 29 f9 ee 01 b2-cd 20 75 a0 0f 4e 29 4a   ...)..... u..N)J
+    0030 - 27 9c cf 47 52 3a 12 05-a1 95 0a 05 22 34 6f d5   '..GR:......"4o.
+    0040 - 40 6a a0 fd b5 77 ff ea-77 d9 bc 59 17 6a 8f 5d   @j...w..w..Y.j.]
+    0050 - 3b 65 02 e3 86 81 08 d2-51 d3 eb 01 b9 08 6e a4   ;e......Q.....n.
+    0060 - 85 1d 93 40 fc f6 5f 3d-f5 c1 cd b2 7d 12 99 30   ...@.._=....}..0
+    0070 - 0b                                                .
+
+    Start Time: 1642768881
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

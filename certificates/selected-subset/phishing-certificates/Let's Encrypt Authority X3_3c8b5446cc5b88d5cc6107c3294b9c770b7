@@ -1,0 +1,93 @@
+http://narrowscrossingrestaurant.com/V7/closed/customer_center/user-777925/bank.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = narrowscrossingrestaurant.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFlDCCBHygAwIBAgISA8i1RGzFuI1cxhB8MpS5x3C3MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMjkwMzEzMzRaFw0x
+OTA2MjcwMzEzMzRaMCgxJjAkBgNVBAMTHW5hcnJvd3Njcm9zc2luZ3Jlc3RhdXJh
+bnQuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA37EM6cxsPudk
+IOj9LBhqtwhwsm9ieamD+6b6H9T0u09RPV2xj/C4PFOq8zQhEq7FBtEfcRfFvDA2
+uYvc2eriRktINwkBJiNlQP1M/RH7N5ao3TpWrazkDdQSehMtApj7Boh9+MI0WHEE
+HGiqSdYoDHVssoWovyo4PgEvIBVIpBtzz5oZawRII5uYIwGlvfJNaVYwSAAFVyoC
+UsniVyoR1sBmllsoD8dyiCfhEaR2stlc5fpL+ROeWrwWeKPulTVT9f3bz9/KJFoh
+fx9p1i/GWdtum+evv58F+20Lnp2oIkBxn7ca84sBlklNsC4lSAxgma/D9WDZa/mL
+O5y+SQmDOQIDAQABo4IClDCCApAwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQG
+CCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBT+Tf0a
+QJh+KtmVKW3+RAY4sP52KDAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86js
+oTBvBggrBgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14
+My5sZXRzZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14
+My5sZXRzZW5jcnlwdC5vcmcvMEsGA1UdEQREMEKCHW5hcnJvd3Njcm9zc2luZ3Jl
+c3RhdXJhbnQuY29tgiF3d3cubmFycm93c2Nyb3NzaW5ncmVzdGF1cmFudC5jb20w
+TAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcC
+ARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0
+BIHxAO8AdQB0ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWnHpyfh
+AAAEAwBGMEQCIDDKx+tPGhsQasIXM9axPdxI7Mv/WXgCKEM9OKkMOyZOAiBNq7LI
+ZtkC9UAUMrukTUrjBA7K876fv6G+3+nzAaBXCAB2ACk8UZZUyDlluqpQ/FgH1Ldv
+v1h6KXLcpMMM9OVFR/R4AAABacenJ+MAAAQDAEcwRQIhANd2k5De6ImD87KfMfKl
+yvgw1IxgOul92F+QFfkcywKbAiAypvWr2b99fL12BYhUxEKT/a0ogfWKx+ZB7YAD
+ohZtIDANBgkqhkiG9w0BAQsFAAOCAQEAjEwjZX2Vbnm1g8ZmdcKMIFjnm89ZyD8Q
+MDi+cBfKwdWFKEgXrqjEMuWqaHtWS0muAS9nmUDIz5qKl3IBJEVn5OwPVQuN0Qvg
+WgINXSWuNSLPyf2/cG25LT5OidkMHG+b4QE3BDjewUTFQQnjH/Gksj/bx/XKH0tX
+2mrO5rvwnaOILba0oxvlRK4piXhuP9mOAcYAz+XBXjZjnHeQAbU6M/L2z1BeeSTA
+Q/klwl5TMpRP+DkTi2ksykMpWDMIJOfxF0qpEK6pQKhg32Wkm4GzBocobuDbQM3T
+NE0D1SApbIYsQdgHLmbgW4ecVjzeXeSWXuTpef15tQaBd3Uvyy6sJg==
+-----END CERTIFICATE-----
+subject=CN = narrowscrossingrestaurant.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3331 bytes and written 467 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 9C4D1FD850AF4ED9757AF9171CDE4554B596B03D72FF0D312B4BF8B662B79A9C
+    Session-ID-ctx: 
+    Master-Key: 4CA5B5C45F0046FF894CD1F7C43D1BEA1FDC168A0C322EB6BC3BCEC43841BBEAB54DFE4D08FF9E7F515483197770CB9C
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e8 c8 fe 8a 92 5a 51 14-d0 57 41 f5 f1 30 1b 65   .....ZQ..WA..0.e
+    0010 - f8 70 87 3c 7f d7 d3 3b-7d b9 6d 6b b1 c1 89 64   .p.<...;}.mk...d
+    0020 - 84 87 c7 d8 25 fa c3 38-d8 fd 8e 2b 55 98 67 34   ....%..8...+U.g4
+    0030 - a9 f7 3f 38 46 cb cc 8b-14 00 9a 15 9a 51 10 e6   ..?8F........Q..
+    0040 - 47 66 51 1e 70 7f d6 7b-89 12 53 4f 2b 88 92 75   GfQ.p..{..SO+..u
+    0050 - 20 e4 c1 51 bd 48 9c 7c-ec c3 6b 34 b0 38 bd 7c    ..Q.H.|..k4.8.|
+    0060 - e6 01 68 45 80 cf aa 68-a2 55 82 38 4e 95 bd 0f   ..hE...h.U.8N...
+    0070 - 46 70 50 7f 2f 41 0d 80-5b eb 81 40 31 97 2c 58   FpP./A..[..@1.,X
+    0080 - be 94 ab 2e 2d 2d a9 ed-a0 fb 09 0c 15 47 5e 70   ....--.......G^p
+    0090 - 09 97 f5 54 04 87 ea 86-3d 3d 4c 46 6d c2 1e e2   ...T....==LFm...
+    00a0 - 44 a6 40 2d 2f 3f 61 0c-84 bd 05 dd 0f a9 fd 91   D.@-/?a.........
+    00b0 - 45 62 34 b0 cc 91 25 19-47 8e 19 8a ac 3b f6 cc   Eb4...%.G....;..
+    00c0 - 64 22 45 ad 92 05 d6 9e-9f 07 32 4c cf 0b 2d 2f   d"E.......2L..-/
+    00d0 - d4 be c9 d6 71 f3 30 54-b9 da f6 5f 9d 2c b1 a4   ....q.0T..._.,..
+
+    Start Time: 1556370019
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

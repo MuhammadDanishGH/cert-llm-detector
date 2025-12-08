@@ -1,0 +1,65 @@
+https://areueaom.bupede.cn/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = areueaom.bupede.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKjCCBBKgAwIBAgISA1vguC9KBD0XMhuS3QM3YQFfMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTAxMjA4MjBaFw0yMjAyMDgxMjA4MTlaMB0xGzAZBgNVBAMT
+EmFyZXVlYW9tLmJ1cGVkZS5jbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBALRNB3IUqnTy6YmWYBuKaIL7CEe+KaLiRYc8wF2GfCmD86RYGbKrCujYzTVs
+9shS/1/qGTssdR3iLLquxgEQ+LvEaJJOxC/Lpx+j4uMdZi2FB19xlaFATu3d71Hi
+oySm6frXuffZlPu4jJfyFYB5tlKstm6x7nrW7/+4qoQ+RUVbVQyf4KHFE9n7+JgD
+GWRptZzfW57Qh68JoIzXl8jYPVKtkCIbf4EdY1B49I52zf0IPXhhCJMSSNvCM6XD
+SvoU2hyO4O7/HRghF3QGvOnYiP8hw3Y4g2MkBvlxaEEq3RU5C3ZzMFNa6HrqCHuC
+yA9vhweLJ5uf+6rxG1nyRwVFx78CAwEAAaOCAk0wggJJMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUmefNgQrNzNI0EdJoOszlmhfHhFwwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wHQYDVR0RBBYwFIISYXJldWVhb20uYnVwZWRlLmNuMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcARqVV
+63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9CfaregAABAMASDBGAiEA
+7RW6OxCZuZbwQQ7wTuNsUgh6t00N/klfEp8K+kqgI8ECIQCVhQ0mubOXtlchKfet
+KuC1VI8R90JkucmeKhel5HXeyQB1AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaN
+sgiaN9kTAAABfQn2q+cAAAQDAEYwRAIgXwhbtPuR/ayyAi5RU7OeVW+/GILvTlTB
+jfQOnQX19hACIEfKMXcDNl71NSD9QgPbEtqTCP8BJXLFbR+0vCz6j98NMA0GCSqG
+SIb3DQEBCwUAA4IBAQBLXbnaV7BOxYytoQEvkXki7QZZqAQ3OdNmoFtaUwE7eQ4S
+UIxH9BbYVKQyLv0OSKmxbJwHPicGhakrSbbahb5Vgd9Qn5pXxpgBiDEyoL897DKG
+6Vb8IS7fJ8w60p0RUKruqjaFT3NZpe7RVdLwi5Lss/zG0cYX3BXfLWVEbjjJOOWz
+Kxg17iKJmfK6LH87k2Anao2zZ4vT8QBItf+9u2lJcm+OCIKxNhgtaODqN86kZ/nb
+Ci52tdN89zVubT6cSUqlwRE62gKC76oAFZZuOjXYIEMuJQj5M42RY2sRDkH1QQ/c
+XjYd21QkUvdgjaFMHB+zL0MzT+4PMW1kxN955jua
+-----END CERTIFICATE-----
+subject=CN = areueaom.bupede.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4582 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

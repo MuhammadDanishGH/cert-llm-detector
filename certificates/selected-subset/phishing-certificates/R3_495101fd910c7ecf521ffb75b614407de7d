@@ -1,0 +1,66 @@
+http://marsakitkaki.co.vu/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.tarungdrajatsiokalama.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFwDCCBKigAwIBAgISBJUQH9kQx+z1If+3W2FEB959MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjUwNDM3MDZaFw0yMjAzMjUwNDM3MDVaMCYxJDAiBgNVBAMM
+GyoudGFydW5nZHJhamF0c2lva2FsYW1hLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBALJeRW+dCcwAjm/EGqr0r02CzaM724dnZ3KwbDHcQzPIeDv8
+KR8IQIXdtgtqsiWBMY+t778PFDfQddPnOdEtj2y+eacqP4Opnb1X76r3VV2mK6nb
+vPeR4jIfIcdhVNZbG/eiiDb9/hw8sIbEwl6Vgugk17a7NDjoAztsQiM3Yhis+BYO
+bo7YYDd4Jw4VwTbJFlsXHyPesyDSy6v9a+/RJsM2BcZpYkZxCZHpDA/tVXI3k5OB
+uxyMeV132BPCjBSoGlpfKB6A40k8uhy26bddFwDeiDtWhG4RzTMA8rkmRr+z0mwO
+9QUIsghL3LcGRL+qDgVRRLrY4KSJK7EK9trXGncCAwEAAaOCAtowggLWMA4GA1Ud
+DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0T
+AQH/BAIwADAdBgNVHQ4EFgQUcETY/4oeL3ulgek9f7NV2xrogDQwHwYDVR0jBBgw
+FoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUF
+BzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9y
+My5pLmxlbmNyLm9yZy8wgaoGA1UdEQSBojCBn4IbKi50YXJ1bmdkcmFqYXRzaW9r
+YWxhbWEuY29tghJtYXJzYWtpdGtha2kuY28udnWCE3BpcmRhbWFza3VyaW4uY28u
+dnWCKnd3dy5tYXJzYWtpdGtha2kudGFydW5nZHJhamF0c2lva2FsYW1hLmNvbYIr
+d3d3LnBpcmRhbWFza3VyaW4udGFydW5nZHJhamF0c2lva2FsYW1hLmNvbTBMBgNV
+HSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpo
+dHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA
+7wB1AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABffAXujEAAAQD
+AEYwRAIgMCEXDciLuNZ1SBsQkADd/ppbSqj4FUkOx8ua1YfUktUCIB+so9BaMozo
+8BXHJsBfo8hzZGp2v2d2RAP3m8KK330aAHYAKXm+8J45OSHwVnOfY6V35b5XfZxg
+Cvj5TV0mXCVdx4QAAAF98Be6IgAABAMARzBFAiAW4GvS7aiS6HCkuwnZ1YG4xTtZ
+RYn4atxjdozybLeuygIhAK6iFSAI9eOL5QWRxTXd75fM9VTC3PUg6wKxmpymUmFX
+MA0GCSqGSIb3DQEBCwUAA4IBAQAiJKbqsNMs4kobpLwDzyYifROvNgoIqDXI6j9I
+5gEMbkvyztJJBiFfjttDmFcXXCF79o46qiRDa2213v0Ynbc9L/t5TB8J30+NLOCj
+NKTvnf/tPf1QdyaWMLqouOxq6c0hGRuQoXI7//nWYXDvPtA861oQiJS7t//isOvK
+t8uBS8Hr2Ptjjdz5nD0vtY56fBGRfqNH6O6eax3TSr1mFRFigzCOPzAGoiCFreme
+vsgjDGmyy6psTfGVlXGu0PSb5nHGJz5fwZTIYyTLlyOvm8Lmu/n3KHZN9g6or8iJ
+RXPl2XmVX6oYruUbK8AhX0xnjji7qE9gF37tCKP7jI959dKA
+-----END CERTIFICATE-----
+subject=CN = *.tarungdrajatsiokalama.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3347 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

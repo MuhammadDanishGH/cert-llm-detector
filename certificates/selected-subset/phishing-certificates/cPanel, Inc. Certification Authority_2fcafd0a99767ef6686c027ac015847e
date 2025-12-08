@@ -1,0 +1,70 @@
+https://espace-orange.info/Orange.fr/orange/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = espace-orange.info
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGDDCCBPSgAwIBAgIQL8r9Cpl2fvZobAJ6wBWEfjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDYyOTAwMDAwMFoXDTIxMDkyNzIzNTk1
+OVowHTEbMBkGA1UEAxMSZXNwYWNlLW9yYW5nZS5pbmZvMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAuLY68SpKMLWmFqb/S2tBY4EZUcL1MZ4wsrMCQGpG
+0W2cgCA6s5lW9eEJqOpTjlOmRe8I/x/h3jHmtr/s1f5m/BEWgekcwrqpE4zs0d8E
+FQh/rk37DSgov2X1W95XnOElrF5RfWG3d1nANsNcfLAJfHTv2/N9qka5a/Dcqx2R
+bZa/P1JVACsfV54e8RLRZLbAN+Im8Add/XdzewmUIs5dC60hNHkiVfsncxBbakHj
+zavknPepMgeet7MlYnFhtEZ6fFo+rtfheKEqcID57Z4yWcV16aa+LUv6HKpZQPrK
+liFCYVRj2s+PuYrkQgRXFpzzpcAfuPHOTVa2ixGRuDJmhQIDAQABo4IC8TCCAu0w
+HwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFNQGNi9I
+U21C8sAPLjZrQI4eIQqvMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQB
+sjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgG
+BmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNv
+bS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcB
+AQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5l
+bEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRw
+Oi8vb2NzcC5jb21vZG9jYS5jb20wggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgB9
+PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXpZ7+HUAAAEAwBHMEUC
+IQCBGaRVsvveRVAZ1OXEKPIjUtjzyPimFLZepqOxTH54hQIgRXXNSw5bpkO4gZtR
+duVOK19uRBiljxdIld4noesX1ZUAdgBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/
+0zOWtbaBqAAAAXpZ7+GcAAAEAwBHMEUCIQDOFNI7Dw5seeqn74rS4mWvXMqSgAKV
+eGCUvC4OfDvj7AIgbukNA/aDnQz4x8As35ZfhqkfcRiFbHiGwMmIPebOXPwwTgYD
+VR0RBEcwRYISZXNwYWNlLW9yYW5nZS5pbmZvghdtYWlsLmVzcGFjZS1vcmFuZ2Uu
+aW5mb4IWd3d3LmVzcGFjZS1vcmFuZ2UuaW5mbzANBgkqhkiG9w0BAQsFAAOCAQEA
+Zqhg9Zv7fOLjJJ9peiS0F+xcYaDXjzS4JFiIYlq1jcFp1SN7IWP4sq+2TTkb3nj5
+9TAydkrszG130QCb+BBjHiTKy63Q2LZgDh/DIgQqfusykXNj0hPuTRn6YYaU2qgB
+GKepVQ1W6Ho5PZTRxFuy6+dWRC4rEZbd8bqAx5LeJp5M8UcawvSqiYv2GyMnInfC
+Re/AaJUYAZf9uNAr3/ugiAM2PR7OBLM9hxiNyEQ3tZCIE3KTU9BN90kV7D6kl+mI
+D0FxBpUp4aFpgWUaZ6BPRfz1XdBKRediknmENRzTrFb5FtJKycTfOLVZFWFAnIjM
+/OV7vhehZFPVr/WetnlAUQ==
+-----END CERTIFICATE-----
+subject=CN = espace-orange.info
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5057 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

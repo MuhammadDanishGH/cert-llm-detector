@@ -1,0 +1,93 @@
+https://pancakieswap-finance.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = pancakieswap-finance.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNTCCBB2gAwIBAgISBC34CiFqtWFDTFn6bh6AT0RZMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMjAxNzU3MjRaFw0yMjAxMTgxNzU3MjNaMCMxITAfBgNVBAMT
+GHBhbmNha2llc3dhcC1maW5hbmNlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBALe6vo+FMHAfPdC3tkw9T9KxuaVS0gmJhQIhH5AMqMISX51AvdoT
+hvx0HTQwMBPcW2LsuQJoS7j6HwLviDAdB7IDWC70qTyjL3kbadt/9cPoxnOmmunP
+JvZDheqWpSSFU8zEzB9aQRnQ8WIB0e0UA+lIf7eSrYovC+QkSpZODsrt7TOs58u8
+Xgmr4Ne0ERpKHeouLuIhwj/nvKpDVLE20DNb4o8zR5RxrnjVGQtHPoYU09X2yfNl
+l/iUFkCTdiLarlSwLdNDOqv8JuRJKhBdaHpsPpFr675flZItTeUNTP/1iqzDcqdf
+8B68rxHRj8KlTvok+QUNAgzzEw/ROY//HikCAwEAAaOCAlIwggJOMA4GA1UdDwEB
+/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/
+BAIwADAdBgNVHQ4EFgQUgb4EkkbzRICP7ek4taLG/6LfCcwwHwYDVR0jBBgwFoAU
+FC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzAB
+hhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5p
+LmxlbmNyLm9yZy8wIwYDVR0RBBwwGoIYcGFuY2FraWVzd2FwLWZpbmFuY2UuY29t
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB
+9ASB8QDvAHYA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF8nxC1
+8AAABAMARzBFAiAgjIrXKvVpjlK4wIuVnFd1wDJ4Ndh8BPiiX4hGn2vHagIhAI5Q
+GtZ8C/l1Ng/MOArmAllmgFSV133v5QqbZGMqSrU6AHUAKXm+8J45OSHwVnOfY6V3
+5b5XfZxgCvj5TV0mXCVdx4QAAAF8nxC18QAABAMARjBEAiB4OvvCKr4+m5g18KVA
+4zZTu3Ukm7d1c4ihhWQRzYPDSgIgV7DDc5PjknvN1lFOqe2t12Szla3ZqL2uCRGR
+40hyDLAwDQYJKoZIhvcNAQELBQADggEBAKIJnQkpb935QBNLUWUnN4vvIZgFQON9
+fqK7qDGyCu608cukFj+Lo35QUBsjgvqA/3XBE34TCSIwuHulubMylq402vxUA3to
+edm1dLz46CBjeHadIsFsO1PoQ1ZYXQET7A0/5z361Gpl1XhBPXhU0t3UXBSstLq3
+qJ9Q1mmkl+skDieZ+3+NtyQgFQx6FnMoa+tDxMpQ14ycxWKcMyhWejeZsEs4V/lt
+TU3403aN0/1bKXaqa8nxNoHTQiRFzePu8uR/Fxfz5craAP2Zjo/J5gKofnoDhWfC
+OpHVP+a0Cmc6Aa7nKtX+rTrGiqQR2rlucViB9BVNx1xrvPpKHLBocXU=
+-----END CERTIFICATE-----
+subject=CN = pancakieswap-finance.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4751 bytes and written 444 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 39C19395B2D002922D76509E257768B830E67057AAA78FC58C0782CDF6DA99D6
+    Session-ID-ctx: 
+    Master-Key: CF038454761087A64B77AC3D63F1FD635D2356E1F35B3646BE3600A04FD83106A94AF888176681AB5C7F903D8BFAC984
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 6f cb ba 4d 42 0a 4b a2-37 11 c8 09 47 80 56 58   o..MB.K.7...G.VX
+    0010 - d4 be 8f e2 2c 98 74 3e-cd 5d 66 9f 86 27 b0 16   ....,.t>.]f..'..
+    0020 - 92 8e d2 50 a0 d5 ce f4-5a 72 50 10 ce b0 cc ba   ...P....ZrP.....
+    0030 - ac fd 6f d9 fe 59 75 31-e8 aa fd 5a 5b 0f 75 3b   ..o..Yu1...Z[.u;
+    0040 - 8c 02 f3 11 66 09 fc a5-9d 6a a3 73 27 c6 7d 32   ....f....j.s'.}2
+    0050 - 2a 9b 25 3b 90 8d fd da-0b ba bf 60 c8 c0 a3 4c   *.%;.......`...L
+    0060 - d0 24 75 38 83 2b 94 1a-b1 73 ad 85 7e b9 5e 24   .$u8.+...s..~.^$
+    0070 - 3c 3b 6f 2d 2f 98 42 d7-6d a7 78 a4 75 62 48 5b   <;o-/.B.m.x.ubH[
+    0080 - 2b 29 a7 39 e0 01 87 30-c6 89 2c 56 5c 07 d0 44   +).9...0..,V\..D
+    0090 - 27 90 8b 50 3c 77 2a 78-78 7a 0b ba 6e 18 e1 9a   '..P<w*xxz..n...
+    00a0 - 70 1d a8 a8 ba 74 db 6b-8b 78 d5 c0 fe fe ee fd   p....t.k.x......
+    00b0 - df 81 1c fa 8c 00 a6 b3-a7 4e d0 cb 57 72 1d 35   .........N..Wr.5
+    00c0 - 76 44 98 89 34 1e 98 c7-47 7c b0 68 9a a8 21 59   vD..4...G|.h..!Y
+    00d0 - dd 62 23 f0 a7 47 f3 62-eb 0f d0 0c ce a7 8e e3   .b#..G.b........
+
+    Start Time: 1634864061
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

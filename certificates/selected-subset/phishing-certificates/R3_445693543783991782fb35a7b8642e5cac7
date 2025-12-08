@@ -1,0 +1,68 @@
+https://pulsecoinmarketcap.com/Closing%20Docs/client/countrywiderecycling/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpcalendars.pulsecoinmarketcap.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGITCCBQmgAwIBAgISBEVpNUN4OZF4L7Nae4ZC5crHMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMTgwNjM0MTRaFw0yMjAxMTYwNjM0MTNaMC0xKzApBgNVBAMT
+ImNwY2FsZW5kYXJzLnB1bHNlY29pbm1hcmtldGNhcC5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDrgAjz3gknDVTV/sM15BDWaacvfMA15UTT3p+h
+aZboeelndbTTW3KSCV4t7+Pu2kG6kbL2lxubafxj2V74Zbed0PCwwWOZxgcwvS7N
+rxBhyfF/msX8DKOGfOHWoxGbOd3wEuiFpDWGfNsn5kzRbItXYnFP5iwIode189l0
+t1+OZEQJawO6bg91EOkTgo8p7gxebSx0W1YdJl32k885T0vFJ3NkJs/L+L8XjA8q
+Edgox+tE7+iEXZSrttzTqNwyKRUjc4Hvb0lnU8lt+7sypMeZuVv9CqxZB43CmqWP
+LUvQHyl5FLr+UHu8X/aYDN4obK/VYLbY8Qo8b64wi0ZLEm73AgMBAAGjggM0MIID
+MDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFHWe/GMk3eXsROOHpGtknZ3M9hTKMB8G
+A1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAh
+BggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZo
+dHRwOi8vcjMuaS5sZW5jci5vcmcvMIIBAgYDVR0RBIH6MIH3gh1jcGFuZWwucHVs
+c2Vjb2lubWFya2V0Y2FwLmNvbYIiY3BjYWxlbmRhcnMucHVsc2Vjb2lubWFya2V0
+Y2FwLmNvbYIhY3Bjb250YWN0cy5wdWxzZWNvaW5tYXJrZXRjYXAuY29tghttYWls
+LnB1bHNlY29pbm1hcmtldGNhcC5jb22CFnB1bHNlY29pbm1hcmtldGNhcC5jb22C
+HndlYmRpc2sucHVsc2Vjb2lubWFya2V0Y2FwLmNvbYIed2VibWFpbC5wdWxzZWNv
+aW5tYXJrZXRjYXAuY29tghp3d3cucHVsc2Vjb2lubWFya2V0Y2FwLmNvbTBMBgNV
+HSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpo
+dHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA
+8AB2AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfJJSh+YAAAQD
+AEcwRQIgZ1ebQqEKcBJ2cuTOoBtpETupSDdJUqbvrf5AjYqMDu8CIQCo2LDQsHzH
+gOkZ35rLrqzESHkH6DApqv97vhZVfg7ZlQB2AG9Tdqwx8DEZ2JkApFEV/3cVHBHZ
+AsEAKQaNsgiaN9kTAAABfJJSiKUAAAQDAEcwRQIhAOJokUljuTxJqn14Dg5KLu4T
+UrIu4XPmjDc4bnIiY31DAiAjAOEtBAx+O32n6/4pGytDcDAMNiOYAmfFfN0wRy25
+ZjANBgkqhkiG9w0BAQsFAAOCAQEAQiwoaC1vS5y5LqynQXi4o/OTlIy/OlZU0sxe
+m1TN7vijRLS4oJX6Ciu+/zohNB81rbA/HwrE/cgsHBDDi+X+NNL71GmmrkFHBfmt
+lJEXwX0dt0QsH2pQcguKx6uzaAQiNtob5qkNrI55uFy2a0QHeHUDeEehev3IG6vW
+FBF/ROQTCiSlcpAFOgJZAzNJWiD5Vpn+z8dV1PSGGfGAeBrgATs7+msFLWwU9XFx
+vxHJ8oFlocHqjPkHhIfBC5YLXxiViLUzaxI0QfAjSRKI3NpkzMO508K8td968lHs
+ieKEROvhe2bu6QHKkWn/zQ1tLG31a2+Y/OV9zhZSOU5l0z3dOA==
+-----END CERTIFICATE-----
+subject=CN = cpcalendars.pulsecoinmarketcap.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3444 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

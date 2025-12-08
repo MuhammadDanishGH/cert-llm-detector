@@ -1,0 +1,65 @@
+http://etc-nnelsai.26tlse.cn/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = etc-nnelsai.26tlse.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMDCCBBigAwIBAgISA0vbxQuZ4xqnPhPC4PC0pLv9MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTgxNjIyNDNaFw0yMTEyMTcxNjIyNDJaMCAxHjAcBgNVBAMT
+FWV0Yy1ubmVsc2FpLjI2dGxzZS5jbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAM369JJ2e+qJWSxd+P5tyZowIkcY+mmdJF+kZOs6AvFIsQXpeA6JssL/
+JG9PNiejBAhy+mvIc7XO+0m7W6kfxshsJMffSiW87GiMU0QvmrMZcbjDp7wGfydl
+HnI7c1hgvVpMZOAUbr9YYi5CSVBjAzWpwJ9TWX5aSzWhaeTBN4Kzn4P6ErTKgNg+
+4t2gae5OW/yZexUETX9ZaFXpLxFkaqshsdiivLcvtg/DKawJcVXcpmVN38Tryc8j
+2hUvWRBBfjRYgl0je5brVNfVHd+5q2zOHEaPMoOqyBu3ddQkgY9ED1ySj4M8PRu/
+1GgOBMD4AOEO7iM1+hhkL5xhhjMLyF0CAwEAAaOCAlAwggJMMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQUagrpFHO1Pq0OHM8V0alKMu4uebgwHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wIAYDVR0RBBkwF4IVZXRjLW5uZWxzYWkuMjZ0bHNlLmNuMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDw
+AHcAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAF7+e6FiQAABAMA
+SDBGAiEAjooasSjWvtYHsN72Hiu6V/eauDB36mcEE6Jfw7NehLoCIQCrH2WIlWsN
+4+pk5XMNYdCY39/qi6ZWiBvipp6Ix1mOywB1AH0+8viP/4hVaCTCwMqeUol5K8UO
+eAl/LmqXaJl+IvDXAAABe/nuhYcAAAQDAEYwRAIgEN/VaC6yJ27nfmFHZGZg8MBe
+iEuKovec1z/OoLA0IVMCIHk8Pj5l0FbiVkXI4OK4qN4TFaf6r0dwNrbtnopGtHJM
+MA0GCSqGSIb3DQEBCwUAA4IBAQCOTgAVYO9cXvDRsZ0uPOWKBn0gHvOQeTC+nW1J
+pdy8n1p2H6CtZV0gctqYFwdZkDoRQtsnPMXbgwfW/o3P+zK3uFXQsLcx61AJ+HiV
+uXH0ZC1HJHZk1BzWS9c2JGP96D/hNNOsND8SWn/zVS5rEHVRCb89N8cEu7Oo0bxL
+1x4QJYRdbg/LddBIOZzbUI04GYAZwUcfRv2LXbTCVUAfXruZ4FfNoDaSgT1FMFuF
+Ee8DTyuPaL9Hxt44eKd2N7EIU8sC6tPyf/z+ggWc8mycqweN3EIPTpyWohwBSh0b
+vFgh9hPgcgTTVuzm9HKVhaXEoV0MGQw3CdBLVcbx59vN19Po
+-----END CERTIFICATE-----
+subject=CN = etc-nnelsai.26tlse.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4588 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

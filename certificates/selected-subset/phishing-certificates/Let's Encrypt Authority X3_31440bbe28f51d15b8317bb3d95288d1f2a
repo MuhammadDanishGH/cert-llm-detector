@@ -1,0 +1,93 @@
+https://blockchainuniversities.com/sh/CA680066/bdesj/lastlast.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = blockchainuniversities.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFizCCBHOgAwIBAgISAxRAu+KPUdFbgxe7PZUojR8qMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMDEwNTQ1NDdaFw0y
+MDAyMjkwNTQ1NDdaMCUxIzAhBgNVBAMTGmJsb2NrY2hhaW51bml2ZXJzaXRpZXMu
+Y29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8DW2KnlGHUw+kP3f
+ERN+I2gIgxaVi3jkkwNmQJAOV0eaQ3CBJ8EEtb5FiDD63gPCKro9bLthMm70mrAB
+8NRr2UZSlTrXVDkHtclLfL8odQalQ6Tqbeo0fznq8dOqjNdShkQUuhohatCuY7YW
+8IB44iSfniVSkPImQvA3BHS4VMsnDSEdRGZcW3wNv8ESOrTXggYXF/iwJunbgVeA
+R9Ly+nEr1r2SjO7kiqG07VOldSkGK5b/oCV9M0piSf92SKdjdRSHWkSxjuKBXPDI
+I5qhHQm2w+v3ydL0YWPODxbcPuxFtaPmqeyW0oGWbQwnBeBjaaGlabX/10HL7XGD
+W+OY1wIDAQABo4ICjjCCAoowDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRbSDoKJksZ
+pIOaEiVqzTWF49ihnTAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBv
+BggrBgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5s
+ZXRzZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5s
+ZXRzZW5jcnlwdC5vcmcvMEUGA1UdEQQ+MDyCGmJsb2NrY2hhaW51bml2ZXJzaXRp
+ZXMuY29tgh53d3cuYmxvY2tjaGFpbnVuaXZlcnNpdGllcy5jb20wTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgBe
+p3P531bA57U2SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAW7ANUbCAAAEAwBHMEUC
+IQCR7DYMu3cti33kiFoLQkfJoSm7Ka/NICGoNTiWkR1KMgIgXtosoX4HUHxAXTGg
+vacs6dwllfe1ynrk77RFBYnpIhcAdQCyHgXMi6LNiiBOh2b5K7mKJSBna9r6cOey
+SVMt74uQXgAAAW7ANUa2AAAEAwBGMEQCIBss6cRIa06joo4NeW5xXoXN9Yzlxzo7
+3qR0pIiyOiIlAiAqFxAfNvDQuzk0qQbYmMXAFo+3dl0KB6jwK1b/hPbXvjANBgkq
+hkiG9w0BAQsFAAOCAQEAEskfsDV1QDuKg1L5hWI9RrbQqH1uoL/X8PoHdN83FNRQ
+ubtCS2Cx00EWgtDMtGq++iEnUTIPBWq3xVXOvYi9MlRZzrBzKw/jgB61ScuEOHHE
+En+0h298DEQmm0szIqgQdqX0ldYgXrrN5Npkv9+tATcLk9IETI8CFpiqy5xQpar9
+mhb0ZRNp6MBpArBLAqD4bRsJ1P2LJPvYF/YDPwJeU6mZnbj0NgZqgGabKc1zuuwl
+DcwYn+vApMV5Nh8PPxizdBOPf9cJB1bAIwxv6t+rhzQ7L8HROahGYoNLqr8ijA9N
+zf9oTIyyJ7VX7PNce46pJgnG605SZe32JWs+px7G1Q==
+-----END CERTIFICATE-----
+subject=CN = blockchainuniversities.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3322 bytes and written 464 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: F2A1D8684021FAE37E2E42D418E7F26848B72E236EEA8FB97B5C1008921F8286
+    Session-ID-ctx: 
+    Master-Key: 417802ED77BB356BFEFDB2B8BD50BE9DA889EF08DF3530B16CB90DB0FD077BC3C853AD8EF6738E98D88EE711BA8E049B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f1 a3 72 c1 54 21 cf d7-7e 26 c5 93 e7 a4 44 7b   ..r.T!..~&....D{
+    0010 - ce 4b a1 d3 90 af c7 e2-4a f7 c8 d2 cf f0 98 c7   .K......J.......
+    0020 - cd 03 ee 87 18 5f e2 75-46 8b 38 1a 30 eb 3b 7d   ....._.uF.8.0.;}
+    0030 - 7e 3f 2e 70 b2 56 00 7b-af c9 87 77 49 f4 74 e9   ~?.p.V.{...wI.t.
+    0040 - 69 a9 cc 55 81 e8 04 43-9e 6f 08 01 b2 5d 7b b6   i..U...C.o...]{.
+    0050 - a7 48 a8 0c a4 cd cd 53-ae 1e ed 6a 4e 44 6f 85   .H.....S...jNDo.
+    0060 - 14 cd 0d 2e 87 e5 8f 21-d7 d9 65 d6 fd a0 d3 f6   .......!..e.....
+    0070 - 2b 07 21 97 f4 73 8c b4-97 6d 12 25 ad 9a 49 a4   +.!..s...m.%..I.
+    0080 - 61 14 62 84 0c 47 d7 01-f3 25 ad 7a 9c 1f 84 43   a.b..G...%.z...C
+    0090 - 50 fe 01 73 a0 b7 08 1b-10 78 54 29 69 c4 aa b9   P..s.....xT)i...
+    00a0 - 19 a6 40 e3 30 97 39 8a-e4 c6 49 21 30 c9 ab 55   ..@.0.9...I!0..U
+    00b0 - d1 06 ec 51 eb 2a 53 1b-06 5b 56 31 68 dc f9 88   ...Q.*S..[V1h...
+    00c0 - 40 44 6b c1 07 8d df ad-d4 2b f4 ec df 8a 49 8e   @Dk......+....I.
+    00d0 - 88 36 ad 3e 56 60 b5 dc-96 01 8a 55 e3 39 b4 ec   .6.>V`.....U.9..
+
+    Start Time: 1575468031
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

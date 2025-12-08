@@ -1,0 +1,94 @@
+http://www.digim-partners.com/mail/yahoo/notify/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = digim-partners.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGEzCCBPugAwIBAgIQalTzQErGi7Mu8zU2S30bQzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTE5MDcxMzAwMDAwMFoXDTE5MTAxMTIzNTk1
+OVowHTEbMBkGA1UEAxMSZGlnaW0tcGFydG5lcnMuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAsWPHJVsjNGOYG1f9+ZM7Mj4r+1HHYCECxgNJ+yc2
+HOsJbl3JZl9qCmdziiHq/Cs0jxtK2nRu0pZRfOIG48uJ5aG0EzXjiULEvI8bOC3t
+rUEKHp6WFZ7z3ErlvRtsiExdynVhMXVxyCEknKylHuT1Q5HZU5zS0FM1ey/BjDv1
+G0Si3eY3zIa3cSOQyXIoU7pM86CiwqDi7AonVdIy2ikUZD1Q/SnuF0RxeyqwUiXz
+H5Vxu5sZA7yzxz7R24M41DmpPDj4G0bx6yXmCU+6RFdfN3NJOgHurPdIPYj4gKWk
+C8tW2RZeZ3NYSNwS/kctGhQXQpnhF4LTpC6Kt/RjhW+OyQIDAQABo4IC+DCCAvQw
+HwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFOJJsM2w
+82r6NdYXP1M/1ySlFdMxMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysGAQQB
+sjEBAgI0MCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5jb20v
+Q1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9k
+b2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9Bggr
+BgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzAB
+hhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wTgYDVR0RBEcwRYISZGlnaW0tcGFy
+dG5lcnMuY29tghdtYWlsLmRpZ2ltLXBhcnRuZXJzLmNvbYIWd3d3LmRpZ2ltLXBh
+cnRuZXJzLmNvbTCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2ALvZ37wfinG1k5Qj
+l6qSe0c4V5UKq1LoGpCWZDaOHtGFAAABa+xK9ecAAAQDAEcwRQIgditG8sakvdzx
+3sw+z+M3DOV8dEiIxrdwFcHlxqAgo50CIQDPIr/K2v/qDM+xeCiGvH20YySrU5/t
+gfOF26AUTYPhZwB3AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAIxjc1eeYQe8xWAAAB
+a+xK9f4AAAQDAEgwRgIhALGLBRVwxBK8I796EVLLYK7U/ANKFVWAzphwLhb/KBFd
+AiEAyvtFxKu+RP9P27iSMQEv8Nd0++DqYmZJU2dkx8MQkE0wDQYJKoZIhvcNAQEL
+BQADggEBAFSk9etATJiUT1y8nNaFwMQEg9WV4PzMgERHi8kpZ0X1bqd2ub/waV+9
+tES9nE+K+mrsi6+gDGE4LgOQf8wxX8qaUyKwLfRU7WPPBmUeOAiRUYIGJ7O2EiKh
+8eMI60OWWUaNky+mLmJYBI+a1UEFhVCDrdzGIxNm7T3MPnFZpOKuX3iMKI/win62
+Fe++ZphxIu8eJt5ilqRnc2YfOy9VqRruC22HxC/HU/Zo6zajnOe9+F2KiHT4tn1B
+yz06X9keYOyYdK78rQIFGCfLEMlKIp7Rn1GYb2LbOK2c/iF2nZ1Wy4nTZ1ARUeAL
+m7uWzIcOfF/L5pHq5QOrAmrl7OfR1uU=
+-----END CERTIFICATE-----
+subject=CN = digim-partners.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5113 bytes and written 427 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: C8502107624E61E4418F6697CD5C7C70B05E334B90C53E27C82381FBA8D30E52
+    Session-ID-ctx: 
+    Master-Key: 484430EA94FB7F2B494148D7340AB4AB17C34C9A77425AD5E90D7C76CEAD66374CCB7B39E6C8FC03BA53C6EC5ECB51E5
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 0f 13 2c 03 0a 52 49 48-d1 8b ac 34 f9 5e 60 73   ..,..RIH...4.^`s
+    0010 - f9 10 52 16 a1 01 04 7b-57 91 08 f7 eb 48 18 79   ..R....{W....H.y
+    0020 - 0b 9d f2 ae 5c a1 9a 5b-35 9a 4f e9 11 78 6f 3e   ....\..[5.O..xo>
+    0030 - cd 1d 33 d5 3a 41 6b 96-ac 0c c6 36 1a 65 1f d7   ..3.:Ak....6.e..
+    0040 - a1 84 3a 4f e2 bf 82 53-1c 4a d1 f4 84 fb 5f 94   ..:O...S.J...._.
+    0050 - 5b 2c e2 51 e1 8d 9d 87-ed 16 6e 8b 76 1a 42 f4   [,.Q......n.v.B.
+    0060 - 2a 4c 0e c4 5d b3 f2 8c-d5 3b 93 7a 59 7e 43 6b   *L..]....;.zY~Ck
+    0070 - 4e e7 80 18 b0 e3 88 b0-d8 b1 5a 3f f0 0b cd c3   N.........Z?....
+    0080 - fb 00 ce ea 79 af f1 9d-4e 3c 9b 28 f9 ac 0e 68   ....y...N<.(...h
+    0090 - a0 98 c5 0a e3 52 c2 68-4e cb 1f 54 28 0e 90 20   .....R.hN..T(.. 
+
+    Start Time: 1564405224
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

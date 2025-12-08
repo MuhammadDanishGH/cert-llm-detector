@@ -1,0 +1,66 @@
+https://web6677.web07.bero-webspace.de/postNL.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = web6677.web07.bero-webspace.de
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFQzCCBCugAwIBAgISBMQmr5dAAUFW3sdtmiZ66SNTMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMjExNTIyMzJaFw0yMjAxMTkxNTIyMzFaMCkxJzAlBgNVBAMT
+HndlYjY2Nzcud2ViMDcuYmVyby13ZWJzcGFjZS5kZTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAPiXNvI5ivFHreVVcg8t0yqlO/EuK+dItDaw0kq213zg
+jjJ0Rcx6pcmc6yXVZkq4fG7hIHHvAQkVdnx/fbRHfjJUYk4CduZVk0fznXdMO9zW
+0Fk0HiSAuZhyIS6E39GG14/QNGlMf055uue0jXWqOgLDFDz5yj4BKT4C6dkSacn/
+/uLGMMZ5w+sfeWrVKI7NG6yy4GQZHypDnrEuz+/xXcuN0ro2x81LDeTKynSMwpGE
+H0XvugTiLiZtZGyf5sYJMwyzVnlCuoWLLhDGblS8y2A8cHqWqM2LQhOZq2tYcKCt
+3pjmrApN/U7qQl+XVp/s1d56SUqzrURL9rFj9QPtkXsCAwEAAaOCAlowggJWMA4G
+A1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYD
+VR0TAQH/BAIwADAdBgNVHQ4EFgQUB0oYbEf4pg/pPcr59FR/jNz5AJAwHwYDVR0j
+BBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsG
+AQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6
+Ly9yMy5pLmxlbmNyLm9yZy8wKQYDVR0RBCIwIIIed2ViNjY3Ny53ZWIwNy5iZXJv
+LXdlYnNwYWNlLmRlMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEB
+MCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYK
+KwYBBAHWeQIEAgSB9gSB8wDxAHcARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy
+/HD+bUcAAAF8o6lIWwAABAMASDBGAiEAs0WdlIaKmjcioupgAHFGR64jjveDmFWt
+qWfKlRktw5YCIQCUcJ8ZYrQ0lFz0r+Mk/NRO0Ts+iz4ynEvhby7YlOflgAB2AEHI
+yrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfKOpSkEAAAQDAEcwRQIg
+dlUE+ZcDx5ZG3Bxv3lyyEf+YSEm3xabA0wc8rRX3LyACIQCnEe+gVRJG/wJsunFA
+t45fq2XPzYMIFe6l1jGuWn03rTANBgkqhkiG9w0BAQsFAAOCAQEAuHaUNqTaJ5UG
+VeCCHDgHhgZ4qbcuhIzKH8PJ4FbfTXTfOgCl4Yym79zhN3rHOBp33Ut2aJXhiySC
+Fo747C8d0JLEvhdkfPn+GZNQG5blOIrxfUTtHDlk6IlKvLlnja/nSBP3BDroGxTi
+sRxydQkQuI5FZTrPolIF1DfoTXE/M4374TBMxJVVlKNiFBwWPK+L6ySVH0sPZddw
+Maburv2NxuUM3K5two8MDaMjGcwXGTlAZTLNozGUhhCGMvlILfCINGSC3ZqB8ifY
++6NmjShUrD0fdsk2/6g4ymzOl7HU7bV+nu2iNsWy20N+eV/7cY+RAf8z/dCKByDw
++ddm2JAMog==
+-----END CERTIFICATE-----
+subject=CN = web6677.web07.bero-webspace.de
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4607 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

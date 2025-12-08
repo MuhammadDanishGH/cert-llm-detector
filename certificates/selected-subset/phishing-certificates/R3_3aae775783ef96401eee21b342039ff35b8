@@ -1,0 +1,65 @@
+http://aonzon.co.ip.7xk5hty.cn/pc
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = aonzon.co.ip.7xk5hty.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNDCCBBygAwIBAgISA6rndXg++WQB7uIbNCA5/zW4MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MDcxMzU3MDZaFw0yMTEwMDUxMzU3MDVaMCIxIDAeBgNVBAMT
+F2Fvbnpvbi5jby5pcC43eGs1aHR5LmNuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAtHBEu1J6B7Sqf+xJP7EZ9edKcnxq8Lajlz7m0Co/wAnE3CWClyQE
+y3CuOelyr1wswNsCN0UL86fhFVsehsIxNbB/DS5LKAWW/bo2TmxY5SY8GbkiFGq3
+js5IRJLEYyuuSPk3sgyAIxN1Svz+LSlGfJfu3q0hlCbXmNvmSjM+ildArLmmCPQs
+Ybx1kggpwrTMW4ieiibb+fXN/AgOX5EamNja77DCk7uFDnNMb35j67AzSrXThzU+
+PYm6FHBkkmvR9cd1XzrTWmAM7BKHuAVa01MhXr7hjODQ6BkIpE2zRs/Toz3DbW3A
+1bpJSVI20XR1HeXU1AGBRNmMapxULivKgwIDAQABo4ICUjCCAk4wDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8E
+AjAAMB0GA1UdDgQWBBSTvTRsxpzKvZZIGYmMluAvWZtf2jAfBgNVHSMEGDAWgBQU
+LrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGG
+FWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmku
+bGVuY3Iub3JnLzAiBgNVHREEGzAZghdhb256b24uY28uaXAuN3hrNWh0eS5jbjBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB2AJQgvB6O1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABeoF4+08A
+AAQDAEcwRQIgfPBffuR64Ayq8oNuRWE6njBQ6Os458VCSBtPi9OxBRcCIQDg4wGz
+HzmcoqwvuGKsXieCBB+URYjE4iNJFNPK2maBYQB2AH0+8viP/4hVaCTCwMqeUol5
+K8UOeAl/LmqXaJl+IvDXAAABeoF4+4oAAAQDAEcwRQIgLEaiPufAPC2U1NvIRC4N
+S0hjOryzmLE51iyknJnL8CECIQCP/8u/m6ImRNZRPkfuC3fBNQqhS2WNer+IpimY
+3FVfMDANBgkqhkiG9w0BAQsFAAOCAQEAftB2bAcOj3XPifd+tILF1TZwrMb29U6R
+qNnDoCTQCtMsCtXljqAu9KNELmbngs0yGfJ/xd2ZrgySNoDJSVhCP5QVOk27NIvu
+n+OOKCnFLS7rTCVKtvWMZrmurGOLug5Cq1gCKyQ7ixBHMWbw7b5S4tLW3h7efxyr
+i1EvIClG/buzTIuCGA5szRTDFP1EHPThqMv00rvnIWhf/8o5wInHVNrCcy9/trdI
+XFOEpwgyexQXXyp+rk9+a/XVSGuPbn2N8KY7E6xgS1W7uC5L8no1zWe8DiudAKg3
+MllhItqkqZNQNkDFzDPzYGE19e56UkFHYXqV0K8+Pwa4CbJ8kCvTMQ==
+-----END CERTIFICATE-----
+subject=CN = aonzon.co.ip.7xk5hty.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4592 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

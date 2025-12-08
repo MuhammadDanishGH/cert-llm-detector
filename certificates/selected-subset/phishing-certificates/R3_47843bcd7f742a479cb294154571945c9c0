@@ -1,0 +1,64 @@
+http://dlainvestments.com/wp-content/RsK9CUmDv8O.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = dlainvestments.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFQDCCBCigAwIBAgISBHhDvNf3QqR5yylBVFcZRcnAMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTQwOTEzMThaFw0yMjA0MTQwOTEzMTdaMB0xGzAZBgNVBAMT
+EmRsYWludmVzdG1lbnRzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAL/21nVAXw1OREWNZXEzeeQDAxb3ZUjNHFbBg20UkuRSgS/3FCqqs68EcMzI
+PZL102fS19gg2kMWx+HxyBizN4I+kZUtNz90Wz8oIHD0N8KEeT6DbuHy+TkWvDTj
+qEO8bcnsOlantHLmfqwakCv0GZzR0vjO6m6/p2a6gpGRlYGU6ITj5SZNIFleC2HU
+FyZOJRT6V7y1roo9ggdaR3pmjUzokV7+IJKEPa6QUsZk7+RozIihGrbFtEwNAKtY
+q//FVNB6dOxgpw2VY2V24FFURMbdX2NNP9lBulJHa1vbV4upN+6a6qFAPldJtOm8
+Jyqqa8zi7lQ80fKn2MVQtaq0cXUCAwEAAaOCAmMwggJfMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQU0EudbCcEtT3RmAoakxvuZIRAzp8wHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wMwYDVR0RBCwwKoIUKi5kbGFpbnZlc3RtZW50cy5jb22CEmRsYWludmVz
+dG1lbnRzLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisG
+AQQB1nkCBAIEgfUEgfIA8AB3AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBE
+XCpzAAABflgTxw4AAAQDAEgwRgIhANnAz33WgFzrg83povrm/0mpIgii/h1jUFTs
+20wd2tCFAiEAuPKxkmsbntUlI2kntqhRwvJalIwH1HytxwkG0QIWNyIAdQBGpVXr
+dfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX5YE8dAAAAEAwBGMEQCIDhO
+EpbxxTuk30oB/+2edMD2SpQwv4pLrEhfDpItFznvAiAn2/kLtrNw/QDCG7HKhx9/
+BurMEMEW8EG5aNEy6Y9IKjANBgkqhkiG9w0BAQsFAAOCAQEAVmzZoE+1wjtC/pGP
+9wmy6JaXuKjhwQCUIVIZ/rbJxV+rTdST7LuL00SsJRA4d4SxzLcXvYXVyLpCcga9
+mkKLGEMxUgbzrABlUKTDM27dkX9Y+IHlhu6GzFX01FaE3jGhD8yUY9OyUQoGzUEm
+JiPRaPSVm418ondpcJ96VX2Lr6dcqNoocVu36k5tf7jFHqY+rJDgV64cViewLZvs
+lI33Vk0Qm4SMxsHQ0R5kgwoKcVueOI1cgWJJxebDkuJFEo3+2mdyde6DuBwGY8R4
+1uCh5NG5tXsczTgwwshS7fiE46WX3vthZkl37BlxcnplodI++uA5jcX7Cu8x6fdq
+ODb1PA==
+-----END CERTIFICATE-----
+subject=CN = dlainvestments.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3219 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

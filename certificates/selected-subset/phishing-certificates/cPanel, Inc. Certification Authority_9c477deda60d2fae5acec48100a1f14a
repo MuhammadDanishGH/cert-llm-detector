@@ -1,0 +1,97 @@
+https://reviewupdate19-2020.com/payppal/Paypal2/55425555555554242/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = reviewupdate19-2020.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGjjCCBXagAwIBAgIRAJxHfe2mDS+uWs7EgQCh8UowDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0xOTA5MjYwMDAwMDBaFw0xOTEyMjUyMzU5
+NTlaMCIxIDAeBgNVBAMTF3Jldmlld3VwZGF0ZTE5LTIwMjAuY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr+Alb+55DbB3SOYKuHO9kdTG+GSmpNsf
+7BGS0IZI8S9ayOfQrxT6IzH+E2kXhw4N5BLX4mvkCdcGdkmtsKIXSHFzKmSjldMR
+7sq8r5rNVHXw4Tng1AhM/M3pQYwaeRmi2j/zXbyrWsF5T+M8ynNPQGhpBLS9Y9U9
+3zeRyiqOxrMCfxXrM3S09y9/oQGAkR09J13molkx/PLn3HzEeBNOXA5h0xjgRsZu
+Edyd0gbS6c9Ul3+FPgJ9e1CDItUD5bQVVDiu50lGEX4ExGZRMev+3x8u3kt05JXp
+5sZD59ojxZOmz/ZbzRQuusYt4+TOdbadGufxiRHPXXMeQWPWZFfDGwIDAQABo4ID
+bTCCA2kwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYE
+FAgtTkQnZWO+IYFdUQhiQTw70jqeMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8E
+AjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoG
+CysGAQQBsjEBAgI0MCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9k
+by5jb20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3Js
+LmNvbW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNy
+bDB9BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2Rv
+Y2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsG
+AQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wgcEGA1UdEQSBuTCBtoIX
+cmV2aWV3dXBkYXRlMTktMjAyMC5jb22CHmNwYW5lbC5yZXZpZXd1cGRhdGUxOS0y
+MDIwLmNvbYIcbWFpbC5yZXZpZXd1cGRhdGUxOS0yMDIwLmNvbYIfd2ViZGlzay5y
+ZXZpZXd1cGRhdGUxOS0yMDIwLmNvbYIfd2VibWFpbC5yZXZpZXd1cGRhdGUxOS0y
+MDIwLmNvbYIbd3d3LnJldmlld3VwZGF0ZTE5LTIwMjAuY29tMIIBBgYKKwYBBAHW
+eQIEAgSB9wSB9ADyAHcAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0A
+AAFtb/c4xgAABAMASDBGAiEAmDefR6C2/xRSHRYsjogXryP2cK3HlUsJKpNG31i5
+2HYCIQDYSNjRF2yYwnEWMrkOCiQ/sdEPb9S4Ox9qLuHJ542KkQB3AHR+2oMxrTMQ
+kSGcziVPQnDCv/1eQiAIxjc1eeYQe8xWAAABbW/3OOMAAAQDAEgwRgIhAOu0kgAj
+PYqm6qxNl30cPV64khRpDZgUmxC04vx8uHnpAiEAlRoaD7DmsKozawTQp4eYXF3O
+igmMEQarFUZrfaE9f08wDQYJKoZIhvcNAQELBQADggEBAAyNSeisp4BfKWR8Hr1R
+P9mPdj9QGMItAwcuB+5O8m1Cppdl0evEGEzB+2R1a9PTSyRSM0lu+S3mjypMGSoi
+SVf3IyoUinftbXpqUh+oo9XIMZvuk6GfbBFBwv3uVj4pHGxxiVFbBZb3jgiQh+XD
+L27i64LdALSxN0bKHkdPdG4K+sQMF6xl1j94jNP2EY4NXLE+m8vYU5U9OiLdqoCr
+ZhGF54gC/J7mVf6UX340HmgSVufOHoQz9AQNmmN9UC2UrnScEbsIh+XPSzkB5WgC
+YvI7S2WR2LR/PUjBr4f3AiZFWOWrigaIamZAIjlYrj6/yhBJGI+uholDBcOW6ahV
+sO4=
+-----END CERTIFICATE-----
+subject=CN = reviewupdate19-2020.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5236 bytes and written 428 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 44AF8F99E72C00B1A2BBAD6666886928F8990EE7A0E9F5594507FF64CD22D032
+    Session-ID-ctx: 
+    Master-Key: 7CF2E0876F2CC034432C9BEED5AD2279676482620C5BF68228D5246AB89B79A843DBC120AE624050DA54669AA25AF1F4
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 7d 8b 99 4f 1e 7f 82 30-4f b9 76 a8 48 0b 25 f9   }..O...0O.v.H.%.
+    0010 - d5 75 f0 f4 61 9c d8 be-53 64 bb 62 85 80 e3 4d   .u..a...Sd.b...M
+    0020 - 5d 31 1f fb 48 c0 c5 bf-54 75 d6 55 79 f0 27 71   ]1..H...Tu.Uy.'q
+    0030 - f1 8a c0 89 dd df 03 2e-ab 93 e5 fa 9b a4 78 5c   ..............x\
+    0040 - 33 82 61 6a ad 8f 0f e2-c7 55 7c e5 f0 55 80 72   3.aj.....U|..U.r
+    0050 - 21 2a f8 57 22 27 0e a9-b3 d5 11 41 ee fc 55 03   !*.W"'.....A..U.
+    0060 - 7a db 64 3b 9e ce d6 c9-7f 06 45 90 32 db fe c6   z.d;......E.2...
+    0070 - 52 a3 b1 c4 10 19 f1 bb-a9 a8 5a 2f da 25 45 f1   R.........Z/.%E.
+    0080 - 9d 4f 9d cf 34 5e dc ff-b4 87 d1 8a 1a f5 36 e6   .O..4^........6.
+    0090 - 33 a3 89 6e 42 4d e9 e8-5a a5 85 96 2c 1f d7 a0   3..nBM..Z...,...
+
+    Start Time: 1570712436
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

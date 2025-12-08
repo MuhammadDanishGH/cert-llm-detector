@@ -1,0 +1,65 @@
+https://amaozn.jgxmt.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amaozn.jgxmt.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJjCCBA6gAwIBAgISA5bLvdLjor9x6vjE77Fk6UO1MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDExNjEyNThaFw0yMjAzMDExNjEyNTdaMBsxGTAXBgNVBAMT
+EGFtYW96bi5qZ3htdC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQC0X96VzET5+HzxyoDRIqW0cVHutxGv2SzKrztqzj1YVhZKzjhTIGkytVdgReOA
+smkHR84ZBdzOL7dRfS6V3gSvwLL6gR7LnhA3h6QGAc3AsXWPBECA778pfsu1o98h
+fbZ9CLuINPjzPttXI8mAnioNh0ilhkk7MUM3J8mcrzjm/TXLW0iWTqSGrLHsIPDG
+FFPGLUyJ+9X06zOZKBZJC8/7i2I9UjcsQN1eJ+EkUvIv47WBNwcVZ/rhqO8rL2ag
+VQboxH4npUwczt79+bte3I/g3JeZvCT+KuxdK6wXe2Is5Gac3lANi3WEGmODu5zc
+kiW+MwWsRANRV8nNwht4uwn3AgMBAAGjggJLMIICRzAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFDbZvEENrXZl5GwVUDqTeGXk3Ox7MB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMBsGA1UdEQQUMBKCEGFtYW96bi5qZ3htdC5jb20wTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdQDfpV6raIJP
+H2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAX12/C+NAAAEAwBGMEQCIF1oUtuI
+zW7s+YXwLIPm/NWe2UTKcpGL97MHGJ9zfQRRAiB3U1iyXsgcCNd2snZgnJqyxMjW
+UA8I9Dxa/Wfmj7MCqwB3AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1H
+AAABfXb8L3kAAAQDAEgwRgIhAOvCDb4o+UwJ7lMona5OClGu/tqJCOSXlyhvdMEP
+/l5TAiEAxmxvS+d7zMz67VcP4Jro3WuBf1IgzgbdRE4uCcmdjJkwDQYJKoZIhvcN
+AQELBQADggEBALgnse6ZxnsOUXOHVVFwXMxJ4CMThOOT+YG5L3fIR+ROB+YFdaRB
+fkYjTjUmLa23D5WcdDizWSLeIMxFv4a2bjf88cwSTuvMpWRXEgKxC+a1t34JTyQS
+8+xWb5MMQj7w5vhPULxoQyddAXq0YP+ngqu+Z3R8c8Mxw+yczLjO6AenzQyfsTU7
+j0aTMmqkOWRbfRg5vEFIBPHlPW0oaAcMZtRmP+lSvqonO1fiXLnu7ptKzT6axk3m
+0LDFigKtBKVd7SL9PQYCWgKWEtjbNjoipysGRUx+nUH2HS6NBsYirmTYc9Nxd1qp
+AN75ne3+qYRdF/0QS1EZPdqFAaMbCBaouvs=
+-----END CERTIFICATE-----
+subject=CN = amaozn.jgxmt.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4578 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

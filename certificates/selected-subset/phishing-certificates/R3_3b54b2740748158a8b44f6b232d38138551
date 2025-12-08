@@ -1,0 +1,64 @@
+https://grapplingwiththefutures.com/css/office365/?email=ZWR3aW4udXJiaWV0YUBibW8uY29t
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = grapplingwiththefutures.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFWjCCBEKgAwIBAgISA7VLJ0B0gViotE9rIy04E4VRMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MzAxNTM5MjBaFw0yMTEyMjkxNTM5MTlaMCYxJDAiBgNVBAMT
+G2dyYXBwbGluZ3dpdGh0aGVmdXR1cmVzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBALzfoSz1Flbwns95LL2E5L9SBnLAVuBS1dld2nJbhvu8RfJL
+WivcYgUNhxbk8oY5glZ1FEyZcDaKvGdp7I8FhM3pZcOs+YJX/41q/d9DdCkCa9Oq
+zQW0Mx3tcwx3UNsdgpa5zN6pHOzPabyydtHL7ScCMx1jLqr2HjwV4SuEmyM613fU
+Fc1RGpyXhKDHWkc4AupKyUV0EHv4qCg83+s3cESZDCCxX4N1fjWuJRFIsws01I2G
+SeU58SPMHq3tmdc7f8r+5x/Ctd/UUI4Uj6WLk/JEdJdl0D6Zwt3gwe1IBkwInm6n
+IpF7zwLpgpNPnGkCh12ptTFirgY9vms5JeZ8DUMCAwEAAaOCAnQwggJwMA4GA1Ud
+DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0T
+AQH/BAIwADAdBgNVHQ4EFgQUMauyTO8GqlIpxKANS57zxJ9GCFswHwYDVR0jBBgw
+FoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUF
+BzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9y
+My5pLmxlbmNyLm9yZy8wRQYDVR0RBD4wPIIdKi5ncmFwcGxpbmd3aXRodGhlZnV0
+dXJlcy5jb22CG2dyYXBwbGluZ3dpdGh0aGVmdXR1cmVzLmNvbTBMBgNVHSAERTBD
+MAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8v
+Y3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AJQg
+vB6O1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABfDeTG4kAAAQDAEcwRQIh
+AN34wIF5IZGcds6CGypiPYgiuL7Lu+dSzZ5wdyUX3RfkAiBXzviIbYE2YPJSlAHO
+ECiryf2Rxk/eJThdw2icTaFa1wB1APZclC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8g
+C8xO8WTjAAABfDeTG6YAAAQDAEYwRAIgd16785jKwyizUg+rtjLnKFcoOKpuimzC
+pzZt3tPZ9gECIHOUCWvs9bzg7knj9UN1WWODgqjMw/+CxlxPTWfoiH/tMA0GCSqG
+SIb3DQEBCwUAA4IBAQBb3ZWNcgDvLvRvHmm4ZDQRvYN5uhRe+0/4Xb4WrSqBvati
+YDTw8nO8E/zd2Xrr75vcUoUFM+iulW/zH+DJfsxOx3LNe2q9C7AnidJraEBoKRQP
+C1i+Z8XZ670oonGb3TmP8IR7y9SaPwrXrFO3TB1ayXIWKbHquupn0oS7KeZRDXwu
+ebp+XIz05WtpwcWoadHEJmQSq2oR2ZcMNmSDJOfQaJt8PydkLtjl0dhm26SNHdbR
+1s01iMtV4bVPwrxYOzszbaDL0YMOTOnrcfHP/hn8xTOXB4+GsXnYq4GLC0ONz0Ii
+nI/rlnlfAuSmxe8PXLkoEOYleGQ32AWXMSBYe3MB
+-----END CERTIFICATE-----
+subject=CN = grapplingwiththefutures.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3245 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

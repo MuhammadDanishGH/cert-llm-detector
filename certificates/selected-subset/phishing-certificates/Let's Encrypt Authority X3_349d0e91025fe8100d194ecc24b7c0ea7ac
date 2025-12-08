@@ -1,0 +1,99 @@
+http://norfolkandsuffolkcoastalwalkers.com/antagon/share/verification.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = norfolkandsuffolkcoastalwalkers.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGjjCCBXagAwIBAgISA0nQ6RAl/oEA0ZTswkt8DqesMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA0MTEwODE2NTlaFw0x
+OTA3MTAwODE2NTlaMC4xLDAqBgNVBAMTI25vcmZvbGthbmRzdWZmb2xrY29hc3Rh
+bHdhbGtlcnMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqldA
+IkM8tf8hxSfCAa6/W/Ax8vX55KVUtwCKU+bBDqHfwpDMhedassSIt9cMbaeLsxF4
+QJnMyHoH0eXvn4Ih18BJb4kvnD8GaMN6tmj3Hpo43pQetZzuWIGD4Zxoywy0N79+
+o2yEjNn62j1/n2szFMqboFAGH+j61Xw8MXqw4K7RikxMKuXfiP6D2HVZ6qAPpxng
+4iZax3V2yTjsTaROO56mzz9vV9b3UbDtMIHYM2bajF79redDuxdx4XcylPHvpWLb
+AzKGKIF3/UfVN5D3mHyUUoki5Dpz8nmvVpniDXnRKFrG7W1Df4XQuj9A6EUvKJqz
+l/LQ+YIAJGjKoqDREQIDAQABo4IDiDCCA4QwDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBQzuorsm9LOMihs4JKrKNvY2uqtUTAfBgNVHSMEGDAWgBSoSmpjBH3duubRObem
+RWXv86jsoTBvBggrBgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3Nw
+LmludC14My5sZXRzZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0
+LmludC14My5sZXRzZW5jcnlwdC5vcmcvMIIBPQYDVR0RBIIBNDCCATCCMGF1dG9k
+aXNjb3Zlci5ub3Jmb2xrYW5kc3VmZm9sa2NvYXN0YWx3YWxrZXJzLmNvbYIqY3Bh
+bmVsLm5vcmZvbGthbmRzdWZmb2xrY29hc3RhbHdhbGtlcnMuY29tgihtYWlsLm5v
+cmZvbGthbmRzdWZmb2xrY29hc3RhbHdhbGtlcnMuY29tgiNub3Jmb2xrYW5kc3Vm
+Zm9sa2NvYXN0YWx3YWxrZXJzLmNvbYIrd2ViZGlzay5ub3Jmb2xrYW5kc3VmZm9s
+a2NvYXN0YWx3YWxrZXJzLmNvbYIrd2VibWFpbC5ub3Jmb2xrYW5kc3VmZm9sa2Nv
+YXN0YWx3YWxrZXJzLmNvbYInd3d3Lm5vcmZvbGthbmRzdWZmb2xrY29hc3RhbHdh
+bGtlcnMuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgw
+JgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYB
+BAHWeQIEAgSB9ASB8QDvAHYA4mlLribo6UAJ6IYbtjuD1D7n/nSI+6SPKJMBnd3x
+2/4AAAFqC6+crwAABAMARzBFAiBTlrJ7ZYciFwGejqMWBFK2ObVdKM92fqwDxff6
+9mwq7gIhANwRdr47S04N+l25NyU4GDRdzA3fbXSQdfeEZW0ISgkHAHUAKTxRllTI
+OWW6qlD8WAfUt2+/WHopctykwwz05UVH9HgAAAFqC6+ctAAABAMARjBEAiAjcT+U
++vzx3WMuSQW5qHhrzlb3etGSoI/YmVubV5dgxwIgATgwAkLtXomwOK2Vbgkx4DGX
+9lve0KAj7qsIpjIvOSQwDQYJKoZIhvcNAQELBQADggEBAJiXlgCjq3WEa4uGYYlz
+X0h086SLdKfw6b+8zZPi7zfZ2x8f8suh/3JqNFsJzbQK8MaliVKIOIEwY0Ul82Lf
+aNMyqLPZz63v4vjedp08IT3C+tXnIz/fnnU7AOTb+d3GI32fiqRDMuzWoPtD26dr
+Wfhg/0LJHts5IKyF1HZQMBUFCJKXQMrWi/s3yAddqfizr1FhSbfqynEmzsKyWP0i
+3fP92FigWRYnTGWTGElL1LZWC8Ldlr21b8NWCLmypOTI2m49CrcTDjYPJG0mjhXd
+YKI0LPJ9an4qwfrGFCekvs4HIcUVu4XgUC23K11oa0W94o0KIA/BUvJDtZ6UtCXF
+FRk=
+-----END CERTIFICATE-----
+subject=CN = norfolkandsuffolkcoastalwalkers.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3552 bytes and written 440 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 67C7AE947D99305E58A6BE3F7346AFBA791DA977FA2215AC77FAA3B75C3DA89D
+    Session-ID-ctx: 
+    Master-Key: 584E67297C8439A14A808EA995120E147A54984FBDB34425CCD953A57AF70E543BF7C5BD1DF8BBD7B5540F241C4C3E4A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - d8 66 04 8e d9 f7 b7 a0-5b c1 5e a9 40 35 fa 47   .f......[.^.@5.G
+    0010 - 81 c7 7b d0 6b 1a e2 53-3e 87 23 44 cf 47 de 0a   ..{.k..S>.#D.G..
+    0020 - 00 d1 56 cd f7 55 1d c9-48 c9 01 b4 50 c7 b0 6e   ..V..U..H...P..n
+    0030 - 61 57 05 49 5a 34 f4 d0-03 7e 47 54 f2 41 6a 18   aW.IZ4...~GT.Aj.
+    0040 - 50 67 52 f9 f8 ed 85 7a-e2 39 e4 40 71 28 8a 1b   PgR....z.9.@q(..
+    0050 - 90 16 de 48 c0 70 2b b2-73 24 c1 21 c9 b7 80 cc   ...H.p+.s$.!....
+    0060 - 9c b1 cc a5 47 ce 78 9b-a5 21 23 e6 79 d0 6c d9   ....G.x..!#.y.l.
+    0070 - e0 87 04 f9 45 f8 1e a1-c5 21 73 94 df a6 fd d8   ....E....!s.....
+    0080 - 6b 5a ae 75 f5 45 b9 df-8b 8c 31 d9 be 54 69 fc   kZ.u.E....1..Ti.
+    0090 - 3c 08 b9 fe b0 02 23 24-e0 4f 55 ea 3e 3b 93 e2   <.....#$.OU.>;..
+    00a0 - a3 4b 6f a4 49 2b 05 61-27 9f 12 65 f5 f6 6b 19   .Ko.I+.a'..e..k.
+    00b0 - 7b 5f dc 12 b2 32 b0 04-6c 47 ec 9b d7 ec d4 46   {_...2..lG.....F
+    00c0 - c8 e0 dd f9 94 29 28 8f-4b 1a dd e8 c6 de 72 ec   .....)(.K.....r.
+    00d0 - 1f 62 98 23 35 a7 39 c6-58 7e 83 53 50 41 e5 7c   .b.#5.9.X~.SPA.|
+
+    Start Time: 1557406818
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

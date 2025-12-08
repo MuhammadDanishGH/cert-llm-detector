@@ -1,0 +1,93 @@
+https://registro-es.be/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mail.registro-es.be
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUjCCBDqgAwIBAgISAzgHsBkyxHs5EYdHhW+SB0y2MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTAxODAwNTlaFw0yMjA1MTExODAwNThaMB4xHDAaBgNVBAMT
+E21haWwucmVnaXN0cm8tZXMuYmUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQC+tsgJdugxFUBGzs6mxghyAvBEXol4ASSET1oJMBCq3lPRpce7XN7xs5/3
+WxQag5d5h2Rs+1TvddS6lMpWGaHzgdBfSr6rdumEgZZx78nRSWhRYOfXMLWqR3vJ
+rfu1ryQOs77fYLZ29RZJVwIoJ72+JioNrVuDdmDvdMe12U9LBXSOhhM09r8fi6c8
+ze4LmuNnQr++tCfC+Oiv4vfH2X1v+GSpTOtXKyUkKayxdk/jg+6nnxk7FeT7FHxg
+6QTm7HRKM2l2IRj8dzhS5aMhBWqDSqi9pO5hMVzaLUEzHC/jJ1eBNWRhq1wOsVv2
+nC9+HhL9IamAM8Kb1980DairIvGtAgMBAAGjggJ0MIICcDAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFOU1afd9/9cB3Ups2rUcyrQM6xL8MB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMEIGA1UdEQQ7MDmCE21haWwucmVnaXN0cm8tZXMuYmWCDnJlZ2lzdHJv
+LWVzLmJlghJ3d3cucmVnaXN0cm8tZXMuYmUwTAYDVR0gBEUwQzAIBgZngQwBAgEw
+NwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5j
+cnlwdC5vcmcwggEGBgorBgEEAdZ5AgQCBIH3BIH0APIAdwBByMqx3yJGShDGoToJ
+QodeTjGLGwPr60vHaPCQYpYG9gAAAX7lApcEAAAEAwBIMEYCIQCyuufPA++Qltz4
+zC4lolT06nr973aJKQQZss4KiJsRAgIhAOlEAJfE0r2F7Oi2QQCCKKUqYX4K+huM
+Anz489b9rHdNAHcARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF+
+5QKXkQAABAMASDBGAiEA1VFxBShJScvnK2yb7WnfP0py9UIEY7IbZyzoLN2j8QUC
+IQC4SL7RWB0XB4jYZvGV/JiN5tfGBFX1XLezla0YzrmfijANBgkqhkiG9w0BAQsF
+AAOCAQEAujvCgodO5H4ff1GZCinnnRU2jAydrhKpPTScZ828h+xKoeaXYKfm0RdG
+F7XhZnpFks5HgLRwdAgguiMJEePRV/OuuGXSXv6CkjNVEHHv4ZQYvicZhHY6Ohxl
+FmvL+1e2MlpfDyK7IFw7cA1Uv02q5cf6bbI+9n3RFKlBrVoUhPsfMt5y4xth0B0y
+Y4AJxOQHlcx/UiriFk8NvDMoQADfCHKm4wsKybfatXy3MvaMdHOxF5DKZU4OTnC+
+fPbBE+nNR0SQIHCFLYvf4O2bkS3gIKW8/30vIXU4Ei4i7IxWgqBBUSOVb3gkWZuv
+fW5y1bF2kQIyGvaXqdIeo71jFcNI/g==
+-----END CERTIFICATE-----
+subject=CN = mail.registro-es.be
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4735 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: F36A717FED8634D75B0A0EDBAF1C5AC21BF6ABB98C23B959FAA32B22581701A5
+    Session-ID-ctx: 
+    Master-Key: 129966A5E463296E2C34667A0BF6CB448445C7BA82B346632819459B48656E75475CB5D73831F6216AF21DE99EF43634
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - de 5b 73 34 64 f6 89 65-ff ca a7 45 9f 20 76 d6   .[s4d..e...E. v.
+    0010 - bf 98 81 3a 20 8b bf 20-c6 9d e7 ce 71 3d 64 24   ...: .. ....q=d$
+    0020 - f3 3c f8 1e ef 7c 17 80-14 3b e2 6a b7 fb 67 dc   .<...|...;.j..g.
+    0030 - 69 da 56 6f 53 2e e3 92-15 a0 e2 ad f3 5d 37 95   i.VoS........]7.
+    0040 - e3 18 b2 98 04 a3 90 c1-29 71 ca ea 19 62 a4 fc   ........)q...b..
+    0050 - ba 52 cd 9c 1b c0 e6 07-40 4f ce 90 6b cf 3a bf   .R......@O..k.:.
+    0060 - 76 ca 30 96 ae a9 a3 e3-20 43 ec 20 0c 78 f8 da   v.0..... C. .x..
+    0070 - 25 85 ec b9 c5 ec 35 39-65 7a 3d 0d 49 99 17 47   %.....59ez=.I..G
+    0080 - 8a cf 6b 23 e9 74 71 32-9e 19 00 c9 02 ab 34 ca   ..k#.tq2......4.
+    0090 - ed 89 49 c3 4b ba 26 73-50 c6 3e 74 42 56 e5 ab   ..I.K.&sP.>tBV..
+    00a0 - 05 e8 f3 2c 32 b2 f1 27-22 f0 2e 83 10 42 73 8d   ...,2..'"....Bs.
+    00b0 - 1b 56 cb d9 b2 cc 61 fd-15 20 ac c1 ac 30 d2 78   .V....a.. ...0.x
+    00c0 - d3 16 3a 88 3b c9 d6 43-fc 60 4e e1 dd a4 b8 f5   ..:.;..C.`N.....
+
+    Start Time: 1644540813
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

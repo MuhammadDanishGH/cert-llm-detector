@@ -1,0 +1,91 @@
+http://bryanlark.com/rest
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bryanlark.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFZTCCBE2gAwIBAgISA3A3KwFsl0IvdywXP22+4LU6MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MjUwOTQ1MTVaFw0x
+OTEyMjQwOTQ1MTVaMBgxFjAUBgNVBAMTDWJyeWFubGFyay5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDXVjfX+zWhEOgiL9W04u4g3APCxIc0PC6w
+XECzuBI829z77blrn3XXG5fCtpsYDCFGKSRkPq4TdzBV/mY15D/uUvHyFllB8oOh
+8J49s2HS+EGZyOduAxthyl+MEReVWn57qNiRg+BKWSGO+khYeCtLd0FgOptt5ICE
+0odEoYE929KPgcTpg6BOUVKeXk/nddYdySWsbTtXBbCJPwC24xuC53h3hE8JptCE
+C8BGA/B9v81jYwyt/2E6xxBUDOsFN4BIwo5wgerXfZ5jSibNNpOYDKXzlpuZStES
+dEHH4JEfORv0H2zJELL3jNdtbGdur3aCG0TqM1BcjqrvqdT67KDHAgMBAAGjggJ1
+MIICcTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFEJb7xHeYppUn+r9oavAtjcYneoG
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wKwYDVR0RBCQwIoINYnJ5YW5sYXJrLmNvbYIRd3d3LmJyeWFubGFyay5jb20w
+TAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcC
+ARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1
+BIHyAPAAdgDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAW1oBnAB
+AAAEAwBHMEUCIQCKYG0xyDptXPPqBwaUYLMRX2FLiTZjuSYEUiHYO/1/WAIgc7i4
+u2WQ1yOY8UX3ZijvaFVWJtt70DpKUhDijzdFO1MAdgBj8tvN6DvMLM8LcoQnV2sz
+pI1hd4+9daY4scdoVEvYjQAAAW1oBm/zAAAEAwBHMEUCIAFc4+ucqreqmIi9bR1a
+9A163Mi0gNHI6j9rfSStebkpAiEAjjGRfoXZ3j9i/xYHoi+1q2zTRmsguzlCOvuw
+Fr+Vrp0wDQYJKoZIhvcNAQELBQADggEBAAvQ5vowUSoKjD5X4EBPttAiYN+0bumL
+zdbLI3PN7yb9QnPaQG700hpOALnshgj4NdUDom8MpqYFPu73ZPCpgRg5KMNwEDNJ
+2TipH1GlPsyE+mIP/RziEkeOej7mUs1UmdOdPl6v6nkhyn8FSDscR4M+7tGOAsBi
+FTZPSzoz/tCTDhP3UVakHqlreSV6sR6jf0qKapicJVhYIMvWGtI2A1vg3gnva5g4
+/U2YLW6oQkFMBmqzORHQ0TqhE8EIriBzl8A2gMoJetHB8WZwv4Ih1tHUfxcUfddy
+d5aG4Xcs2p24zdb9jVJLoDImT+Wp8AFUYfwHc6+h2UP38SweZ9TPvHw=
+-----END CERTIFICATE-----
+subject=CN = bryanlark.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3268 bytes and written 451 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: D656DA94B972A4E7EFB0AE5085E7D2810ACDF27CA2E0084149BEDC8ED52FB191
+    Session-ID-ctx: 
+    Master-Key: A2FE0568037AEF8DD06C227F615695E95E4675BCB4DB9692D1B3433C83A2EFB35BC46F17E86063F57D664999D766E255
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 77 3b 4a 93 2f 0d 79 d0-77 3c 49 ec 6a 49 58 7d   w;J./.y.w<I.jIX}
+    0010 - a3 a1 0d 22 0d d5 d2 fb-36 5e cf 31 e4 1d 34 43   ..."....6^.1..4C
+    0020 - 73 a3 67 3f a1 9b 07 09-67 1d 2f ac f1 43 98 71   s.g?....g./..C.q
+    0030 - 4b fe 07 3e 38 e0 71 58-8e 37 c4 0f 6c 73 3f 8f   K..>8.qX.7..ls?.
+    0040 - 53 4e ec 9f 1d 0b 24 8e-73 58 20 06 5e c4 bd 79   SN....$.sX .^..y
+    0050 - 23 38 e3 a6 a8 a7 65 91-ee b3 19 8d bd d4 6f 27   #8....e.......o'
+    0060 - 4f 18 e4 da ea 9f cc 25-20 05 28 68 5d 93 21 d5   O......% .(h].!.
+    0070 - 87 b5 12 da f3 38 f4 1b-1e 70 e5 0a f3 8c 6e da   .....8...p....n.
+    0080 - 8a ac a9 99 06 b2 be d2-2a c6 50 ac 9e c8 ef af   ........*.P.....
+    0090 - 1d 33 0d 20 e3 21 9e 90-a7 81 89 e0 bf b5 cb f7   .3. .!..........
+    00a0 - 2d ae eb 0e 94 51 c0 80-50 cd f5 a7 a8 c7 30 e8   -....Q..P.....0.
+    00b0 - 74 78 54 69 ff 78 30 47-1e 73 d8 18 e4 d0 bf 8e   txTi.x0G.s......
+    00c0 - 6b 40 7f c6 72 1e 8d 05-34 f3 87 17 b5 9f 15 36   k@..r...4......6
+
+    Start Time: 1569675628
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

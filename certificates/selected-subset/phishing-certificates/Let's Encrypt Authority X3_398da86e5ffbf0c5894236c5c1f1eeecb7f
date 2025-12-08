@@ -1,0 +1,92 @@
+http://winstonwells.co.za//.cm4all/include/digitalaccounts-mybethpagefcu.revieW/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = winstonwells.co.za
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFczCCBFugAwIBAgISA5jahuX/vwxYlCNsXB8e7st/MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MTAxNTM5NThaFw0x
+OTA4MDgxNTM5NThaMB0xGzAZBgNVBAMTEndpbnN0b253ZWxscy5jby56YTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALESBW2ujPPKLdhpL/uxuZmX+J14
+E9qn2vUGaaHp0vwPh0pEPBHnJUNiaZnerCa+QV135UDL5Q2TfmcpAVMFP2vREo3h
+Smnvu6xQNIpUob+wrjXVfvta33+Q5G5AQwCNrkq18i3+ESDfngXDg/IfkoJjDoDE
+56av4C2Ua0omDx9hE6Y81+SaX46a4DHIxitZuA0TYPEjcO+qNUKT3I5TJbJnoxVD
+Uyjb4pET9Deu/XvXER02yeBYNcF/pYSkb8dZ9KPBXPNMijX8CHqrbj82M92xE2je
+PfsD95TjmIfS2UpvalVcLB9sPvb2S3JHZgWYbQRSBfB6S/iAz6puSIXwOM8CAwEA
+AaOCAn4wggJ6MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUB4UAIwQutsVCjNnbaBui
+Yyttu8YwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzA1BgNVHREELjAsghJ3aW5zdG9ud2VsbHMuY28uemGCFnd3dy53aW5z
+dG9ud2VsbHMuY28uemEwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMB
+AQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggED
+BgorBgEEAdZ5AgQCBIH0BIHxAO8AdgDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8o
+kwGd3fHb/gAAAWqinZo0AAAEAwBHMEUCIQCGb6dlC26nVnQ0G+Ztgk1Op0rubIfF
+QuI3gGlAyctztwIgdL0G06YJYPgfEZXbeZIWSs0ZKWcYU+WvESkKRc9O2NcAdQBj
+8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4scdoVEvYjQAAAWqinZpZAAAEAwBGMEQC
+ICUmchL3w40u/cpf51Nr8mayuvvxh0BoehUOv8Fk2jx1AiAkbB+2kaf9S/LZrYQb
+w/yRdFbfAPrB/ZYaQlCu3ncfLjANBgkqhkiG9w0BAQsFAAOCAQEANOBgQIahuz4V
+2qPl4/Ujqr4KmDIcmPP+7lb80Pbn3uFi3Jx6CWO3+WE7QwVr2QpWnuheBqzpB6gG
+OkXa8ilDenudyooQrG4EGfIjTFRjd2zO90iCVi9qjDhNk/hONtTyHoMN57/OxhWZ
+uFK7W2z8wLVy6hkWeU4/LMBgboqIKtRwFPkoNEaD9KKKv2ViImr0/YpFPSY3lpoo
+F1K6S1xQjXFb8DQLdlJ3Npe9CgHRhX41Gd/NPRW1Kv14TwOUQCduJ/KZG/sYKG/5
+HBXmWXc4yiILAAI45ZtGvctqkT7k6Z8Wai2sSLSRAHrf/z8BnL9RwMAv2aJLiZUB
+FoUioYRnVA==
+-----END CERTIFICATE-----
+subject=CN = winstonwells.co.za
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3282 bytes and written 456 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 9F54809885478D2458C807B3510CD14D3F29FE748CBBFFCD033E7FA7B73ECE17
+    Session-ID-ctx: 
+    Master-Key: 88A39D2838B1A110841A9282A8AF7C6FA92BC46465F4EF0DB38A501CECF22DA1B25E9AFBBD168FBEBEC7F5FF94606FDB
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 26 4a 99 77 4e 66 f4 60-b1 c7 a4 2f 06 b6 c2 ae   &J.wNf.`.../....
+    0010 - 97 3c 85 e7 fa 60 58 33-a1 ac ad 6a 54 58 43 3a   .<...`X3...jTXC:
+    0020 - 18 93 ec 7d 06 cc 0d 4f-68 88 c4 a5 3a b1 3d e1   ...}...Oh...:.=.
+    0030 - 89 54 65 ff 5d e6 9c 19-6a 9c 31 12 f3 79 c5 a5   .Te.]...j.1..y..
+    0040 - bd a7 7d 8c 8d b0 36 6c-fe 03 c5 af 8f fa cb 9e   ..}...6l........
+    0050 - 79 3d cc 24 d1 a6 55 1b-96 75 5a 47 9a 98 6a fb   y=.$..U..uZG..j.
+    0060 - c9 64 49 a8 07 34 3f c1-40 7c d9 b4 55 8f 50 7b   .dI..4?.@|..U.P{
+    0070 - f0 61 1e 1c fb f8 d5 79-b6 07 c3 6f 88 87 af 54   .a.....y...o...T
+    0080 - 12 cc c7 f0 54 c4 51 2f-c1 a6 92 63 89 31 c4 e3   ....T.Q/...c.1..
+    0090 - c3 67 1c fc bb 0a 56 3f-34 cf 27 88 c7 76 8b e4   .g....V?4.'..v..
+    00a0 - 6b 1c 64 2b 2c 68 81 92-7c 53 53 22 b4 77 72 80   k.d+,h..|SS".wr.
+    00b0 - 99 39 76 d9 b2 f2 20 ba-df 33 ef dc be 61 71 bd   .9v... ..3...aq.
+    00c0 - 70 36 96 bb 2f e1 a5 bb-99 78 af 81 bd af de d1   p6../....x......
+
+    Start Time: 1560517229
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

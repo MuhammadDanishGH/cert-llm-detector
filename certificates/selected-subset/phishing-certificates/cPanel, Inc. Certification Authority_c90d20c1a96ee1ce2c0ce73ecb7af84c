@@ -1,0 +1,72 @@
+https://www.santanderpl.com/onlinebanking/digital/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = santanderpl.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGhTCCBW2gAwIBAgIRAMkNIMGpbuHOLAznPst6+EwwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA4MjcwMDAwMDBaFw0yMTExMjUyMzU5
+NTlaMBoxGDAWBgNVBAMTD3NhbnRhbmRlcnBsLmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAMY42DmFQf1gxI+detwcoDlguIkIIz7iswOQkxNizCky
+sBLhjALbskh+El9anNfCKg8Wc2dedMQvBcg2XtfO9y2CZzF9rLCS+RJDJXz1KurU
+RLKQ+gV5YAX2fTbQnNxpdq2JLjDVic4rLVkbaq5/0QjtS+qImehgRMcwwxC8Hh0V
+SezyT7cUQcx2amYsOW5zVUKKtV1GNGJiXrIOdUIVsJyGQpDZDpu8pylOdSNCpV5H
+pXhQkw+EhzvUP+p1IsjaJV7GdKnRnAmEa7MSvqGPI75hif4qzTqlDV5b5DeqTZoN
+IB8ILFbT6MLlGsT+LNZnXUxYv1hi2yvucX4zFvGWjnkCAwEAAaOCA2wwggNoMB8G
+A1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBQ4zh9SxmXp
+HrjcQKpTaqDAfwgJmzAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIx
+AQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZn
+gQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEE
+cTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJ
+bmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDov
+L29jc3AuY29tb2RvY2EuY29tMIIBAgYKKwYBBAHWeQIEAgSB8wSB8ADuAHUAfT7y
++I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7hU2PYAAABAMARjBEAiAF
+xHH67poJooedlKQonB6bal8cfdQsX3PBjaJUmSlCkQIgRPQtoWYKtfZls5KtAriJ
+SV+uuf+6h9rNPS/bxatxhRQAdQBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOW
+tbaBqAAAAXuFTY8eAAAEAwBGMEQCIBxPsSO9og+9Cv2lKCeunIf84dn8hlJ9mkru
+JuFYer+LAiBA89DprjjIUZ5WVH2B189MmRl/BG6wn4SvJzaAGk7eOzCBygYDVR0R
+BIHCMIG/gg9zYW50YW5kZXJwbC5jb22CFmNwYW5lbC5zYW50YW5kZXJwbC5jb22C
+G2NwY2FsZW5kYXJzLnNhbnRhbmRlcnBsLmNvbYIaY3Bjb250YWN0cy5zYW50YW5k
+ZXJwbC5jb22CFG1haWwuc2FudGFuZGVycGwuY29tghd3ZWJkaXNrLnNhbnRhbmRl
+cnBsLmNvbYIXd2VibWFpbC5zYW50YW5kZXJwbC5jb22CE3d3dy5zYW50YW5kZXJw
+bC5jb20wDQYJKoZIhvcNAQELBQADggEBAAUFTD3gczR9KPRlzW9p8AaPQJHPf1YZ
+bLfhl02aXzx4zCxLB/Cx0ykjkDGZTQ9+DxtxoQUjHMj27Jd5n7+CWO771hCKRgrP
+w1w+nj5TMTYpC2gTWeVmQ1y2H5gfKCwoJ9IWwyr1Xxm5+UTkKM8WmUKUaFn7xBTa
+49XXHD6Nz3HqnKs1cteX3x5Kpz85XdOPefTeY9q6YAwCXtHEDM54t7oOhefiHkMP
+8Tfd4/AglL1TH3xfh0aLBN33al10nq1tl1XTODhgWWS95PfdktNi+jfg5uguWSVA
+7hCryb05R+uOL71D0HfwryVnrFs29QcEe4sMzgiRmxRf3oJlhkn/PiE=
+-----END CERTIFICATE-----
+subject=CN = santanderpl.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5108 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

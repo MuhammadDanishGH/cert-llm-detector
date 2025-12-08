@@ -1,0 +1,80 @@
+https://zoiuoo.tk/lep/nsw/data/UntitledNotebook1.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:OU = Domain Control Validated, OU = PositiveSSL, CN = zoiuoo.tk
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF6jCCBNKgAwIBAgIRAK2Uz40KGjLHcp6lBRqSgBUwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0xOTA4MjcwMDAwMDBaFw0yMDA4MjYyMzU5NTlaME0xITAfBgNVBAsTGERv
+bWFpbiBDb250cm9sIFZhbGlkYXRlZDEUMBIGA1UECxMLUG9zaXRpdmVTU0wxEjAQ
+BgNVBAMTCXpvaXVvby50azCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AKa9BmxuBPZPjqfDLxM52FvZYepqQdfrA/iysz8fXVUUNxcPWlTjaut9j121WZW9
+EJQ6snkwgQW39VH/4JqjpyfwQXIhHUcHzLFmbdJm+yExry6W+UE2WfFSijXU0Cpd
+9ybw6Sv/biBV/K9AXujXI5hsEO/J/d7a37HvlG7sDvXLLa7LyaGSDjFLDmtlnq8a
+LtnJA89jrdwuOF0KHYrwboTlwqxo7oIQA9NfvyAN59oT4XgywsMgFsCA0871HNVO
+/Hio5Rz8dJMZn5rmuPuezdA5aeIPjFY0S8KXV0pJr0KO1gnmwywnYvf6p5i5bSoJ
+x94d7j/jmNPbt0fQIyrzb3MCAwEAAaOCAoAwggJ8MB8GA1UdIwQYMBaAFI2MXsRU
+rYrhd+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBQsqAxK0ptCTFRuhqZnaYT7O3Y75DAO
+BgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUF
+BwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsGAQUF
+BwEBBHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0
+aWdvUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEF
+BQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wIwYDVR0RBBwwGoIJem9pdW9v
+LnRrgg13d3cuem9pdW9vLnRrMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcAsh4F
+zIuizYogTodm+Su5iiUgZ2va+nDnsklTLe+LkF4AAAFs0u060QAABAMASDBGAiEA
+y6hzI0gD74Dx6ZqEsHutbQ1vqGXhhuTStjBR7t1jXi0CIQDSj0ttWiTBOit673co
+uWSxqJaVlVm2CG4bHau0Dn4jKQB1AF6nc/nfVsDntTZIfdBJ4DJ6kZoMhKESEoQY
+dZaBcUVYAAABbNLtOuYAAAQDAEYwRAIgK/dDzLu2omu5KZKPTdVeDnmr1dGj+mnO
+2RcxcQwGyAcCIHnlMWLTAEhPlQYKsniTEw0uf557XGgCeYecJeNmLK0+MA0GCSqG
+SIb3DQEBCwUAA4IBAQCvqxUOVRhd88gtn3sLm198dilE75o88EI/wieknhFU1qKn
+Xc6tYOzLMJiWm+FmX0QbnOBdFTWgtjFGpA3TK38SZ2o3pMyN8RfkZaYymev3cRBg
+bVIyYRAgQdPGkykpLZ1+TtPW1QVZXmrpRutFzHxFeVzK2qCnlRznc7A2r7mqw+Ph
+gHt+J8v0g9OPnXLUb40ImkqLOfaKJtXqzVoyrnhwwyNIJykZSWGK1hyyTEJ+UHlb
+MrhGbe1TAsQ6Sk+aDXtTQ8UVhSQcQRET0kTM06SRkHct5Wf56R2Fz8XZdaBHsi0F
+pmkEL3RBIwauciO2NoLEFpE1yx/vg2vXwWsSwpaS
+-----END CERTIFICATE-----
+subject=OU = Domain Control Validated, OU = PositiveSSL, CN = zoiuoo.tk
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4997 bytes and written 447 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 38BA2FAA6167445ED45F05B910FA2A48213388723D69E91375C7F0322102B867
+    Session-ID-ctx: 
+    Master-Key: EB72AF99D08F4064CD77DB114204B887C7A6938F8F2F958873E0A9AAE6734F3D8094DD85C74F4F7F1DF537AE540654A9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1566997233
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,67 @@
+https://bold-lichterman.45-81-232-15.plesk.page/beleid/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bold-lichterman.45-81-232-15.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFgDCCBGigAwIBAgISBB5DSR5FppFVIbdZQUBabsfsMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTYxMTQ2MDRaFw0yMjA0MTYxMTQ2MDNaMDIxMDAuBgNVBAMT
+J2JvbGQtbGljaHRlcm1hbi40NS04MS0yMzItMTUucGxlc2sucGFnZTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAMr0gEmsVVw4u/tmAmOV1NQDsNYOmgU2
+S22EOdnR2EjsxfIXVa/qR8L+ZsWilQhiDGB/t8Xkxu5Upf8nc0KIpMP9P9keNq7E
+8TTHKsgKpEOBNKYBAJMHdiqUYL6kW9l3vACGnIpJNPuTDe1+8JQ0DV9FKO40fSoL
+0bZXETRpCqHQ22zHuOk76D4WRJdO483KLm2nrmsJdMqryhROcn2ukbkUz9Rnm4C5
+axapCgcxMmxMDK7IqcKkszrn9rJGKg5pxOulVSbbSGnSXlOTZqxKbSSGMfKvHoVF
+Tlq94THnCZC3gaRhCMYzC6w9Ah1w6cFeBOf/2rjUVaivMZk9tiodnlUCAwEAAaOC
+Ao4wggKKMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUcJkIz80ubkOYA5vlKRJC3Qgy
+n1QwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEE
+STBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUH
+MAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wXwYDVR0RBFgwVoInYm9sZC1saWNo
+dGVybWFuLjQ1LTgxLTIzMi0xNS5wbGVzay5wYWdlgit3d3cuYm9sZC1saWNodGVy
+bWFuLjQ1LTgxLTIzMi0xNS5wbGVzay5wYWdlMEwGA1UdIARFMEMwCAYGZ4EMAQIB
+MDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2Vu
+Y3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAKXm+8J45OSHwVnOf
+Y6V35b5XfZxgCvj5TV0mXCVdx4QAAAF+YuxbwQAABAMARjBEAiAXpSu02fFX7fUf
+HQ+PJXcGvNzi9+OtI9ggSYaBQ2UDqwIgB2vwSWtVhoFtAwozObt2HbV5GBVAYAC0
+4E3+sZDO9zYAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAX5i
+7FvvAAAEAwBHMEUCIHUFSLBayP8xQhmzDa8ZT26okK9QVKkdyG8yxfEmIE6qAiEA
+0nuHbyqXAASGBjzObXkVoZ5SOlDTUgJQcPZa9LepHB0wDQYJKoZIhvcNAQELBQAD
+ggEBAJC3tKDC3xywfjbTmI3OVB3gdZdGTGX4fpNEQ2ebrJ3vCIy3yUX2Q3oUQFds
+64s8+UOCsiCoqiLRaF4ithrgEWt7lCvukAfsp7hyEarEepG8b9mDbf/swRqfyO7o
+2kWbqbOWMb6UE+mS3xsjjI4FCKpB2UL9XhVhhVwvJmcr5riIaB9gnhCc/uGrVrlr
+ZUxj3Uap++I924Z6lIBu3BZ3ZHBwChCeUaevNZAK/eFy65pE8Uq0iR8t5LzpGhfD
+rhmv3rLkWW+yyYQpGE0BjcnH1f0RAbDf5ciNWtIxUjZmABvMlRO66u9684g/1fLn
+OgHkVYLArtD5GzFggViOO3qzCPE=
+-----END CERTIFICATE-----
+subject=CN = bold-lichterman.45-81-232-15.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4668 bytes and written 413 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

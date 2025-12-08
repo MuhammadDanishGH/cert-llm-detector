@@ -1,0 +1,71 @@
+https://services.runescape.com-ro.ru/m=weblogin/loginform477,427,369,26265226,2808
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = com-ro.ru
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGUTCCBTmgAwIBAgISBDZriaP3F67aFAdxLO0NgGOoMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDMxNzUyMDhaFw0yMjAyMDExNzUyMDdaMBQxEjAQBgNVBAMT
+CWNvbS1yby5ydTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBALq2DdJL
+Z9U4pXBWpVNgGfFBuqgwCIo0LdY2EQPu9gNc5Cg/ZWLEjPoXSh4FJOr6oMoFFRdH
+eikwCJev0hOxSaMGr/JJfQObIQtkQ/2gAnbmVh5qOdg4nDa8sEvfsPtMi5xSI6rn
+SU7srbixrM5874bNLkkh1XctwDIQhPoTlaKqY0chvJ506AzYjRztrWJF8pB+VNT5
+lIF5gmFtuFrm0t5pz9G8NT14EELgw73xS9EjMh3h9xM960WBuB99NrihaQXrO7+X
+wsFtHhBq6ENBH9UK6AFtE84rqzVdVqV11PqvTCi9tH/aKj7GLWOXDBz5pS5APDan
+D0l4xI0mT5FMLpLD6ruS2LrYLkveLi8ofpAnNK61YhwRRFJSs/trvPmisClpyq80
+J3eAnIjWV84zi4MNoZsTV8gvDNt1O76ePNKGQnplMiYPBkWnmdsZB7J9cTcl/LPx
+uspPRBU1jcr9b2RCRQeXjW3VOvnJAq40Jjv1YGpS6bhFSwLSsfQBpjzFJysjmGSe
+s61ADi8Cy1WzwPPe7tYRdDsYATmzUq/W7rQluWg7zk6SSgvcWT1o/8FbR+ZVAT/M
+AODipyKCRywzjwPK8bNXTZ0yfXgvxTzEuBx4B5y8nlTmbjK0ZaVu00d+QqfGYKa5
+liWwKaG+IA9xSSlr0dL80Cq+pNpeno4fJ3XhAgMBAAGjggJ9MIICeTAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFOeesXsmFht14u43ceZOu/IwJtziMB8GA1UdIwQYMBaA
+FBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcw
+AYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMu
+aS5sZW5jci5vcmcvME4GA1UdEQRHMEWCCWNvbS1yby5ydYIac2VjdXJlLnJ1bmVz
+Y2FwZS5jb20tcm8ucnWCHHNlcnZpY2VzLnJ1bmVzY2FwZS5jb20tcm8ucnUwTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHx
+AO8AdgDfpV6raIJPH2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAXznJOsMAAAE
+AwBHMEUCIDONrkf5RbPuI6+oJH3Rro8zwIBoo7VGgmug6Jn0adihAiEAgZVRgzO3
+HRRxhpVoTDOiOD8oPuWjz8+/HAcjrH3Yws8AdQApeb7wnjk5IfBWc59jpXflvld9
+nGAK+PlNXSZcJV3HhAAAAXznJOsAAAAEAwBGMEQCIARJQZyzEATG+JKqvkTyXn+1
+RMAwbhpFvyALT0Y6vGPZAiA2mwr+R5CZYjL8cs8f/vb8UNa7iY9423YSATIpi2eM
+izANBgkqhkiG9w0BAQsFAAOCAQEAmJUETELj778rTF3MNi2IoVQmOkxiC/gT2zcC
+InjdieAsVzJMwKAFseC/B7SKeLP81bA2m1Lv7CbtA9K2RvkUBIjuVAKw1x2icWa/
+IUa5sJmYiiv4Lq+ftvcWYoEFUW0h+12pPmrWV5qOsOOd0Nl0W65nHwsgrO+0wAve
+HADd3R7S51QiR/CH5vjw3c3PLcbMeGaheedwahJgcmUcwUwEom1sM+69eR/gkOD/
+fCeeMtZ1Rx3GZfZO+EGGOr3uXg2OZuuaFZcbSVkxBZfpc9hQRTrUi8Ws+b7ShmkX
+o6Riyk0KGWVW81X8rUhS83/Igu0P5h6yOYX/RZRQnnMYIhq94w==
+-----END CERTIFICATE-----
+subject=CN = com-ro.ru
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5133 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,96 @@
+http://attsystem.net
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = attsystem.net
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+eAvanpqmgA==
+-----END CERTIFICATE-----
+subject=CN = attsystem.net
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3758 bytes and written 451 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 0ACC5A94BB00511648A8996E40946429986583E8BA7B3B330052444B36C7E611
+    Session-ID-ctx: 
+    Master-Key: DCA8C0C1F90CFC5E79BE9D940EE2DFFF5B1DDE4C1382F51D2DA2A73C8C5F97B64D3B618553A91EF30B5606575C28AE06
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - b1 c8 3e d7 b9 e5 83 4a-1b 45 39 48 e8 7c 33 c3   ..>....J.E9H.|3.
+    0010 - 50 3c c2 73 52 9a 6c db-42 04 a3 ea de bd 2e 82   P<.sR.l.B.......
+    0020 - f1 88 ba 7c 8a f8 0a fb-e7 cd 03 77 10 85 41 ed   ...|.......w..A.
+    0030 - 8d bd 89 b4 cb 92 45 9f-e3 28 6d 90 9d e8 f4 97   ......E..(m.....
+    0040 - 1f e3 32 03 7d e7 36 bb-39 51 93 2b 83 c7 2e e6   ..2.}.6.9Q.+....
+    0050 - 5c 2a 51 46 2f 71 27 54-0a 45 a7 57 c6 28 29 c9   \*QF/q'T.E.W.().
+    0060 - 51 c9 a5 5a c2 db a0 ec-8a f8 e6 de 35 22 79 dd   Q..Z........5"y.
+    0070 - 71 7d b6 29 1c 1c 0a f0-93 55 10 2d 0e 55 61 e1   q}.).....U.-.Ua.
+    0080 - 00 6c 27 27 0f 8b 67 d6-f4 79 29 aa cd 4c 96 ae   .l''..g..y)..L..
+    0090 - 75 7f e7 fc 47 6a c1 d6-13 ae d5 d9 26 d5 21 fa   u...Gj......&.!.
+    00a0 - b2 c5 6f 53 4b 17 b4 8f-24 45 fd 4c f3 17 0a 7e   ..oSK...$E.L...~
+    00b0 - 28 64 c0 47 0d 61 1b 8e-3a 6e 19 b5 9d f7 9b 86   (d.G.a..:n......
+
+    Start Time: 1568466028
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,91 @@
+https://making.servemp3.com/?checkid=a@abc
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ques.servehttp.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIKCjCCCPKgAwIBAgISBMr3+jUCMexFzFuvOmIqpNDxMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTExMTUxNTJaFw0yMTEyMTAxMTUxNTFaMB0xGzAZBgNVBAMT
+EnF1ZXMuc2VydmVodHRwLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAMtGlewoPIc8dx/rxwg1+2eeb61irJJRFpv83XLbIn2ZmhPgYbeJf+a1KfrW
+o/ds5mKlZRSJnc2TNlNLJE1XCpCAO7/jq0saZMYeJQq6LbzIcAMO4Fi2jf0kCmkv
+istlv1FXaiJPlwwkn85IAlojI8lNsFiiPbQlfAXUAzIjWxhYJcp9dZbqYo6Q+iTo
+0e0o7sRwNb7Obj9OKWsp7/O/Hdf+TJMGrtk4bTsV2OIVx9+gJ1LsHLRbZdMF9ZEA
+T226NZ5Eu614sup68/DaDoBO9JlVy+J5ixt3/5MioMNMSjVR2i/baGBzIV0vzgN9
+0fwiAkCpIzT2g84SiYlhZsQTVyECAwEAAaOCBy0wggcpMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQU/QJI79b/v1nMVI39IQfyamesojAwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wggT7BgNVHREEggTyMIIE7oIQYnJvdGhlLm15dm5jLmNvbYIVYnJvdGhl
+cnMuZGRuc2tpbmcuY29tghBjYW5kaWQubXl2bmMuY29tghFjYXJlZXJzLm15dm5j
+LmNvbYIWZGFuZ2Vyby5zZXJ2ZXF1YWtlLmNvbYIWZGVzY2VuZC4zdXRpbGl0aWVz
+LmNvbYIUZGlhZ3IuM3V0aWxpdGllcy5jb22CFmRpYWdyYW1zLnNlcnZlZ2FtZS5j
+b22CFGRpZGF0ZXMuc2VydmVmdHAuY29tghRlbWJlci4zdXRpbGl0aWVzLmNvbYIU
+ZXRjaGVzLnNlcnZlZ2FtZS5jb22CFGV0aW1lcy5zZXJ2ZWdhbWUuY29tghRldmVy
+ZXMuc2VydmVnYW1lLmNvbYITZXlvbmQuc2VydmVodHRwLmNvbYIVZm9yd2FyZC5z
+ZXJ2ZXBpY3MuY29tghRmb3VuZGF0LmRkbnNraW5nLmNvbYITZ3J1bXAuc2VydmVw
+aWNzLmNvbYIVaGVhcnRlZC5zZXJ2ZWh0dHAuY29tghRob3dldmVyLnNlcnZlZnRw
+LmNvbYIaaW1wbGljaXQuc2VydmVoYWxmbGlmZS5jb22CFWtub3dpbmcuc2VydmVo
+dHRwLmNvbYIUbGFuZ3Uuc2VydmVxdWFrZS5jb22CE2xpbXBpZC5zZXJ2ZWlyYy5j
+b22CE2xpbmVzLnNlcnZlYmVlci5jb22CE21ha2luZy5zZXJ2ZW1wMy5jb22CGm1l
+YXN1cmVkLnNlcnZlaGFsZmxpZmUuY29tghVtZXRpbWVzLnNlcnZlYmVlci5jb22C
+GG1vZGVybi5zZXJ2ZWhhbGZsaWZlLmNvbYIVbW91bnRhaW4uc2VydmVpcmMuY29t
+ghBtcGVyb3IubXl2bmMuY29tghNuaWNhdGUuc2VydmVpcmMuY29tghVvYnRhaW4u
+M3V0aWxpdGllcy5jb22CEG9uc2hpcC5teXZuYy5jb22CEnBhcmFnLnNlcnZlZnRw
+LmNvbYIQcGFzc2VkLm15dm5jLmNvbYIUcGVyaW9kLnNlcnZlcGljcy5jb22CGnBv
+c2l0aW9uLnNlcnZlaGFsZmxpZmUuY29tghJxdWVzLnNlcnZlaHR0cC5jb22CE3F1
+ZXN0LnNlcnZlcGljcy5jb22CFXF1ZXN0aS5zZXJ2ZXF1YWtlLmNvbYITcXVpcmVt
+LmRkbnNraW5nLmNvbYIUcmRpbmcuc2VydmVxdWFrZS5jb22CFnJlbGF0aW9uLnNl
+cnZlcGljcy5jb22CFHNhaWR0aGUuZGRuc2tpbmcuY29tghNzY3JpYmUuc2VydmVt
+cDMuY29tghVzZXRiYWNrcy5kZG5za2luZy5jb22CFHNpbXBsZS5zZXJ2ZWJlZXIu
+Y29tghZzaW9uLnNlcnZlaGFsZmxpZmUuY29tghRzaXRpb25zLnNlcnZlaXJjLmNv
+bYIZc3BlZWNobGVzcy5zZXJ2ZXF1YWtlLmNvbYIUc3ByaW5nLnNlcnZlcGljcy5j
+b22CE3N0dWR5LnNlcnZlYmVlci5jb22CFHRlbnRpb24uc2VydmVtcDMuY29tghR0
+cmFuc2NlLmRkbnNraW5nLmNvbYIUdHJpY2tsZS5zZXJ2ZW1wMy5jb22CFXVuZGVy
+cy4zdXRpbGl0aWVzLmNvbYISeGFtcC5zZXJ2ZWdhbWUuY29tMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYARJRl
+LrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAF71OoJiQAABAMARzBFAiEA
+hgMXIGLnt34aXx90yVCy06voCkJqUmq0KM/GdDgx5rUCIDtTn+3b2v5n+lRoT2xI
+OLB0isX+C621LbYoYHsjckV/AHYA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98MLyAL
+zE7xZOMAAAF71OoJbAAABAMARzBFAiEAy1glO/0t5+lS5ExjppdwRPO16+t20+w9
+CjNUZlTAkh4CIAsKNj6C7BeN5uFGQaxGBUomP88/ebiTTBZzcUUBxSNDMA0GCSqG
+SIb3DQEBCwUAA4IBAQBPmd7SDUD9wVEDJoAhkxbACI02BcaSf/65ZVHT2BeMrgks
+APUBUeRRgxyzRdwciGV0fPTr6KqHrg3ygmePFEE8nNPFD6zjsmzE/OM9XA/wb/nY
+I2EZQRJAbQ1cywcylBBpOEGcwfD6Alsr/7VQIhDgbwrSifQcclydsuHN66nWXOSO
+zkPKJAik+Oq+DdUqxNladBBA9ie0lIGIXykcQqBFEZ/Oj0bQg7QnDnrHEufcC0Zg
+x0x6OUFI9SihNzB9VdDXaDWlEuYNiWi8y4COy/iGY2BhAuekf5NNFZjgYepPi+j9
+PplPwY9Nu97/f/N54YCEe+iHo/lNjFI6FGFUv07r
+-----END CERTIFICATE-----
+subject=CN = ques.servehttp.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5830 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

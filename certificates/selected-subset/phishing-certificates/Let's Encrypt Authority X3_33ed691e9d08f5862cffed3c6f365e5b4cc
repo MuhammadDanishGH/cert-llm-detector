@@ -1,0 +1,93 @@
+https://justklick.pk/wp-content/uploads/Discover/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = justklick.pk
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFtjCCBJ6gAwIBAgISAz7WkenQj1hiz/7TxvNl5bTMMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMDgyMDE3MjRaFw0y
+MDAxMDYyMDE3MjRaMBcxFTATBgNVBAMTDGp1c3RrbGljay5wazCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAMo3Nt9WG8Lyzj9+23UX/4M2oLDAhwYCtnt0
+e3dPlKG0ZQqC2IavZ/R8ULjVUlquEI+Ok5tc/ulgXOMUoFw8SwWBXKkDxWPuHpAC
+rnt4IPfFlx3k30qyaYo5ZmvGcrP31XAgCy549ZgGtKJO7fG+wnp9o0J7R1CxSpzB
+5l0G5dkTY8UjEd4PdQf5pEEgnN8KXEUWmkaNHhhVS1gHJykOSe/qp5xBU875Pw2i
+RLaP13gkC7gL97x++Nkpa9YgokxmbgBJws2KShFkhSXdSCy/Lgd8G1Imos4zySoZ
+Y1H7PVk9BCYXMpPuDo9v3b4gdtChe6nBV3BwRPo6I9OW9ScqRyECAwEAAaOCAscw
+ggLDMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUYPSZax25vhi7+Eqne8Vgwz+fe6ww
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzB9BgNVHREEdjB0ghNjcGFuZWwuanVzdGtsaWNrLnBrggxqdXN0a2xpY2sucGuC
+EW1haWwuanVzdGtsaWNrLnBrghR3ZWJkaXNrLmp1c3RrbGljay5wa4IUd2VibWFp
+bC5qdXN0a2xpY2sucGuCEHd3dy5qdXN0a2xpY2sucGswTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBep3P531bA
+57U2SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAW2tO92tAAAEAwBHMEUCIQDyPTLX
+wvAIwf2ynf2jV5FJrzl4saiGUxRNEya4GP2kVQIgFgZdQ6r2BZ4u2d32ZF3pJcaE
+fMDQcZGjCBHn1l3kamMAdgApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0
+eAAAAW2tO92bAAAEAwBHMEUCIBsqDAwZqgYb0UbRRLioWUtwlDbc+KtNXdOmq3eM
+ZaoqAiEApPQFz1aSbh8q7KDb6GdEiU8AseLjJ8txJ6662BWVg3owDQYJKoZIhvcN
+AQELBQADggEBAEwwUtCe0+W+Vjqq9+nC6qLd6XORl2pEwBy6s0i7rjvbCc6GLdaX
+QcQwP4tiGcj2lYuDjkafpUuKchprLedxE+3VnVjWWJ3vY0QAqAP4pY8UfZtjlbSW
+xH6xFWXPB5SO3fzdsWu14yPZCIe0Fob/u+cF17QDimx8QXP1+LyQ1cGNO7ePlNdD
+4sOSI+1nNeSKJCBhzZcZN74gCR5Orpl2/q8c67E4RP5dWTdzPY28JymV6eRV695J
+2GdEt5XGsXa9QcQjyqMWUOdDMQHJnjxy/YleyhlHPjHwyqyw81VO8SZX2TyRK0BB
+DdKpsfn7S5DV8gtSU/ioWRrmM2UdQZ5q0Ro=
+-----END CERTIFICATE-----
+subject=CN = justklick.pk
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3349 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 1ECAEB988A052EC6BC3CDB60509FDF4E42F9E20C526CD33A97D5149153845B99
+    Session-ID-ctx: 
+    Master-Key: 1ABF8E825E473C15305FC8FA04BFBDFFF8A96CE78C9B028DFF58061FAC0876DF769E12C9ABA665895F00FBFD63B7A64F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - b6 c1 54 d3 33 de 32 44-eb 5e 80 57 f2 bb c6 4b   ..T.3.2D.^.W...K
+    0010 - 53 02 26 4a 58 a9 23 96-7f 20 cf 65 e7 7e c6 80   S.&JX.#.. .e.~..
+    0020 - 02 03 2e 06 8f 4c 18 b7-9d da 4b bd e4 6b a9 dd   .....L....K..k..
+    0030 - cc 45 11 6e 26 ed 5b 8b-8c c8 72 03 1c 9c a4 18   .E.n&.[...r.....
+    0040 - ac 71 7b 49 cf 99 ce e6-a6 1c 39 ae d8 4b fd 09   .q{I......9..K..
+    0050 - e8 6d 20 11 9a f0 07 6c-e3 9c 16 5e 77 9a 1b 98   .m ....l...^w...
+    0060 - 69 a0 89 92 5c 1a 42 55-c0 f0 15 78 70 d7 d7 33   i...\.BU...xp..3
+    0070 - 3b 19 a7 85 70 4f b2 a3-9f d3 e8 4e d6 e7 02 4a   ;...pO.....N...J
+    0080 - 16 77 ad 10 f0 6d cd 9f-15 0d 85 94 03 db ec 44   .w...m.........D
+    0090 - bb 9c 45 0b 24 8a 69 a2-2f 08 97 e3 58 71 1b e3   ..E.$.i./...Xq..
+    00a0 - ce 5b 78 d6 9d 74 71 4e-d2 27 f2 c0 f9 4b 51 a8   .[x..tqN.'...KQ.
+    00b0 - 02 8e 6d b6 8d 9d eb ef-37 91 1e f0 69 74 46 d2   ..m.....7...itF.
+    00c0 - 70 9f 95 00 91 ff af 2d-2a fb b8 e4 10 63 ac d1   p......-*....c..
+
+    Start Time: 1571749239
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,91 @@
+http://fastupdate34.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = fastupdate34.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJzCCBA+gAwIBAgISAwebxaizFyHmRv1SH1eQLsP/MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTYxMzI0NDVaFw0yMTEwMTQxMzI0NDNaMBsxGTAXBgNVBAMT
+EGZhc3R1cGRhdGUzNC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDN6xsRZ4u7VzDVhONXWEuZ/ZHIy9uFbZbDh+uz1FPNoBvllxBAOQlOCN0Jr07M
+PXPFiUsWDYbg9OxADrN644sbguE8USstU2EMFr7eKlTOCTPiGDpzm3QN0zxEErti
+mqDAqeeFbbg64fBv7up9e1Lp62TexL1kZZkXjjHa3bOrFcpqQyBVc1Gmt5dCqGC4
+7MxltArD6Cm+rAgoteLoWbFXTqlNwkOg1xJJdaUUzMW+LfeDk2t8s6cKOxOHrJG/
+QAgQ76SQtd/DTdmXeoMnPitAH/5evLeLQVGNrO6vzRgc9BpiJS5hqRyvXKVzE+1/
+mkW55PSPbAj1P1LjMIto9kQPAgMBAAGjggJMMIICSDAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFFvknLk8pFVuupngyq5twI2DfSlYMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMBsGA1UdEQQUMBKCEGZhc3R1cGRhdGUzNC5jb20wTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgD2XJQv0Xcw
+IhRUGAgwlFaO400TGTO/3wwvIAvMTvFk4wAAAXqvtJXiAAAEAwBHMEUCIFfn1sST
+qLEpMGBpVm+L0cwnrqvBdA1O4R9bzUHLdbfSAiEAkxIze6i6hFxp/tz3fiuppT1S
+DzQCTc79/WvxxpZedDYAdwBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZ
+EwAAAXqvtJdEAAAEAwBIMEYCIQDTrFNprveZmcUMDFxGscpl81kQNRT+YhZ527da
+ayZWcQIhANJs7wHL07rsp9KYPuVjZp35nLwxofsrNsGo0IIVfjVyMA0GCSqGSIb3
+DQEBCwUAA4IBAQBOB7ji3z46T5PzcTveSHaylw58PkB+9Vf4LOuHNH2LzUkywqqt
+D3Vll9jPQZWMOzXaexOzZ2NtOEv6M4HeJB1Z+A1yu5tUAQkswNIfVhd0hxZEFylv
+K7YRaIqoctSghUfP3GldybphoWC6r4737gjc4n0lS7X1kSXXjsMkPEGZU91tt+cu
+mMVttMDmSHMs2qVB+gjxMBhFggkXeRVP0M4OEWoPyTwENVKDTHxfV8xjKuPPwy/I
+/OBSpM2TRagNwXjDmKWk7S2QvTy85NbtdzjrHJbTL41ARLTewAevnd6OOl49UHeC
+2bPUpNRFv0nes+SM4NutbEUrFOswSOHA4und
+-----END CERTIFICATE-----
+subject=CN = fastupdate34.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4705 bytes and written 444 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: AFB3F1C2CF6849DEF19A9FA304067AB6AD5D9AD7208A05565F227C856811DEF4
+    Session-ID-ctx: 
+    Master-Key: DE54F80A54C0B79149650AFCDAB8AEC3D7C5639E0480A3674EB4E0849867C38C7DDCD0A252DA39710B4487D9E3898053
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c0 04 39 52 c0 2e d7 c3-cf 92 2f 8c 8c 83 f5 3d   ..9R....../....=
+    0010 - 1c 3b cc e4 a3 36 bc 94-f2 31 5f b3 23 c0 e3 23   .;...6...1_.#..#
+    0020 - af 37 22 3a 08 b9 e1 d8-aa 27 88 2e 74 37 de ac   .7":.....'..t7..
+    0030 - 70 56 fc d5 c8 4d f4 95-c3 d0 15 2a 19 7e 8e 76   pV...M.....*.~.v
+    0040 - 6c 6a c4 83 65 49 37 98-7e f9 3a 20 6c b1 a4 f7   lj..eI7.~.: l...
+    0050 - 9e 9e 0d 8d 38 8a 73 5e-de b7 b7 d2 50 eb e1 e5   ....8.s^....P...
+    0060 - e8 32 86 8e 0e 0a 6c 6a-f4 1d 39 45 87 2b 49 68   .2....lj..9E.+Ih
+    0070 - 01 04 d4 72 a7 74 72 b5-3e 25 c6 cd 3e f4 50 d8   ...r.tr.>%..>.P.
+    0080 - 9f 7b 2d 67 d4 d9 c3 5b-b9 6f 94 50 6b 53 5e dd   .{-g...[.o.PkS^.
+    0090 - 0f df 71 b8 a8 b7 54 6b-4c 78 bd 43 06 ce c3 95   ..q...TkLx.C....
+    00a0 - 6d 61 98 bb ae 3e 2d c1-b3 13 e7 3c de b2 4f 39   ma...>-....<..O9
+    00b0 - e5 69 7c 44 58 5b 1f d6-e5 bf 84 3e ac 8a ed da   .i|DX[.....>....
+
+    Start Time: 1629708344
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,90 @@
+https://magaz-zakaz.ru//wp-content/upgrade/dhl.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = magaz-zakaz.ru
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFaDCCBFCgAwIBAgISAxNxnPBJ0LJW+hUYVYC6DqG1MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MjIyMzQ4MTRaFw0x
+OTEwMjAyMzQ4MTRaMBkxFzAVBgNVBAMTDm1hZ2F6LXpha2F6LnJ1MIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu65DZrn7d5Np4CkUFXkj2NF5jv4/4p+K
+94ktH54hlHviD70QRK4JENVXmZC47XR5U5NIc5YWoPUT2dfYDFOy/A8RhEsaH9gv
+O4vukypndqfhXXEMH1FWfb00NSb+oBjny618dwWc3IbnCeJ8HOhthTbgpmWWUgGQ
+jHt5f9l1R+lcNIMpMv9GAG7N/IXoETigHVQKcPgtdotw1Rc0poaE8QcscGDxM9oc
+JI/m7EvuIdSL97OjyfGTDCgqchflkI6qhI4p6tv1cvceyI6rtlP+fNsoE12lRZyt
+XU1EmQBIY3320lVYDAA4vS2ks+S3+7eHru3z/GLWlQUmuJk5ngwBNQIDAQABo4IC
+dzCCAnMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRZnm0KPDt3fRjfifhTECEPSuQO
+cTAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRj
+MGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5v
+cmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5v
+cmcvMC0GA1UdEQQmMCSCDm1hZ2F6LXpha2F6LnJ1ghJ3d3cubWFnYXotemFrYXou
+cnUwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEF
+BQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQC
+BIH1BIHyAPAAdQDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWwc
+TN6hAAAEAwBGMEQCIBvVAExNBPwrgjXcjH/GdEzent9C/SQwB3Cs6ZJhu27xAiBW
+OjRGVzHlfPd7xnmhOFbIPQZz1ISI5BsKN0MXki8/DwB3AGPy283oO8wszwtyhCdX
+azOkjWF3j711pjixx2hUS9iNAAABbBxM3J8AAAQDAEgwRgIhAOPWSupjrlW2tj6x
+alY+o8EjFddL1bZtzh15JWUQmi6WAiEA3/IXWQgahOHPAbFj28WPKNowkJK56ckL
+WUUXhI9+DB0wDQYJKoZIhvcNAQELBQADggEBAEH/b4Vz5V/BytDMigWIoCPx0v9Q
+bEZgq2jBN6oRqboEt2UyrA8lcSUVi0R5gW5m+0RODKNlAzG1tZUkwot1EUl3mx62
+eFWlcx4Wn5cEn1sWtJGmdsdHdbQIzUqJiPFbiSRiNZ1KzU7TeNkgy0vv+g2rldgg
+sb5x3aEEVM9fBFbyGuqAX+Kl1UnpKDDrICQSd6lEtlxqq5nFwBIFHCvlXiDTaHm2
+im6OjOjO6nNvLg+3SxQKsYgzPhM6c+Hu5hqM7YiIvYhcPG2ZOdlaoqO1wsQhVmU7
+/cs06K7RM4seTX3VYrYXfmgbJ5KvDwYLl0II14dK/izAnE74TjLIoaHPhuw=
+-----END CERTIFICATE-----
+subject=CN = magaz-zakaz.ru
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3255 bytes and written 452 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 6D8DFCD8068B53FA22E28A8B5664781A19A7B32D3FF48F0D28A99E0DB109F093
+    Session-ID-ctx: 
+    Master-Key: B8AEFDE09D14AC13082939018E7B9707D9499400D4178378BB5FA48311410DF26124CEBF78EAA4E81BB65BFF412334BF
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - de f3 17 58 a5 f4 70 bf-85 17 af e6 96 68 99 54   ...X..p......h.T
+    0010 - fb 82 1f a8 79 46 c5 ca-cd 13 18 18 e7 38 30 a0   ....yF.......80.
+    0020 - a5 5e ba 6c 60 5b 73 32-47 51 13 a5 b0 f4 29 ff   .^.l`[s2GQ....).
+    0030 - 9b 6e a7 55 a9 54 05 48-04 36 49 84 aa 85 f0 a1   .n.U.T.H.6I.....
+    0040 - b5 c3 c0 5c cd de 80 1c-25 ec 75 61 a4 a1 5d d6   ...\....%.ua..].
+    0050 - 98 f2 fc 0d 0c 22 92 17-27 b6 03 7f 4d 2d 71 3e   ....."..'...M-q>
+    0060 - bc 24 3b 76 66 89 05 05-9e a5 d6 c7 63 72 74 95   .$;vf.......crt.
+    0070 - 64 3e 41 a6 6e 1e 68 7f-39 f3 ef 3a c2 63 50 02   d>A.n.h.9..:.cP.
+    0080 - ff c6 74 c3 42 29 dd be-7a fa 30 1c cd 72 db 20   ..t.B)..z.0..r. 
+    0090 - 7e 9e d8 8f 76 4a 45 cf-13 e1 93 49 f1 de 21 56   ~...vJE....I..!V
+    00a0 - 82 b0 f7 e3 93 7c 8a aa-15 da e4 bc 4f d9 77 f1   .....|......O.w.
+    00b0 - 2d 01 b1 ad ea db 70 aa-c2 b0 88 67 0b b8 db 8d   -.....p....g....
+
+    Start Time: 1566824432
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

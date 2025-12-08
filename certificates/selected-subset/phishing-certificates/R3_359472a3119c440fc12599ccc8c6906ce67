@@ -1,0 +1,77 @@
+http://secure07caccount.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = secure07caccount.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFSDCCBDCgAwIBAgISA1lHKjEZxED8ElmczIxpBs5nMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTcxNjQ2MTlaFw0yMjA1MTgxNjQ2MThaMB8xHTAbBgNVBAMT
+FHNlY3VyZTA3Y2FjY291bnQuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAo3PVXCvUcpoGaqOZUxTugTs4UcpJjljrQyvOPoVgkEKwjfweBiyWZjYs
+v5+MJQS+5URblw7454zjZwR02L80ZL4yx2s3Oq8sbVwpaGCnrW53VMGlxKNy5rkV
+e1r6jtBBIZgOlKzGWlKrtlLpZoJ7O8CQvjHXQF+ZCcpubDKnWfzyr3KxyEbIbm+0
+Tt0a/5/NtIL1TiXmAPLDeW46XJRZImSfzO+d83U2bgmTPiEnUhZqwWjzk6c9F4bR
+GLzuo2/zw3Hs2KMtgt0nV4rV09j23GHBzq6+h/2PPXSB326kyfkDtKFpVRnNO3KH
+2VLjrgUH5e2HKW9Udf6awIWE8jO5WQIDAQABo4ICaTCCAmUwDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBRERwu0wSDNKunhKGkwZ0Pw+dcOrjAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzA3BgNVHREEMDAughYqLnNlY3VyZTA3Y2FjY291bnQuY29tghRzZWN1
+cmUwN2NhY2NvdW50LmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLf
+EwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCC
+AQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AEHIyrHfIkZKEMahOglCh15OMYsbA+vr
+S8do8JBilgb2AAABfwjKvtIAAAQDAEgwRgIhAL4d8YJxLaDNlAadr1oAg+KPPJAT
+W/JKNE6iz7e5Za3nAiEA5nXJynV5LT3m9woykUcgmw5Gy8agABFggqJv5VuvVbwA
+dwBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX8Iyr8TAAAEAwBI
+MEYCIQD56rdU5MEm6BN6+KdnOMY0Z7GRcGZmuMwehaN/gOYNSQIhAJRqQ3cOn7Dk
+se7ziizXJnRln9i+OBiQZUQleLQhix8dMA0GCSqGSIb3DQEBCwUAA4IBAQCanGhW
+gQK8qcPEwedprShAhM3SXuAVChq4hcSeb6ySD4vAdX6ko/ykRbp6IGwhv6wG7+kG
+5u1elxvPKTBf+TBVdWpHtNYd4zmQM8m43u0EK4tWZgsgQidymlXJx9FJMqDu0oXn
+2o6Z/3OfbzDd23bcUVHz8Wy3EWDpVwdNOjy/QdzfDDIM0r3oaoCmMWet3b4CgUmr
+aAU+xQ2vXRMG2MlnaXuj0levN3HGV2TLQgbtPNN13NXk9FArOJM5BTu+XW1eqv5A
+uqvMgEioBpyb8usUkU/9CyWN9536xmcHKrE60bqaZaKg/n9P75A84dbKU9CQ3CB9
+qBv509/al2hjC6Vk
+-----END CERTIFICATE-----
+subject=CN = secure07caccount.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4559 bytes and written 440 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 235BDBEA2E4848E658DABA9B5A04080FEF88073A921B11D2B3B95E636DBB552B
+    Session-ID-ctx: 
+    Master-Key: 85C2E77FB96BFC332459B9274368729BAE6CBEBB67710D5DF1E2C3CD19039C433AE7EFA028AF0DFEB5B452F276E22227
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1645231630
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

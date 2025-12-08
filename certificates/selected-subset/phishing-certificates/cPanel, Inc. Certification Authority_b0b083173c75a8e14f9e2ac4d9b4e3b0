@@ -1,0 +1,73 @@
+https://seasideflhomes.info/BPD_Personas/Notificaciones/Popularenlinea/Home.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = seasideflhomes.info
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGqjCCBZKgAwIBAgIRALCwgxc8dajhT54qxNm047AwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA4MDQwMDAwMDBaFw0yMTExMDIyMzU5
+NTlaMB4xHDAaBgNVBAMTE3NlYXNpZGVmbGhvbWVzLmluZm8wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDb0s94eK/oim7mcVTG3sbb5uBGyTUUCy99lcqz
+5C7AMXJH0veKn8G2nr19YJaMSXD05a46H0SlnoDaHtBkamq1XZAfKR//wgf4BNZd
+oG8kPbouy95OaWhIdDU/w0mtELGjbTYQUTTZcPR3zP6iA2g+DlS51I3DqiauXV1C
+NM7CMqJ1uUQeeQjYakdfZDeMY1F5kd11MvFSotHWKYqkM0ZB59+rtX6f0p3RNUrB
+90WzhGcOazUFY0Sq9WRdj7YR86m9Zr8d0oJU2r656SiiSjut//kffbQBfnYModnJ
+CV0t4I2BdoHMchoY31qs3vNoVeS9gC6F8icsldACxhkpWVBhAgMBAAGjggONMIID
+iTAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU1m/c
+ucjh7W7m0bc/zMgn505nXzcwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYB
+BAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMw
+CAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUF
+BwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1Bh
+bmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2
+AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABexJ8c74AAAQDAEcw
+RQIhAIuzans5QjozHIQyatnky1DxwywqIfBWVvAYLAK/J30EAiBHSl0Js13whRR3
+Tz8x9QAJHq0hXVda/2rmFBM/Is2HTgB1AESUZS6w7s6vxEAH2Kj+KMDa5oK+2Msx
+tT/TM5a1toGoAAABexJ8c8sAAAQDAEYwRAIgPuVJzlqYstx3Or5ykLtsc6E7H/Is
+vnI8v0WC4g7O7FgCIE1xpAQ+hAaT3aQcKenXLd8/0ZYe4eJaHV3pRwvmBZECMIHq
+BgNVHREEgeIwgd+CE3NlYXNpZGVmbGhvbWVzLmluZm+CGmNwYW5lbC5zZWFzaWRl
+Zmxob21lcy5pbmZvgh9jcGNhbGVuZGFycy5zZWFzaWRlZmxob21lcy5pbmZvgh5j
+cGNvbnRhY3RzLnNlYXNpZGVmbGhvbWVzLmluZm+CGG1haWwuc2Vhc2lkZWZsaG9t
+ZXMuaW5mb4Ibd2ViZGlzay5zZWFzaWRlZmxob21lcy5pbmZvght3ZWJtYWlsLnNl
+YXNpZGVmbGhvbWVzLmluZm+CF3d3dy5zZWFzaWRlZmxob21lcy5pbmZvMA0GCSqG
+SIb3DQEBCwUAA4IBAQB189XkUcpZVqCvh+n4C1IQLg/uD7hnICGx8gZquby7E75u
+WR9Fd7elBK/xguPSF0gh9oQOmK9SPTnENSNORNbGKMCmeNCuS5vl2LekFqYr79/q
+w6A+DK7pIvRIBHh5LAF9GSgd1iDIAsHczT/L50ifaI9lC2fP1zWUQw37RcVNrPRd
+UtrJKB2sicwVghNnL4MOAf4G41+pqM8cdlpRbXKJsB7XMWoYwkSNHB1R+KCozo14
+57834LJP7SDGR20/wYETSLv4aspmPI8qGz8w8kE1gnb2vP3622eWCQm4yueiRUzx
+ekdfbCvyx76zBXa1BoS/CmYRqce4Dd5RlQP5a1Xb
+-----END CERTIFICATE-----
+subject=CN = seasideflhomes.info
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5215 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

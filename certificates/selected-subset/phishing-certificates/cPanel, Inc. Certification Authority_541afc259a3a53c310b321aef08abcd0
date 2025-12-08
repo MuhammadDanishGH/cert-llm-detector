@@ -1,0 +1,72 @@
+http://versured.co/M/M/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = versured.co
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGYjCCBUqgAwIBAgIQVBr8JZo6U8MQsyGu8Iq80DANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDcxNDAwMDAwMFoXDTIxMTAxMjIzNTk1
+OVowFjEUMBIGA1UEAxMLdmVyc3VyZWQuY28wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDnOJD9Ce/rVC4qbjoUbQs+5SX6dpo8zlEJUcIUYvGwavo87WiY
+D9VsH/inWf9CyXtV5sJxScbvYqKpZ/qMMAl7F/mrsFX0jgZlDzkaH4T/pLmYwqdw
+p8iIqzk/RgfjsHjX5OI2dngm3bHtAWey8XzMhLtsIPt2k33lXfpAcjirUAtAHZFY
+pt3iKJYw4OYJ1rnvsMSjdHn0G3qFciEbV6+TUBBmiFjqespJUsnmsZoP0E4FWXuF
+JAxGhTS0RuTcgJn+cJvt3Dr8+p1Z5+0vNLE76Yru9eEcTdJLg5ZDkwnSlKxiEwu7
+z6GLA3tw5fUuUoTZhRp5hNyO19bCXVKV+2JdAgMBAAGjggNOMIIDSjAfBgNVHSME
+GDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUj9Qz6dyKJQFlDMFl
+rwVII7sT0MgwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAjQw
+JTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIB
+MEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29tL2NQYW5l
+bEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEBBHEwbzBH
+BggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVsSW5jQ2Vy
+dGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3Nw
+LmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AH0+8viP/4hV
+aCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABeqa1itsAAAQDAEcwRQIhAMFvjREj
+A9NBTkMsDTHGjnPuiDSsZ4vBC88KS2rz3fkAAiA2Y9aevLOyaoWIKn1RMUIqmsO1
++ocptDB2oTzNEcUufAB2AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGo
+AAABeqa1ipYAAAQDAEcwRQIhAP1xWOQTzpekiCcazDDL1971qSM3+MmUCHhjVpNc
+raHOAiASx+AhqI+OctLvY1DNrSjlzdip/dcEiF8Xw2Zt1wEcAjCBqgYDVR0RBIGi
+MIGfggt2ZXJzdXJlZC5jb4ISY3BhbmVsLnZlcnN1cmVkLmNvghdjcGNhbGVuZGFy
+cy52ZXJzdXJlZC5jb4IWY3Bjb250YWN0cy52ZXJzdXJlZC5jb4IQbWFpbC52ZXJz
+dXJlZC5jb4ITd2ViZGlzay52ZXJzdXJlZC5jb4ITd2VibWFpbC52ZXJzdXJlZC5j
+b4IPd3d3LnZlcnN1cmVkLmNvMA0GCSqGSIb3DQEBCwUAA4IBAQAYOZjqx3cODRWP
+Nc29Sl6JFysD/6FEnvB9kdqKMKCsuVo3VejI1d25qiSu8k6Qz1rOJumXsqvAoQHo
+JITWFcgpeB90aVcuMNeeoMp+t9mL9IlYptYj5BvOjMZ2l+qIjegHG8gF+dhnfZ9r
+YrWeWtDjo2vvHltCy678OSRQJfkQlgeRdqBtIcmsI8oaA3wHJYA7DXroNxqWTgwg
+DUeiaK4KXLISHWoHQlwSM4MNvpGulntmwL5xDj3B1r7ENUeHV3rqP5fEYtRpU5O+
+cPpxj7RS0iFevwoJBYsBq7UHk3uGljcGqGP0bT9BzpY3SB7ucA9CqKEXzgHRCgTq
+k4HMyuOQ
+-----END CERTIFICATE-----
+subject=CN = versured.co
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5143 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

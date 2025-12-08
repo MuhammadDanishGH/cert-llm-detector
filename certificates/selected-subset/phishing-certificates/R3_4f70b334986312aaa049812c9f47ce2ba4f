@@ -1,0 +1,59 @@
+https://nannykii.xyz/3dA3k67a/Touch-wa
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.nannykii.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEZTCCA02gAwIBAgISBPcLM0mGMSqqBJgSyfR84rpPMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MDIxNDUyMjFaFw0yMTEyMDExNDUyMjBaMBkxFzAVBgNVBAMM
+DioubmFubnlraWkueHl6MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEabXNI12C
+F8bc2bleGywgW47dmPDavDkm2SFH/wKpCtpk4aafpH5wOiF46bk9jQqfx6qaP5fD
+YgYe9f7OCSNpeaOCAlcwggJTMA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAUBggr
+BgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUb6w1ZECY
+a1AgTU1LVCqwxZZRbjkwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYw
+VQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5v
+cmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wJwYDVR0RBCAw
+HoIOKi5uYW5ueWtpaS54eXqCDG5hbm55a2lpLnh5ejBMBgNVHSAERTBDMAgGBmeB
+DAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxl
+dHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AFzcQ5L+5qtF
+RLFemtRW5hA3+9X6R9yhc5SyXub2xw7KAAABe6c2CT4AAAQDAEcwRQIgbr526ZqY
+MDtkgJ1WuSZ2bVWloAJj5N7Xi5uIT/+0WTICIQCdHTlpFSB912uq6BRlycURjS92
+YnZFIocjsyii5qQ39wB2AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDX
+AAABe6c2CV0AAAQDAEcwRQIgPw792kOl+ofE4UdpVMqrvuTbBZGhtBWmC4JRUJuV
+yUICIQCGITfkbZjKc+7qFFMwkFb0UDLuAKfbgGiWGzCIWujpwDANBgkqhkiG9w0B
+AQsFAAOCAQEAJu6kxvm6iMdR58Z4Zv6oWgojPanNXN18R2geONL6SLqwUYsaN7la
+NITGFGsWylqZx5qNSJzoPn0+HySJGZ/qdpJ45KBdyxWW8oRemV8QpI6S+KdInlc+
+hT8q7HtdcrtP8plJrGayVLjNPHU47Da5D3LXC5ci57yVM5LATQR5CiflygXJbVGv
+Co10aEDXUT8Z0tJ565BF1rLckJIgRAZxDYxJMtkuokXotTYQTwPVeSM0MlS66f4r
+rfZSxBii6zmdaaux+3WmjvQfWrtlw15sn3QyzZgBq63L3uH9AdEAIDDKomFbsymS
+QgyE6jKvTelkSMjHIqEb74cDoEj6r/RGSg==
+-----END CERTIFICATE-----
+subject=CN = *.nannykii.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2571 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

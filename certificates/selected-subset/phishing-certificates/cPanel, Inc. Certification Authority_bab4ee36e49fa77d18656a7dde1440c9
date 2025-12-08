@@ -1,0 +1,73 @@
+https://zahlung-fees.com/80.219.188.25/index.php?ip=80.219.188.251
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = zahlung-fees.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGkDCCBXigAwIBAgIRALq07jbkn6d9GGVqfd4UQMkwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTEwMjUwMDAwMDBaFw0yMjAxMjMyMzU5
+NTlaMBsxGTAXBgNVBAMTEHphaGx1bmctZmVlcy5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQC9f7ZbZ+ob118Kbe2uepMnp3yGD0VW6RlGZwGm4Acn
+X/g1ypX4pp5UXP73VpX3Jr75g/gDYBGK8pjf3pLtOVwoYVZKI3eYquZ7wJCzT+pQ
+v9/XH7iz8BXINlG0gkUJyp95XTFNTnVhoquVwr+q5uvu5tS4NPLvcN7FEIFhU/EQ
+JSLdwp2nUbJarALw7qL/sJSgDhhX/rYodhvZKdFtkld0EoLt8sei2OA2lRlgii71
+QndvU4NKeK8F7B/angpEJFIGBSIRFJbMbgoffzZ+7SJMHwr7Cg6+cLn3vCFSWFkH
+WE98/nzlDiJZmQEY5JLC2Qsx4OycXVPAcUA73MauMgTpAgMBAAGjggN2MIIDcjAf
+BgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUBxX4XBPe
+ANv2ejwP3YB8JenVubswDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGy
+MQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYG
+Z4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEB
+BHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVs
+SW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AEal
+Vet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfLe8vIsAAAQDAEcwRQIg
+DOEDaqjyz7s8aldZqGwYqxvbt5kJzb8hhNzWfFCLb8sCIQCuKfVoEg6z3XjKpJ0X
+jQT5ZajafEmX7Q1RXe6CBd+rgwB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do
+8JBilgb2AAABfLe8vFYAAAQDAEcwRQIhANCJyPlWP271VqfRjE32iTPdXYjTy/Ga
+i42OFcNTDGFTAiBsQNaWCNVOqbgcZLyNNUnEF6Vebh7RG4otEuX0yDkKBDCB0gYD
+VR0RBIHKMIHHghB6YWhsdW5nLWZlZXMuY29tghdjcGFuZWwuemFobHVuZy1mZWVz
+LmNvbYIcY3BjYWxlbmRhcnMuemFobHVuZy1mZWVzLmNvbYIbY3Bjb250YWN0cy56
+YWhsdW5nLWZlZXMuY29tghVtYWlsLnphaGx1bmctZmVlcy5jb22CGHdlYmRpc2su
+emFobHVuZy1mZWVzLmNvbYIYd2VibWFpbC56YWhsdW5nLWZlZXMuY29tghR3d3cu
+emFobHVuZy1mZWVzLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAbtbn5Q4s+Az3cTf8
+IqLBCo2HSqK5RpWomMmfy3Lf6VLzYFiZX+0djSnUytP6RclY4PjXxNQOvMDuDLFZ
+P2c+SgLDhAzfmduyK8z9bC4lWIVkPsinkQyJJ5hcuxBKGdlmpyjbqU8dGFasNcKM
+Ar2ui7gkhdCiMRKHfq7olnBlGqLFObSEGjtWQyCjhzTcFOTzD6XbC4QjZTkysiCV
+KVB8l9NsSpPMKgGOdj8XyyOX97+qq0rWcM8mj5NIO/sz9E34Kq3heypHujvAy8aG
+THoC00f+WG7FoP0NpHUZdQDpb96m471YR4fCt/gh7EiiyA0jo87sUWZSE/YqgX3G
+QH1InA==
+-----END CERTIFICATE-----
+subject=CN = zahlung-fees.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5189 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

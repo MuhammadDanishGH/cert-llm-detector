@@ -1,0 +1,66 @@
+https://web9240.cweb04.gamingweb.de/welset/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = web9240.cweb04.gamingweb.de
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPTCCBCWgAwIBAgISA76kJAitE6GqLoTZ9oxm+ZIwMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDcxNDA1MDlaFw0yMjAzMDcxNDA1MDhaMCYxJDAiBgNVBAMT
+G3dlYjkyNDAuY3dlYjA0LmdhbWluZ3dlYi5kZTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAKnXZqNcwaWaB6VgLODyvY4swNa61Cao7c4TixDlf5sjIyte
+s/8P0polH/nHganB6kGyeIijXRdLLePvMVwW+fnGJ+U6+R7JuHgXIkYtUGpEt58X
+zEk6HhTILpa+Qr1p9a5d6nSCocLnlXyWBadPC2YFFaHz3HZUKh4c2FUPX9aBkJ41
+wJ724s+TGLnzN91Yd8DgivOcy0mORaouhOmEw76zjZoAknTGyLQ07XqO0DHkER3S
+RDiEVUb3F+ZpnVhbEMd5L5Gouy0vhNCHy9slddoW+B7hpR4N4S/n044TBLilDYJF
+2kmFCgVvD/WusK7s+v1j+7WQ17eZFuMC0L7Yw9MCAwEAAaOCAlcwggJTMA4GA1Ud
+DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0T
+AQH/BAIwADAdBgNVHQ4EFgQUhCyQcfeanMcZumxtMIZsoS14uyYwHwYDVR0jBBgw
+FoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUF
+BzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9y
+My5pLmxlbmNyLm9yZy8wJgYDVR0RBB8wHYIbd2ViOTI0MC5jd2ViMDQuZ2FtaW5n
+d2ViLmRlMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHW
+eQIEAgSB9gSB8wDxAHcA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMA
+AAF9lW1UWwAABAMASDBGAiEAh9ebjtUPu0o4LcJ/uNYVOJUu33FO5Lkq3/xdKNIu
+Z98CIQDXi3jOfY9lxkeWIwwdVQA6W5NsuUc5AGmdUPfby29EnwB2ACl5vvCeOTkh
+8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfZVtVGUAAAQDAEcwRQIgYlCzMGm8
+4lyxC6SkIvD/6y6pT/TuSR/WjXg+hgfrpuUCIQCqegeeDn3y/vQnLU2EDz3pZvjQ
+I3PJuGGMLZyagX4m3DANBgkqhkiG9w0BAQsFAAOCAQEAbVppzeC7Oc+Ff+kZdP+u
+WnePtn4t3lGk62X93S0iq4hqdDujYBARnTrnZJ1ENkv9Wd4ayhU56jnza6Of3Dh/
+/92lBhLK3fLVwf3DGcleBquvKM9m05TYneLlQhLJowE2d3p0OTBDDRQcyyCjrJ8f
+ViuiFAFaI+TWwk21eh/r9kuxMhjCm5SajAHeKL7eyhPXLK9RqW3KlZcGg4Hj9SvG
+nzYCUn2JYasjXlvoxUdpz5zTyqcZk/TS1KRICAatfpdAvnXG7ICEfppNNsX8k62A
+FN9WbSvR6gQkPMzdHzsqZhC59D6Z7wyn6BeusTG4KffzR3fBMfOdcUpkBwzLypl7
+RQ==
+-----END CERTIFICATE-----
+subject=CN = web9240.cweb04.gamingweb.de
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4601 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,67 @@
+http://quirky-banach.23-95-226-105.plesk.page/p/eeff1
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = quirky-banach.23-95-226-105.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFfjCCBGagAwIBAgISA6JEGDReQkYjcMziZG2Xghu2MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTcxMTMxMzhaFw0yMTEyMTYxMTMxMzdaMDExLzAtBgNVBAMT
+JnF1aXJreS1iYW5hY2guMjMtOTUtMjI2LTEwNS5wbGVzay5wYWdlMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnZGrrQsECAAoqCgioLM/Xu9VutdhEaDR
+qlYXMNSTGwKyaWU7HWgHmdylBiI+FkeJAmeKObL92/crtwyimmQj9EiEFVXc2RTM
+T4RTUCZfYNYYrYhbIaebBxXWj+2ewLnZgrbskwsLhoYmz3Zw0N2ID04jAmjXalps
+bsiaUokMV2qXYurgS7Uuu8LR23Smj0kEgyCMbpxAs/JB/YT3HVg6+5hq9cZpjHHw
+F7fDOD/viKzt/xS7nc/CP/l9jAWaU55/4Q03GbuRVmQMXkM6EqMMu9VaUC99+i/B
+v1GT4AQjtdqi3+PfwHJPN0vwf+LFxsFF2KMlXYZwYcJGqbmo1q9A0QIDAQABo4IC
+jTCCAokwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSgmlGFNmvKUadcphZccteEtHVf
+fzAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJ
+MEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcw
+AoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzBdBgNVHREEVjBUgiZxdWlya3ktYmFu
+YWNoLjIzLTk1LTIyNi0xMDUucGxlc2sucGFnZYIqd3d3LnF1aXJreS1iYW5hY2gu
+MjMtOTUtMjI2LTEwNS5wbGVzay5wYWdlMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcG
+CysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5
+cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHUA9lyUL9F3MCIUVBgIMJRW
+juNNExkzv98MLyALzE7xZOMAAAF7872rTwAABAMARjBEAiBCaq8VxYbXcM/qiw+N
+VyLK8PLPh5s346g5CDEl8nqgqgIgU+YOrHdhkbX8LodVRCO4Fe6DXXDot9hD/BTe
+cyEoxJ4AdwBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAXvzvauG
+AAAEAwBIMEYCIQC34pMlG7KCCFO6zJeBEgiHlO2GqSR5d5/PGx5S6wCQ5wIhAJzk
+ye/7IyDAsZ0KCF6kLcM18r9AZ7a8YH/upxWkkGihMA0GCSqGSIb3DQEBCwUAA4IB
+AQCgCBd8y0mMcUA3nwtnl3uty0Im0PGMpjIB7L/ASi+uuyv9+pF1nfGp3H+v8DSv
+VQw5PJCRWJicyISRues9NKDiS+SugLpKbhXsTkX6ZDuKSF7q9mi+qSGbTZm/eE5+
+pZIEFSo3AYR7jHgmRJaL52HjOJ2xLm/mfKbKNpWE8H3azzVEstbWqGsSZFJAdbWU
+wypja5KM1Kvy9urJs++iPDaw+coGXTwp+uycaJYviZFyZhOsUaC/0j3alQaPODP1
+cTBzcnBTAi3QX2QZ3jJnnf+U28p4ZO0xpmKdwf6vBI6OCKCDYf8TeMnh9cr9JEcG
+A+yMzBNbqDIEXDKKOSDj5P/k
+-----END CERTIFICATE-----
+subject=CN = quirky-banach.23-95-226-105.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4666 bytes and written 412 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

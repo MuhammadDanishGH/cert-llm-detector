@@ -1,0 +1,72 @@
+https://www.spin-garenafreefire.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.spin-garenafreefire.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGbTCCBVWgAwIBAgISA23RtJh78Cc+CQ1gj1rcY5ZMMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTUxNjMwNDZaFw0yMjAzMTUxNjMwNDVaMC4xLDAqBgNVBAMT
+I3d3dy5zcGluLWdhcmVuYWZyZWVmaXJlLmR1Y2tkbnMub3JnMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9zVQX1pfN25GMq/+XhWicMFMyWhoiQG+9AtM
+51n83s2G8g78oOY078IgJE9r0J1d6jwl93GnM4buJ3+zSbavYnPQCuVm6wVRL4Sk
+iy8jJIk8+qWU/ehogA7iS53BAtSk1LC6793cnYrIWB3CJI7t0t7OtMC1jHvmpBeK
+D8qj/mMLZ7vH72MGEMuVgx9KaruwlOydCPyHE5kx5XnrslWA57T71Ja4xywtrgbB
+6mHpFCigdq6NXpYwTGW1X+FgHzHJ+IsJKwdNYEsbfth6mRK+9c56SF9ayRrVjsCz
+Vt9Ybilu1W5O58Ly3O77B+qwjoa/wB5Q3DIY7u7KWnCz3x2lkQIDAQABo4IDfzCC
+A3swDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRbyX8JcD0IqzKs9161TM/8/FYkjDAf
+BgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcw
+IQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYW
+aHR0cDovL3IzLmkubGVuY3Iub3JnLzCCAUwGA1UdEQSCAUMwggE/giZjcGFuZWwu
+c3Bpbi1nYXJlbmFmcmVlZmlyZS5kdWNrZG5zLm9yZ4IrY3BjYWxlbmRhcnMuc3Bp
+bi1nYXJlbmFmcmVlZmlyZS5kdWNrZG5zLm9yZ4IqY3Bjb250YWN0cy5zcGluLWdh
+cmVuYWZyZWVmaXJlLmR1Y2tkbnMub3JngiRtYWlsLnNwaW4tZ2FyZW5hZnJlZWZp
+cmUuZHVja2Rucy5vcmeCH3NwaW4tZ2FyZW5hZnJlZWZpcmUuZHVja2Rucy5vcmeC
+J3dlYmRpc2suc3Bpbi1nYXJlbmFmcmVlZmlyZS5kdWNrZG5zLm9yZ4Ind2VibWFp
+bC5zcGluLWdhcmVuYWZyZWVmaXJlLmR1Y2tkbnMub3JngiN3d3cuc3Bpbi1nYXJl
+bmFmcmVlZmlyZS5kdWNrZG5zLm9yZzBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AEalVet1+pEgMLWiiWn0830R
+LEF0vv1JuIWr8vxw/m1HAAABfb8lgqsAAAQDAEgwRgIhAJJ4k02uST2Ix0DsDD7m
+dTHFG+N4fsNQ6BP0Hc/Be28jAiEArriSSUND3uyhwh81Awj2cKrr4VIHwy0pW+Km
+6pUnDX4AdgDfpV6raIJPH2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAX2/JYR3
+AAAEAwBHMEUCIQCcMm0Prdjr0XgoorT7vZmw5vZL6NOBnfMxwOJQ9ZmVHgIgN4YL
+eMWEHOGi6/xlpdv9sWjWShBuRX1Zbr0H2h/vFe8wDQYJKoZIhvcNAQELBQADggEB
+AEPsU9PRpB/TlQc9TvQZ4kOye2is40jRWs28SGtXe4ayWEkQuk0neImJuNBJX3Ro
+4aM/f4aMQBPDqhC11UVjefW5ezw7WqCPomBpFO3GKd1mYarljWYX6qM5sYR4yn5/
+XBn3SwG3Jj26yfncN9e39Eg9T+fvyVB4uqVSd6i4guKEUhCQC3n5nLWlndYkxzwg
+tkuNVtSFlvxG9wqlGCGBdAa7/PKh8a+x5CTxNNuUEkmW/EVfR3hQvJu9aFrOJ7gp
+KRe0riG+RpVXTtKSFENoyx0lckppldMO4xkTdvxA2irfNKBmRxZRSMVwRSRgsU4P
+Lto2S9XF9oQ8NlUS4/G//d0=
+-----END CERTIFICATE-----
+subject=CN = www.spin-garenafreefire.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4905 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

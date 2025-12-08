@@ -1,0 +1,90 @@
+https://services-logid.com/services/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = services-logid.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXTCCBEWgAwIBAgISBNI67hyHavUq24mGH8tm33yjMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MjUwNTMwNDRaFw0x
+OTEwMjMwNTMwNDRaMB0xGzAZBgNVBAMTEnNlcnZpY2VzLWxvZ2lkLmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJqfH3DgHgxcQ/18JXG7HmOu1nuU
+4KKz2xZvMcR7xaqngyfFoSQsVvIc5P+W7Bko6dQTCm1iRU+T+j7F4o6yqDDHANwK
+TmarxcKqJoAVhkprN7kxs0xTqMCZIx2N70gErDobFQ0gSM2D70hWM4/4In0F+3Gl
+uT7dzC/+htIY4IcdNhrnrg31EFf1WRThI8ZpRdyqIohEzhd2wazGh09iOLUOpFM/
+36cnYO+f37UMYKLr0ody51xpJrHMYptqYfh3cgtFotvIverkdUQHUfFGkowW5cEp
+wEhpu3MsJg9dRpbwAKrUMkTozUQzLaUuEgArAovfjiSyHB9nwbJHukCJJNECAwEA
+AaOCAmgwggJkMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUlRJdANs/2G1ppJeYHxWL
+bM3kS+owHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzAdBgNVHREEFjAUghJzZXJ2aWNlcy1sb2dpZC5jb20wTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwB0
+ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWwn0yJIAAAEAwBIMEYC
+IQC4qaUa56VgI5EJ7nqcbT9xMiz+NuC1+eN7lBHyyRKOiwIhAOFvvnM1J2lcabAz
+vXuDm7ghDcm9139efJAZJFMk33y4AHYAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWm
+OLHHaFRL2I0AAAFsJ9MkPAAABAMARzBFAiEAz3acotGOPAe6Evu9qsuoVfvjBaDE
+/eKt4HygIpWoAiECIA1NhYLOdBt49XEEWvuDj0Slfo96WNGifEc6GbKAgvlXMA0G
+CSqGSIb3DQEBCwUAA4IBAQBDbrJffO46XMFrJHnWU8/aOZrZIiQNi6lrp9BTOHXH
+gi76RvW4pkWYHBng6kWnepM07Cf9c3F9vkDmBgAx3HjX+Y3VYy1lzk2BkWrKmzOz
+Xq9s5CAzmmQnIhurB0sbX0Cw/fu9FM4CXIJ0MLuZEQynDJiTzV7pvJ9ZRm5UfMX8
+UzeqMqM9fy8zMnGRIc6w8SGqn6kawKxQulaO5zCanU4YtekFZ0qhnRcEO3ESkKDK
+p++gGrxbJuylKi3IyJtPQis+mewKYbr1J5nNU9tg+SRsFrjOmGlp281QktmWTDis
+FvvKDBVFPB4/FvsSkbzCbG4CzeOVpR+3+yMI05J9iM/v
+-----END CERTIFICATE-----
+subject=CN = services-logid.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3244 bytes and written 456 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 8247A200B4F901E0193D406507C342B135AED894DA2449E73F13571903198C39
+    Session-ID-ctx: 
+    Master-Key: 39C182F58F97197055F50A7F810D5E00CAAF10DD4AA435628EFEB2CDA04CE4CE056D30FEEF708BD39F43EC51A72B612E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 71 ba 9b 2e b0 08 16 17-73 fe 66 1a cf 00 67 f0   q.......s.f...g.
+    0010 - fc 92 1a f8 c4 39 44 1b-a4 22 a0 51 ce 6f f7 7b   .....9D..".Q.o.{
+    0020 - 97 14 5c 46 e6 58 ef ad-07 b7 ce ec 70 ff 7f 51   ..\F.X......p..Q
+    0030 - 73 96 a5 0a 1b fa b3 7d-91 93 63 80 12 d5 cc b9   s......}..c.....
+    0040 - c0 87 59 e8 c0 3e bc 3b-1b 08 92 5d a6 e2 55 37   ..Y..>.;...]..U7
+    0050 - 90 fb e1 40 a6 b9 95 22-76 43 92 4b e9 02 c2 9d   ...@..."vC.K....
+    0060 - 51 a7 04 14 1d d7 f3 e2-7e 76 2a 1a 0f f1 01 9d   Q.......~v*.....
+    0070 - 80 52 9f 30 84 0f ba 67-bc 30 bb ff a5 23 ea 21   .R.0...g.0...#.!
+    0080 - dd 9e 92 34 32 8c 8f 5b-3d 14 58 b3 33 25 eb 23   ...42..[=.X.3%.#
+    0090 - a2 5b 21 33 a0 09 29 b9-28 e1 5b 5b 4f ba 8f 24   .[!3..).(.[[O..$
+    00a0 - 88 4b 73 8e 4d e5 72 07-a2 4c 62 ae d4 e3 1a 45   .Ks.M.r..Lb....E
+    00b0 - 13 35 dd 91 7f 3b 83 18-32 c8 a2 7d 4b 95 59 20   .5...;..2..}K.Y 
+
+    Start Time: 1565182822
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

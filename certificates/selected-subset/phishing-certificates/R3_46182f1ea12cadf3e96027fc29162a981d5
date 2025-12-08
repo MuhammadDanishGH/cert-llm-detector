@@ -1,0 +1,73 @@
+https://www.grupwhatsappnotnotreal7.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.grupwhatsappnotnotreal7.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGkDCCBXigAwIBAgISBGGC8eoSyt8+lgJ/wpFiqYHVMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MDQwNzU0MzJaFw0yMTEyMDMwNzU0MzFaMDIxMDAuBgNVBAMT
+J3d3dy5ncnVwd2hhdHNhcHBub3Rub3RyZWFsNy5kdWNrZG5zLm9yZzCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBANATzDWFg8F7tjYFkyh9sOL4OEEuZh/p
+niOQDHn6X0ro/Y/09u++KvtyJ3+SszWBy7WImDQ1Qvam8YjDfgaW+o/vl6vECGWf
+QsP8BT6dxrAdYmPW7XPO/WtcD0s8heSr9ISyQEwVfoBy3BWprXPYmyd4SaBRWVbK
+FcoNj5FX4C1iygYA57MpbjTzK1TFH1bGzb2Cg8X5SU9tpv0GofqjAB+9h2E79Kcj
+JrRCkY6UgS23G7VJrRMbRj6kDv1xkKILOsDQ0Zh0K+8FKlUYQA3lRQGheI5dJvlJ
+ugDtJP3eRDKR59DHIGWOs/3i4BZKc4u0eRrsq5gSGV3HkGEpAKQp8KMCAwEAAaOC
+A54wggOaMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUUT6w6Or0y8SfJ12FKmulk7/k
+AnEwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEE
+STBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUH
+MAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wggFsBgNVHREEggFjMIIBX4IqY3Bh
+bmVsLmdydXB3aGF0c2FwcG5vdG5vdHJlYWw3LmR1Y2tkbnMub3Jngi9jcGNhbGVu
+ZGFycy5ncnVwd2hhdHNhcHBub3Rub3RyZWFsNy5kdWNrZG5zLm9yZ4IuY3Bjb250
+YWN0cy5ncnVwd2hhdHNhcHBub3Rub3RyZWFsNy5kdWNrZG5zLm9yZ4IjZ3J1cHdo
+YXRzYXBwbm90bm90cmVhbDcuZHVja2Rucy5vcmeCKG1haWwuZ3J1cHdoYXRzYXBw
+bm90bm90cmVhbDcuZHVja2Rucy5vcmeCK3dlYmRpc2suZ3J1cHdoYXRzYXBwbm90
+bm90cmVhbDcuZHVja2Rucy5vcmeCK3dlYm1haWwuZ3J1cHdoYXRzYXBwbm90bm90
+cmVhbDcuZHVja2Rucy5vcmeCJ3d3dy5ncnVwd2hhdHNhcHBub3Rub3RyZWFsNy5k
+dWNrZG5zLm9yZzBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisG
+AQQB1nkCBAIEgfUEgfIA8AB2AFzcQ5L+5qtFRLFemtRW5hA3+9X6R9yhc5SyXub2
+xw7KAAABe7AEPP4AAAQDAEcwRQIgG2kuWDdIzYwTsLlCy/mxzW2uW4DMjxRJSXXg
+5sGA1iECIQDBMZlvcnt8BiKwnnciXedCfBALkR51LytufdbicjEecQB2AH0+8viP
+/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABe7AEPTEAAAQDAEcwRQIhAJH4
+1FKAlZ2JGqrz4GXXFfneSA5oq65TSS5aZ+oVi+FTAiBmSKJbVZ6HSziEO4Y+Z0aC
+x3GsipsVt1TZ48UfHCzLfDANBgkqhkiG9w0BAQsFAAOCAQEAYSnhxmdvABTqMGSj
+Sq2x8njj91UzTbTbgL4G0Yt4n6QA9DHUoIanawy5mBPiZDuUUwN8E0yrPBjO2NYK
+YB6gOW8XDPHwbNQY5cWgcS+Aj9UcmYNc5NuCTH/5Hp6NigBYLi+daTSXsNfBtDeX
+RYKDdhCczs6biuvNfbOKQRmV8Lh3TjcyZ4SpHe84vVDZyFrJw1OpHF0US5hyBNA8
+cQ5fqIcUqbK64Y5JjyIYtb0+65DGZgD0iF27+AacROUK3RoLRFKELfa3aXUwwDhn
+R77ZcS47IT0QbJrlDjUr4TtE5GStTxyDJHXHXb/xn8NPK4Klr8BkpLrISJxcjPsa
+wvohrA==
+-----END CERTIFICATE-----
+subject=CN = www.grupwhatsappnotnotreal7.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4870 bytes and written 421 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

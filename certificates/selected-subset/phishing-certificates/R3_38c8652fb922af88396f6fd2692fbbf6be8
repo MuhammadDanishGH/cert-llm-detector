@@ -1,0 +1,66 @@
+https://ccooppfer.thats.im/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ccooppfer.thats.im
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRDCCBCygAwIBAgISA4yGUvuSKviDlvb9JpL7v2voMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjExMDU0MTZaFw0yMjAzMjExMDU0MTVaMB0xGzAZBgNVBAMT
+EmNjb29wcGZlci50aGF0cy5pbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBALiCIvoGqPp5hCjD6u4sALhlIDCk+5xl9Uhea8K5Z4/23ti+3m+ENkcRG9vS
+mAzS3AVdOyUjOIpsQDObwBQFGgKFPHjMTnftQzkYtLPHCnH2z5WybV5HxSlVIn/D
+XPhxfvu99uOFFXfHtlfPfC/ia6IEP41bLGOcmBgSKiZJaS1v10uF5eYdUsWWyTj/
+N68xi6JvNgStyadhB/QTAGjPlgkqQhCVOMgQbGe2VYAuCzjJav4r5r1ZcBdRZOIp
+RIaLrlvMtbLLUIaR13hp0t/fNqCLt2MNq9URYGo9Y4Xvyh6AfoYfwso4YHTD1JQe
+7/YafCHfLbYIpHypye4LZPJDo9cCAwEAAaOCAmcwggJjMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUIQX+HX3/0BPzrIVaj2FvMmpeWyUwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wNQYDVR0RBC4wLIISY2Nvb3BwZmVyLnRoYXRzLmltghZ3d3cuY2Nvb3Bw
+ZmVyLnRoYXRzLmltMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEB
+MCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBgYK
+KwYBBAHWeQIEAgSB9wSB9ADyAHcAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0m
+XCVdx4QAAAF93NeaFQAABAMASDBGAiEA43hgmTbI33KzkQKaCVANFtp+Hv+cEfJ6
+7gyu9lNOcVsCIQCnjIyyvF5ikhYjx4JSR7tD6qAXBSG0mefq47/QfqYjYgB3AG9T
+dqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABfdzXm1EAAAQDAEgwRgIh
+AM425GDzBiQB4h0jH/1v9moaDw0DfqYuu7MuLjrhUUF6AiEA5Q1TMYEYr7drtuWW
+6nOTslyPjg95sp0m2s4y8y+69PkwDQYJKoZIhvcNAQELBQADggEBACYPtkoc8Qeu
+6KsKDBDFoworL8JfyKejgTEIqoIpwMxup2w9qtA5KKf1LQbLU5yOGQQkltjUtKYJ
+jkITUETD0Ol8nE3pG/XwLaha5jtHKKhgVn8iRaEUqd5nFmOZfH/PesWeY9CKvbkm
+1QiG7uX2le8Klez1vAUdSAMhY28/Zf1vgn3NsopdL3gUtWZh8+AxtDYaH088yqni
+QfP5BGzLyVj+4cLWr/z3aHY+4TbNfSORpDN2cH71BhsZO85Pi9nJwsZ6u0NdPlj+
+aZo9hBkistER2XWkRwXhC7Vrc5D402Br6tKg9e+9Fl2FrRXbiodGhg0MB+8CAVEU
+0XMmoAgUAXk=
+-----END CERTIFICATE-----
+subject=CN = ccooppfer.thats.im
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4538 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

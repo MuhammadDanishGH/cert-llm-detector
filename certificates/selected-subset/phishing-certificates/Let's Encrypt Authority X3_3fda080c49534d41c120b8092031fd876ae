@@ -1,0 +1,64 @@
+http://traypon.ru/vk/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = traypon.ru
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXDCCBESgAwIBAgISA/2ggMSVNNQcEguAkgMf2HauMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MTUwNzEzNTZaFw0x
+OTA5MTMwNzEzNTZaMBUxEzARBgNVBAMTCnRyYXlwb24ucnUwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDKO9i5a+65qylz0f6m3nrebKwqpRvt4NQC9yFb
+CzOjv8Eb4xas4SChdqOsPViN34l1TcApkyzcuXFQPKRU+72bFKPZURQyevDYIh+o
+UCLVLSFQOhrU4D92YBONToejg/gwmipr+FySO2WPbTVXr44un3kmnGCuguoy/BJt
+Hfz3fzJnJeE+bJ8jDea80pDFWYv+lG5YpRGjRkvLJ6eb9+/NpuX82fPF/dTxJtCK
+GDsz1EIMxQOXAu72mKYpR07jdZDXhSOPWKitmgAkDkYKAtOJvb6TaWVuQb9+nMNF
+RQ5aVXaSm1q4fEu9jzr8e+Hbobc5L0PGyw3Zm87+oKD/xKsTAgMBAAGjggJvMIIC
+azAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFF9AEwaYImhZQwMwlMqXy2RFOt1uMB8G
+A1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAu
+BggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAv
+BggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8w
+JQYDVR0RBB4wHIIKdHJheXBvbi5ydYIOd3d3LnRyYXlwb24ucnUwTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgDi
+aUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWtaM0DlAAAEAwBHMEUC
+IHZPbmAzQdLoDHqNqw+an9G2nZhG258FSaG1CX7VCtVaAiEAgjKRghsK5HmOcTWo
+93NR5UpRuF9Y3DvXTca/68nD178AdgApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTD
+DPTlRUf0eAAAAWtaM0DcAAAEAwBHMEUCIDuoTheF1La12tJZ4YWyy7nTN28ChpPW
+yCaTemms2oM0AiEA+7bOklQL0TGP9ZxLMVd2ckQVfI0oMCb0xz9icSfbi+QwDQYJ
+KoZIhvcNAQELBQADggEBACQcknbOns3SmAli84K/T/3nBKD3DC+z5azvWZMoTqgL
+pKhsrC2fNk5j2lOHcw3cDZBrmSFB7OImVZvNMJkP7/K3EvdZsjRTpEq8P1jjCgJa
+ChPAReTbrERN+CrsTVlkGhu9DA0bgbGecpxCMI7mPuXBGF1fNlwpcxox9iuKTYfh
+HHisPch0MaKh6YEc+WJWD9JzcDuzMLu2GX3fO7hufi+VzcFfDKUb+NKlGPl7luQI
+x3KEWz5CqJw1drCk6qDexD3TEtt3x1BLDcK3x/YxFahSdjksYP/mrYMWB8aPst/Y
+LxCbkqFvbJdmXH38bDf7XB/XLFcVzPNuIE2X6DvufQ4=
+-----END CERTIFICATE-----
+subject=CN = traypon.ru
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3049 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

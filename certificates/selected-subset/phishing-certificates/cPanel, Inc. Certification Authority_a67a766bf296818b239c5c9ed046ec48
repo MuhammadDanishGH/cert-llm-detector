@@ -1,0 +1,74 @@
+http://devstore.valeriasalon.com/dabdagadsbnguwe/adbndaghjdbdasgusd
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = devstore.valeriasalon.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG5DCCBcygAwIBAgIRAKZ6dmvyloGLI5xcntBG7EgwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA5MTcwMDAwMDBaFw0yMTEyMTYyMzU5
+NTlaMCQxIjAgBgNVBAMTGWRldnN0b3JlLnZhbGVyaWFzYWxvbi5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDViN1dPYStik4NJIqea7hwR+QvEsg
+rS/rBTRAY4wpP3hYIoAmFpvChQCNH2dQRJJxtJnNfQdpp+0rFgZAbGCIRGOpwhgs
+ZyLvfgZ9foo79EtnAI+A/ptClQFt2FiBFKLSbupxBfgF8ijin6BkUZrlUfUcKVYN
+8CfQZTxOd0m6zKYbcoL5cF2o1jjTSs8oweiMypgtEvJl36moulTTza3wHlnbJN6S
+47t5vjq27DpofS8AbmmS41U4jICvSmH65umLXn4XyAfvN+EBWs1SGf0SFHnQGwlW
+zZI7JkKioGayKpJ6atdR5tsb9OjUJmTP/G77wDeps/SdH+TMhzZ8/PvrAgMBAAGj
+ggPBMIIDvTAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4E
+FgQUoiDuvNM8CQ1QfiqqXHHwa5GdVaQwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB
+/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAw
+NAYLKwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNv
+bS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29t
+b2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0G
+CCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5j
+b20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB2AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABe/Le9lgA
+AAQDAEcwRQIgfrABYq9C05yc72dEOPKtnx372+4txxMYMBKcE+2cjQ0CIQCBLypL
+OGZbBFku4DkCjzICBuuWiD05hCLJlscEV2FuogB2AESUZS6w7s6vxEAH2Kj+KMDa
+5oK+2MsxtT/TM5a1toGoAAABe/Le9moAAAQDAEcwRQIhANglMdxCaDHXpMrBRSMy
+d3PDSY1AgPffSJCMIvF0E0BuAiAAwqqRgkV2998bhxzdiwmSD7g4Sck6wTfLLoyb
+uG76sTCCARwGA1UdEQSCARMwggEPghlkZXZzdG9yZS52YWxlcmlhc2Fsb24uY29t
+giBjcGFuZWwuZGV2c3RvcmUudmFsZXJpYXNhbG9uLmNvbYIlY3BjYWxlbmRhcnMu
+ZGV2c3RvcmUudmFsZXJpYXNhbG9uLmNvbYIkY3Bjb250YWN0cy5kZXZzdG9yZS52
+YWxlcmlhc2Fsb24uY29tgh5tYWlsLmRldnN0b3JlLnZhbGVyaWFzYWxvbi5jb22C
+IXdlYmRpc2suZGV2c3RvcmUudmFsZXJpYXNhbG9uLmNvbYIhd2VibWFpbC5kZXZz
+dG9yZS52YWxlcmlhc2Fsb24uY29tgh13d3cuZGV2c3RvcmUudmFsZXJpYXNhbG9u
+LmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAPAsCo28gl8YdAYST7d1vllxHZzQ0WYCk
+Z/ZWDEju35QEvsfI1sAj3Fp2oWy+76xJtExs8VemuZnIRqO41eBF25uUrtW56JSC
+PtwwicYqxt9X+U4ho3jcVFrggcoSa0sbob9uv5l5y7mN0Eom5NhRo8pNHBoW0qnd
+eE6E72BAzAOB444Ij9F0CpGw0xMWeRdFiU9qoLYB2rWXTKKUdmnoL7fryuApbZdR
+2yWtTbScgBrklFOSg3ksrnGQCf07rbWLd9nulOvYij9LbZR80MH/mvNs6sk8z5PB
+cIOBE7uogha28OGRfqVCJPIscowtSXrc8XoIjlH7Cb8L5XSljV/mhQ==
+-----END CERTIFICATE-----
+subject=CN = devstore.valeriasalon.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5273 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,66 @@
+http://servicetermopanebucuresti.ro/v/FBG/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.servicetermopanebucuresti.ro
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYDCCBEigAwIBAgISA2LQAqkno3KmqX3nIPGSJRjvMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTUxMjA1MDBaFw0yMTEwMTMxMjA0NTlaMCkxJzAlBgNVBAMM
+Hiouc2VydmljZXRlcm1vcGFuZWJ1Y3VyZXN0aS5ybzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAJFoijAI6nfG3whTDvxlZ6dmNY8VNiPf7AtIUi8Lykjx
+GsTVlsPRp9bx/M4S9fJPwYiU0glS6DF6poFOd4Z4dvFNSPR0hNUKRZSeKYftdx+H
+3TNcF3Uyn7G8Ssi6zfAPyMsHYrekQoPSmI4GHPxEeSj/ANXu+nGIvafXHNcMWb0W
+K0vOTo5ApYBf0ZJ+kO5yiC/Ee+ub3cA70rgR6ihWz4OzblzXgisO+XVBJ0jACJRM
+e5m5BlTuScyh87l+n1J2gbJjABSqLjynhZ9LiCwi1Y1gufJ2mC98JpSevubj88aQ
+hCferYVH7Zs2ytEYopoTAGdTKSpla92k04VAPNu/4+8CAwEAAaOCAncwggJzMA4G
+A1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYD
+VR0TAQH/BAIwADAdBgNVHQ4EFgQUzKZYselL9dfx8ad+NPDaWfwIN2wwHwYDVR0j
+BBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsG
+AQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6
+Ly9yMy5pLmxlbmNyLm9yZy8wRwYDVR0RBEAwPoIeKi5zZXJ2aWNldGVybW9wYW5l
+YnVjdXJlc3RpLnJvghxzZXJ2aWNldGVybW9wYW5lYnVjdXJlc3RpLnJvMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDw
+AHcAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF6qkU5JwAABAMA
+SDBGAiEA3Ae312XF5LQ01pYGLCCWKBM3WRDSco+fEEV/JlS3KGgCIQDjyZocJlEX
+7Ue46EJn8wn93ZtjGdrqgC/lNc6F7bbETAB1AFzcQ5L+5qtFRLFemtRW5hA3+9X6
+R9yhc5SyXub2xw7KAAABeqpFOucAAAQDAEYwRAIgZyiNwqwK9sZ+mF2sgPwxBiKK
+KrFAQ2DgzTm0CMSF4ZsCIHTDxiReRltiwMQywbUvwsa0LdoML0vRqtqr/3ZT3QHl
+MA0GCSqGSIb3DQEBCwUAA4IBAQBE97MDJHZ1IeViwb7BM3mOYEL3oRObMD3ZJHHg
+/cbKffkusskKoDgJKyb/tTiTcZLJ85Ie+VK3jeFbEo4LJtWw7vWeQhgBr+PdxS2r
+E81mHbVSkIeCb1MyNkdRXIhDcmwVyHSS820jepKyY7NdNKvtTIj/2bxDWB7z3V/C
+sk3yE6JYarMRCQoZqa4JRQ9jXMT7aqyc1xA1a/kkh6O94HMAcUp9b0rOPQ+95F3V
+1M/Kt114bpGsrJptzLfZCNxDtNy+SeGbBiEyN952zLwyXjOX3P8KhRfU73jgcTlA
+Z7SLuH2M0A0yctGp9uaheEasZBj64XSaXvqXmTVypwWEX0Vx
+-----END CERTIFICATE-----
+subject=CN = *.servicetermopanebucuresti.ro
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4636 bytes and written 410 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

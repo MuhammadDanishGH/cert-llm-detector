@@ -1,0 +1,81 @@
+https://login.my3-three.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = login.my3-three.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGdzCCBV+gAwIBAgISAzlvxjjGGBcegfqXES+3dxVAMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMDUxMzE1NTNaFw0y
+MDAyMDMxMzE1NTNaMB4xHDAaBgNVBAMTE2xvZ2luLm15My10aHJlZS5jb20wggIi
+MA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQCdiEcje4cLbUKLgaCkoIxcmE/P
+VI/kOordzhGTGbCyQjSM+BDV0QTPBGzpSUCXpRQXZfQkzidRoD8PqnDmtyDA8aoj
+ocurMqXX1b2sloqtheNyMBVn+CkAK593rNnuafLOsi/zRXk+Mjzl+jrQYGvYTxRj
+1Dh6cuQRRoceEJyVIPmp0mFI9HhxvZNSyl1GPnvnrsuFH2bjY8OJd9Tsp59sZ90J
+frS0muuNPZ5Ynpr988zE2RetGnGquJnbIT5/L78T52PZc9bqd7Z7+suPdig7hOEy
+30hgvXM5GOMDQlkgmqwKXkDtzCiRkQxQlTrYkuYMpfF58IKjXfs3ON+JQBhrjKli
+FlTf4N6SMT0jeBsXNRK6ZWVNVkzzI4tfoE9oWyaT+8dqmdacCFNBgDY6o4XHgeBD
+As0lxoDwXR3kjH1OZ7UsHeQrTQKhmLxHkC0qY0wX/Bgo1RytA9Pn8DlsM5R7iNuA
+Quzbcr/Ol06TDMo/hSp0Pa5ATM+tTnDA6AWKVjhu0ugsAD6cehU+z3UH5LanrlAi
+D4W6+3obhu5lbqlXFArB1eBrT1Zhagxx+aQlbqVUx26c8RVWVX/0xw4y4qohpbbK
+Ho04mjBewCZDdSzpLr3wmt0UtCXoGrUmSpXV0ux9We4oLRnyFeYDWe37FdqZ0/+N
+aXmFLzPUUpqhvukwcQIDAQABo4ICgTCCAn0wDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBSGJIK4yWQ0B0e32tsAyTyhbj/vPzAfBgNVHSMEGDAWgBSoSmpjBH3duubRObem
+RWXv86jsoTBvBggrBgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3Nw
+LmludC14My5sZXRzZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0
+LmludC14My5sZXRzZW5jcnlwdC5vcmcvMDcGA1UdEQQwMC6CE2xvZ2luLm15My10
+aHJlZS5jb22CF3d3dy5sb2dpbi5teTMtdGhyZWUuY29tMEwGA1UdIARFMEMwCAYG
+Z4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMu
+bGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA8JWkWfIA
+0YJAEC0vk4iOrUv+HUfjmeHQNKawqKqOsnMAAAFuO+wDjgAABAMARzBFAiEA1N40
+CVMK5XsP2Ir67sR62WEEVRaR+VrkW63P0zaq+j8CIBdrVSPM4KvuAF97y94aoVnh
+nQHyr6piE7tQjMgCtJtbAHYAsh4FzIuizYogTodm+Su5iiUgZ2va+nDnsklTLe+L
+kF4AAAFuO+wDZwAABAMARzBFAiB6/Il3crHrNCSU/VPk0GN66NN7G/9mRRlaIdaf
+V08VGgIhAOz15mhR4yTGn1sERGdw+SjAz2QKDtV/n7b55+ffgwq6MA0GCSqGSIb3
+DQEBCwUAA4IBAQCKB4IbB8KX2DyvIbmb2D5ZLCH9Bie1ifbtv1N3VTzL6q4odQ8h
+vEPYtoWkmlF8dtWG3wQwDyuF+c2++QQFkY9AUIbivZLAWP1K9wXXigVp7q29tavO
+v1JQ3Gnqn+bu3ifkGslcLVaLcrl/A+7L86tSPonV6pNW31S3l6utSdUWqgCXtsTT
+B/eszOUBL/DsZ1HyS2WbmPt4xgBNEUNGYqpDCPW9F2mgOe+d2O5xun9ipQ6CoegR
+h6DZUVb2NFjFciHUXl9fymSmEo2nqQOYSeLwFceXCz302a3nmctdngOakHyQdHuy
+GQ6EJ7TIy/uRt3SkjWhyl7e8BqxPozXdo6Wa
+-----END CERTIFICATE-----
+subject=CN = login.my3-three.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3603 bytes and written 457 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: AD3A2778C7324623AABB776667F2A84C69315B02CC08FCD59C73AEDD271E83E6
+    Session-ID-ctx: 
+    Master-Key: 6D82209ED88FC7B5BCF5884CDB68CCBDAE5626F60152AB26A68415F02901F3CD31FFB98D270BE9FB2F510939CB13FF6D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1573135270
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

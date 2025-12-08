@@ -1,0 +1,93 @@
+http://haumaukhau.in/wp-includes/newproject/newproject/onedrive/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = haumaukhau.in
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFvTCCBKWgAwIBAgISA3lstoICpatUHTz57MgjOIxwMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAxMTAxODQwNTlaFw0x
+OTA0MTAxODQwNTlaMBgxFjAUBgNVBAMTDWhhdW1hdWtoYXUuaW4wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCwcfn2pDmhaKpHnSxKmYoVX7LVjEe+jRfZ
+VlQSG+gwc4JqCF7yYKP4CMmndMuGFkJAQpuR7j59MRIthw4qhh7EfDDSYFeaCur0
+M4CdK1fmtKhFT4tl0IiiVDgeLWDGOnDudkjyj79o/x1JlKos1JbuqUj/HgGyo7Qw
+A0oyO5wQSKYZH9Hmvzz+uO/42Zh3dmqt37hgX2UQAwMt6wA0qnWnTwHbAAVMMn7X
+A7REV57cMhmmkAG6RO90AuI9Ya1dgHCDRPjtsj0InxDE7FezebhUaiLExpihcm6m
+7MRmzCXTe821tSisV9z2ifvJNP1e4b0dEefanwI/GdNvJXV8zjPrAgMBAAGjggLN
+MIICyTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFIyoLptvvfSbmBBdrWwG40Ii3VOZ
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wgYMGA1UdEQR8MHqCFGNwYW5lbC5oYXVtYXVraGF1Lmlugg1oYXVtYXVraGF1
+LmlughJtYWlsLmhhdW1hdWtoYXUuaW6CFXdlYmRpc2suaGF1bWF1a2hhdS5pboIV
+d2VibWFpbC5oYXVtYXVraGF1LmlughF3d3cuaGF1bWF1a2hhdS5pbjBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1
+AFWB1MIWkDYBSuoLm1c8U/DA5Dh4cCUIFy+jqh0HE9MMAAABaDlINL4AAAQDAEYw
+RAIgaQLgcB7JWgVDYT2JbtlaAex3HlSWRqGzjTkqZwtpOUoCIDXIN8ywbhNglhwR
+Vgs6GRXezxMnNAfuch+VZCt1P8B0AHYAKTxRllTIOWW6qlD8WAfUt2+/WHopctyk
+wwz05UVH9HgAAAFoOUg1cAAABAMARzBFAiALs/e3UFS19DQvMZ44XwkGC2H6xfBB
+jUqn1AVFju43/gIhAIuDox0EZ3DL+kPQJxmXSMzLTUyxDSX2rah/imcWyhM9MA0G
+CSqGSIb3DQEBCwUAA4IBAQBaAMXeWFxeK93UH8d3NL1SGhRBXALRNdazn36dsvEF
+O5+JaFOMl8wq4Fbc6O5VMxdPqcPjlYDKogNi2XYBGOjrlpBZcNySHYP074+cKEBe
+gj5yvA5Qrgn70Aoh/iWAS59LDiWQ8yv7ZiJajdA8CM6C/h9uxcsfVQcwbnGqUO8q
+gO5WRHb2XLZHXEqHvEeqjr+WwfOf5LwQqIMcog3sPiaVm5avtzfEXYtvCFfaXAZk
+Y1KkSl1azrc84zwRPBrbMWIs4pyCIPawQdbQd/kYPo/rdvoAf0V9Q2hy+yFNSBxS
+gj+00E1MqbI2jB/Qn5bysVLMFZ4gPhlRa9Xplaj7RFXW
+-----END CERTIFICATE-----
+subject=CN = haumaukhau.in
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3356 bytes and written 451 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 9635DB12278A89E3E1D4836AA4E69705D16081FE56166C53A4222350EE12C18E
+    Session-ID-ctx: 
+    Master-Key: 69CD1AEA6F84FC089D80866B55E59693AC792D806F84CAD34A926BF964118936706AF29EC0FE5D62A6E78693CB1D48E3
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 44 b7 9e 7c e5 1f bf 5f-46 57 fd ec f1 e1 c2 a5   D..|..._FW......
+    0010 - 8f 44 fc 1a 58 8a c8 36-7b 9e ff ca d1 e8 5e e8   .D..X..6{.....^.
+    0020 - 35 73 c0 9b ef e7 4c 09-7a aa a7 30 5e 92 f1 ca   5s....L.z..0^...
+    0030 - b9 bb 3d eb c7 5a 19 8b-a9 89 89 00 5f 14 c6 77   ..=..Z......_..w
+    0040 - 41 68 72 4f d9 03 53 ee-69 b7 b7 f6 3e 4b 90 72   AhrO..S.i...>K.r
+    0050 - 7d d6 8c aa 17 66 47 f7-75 88 fb 48 92 08 4a cc   }....fG.u..H..J.
+    0060 - b5 db 3b 77 27 ab 6a d6-54 29 0e b2 6d 10 3a 2e   ..;w'.j.T)..m.:.
+    0070 - 5d 0b 4b 75 2f fc 76 c8-ce 24 6b fb 8b e0 9f 0b   ].Ku/.v..$k.....
+    0080 - d6 9e 06 fd 4e ca 43 23-59 24 71 c4 2d e1 28 21   ....N.C#Y$q.-.(!
+    0090 - 50 fb 16 79 e8 e5 b2 d9-5c 55 7f e3 77 f0 c1 da   P..y....\U..w...
+    00a0 - d8 42 aa 79 40 39 ed 06-46 30 ce 9e ae cd c3 0c   .B.y@9..F0......
+    00b0 - 08 e6 1d 26 9c 53 96 b8-22 7b 3b 3c 31 05 88 65   ...&.S.."{;<1..e
+    00c0 - 11 2f 88 75 d3 6f 11 f3-a2 15 9d ce 20 ab b2 ac   ./.u.o...... ...
+
+    Start Time: 1553695218
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

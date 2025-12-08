@@ -1,0 +1,65 @@
+https://ameozom.guanxxg.cn/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ameozom.guanxxg.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKjCCBBKgAwIBAgISA46EeA/LNVRX29kDtjIOE4j9MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjAxMzAzNTBaFw0yMjAzMjAxMzAzNDlaMB0xGzAZBgNVBAMT
+EmFtZW96b20uZ3Vhbnh4Zy5jbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBANMV7jDdgoVWrz96xr/PlJFDh2dMuo+nNR/50wE/xh/eHlYVOsgnGJgRdlMu
+9NwLJf5koyy1ZPw0oTGmEU2/K5y27iMTQPFe3VAik1wPlvHl5Di19lkC3REH/78C
+wELOfBqfYslvTJ4anFOaQBq75D0U2UQ3p34vYOG0lhuZmIj+945LiUci8xzTPUbx
+JzGvGMxBK8XCuPpK2NzmkBxVDVNO96oYfQm9ZX719vbOz3jbyVpALdnl45QClArH
+7xlC4kt2DlvgDuxrQXdXnwFsrlTCjiAso/HDWF6ACTc3K9+AkncTy6Lk05KeCdwD
++e5n6fOcxHNCiRT33eW5N0QXZYMCAwEAAaOCAk0wggJJMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQU1itwiBvpu3WD3JQnJDueVgkG0mAwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wHQYDVR0RBBYwFIISYW1lb3pvbS5ndWFueHhnLmNuMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA36Ve
+q2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF92Cfb4QAABAMARzBFAiBN
+rx7Pa3IGWwcb9bXM0jIh5C9ryWKXfhCGD+b5lN+EBwIhAPAt/m9K6OjM0pUnNiZx
+JPY9Oh32fPJMjSPj92i0vFriAHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy
+/HD+bUcAAAF92CfcGAAABAMARzBFAiAIG4XGtqH+01hv8Oa5h1DY/VoN9l1mb+M+
+VktgB0HT7wIhANnJECMVwi9z+Nuzd8jgtQOrEN1ZCgkJtds52wb6gLhoMA0GCSqG
+SIb3DQEBCwUAA4IBAQCkUVuOoL5bbrka4rDzzVI5SnC1n3qt0eieb8VmyZu2bEo7
+cgr2rt2eP3XWKcEwvGWnN+TWZMBwA0Zph1bYqAchqrD9J4mBG+M3aSexCfpGmyD4
+1q2Hpa7SFPXnyna2w8Y1h6DOiz4BoMQYcAEmaDiDwkG3wPwzQRtFXNNfTa/Pz4FT
++PCHM/SeP1ldbNIZRQc5v3uB2fgQpAN1QnlYIgKx5W2M6sEqT+876s3lEBNLPOdT
+jSuA3GBrMosWuJfTK7nE/pvhDkBPMsMsJZuQv7SJpvi9gVEwAd9RUtw/p+vrNfJ2
+5jvF3aqFT2pFQ02tKnmNCgm4XLaAB0FdLnKNEn9M
+-----END CERTIFICATE-----
+subject=CN = ameozom.guanxxg.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4582 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

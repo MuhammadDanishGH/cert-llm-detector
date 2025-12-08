@@ -1,0 +1,71 @@
+http://event-ff82-com.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.event-ff82-com.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGPzCCBSegAwIBAgISA8NCfK1kBDGMQC19r9xbio1nMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTEwMTAzMTVaFw0yMTEwMDkwMTAzMTRaMCkxJzAlBgNVBAMT
+Hnd3dy5ldmVudC1mZjgyLWNvbS5kdWNrZG5zLm9yZzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAMo8CDnFniEOE2Ogr2pBRX6ZTDzCNw+e/mqp63Xr0Am/
+i5poxkWNdENeIGanY/lox9bweqCCvRH+3FsiaC1Divsra5PXNQfQ92grsD6xM9C0
+Y1cJBhmK8O6o6qQTVxAJfMvWDmkn1Fh+YcaT4IQTmeckhvALaFdBu2tX1UBz0jpK
+4Aag5KnUmc4ePNr983TJGoNwLRlYdHiG7dTdYapfqyJHbIIbX9kqjLxWS6vZJAl9
+WLGPg3Pu5Y3MB0yfLKWEWbZSskfkV/jR6EzEJwxGYoB9w7KMYVKBfzsNi9OvtZiq
+GhNptRloNeB3kV4/15+NIhYni5vMvaSyUStn7Bdm6mcCAwEAAaOCA1YwggNSMA4G
+A1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYD
+VR0TAQH/BAIwADAdBgNVHQ4EFgQUFi1nSA9+S/65qk+qytbaEEZh1YUwHwYDVR0j
+BBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsG
+AQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6
+Ly9yMy5pLmxlbmNyLm9yZy8wggEkBgNVHREEggEbMIIBF4IhY3BhbmVsLmV2ZW50
+LWZmODItY29tLmR1Y2tkbnMub3JngiZjcGNhbGVuZGFycy5ldmVudC1mZjgyLWNv
+bS5kdWNrZG5zLm9yZ4IlY3Bjb250YWN0cy5ldmVudC1mZjgyLWNvbS5kdWNrZG5z
+Lm9yZ4IaZXZlbnQtZmY4Mi1jb20uZHVja2Rucy5vcmeCH21haWwuZXZlbnQtZmY4
+Mi1jb20uZHVja2Rucy5vcmeCIndlYmRpc2suZXZlbnQtZmY4Mi1jb20uZHVja2Ru
+cy5vcmeCIndlYm1haWwuZXZlbnQtZmY4Mi1jb20uZHVja2Rucy5vcmeCHnd3dy5l
+dmVudC1mZjgyLWNvbS5kdWNrZG5zLm9yZzBMBgNVHSAERTBDMAgGBmeBDAECATA3
+BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNy
+eXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB1AJQgvB6O1Y1siHMfgosi
+LA3R2k1ebE+UPWHbTi9YTaLCAAABepNN7LcAAAQDAEYwRAIgFvJFgTwRHfEO41lv
+hgWWoSb7TULlh6P+QHJxiFrwE4kCIHFxb8ZnTu7GTfym/uGT2h8Ukv2XWFHUjwe8
+l404cEr+AHcAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF6k03s
+8wAABAMASDBGAiEAitQxfi4CV6U4ki8bFNG9vm8UjXR6aG0EsXV499Vv6NACIQCJ
+s0weaJVP/V3PtZhCvEHFpfBzgsGnQzjKkTCBRNrQcTANBgkqhkiG9w0BAQsFAAOC
+AQEARMV2mQ8T8ZiwGXrcqGEFO9f69bB3nRg1ZqYtoc3w8hHWpcWpBSbU5HVQhtaX
+nXzvGLajKDz9iOGl6Xq44VTMqxSISVmKQozmVEXgagKKHEJHD7/DuUxExerlh+ee
+8Yzc6I0rb4CsHRbwNcB1Yn2Gv7ZHA6NnHLG3/tAot0l0RTnCjldf/Jp746ZqPKcy
+4EeIuoYQqk3gsoZ+RGskIkRFusEmrsgqTAGv2Kfnwj26gKfu+bxl7tbZkQ2acm8S
+HHaxGOJ/KhHwLVjN/OVllFiHId4/XjPp2cGBEgVyL4zMZ7udgBSqkfdh71SP0pBz
+cD+75uXxkQ1Q0/ugHSzDe7r4Mw==
+-----END CERTIFICATE-----
+subject=CN = www.event-ff82-com.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4789 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

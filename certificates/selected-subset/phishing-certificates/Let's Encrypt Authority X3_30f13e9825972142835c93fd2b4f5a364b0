@@ -1,0 +1,95 @@
+http://tudonovoemcasaebom.com/endereco.php?skullid=ODk0NTQ0MDIxJjEw
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = tudonovoemcasaebom.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGJDCCBQygAwIBAgISAw8T6YJZchQoNck/0rT1o2SwMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MTUxNDE3MDBaFw0x
+OTA4MTMxNDE3MDBaMCExHzAdBgNVBAMTFnR1ZG9ub3ZvZW1jYXNhZWJvbS5jb20w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDsFftiqwK4lCXrlm1EZfho
+OLa9k89GpqMAoQOQre3APMeP5lMSEDtacJvF4Ax8Jc/kJA2NZGDM1HTLe6kElZ6Q
+u9RxmqVFUiOwAWzID85faahBODp/FbbPZNQZHkNI5i90el27Zrdcea4vnDmy5GqA
+4EBOlHIB4fGeKKVZHdVU/6xKq2d5y/XA3XluL1veoVPxRkl+IR5bM+EIhO7CiGwa
+HRB9nRRPDKjVUgp4Mvcry2XgCOkVsfOq5ujMGIUmgkUznJHmPH4vvVqvMIDMjA+b
+knVjOwC1uPPttyzH/OYgkgfBlZG4vP2ZhQ85dRHOjzyPpLR4xKGL7/ouEonWVZPJ
+AgMBAAGjggMrMIIDJzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFOlPLT/5TfvBhMaL
+RzJJJVdYbPZUMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsG
+AQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZy8wgeAGA1UdEQSB2DCB1YIjYXV0b2Rpc2NvdmVyLnR1ZG9ub3Zv
+ZW1jYXNhZWJvbS5jb22CHWNwYW5lbC50dWRvbm92b2VtY2FzYWVib20uY29tghtt
+YWlsLnR1ZG9ub3ZvZW1jYXNhZWJvbS5jb22CFnR1ZG9ub3ZvZW1jYXNhZWJvbS5j
+b22CHndlYmRpc2sudHVkb25vdm9lbWNhc2FlYm9tLmNvbYIed2VibWFpbC50dWRv
+bm92b2VtY2FzYWVib20uY29tghp3d3cudHVkb25vdm9lbWNhc2FlYm9tLmNvbTBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB1ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABarwRcRMA
+AAQDAEYwRAIgPgC9CqzLECcvLSOsJoPczDhu62l7Y1LRM742KM7ykJQCIAEdoFdJ
+p4akZH7LGWZy0dCqTXNC5s0pQDte/aCBxm0YAHcA4mlLribo6UAJ6IYbtjuD1D7n
+/nSI+6SPKJMBnd3x2/4AAAFqvBFxrAAABAMASDBGAiEA+6q1G9K9L2FxL23O2R34
+6C4+qPfuIXcNzmN+T1N2yIoCIQDmBeJgWzOf3wkCNd41xwbG5c3kW4q/NJtE6hVS
+hO5DdTANBgkqhkiG9w0BAQsFAAOCAQEAFfdWvTMFT0k4xX1Z7H8+rf3j1acl29cc
+faSBkqso9TmbQrgR1SP5dT9viI7b0p5QPeY8dEzP/ZKIfdiChe4629hG/MCLMUlI
+/U9aYPrTyArkemFxuSOUvmvA+TJyx7wNPTUuPENtuUJ4QaswrnyGkLKwUZ3VjYP1
+JHCzhQ9SV38a6wZMf4y8i/KmX/P+1l1ii2bIIixiKThmf7GFTsay3n5dgGwzreaE
+WVs/4aVvXJwtFX9YliN6nJFoWrq99wB+kCidL33Hi3EPqIiMGVoD/kCfMgP7rv84
+ip4wIHki2ncp6ga2e4nID+WaRHalJb4LKUbfYKxFLo5wzcAWqFdjVQ==
+-----END CERTIFICATE-----
+subject=CN = tudonovoemcasaebom.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3459 bytes and written 460 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 504B9967601B45C961D74BD5347E1E27D991776C4200303ED9A3569F99E737EB
+    Session-ID-ctx: 
+    Master-Key: 3A9F795ABAD750C5D7047A7DC1F1DDBAD7B878053A51A41C1F4B0F3E000B6447023DA480F611E3D6481D063C866A6830
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 77 29 75 52 a9 7e 6e 72-89 f2 19 8e 4f 3a 30 2b   w)uR.~nr....O:0+
+    0010 - 1b d7 3b 6d b6 03 8e 0e-a1 a4 05 0b 0d a9 4c 13   ..;m..........L.
+    0020 - c3 cd 65 ce de 1f b9 7d-89 25 67 14 64 c6 69 4d   ..e....}.%g.d.iM
+    0030 - af b6 6d 8e 4b 3a e8 09-2a e4 d0 de a8 d7 8c f3   ..m.K:..*.......
+    0040 - 48 e0 b2 a2 56 05 07 f7-bf 33 e8 78 97 85 13 76   H...V....3.x...v
+    0050 - d8 7a a0 74 e1 53 6a 56-13 0d 14 ee c9 8c 19 26   .z.t.SjV.......&
+    0060 - 78 82 6d 8b 52 a6 aa a3-6f 19 62 e8 e0 21 9a 77   x.m.R...o.b..!.w
+    0070 - 3c 0a cd 43 d1 89 ec 04-7a 0f 3f 9e 67 12 31 4b   <..C....z.?.g.1K
+    0080 - 31 d5 5a 74 0b e7 1b 09-1b 67 b5 21 af 02 87 8e   1.Zt.....g.!....
+    0090 - f4 49 53 2c 3c 64 92 48-84 55 71 c0 a4 d2 86 f5   .IS,<d.H.Uq.....
+    00a0 - 5c 2e ed ad a7 8a 0f 0c-cb 8c 08 2f ad 9f 81 c7   \........../....
+    00b0 - 91 e7 cb f8 12 81 e0 49-f5 8b af ad d9 05 1f a0   .......I........
+    00c0 - 03 36 d5 50 51 cd 38 57-a5 22 cd 91 35 4f 23 56   .6.PQ.8W."..5O#V
+
+    Start Time: 1558184422
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

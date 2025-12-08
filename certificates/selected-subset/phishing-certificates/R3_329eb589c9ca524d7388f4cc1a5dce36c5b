@@ -1,0 +1,65 @@
+https://erinaflorist.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.erinaflorist.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFiTCCBHGgAwIBAgISAynrWJycpSTXOI9MwaXc42xbMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDYxNjQzMzFaFw0yMjAzMDYxNjQzMzBaMB8xHTAbBgNVBAMT
+FHd3dy5lcmluYWZsb3Jpc3QuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA1GNSL/dE/X6r1YdMhlvMdPfc4QXeTofDIC097IE5mtfv3wVet/2KTeHY
+I3qtbg03JDKKiwXO5si4oCOKOdJg8Sxsf2fX5qS6HNWEogi/u/RJGjY7IsY41q/M
+xPCpsD0VqeW5BiUngCOWH80yjKDdImtKApee6OghaUEayPWZ0lKRMrl7/LvB2TXz
+i64x1TsuRRHmCQsFeRda0WYhlKAk8dZFVqwCb2QhOIdWxbGURWwoui0pHbFvXBK0
+UBFEn37OQ4eocl1hbc0Qez3cJ23kZEGPysTGeTT26s/+RO839IqEwHm6MUwazCn8
+xbcbbPs89CZqZGGdDXDgvQ3gzZFj3QIDAQABo4ICqjCCAqYwDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBR1g7Um7keYMUsH2SC8c+MEuTO+wzAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzB8BgNVHREEdTBzghBlcmluYWZsb3Jpc3QuY29tghVtYWlsLmVyaW5h
+ZmxvcmlzdC5jb22CGHdlYmRpc2suZXJpbmFmbG9yaXN0LmNvbYIYd2VibWFpbC5l
+cmluYWZsb3Jpc3QuY29tghR3d3cuZXJpbmFmbG9yaXN0LmNvbTBMBgNVHSAERTBD
+MAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8v
+Y3BzLmxldHNlbmNyeXB0Lm9yZzCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1AEHI
+yrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfZDX8foAAAQDAEYwRAIg
+O3DggDLR5mk+ymLoXHPel6Zp18+ryP4zwx1lMm8Niq0CIA8K/M+eM8jUjEIsE7yF
+CeH0stPz1LcNusLhGof9scZNAHUARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy
+/HD+bUcAAAF9kNfyGQAABAMARjBEAiBey7agPD82O6s+/7y2uNkNqYFpnrC+w3uf
+peMrw5OHvAIgU+Tt6vuX2L0EfRn00Cun81e1lX8lrRfqQGXvwc0AF8EwDQYJKoZI
+hvcNAQELBQADggEBAIEH/X5LiuCM6cQ99eHKCshv9py+YW0VJ575/LHogiUNF2hY
+DugQQ7/wbbAUJTbxWzvBsBYGZMG3LxX9oATtEPVvWG/UCvkmItlu0F1KWVKhFVr6
+P4eYWIbXSPA46R23bgKXv8RYgOSNgB6YX/WTFj24O3nVvg1PYab2cKe04vKEJP0x
+lBxFS1h7VGEqp4/sHwLJ30UatOEucBKUZy/hq5V1DZe9utWDRigXp/87EBdPuNeo
+vXg7oguT4KuvfLiFXuNg/Z7K8QvD5Wh+lGDg1fo9coQz/dd9PgKk8dEQ9aGFVunm
+kj4xGesDZqB2R8DrQ6gQTHU8AssUYvw7ldzmG74=
+-----END CERTIFICATE-----
+subject=CN = www.erinaflorist.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3292 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

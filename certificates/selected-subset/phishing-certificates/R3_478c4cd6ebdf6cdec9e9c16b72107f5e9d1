@@ -1,0 +1,67 @@
+https://www.a.sccbe-ac.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.s.sccbe-ac.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFjjCCBHagAwIBAgISBHjEzW699s3snpwWtyEH9enRMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjYxODMxMjhaFw0yMjAzMjYxODMxMjdaMB0xGzAZBgNVBAMT
+End3dy5zLnNjY2JlLWFjLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAL2nhfB1PvDJ2gnCHRZz1EhWDiLgWebqjBsAaBXLbt/JoDQlP2oYn3Am4Dxg
+z1apss+q8fbS0MIvqIeSM/ZPdRKi/2fxRxSDlCAGAv+Rw+KnFHv3aylrrK99FgW2
+i0PaKnRekxwVKUHTv5Iw9wkvwEnokbLqxy7/2PKKGnz7NWRpsKLmJLdsMmpigz4t
+Io6vFDO4wmmI2cMVCjuoEanu5HLPUcs8316OCKIU4a57UlfGiMAocYXF2PcMNVKi
+6BjCbTPu1s5O4mOqLVHEvZyMyNqrEW+JXlMPTqIQspWapsjRxPLnZ5FFTHC0BJwz
+bVr1sMQ5kiSzoqlGStB8i+XJ4qkCAwEAAaOCArEwggKtMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUpiFlnLkoSVehDdAcjF/9Du2norkwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wgYEGA1UdEQR6MHiCEnd3dy5hLnNjY2JlLWFjLmNvbYISd3d3LmMuc2Nj
+YmUtYWMuY29tghJ3d3cuZS5zY2NiZS1hYy5jb22CEnd3dy5uLnNjY2JlLWFjLmNv
+bYISd3d3Lm8uc2NjYmUtYWMuY29tghJ3d3cucy5zY2NiZS1hYy5jb20wTAYDVR0g
+BEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0
+cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8A
+dgApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAX34OfnCAAAEAwBH
+MEUCIQCxgoUoA2PHzWc9U73JL27mU0CDdXzI5bmLZ6YLiKKJIgIgCSMwbK9bBZnn
++iKQEw0khd4zUTje4uJsTGyEUiF2o7UAdQBByMqx3yJGShDGoToJQodeTjGLGwPr
+60vHaPCQYpYG9gAAAX34Ofu/AAAEAwBGMEQCID4rUyJGrd5XOASAgA2oBd8BfPyl
+DUvHW6UTS0uWG63kAiBx8sjqqWR9PkhWMnS21DRiKazAgYVQI2BgTZK3eugjDzAN
+BgkqhkiG9w0BAQsFAAOCAQEAb+2moAgcBnk9LObYN9knDFls1ywhby+YlA0P7zEH
+Qgg+mSkdFhMVtJAL9thC+G17NXgTjxQEjfjaCDe3sQakoYyzf5UtJfD4mKc543dK
+mCp85swtQhwbTInbWiaa5OL4TLXJeuhogmvIiHj1Y0LacbeJ3iU8+HdO6iE5koJW
+k7eeKDzYE/eSVANiPLRQxcXUvMAxpfe20Eq+/DgLIBPUfyKTYHWXmcu1oOZuoaob
+uQiseglaqSt+VD1O/jrDBLDVn+kY/Y7aryspXeEWB1sQHB4UHIYTNLggomsYVOM/
+gy242Xoe6HlDyVsokG5YMPr4feeI7cOzT2sg2deBIIXNIQ==
+-----END CERTIFICATE-----
+subject=CN = www.s.sccbe-ac.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4682 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

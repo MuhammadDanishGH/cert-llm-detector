@@ -1,0 +1,65 @@
+http://dappsmartconnection.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = dappsmartconnection.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNDCCBBygAwIBAgISA8ryCNulItk1YRWujwqftn+NMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjIyMDUyMzBaFw0yMjAzMjIyMDUyMjlaMCIxIDAeBgNVBAMT
+F2RhcHBzbWFydGNvbm5lY3Rpb24uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEA8Gi5GXWvVMtqzWMsBF3DWPpLDmREmuFFAVFFq2DXJurAYAZ2p006
+gO7WpBS/JncKmpY45oSJSGiaTYH0HVIQCOcy4KOLJQaEbsM5Ps7LXUZ3pVixhhFo
+Rj1Spc/I1uue1/pEAv0H6sd5z9wWsDrZEGAHXzGs5w4fRV/R/Xu061Ee1/q59X10
+7DYVmNLONciNMiE8+kcn8dzEuAKihszOaHCiulUlKO8r8MsVdmmYouQd3VcbrMwy
+2dzB6xxZ10zouxVJJAfgD1Y2Zl4RRZN/12oTc9DhFGcJYOfFkuhUvp5x6r7kpu7i
+GKtejpwKy6+eI5gZH5nk6yJpF9hcUccr2QIDAQABo4ICUjCCAk4wDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8E
+AjAAMB0GA1UdDgQWBBTJOwa2MwcgMQ0r+vOYpvCQ46bn6zAfBgNVHSMEGDAWgBQU
+LrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGG
+FWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmku
+bGVuY3Iub3JnLzAiBgNVHREEGzAZghdkYXBwc21hcnRjb25uZWN0aW9uLmNvbTBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfeQhp/EA
+AAQDAEcwRQIhAIvJ/abEkTUGROneCO+qzHLVoovSDqaCH0JmRAK0pdKPAiB7/vkk
+aW7hMW09CcU+g45QOVfCJU4nqX2Irnwf88lbtwB2AG9Tdqwx8DEZ2JkApFEV/3cV
+HBHZAsEAKQaNsgiaN9kTAAABfeQhqLQAAAQDAEcwRQIgRYkGidmaT4AN92yxJHuw
+6p3trIFU5vsGBcHLuQC4j2gCIQDFR27pTq+7G2cgkSbZfchkZJTQsOe8jfXZdSXL
+KCB5zTANBgkqhkiG9w0BAQsFAAOCAQEAEsbWUK+uATzW6OkFqSfBTX+r6vZKMQZg
+HtftgD+TMFYLe7zqeCsUEUUK9k1bwepsau2hcWN1ZjTrokVwYoFpdzX+eV/vJ5Tq
+Dlam2SDfm3VfrXVeU0SfkcTgpXYccl1se/rDnBw18nLHvzDfGaS8Bf3KCYJW7B2r
+Xv5IN6ghPOBCjSog94Qd/rrAGxVQbUaxyqLGbcFHFwP1pdotqTVk4JsDyV7oAvfQ
+OusJ2/t4IRrhKvRPFjYvlYiJ6f+vfSBkcX7cQH7cVL3t6C02h52t5X60Pg9y9LK+
+cduI+ZsxMhzJ57RzqlNfyPWAYsIqWcBrB7wDyd70IdyqGyz/dVeFng==
+-----END CERTIFICATE-----
+subject=CN = dappsmartconnection.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4592 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

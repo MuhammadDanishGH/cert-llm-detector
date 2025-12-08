@@ -1,0 +1,93 @@
+http://www.hemantsonawane.com/biography/o.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = hemantsonawane.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFyTCCBLGgAwIBAgISA+FAJ5sYnJg8sIP7cfkyRSCbMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xODEyMjMwMzI2MzJaFw0x
+OTAzMjMwMzI2MzJaMB0xGzAZBgNVBAMTEmhlbWFudHNvbmF3YW5lLmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL7lIGR6O5vwA/gegHfqvA3K9Wak
+CC2HZzEavZGE2aZqfmJMdf5WhkLo/7ngmskXYhMRhaAj52WQ/LXUZlLkvt6W9izY
+ytgpgAb3JBqsnGZ13FsjRsmKCmEDhReBOGVbCyMHvhit3wyitPQozfHez2aqR4aF
+IkPpg37d7/A8/zDVHvPmSrMPCzk1Qk+CxLr4j1xyCU+W1LfuTgZyRRPRC/l+7mqg
+P8qQF91sYCOpNpO50qhoqztKdfDHKJ2bTu+DYlsOpIt4JAPRaNmCImekxOJ7PDWY
+/8iSoovtJUz2aT8SgD9owQcAsOOsFqzAT3cd/3uoz7uXxL95TFcodeVGASsCAwEA
+AaOCAtQwggLQMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUoh2hXZ503mGMzkUCRa1B
+K5wOEY0wHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzCBiQYDVR0RBIGBMH+CGWNwYW5lbC5oZW1hbnRzb25hd2FuZS5jb22C
+EmhlbWFudHNvbmF3YW5lLmNvbYIad2ViZGlzay5oZW1hbnRzb25hd2FuZS5jb22C
+GndlYm1haWwuaGVtYW50c29uYXdhbmUuY29tghZ3d3cuaGVtYW50c29uYXdhbmUu
+Y29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYB
+BQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIE
+AgSB9QSB8gDwAHcAdH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFn
+2VCH8gAABAMASDBGAiEAkIVQ4P0h2sioEnqb2MF6mtkkYoF6widS+cdynF5UqLQC
+IQCTC+602aHzQU47AzEyeNzW42XkGdSD2dJCgv9KjRPszAB1ACk8UZZUyDlluqpQ
+/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABZ9lQhlMAAAQDAEYwRAIgHD37xQDaNOIX
+pUKJM/8e0sY3AhTas3ChUKH+ys0LSYUCIESZWmHZpYBOE2q1kBnb+Dov5Ifn3Ixp
+Orw1WL+KOmGOMA0GCSqGSIb3DQEBCwUAA4IBAQBghiPvJf33Pso2vABYiKvYTFYL
+3t5OtldvEkPS/sKiwpvbete8IPxEsJhxVbB68rWjt9eRYbS2gqcE91NT4098uAE6
+SR0+Y02jTMMbes+JL/dBo5cegD1Df/1hFbg5crGnjkj94Gd7FIlHKSvOKCbx1Yuo
++SkERlL6wz7ZgsVvtNTVt/KKpjSAnCsl2+jqsz2cP28A7F0fwpjpkLZow3TzAsax
+nSgW8YdwV5k9cLHWkMtSAOURz1nxF9BG/0921pR8SK9/HCbe0HQbEEQAhVoYKaxn
+GP9rFwfRNlyF59Zpz4dOhS9cc5jaxEWM9E56AUR1ri1jYAgUyq0UvH+yUIgX
+-----END CERTIFICATE-----
+subject=CN = hemantsonawane.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3368 bytes and written 460 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: ADC0A8B093D7146F0E505BBA01DDEE51BB40F58D823F99F75C4F2325591C304B
+    Session-ID-ctx: 
+    Master-Key: 72D5DCA4537017593D05D34D36982C4CB38B9A6F8A3FDE81B56C0E5679BC88465358323256277F62A0B0F8956F4311C3
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 94 1c 70 9d 53 3d 98 8a-bb 73 2e 7e c9 70 1c 58   ..p.S=...s.~.p.X
+    0010 - 8c 7c 82 c0 1f 8e b3 91-e3 25 1a fd 51 4d 9c 88   .|.......%..QM..
+    0020 - 91 36 57 d1 37 e5 9b 57-1d 34 37 f2 68 a9 e3 0c   .6W.7..W.47.h...
+    0030 - f8 07 fe 3a 50 4c e4 f0-3b 84 f7 d2 91 a1 89 4b   ...:PL..;......K
+    0040 - c1 46 1b 48 75 23 31 cb-af 08 4f b7 5b 28 ec 11   .F.Hu#1...O.[(..
+    0050 - 20 34 49 9c 81 c7 d6 16-2a bf 8a e6 02 c7 83 4a    4I.....*......J
+    0060 - d2 6b 71 d8 6a 7d 6d b0-b6 dd dc fd 02 23 8f d2   .kq.j}m......#..
+    0070 - f8 12 4a 8d 9e 54 f6 15-f5 6c 3d 0e 9f 99 b7 8c   ..J..T...l=.....
+    0080 - 94 2f 84 24 97 46 1c 2e-9e a2 b3 ff ce 00 e0 a0   ./.$.F..........
+    0090 - 95 dd ea 01 77 4d 04 81-33 50 d5 36 f9 c2 73 e3   ....wM..3P.6..s.
+    00a0 - c2 04 4c de 89 37 9d 74-a2 7a 90 2f 91 88 5a 52   ..L..7.t.z./..ZR
+    00b0 - ec c3 5f fd fb a1 b4 f9-93 a0 39 4f ad ef 19 7e   .._.......9O...~
+    00c0 - 6d eb ad 97 6e 56 1b 6b-7f ec 64 76 d8 48 f8 9f   m...nV.k..dv.H..
+
+    Start Time: 1548684029
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

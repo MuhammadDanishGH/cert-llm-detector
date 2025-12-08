@@ -1,0 +1,75 @@
+https://www.bdsinstituteofenglish.com/jse/linkedIn.com/linkedIn.com/login.php?chfas=%7B%7Bemail%7D%7D
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bdsinstituteofenglish.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHDDCCBfSgAwIBAgIQXuIF5q41kAqhsgCLiv895DANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTEyMzAwMDAwMFoXDTIyMDIyMTIzNTk1
+OVowJDEiMCAGA1UEAxMZYmRzaW5zdGl0dXRlb2ZlbmdsaXNoLmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAMW//AroTIgaz1wxD1N8EiiVgnYb1Z56
+xjo5dTm8jLJEgPrnL15NTMycdfy0hHaVf7YuW7i2McSWz/+51PEyK5fpFnbxoFBa
+EmEbsZKSAcSUIxSMdBCxadVSXjKKeZPlRYa7qlMcYgel03rcH7HZVh/ZBelCupYG
+iPrpPMWCJlYM3ABBGdU8TGrh0teUyJvrw9f2mJ8LuKzsnTpoLuBUQgWB9XOaRIiD
+/ZpymqXqw0FvUM2LGs2ToaJuD2j84OBvNBmqDf9q9rqRbQhni/GRmvYG3M0hxThN
+pr4TxhrGmawErH/gE2d0O9IYb4ni4FwKKdcuF8AL+MTEQD+V2LVRldsCAwEAAaOC
+A+owggPmMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQW
+BBRo0P/HSxE+bPpVvEcoIsEEefYfCzAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/
+BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0
+BgsrBgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29t
+L0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21v
+ZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYI
+KwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNv
+bS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcw
+AYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBBQYKKwYBBAHWeQIEAgSB9gSB
+8wDxAHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9SnOrDwAA
+BAMARzBFAiEA4Kg067leKGAuLzcupCyqf6sxdVlHDHr9csDBHHq3+IcCIDIJ0kRV
+wxc3KDQ7zMRMjk45hY2D7QV9qJZZSQmNPjyWAHcAQcjKsd8iRkoQxqE6CUKHXk4x
+ixsD6+tLx2jwkGKWBvYAAAF9SnOq4AAABAMASDBGAiEA0d21tWrAYzHNbAY3ihui
+rx9VZUrWJVBDiNhocrfoU4wCIQD6/JsayxxIIZ0tkGMrnGT1Kbr2FVESZcvoC58v
+HAkVPjCCAUQGA1UdEQSCATswggE3ghliZHNpbnN0aXR1dGVvZmVuZ2xpc2guY29t
+giZhdXRvZGlzY292ZXIuYmRzaW5zdGl0dXRlb2ZlbmdsaXNoLmNvbYIgY3BhbmVs
+LmJkc2luc3RpdHV0ZW9mZW5nbGlzaC5jb22CJWNwY2FsZW5kYXJzLmJkc2luc3Rp
+dHV0ZW9mZW5nbGlzaC5jb22CJGNwY29udGFjdHMuYmRzaW5zdGl0dXRlb2Zlbmds
+aXNoLmNvbYIebWFpbC5iZHNpbnN0aXR1dGVvZmVuZ2xpc2guY29tgiF3ZWJkaXNr
+LmJkc2luc3RpdHV0ZW9mZW5nbGlzaC5jb22CIXdlYm1haWwuYmRzaW5zdGl0dXRl
+b2ZlbmdsaXNoLmNvbYIdd3d3LmJkc2luc3RpdHV0ZW9mZW5nbGlzaC5jb20wDQYJ
+KoZIhvcNAQELBQADggEBAArufmWNwjEW8OuD327p1JHmyBrJ7/IwUdBCtGrVoSkk
+vFnVYfuOJ2lXYPUU4+5+3rmGgTVRitbHNGQos8xZDEB7yDqVwmgRCPAtQCgpOFwk
+itLG7hw9vMA21wFbCp8eF6ze6I0GGYXKJnyDS7F5BAvq/+IXNBdxGJJhGZYu5/BL
+4+caB+nWL0kVaTMb7smQvC0JJqPQHMIKH8sJB2CjRo1cWKBg9Gua2qfPK2kVTq8X
+idQHOsZHmTwrgO/AOy+5Vl5criPkVdhv8asectlZFCvdCGaqoNZglFaaK4euGDGZ
+n5uw5y+H1H2a8+wxvhniUdJRPVOKwl7QQ2wKUmwSC3A=
+-----END CERTIFICATE-----
+subject=CN = bdsinstituteofenglish.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5243 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

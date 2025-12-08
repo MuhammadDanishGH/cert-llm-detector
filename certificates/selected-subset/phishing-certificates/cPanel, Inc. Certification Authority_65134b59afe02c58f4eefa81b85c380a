@@ -1,0 +1,69 @@
+http://artemmaykovshiola.com/onedrive-office-fileshare/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = artemmaykovshiola.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF4DCCBMigAwIBAgIQZRNLWa/gLFj07vqBuFw4CjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIyMDIwOTAwMDAwMFoXDTIyMDUxMDIzNTk1
+OVowIDEeMBwGA1UEAxMVYXJ0ZW1tYXlrb3ZzaGlvbGEuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtztM2+tw0NqunY3fgqMryLikXbi3ts1vFvBr
+ZIpYf1ofQWrgYlLFCykBeBa4PWUrwxGfKjN2nDP5A9l9pca8AO7sUNxAZcdFU82+
+eFMUeif4baglRc4s3ii6KeRmUHxAQTkti3fqT3qsl/n6kEFZ6DeAxI1tfqI+kn3b
+TEdqqTL3Vt3M0oRmU8Ppeg91G65gcDFL4rFM41vKuwUQzjewd0vmMzQdgf/f45pn
++mJKBcik7AVhVLQtogtWsun0xCmoTfWrBKdBx+KdV0wqLGUpJe5d7Ut400ZZf4Kk
+8WA4OBkFwMbSMgAkqJ6aKKTkwqBh+rlLYMVoNM95TmggFY1qXwIDAQABo4ICwjCC
+Ar4wHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFGZG
+H0xHlLSPQu5q4gsJjrDt8fVgMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAA
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysG
+AQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BT
+MAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2Nh
+LmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEF
+BQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQ
+YW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhho
+dHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8A
+dgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX7cWwCbAAAEAwBH
+MEUCIQC+jeJLR9/m1aQy64vUcXQK4m8i34L2RKpKbwqUeX4EHQIgIQaRLAkV/Oag
+3iMDanVQs7wsF28RFarXsY/JT/V+gekAdQBByMqx3yJGShDGoToJQodeTjGLGwPr
+60vHaPCQYpYG9gAAAX7cWwBtAAAEAwBGMEQCIC+zup+2TPNNRPTt1rN1JiV7VPvE
+n6q8wiGK6USJLWYXAiBMVyOwqjimfThylckC07qKEJ1Axnl//zNKX1MLYbYIHTAg
+BgNVHREEGTAXghVhcnRlbW1heWtvdnNoaW9sYS5jb20wDQYJKoZIhvcNAQELBQAD
+ggEBABINDqNOgbWTpDkzMh1la3fEGW8y5x6TGQZ7sVnqSLJJt9a08eAOHdR2IanX
+pPu+vIydlBpaYGRbBBpTnhRM17EPoqzhE0RmXx27XbaSPijX352IhmhqT53TWSMl
+y+51ywYLSDYbuQlGVrg1K0simyZych8FJleWEOoXyIeG05wMSeoKKh40rWpqP91D
+PwENXrZWFJZZd+mlZ/mjEkWAFL66t+tMQYcB9AvPWnOe+DaHCkqgdabQil8NyWPW
+GphGR39APBrW2YzCXlzvPCGbUejY0yG8Bpg7v//SbCLXQK5Fbt2jpl7NyMikNDoE
+2jCivMTEGWjCso4KeYs8Ideok90=
+-----END CERTIFICATE-----
+subject=CN = artemmaykovshiola.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5013 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

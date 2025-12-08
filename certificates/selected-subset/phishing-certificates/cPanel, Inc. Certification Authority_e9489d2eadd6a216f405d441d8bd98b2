@@ -1,0 +1,70 @@
+https://www.facebook.feriadelsabor.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = facebook.feriadelsabor.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGCzCCBPOgAwIBAgIRAOlInS6t1qIW9AXUQdi9mLIwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTEwMzAwMDAwMDBaFw0yMjAxMjgyMzU5
+NTlaMCUxIzAhBgNVBAMTGmZhY2Vib29rLmZlcmlhZGVsc2Fib3IuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtDdX1/kqXCrxsZk47+HkHB98o7TY
+Z7bDwzlcnXhrK/d2yw98MTd7EdDX67naSotyDZf5UXtN3HeQkXXzJACd6p0SpN8Q
+bRSijMZBCLHEy1kVJW8L41H7BfK3TUYWJUaTRLp1Y0yva1y5XjAZh04vaiCqHhLw
+chMqYfzDSrlhjxjPUgjWK3l8UKGtaVxPbgL+lxS71/MTefL+ZvXDK6gn9s0Jy3hZ
+rbK22hfyah9IMNwci0kPLkx6UZiFsl72ikzG5+P7VWfdIheRV52YBHQVa5eETSeI
+7gAnynCNIJRpPFGuc1Kaee6qLSfnkeRmXnHE8BKxuC5kHcX88rtkNwsDXQIDAQAB
+o4IC5zCCAuMwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0O
+BBYEFPDMcbSxsF4aWB7xBhqEYId5bdmOMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMB
+Af8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBA
+MDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5j
+b20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNv
+bW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9
+BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUF
+BzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0
+BIHxAO8AdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXzPyTEL
+AAAEAwBHMEUCIDWDs/vJrcGy85CvFC2aEhV7U3zaf8o8WMwb7aXNtWiBAiEA688s
+IfOCzvYJzSpWh/NDCnxl2KACeTYfsYM3jhpiQTMAdQBByMqx3yJGShDGoToJQode
+TjGLGwPr60vHaPCQYpYG9gAAAXzPyTDMAAAEAwBGMEQCIHWp5BFRhuzdGVBET+7Q
+hF2CKS9VDXn9vSYRy7gPp0pGAiBL55FyrZsFSPjO2UPbgdYmbVFjr9yutJgH2UAV
+GRFluDBFBgNVHREEPjA8ghpmYWNlYm9vay5mZXJpYWRlbHNhYm9yLmNvbYIed3d3
+LmZhY2Vib29rLmZlcmlhZGVsc2Fib3IuY29tMA0GCSqGSIb3DQEBCwUAA4IBAQB2
+1VbWBBmQfURpyZYC3JAq4mxavrCYUwoq2G0ayxtx6dy2vhuk6wUuMbdF53G3y3kD
+MOhynARvSKY00Sep+mLrmAxeJ8JG+nOHxYXW6DZ46MJlWUngUYloy52Lpw3I+o0P
+OyyIOd1g6WQv6KFJUNkmwsbIBk5vYaKGh4fHsCdhjkrTxH5n4EXzPU3+Q9MIYRqg
+JFpJ/GeLhUHXHSldgeMCdh3BJQtukcQ4pjvEoPmxd1sD5e2zW2BluDT0YUQgJ9l3
+GHmdHk9ZEMXIJ7IMG/muAo7vjWcJ/35HzUUus2x+4czNBr3TcxHHlT9r4Sq8otkg
+PWhrzqRD84EMuqG3/M2g
+-----END CERTIFICATE-----
+subject=CN = facebook.feriadelsabor.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5056 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

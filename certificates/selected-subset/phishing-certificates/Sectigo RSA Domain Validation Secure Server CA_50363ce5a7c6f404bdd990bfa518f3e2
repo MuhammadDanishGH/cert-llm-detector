@@ -1,0 +1,81 @@
+http://technopowerbd.com/NEDBRANCH/NedMoney~PROFILE~PIN~PASSWORD.htm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:OU = Domain Control Validated, OU = PositiveSSL, CN = technopowerbd.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGATCCBOmgAwIBAgIQUDY85afG9AS92ZC/pRjz4jANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTE5MTAwNjAwMDAwMFoXDTIwMTAwNTIzNTk1OVowVTEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMRQwEgYDVQQLEwtQb3NpdGl2ZVNTTDEaMBgG
+A1UEAxMRdGVjaG5vcG93ZXJiZC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQCYOEjyZ0QYXjUqVAxoL8Z0gL6MlR62lLaH45s+xa2Xqua2aU+oOCAP
+jANBufjZIIMpgN02qa8/9TWuHAzbZitBUx/fM3myxjd72tN9oUarYgJpeRUqug/f
+MohOSDdnZAfMEhpw2HRWtpzLl8A8i4ORn8qpr8q/ciBqNSQGsYROZHocvjdDC34a
+RNGtU/6Mryv+PrY7KBiumHop/Kv2s5r5evYKuxlJiV3DGhHlhdA0ePjvUeHIhmiL
+wryQHa4asnDsCBLYSZQxHXoWmhHEmp81lsFAHVpwwJsK2oCTINbUW4yzwQph7LEz
+hYZpQq0rfh/yFKKv0+nusouErtnhdYr1AgMBAAGjggKQMIICjDAfBgNVHSMEGDAW
+gBSNjF7EVK2K4Xfpm/mbBeG4AY1h4TAdBgNVHQ4EFgQUCVTDjZitdMQ9qnQtoXq+
+UAhBxREwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAj
+BggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGE
+BggrBgEFBQcBAQR4MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5j
+b20vU2VjdGlnb1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQw
+IwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMDMGA1UdEQQsMCqC
+EXRlY2hub3Bvd2VyYmQuY29tghV3d3cudGVjaG5vcG93ZXJiZC5jb20wggEEBgor
+BgEEAdZ5AgQCBIH1BIHyAPAAdgAHt1wb5X1o//Gwxh0jFce65ld8V5S3au68YToa
+adOiHAAAAW2hzFa+AAAEAwBHMEUCIQDwpJQBlh/mwnCMPFoUmSAWMz/+T8ZsQf7f
+7/0pCKtbZQIgZTLf8YJIOwSbnOieuoLZ3DvdbgtC0WzJSHFzQEshObAAdgBep3P5
+31bA57U2SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAW2hzFahAAAEAwBHMEUCIQCQ
+DojTTroC/wKYLdzXkYI5mjtxZRgZ8IfJYytrvUilmgIgIHLkajF1kDs4xm+H5lLF
+KAapItMXVkJtp8vKemxe3gkwDQYJKoZIhvcNAQELBQADggEBAGuT7xApzC3szxxy
+u9FQ9YsQNLxU9mfjNNMkZ9nnm/AMOvB9ojAEMK5IdXfpF7Pf1VptLscEXzOxHCeU
+p0nj0bB8WZE5Gyy4ubiUp/EUg4mszrXiKeJPi6fBz1FahqZ4NApjRUGYjrV744Zz
+oU0R3KQnMWFZB4UVPsiQ76T30VmLC/JLy18kXeESmKTa4o8l/mn3ozqCBtY6/H95
+giiBQtBsTCZ4/EztSNLsbcVegFLjgIYGY4v6m5pArQG8Me7d+sCCeM+tGlkCSwEE
+2J+LkYocbyaNwLB5gfEN8bl/0sA7pcKR97391aXGuIp5iFPbg6qxivcrM8/86LDd
+0R1tGpM=
+-----END CERTIFICATE-----
+subject=OU = Domain Control Validated, OU = PositiveSSL, CN = technopowerbd.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5020 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: D9621D08C93E2882A774437609F1C965B270081DCDA0AB980FE77474C3E352C2
+    Session-ID-ctx: 
+    Master-Key: 6736C32A938C4550EFF8EEB0540DDBD2A972F3475C5F20238228E385A8A550829099C910871C13B202ED8252E6D17050
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1574344833
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

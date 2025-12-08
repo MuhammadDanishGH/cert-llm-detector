@@ -1,0 +1,92 @@
+https://forum.oldurchin.cn/plugins/a01a0380ca3c61428c26a231f0e49a09
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = forum.oldurchin.cn
+   i:C = CN, O = "TrustAsia Technologies, Inc.", OU = Domain Validated SSL, CN = TrustAsia TLS RSA CA
+ 1 s:C = CN, O = "TrustAsia Technologies, Inc.", OU = Domain Validated SSL, CN = TrustAsia TLS RSA CA
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFljCCBH6gAwIBAgIQCsX0n/3VgqGVW+MIZ5kGtDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJDTjElMCMGA1UEChMcVHJ1c3RBc2lhIFRlY2hub2xvZ2llcywg
+SW5jLjEdMBsGA1UECxMURG9tYWluIFZhbGlkYXRlZCBTU0wxHTAbBgNVBAMTFFRy
+dXN0QXNpYSBUTFMgUlNBIENBMB4XDTIxMDIxMDAwMDAwMFoXDTIyMDIwOTIzNTk1
+OVowHTEbMBkGA1UEAxMSZm9ydW0ub2xkdXJjaGluLmNuMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAw3k6Ov5IfmSnRlZY8/v1bS8oI/u8BHbJ5LOrGofE
+JIePXBqlxFX7Cb4SYZ6YfWUS5FcCbkr2R4Sc5RySki+ZFb3abyjoMBQRyItM672N
+EYypvqqK9BRSmfqzumDcpUiSH9BClPH/G9b9JA/51G1JJTkVck+6X9MWL83nToRc
+3tt8T8rSjl39eSb7/TIJghqAvR65WkqMJwvPrcryxa8E20PtMmFVpyPmYm8za07D
+mt5mx2CapD5uL6JmOg3SrtSDbauJMmz7Vu/W6XS09JzNzDi8s8qTBOiex8GHSXdY
+ZPjA3Yh59S3J6A9FRMg8yXoGkqTp6t+W5CaTj8/k9EcePQIDAQABo4ICezCCAncw
+HwYDVR0jBBgwFoAUf9OZ86BHDjEAVlYijrfMnt3KAYowHQYDVR0OBBYEFBiNt8OU
+p4EFGtD/Ki4n7y/PJBeYMB0GA1UdEQQWMBSCEmZvcnVtLm9sZHVyY2hpbi5jbjAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMD4G
+A1UdIAQ3MDUwMwYGZ4EMAQIBMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGln
+aWNlcnQuY29tL0NQUzCBkgYIKwYBBQUHAQEEgYUwgYIwNAYIKwYBBQUHMAGGKGh0
+dHA6Ly9zdGF0dXNlLmRpZ2l0YWxjZXJ0dmFsaWRhdGlvbi5jb20wSgYIKwYBBQUH
+MAKGPmh0dHA6Ly9jYWNlcnRzLmRpZ2l0YWxjZXJ0dmFsaWRhdGlvbi5jb20vVHJ1
+c3RBc2lhVExTUlNBQ0EuY3J0MAkGA1UdEwQCMAAwggEFBgorBgEEAdZ5AgQCBIH2
+BIHzAPEAdwApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAXeMR9Ni
+AAAEAwBIMEYCIQDIIKo5VBIpVUOLleix6ExFAPHRrulXs+ldRTGExoSoLgIhAOyB
+BZRR/5k31MleEa/doueqfA7wPGwF6T4TOvIq2m/5AHYAIkVFB1lVJFaWP6Ev8fdt
+huAjJmOtwEt/XcaDXG7iDwIAAAF3jEfTsgAABAMARzBFAiEAw58KNmGPCl1q8YMh
+dnD6ha1uwfV25IC9ZA8fmsBUORECIHtAx+4L19Ts1e1+PN+TXKexKV3JuQgDJfOD
+4UT4NOuDMA0GCSqGSIb3DQEBCwUAA4IBAQCPAl6jITKwGOwXeD6M6QFoa02hqemi
+T8YmLpe9MB2M6cInsJsjvl9lz+Zm2/Qvf9OYpFOdEXNdzveFbI4naG8oNl6TeZlc
+tc2oMn1zt1D6w7EPnoj2ewciwWG5HyEp57vqop7udz4+zJjwYdhvTcFlU+TMv1aT
+kh8hb4JE5Bd/b12InOS6De5K79TTr8lMS/Xwax8FvaYU4CM18XpVrpe5FauMZnwL
+ExCQDT+2FiS2EcrolA8HSNU/VzmvdD28nJ1U9laYoiG3qsiVO5ivqI3xPVT+i6FT
+yPxqX57J58DopfcZ3NRgUBNPZsOT6QPlvFM10stYRP9CEtwON7FulvtW
+-----END CERTIFICATE-----
+subject=CN = forum.oldurchin.cn
+
+issuer=C = CN, O = "TrustAsia Technologies, Inc.", OU = Domain Validated SSL, CN = TrustAsia TLS RSA CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3316 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 81A70F65388E2F0E8623240360C1971BF55968C971607D9910834EACFBD085D4
+    Session-ID-ctx: 
+    Master-Key: 7D40F88963C91872463B4C18D30F79F6C4E99ADBEF269662E16880679108ACCE4CBAF10F4EB364CA4CD71C9249DBDE43
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f1 29 e1 2f ee 54 81 9c-f7 b5 50 f4 68 3e ec f6   .)./.T....P.h>..
+    0010 - 67 5a 74 29 82 ba 66 6b-71 6f 40 b1 97 40 51 4c   gZt)..fkqo@..@QL
+    0020 - db 98 73 f8 e9 27 95 c5-2c d7 9a e0 e8 fc 76 73   ..s..'..,.....vs
+    0030 - 10 6e 5d 0d 70 23 57 a3-da 2f b8 e2 67 41 41 c3   .n].p#W../..gAA.
+    0040 - 0f 84 b3 32 0f fc dd 98-d2 0a b7 18 04 16 60 db   ...2..........`.
+    0050 - 4f 4f 70 e8 ba 8c bf 31-1a fd b2 b7 fd ef a5 9f   OOp....1........
+    0060 - b8 f8 17 e3 44 4f 3e 91-7f b8 b1 b0 90 2f c2 5c   ....DO>....../.\
+    0070 - d0 18 8b f5 c0 5c a4 1d-ac b5 44 c3 42 0e 7b 6b   .....\....D.B.{k
+    0080 - 0a 39 14 fc e5 b9 da bf-71 b5 d0 3a ca 49 e0 60   .9......q..:.I.`
+    0090 - 6b bc e5 34 a4 70 98 24-46 1c bf ab 75 11 03 5f   k..4.p.$F...u.._
+    00a0 - 00 5f 41 a3 bf 99 67 7d-71 4d 79 d4 68 9c 39 ba   ._A...g}qMy.h.9.
+    00b0 - 5a 89 f8 44 b4 8f c7 0a-e5 9e d1 16 5e 7e 2c a6   Z..D........^~,.
+    00c0 - 49 42 c1 c6 62 e6 d7 06-c4 27 82 7d d5 3c 00 01   IB..b....'.}.<..
+
+    Start Time: 1640739526
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

@@ -1,0 +1,97 @@
+https://www.reklama-hk.cz/images/vysivani/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = reklama-hk.cz
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+Jc/VIPuFVGk7
+-----END CERTIFICATE-----
+subject=CN = reklama-hk.cz
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3780 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DA16E8080A61683BB7DF0092459A30FCCE94BEA3112A025567754C865773C559
+    Session-ID-ctx: 
+    Master-Key: 2A616C0A49708A4DC5698A0AD94CBF14D039F11021E9072049730BDD6E86A28F345DFADC8266EB82894581F5C6283CD6
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 4f bb c0 a2 d6 6f 29 17-96 83 03 ad 22 c7 f7 f3   O....o)....."...
+    0010 - b6 0d 0e 6a d8 63 ae 5b-d9 a3 3c f6 b7 db c5 f8   ...j.c.[..<.....
+    0020 - 8e 1a de 07 6f d7 93 58-ba 6d 5a 80 06 75 b2 cd   ....o..X.mZ..u..
+    0030 - 9d 50 af 45 e7 2e 68 17-78 ea 74 c0 c4 48 76 31   .P.E..h.x.t..Hv1
+    0040 - ee 00 1b 64 f8 49 a9 a8-97 e9 e5 a3 2d b7 e2 7d   ...d.I......-..}
+    0050 - a4 c9 60 08 2e 55 44 07-22 40 0f c5 3d 66 e7 3a   ..`..UD."@..=f.:
+    0060 - 5a e4 b4 3e cf 4c df 09-30 54 bd 53 d3 2c a3 a9   Z..>.L..0T.S.,..
+    0070 - aa c8 7a 5f 16 e9 cf dd-88 d2 d3 3e 77 91 3c 04   ..z_.......>w.<.
+    0080 - a5 01 a1 f0 02 4f c0 49-cf 50 b9 16 cb 33 41 96   .....O.I.P...3A.
+    0090 - 90 be a5 81 ae 90 09 df-52 eb 24 df 0e a5 97 1f   ........R.$.....
+    00a0 - c8 2c d3 4a 04 5a 1c 45-bf ad 12 be 11 c4 3c 38   .,.J.Z.E......<8
+    00b0 - f5 2d cf 9a bc df 6b 05-bb 97 32 ba d0 79 a1 50   .-....k...2..y.P
+    00c0 - 1d ee 44 b9 0e 69 89 0b-8a 96 ab a1 7c da 50 f1   ..D..i......|.P.
+
+    Start Time: 1564578028
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

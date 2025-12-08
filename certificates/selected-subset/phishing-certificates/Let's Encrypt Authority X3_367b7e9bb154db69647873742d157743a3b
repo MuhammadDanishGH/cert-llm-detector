@@ -1,0 +1,98 @@
+https://rosetta-calcareous-midspan.com/posse/lifeblood/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = petrifygymnosperm.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGZzCCBU+gAwIBAgISA2e36bsVTbaWR4c3QtFXdDo7MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MTYxNzM4NDBaFw0x
+OTEwMTQxNzM4NDBaMCAxHjAcBgNVBAMTFXBldHJpZnlneW1ub3NwZXJtLmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKWQZycRzPs1eBRo4559VXzF
+qObjA4Qq4EJnZTbDg5tBsu8jWec0+y1s9zg+dbXujd6JR6vpTrMwPAo/Cg8I2reo
+sp0XB/p5TvH93YytqSa++ZPCJGg1iGxIXGaKKVBq0eMlUdZ6bleRvM9HFo31gLdX
+VUBsAtqBsxyNpC2hHoGL+Jz4SBm6fXhZk3w/4n1HEnFt7wwWLCytoavE48SADj3w
+CARbSTl+MOV4lgFIvb1ZpphmaDsE9dN7XoTR52HPhaCdTHNf/u6igBTwdm0iR/Gq
+QdhpPwDS2EL2QaknX59yImBkKjALwbxLuuQqhWaYydMtu9TM+u91WKmZ+H/nXM0C
+AwEAAaOCA28wggNrMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU2yBTMUflYJYe8MgN
+19hL8B+JhhcwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYB
+BQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnLzCCASEGA1UdEQSCARgwggEUghtmZWxpY2lhLXNtaXRoLWxhbXBi
+bGFjay5jb22CFXBldHJpZnlneW1ub3NwZXJtLmNvbYIOcmlwcGxlLXRhdC5jb22C
+HnJvc2V0dGEtY2FsY2FyZW91cy1taWRzcGFuLmNvbYIRdWJpcXVpdG91czUwMS5j
+b22CD3d3dy5hZGVuYm95LmNvbYIXd3d3Lm5lYXJieS1wbGFudGFpbi5jb22CH3d3
+dy5zcGVybWF0b3BoeXRlY2lyY3VtY2lzZS5jb22CGHd3dy5zdHlsaS03MzAtcmVt
+b3RlLmNvbYIbd3d3LnRlZWluZ2FzeW1wdG90aWN5ZXcuY29tghl3d3cudmVyaWRp
+Y2lkZW1wb3RlbnQuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+BgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcAdH7agzGtMxCRIZzOJU9CcMK//V5CIAjG
+NzV55hB7zFYAAAFr/BRZ/wAABAMASDBGAiEA4TdTirXWx/uGtaojbig43T3eRYhz
+f++1tx3UaYaprAwCIQCvrGkf9tshv9tX+qSPVXkvASLBy9epS6FLDzL4o8eGHgB3
+ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABa/wUW+IAAAQDAEgw
+RgIhAMbe/U4PnfBvjKd1CIKRhL9/ftZ+KLEg6fSBZTqmehT8AiEAv9smVByFAqR1
+5auvy9izgoHxERSEzzikfkUH6HWlQQUwDQYJKoZIhvcNAQELBQADggEBAEudTDnS
+eg0fb4gGLrBrFar5/sfo0h/n2SVpc0t9HY8ylWvziYpgbHlbUcZwvPxlu6lsKxHU
+WKgH5VSysXXxT/GJfrMsjzADmFBNxB4PgrlOQ4Db+Oy+Qtykvfv5FWTpoDMeBI7T
+0z2xmaPKVk5EH3Zc+XYCHGqq+4N7o62LR5kZR9ySIo8E33gw3fYkAyZoutcqN50H
+ZJ9QkKRwA2H+VVFpcNrcMDQvdIzEDwun1FDiCygHeQpbYSQwm5qILa3A9FOmmFuv
+BPM8QLDTbuMWzRdFA71M12DG5yK07pb7kJgYIY+Rj7Q18o53c9GIV5Fh8MypNkt3
+va1a4yIrrPjO+Dw=
+-----END CERTIFICATE-----
+subject=CN = petrifygymnosperm.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3505 bytes and written 427 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 593535FB670786319B78C68EDAA195999228D4F0BD7AA37E464EEECFF14F254C
+    Session-ID-ctx: 
+    Master-Key: 14905B81B1E2049E32254F931338F1BC4D7397F74BD403794D3F76800962AD8EEA7BAF7B4430651EED3547015F2E50C1
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 93 4f 58 bd eb 88 ea ea-ba b6 e3 41 ff 25 ad 56   .OX........A.%.V
+    0010 - 77 c5 6d 9f ac de 07 ec-c7 e2 49 5e 32 74 49 f6   w.m.......I^2tI.
+    0020 - 1d 2b aa 95 99 99 db 7d-40 ec 48 81 01 b2 43 5b   .+.....}@.H...C[
+    0030 - 1f 26 e6 4f 15 87 81 7f-fa 95 fb 26 0f e1 ab d0   .&.O.......&....
+    0040 - 17 27 eb db 55 db 04 8c-05 16 6e c1 2c 95 47 4e   .'..U.....n.,.GN
+    0050 - 74 09 99 ea d0 f2 a9 7f-f2 74 ca 8d 9b 7d e3 f8   t........t...}..
+    0060 - 44 76 55 31 48 7b 34 26-49 ab d2 c4 cc 58 63 cb   DvU1H{4&I....Xc.
+    0070 - 90 b8 0d 98 bd 48 2c d0-5b 98 a4 ec 4f c9 a8 7d   .....H,.[...O..}
+    0080 - a0 ce 6d 53 7f 65 30 93-79 5e da be f7 c4 de b1   ..mS.e0.y^......
+    0090 - 26 7c b5 d5 89 ba fe 45-4a 15 5c e2 16 48 20 48   &|.....EJ.\..H H
+    00a0 - 88 61 2e 03 d2 56 55 87-1b 2c c7 65 e3 44 64 93   .a...VU..,.e.Dd.
+    00b0 - bf 45 aa 74 3f 78 e4 30-af 72 82 5b ba cb ee d6   .E.t?x.0.r.[....
+    00c0 - 4c eb 39 27 1c 01 c4 42-08 66 fb 5e ae eb 52 08   L.9'...B.f.^..R.
+    00d0 - f8 ea e6 42 01 10 79 e2-dc c6 28 5a bd e6 ff 7e   ...B..y...(Z...~
+
+    Start Time: 1563800426
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

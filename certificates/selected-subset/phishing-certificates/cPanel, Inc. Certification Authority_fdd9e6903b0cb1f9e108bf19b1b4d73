@@ -1,0 +1,76 @@
+http://event-claim-old-2022.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = event-claim-old-2022.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHIzCCBgugAwIBAgIQD92eaQOwyx+eEIvxmxtNczANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIyMDIyNzAwMDAwMFoXDTIyMDUyODIzNTk1
+OVowKzEpMCcGA1UEAxMgZXZlbnQtY2xhaW0tb2xkLTIwMjIuZHVja2Rucy5vcmcw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCtWy4Gt+IJBOW3ajGAUj47
+TJLZ/PUFYei0LOer3tjdcaHoE1n8LLRbcestxYGbvOqtClWDoGeI3NrDVSQcpOf1
+MPnT+Xi2LR4Gw7wgoXCSkEAsXVm/viy/703gnvYwSzMOq0Y4BclGseSVvzTFSq7/
+iTsr4rh8caijbSMx9zFDS7sSlD8nPWtADL1XbhjIqnNcS2W3rPWEPTCm9ftuOIYS
++xledbt/eEIbMjJldEWb4iaHOH01Wr0MPKblCqzbrg52y1L2JVXXfaCYJExvM6Tu
+EkqiM3WPCbNQSOEzGzu+cZw8nQSsYoaljMi4s6QKcp0L9SRrLHKrHEUR7KV5xGZt
+AgMBAAGjggP6MIID9jAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAd
+BgNVHQ4EFgQUhbdOr+4bV6pLXhZOTgitSHTsrYIwDgYDVR0PAQH/BAQDAgWgMAwG
+A1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1Ud
+IARCMEAwNAYLKwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0
+aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9j
+cmwuY29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHku
+Y3JsMH0GCCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21v
+ZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYI
+KwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQUGCisGAQQB1nkC
+BAIEgfYEgfMA8QB2AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAAB
+fzpXPp0AAAQDAEcwRQIhANr6A5CtW8iiw1M9qpMKK3LjZokykXkVIoIrv1LaAXOD
+AiBpv5W/vXQiE6OXkK8Nc2YAwPYvaUDV25eQy9G37MdgZQB3AEHIyrHfIkZKEMah
+OglCh15OMYsbA+vrS8do8JBilgb2AAABfzpXPqEAAAQDAEgwRgIhAPpfGiZDRJNQ
+55aUC+3ZFbR895/iujKuHRWVYXCmZuBQAiEAjKSxVu2EU8mTgyh8asGoWaeE0v/t
+AHsl25UguAYnKCswggFUBgNVHREEggFLMIIBR4IgZXZlbnQtY2xhaW0tb2xkLTIw
+MjIuZHVja2Rucy5vcmeCJ2NwYW5lbC5ldmVudC1jbGFpbS1vbGQtMjAyMi5kdWNr
+ZG5zLm9yZ4IsY3BjYWxlbmRhcnMuZXZlbnQtY2xhaW0tb2xkLTIwMjIuZHVja2Ru
+cy5vcmeCK2NwY29udGFjdHMuZXZlbnQtY2xhaW0tb2xkLTIwMjIuZHVja2Rucy5v
+cmeCJW1haWwuZXZlbnQtY2xhaW0tb2xkLTIwMjIuZHVja2Rucy5vcmeCKHdlYmRp
+c2suZXZlbnQtY2xhaW0tb2xkLTIwMjIuZHVja2Rucy5vcmeCKHdlYm1haWwuZXZl
+bnQtY2xhaW0tb2xkLTIwMjIuZHVja2Rucy5vcmeCJHd3dy5ldmVudC1jbGFpbS1v
+bGQtMjAyMi5kdWNrZG5zLm9yZzANBgkqhkiG9w0BAQsFAAOCAQEARM2GHmGV2JUJ
+R8zvxVEmfpYV4NP7l5niaocWT6ngHuo7vkHxgSujiwGgBOYwqSjJFESIeY4J1pcw
+AreAf9QhuXfAE1BUZHkXWcmoE0LEPfPFCN4qdk3cgI4qohzcwLYWl0EZCzy1+8bH
+EpBlxtC26swYz+a4NhOXHc6heOAsS3uc9Y2WtUGQ39DIKIjW2PCJvG40+9DAT72g
+eq1/xTehSKnGOKepcTN/2eBHROHAJbH+H8icxRO0V8iWqOkBlR1V//IkRTPxIZuL
+wVQmBiQyDkLSWMYUtr3UKzaIJO3QYpM+316IqaZI7/XimL4WyFY59Hir40tFBSF3
+YLzdyhjZHg==
+-----END CERTIFICATE-----
+subject=CN = event-claim-old-2022.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5266 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

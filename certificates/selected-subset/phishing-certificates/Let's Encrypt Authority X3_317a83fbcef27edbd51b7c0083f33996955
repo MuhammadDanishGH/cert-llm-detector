@@ -1,0 +1,91 @@
+http://traffic2result.nl/img/ap/Login-account/991c51d24b5534bfdf2ff80834280344/Up-dating.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = traffic2result.nl
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFcTCCBFmgAwIBAgISAxeoP7zvJ+29UbfACD8zmWlVMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MjEwODU0MTJaFw0x
+OTA4MTkwODU0MTJaMBwxGjAYBgNVBAMTEXRyYWZmaWMycmVzdWx0Lm5sMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4C5ZqDiW5cRG0xWhaPki5WHPkE59
+Oc56XyZcRLCMBzNXKKYzBhbZzGwZ5qD9tQvGZdUGX/dVJyz4K5dUi9jI7caV8f1Y
+XUTeCgU7QO4AxtvHE/kDSddxDBtEQUXCyKymMvAMwPat2HQhnBZKGGLIyHJhJpsu
+sHRC9fNOp9lwoIuMxM3MhWklMvwRs+BIMHKobx2bQpyf0UWQKypsEbRizuG6rNlP
+YVC9/ZupfzEEzwPLuyoQ/LG0v4af+sqOnWxUN1s+B3HmWQzF6krpxUYnqtP4+GLi
+EWto0tgE5McURJrtjZEqt5BqQ4Svd6bcibIGz6vUL+LthEI7CQPQlL/m4QIDAQAB
+o4ICfTCCAnkwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTzTvZ8VPsfoUeiORhtPfs8
+Wpd1uzAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMDMGA1UdEQQsMCqCEXRyYWZmaWMycmVzdWx0Lm5sghV3d3cudHJhZmZp
+YzJyZXN1bHQubmwwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEw
+KDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgor
+BgEEAdZ5AgQCBIH1BIHyAPAAdgDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd
+3fHb/gAAAWrZ0A6ZAAAEAwBHMEUCIG6QONf7n1xJK6Gr5MD7ni6nJOq/76nmE35r
+CkjdKdf/AiEAoD+5e31gnRuy2N5Gd2X39BHNIxdRhSPqwHXNt0fbJEYAdgApPFGW
+VMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAWrZ0A6QAAAEAwBHMEUCIQCg
+EHgLckyyfFOE5WQLVg2Hkvit7w7GrE4L7b34SsuleAIgH/02MkZQBmHCk2A79SIZ
+lds48lr/Kjm1+pO00Xg6008wDQYJKoZIhvcNAQELBQADggEBAAMwvVNhBkY4XxW9
+js6Tf1A/lBduu1m4VNyU/jHRx6WYqLJZP6WchPEMTjlwXXpdBS/qnjSxRquA0ZI8
+heLKXwrjdwFKD+JUrEH9uN8ACEOVoJSEzb74SkwKrpMMzZbkjAjJtVIatj3HLKpa
+2AX+lWf3nzeoDkt3qEu0eeH3e4hDT9OniIzv293n5JyHBQEZouYb1Xtl8ao8w5wM
+eIczreeh/etSxXzNtLsQ+IwIpIs6cbnJZaHYMiOg+30tQZ0lC9VG4rvylZuf8Apz
+s4H853JsFGPq55BPkmvqkjvmS/3f/QneOCbDiHP5nYkzTaVCIMW/mVApm8XoSEjR
+iKg4bOA=
+-----END CERTIFICATE-----
+subject=CN = traffic2result.nl
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3264 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 829136CBD2309470C7845D31C51B3EF6CF98AB3B908F70B5B1B915E37861077A
+    Session-ID-ctx: 
+    Master-Key: 2BE235A447DADD54F2142EDB3B94221E131566383E6BB421DB4EA9DB6F63BBC72D4EFFA977816E4842E42C96EA914EF6
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 39 51 19 0b 17 4b 1e 8a-ee 9f b7 50 d7 76 2f 97   9Q...K.....P.v/.
+    0010 - 92 bd 3d 08 0a 5d 6a 60-f4 14 2c 3d 5e fb a0 d5   ..=..]j`..,=^...
+    0020 - 2a ff 98 b1 2c 6e a5 11-5b 43 8d 90 29 f6 18 58   *...,n..[C..)..X
+    0030 - 7b 0a 85 70 00 f9 13 a0-a0 01 45 7a 6e af 91 3d   {..p......Ezn..=
+    0040 - c9 39 f0 a4 c0 eb f2 86-df 03 2c 8d 21 be 1f fe   .9........,.!...
+    0050 - d5 60 a2 65 05 1a 98 5b-97 75 9c 46 f4 b6 f7 fa   .`.e...[.u.F....
+    0060 - ee e2 31 19 98 b8 d5 fd-4e 8f 18 8d a6 57 b3 3d   ..1.....N....W.=
+    0070 - 71 84 cd ac c3 9f d9 7e-93 c4 31 f0 e9 6a 37 be   q......~..1..j7.
+    0080 - 72 ee c0 4e 41 b4 95 41-c4 0a 84 fe 8a 9c 6b 2b   r..NA..A......k+
+    0090 - 14 8f a8 cc 04 e4 f5 29-1f 93 78 e6 0e 8b d5 a5   .......)..x.....
+    00a0 - b1 93 67 f1 32 cc d8 7c-b7 91 18 d4 3f 3a 1b f5   ..g.2..|....?:..
+    00b0 - 61 0a 68 ee ca 46 50 ca-76 28 b1 33 e7 11 b0 4f   a.h..FP.v(.3...O
+
+    Start Time: 1560603625
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

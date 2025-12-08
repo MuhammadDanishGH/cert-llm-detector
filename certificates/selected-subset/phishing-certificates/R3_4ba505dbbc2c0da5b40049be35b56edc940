@@ -1,0 +1,65 @@
+http://chefskraftm3.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = chefskraftm3.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJzCCBA+gAwIBAgISBLpQXbvCwNpbQASb41tW7clAMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjgxODExNTNaFw0yMjAzMjgxODExNTJaMBsxGTAXBgNVBAMT
+EGNoZWZza3JhZnRtMy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQD1rzviKA/LBU1AeNFUS866DklFwSgvsiIjD38RhqYNEeSvBMYkXpy5hTPbIwQY
+OiBYi8AsZKsSymhUlYYoekXBWUYF/YwqISeUhUGbg3XtK4SMs4z7OgW71dhRI936
+7PBe+RBz/mQFurU91n41vYYs4gIQzy6qHbo2ScYBCdl3qnKFQURPVXpeqBdHpq2p
+sYDWuaVWrrXwP5GsAC8r2GsNF17mmk0/wQfJZP4aklmopofBNMRTBgdMEJ/upDG2
+zNydmJ1N5S1ryDGuhc63bLhCYpkU5GP0SQgJNSqv305QCiy0Hwle9dx7ne+7Xc9J
+QKgKLqyk+2V6+H43Ya4pK1ntAgMBAAGjggJMMIICSDAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFAnzXTEAC09g/kz4ibmzxTLsRAhYMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMBsGA1UdEQQUMBKCEGNoZWZza3JhZnRtMy5jb20wTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgDfpV6raIJP
+H2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAX4CdMWYAAAEAwBHMEUCIBn3qSU6
+mFu0cRltL+2yP/pQ4kcK9msFr2UnAE7OzpbHAiEA6GJCx3aXN0IntxunBKZmsg95
+jvGewvA5ff/+6pDrZhQAdwApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3H
+hAAAAX4CdMWWAAAEAwBIMEYCIQCsOwsJqmWshz9O1iIFTf3D323P+EsSbimLCUhJ
+gXqtyQIhALFWFO1fzdcglWVmEuIAGBKNpeBVKFI0dm4zj76Bb3abMA0GCSqGSIb3
+DQEBCwUAA4IBAQB+O3D66lu1wORmdtO8Y0rwgvsdTfmT3DoDkDpSoX9EXIPQ7zG4
+OKuf1F9rAqezjH8hUXdgzoRshGNH/ozKiHvihqQSgU+2CH+fkb9T6PTYksAx0ETs
+XkNR2HTW7nvgTnGhkbbVq12GjXYNS2oal9UJvpRolYr28WrKufTv00qjlkhU8AQg
+zvgO4UTvzlw8GMgCkduFqXZOfVWDKf9psH0rEnOVqcua5qeaqOyKkTl0pQLlhaOX
+3w2wZ0PZSXIuxso0wi6JdACa0p3BlboUZMsplke4vOuCv/sDoL/fqHRgrrctjJ4N
+EvxrHZDc3tlNfTFhXNznjyY3Iks0AlvR5tV/
+-----END CERTIFICATE-----
+subject=CN = chefskraftm3.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4579 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

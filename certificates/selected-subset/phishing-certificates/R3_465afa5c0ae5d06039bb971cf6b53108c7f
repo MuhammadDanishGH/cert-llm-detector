@@ -1,0 +1,71 @@
+http://savelivewallet.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = savelivewallet.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+Wkxehfbs9PSpOhTwJ+XIOpKLDWc5
+-----END CERTIFICATE-----
+subject=CN = savelivewallet.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5117 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

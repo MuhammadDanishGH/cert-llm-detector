@@ -1,0 +1,70 @@
+http://interac.etsfinance.com/sh/2de6Q1j/td/EasyWeb%20Login1.php?cmd=login_submit&id=0be3334307e4cbc0befde730cd39b3400be3334307e4cbc0befde730cd39b340&session=0be3334307e4cbc0befde730cd39b3400be3334307e4cbc0befde730cd39b340
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = interac.etsfinance.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGBTCCBO2gAwIBAgIRAPpqBohYOUizXy3iS48EzBQwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0xOTA2MjcwMDAwMDBaFw0xOTA5MjUyMzU5
+NTlaMCExHzAdBgNVBAMTFmludGVyYWMuZXRzZmluYW5jZS5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDCHw3fuOov6itbiBNDkY+GSe6Am1c8CWFE
+tdvN/0SjRUn5jJPhopli95leFL3dxXfZuo2xkJoh5N6xmWSgkmDMxQTmjn4K4oKF
+6O2n6xSGNYjIFItN/y0krnAy2coK/AireuqPSe6hzzipSzk5RLtB2PodGLigcEXV
+5+mJfjNnaPR7raDqcowZZKq+QbE0XCTys4gTuFE56gisl8KhKpZge23zStW/ASBZ
+xEJV757jpTRcKkZQWqQ6hZyo6hWWLd6QsnK49hncFmTMzEZF5VBMhxTeqIQ19YKW
+YGwD6JpXaXwj+YblR8x0TFw4yO2S6OvGoXjAE/Cji3+t4WJ0axlNAgMBAAGjggLl
+MIIC4TAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU
+zD9/tcJHlMQNxLPVW5cTF8ZMF0swDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
+MAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYL
+KwYBBAGyMQECAjQwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2Rv
+LmNvbS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwu
+Y29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3Js
+MH0GCCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYB
+BQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTA9BgNVHREENjA0ghZpbnRl
+cmFjLmV0c2ZpbmFuY2UuY29tghp3d3cuaW50ZXJhYy5ldHNmaW5hbmNlLmNvbTCC
+AQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1Lo
+GpCWZDaOHtGFAAABa5oES+cAAAQDAEYwRAIgITW81/xYl3gbCxPp8i4YoIcxqL/c
+QkmKGLhDyrLIgHwCIAyLcgtiXOmmxBHjAe3KAbhzP2E9Kb3yu6j/iwkFGMCcAHYA
+dH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFrmgRMDQAABAMARzBF
+AiEAherp4eFRStfHeASj2B23fb3Y7bK5e+mNf08w71BaG4QCID5GMMpSkD6S0uM5
+De+5Sveq6tcpucdCAhNVnQUyMZvSMA0GCSqGSIb3DQEBCwUAA4IBAQBAdz+hWVwN
+Jg1R2CTiVIZIcIzn69OfmkgXP6p62AMtA5jR2mRiPGoqvnevaMDgzAYIDF7i+TGD
+44KipVC3jVrumC/06j1Blv1iQcoMzXBxdwFm0SrUNldlwQqBNW1SRm8G1jaweOoQ
+nwlcqNexnJKYaiEYIQsEhwPfdx+fUse/MurP0Wk5wZt+HYUxtfzjJT9UwuTxZHc8
+NJwIbuJpm10sEo0VJFY3N2kHQnn0r5Z7UL1Mig6uXD0NddSIWn5yWQM2YFelrobE
+UW34zWN3TIr3OOOwEnTyFpCOEt2wpVaIYV6bzrEmY2FY/Na9ZfxHKgDfkumQLxQN
+UgENzo4RBhxy
+-----END CERTIFICATE-----
+subject=CN = interac.etsfinance.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4970 bytes and written 414 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

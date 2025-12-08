@@ -1,0 +1,66 @@
+http://www.gmaildesativado.com/wallet/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = gmaildesativado.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRjCCBC6gAwIBAgISBCyhJ1JF+ccU7Z3VLpNk1DAIMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDMyMTA1MThaFw0yMjAyMDEyMTA1MTdaMB4xHDAaBgNVBAMT
+E2dtYWlsZGVzYXRpdmFkby5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDZ/d0H2/6PdPMdpH5/sloCPuQl7KPjhgPAKzr2wqmfXCvf0LYI+LwoBD2n
+XHmGSYgg7GyqKvKBpqc/4c0857lycdGe5Lvu/lfi9c1FK49dsTxMMT7WTDaebVPy
+hRr7jGOd6H0xchb/iOXuyNFAOFfnCSMVralLCWwlmcR+bhU+KpuaeowTe69ezkeN
+B2fFGGmEOBOke3duQG5pe9xC6T3O7hOdOgP24arsNyHAk3fhfaoYdyyP5w2fI+WG
+cRr8f+gOVt52Iv+3c4HxFPPwV5N0EzJUCIzkAX+aKpxBrrPEA+sHg3ts3iDxDoG6
+B6IpQhIC78SZom6Ka/zDkPa3U2LlAgMBAAGjggJoMIICZDAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFDkNWSPOvj0ola+8aGeNIyHEvCjXMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMDcGA1UdEQQwMC6CE2dtYWlsZGVzYXRpdmFkby5jb22CF3d3dy5nbWFp
+bGRlc2F0aXZhZG8uY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+BQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5
+TV0mXCVdx4QAAAF859XD6gAABAMASDBGAiEA8vO+1QCgMVz8hF7+AmtBXk6qoyyM
+3QnndR9XFSnL8jACIQDxyjiNxKWFS2iBnKta/vTz1z8tEIRZL7sWDNeNUGWJKAB2
+AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfOfVxg4AAAQDAEcw
+RQIgMOF8g6yFlVQB8YeaTQRONyZfDsJkbtBWD55eag8V+IICIQDhHsrmth4BQgOc
+8on63ueCrYVS0Y0Jlt8avQ0XmKrvCzANBgkqhkiG9w0BAQsFAAOCAQEAfxQvPyRl
+hbjYop1zA0J+VvLxLSWAVmpNop9zqKLqHGdIMmrbcRWTk+G9c52oqVeOFMZRiqvB
+RAJcgqJuT8iGLFAyu6vKv19x2huTs4dR2G7yLy479Cmhe+J4+12Y813hpP5ksLGi
+fcyMMOxj8a1tDD8Di8h7+srjGYR4Zo85ZJR1//1iXOMwSAaJvCcp/T9Bc85uC4Tn
+vJDTHWHFCC8HbF+X/DCsCbcxV2QmpW032PdEt1OfX4ggv5V7c6emm3cuKYYH/pxu
+y8BO0mfGJuIwxcHiMcRWPzR7FDzi1P5plZsIh4xQSoYiGCqiJdD7OB73dL22gHrZ
+OlQUyt5PdEQ4sQ==
+-----END CERTIFICATE-----
+subject=CN = gmaildesativado.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4610 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,65 @@
+https://telecharger-attestationrecharge.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.telecharger-attestationrecharge.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdTCCBF2gAwIBAgISBC7NOqWklBKZxkAncTGKrupRMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTQxOTQ0MTJaFw0yMjAyMTIxOTQ0MTFaMDAxLjAsBgNVBAMM
+JSoudGVsZWNoYXJnZXItYXR0ZXN0YXRpb25yZWNoYXJnZS5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDUXuUn/Mrvgk7S4NxrmFsQ7/fIDTffBY44
+WRaQlLxorEeM16/xKmRywKD0hFAqZn6q8WaAOmIBfZWuC7lxBR9SN9trzCvUjfvF
+/wpVZr+uEq6Psv2mmRiQ56hFxMt05GEHSlmoJmxLgJMIasdXeZGvslryjYI7IODy
+n+fkkjgcTGoSXDifR7qxycxBNjTbdBNNsqmsRWjGD/Ej+vGAj7GKWserIrw3/WRH
+AEHvI9KOkwkr7ppSEWMKDNE0sjjT2kWO1p+XvhhHWG+CHIb7FHR6BrRQ0/omJ6Zj
+Sf3okcRrqSiM2d9l/l5c/SVTXy1cwDlC16lRD9K6ruIcWdxgdiIPAgMBAAGjggKF
+MIICgTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFDzJ3QCh57crnZLdvrPhgXKN4q7m
+MB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkw
+RzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAC
+hhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMFUGA1UdEQROMEyCJSoudGVsZWNoYXJn
+ZXItYXR0ZXN0YXRpb25yZWNoYXJnZS5jb22CI3RlbGVjaGFyZ2VyLWF0dGVzdGF0
+aW9ucmVjaGFyZ2UuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+BAYKKwYBBAHWeQIEAgSB9QSB8gDwAHUAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQAp
+Bo2yCJo32RMAAAF9IDF2EAAABAMARjBEAiA3U7ZoB+30ues7ni9/2UlwDQX0nEYr
+YACzfKHBGRg8KQIgHPX9V7Fiqg4SF/m3H3/85dJf00V6cyEPutYSM/K27rIAdwBG
+pVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX0gMXYYAAAEAwBIMEYC
+IQCW/PU4QFIk4hpm5HIP48L1KB5G0fyEK9rSBQFCbCsQQwIhAIkgoecUQY1juKi/
+MBIsmIRfkTMdSWsqFtdLsHMWe5oLMA0GCSqGSIb3DQEBCwUAA4IBAQAuiWazvJzZ
+RILLDozMvYUHcC3NQ4CqA2x0EZvEiIJX4qG/YwrPQ+WCO237sCQD1/vC86WGLxV6
+yW1g8+Kfgbau1jMpTU0LloESLpOMod5Vtm7WwvAIxi9EJ+OD3H0qOJuhPpMmPRTt
+yQSwLNFJ2vgVoj5FleZlF3FSgeO7iIRdRPAUaVmKboXp9yuBdmtVDOZXt/CTQ1aR
+y5AK1z/89bWT1zIogybwvJETOCOJroWS6wU2Epy27QUErcyIItv52zzYxw3pfoob
+qtr42yrWDLk2QUjLaILAUulkPTISvHA2Z/IUPSGK4wU9kWFuCGRwzpiKdUNgG8fI
+h6MDG4QAkrG/
+-----END CERTIFICATE-----
+subject=CN = *.telecharger-attestationrecharge.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3272 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,93 @@
+https://vefil.org/z3/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = vefil.org
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFuTCCBKGgAwIBAgISA8300Wz5zEGxbRLQAWfyyayhMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA0MTIxMDMxMjRaFw0x
+OTA3MTExMDMxMjRaMBQxEjAQBgNVBAMTCXZlZmlsLm9yZzCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAMpMEmmk2h9U4gCXwG/NqGW+rQxhxvVo17UZQGCD
+Qt8ekeacLluvyDjntVEJSqENn67QF3JFZV4Ciot9U9K3diwOVevuSQ/6ytLKEllX
+FzKB6uhvlu21SNLpYVT9Gz/6G3XPebirIGAWPoZH9QACEOFKx2K6IDeIpD5btHKv
+FbFMLqfeVB7Fn8ZJsOkcPkV4G/O9Hf9b/39vCy3u/zEPSKBVJhEo56zDOLGdrgDY
+lVQqejkwmSQbVL/LoQhl5qdBVisdiI1eDSW/aNTe+sbxFmovqIaGQoZ8iDP4VxK5
+DF0M8U2BX21j24ePs11y/TzW9YyusOoPB7rik2qazvhmwIsCAwEAAaOCAs0wggLJ
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+DAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUxraQixuTV8bSN3RNreXJP6GQCvcwHwYD
+VR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBhMC4G
+CCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3JnMC8G
+CCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3JnLzCB
+gwYDVR0RBHwweoIWYXV0b2Rpc2NvdmVyLnZlZmlsLm9yZ4IQY3BhbmVsLnZlZmls
+Lm9yZ4IObWFpbC52ZWZpbC5vcmeCCXZlZmlsLm9yZ4IRd2ViZGlzay52ZWZpbC5v
+cmeCEXdlYm1haWwudmVmaWwub3Jngg13d3cudmVmaWwub3JnMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYA4mlL
+ribo6UAJ6IYbtjuD1D7n/nSI+6SPKJMBnd3x2/4AAAFqEVEL4wAABAMARzBFAiAV
+L9x7cBX83rPcquucdxmB/w5iyDzu3lDCwkGR3lEGfgIhAKosvYx3bAjwGz4CIzWk
+MAMEjS5XfLZDHKOYm86s9f47AHUAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHH
+aFRL2I0AAAFqEVEJ8wAABAMARjBEAiABR/vHI32eJ3y6o9xMANkSwr7HCRKGjZoM
+KLjlv8RVywIgGzzSdVFU9pXoiLq3uUg/r51n2cisH2ptDPiBdKYiG20wDQYJKoZI
+hvcNAQELBQADggEBAJvzM7ly50Ogkwl9OVfUwXI6ajLVpEoWTL+JuvNREM0hvq0/
+WNLZanuf+K5tVIuMitLf1tqCeMLGxL+NspeLyJvKlSft2hrl22TLCHDuYFFEppdO
+aHbWMpGas7y5BX8QbHHOM+7zwk2ClAWEx27n5Dslgp3fxz6+18YJ0/0qxVvTrRX8
+Uzl6VuEQvWa4ZfNnvbSzFptCUS82l3uX8Q75LZ3JU9i09v1Cn1qyNEE6K4GV/yB5
+ovwLarGlkzKq4KxIp/9IcbtEZxvklxmOYR5VnD/G6hOsUc7RuJeLLw4euSv4/Oep
+VZ1bcbXZAJMhRtsuYP589Aw//CxfxrKBi7ITQF0=
+-----END CERTIFICATE-----
+subject=CN = vefil.org
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3352 bytes and written 447 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 80187EBCC65785DF2B4F034A48BA176DE5BBCFAAAFCE6D819CDEF6399DB10875
+    Session-ID-ctx: 
+    Master-Key: 4968168E73B9D7B8D4384F91A2947372997AD4669E786B4744DEDBE21C55595BB012B084CBAD45CC5975E2A5376C4CAC
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c7 6e f9 53 98 bd e9 92-92 e8 ec 01 28 a6 fd 3e   .n.S........(..>
+    0010 - 31 12 24 8f 47 45 48 2c-c3 a9 e0 90 98 07 a8 21   1.$.GEH,.......!
+    0020 - 34 d3 f9 9e ff 74 9e 1c-93 13 02 80 fa 91 4e d2   4....t........N.
+    0030 - 7c 4e b0 0f 35 4d 0f 8a-e0 5f ef 70 75 6d 01 3b   |N..5M..._.pum.;
+    0040 - 92 4a e2 bc 1b 50 16 e8-0d bf ee 90 4b 26 a6 a7   .J...P......K&..
+    0050 - 47 1e b8 17 98 74 01 7e-58 2c ec 24 a4 7a ff f8   G....t.~X,.$.z..
+    0060 - 70 73 57 73 75 b7 e7 e2-d8 b9 43 c3 7c 1c 9c 64   psWsu.....C.|..d
+    0070 - d9 d8 e3 9d dd fe 5c 2d-ad b4 d6 74 33 32 7c 8b   ......\-...t32|.
+    0080 - ce 62 94 9f e6 5c 3a 62-c3 c9 ce 1d 5b 7f 75 e2   .b...\:b....[.u.
+    0090 - d7 14 df 79 bc b0 98 97-05 92 e2 a2 78 26 d2 a9   ...y........x&..
+    00a0 - df e8 f5 44 82 8d d1 aa-52 e0 42 74 e5 92 be a0   ...D....R.Bt....
+    00b0 - 74 61 dd fe dd f7 54 b8-ee c2 fe 88 68 74 13 3e   ta....T.....ht.>
+    00c0 - ea a3 6a 32 f8 83 9c eb-d1 07 99 25 50 dd 9a a8   ..j2.......%P...
+
+    Start Time: 1559998822
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

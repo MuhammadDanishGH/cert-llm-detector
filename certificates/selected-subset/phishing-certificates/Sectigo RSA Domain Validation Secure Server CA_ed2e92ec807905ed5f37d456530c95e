@@ -1,0 +1,93 @@
+https://milyba.com/index.php?produto=582564810
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = milyba.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFsjCCBJqgAwIBAgIQDtLpLsgHkF7V831FZTDJXjANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTE5MDMyMjAwMDAwMFoXDTE5MDYyMDIzNTk1OVowFTETMBEGA1UEAxMKbWls
+eWJhLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANJqhL0UUL/m
+qrqoVwobujrCGlAKs8EI274MkZgAq5Z/pEM+izffz9rAqqw1AZuBgUT4UW6Zh2Tw
+h/1MpJTW+Hdlb3DqKSmYpVym+h/tF5eEuwoCtStNRy/9iYHP2okKY8ME56IVisxE
+VA3GgEVv/HKV7L+7cnQ+doqFdhZn66f8qA8h1arJHCiZ0L6dK2Pc4/YeWiwZsbQ3
+2c1/j4d02PEemuja4RhunCGQhZpf4cC4AzPuGtLrE5deSBw5CCQWt+agvT2k3+g5
+nEUHvAmozQPnLO0acmGycFcFpelkxWtp4ryusLEQGIM0/rWLhzIKEEFxncXQVO54
+kK/dc7PsPN8CAwEAAaOCAoEwggJ9MB8GA1UdIwQYMBaAFI2MXsRUrYrhd+mb+ZsF
+4bgBjWHhMB0GA1UdDgQWBBRg0xVfCuiaGsEHWyUXgQqaAnZ7/DAOBgNVHQ8BAf8E
+BAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUFBwIBFhdodHRw
+czovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsGAQUFBwEBBHgwdjBP
+BggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdvUlNBRG9t
+YWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEFBQcwAYYXaHR0
+cDovL29jc3Auc2VjdGlnby5jb20wJQYDVR0RBB4wHIIKbWlseWJhLmNvbYIOd3d3
+Lm1pbHliYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgC72d+8H4pxtZOU
+I5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAAAWmmopzxAAAEAwBHMEUCIFBohICalk3D
+ILPJuHRzMowpJCY/CxSr4wq4diS0r6cLAiEAjmlSCeiau+jl9ixatUohv+3CoUT3
+Rvde9rp1bR9Egu0AdQB0ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAA
+AWmmop1OAAAEAwBGMEQCIGVALxkqlXjt288JPsVwgqYU9AueKprMlHYz9X+RY5j9
+AiACgMNm7J6pK1MghCE6/emV/VCAwi6yuwCtkSQOjgXbhDANBgkqhkiG9w0BAQsF
+AAOCAQEAEcf/hr+9pnESe3kkVcBixSm+/+0kHi5BqA7YytYEXqYzco8hUepJMCqj
+T5l2zEyGEgu2vnTTWcgbkLAjYBWBXuTt/kRyDr9loBd64IZcVbNseSwR+EZQYqpo
+uh5D02JFxf6LpRyjHP7Z+NEeYEQt+j01lH6NGeLEQBvXgt/lQfcTYE/S6pEeR9/L
+S+sQa65uwFUE1LBY7v0p4WhVHeslydJNZlU/FoSavYpeDqGI5X8EnHBODZVYLvXm
+SzGBerFgLOrtJ3MBaIHLeIRbJ9EVUih9P7i7sBCOG4eoNDI805xHlLzQ9zAleSbg
+9i31Gv4o123md/t+Ye4+58kk47vITQ==
+-----END CERTIFICATE-----
+subject=CN = milyba.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3730 bytes and written 448 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 02024B74CD47501AE9527A4ABD8421A6D53187B7AC22AB11F149D4C5DD693DE1
+    Session-ID-ctx: 
+    Master-Key: 5839A404545F945D45C6A2FE4A8688FD218FE4C2122DFC0D8A9365EDE141C2BB5D66A3096713C6005696D8A6B9B28B55
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 29 da 65 a5 15 7d 7a e5-a5 bc b6 3f d6 30 f1 df   ).e..}z....?.0..
+    0010 - 97 3c 8e a7 c4 58 de ff-d8 aa 36 c8 94 66 9c df   .<...X....6..f..
+    0020 - c5 53 21 7d 22 62 7c de-be 51 1a c8 cf 07 0e d2   .S!}"b|..Q......
+    0030 - 4f 83 66 58 14 ff f7 0f-dc fb ab 82 d6 bb 4a 9b   O.fX..........J.
+    0040 - 0a 96 62 8a a1 f5 41 85-eb f9 a9 20 e9 49 d5 72   ..b...A.... .I.r
+    0050 - e1 fa 93 2c a3 3f be dd-50 35 56 07 11 4d 42 22   ...,.?..P5V..MB"
+    0060 - cc 45 dd 74 dc d3 ae bb-59 f5 66 14 26 ff 43 7b   .E.t....Y.f.&.C{
+    0070 - 6a 21 d8 d1 1f e6 94 21-91 a8 cd bf 45 a6 cb 60   j!.....!....E..`
+    0080 - ef f0 1e 10 2e ff 54 3c-7d 6a 77 7e 30 64 ce 30   ......T<}jw~0d.0
+    0090 - 86 7f 82 ae 6c 72 fb d7-b0 d4 61 f2 6a 16 d3 00   ....lr....a.j...
+    00a0 - 54 6d bb 76 a0 e2 de 0b-bd 8b cc 1c 66 ea a3 7c   Tm.v........f..|
+    00b0 - ce 3a 72 b9 4f 3c 9a 20-23 84 ec c7 ae 10 7d fe   .:r.O<. #.....}.
+    00c0 - 14 fa 5c 54 0b 66 6c fa-e1 87 81 0e c9 be e6 8c   ..\T.fl.........
+
+    Start Time: 1553349621
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,73 @@
+https://amer-gallery.com/webmail-portal-RD337
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amer-gallery.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGjjCCBXagAwIBAgIRAJihBAulWGgp+1zn7/o84vQwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTEwMjQwMDAwMDBaFw0yMjAxMjIyMzU5
+NTlaMBsxGTAXBgNVBAMTEGFtZXItZ2FsbGVyeS5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDdVP6scajXZL3fg55RZPsnytTs8k6T5URaYPr9mBMq
+Yh0QlNlV3Q334ShwSy7dBmJ1/BkZ1PHmZfL7+NLm53yelinNRETrWf1HmthnunA+
+huC/QO9W4Wml+6rPVxJpLiA6vFN+H71lWuyR8tuQ/sluqeHfifZn/01uRHz3rYQ9
+VGFld7K+7OKCWxDVO1h8Lg0hV8n511cwb2+JlJYfwP19kfKmzXfpK5FEEtAMQ+OJ
+kn1W7T0Y5bYP6U+4rI0X/dlnEPW1eV7cikJsE50Tpu4wxo7pgkd+3rrW3vjGqSFs
+icCFJAwDc3MPPotLreTvgZUzF9sD8oWa2vJWdWODy0jRAgMBAAGjggN0MIIDcDAf
+BgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU4NZM6AGJ
++quxpZlPniFGsHIIHKQwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGy
+MQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYG
+Z4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEB
+BHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVs
+SW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1AEal
+Vet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfLDzP7sAAAQDAEYwRAIg
+YOqKYD4a+/DfHyT8OeEi8ygQQdSjWwLkW/O5K+fB9yMCIEqPERybaYuUoQh58Wzk
+nfRtDPpHKyvsXF+Kd7Ei93dmAHUAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jw
+kGKWBvYAAAF8sPM/hQAABAMARjBEAiAIutKsgsRcpotznfSgfpZBWxdV7sfifQKk
+V1p7y0DwFgIgW0+B/YlbjblsWphaG3hkvmoiqlBfdMwFdkfWpUUj3+cwgdIGA1Ud
+EQSByjCBx4IQYW1lci1nYWxsZXJ5LmNvbYIXY3BhbmVsLmFtZXItZ2FsbGVyeS5j
+b22CHGNwY2FsZW5kYXJzLmFtZXItZ2FsbGVyeS5jb22CG2NwY29udGFjdHMuYW1l
+ci1nYWxsZXJ5LmNvbYIVbWFpbC5hbWVyLWdhbGxlcnkuY29tghh3ZWJkaXNrLmFt
+ZXItZ2FsbGVyeS5jb22CGHdlYm1haWwuYW1lci1nYWxsZXJ5LmNvbYIUd3d3LmFt
+ZXItZ2FsbGVyeS5jb20wDQYJKoZIhvcNAQELBQADggEBAGWKfJrfwHBCKxRqKGiu
+6MfLb68iYSpOpSsCb29ipJhPtAN7uwrLI0qxAwWuM9hFsGjA69uqbxo8eNG/YkHB
+lV6L+kBXzaGC+kfuUWSk8F0xePlsH/twNZQljsba3FexSHgqyblBzsx0dpwGlb2q
+AMwikS+Ir3zk6/EmGP6NuRWtf8vYoq/h9lJbgcMpL/6/BYvtZlrIs8RFi0MUrGRA
+vu85Umsw6qbxNINJCYHvkloG1AkfAy0qP0s+s0bvUENoxYln11o27HSZ5wJYEtvi
+uIgY8DKa6I8BSWYigvbhGarchOsiw3lbA9sQD2fE1bndRoHvWMjf7XkTCW+9u/OO
+7RA=
+-----END CERTIFICATE-----
+subject=CN = amer-gallery.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5187 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

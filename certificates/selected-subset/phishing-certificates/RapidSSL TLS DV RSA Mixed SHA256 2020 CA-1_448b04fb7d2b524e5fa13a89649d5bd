@@ -1,0 +1,97 @@
+https://www.yilmazmuhendislik.com.tr/.quarantine/tk
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.yilmazmuhendislik.com.tr
+   i:C = US, O = DigiCert Inc, CN = RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1
+ 1 s:C = US, O = DigiCert Inc, CN = RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGSDCCBTCgAwIBAgIQBEiwT7fStSTl+hOolknVvTANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypS
+YXBpZFNTTCBUTFMgRFYgUlNBIE1peGVkIFNIQTI1NiAyMDIwIENBLTEwHhcNMjEw
+MTExMDAwMDAwWhcNMjIwMTExMjM1OTU5WjAnMSUwIwYDVQQDExx3d3cueWlsbWF6
+bXVoZW5kaXNsaWsuY29tLnRyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAxqQCHuI8PaEpgmTLFql3/5OEkPn+PVrOOi0eHgsLLgG6ykl4WQiDNsSzqCR8
+KmfBbonY3Ma3Xa3ZwExD+UXw/9wY7ey8xpnbteW8ryBv+YcFpwr34qITFi9qdNBK
+9jgd2sfa6iriv2L+fFienefO0/Az84EmcS2bBPl9qmoVgpWpXGBw/mbUQ4s/xesh
+TiQ3KP9l/GaS+FVNnHn3HqJY9pU08KP46QpW61AI161PtqWiFvSBzdoCJyb95QRP
+5yDuWqPMMsD2FTYzsV1Vwj7a/ZJt7ANPv+RySrchBe2do8aaVZYGZynytAA+skzH
+/kF+2gBJCOjEA9KGDZGUWExuZQIDAQABo4IDPDCCAzgwHwYDVR0jBBgwFoAUpI3l
+vnx55HAjbS4pNK0jWNz1MX8wHQYDVR0OBBYEFKpGDG6Rl/5fAY5Yz1x7tD42AGIC
+MEEGA1UdEQQ6MDiCHHd3dy55aWxtYXptdWhlbmRpc2xpay5jb20udHKCGHlpbG1h
+em11aGVuZGlzbGlrLmNvbS50cjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMIGbBgNVHR8EgZMwgZAwRqBEoEKGQGh0dHA6Ly9j
+cmwzLmRpZ2ljZXJ0LmNvbS9SYXBpZFNTTFRMU0RWUlNBTWl4ZWRTSEEyNTYyMDIw
+Q0EtMS5jcmwwRqBEoEKGQGh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9SYXBpZFNT
+TFRMU0RWUlNBTWl4ZWRTSEEyNTYyMDIwQ0EtMS5jcmwwSwYDVR0gBEQwQjA2Bglg
+hkgBhv1sAQIwKTAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20v
+Q1BTMAgGBmeBDAECATCBhQYIKwYBBQUHAQEEeTB3MCQGCCsGAQUFBzABhhhodHRw
+Oi8vb2NzcC5kaWdpY2VydC5jb20wTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jYWNlcnRz
+LmRpZ2ljZXJ0LmNvbS9SYXBpZFNTTFRMU0RWUlNBTWl4ZWRTSEEyNTYyMDIwQ0Et
+MS5jcnQwCQYDVR0TBAIwADCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2ACl5vvCe
+OTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABdvKtTA8AAAQDAEcwRQIgcCII
+dXgv/T2uq9eTSWO/BzEzOWPUb1Ks5emNIXpmDWgCIQC+R8zbZ+jHZvYIgkEA9XuR
+bxw6T/tSbizJDv6poQXsoAB2ACJFRQdZVSRWlj+hL/H3bYbgIyZjrcBLf13Gg1xu
+4g8CAAABdvKtTHYAAAQDAEcwRQIhAKHdLsVYOj5MIA+SZaE/Cg5NNsfHw0uSTgUk
+XwZ+e2LpAiAfXUPXWd5MRoAPf8XIkmyTXLwDqFjGV8wqYeDlub/DeDANBgkqhkiG
+9w0BAQsFAAOCAQEAG/xf9vwQCCRWJqggs8vWTSa/+UnboDsdwDvHVBaacR39K5kq
+B31f8Fla0sv4o+HjXxCl6rgk8CmAxgl2GsmOvHCOdDmF9zwjwwsFb4JdkrhOPjw+
+/RLdglyAJ/56A3AsaLHHjBPOuSR1Z8r15jpRKurUN2fZ7ZMFhrvvtr8YdYUNXTAd
+2Q49qT5H9ONvrHkX4y0LKp3ECQAY6+Vov4ZAkF4KszemuT2EB7ONU8j55wtOo63A
+wJzHJOJ+WGYYe5TGviNuGjkylBdtYE7Bxx8c84oDVcq2aRYMkrr+T8Vg7WTXDAbN
+SKLqQz3hqgSiaUDW0iUQ9iiGKOCEVk9TCwo0Jw==
+-----END CERTIFICATE-----
+subject=CN = www.yilmazmuhendislik.com.tr
+
+issuer=C = US, O = DigiCert Inc, CN = RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3702 bytes and written 456 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 9613FC8732776DBCBD1D8D9817B9DBA67D92EFA77E41FC8B774793B5AE5E9C73
+    Session-ID-ctx: 
+    Master-Key: 1618F3589D024681B22CA97C395BF42CDCA48CE4B7C68F943E191560339E6F44DE75D209C0E683F194470CE4B2789C45
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - ff 30 59 f1 5c b9 8b 98-f6 51 a1 8c 24 3d 2d 31   .0Y.\....Q..$=-1
+    0010 - f4 13 31 18 72 bc cf 98-3a 17 dd 29 bf 1a 3b 12   ..1.r...:..)..;.
+    0020 - 12 55 61 e3 11 1a 87 e7-4a 93 9f 97 d7 2e 64 4e   .Ua.....J.....dN
+    0030 - d3 e1 7d 5e c8 bc 7e c4-a2 dd af c5 1a 8f b0 4f   ..}^..~........O
+    0040 - e9 df 9f b7 98 b6 f3 5d-66 ba b4 f6 3d 1c cd 77   .......]f...=..w
+    0050 - 72 8d 48 8b f9 93 5d 98-ff 39 21 39 c6 9d 6d d0   r.H...]..9!9..m.
+    0060 - 82 3e e9 cd 88 4e a8 f3-2b 08 7d 42 58 fe f6 70   .>...N..+.}BX..p
+    0070 - f3 1f 69 a0 54 46 73 ff-6a fe e8 b9 fe d3 c7 4d   ..i.TFs.j......M
+    0080 - f3 e0 76 d4 a2 00 05 7f-1f 3a 6b 4a 08 e2 56 a7   ..v......:kJ..V.
+    0090 - c5 f3 24 d4 32 e1 fb 8f-0b 39 b7 b7 e4 2c cf ac   ..$.2....9...,..
+    00a0 - 2d 0a 5f 14 9e 71 b5 7d-f4 a8 a1 1d 72 d0 65 71   -._..q.}....r.eq
+    00b0 - 88 83 2d b6 c6 dd 90 63-d9 38 71 c1 61 c5 4e 76   ..-....c.8q.a.Nv
+    00c0 - 70 bd dc f7 41 d8 92 bc-32 d6 5e c3 5e 67 68 a1   p...A...2.^.^gh.
+    00d0 - 98 51 38 93 e2 8d 29 8e-76 d0 64 ca c3 76 0c ff   .Q8...).v.d..v..
+
+    Start Time: 1625568209
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

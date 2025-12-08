@@ -1,0 +1,72 @@
+http://servismerkezi.com.tr/0ffice/seenewmenws/seenupdatemenows.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = servismerkezi.com.tr
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGdTCCBV2gAwIBAgIQPqca6l3pTWn2gHCDOGPHizANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTE4MTIyNzAwMDAwMFoXDTE5MDMyNzIzNTk1
+OVowHzEdMBsGA1UEAxMUc2VydmlzbWVya2V6aS5jb20udHIwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQC6gYRRfJIzjpJktQqf1aCWkl1hVTUEQuMQQA5D
+s96z2/GDjVf6uH7bOMT7tOopFYWqbp1ge7qNdNq6BfSHHeWqXFmbk8hRkKG0n9wg
+dj2puCBl6dhIS7k1Z/F8sHORQ/BVQtHX2vhjaqPmA4Wtt1rRmyus/go0DwzptuxP
+a1Orh1kMAq8k0n1dWP3RuempdbqWyV7OsP3FWlluF8b+m5EECsKhDojzoiXxneAM
+DoLM35gzjSHsGrXZZa5XvAZv1C5JP+P0dA4BubXPsrAX1BZJ1OiBpKIqgJRZB8HB
+yOF35ATsQ7xMn/FMqSmUSyWKqx53xIgH80/ztR72c8N+CXzVAgMBAAGjggNYMIID
+VDAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU20uH
+/XRTGnxkKf6a0VeUAfQi22swDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYB
+BAGyMQECAjQwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNv
+bS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29t
+b2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0G
+CCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5j
+b20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCBrwYDVR0RBIGnMIGkghRzZXJ2
+aXNtZXJrZXppLmNvbS50coIbY3BhbmVsLnNlcnZpc21lcmtlemkuY29tLnRyghlt
+YWlsLnNlcnZpc21lcmtlemkuY29tLnRyghx3ZWJkaXNrLnNlcnZpc21lcmtlemku
+Y29tLnRyghx3ZWJtYWlsLnNlcnZpc21lcmtlemkuY29tLnRyghh3d3cuc2Vydmlz
+bWVya2V6aS5jb20udHIwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQC72d+8H4px
+tZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAAAWftAloOAAAEAwBGMEQCIH74xglJ
+OzdVw4k3wdOYbGO2YxlZNfc8+GARc2K85ZABAiBPU9olM/c12O8y0d6yVlwXgl7S
+T3nUpanVDOe8ynlL2wB2AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAIxjc1eeYQe8xW
+AAABZ+0CWlkAAAQDAEcwRQIhAN1peq19iiuLEMIbSwmE1JhOrB/SzE30SBEPNGRt
+LDXsAiAjyGFTQ6agBuRtc8DPykv+4mmXykqS2aCBfplnjtdkWzANBgkqhkiG9w0B
+AQsFAAOCAQEAACyR0C4Lc+cNmHgqN4OHrS3MQGnBmmg5kP20ck1lxRNN2ZPpkhj7
+mNoeENp0fpiYgPSBo8Kn8z4BFD9JJyfJRRnySceBBAhIZzDlAWv07ub4Buyc5F0i
+Tkncl2F7hmyfZf1Dpn/vRSrjoi54ruspol66NScg2GDJU2QVCxCiTae9cZ6PK6SK
+WZBNonTZyNFg83eDthfHOsHfsksZaELWgBFijVeGeEJvGY0vUz7d8wrEjQK9Ag7u
+NhIavEjQULre8EsB+7kaM21fE2rx1xK2pC2Xl5PNxMPeIQeuLqRYC3CQ0u7q9C8H
+gGI/BSRispEGOHb29PW/s0PNuDbLRyayjA==
+-----END CERTIFICATE-----
+subject=CN = servismerkezi.com.tr
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5082 bytes and written 412 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

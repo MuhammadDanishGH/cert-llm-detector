@@ -1,0 +1,96 @@
+https://appzujpaza-verinfzinfonjfkq.dismissauthorized.com/Vbv.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = appzujpaza-verinfzinfonjfkq.dismissauthorized.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF0DCCBLigAwIBAgISA9iU/fMZTfkRhw2QYcsbr6wGMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MjQxOTUzMTFaFw0x
+OTEwMjIxOTUzMTFaMDwxOjA4BgNVBAMTMWFwcHp1anBhemEtdmVyaW5memluZm9u
+amZrcS5kaXNtaXNzYXV0aG9yaXplZC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCkhCQ2D9+qc3vt5uDad9E/+my3/tGdyPmNKr1WLOzmeririIMs
+eqweT9oNJUg5Ua7WGUDce/p/WiMcIwU75VYyu6hKCDJ7Kl4/k5HpJ1goo/Sh36sN
+3kByaq/p7DudtXTVS9FbKJur6AzIpUPpNo9bHN7WH+/gZ42nCEI5MfPZcaK7mgl9
+dZakmksb8YMZxasr2WwSYPY8FzZXJS0rs9ihrYlYG/HSoFva7aDaA54OcHXaKdCB
+Q7FATnRauFh6Dy/OI8rfwcZouImBLHDJ//eef5VAIYcd3A+qCBdyWlRX3B1qjD9A
+HzR7KQ8pVWHNMW6OBy27SYJuZHaXeICLbq4fAgMBAAGjggK8MIICuDAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFCrNE3EjEp96osLdRWcNF/w1tUNJMB8GA1UdIwQYMBaA
+FKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAuBggrBgEFBQcw
+AYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcw
+AoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8wcwYDVR0RBGww
+aoIxYXBwenVqcGF6YS12ZXJpbmZ6aW5mb25qZmtxLmRpc21pc3NhdXRob3JpemVk
+LmNvbYI1d3d3LmFwcHp1anBhemEtdmVyaW5memluZm9uamZrcS5kaXNtaXNzYXV0
+aG9yaXplZC5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEw
+KDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgor
+BgEEAdZ5AgQCBIH0BIHxAO8AdgBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbII
+mjfZEwAAAWwlwmQzAAAEAwBHMEUCIQDZO7upxEZIcfb7W5KsztGBERrFu9jFEF/0
+O8caIypVUAIgG5+tSZt3xGG8380EzZwrvmn2Ck96GD2gCASB0YDq8RUAdQApPFGW
+VMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAWwlwmMMAAAEAwBGMEQCICxW
+s0lcBxkUkO6qkMw6Q/hAaY4ekToVi3AQWQd3JBx8AiBPRZt24YNVtYNGGGIEIBaJ
+0CI+Laetds+MhTB89jeemzANBgkqhkiG9w0BAQsFAAOCAQEAbpc16FTbzZvJWg/K
+qG6NXSpV8K8RvxI4iyPBXvBIfC/ps6TK7B8DG5TMEsUJC57UeC/Gcuig/j+b9tgT
++Vl//xyf84fVPbw3+4YH+VxkueHj8KOxM0bNaUhyTgBTqZ7aBqMTJB5GAc05+oTG
+FiTji+oB5QqhdXH6IjBbIcwWZpSnscQD4fUB3WPBW77xn1ndMqBMEe82mIaWvFyH
+xfq4A7UbnawuvwxIT0F5TSdTvrQNFCm6AsuHqXc0zaQQqx6FItQaQhwrjiNjEVrt
+PqWZjFlryWy1PCW2Jw9NkAxYhEEpY1M5ALcAGI8ly/OdOQog+OQ/cUlHlRVKwe4j
+y3UReQ==
+-----END CERTIFICATE-----
+subject=CN = appzujpaza-verinfzinfonjfkq.dismissauthorized.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3407 bytes and written 487 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DB8A78088375E8FE1B8478A4236832390ED2F33B1D3D4032F9401FC14A3BC47B
+    Session-ID-ctx: 
+    Master-Key: 5AD03BF3ABE3C844630634337D313A282481BFB6FD8FE3120146C2B7DCE4F5B702C317733E001FB161D56EC6C394D57B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 29 54 88 6e 85 44 d9 bf-cb 89 4b 8e a8 57 af e6   )T.n.D....K..W..
+    0010 - b1 36 71 d3 d2 25 ee 49-e8 57 a8 20 8e 0f cf 91   .6q..%.I.W. ....
+    0020 - e2 40 cf 65 1c 85 19 f2-13 d7 76 aa c3 2f 48 df   .@.e......v../H.
+    0030 - 01 9d 5d 07 af 7d 81 75-53 e5 3c 42 b5 5b a2 14   ..]..}.uS.<B.[..
+    0040 - 14 d8 0c 22 24 87 09 1b-c9 62 c8 68 a4 35 22 97   ..."$....b.h.5".
+    0050 - 99 fc f6 83 c4 3e 5c 68-7e ea a9 ee 85 94 43 93   .....>\h~.....C.
+    0060 - ca 78 37 78 32 bc 31 ea-0a ff dd 86 0c 59 31 83   .x7x2.1......Y1.
+    0070 - bc 2b 07 e9 a7 6c ed c8-82 ac a0 76 48 88 4b 33   .+...l.....vH.K3
+    0080 - 96 5d b5 d0 a4 3b 12 99-f9 77 5a b5 5c 56 d8 80   .]...;...wZ.\V..
+    0090 - ad 7d 45 a8 66 39 58 fe-9d 24 82 e8 84 59 3c b6   .}E.f9X..$...Y<.
+    00a0 - bb 7d 42 be be 16 9d 55-2a 75 e8 a3 ac d1 e4 94   .}B....U*u......
+    00b0 - 62 97 ef 36 bd 7d ec c6-47 03 82 40 e1 e4 f4 b3   b..6.}..G..@....
+    00c0 - 1d c7 32 68 b4 21 8d 64-d6 f2 b3 56 20 be c4 4a   ..2h.!.d...V ..J
+    00d0 - 46 5d bb 4c 56 d3 08 01-20 37 04 0d 69 08 00 9e   F].LV... 7..i...
+    00e0 - 23 1d d3 64 62 7e 56 c5-7d 1c 59 98 72 75 95 c5   #..db~V.}.Y.ru..
+
+    Start Time: 1564059627
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

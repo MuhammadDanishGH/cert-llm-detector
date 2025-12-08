@@ -1,0 +1,96 @@
+https://www.mybmcl.com/logging
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:OU = Domain Control Validated, CN = mybmcl.com
+   i:C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", OU = http://certs.godaddy.com/repository/, CN = Go Daddy Secure Certificate Authority - G2
+ 1 s:C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", OU = http://certs.godaddy.com/repository/, CN = Go Daddy Secure Certificate Authority - G2
+   i:C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", CN = Go Daddy Root Certificate Authority - G2
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGMTCCBRmgAwIBAgIIFh3fUMwhLx0wDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMTkwNTI0MTIwNjMwWhcN
+MjAwNTI0MTIwNjMwWjA4MSEwHwYDVQQLExhEb21haW4gQ29udHJvbCBWYWxpZGF0
+ZWQxEzARBgNVBAMTCm15Ym1jbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQCm9ZoCLlZmTCZEZoMsUQcsOMfqZNW9AiNwmek0jk3DHGrQ33EHGogQ
+PYIXmTnxnmM1bOQpcHTePNeUlYdwm3XWTrbq2SLZoqVveHOq0L8rj2rOLQ7zEYJo
+HVpSMMYnDuhsbfjl6YiRvV2/2aVx+049Pz04s5+Yj6HMyXzMPNuLgN+v7CiIVUyD
+WkxcTcBlXgka3GqfIiwmQeInl359yEUxP4EwceBpXhobGsln8azxCV8HuFPgVftZ
+QBNgU2aE62WIfReqx+jSVVTAvXEyvhcofoS8RtuswcUY0vtmxyHwKs/RKvC/sfFN
+YW680UoGbalrvKizPVNheioFxPpv89UVAgMBAAGjggLAMIICvDAMBgNVHRMBAf8E
+AjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAOBgNVHQ8BAf8EBAMC
+BaAwOAYDVR0fBDEwLzAtoCugKYYnaHR0cDovL2NybC5nb2RhZGR5LmNvbS9nZGln
+MnMxLTExMzEuY3JsMF0GA1UdIARWMFQwSAYLYIZIAYb9bQEHFwEwOTA3BggrBgEF
+BQcCARYraHR0cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5
+LzAIBgZngQwBAgEwdgYIKwYBBQUHAQEEajBoMCQGCCsGAQUFBzABhhhodHRwOi8v
+b2NzcC5nb2RhZGR5LmNvbS8wQAYIKwYBBQUHMAKGNGh0dHA6Ly9jZXJ0aWZpY2F0
+ZXMuZ29kYWRkeS5jb20vcmVwb3NpdG9yeS9nZGlnMi5jcnQwHwYDVR0jBBgwFoAU
+QMK9J47MNIMwojPX+2yz8LQsgM4wJQYDVR0RBB4wHIIKbXlibWNsLmNvbYIOd3d3
+Lm15Ym1jbC5jb20wHQYDVR0OBBYEFEdZOPV1jnM85GqUWtjcUkpHmfyjMIIBAwYK
+KwYBBAHWeQIEAgSB9ASB8QDvAHUApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fN
+DsgN3BAAAAFq6bydJwAABAMARjBEAiBkDDrIZFuJB3m6vVPDC7GfYUk7fw2FiyVP
+10etWCKWmAIgSsfUDFgT6PzYKBT6jkOVb+K2z2ARmdakWc0KmVQ9HrsAdgBep3P5
+31bA57U2SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAWrpvJ5XAAAEAwBHMEUCIAvd
+WfQZws6tt6yolY5nghkS6JPY7G0qd256g/+QjvmBAiEA/1+rX2H4thbGBj0AVwIh
+k26bgkTRuPP5/NtAPTP46qQwDQYJKoZIhvcNAQELBQADggEBAD3mPj6md6Zvo2Ll
+uLv8Qgyz4wWy44eRyYIvoH7ACxs5PywqgjMaLK0ytgZf4sxf1UYm114KzBpAbhPX
+VbMZ92G4j48rE0cgW+vQ2J+5jQZGCVs9B6ZADWSzsgkY+yFXDo9fGEyFHEOJqPT9
+yKFidPr5K7pBcMvSOVNHUB+vgmZQ6nik7UM+nTqP34FwE9QI1w5NDlyq3ODTetRv
+VLXZyUJJ+VQ14PefVYY9aJMlUjlsBsw4OKVUUmqS+FpowWvnJpCEm31TVjzWPkqA
+QAR7Fh2WNgivI5kTFbbf51y9/DQ8rQ2LhjiXKGI9FmHNoBh1OMf/7I1YzzS/+7Bj
+8VUbWCo=
+-----END CERTIFICATE-----
+subject=OU = Domain Control Validated, CN = mybmcl.com
+
+issuer=C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", OU = http://certs.godaddy.com/repository/, CN = Go Daddy Secure Certificate Authority - G2
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3534 bytes and written 452 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 5F7CA01968DA57089275502BA3F800955783573B22261998D3F073343F10B00B
+    Session-ID-ctx: 
+    Master-Key: 64AD2A9E89BF91562DEA6AD8F5F83BB1B16365DCABCEC188244E2A58FBF78250B4B1CE64CC2E90281F057CB5C841C9DF
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 77 02 72 05 f0 ff 03 ec-04 e7 fc 77 f8 ab 5e 41   w.r........w..^A
+    0010 - 79 f4 bd 76 5a a7 e3 c4-92 c7 51 bd 61 d5 5c f9   y..vZ.....Q.a.\.
+    0020 - c0 5a f1 8e 13 75 a0 87-c5 5e c8 4d f6 2a 89 bb   .Z...u...^.M.*..
+    0030 - 3d 99 e7 cb aa 45 11 51-11 59 f9 53 44 e9 30 2a   =....E.Q.Y.SD.0*
+    0040 - b7 99 ea 7a f2 8d 94 8a-26 f3 de 64 67 0f 49 10   ...z....&..dg.I.
+    0050 - 5e 9d 11 2b 8b 15 c9 61-ba 60 f5 89 95 90 6d fc   ^..+...a.`....m.
+    0060 - f2 fb b7 6c 7b fa 2f d5-ea 06 40 c4 77 f2 13 19   ...l{./...@.w...
+    0070 - db 38 cf 29 b4 82 75 7a-b1 ed 40 32 c2 80 32 b0   .8.)..uz..@2..2.
+    0080 - ea 12 cc 90 24 23 dd 39-90 dc 8a 6c 66 92 f5 38   ....$#.9...lf..8
+    0090 - 29 11 90 24 8e b3 cb db-94 84 fa 3e fd 45 50 b1   )..$.......>.EP.
+    00a0 - ea 18 a4 13 80 4d 63 06-d0 29 32 c9 a1 02 84 0d   .....Mc..)2.....
+    00b0 - a7 f3 12 29 60 93 06 37-f6 34 04 b8 f7 15 c5 6e   ...)`..7.4.....n
+    00c0 - b6 8d 36 25 90 3e 89 18-bc fe 85 3d 9d 8c 85 96   ..6%.>.....=....
+
+    Start Time: 1567688428
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

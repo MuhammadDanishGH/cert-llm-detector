@@ -1,0 +1,66 @@
+https://discrode-gift.club/nitro
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = discrode-gift.club
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFQDCCBCigAwIBAgISBPF9rgK7PShV7KVvEaufscdKMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTcxODM5MjZaFw0yMjAzMTcxODM5MjVaMB0xGzAZBgNVBAMT
+EmRpc2Nyb2RlLWdpZnQuY2x1YjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAOKMDhTtB7UZoJnZCwxZVwyP7jevRTHHP90FzaEWtLCouuE2H+1RU+AFM30a
+I+pJmSpQnKOoFEKjLHFXkiMmta5xnfymTqvjp5VlzauZ7+wn99Y506KhwYcE50Zj
+Ioodb5kZf4sesaB+k8CJrhVDI/kSrOt+f687JYIwvWv1++NPyzrFYLOsJNRr/gLV
+mHEN5lvFr8SeWh/Etgodtdx9JVl2FpZ73LKKxrp1FAwgh/dEBDhuB2mlxK2yB3Ff
+lRjakBqnQ9dK8RHc66ZDPcoErWR0DFbkcKP6is9uXAsLfF+tTwVSfu+8Oat/kUal
+TxmDKlsPWNURlARLVwFXQgnyVzcCAwEAAaOCAmMwggJfMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQU1Vs16xdczek5J6OKa32KI95+49cwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wNQYDVR0RBC4wLIISZGlzY3JvZGUtZ2lmdC5jbHVighZ3d3cuZGlzY3Jv
+ZGUtZ2lmdC5jbHViMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEB
+MCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAgYK
+KwYBBAHWeQIEAgSB8wSB8ADuAHUAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2y
+CJo32RMAAAF9yegJAwAABAMARjBEAh9q0cXpYNNEC02sczfHNhiMDUMyoONFK53Z
+IdydU7sQAiEArfoko4ulSlPUg/qVuSOpEddu8Ot1/ZrBmfPOHPMkFbQAdQBGpVXr
+dfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX3J6AlQAAAEAwBGMEQCIFem
+fjA71KCiUdmRIEWj8Gh9DN6g8n2dFq/ydxml3RvLAiAYr+pPHhhWuswDLyOqBUFq
+Wb2HfE8hfgSl/dq9TxZdWzANBgkqhkiG9w0BAQsFAAOCAQEAukOjrfdIrEWTfuSd
+PhSuJBPUtBGfJsnjvb2SRkv6N4aQ0YM0PEjeEXVfNkaLq7o3D/90BUXZrCZc6I9m
+BEgX1217+LKbBgpT2JccdTIWv9RPEncvDRbAvFRfIFNvcSI/IwfOPxAAVNGj/7I8
+4RItzNlwLBALum02gAjvAO02/4rs8+3r0P5gJ0oKtsxTKmMgGIoKYKoLI1LhVGXy
+/BcEJ8EvSsMONIRS3RlxNFtO3+tcVj5DdKOeauKfqnhOrPWuBI62VwHRrklLARMG
+kEzCz7UuZaJ5Q0JRjtpPUwJe8qu/g/Ik//TdSyu0ppbetnjnBHM8y0eM5ScJP/hj
+KPvHJA==
+-----END CERTIFICATE-----
+subject=CN = discrode-gift.club
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4588 bytes and written 376 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

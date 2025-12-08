@@ -1,0 +1,71 @@
+https://bot.alkabits.com.br/lckx/ExcelSecuredfile/ExcelSecuredfile/page.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.alkabits.com.br
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGPTCCBSWgAwIBAgIRANFrqbQeVbnZvzGk6MzQ5dYwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMTA2MTEwMDAwMDBaFw0yMjA2MTEyMzU5NTlaMBwxGjAYBgNVBAMMESou
+YWxrYWJpdHMuY29tLmJyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+sTvebKj6nV/JPF1BFKU6SIciVYii6k0G4VMzG3wGeve3q16tfpgwWzXT+C1tNMKc
+yzMzeBjOr92G7iIO5QUw/VIAVTJZM10GEmUZFvdVivOtB2a79XJWISSZ/6rKJHVU
+cdbLG/zIsjTzwT/IvZzZK8iHtNQz/j5yUtBaYpR49vinb2E9aL42MyfwYepUGFHX
+nRHu5qptnLukC4RLp3yAn6Oe4ZpOnEv2g85mBBz6Sdl4oLWdIcDG3xdcfP24QAfT
+YhbuZl6yS43lDHgLNkAjtjwkXSJAYlAdkGJLS+w5lOaNfPTGaLMrgCv+Iy4zxrmC
+EJ9viIwHXjm2PCLmdm1RqQIDAQABo4IDBDCCAwAwHwYDVR0jBBgwFoAUjYxexFSt
+iuF36Zv5mwXhuAGNYeEwHQYDVR0OBBYEFDD1MNPbT5XvbpjSTtNzVHuei7+6MA4G
+A1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYBBQUH
+AgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYBBQUH
+AQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3Rp
+Z29SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsGAQUF
+BzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTAtBgNVHREEJjAkghEqLmFsa2Fi
+aXRzLmNvbS5icoIPYWxrYWJpdHMuY29tLmJyMIIBfgYKKwYBBAHWeQIEAgSCAW4E
+ggFqAWgAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXn9LzMp
+AAAEAwBHMEUCIQD9wGuw62TV0P2W1v+dlqdX5lZwmdHrcs7pHfcTP2QO7gIgd3Uz
+aS089XN/6ghC6vHFvDN+NScd56QJ4YORK7SVs4sAdgBByMqx3yJGShDGoToJQode
+TjGLGwPr60vHaPCQYpYG9gAAAXn9LzMwAAAEAwBHMEUCIGv4lDOePFKyRkMCgMVG
+9IhyWgoQvc5kG0k32d2L/i+1AiEAyxmDSBrq7ZKLuILkEZpHXZ1o25AAVTrazfXB
+7Ng+vEkAdgApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAXn9LzMI
+AAAEAwBHMEUCIFjaqWfwEzqVeviY8VY9LFQ4NLDVa6pkXnejxlXLQYnKAiEA3BO1
++2+skPzMGqCAhkJPg11BQvphlUzak4/8tk0/zkAwDQYJKoZIhvcNAQELBQADggEB
+AKg430DsLYfsb48NSJPjJRRXGYyIbmXjR3DW65lVt+LKHhRNZMRl20572iLli3rt
+gfAPlZ7xW+wMVBZQsOg3371QH96ePkD/fkx0Yaumd7cSlWHfaAGkbMJxN27my1rk
+hy56Dxz9uy7YB8xJWMypm85b7bxRMTyH1voN+/h1ItMrJ4tlW6eygNjzB8OtYv73
+Hp5me2MCuFKMoTxIAy3vG06vsb7YNVgZUu/r+OSPrLRr8hjUS+GcnNwQ9kkHUxA8
+saSWUl/AjU3td7DDW4DDfWwei6IvEyrDYxwUxYHu3TO54sTw9z0aZmlhRpKqswPc
+Hia0JvMgwFJylDieJoAS3JY=
+-----END CERTIFICATE-----
+subject=CN = *.alkabits.com.br
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5143 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

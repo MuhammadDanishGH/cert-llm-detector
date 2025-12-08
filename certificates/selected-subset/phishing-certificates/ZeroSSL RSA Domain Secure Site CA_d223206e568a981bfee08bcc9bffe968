@@ -1,0 +1,78 @@
+https://universlqrc.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = universlqrc.com
+   i:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+ 1 s:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHgzCCBWugAwIBAgIRANIjIG5Wipgb/uCLzJv/6WgwDQYJKoZIhvcNAQEMBQAw
+SzELMAkGA1UEBhMCQVQxEDAOBgNVBAoTB1plcm9TU0wxKjAoBgNVBAMTIVplcm9T
+U0wgUlNBIERvbWFpbiBTZWN1cmUgU2l0ZSBDQTAeFw0yMTEyMjAwMDAwMDBaFw0y
+MjAzMjAyMzU5NTlaMBoxGDAWBgNVBAMTD3VuaXZlcnNscXJjLmNvbTCCAiIwDQYJ
+KoZIhvcNAQEBBQADggIPADCCAgoCggIBALUMg4dqYN02GzfZannP1hzEyHOh6rKK
+nSNR5E3mydEvVxesTW/i2LoS6gM6+LOID1bWyFgSJhLYdQ8pdn9FISNH9YSKW+Um
+peoC+AbYeqVRme+nZ7Er4RZsygjEIaPzaqfNUVgGYY5PRm/x6rFwZVEdQhsw88Uw
+9/7aQCxQ8YrInHQAL5DbNQDTUHdPW119X1V33J2XLKcWpMaOwn/iAuPE4T467y6+
+ElGzhkQUaXPeNstzefJFoV6R+cxkwFkGMI6NimEV+epZglaIgNGoxJPBa7b/xEoR
+zyqNzbe+Gob/90XVarWUvEL5lgDb/aZMvmUztuy4OIiwK7oYqVBsPSHrU88gRiDd
+Lx/PB0UjJEPJg6Fu6BqNe2sqXGpMcl0jgbPl/mcJOBjto7X8zaioRkxqXzKI1kYZ
+mFsVEfKpFMT4yZFD/IOj5fSZT26ka4UrRpx7mMHpW+svbVyfk3v7Dm5AWyJOMTBb
+k5FT/HUlbCoYjecsiTMFxY6N6uRyaWkiEhV/DRlHHtXUewExh3Gu2ItugVdvrWXr
+wb8FMl9z8SecV14kNkEGJj/kzUKMML1UG003ebb70NVhUoOdiI+74NVbut045uKL
+93GaIyIvHOCX4ZPrLpPjWKgLlBnzDjJ5qvRLIycdOEaD4krLWRUs+l4MzAtMnWCZ
+TkckAhYIn3XLAgMBAAGjggKRMIICjTAfBgNVHSMEGDAWgBTI2XhootkZaNU9ct5f
+Cj7ctYaGpjAdBgNVHQ4EFgQULyL39gK2D5TDbhfQ6C9+nnoBxJ8wDgYDVR0PAQH/
+BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAk4wJTAjBggrBgEFBQcCARYXaHR0
+cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGIBggrBgEFBQcBAQR8MHow
+SwYIKwYBBQUHMAKGP2h0dHA6Ly96ZXJvc3NsLmNydC5zZWN0aWdvLmNvbS9aZXJv
+U1NMUlNBRG9tYWluU2VjdXJlU2l0ZUNBLmNydDArBggrBgEFBQcwAYYfaHR0cDov
+L3plcm9zc2wub2NzcC5zZWN0aWdvLmNvbTCCAQUGCisGAQQB1nkCBAIEgfYEgfMA
+8QB3AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfdgZeWkAAAQD
+AEgwRgIhAMbRTvUFRkTiPIShjMdiZ0j0Tlt6fpo3feuUCBCbcqsXAiEA71HlEC55
+cfk23LzR85MIwC2l5XVrgXbPN52seRKrwKUAdgBByMqx3yJGShDGoToJQodeTjGL
+GwPr60vHaPCQYpYG9gAAAX3YGXkiAAAEAwBHMEUCIAicOzFUjZE8DyUbgreUmNSF
+ZXP+USjwqW4e2nh9LLmqAiEAkbY3lf9N7vknyN5kcSfdKYcCbeV0qg9wwxXv2Hh2
+TiowLwYDVR0RBCgwJoIPdW5pdmVyc2xxcmMuY29tghN3d3cudW5pdmVyc2xxcmMu
+Y29tMA0GCSqGSIb3DQEBDAUAA4ICAQA+qbptqkpfj8zdk9i3jY6O47ImNLoBg75W
+e/3EXN0n0vAyVronCe9Ru3l3DdzTJQ7rXHQytz9AMmKY4l2UrUcC22zLIDFnTl1W
+EcYilgZiRtISM2QLyRjrYd21sxsJPwdl/oDqHeIGhmyQVObl/ogzPw6o4BvoCkgX
+bam92GcZpmX3goHQwxnWD6DLM/hAOWJMlUctyYqpX9HO4yCWe3Hr+JI0Aql2aYr4
+6+7AQ7yZQRyODTT8jOu88GyL3RxLlvt6/9i0LEP2NBbFKGC6eTGi2MoHXRPaLEEo
+SFYHPdOe9Qv+eoDIyvkhyxBAZ4qDBxkPqOzLdJg9Cm4RpOkWN84C+ehIKHuKMeae
+DlP8PgYkboSdONBvHleFw9cXm4c+KnXB2mL0He2eH/6Cr/AffT4pu1Zqnx4TFuyE
+nQ448EwgPaAvRb/bkzpf9IhGD8NrVmkn8eOxvBDC5eL+mSQdRyVSQ/CMllywaV3n
+y/h+VtU7yW0KdnVrW8Fg7tbj8BfseBTK8ZKg+PISkGlvXL5rvYja6wQtBYT2k27P
+Z1XvJImWYcP1TBgS0eGG3QqTOL1aPHn11j6u4cwsMt9NZhJgvj4BvbwAQkPnDd0P
+n9caKscgYQ61p2CN9gZUxgjEBxmcD4a7wSsav+dPo0x7VU75T0Lfe95rlLdU7/HV
+J9DM23m/YQ==
+-----END CERTIFICATE-----
+subject=CN = universlqrc.com
+
+issuer=C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5849 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

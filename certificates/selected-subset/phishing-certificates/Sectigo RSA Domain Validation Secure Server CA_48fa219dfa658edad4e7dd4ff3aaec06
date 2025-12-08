@@ -1,0 +1,71 @@
+https://eng.rmutk.ac.th/administrator/page/3d66fa319ea66016cd9c9b3cdb86e757/5a10c/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.rmutk.ac.th
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGMDCCBRigAwIBAgIQSPohnfpljtrU591P86rsBjANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTIwMDQxNDAwMDAwMFoXDTIyMDQxNDIzNTk1OVowGDEWMBQGA1UEAwwNKi5y
+bXV0ay5hYy50aDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANwpCd5h
+ztFgc1PR74p77UvH/pmBEF6m5HGgapVtxZOwAL1KmviK/pmXm4IhvfENcm1OVGok
+nqi073L1T8IWX+zlwLnqYqH+5CQ9rBe5taTJz0HkcuyD96wZHFmmUJONel2Xm2rW
+0qpLEdh6db43gchC6Ky1JmvHBdBdIzABff5TY8VTToApMLFdU9z96X24+EVNnkvO
+AKPccZAoAyJCuI1BSkoG3rx/4VRreHdARgl6s2tFYD8Q/1kfLhyok7IFqfB6Kieo
+gVboLeGhbgw0kLVjTORX3oVG9qOJZO555m0f2k3vBQSvNvXpUE56RL30YP99Hqe1
+4d3vKs2o+m+n5kECAwEAAaOCAvwwggL4MB8GA1UdIwQYMBaAFI2MXsRUrYrhd+mb
++ZsF4bgBjWHhMB0GA1UdDgQWBBSEgVO7rJBb6rMeKDiWwr1Gd1MhGDAOBgNVHQ8B
+Af8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUFBwIBFhdo
+dHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsGAQUFBwEBBHgw
+djBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdvUlNB
+RG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEFBQcwAYYX
+aHR0cDovL29jc3Auc2VjdGlnby5jb20wJQYDVR0RBB4wHIINKi5ybXV0ay5hYy50
+aIILcm11dGsuYWMudGgwggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB2AEalVet1
++pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABcXbG6EEAAAQDAEcwRQIgUCTk
+pW4ssc1oC3ybmFkOOC7TkSsQ8p6hODtXudwW5I8CIQDaaefjTq3y8MEzLbPBoh60
+QScaI+bM8MVPsHed7YTNPQB2AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBE
+XCpzAAABcXbG6ZUAAAQDAEcwRQIhAOO0U5l6IYMlwABdXfBBY7A5QjtLIhsdfkVo
+ej8jqxc+AiBzCZcGOcnT6fCR+G7eQRfugigar9Hm31w90u7Xs1uuvwB2AEHIyrHf
+IkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABcXbG6IsAAAQDAEcwRQIgLa60
+FWLxpHgwIWL5KktcG03oUXrpI9HjGQWfV+awKc0CIQDYsXwhJdjg4giYcFKT54Xt
+suQT+d18IYwCSU8Hi8XIWTANBgkqhkiG9w0BAQsFAAOCAQEAv1NPxqrc3wYVIErW
+jaymL9j4+LvD+xf6bAGHopSr0xIEq9SXG/NomF1wSRDw6HrQl4J2H64At3PLl5kJ
+kys69S668C4Ujw7dNf9OoymDZLtAroqZwZSBcsoRsEjtmHtQFfBrL0V1TJYAI1x7
+ftL4GgV6G+ukKld9hTQd1c44qqUw6XnbB61CNSuoUcTyKqV7EMTCTV9OefyD8GC7
+TI1XNYlLntOS4PlaNpn6lovqvAoKYUVFbNxwp2gvIInR0TnSRpMh/H0tuxjG2UG5
+nwGMA1mTt6G8JDUEnArmkC2ca7WY8vC44oMZ1hIrHnw88CnI9pqq4T+lgE6+u1k9
+LYzdKQ==
+-----END CERTIFICATE-----
+subject=CN = *.rmutk.ac.th
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5120 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

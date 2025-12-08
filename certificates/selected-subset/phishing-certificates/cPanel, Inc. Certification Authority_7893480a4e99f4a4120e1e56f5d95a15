@@ -1,0 +1,72 @@
+https://www.tripexbd.com/wp-admin/user/range.roosomy-edd/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = tripexbd.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGiDCCBXCgAwIBAgIQeJNICk6Z9KQSDh5W9dlaFTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDkxMzAwMDAwMFoXDTIxMTIxMjIzNTk1
+OVowFzEVMBMGA1UEAxMMdHJpcGV4YmQuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA2WEqSZp6ZQRZvcNFpVro2Jf1FMjEdcCb0IsbFdDCSglSnXMh
+Q/dMWo/BOaGVaZrFuBV0pbE5eMvG3VIh0kJxjv+V0rV+w1W7J8hNC5CgvM0cob8L
+FsrpPs6S0Bt/YI4CWHponB0hStxQoUAbj9V//8eGhFXpN9KKQo4egwiDTvnixJlS
+EZKOKb5v3obHWYBV5byH9X8ZT2t5aeHhiGE0mEiLLXjfxSplg5mFhWivW3qGTMaK
+9UxT5bmlHuUq70tcp3xRHjLBAQgS+0fRfbr9vFwKZJDRrZbIoYExutYxLFHG8Umx
+vsgn5wZzck+fNbpHqkcYfP52u3T3ndmvIGYQAQIDAQABo4IDczCCA28wHwYDVR0j
+BBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFNzO2GWvySwvDxOj
+2ezDeRXf4NpoMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgI0
+MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAEC
+ATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9jUGFu
+ZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRxMG8w
+RwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbEluY0Nl
+cnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2Nz
+cC5jb21vZG9jYS5jb20wggEGBgorBgEEAdZ5AgQCBIH3BIH0APIAdwB9PvL4j/+I
+VWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXvhjYo4AAAEAwBIMEYCIQCikRNB
+aUiBm+XtTAFNsebduMi7L3pZwTyJboh5ihiQcQIhAOwFlQtc+jdV6ynqy2d5lnZ2
+gOPX+XwdrbHQOPeTKgGKAHcARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2
+gagAAAF74Y2J9gAABAMASDBGAiEA+j0rYdKc2n0AzG1tNqcyC+LUdXejRQAUedYy
+f05vboICIQDnfN4d+n4q9KY91ixissAn56QJC7k2F47MRTYboNP1FDCBzQYDVR0R
+BIHFMIHCggx0cmlwZXhiZC5jb22CGWF1dG9kaXNjb3Zlci50cmlwZXhiZC5jb22C
+E2NwYW5lbC50cmlwZXhiZC5jb22CGGNwY2FsZW5kYXJzLnRyaXBleGJkLmNvbYIX
+Y3Bjb250YWN0cy50cmlwZXhiZC5jb22CEW1haWwudHJpcGV4YmQuY29tghR3ZWJk
+aXNrLnRyaXBleGJkLmNvbYIUd2VibWFpbC50cmlwZXhiZC5jb22CEHd3dy50cmlw
+ZXhiZC5jb20wDQYJKoZIhvcNAQELBQADggEBAH+IUug3rywf/r7x2yRVr9k7Q0Ex
+LUOOWpG2X135SCIY7mSJxBZPBWelRRgRvtPhUKQd/k9c4lXm6ZcVqzFGfVNlutLK
+MqRHHELMO1gifpYBwdLp1kl6LR0qTixfO4eoaYqC9hXWuOKLp1TT73gNGM80mVQJ
+wHrZQlAl/0nmCl51bocQcmrSxu+nPzMGpAc0O6m7+kf9hl9u5b9KdkhxU2ySwGKL
+Uc/7Yd9Vm13Z3jQJwl+I2diDoFXxC4pX0yHp028xE6IxXrTYL2uaz70LVXmt/1is
+ge8QHP84DFacMPhmGcoF0jJjYc1DaSD5mY6go4z3Mp2hgyjG5s/hd2qJjmM=
+-----END CERTIFICATE-----
+subject=CN = tripexbd.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5181 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,65 @@
+https://amazon.co.jp.vipmano.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amazon.co.jp.vipmano.top
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNjCCBB6gAwIBAgISBEHzw86JGHXI5ZyC0UmBkttYMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTgxMTQzMDFaFw0yMjA1MTkxMTQzMDBaMCMxITAfBgNVBAMT
+GGFtYXpvbi5jby5qcC52aXBtYW5vLnRvcDCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAKSDZQpS/y6NiUOVLmT4gguxu2Y88SCSIBUGnF3G/C9ZfoXEgnH5
+ve8akJE/EK1G9Hk+OosP2PF/3nb7BUwuQSAUJyJjxocvaP175lvVeYaNJiiU9paY
+S0l57+81n7omnvt8mAZgoFavDkGDzl8yQD4Vd8tMVRnjpGoXIgdT/F8OvJ5WRsjQ
+Ba/GiEtaXuNI+OW/xbQ/M1MBs/2HkEmK8EpGdmCnXrFqZLBhSCQEKQ8R1ECzEefc
+O0M+74n+79TfWrqaqitdnD2lQ6qn63HA39tgGWG8CEiqaU0WitjMQjuUkxWJ7LB4
+fB2HSQMAeMPqitailwlnJZzFcOn4oA6TJt0CAwEAAaOCAlMwggJPMA4GA1UdDwEB
+/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/
+BAIwADAdBgNVHQ4EFgQUCjocvIOY0ZQlhCkMjffQeIbzIIswHwYDVR0jBBgwFoAU
+FC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzAB
+hhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5p
+LmxlbmNyLm9yZy8wIwYDVR0RBBwwGoIYYW1hem9uLmNvLmpwLnZpcG1hbm8udG9w
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB
+9QSB8gDwAHcAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF/DNtt
+BAAABAMASDBGAiEAy9wiXTCX9dyXr7PQFjWQEpobGhx292Y/zjhxIM35RY4CIQD8
+9AM/ytv0dWZxHk7ee+Jde3wC2IlKwIY3VaNdGJ9lhAB1AEalVet1+pEgMLWiiWn0
+830RLEF0vv1JuIWr8vxw/m1HAAABfwzbbRkAAAQDAEYwRAIgMILtzfrxLZyT0mF2
+kvlwr3fAY9tBDXbqpOsMpjaRWeACIGdhN83L+Kav/kFUHlVTji6yzRF9j8p43f1B
+L0WVbNOXMA0GCSqGSIb3DQEBCwUAA4IBAQBBm4qMI/rkae+OOMTKOK8x74GaAky2
+sNf1RuNVcADtCXxrTRcfdMxSwh/lBpPB7bSh8W60gSwkoVEQ3NcdyaP8+m8PhJOm
+Iif7TqGmF4jIpLf7bn5YAqG2c9GsfPso96gdpd69epNqPthNGdhcKv5D/HDLrAYl
+gwyEYBcdC+TRjaZOGcLgu2SQK3SgeRAESJ37Fn78e18ClaGWb5nh6PVPUskbzkhG
+MJ6tRhGGIc7vKGsdqEGV59fR+LUOLsCiOm5z8Ey4P2UAm8h1uyS2PF6mCtUB9s1h
+WMFNkmOt42Vc1ZA8U1z4qxKqHzQlG7JFDnzdnthtY9GPTU1VUbXBfX2R
+-----END CERTIFICATE-----
+subject=CN = amazon.co.jp.vipmano.top
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4594 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

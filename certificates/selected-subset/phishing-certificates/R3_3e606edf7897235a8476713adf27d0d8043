@@ -1,0 +1,67 @@
+http://tracking-posta.sk.dellcont.com.br/95b94cfd9684a57
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.tracking-posta.sk.dellcont.com.br
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdTCCBF2gAwIBAgISA+YG7feJcjWoR2cTrfJ9DYBDMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA2MDEyMTQ1MzdaFw0yMTA4MzAyMTQ1MzdaMDAxLjAsBgNVBAMT
+JXd3dy50cmFja2luZy1wb3N0YS5zay5kZWxsY29udC5jb20uYnIwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC3u54rw5QU9hx9ZXIp/54irBq/CJr8RQ2a
+GUVsm8DVdIx5Vno3FvLyR4GrdMPIMoe8Y3KLrIG5GlkH+94GIK0brUqZNylvx7pT
+UwBkAn0auYjq6dBDEqqlO0oiseOG/Yqvc6qvOzcU85/ycTTGn68FG1Wh1y2pGNsZ
+Jq8ZIOidPw5Fzrp0t85RZNcbW6dNXLdxPry8EYRCd/KDhKdjbz0hPJZRWgs6Gcve
+Jrgp8BjejjvGKLgw4UN/ecKxt4erYMB3J9E7A+WLM1PhqUeGDJp/tmELGR1uJQHH
+48QMcSO+/E5FM3easadAzUojEpTlaEUFEUo5DCLV17Pb4Tacri1NAgMBAAGjggKF
+MIICgTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFEROu7UJOCMzYgT2uhg8LejFXNZs
+MB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkw
+RzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAC
+hhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMFMGA1UdEQRMMEqCIXRyYWNraW5nLXBv
+c3RhLnNrLmRlbGxjb250LmNvbS5icoIld3d3LnRyYWNraW5nLXBvc3RhLnNrLmRl
+bGxjb250LmNvbS5icjBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEB
+ATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQYG
+CisGAQQB1nkCBAIEgfcEgfQA8gB3APZclC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8g
+C8xO8WTjAAABecnA+KAAAAQDAEgwRgIhAOU/ucQR7CbtY3pKLoDS8kf//Sioj4KZ
+iap5jo06RtPsAiEA0ocWzNLCveKEjhAe3U6HO57kgl37KDV9V/hR2Lpx0PEAdwBv
+U3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAXnJwPkRAAAEAwBIMEYC
+IQDZz3jufj64c9mnIIkPBzncbYhgVK5RgV/mFNRoHZIjBQIhAIH1/v6707SilS32
+8F62SiAeujH9jveJAObY//5LMK0QMA0GCSqGSIb3DQEBCwUAA4IBAQBhBoC+omRW
+beZNcM2SWRxgxZatWa5Yl88+iPX4WthV2jnuF7PV0Y4ATn7v+XdoAzVGhY6x+nYv
+2hOsrE/2dy56sfupbGoX8MZNZJJAMzkKzn79/2FPKanZ6OMzVsW4ZHEmebfKN73M
+6es3uoKeBLpPsYHU5qOMaYYOibdmqVGerpCs74UkWzSFqyMvRmHqZmnzaMwcaEDD
+oFsPtPwYHnThb4YuK2ILnwjo3gARQ9KguhFNZb7MhtytabWjKGs9GVDejN8GgULH
+qOw+WsXQ2Iwo+GigMbdG5t25XSJaOma7v78s/HJeaLbsPYGqwydVqQkjJBHIzjXm
+dVL52Lr93vyE
+-----END CERTIFICATE-----
+subject=CN = www.tracking-posta.sk.dellcont.com.br
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4657 bytes and written 415 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

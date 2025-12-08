@@ -1,0 +1,73 @@
+http://almanadily-cc.com/iosis
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = almanadily-cc.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGtzCCBZ+gAwIBAgIQTmGs4ceiPcywDb/I/R4WNTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDgwOTAwMDAwMFoXDTIxMTEwNzIzNTk1
+OVowHDEaMBgGA1UEAxMRYWxtYW5hZGlseS1jYy5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCxlLRUOJH2ZsI84/0vXpny01ccztR8JZomq9iBABTB
+K1q31pLxIGOFereV2DShGsvxXL0iQYHtI3T4kNRptU64fhjhsP2HgvoZnS+jFZAX
+spoLOs2al7oJIHoE9R3BUb3Rv88j6m3DVnLRT2T2nwmhSD3LyUGMEQd9d892zTvr
+ahrq1v4phzjGyhJBEp6+pk/8scKEgejIm/vzZ3kLdfHMpOaBT8CmP3e9AxO0yX75
+HICOkvmBTQ3HAG0Xu9kopfF63vLnSQVxQNvkPe6sd78KDxuvr6NW0iTMRMhQHXj2
+PRtRKcPrctYUkl0JeRceOJaIP329nm0VKQ3qOqwj3yKbAgMBAAGjggOdMIIDmTAf
+BgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU9L275Vnu
+gmxdbhL9q0y+GI2vqBUwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGy
+MQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYG
+Z4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEB
+BHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVs
+SW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AH0+
+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABeyg96MYAAAQDAEcwRQIh
+ALjprZ7P4+W7uR+CVFb0E8Q5Ambe22K7g9c0X/4A+YNhAiA6JArF5ixbSkcfsHBO
+gyuT99aQbSft8qqwIvyysNJlaAB1AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/T
+M5a1toGoAAABeyg96IoAAAQDAEYwRAIgRbOBuB8CKGr8FD5ktujCOIzMbdPvyCy5
+p2u6xjlEetUCIDscPgjRUnehaoYNh8hLhFxDSl6LbVLlu+/lFVtIpuwrMIH6BgNV
+HREEgfIwge+CEWFsbWFuYWRpbHktY2MuY29tgh5hdXRvZGlzY292ZXIuYWxtYW5h
+ZGlseS1jYy5jb22CGGNwYW5lbC5hbG1hbmFkaWx5LWNjLmNvbYIdY3BjYWxlbmRh
+cnMuYWxtYW5hZGlseS1jYy5jb22CHGNwY29udGFjdHMuYWxtYW5hZGlseS1jYy5j
+b22CFm1haWwuYWxtYW5hZGlseS1jYy5jb22CGXdlYmRpc2suYWxtYW5hZGlseS1j
+Yy5jb22CGXdlYm1haWwuYWxtYW5hZGlseS1jYy5jb22CFXd3dy5hbG1hbmFkaWx5
+LWNjLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAOnYNN0ZxGoggysM6GdT+oVhHgkYH
+zZ/BhQaEkhHizC4qr+0nf3NmFEU5k+0P5A67FsjRuC95RAJzaF35DuXg8RaABpJX
+wClnAhwnj/6aIszpXjgOrjlKKIGrTtkT/zwpWabbKmbtIacZeQ6XUBp0s8vEJdRg
+rvBl5zKCOgfT7YY2/cMH8SHSiePC62eOFsE/foZuscL3BOm/66+tHn2C4iqgTw0Y
+aJ5ciUNycIbfjCJB/axf60lwXwUTf5WvyHeLF8hEqSP2msI7B52zRBamrKfQMM/k
+uA1AZCC3ttJAdE/rMhwsI8nsYzi6r5LeAAFu0APdC6htOGAaYDVDGwJqvw==
+-----END CERTIFICATE-----
+subject=CN = almanadily-cc.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5228 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

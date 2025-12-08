@@ -1,0 +1,67 @@
+https://igdevirsconfirm.ml/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.lnstgranhelp.ml
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFiTCCBHGgAwIBAgISBLcXLPHWYzV8IuQ8ZRQqG/V8MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMDkxOTAzMjBaFw0yMjA0MDkxOTAzMTlaMBwxGjAYBgNVBAMM
+ESoubG5zdGdyYW5oZWxwLm1sMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEA4St6n9pVqutg/dfg/e70DnFWc6xtra5UmT9FYHsQFhhr8MdqMX6HF2RvQxhn
+wsodiBJsUrqLv6Y4lGrQZ4S72Q+hKpytlYemSrBN8gs3/Z2ofu300C4oLA3VzZn4
+VJBeGdp3rWtE0tE0JmL4MA02KxOUljEWb1BktZOa0CLuROpMBE6mWZ1PyPCkknRy
+5RGTQaMAVg1TrgobOwosfKcqF1Pf5YUl832J2vTUaPXSOOeVU/dFxXqt4Tg+sBpS
+bvU/9eGC3JVSxZu7QZDvp6xG2P9mUdNiCOAfLMq1X+Bd6yIXkCbFYct1IC9J+o1C
+X7CzXcXfmH25rCC03R95x8XFtQIDAQABo4ICrTCCAqkwDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBT/tUq3KKmnAy0c6p1A0QYmCQtx0TAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzB8BgNVHREEdTBzghQqLmlnZGV2aXJzY29uZmlybS5tbIIRKi5sbnN0Z3Jh
+bmhlbHAubWyCEmlnZGV2aXJzY29uZmlybS5tbIIPbG5zdGdyYW5oZWxwLm1sgiN3
+d3cubG5zdGdyYW5oZWxwLmlnZGV2aXJzY29uZmlybS5tbDBMBgNVHSAERTBDMAgG
+BmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3Bz
+LmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AN+lXqto
+gk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABfkBwLE4AAAQDAEgwRgIhAP3k
+OoSKLvNRsZspwnhVpF8BmgdYIGpwH/qQKTkC1bLeAiEAuXZyrzS4MHJ9pCL35ntV
+aamlI2ppygT5BtiKHZ1ZEPQAdgApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZc
+JV3HhAAAAX5AcCxFAAAEAwBHMEUCIQCo+C3HAk1WWYUFLepRR+zBQ4+iUvk6ywnN
+GcK2vGlb1AIgSpCs1ndubHC4SE7Nw45vguFXDvNfHaOjky8zeP3Cn2EwDQYJKoZI
+hvcNAQELBQADggEBAK26DySq91bpinlZ53/Y9rOm7FTYCTLxGuS2n8Ii0mMNYokR
+pkTLNeI+KukAuAzTk8DTWNfqzAkUdKDsMquiaUmVylBsZUnuu6hsGZ/l7OyitDOv
+oWrobcJPZD/+Npy1TcwK+LRjQHLVEHTYfacKXQxov3u9SUe0CyMebzL8+NcBBMpi
+PmWvDQ4oICgacfAHbsjKlWBYDGJW6C8yREjb2nBD9bbuCHNhvPCcJ/Z+vIypslRz
+ffCfI0wF1PIIq2NKqm+WrYyXKotBA+y8s81CESbLCeKDOhV9+qt57M4KIha05Fhe
+XsFfIh4HQ3r3mi6PeceIZIMM5UhUDWcUiPeFhg4=
+-----END CERTIFICATE-----
+subject=CN = *.lnstgranhelp.ml
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4607 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

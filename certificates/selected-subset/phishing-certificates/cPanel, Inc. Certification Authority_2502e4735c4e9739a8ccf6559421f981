@@ -1,0 +1,73 @@
+http://creativecombat.com/wp-admin/network/acct/login.php?rand=13InboxLightaspxn.1774256418&fid.4.1252899642&fid=1&fav.1&rand.13InboxLight.aspxn.1774256418&fid.1252899642&fid.1&fav.1&email=&.rand=13InboxLight.aspx?n=1774256418&fid=4#n=1252899642&fid=1&fav=1
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = creativecombat.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGoDCCBYigAwIBAgIQJQLkc1xOlzmozPZVlCH5gTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIyMDExNjAwMDAwMFoXDTIyMDQxNjIzNTk1
+OVowHTEbMBkGA1UEAxMSY3JlYXRpdmVjb21iYXQuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEA1w49m28ZkQeOo92FTt9vpF+lSaDFw0kDqXsuFBC5
+/6fnZK7XsJsVUXZm/JKTXOsmvOlMNly9zo6/TU+6Ry946SrUusSwuIfbN64sC1X9
+/QOYFpilIqovm7WeUu+CAipIJX88cUppRO6bg0BDNUopC7MT+DMyBQhXd28dYK4D
+B5EzFKoMd1CXxpiF5dJn1Qaa3lPGWf2z8yWaHparef1tadtnxEnoqHcxsceMa6j1
+NYZRPaiG3dS0tcBPeZX4n2yqbxxPj9g5FtG31STLouI7FJ0ZzKF0bsE7E6vW3Xd1
+QrALjZs+/iejWzikag3hzlPPVegEiA2dpNeqnsWkbIoq+QIDAQABo4IDhTCCA4Ew
+HwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFHqsdeQn
+FvO5huvchyKgnsYYcj7iMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQB
+sjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgG
+BmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNv
+bS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcB
+AQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5l
+bEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRw
+Oi8vb2NzcC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgBG
+pVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX5hhsXVAAAEAwBHMEUC
+ICIjLEu7GjyzyxU1/fV4fEawwYhDMBWgWGXsdWpn1gAtAiEAzq0lILB1vFurFCTP
+mHgqqg8zXRrqTyNj+XDl+oDpwzkAdQBByMqx3yJGShDGoToJQodeTjGLGwPr60vH
+aPCQYpYG9gAAAX5hhsWmAAAEAwBGMEQCIEs6saAKV29oRr2IHBtPqO5RNZQLWbNn
+qy9y6jptIWpAAiADc5CWG7i9XzYuav5UntO9oB7M9h26+soxDPejJYX2kTCB4gYD
+VR0RBIHaMIHXghJjcmVhdGl2ZWNvbWJhdC5jb22CGWNwYW5lbC5jcmVhdGl2ZWNv
+bWJhdC5jb22CHmNwY2FsZW5kYXJzLmNyZWF0aXZlY29tYmF0LmNvbYIdY3Bjb250
+YWN0cy5jcmVhdGl2ZWNvbWJhdC5jb22CF21haWwuY3JlYXRpdmVjb21iYXQuY29t
+ghp3ZWJkaXNrLmNyZWF0aXZlY29tYmF0LmNvbYIad2VibWFpbC5jcmVhdGl2ZWNv
+bWJhdC5jb22CFnd3dy5jcmVhdGl2ZWNvbWJhdC5jb20wDQYJKoZIhvcNAQELBQAD
+ggEBADHkANfk4ORUBywvOQ/eWLKzPPKtmwICt35NOBBc/scLlDZ0TFhYaOssM6eO
+KhKviewmZoQn3aht6ZYXFqMNnhHKEOFNSaw1yQ2Eu5R+shLpQVw97yDKHZ9Q17uD
+uoHZmJ9v77KCc9FaxxTXsDeRDANP8k4T845zC+nLEju1wTO9rJRU9lqOfwdyreLg
+Lx+OEpSYDt49rHUiFd7i8nZfh2YhLy2dy9NXYVX5PxfZ8Mf2mcG4Xl6u/6KFbXLK
+e0DALSODscrhQfJ+GBclpJmotIF2M0s6jcOlIT41yCcdNZjtEFi+AdI01sOaTe48
+a/vJyZkIlVmBfhvcueM858YV1BU=
+-----END CERTIFICATE-----
+subject=CN = creativecombat.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5205 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

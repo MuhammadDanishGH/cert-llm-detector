@@ -1,0 +1,67 @@
+http://beautiful-villani.192-210-132-118.plesk.page/spa/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = beautiful-villani.192-210-132-118.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFjzCCBHegAwIBAgISA6+suJZ53S4dobO4x6Qt2uKOMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTgxNDM5NTRaFw0yMTEyMTcxNDM5NTNaMDcxNTAzBgNVBAMT
+LGJlYXV0aWZ1bC12aWxsYW5pLjE5Mi0yMTAtMTMyLTExOC5wbGVzay5wYWdlMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuLUxU0+H4CdXvwsjVASeviZ1
+yRzZvj5IeHhp6nZYCuk6sc2XzrUWf623AFttrh5IAKdl9ckS+AeQP3lCckbFu5S2
+VanuL6m1/D/Gm1n2iFbm0KgJLlX5okyhXc0HG11qqA3xUx9J61IfiiyeRtsOxip8
+yIvxcef0TFKpTEz0iEF5zxR56J9H75v0V9H4/H9By3a0JiB6ZbqEvHvpaz2AqrlQ
+0SEwdEu2RzAiWacvFrUVFDETl3MqN+DeYyfBUW0qwAyiJ4Fb+GfVCpWxxkbFiwJU
+P7fhlH08BNTfkkGPRhy+IIJmpk3XS/8e4kuKavOU3PkanTcPXbzY05DbfO5TLQID
+AQABo4ICmDCCApQwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTbN4GaDiT7X/AVsIGi
+5ef1siT88DAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEF
+BQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggr
+BgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzBpBgNVHREEYjBggixiZWF1
+dGlmdWwtdmlsbGFuaS4xOTItMjEwLTEzMi0xMTgucGxlc2sucGFnZYIwd3d3LmJl
+YXV0aWZ1bC12aWxsYW5pLjE5Mi0yMTAtMTMyLTExOC5wbGVzay5wYWdlMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDv
+AHUA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF7+ZBhmQAABAMA
+RjBEAiAlSNmMlBhBygBWkUtNokJL8w8Su8sKNYxR0H9svk19RAIgTzoZ61s0XglR
+jh5w3R1WuFfpJWtilqEXHF/4/zynQi4AdgBvU3asMfAxGdiZAKRRFf93FRwR2QLB
+ACkGjbIImjfZEwAAAXv5kGHRAAAEAwBHMEUCIAi3XKl2EjForqfnmr4rAHNC70ek
+3ESvODg7Gk9zpqq7AiEAwPfSVooQmqg0o0SJdR6q4ggO6HBcxfuOtu2ehh09JuIw
+DQYJKoZIhvcNAQELBQADggEBAGd7Lcce7zZqaMJehmwrmEc0ZvKxrq6iLg60TMGa
+ORW6CIDNKhOYUfb7DmcCiaivBfNvjxukZ9otzmyTij8nxvB5cZ9GQMnXg9zkKPMv
+fz8Z2leEbJu3ASbVc/wy8gZSVepYCz+LHfAoxb7vA3To/Q+gaFgKxc+63kEd9NWp
+nnh8/KlTKj9/JwOglHeF/7MKt607rPuLj0J6vHicax1KJRwW3YTgL4NEK45uNyVG
+cDZUuPB2OiFvLXrdNH8GLJRAPSN7LJgF+Tuze0jtqeJy6QpontdZjj64IeFZ1Old
+lUT/YU94k6byQbjyjZwPi3WJ4F52MD6dcw88K6EIFsGyuVE=
+-----END CERTIFICATE-----
+subject=CN = beautiful-villani.192-210-132-118.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4683 bytes and written 418 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,65 @@
+https://www.jp-mercariol.icu/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.jp-mercariol.icu
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLjCCBBagAwIBAgISBLUI5xTR/a3OEXGMbyqmORPSMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjMyMDI1NDhaFw0yMjAzMjMyMDI1NDdaMB8xHTAbBgNVBAMT
+FHd3dy5qcC1tZXJjYXJpb2wuaWN1MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA6586vja3XMjXpfKpiWA3NpuBRo9ygsIHua14owzH9+2PogWpYWymH0mZ
+GtKWI3HcLfZ4Ij9SFud96wxghYgWlY18d5+uz3Ws9ZqCAKAc6REe4/GTVpFDpHjv
+gjdOpHoejo+vGKaInVmsnLGvVwClROWTE0bTgAb5TfwOHyinkSptjWC8r7WNE6ZY
+5CO4uKiR3awqU4GrUqEu+S3AWVod3Jh4LxbzrP1f5c5I7WN28PJ6uWs+UmXqGWp6
+u0GzD+9lWMmtVBNzrf8iZjBAsQWxmMvP9qf5NgNwafJwXLf3LqpHfX8eJZ+0aBM9
+Ca3ByrDxZeY6QroxMHe7KDsMHHRGzQIDAQABo4ICTzCCAkswDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBRLEPhjDDTJf16NcHM3zL5BgcdSNTAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzAfBgNVHREEGDAWghR3d3cuanAtbWVyY2FyaW9sLmljdTBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2
+AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfekvkJ8AAAQDAEcw
+RQIhALbAYNcjMEKvhZRWlbuYILr596YIoLF3e3IxSUGUkjWeAiAWZwNiNwb6gNlR
+DaOQ8ELnP1oEjQrNMHfZbho9kRkaOgB2AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEA
+KQaNsgiaN9kTAAABfekvkR8AAAQDAEcwRQIhAKGuvphw8i1+9TVfx3UEGl97sDDI
+oIi+zUJsUaZC/1bqAiBsu4m5li+MCooxwP/CkDXQ8PpdzXABGpgEndNqLqJFpTAN
+BgkqhkiG9w0BAQsFAAOCAQEAaP5eSikUxIusVKPJ9RhS+mMploz8osPmIZ6BNuGC
+U4lDfx+y5OyxPDSlzzAdkpPEJJ05X3WYNX3ksviqRAtyPJlXMWkB5GtLrOE+5lnK
+kgzAwmf+eCd+W9M5i0axUnRA3TcJdSE7qVwNemcks61N976b9jgVmdibJb0upss6
+W9/wlrUMXmHS3vvBFkfiLUX+Ba3t2miPu3lSi8inB4r0J43Vy/18hIDG+9LeOamU
+6uSdsRqHZkMdUVmkQQz1f7fq0y9Ftc2D4StQRSGvSttAWeIN5BcFNdt7G1H91I3q
+/F4mOWy9ror3wfJHDsniWWV728p3TA+UogjSk3ZWNpDCtw==
+-----END CERTIFICATE-----
+subject=CN = www.jp-mercariol.icu
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4586 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

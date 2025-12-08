@@ -1,0 +1,88 @@
+https://rtrn.io/17EenOGG1f
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = sni.cloudflaressl.com
+   i:C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = CloudFlare Inc ECC CA-2
+ 1 s:C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = CloudFlare Inc ECC CA-2
+   i:C = IE, O = Baltimore, OU = CyberTrust, CN = Baltimore CyberTrust Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE3TCCBIOgAwIBAgIQD3Y2yokjPp6trNc3zk2BdTAKBggqhkjOPQQDAjBvMQsw
+CQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDVNhbiBGcmFuY2lzY28x
+GTAXBgNVBAoTEENsb3VkRmxhcmUsIEluYy4xIDAeBgNVBAMTF0Nsb3VkRmxhcmUg
+SW5jIEVDQyBDQS0yMB4XDTE5MDgyMTAwMDAwMFoXDTIwMDgyMDEyMDAwMFowbTEL
+MAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1TYW4gRnJhbmNpc2Nv
+MRkwFwYDVQQKExBDbG91ZEZsYXJlLCBJbmMuMR4wHAYDVQQDExVzbmkuY2xvdWRm
+bGFyZXNzbC5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARerpYeCV/I5VDC
+cT6Lclj9+Erh589rOzSV9dvcEYfl4TsK4uNyWmsFkkQ2KH3mXH7aIQQZwx5Clmxf
+h9yW3xdmo4IDATCCAv0wHwYDVR0jBBgwFoAUPnQtH89FdQR+P8Cihz5MQ4NRE8Yw
+HQYDVR0OBBYEFAaPhw1Vxt4psE8FmzDKcbqXExJIMDQGA1UdEQQtMCuCFXNuaS5j
+bG91ZGZsYXJlc3NsLmNvbYIJKi5ydHJuLmlvggdydHJuLmlvMA4GA1UdDwEB/wQE
+AwIHgDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIweQYDVR0fBHIwcDA2
+oDSgMoYwaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0Nsb3VkRmxhcmVJbmNFQ0ND
+QTIuY3JsMDagNKAyhjBodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vQ2xvdWRGbGFy
+ZUluY0VDQ0NBMi5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQEwKjAoBggrBgEF
+BQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwBAgIwdgYI
+KwYBBQUHAQEEajBoMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5j
+b20wQAYIKwYBBQUHMAKGNGh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9DbG91
+ZEZsYXJlSW5jRUNDQ0EtMi5jcnQwDAYDVR0TAQH/BAIwADCCAQUGCisGAQQB1nkC
+BAIEgfYEgfMA8QB3AO5Lvbd1zmC64UJpH6vhnmajD35fsHLYgwDEe4l6qP3LAAAB
+bLUE2RUAAAQDAEgwRgIhAJ30Gl5J4XNI43g649nt0TCIIWg8oVNt9FZtK8MsXgHB
+AiEA7azYTJmOKNSxH9nOxJ77TDbCGRQ7rFfHlIi2wNqzpCIAdgBep3P531bA57U2
+SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAWy1BNi4AAAEAwBHMEUCIGEdCjN+Z66d
+pTRmOWM9FYVG58CT0vDnRe3IrPMToVwqAiEA9nnORYz4bjr3FuThQbCmIeeYSAwn
+3snJTLxpLMAfZBMwCgYIKoZIzj0EAwIDSAAwRQIgViz2mc0oTY9IP+drQct/b2SR
+qQB+LP3SBnyT/Wg1F3UCIQDieCaTT09DiR99G7pgpa1NaapYhUQMKef/4d0COg6B
+kg==
+-----END CERTIFICATE-----
+subject=C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = sni.cloudflaressl.com
+
+issuer=C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = CloudFlare Inc ECC CA-2
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2648 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-CHACHA20-POLY1305
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-CHACHA20-POLY1305
+    Session-ID: 4E48563CFDA0C13BDFF42CD2FF22C56D0FD3250E91DD4ACB60CF85FBDC21F734
+    Session-ID-ctx: 
+    Master-Key: B8608BBF63096BFA4C28A9DC79C20C53686D2FAD0A6FDB492309ADC9F92BFEC14C9972919363F408E714D1351507E811
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 64800 (seconds)
+    TLS session ticket:
+    0000 - bd d2 58 e2 2a eb d1 41-16 c3 32 bf 62 dd 23 01   ..X.*..A..2.b.#.
+    0010 - c9 8c a9 14 47 5f 74 c5-12 36 bd 75 11 92 74 64   ....G_t..6.u..td
+    0020 - 03 5d 62 00 6f 27 93 a9-c8 69 33 f0 f7 f2 2a 14   .]b.o'...i3...*.
+    0030 - 61 e7 e2 a4 6c 3b d3 43-42 23 50 dd cb 86 e7 ca   a...l;.CB#P.....
+    0040 - 0d 20 e8 18 f4 ef a9 a0-4b 60 f6 34 84 a8 e6 b2   . ......K`.4....
+    0050 - 01 74 05 5c ca fc 3b d8-77 62 77 46 dd 8d 31 80   .t.\..;.wbwF..1.
+    0060 - cb 9a fa 27 0f c9 76 1e-a3 82 61 3b 19 32 78 49   ...'..v...a;.2xI
+    0070 - 1e 11 33 41 83 33 b9 42-a2 25 45 fd 61 29 29 78   ..3A.3.B.%E.a))x
+    0080 - 5d f2 61 6f b3 ed 01 6c-0a fe bc 6b 13 ad 26 12   ].ao...l...k..&.
+    0090 - 5d f4 f9 29 cf 24 6c 42-ce 45 33 01 df 11 06 bb   ]..).$lB.E3.....
+    00a0 - 41 f1 77 fc b9 33 1d 2a-65 c9 4f b6 4c ae 5e 59   A.w..3.*e.O.L.^Y
+    00b0 - 4c df 08 ef 0c dc 51 8a-a6 d1 80 71 70 09 ec e9   L.....Q....qp...
+
+    Start Time: 1567342829
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

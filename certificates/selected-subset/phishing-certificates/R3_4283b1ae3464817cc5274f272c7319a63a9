@@ -1,0 +1,66 @@
+https://seetheworldtravels.com.au/se/wavy/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = seetheworldtravels.com.au
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFVDCCBDygAwIBAgISBCg7GuNGSBfMUnTycscxmmOpMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTYwNTQ1NDVaFw0yMTEwMTQwNTQ1NDNaMCQxIjAgBgNVBAMT
+GXNlZXRoZXdvcmxkdHJhdmVscy5jb20uYXUwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQC0JhMi9lkL9Guhid6vMMF4B7Nil8R2VIpvaDpMusF2o3Q9XgJk
+/e8XFFTlzXDbk2CuRPQLy9NL0StaxJyWJsyQW+YFePr04ueyxgiZzny6zj5Ld+r+
+w+8FYgKebSYKdva1f+SNuw+N/L/j6CKFSnXzw/BPQfKarD5gGKyG/EjxidC/cRDZ
+CFhNluby4x/mePeXlBrKtbYGMcgPlx5HjQRVfy/VOnsUC6M7lRa+wqwPfNzd0fV5
+cx0hSFZkDQs528o0FIg6sZHFiLUMFY113850fX+4H/TaCus8Mt4v209PNTjEUoHB
+jt2jzzFNKo2M9A0Lgf6M678SYMxaH55jlg2FAgMBAAGjggJwMIICbDAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFLcSXBNAJg7yzXaEqJtgqYIPPOPEMB8GA1UdIwQYMBaA
+FBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcw
+AYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMu
+aS5sZW5jci5vcmcvMEEGA1UdEQQ6MDiCGyouc2VldGhld29ybGR0cmF2ZWxzLmNv
+bS5hdYIZc2VldGhld29ybGR0cmF2ZWxzLmNvbS5hdTBMBgNVHSAERTBDMAgGBmeB
+DAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxl
+dHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AJQgvB6O1Y1s
+iHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABeq4QWk4AAAQDAEYwRAIgE8/sLBWX
+HgFMsxb3qGgwbfOYtYc6AdLeDTyqKad08E0CIBWUNxtWoXzieMmXUqH7GhoJoMkV
+Xy3NlHSjcyq9Yfx6AHYA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMA
+AAF6rhBcRwAABAMARzBFAiBVU1c3kJLiFmY94vQgoBJwPUv0b9m8A7pwoq4C9ehx
+BwIhAJaarcm1dwjmmR8mjCyxboLh45WGWDyCbP+ksDPyqBiYMA0GCSqGSIb3DQEB
+CwUAA4IBAQCW0m8wytl5vWn1QRHUP3PeZ0VaVnjN7dacmTi5yXTvbOoXfOdFwRD5
+hlfK7EkYfwLlAbPG1P8tgHVJxi5eF5u3QC74x/KdwKb9db9mD5NIkcPR299Eab92
+HyfZe/Lg79OXHMT5muB1r+cWvibowBdQ3M2xGJRHapPbpw5mc3CMudy39etIpA+0
+o1o9ESG/2iEI0yJUIwFoHv9dLDiH3ARfpSsj2e1QT4KL0iglHzckG/ki4GgI7sF8
+eLK42BUmndoOTk5q/xICWBuKwBI/V022ZRAqPrHjnuszmTpwdEvkeO0Oslw8VJJq
+tTRrjKN6DfPfWtbPITtqhXQvJ+qcE8fM
+-----END CERTIFICATE-----
+subject=CN = seetheworldtravels.com.au
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4624 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

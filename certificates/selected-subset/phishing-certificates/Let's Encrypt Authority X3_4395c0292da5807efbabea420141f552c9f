@@ -1,0 +1,91 @@
+http://rc.edu.bd/wp-content/driveone/044cabdeb5e9023545b998a41f7fc055/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = rc.edu.bd
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFmTCCBIGgAwIBAgISBDlcApLaWAfvur6kIBQfVSyfMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MjQyMDEyMjVaFw0x
+OTA5MjIyMDEyMjVaMBQxEjAQBgNVBAMTCXJjLmVkdS5iZDCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBALkltYSsAN2wMTNZ7Sj/0inaeexVoAD3IfsaIBNN
+c0mOUXa+hVpbh9DC7MnXbWDZr21ql1VYuEox9LSjVe3qc4oc7JuGaog2Bp8/MmgQ
+p+tbYOEd4rCOWqAjJ/jYIJ5M8e5kEYFgSiedM35cieP1VSdMFOymn78GT6Pim45j
+b8f0arhEIrwVQzpCO04wYUKrPJTSndvD4TsEbpaL+QNYf60/LiRoX4K5VWtf2xFF
+iu72ADRxS3PnqjADKQmmNGvYi1cui4DOS6+5KIpxmaghL/fY5fSzb93YHI7oQGgF
+VokNLBBJ/YFvV7dxHgzjEkxpMjXm1rHAZwYa9BiXT5UGdmUCAwEAAaOCAq0wggKp
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+DAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUhJdi3UPtwASdI+Vzvk77VhI+qV0wHwYD
+VR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBhMC4G
+CCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3JnMC8G
+CCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3JnLzBj
+BgNVHREEXDBaghRhbHVtbmlpbmZvLnJjLmVkdS5iZIIObWFpbC5yYy5lZHUuYmSC
+CXJjLmVkdS5iZIIYd3d3LmFsdW1uaWluZm8ucmMuZWR1LmJkgg13d3cucmMuZWR1
+LmJkMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYB
+BQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIE
+AgSB9QSB8gDwAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAFr
+i1U0HQAABAMARzBFAiB1frOE0wSpgQNU+gNmGxlhUinK1b0gfRWrKzO0qIavRAIh
+AK0Fjfjj1gCCuCQRuk2PHZlB8AH1qtXjO7ZvwKLAvdWqAHYAY/Lbzeg7zCzPC3KE
+J1drM6SNYXePvXWmOLHHaFRL2I0AAAFri1Uz8wAABAMARzBFAiAvkfrrZs8+3KJi
+cZ5jLE2ulyz5aMV+w6dZMtzzlhRALQIhAJuQLrQkDPdiYykEdbbzVqmrNds75NfG
+BLFLaexoCi3BMA0GCSqGSIb3DQEBCwUAA4IBAQAxKIlG7Am9AecxSY0ot5IMwoho
+23ixYcP+1u6QlluL6Qw4IqA2FxP9uZxNo/AgfVxkm6g5gQsoQJUEE+GrFImaClbg
+/kF+Y+La7C7GKgfFA7v656QD1hvYzlkInx6o0SlcMus45NqHRDuWwp0mG3CQw692
+XBx67/twFBS3iEcDB5rpwRHR7WRjztdOaX8VDyGahHFtbJKW3e21kLROQVYZ2xuF
+tW2QthhdpQ34ivUQUJDSgpqZ3+RvwvxXAKl++QbBudm/n0o1Ax0cjBXTjKiKKmDb
+SAWl60m0qBIyMeE5hEvE5yWM2uGkxrNaFyx1bWlaDF4FHrtSWVpFans1Mewr
+-----END CERTIFICATE-----
+subject=CN = rc.edu.bd
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3275 bytes and written 414 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 990FBDFC4066057291A1AD23DC3B2713D5980A9491B6F8F86E399224F2895743
+    Session-ID-ctx: 
+    Master-Key: 3E608A4B3F85783F98DE33BA093FF609702A43F340A841BF38D242346CA355D573D6636EB7E1B644FB1FA652320B9C13
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 84 24 b8 a3 9c 35 ba 2e-68 00 bc 60 19 9b 5f 13   .$...5..h..`.._.
+    0010 - f2 89 54 fa f9 00 da 0b-98 30 a4 bd 84 8d 27 80   ..T......0....'.
+    0020 - ae e1 26 81 3a 4b 4b 53-e1 df 09 9b da f8 da ac   ..&.:KKS........
+    0030 - fb 6b 5e 6a da 71 49 5b-b3 ce 98 bd 07 24 bd c8   .k^j.qI[.....$..
+    0040 - a7 eb cf 16 37 3f 1a 5f-55 c3 2e 26 ab 67 f1 b7   ....7?._U..&.g..
+    0050 - df 37 9a 8d 83 14 a2 31-96 cb 88 71 26 2c 62 b4   .7.....1...q&,b.
+    0060 - 54 e5 cd 12 f0 d4 c4 07-b8 23 b3 7d 48 3a 40 b1   T........#.}H:@.
+    0070 - 1b 49 ff 02 ee 09 06 d2-13 d6 b6 f4 0b 8b 38 9e   .I............8.
+    0080 - 40 2b d8 3e 8f 61 d4 e0-cf fb b2 02 9d b1 17 3d   @+.>.a.........=
+    0090 - cc 06 40 f3 4e b7 33 4d-4f 34 45 e0 b9 15 e4 0f   ..@.N.3MO4E.....
+    00a0 - f1 f1 59 34 0e f5 61 53-98 e8 ea d6 40 97 79 c1   ..Y4..aS....@.y.
+    00b0 - 33 92 0e 13 c7 79 24 81-5c 49 b5 6f d8 a9 96 80   3....y$.\I.o....
+
+    Start Time: 1563714035
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

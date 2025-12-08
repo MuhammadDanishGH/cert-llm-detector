@@ -1,0 +1,72 @@
+https://ezelo.com.bd/apps/IK/of1/qyldhp2sfwvba1x94jt7omnru63zk5e8c0gi3rlygt19uz0oiha5mpxsq47cdke8wfb6jnv2zf86wkbeu0tsvm4q9l7r2dnocgyi5a3xjp1h?data=ay5zbWVyYWdsaWFAcGFjY2FyLmNvbQ==
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ezelo.com.bd
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGhTCCBW2gAwIBAgIQA03SHdJBOfbBQJaQpNpFwDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTAyMDAwMDAwMFoXDTIyMDExODIzNTk1
+OVowFzEVMBMGA1UEAxMMZXplbG8uY29tLmJkMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAnRUtABSJCHzf+CPnLW89D7hSUI0T6RNloEHVx0NhPyXAeM79
+n3YwI4ah1ZtMJ5Sa3KmzQjSql61VWGSoF3JTrUGHNkbvKtaw5+BiaBeclmkhVkay
+ruxeAI7YhugSsP0Z1mBy1k7hHneIEd/E4bGcAZiv5Fzp83VhxOtdyWnISs6xYO8s
+ekVve4KruARqT8ctyLwbKdQyeMjtej1WWkgeYWrfDgGU8bxWs/ICL79juxdgwdSY
+w//M4csMaNPhaKUCpbsidEalIabbQKQ73UXR8b8cDn8M00SrO1vVgMpPzbgcZwyv
+H582HGZh0eU/JLKtemYUF3SHIJ7HdQAH4kLavQIDAQABo4IDcDCCA2wwHwYDVR0j
+BBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFHCk7M6lBrkyUVOc
+J7FinwtHsVSDMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgI0
+MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAEC
+ATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9jUGFu
+ZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRxMG8w
+RwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbEluY0Nl
+cnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2Nz
+cC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQBGpVXrdfqR
+IDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXycEQ0FAAAEAwBGMEQCIFBdeNhN
+FU7D8c0lgBg4y/Axd1+TQ5veCosPKs9LjB3SAiAlGUFHOT7XfkFCzGYy/0b76QcH
+yjvVEsZSAE7KDlNqGAB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2
+AAABfJwRDMwAAAQDAEcwRQIhAONqa22WPa6YPeLw4fui8gmiTgUTL8KxIHru9kJM
+CC6KAiBc82xZhuwwnugHNkz9kyc0wUwfNCB6s9GJT7amKYqw0TCBzQYDVR0RBIHF
+MIHCggxlemVsby5jb20uYmSCGWF1dG9kaXNjb3Zlci5lemVsby5jb20uYmSCE2Nw
+YW5lbC5lemVsby5jb20uYmSCGGNwY2FsZW5kYXJzLmV6ZWxvLmNvbS5iZIIXY3Bj
+b250YWN0cy5lemVsby5jb20uYmSCEW1haWwuZXplbG8uY29tLmJkghR3ZWJkaXNr
+LmV6ZWxvLmNvbS5iZIIUd2VibWFpbC5lemVsby5jb20uYmSCEHd3dy5lemVsby5j
+b20uYmQwDQYJKoZIhvcNAQELBQADggEBAGqW/UwkMWe47aCDL7netUbrTYtKIOEG
+TyZ9HGpc/qCf/aoq+LEYEKnX876I/QdrKAUeQeWMSnSHHdZRPRl8oehLkFuExsR3
+LdYcA7F8p7Y/cOLqsy8myFwmqcDht/XvSCyoZbbIxT0dKVZct2AGTIf6iTG/3KPO
+KwBEif25iHpH7Gk+1Dl/N4OsJkdHv6vyCY6cgDtoUc5pa7cHP8hcMRdshhpPiv3n
+QGup1i2kK7vIgffd9TVmT8dHxpMsuWQ2gAuenBuF0CEc+dzVsm9kOswL+N9h2nAr
+bdN0I3PeazzDnjzVsu8XpTLxnGoNCrn+SEJeV1EuxrM+n6e4gr5WGzY=
+-----END CERTIFICATE-----
+subject=CN = ezelo.com.bd
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5178 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,73 @@
+https://paiementsecuriser-portefeuille-leboncoin.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = paiementsecuriser-portefeuille-leboncoin.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGkzCCBXugAwIBAgIRAI5SZv1wfh6zF1vzk/pWCkEwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMTA4MTYwMDAwMDBaFw0yMjA4MTYyMzU5NTlaMDcxNTAzBgNVBAMTLHBh
+aWVtZW50c2VjdXJpc2VyLXBvcnRlZmV1aWxsZS1sZWJvbmNvaW4uY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsyu1X3+4xD1GyFj4rR8wPXoYRUCq
+ukS6fxsnSa9AMku1eXwgmgifVtMQ5zRgYrZaegr8nBvoo/jHdfr5WedK8CGaMq0v
+TjTN7zYB6zgQBOcLibZ2bSaDT1kXgT9YN22TbZ8xKVKgw6UmcFim4TEjJwJfb8gM
+a217XFeLSKlFY8bjzkGzbaIWjYBsG1AWmkWTlvLytjc3TdYsPJw1HDtEEMAoQvR4
+cyy2cYF3RdWmnsNaj1G38YKdwiiLMNhba8b9r0t+wmkL86W1advI+ch+mO2PfE30
+WD5x8XiTResSVGJQQnIRXhKn72SzvZIzknFx69dcMI+hgAxYa2v1lLQXLQIDAQAB
+o4IDPzCCAzswHwYDVR0jBBgwFoAUjYxexFStiuF36Zv5mwXhuAGNYeEwHQYDVR0O
+BBYEFH6+5xp1q+CYXg9a4vX5NX9geP3gMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMB
+Af8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBA
+MDQGCysGAQQBsjEBAgIHMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5j
+b20vQ1BTMAgGBmeBDAECATCBhAYIKwYBBQUHAQEEeDB2ME8GCCsGAQUFBzAChkNo
+dHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29SU0FEb21haW5WYWxpZGF0aW9u
+U2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5zZWN0
+aWdvLmNvbTBpBgNVHREEYjBggixwYWllbWVudHNlY3VyaXNlci1wb3J0ZWZldWls
+bGUtbGVib25jb2luLmNvbYIwd3d3LnBhaWVtZW50c2VjdXJpc2VyLXBvcnRlZmV1
+aWxsZS1sZWJvbmNvaW4uY29tMIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcAdQBG
+pVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXtMhzEIAAAEAwBGMEQC
+IGfR026caSnkKSCeO3JkIvK5Xl4uOCo/lUOQismBcKhrAiBAcxj2J1dKmj4II+RH
+mecmCoUy6V6NHbEYYfZqk9SZKwB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do
+8JBilgb2AAABe0yHMRUAAAQDAEcwRQIhAPHXwRKJFw6Q9BuHsQcs0ao8mJV5mjtP
+fXFlDEUyq9rFAiAQQOdqlQ53HHGZUDNqxJYsH/7ggM000bw3SQ4gUmubrgB2ACl5
+vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABe0yHMN4AAAQDAEcwRQIg
+JpLYXhYb6wGHwcx7WjmnwI5RVVyLwczRVjb/i41vzVcCIQDBGkA1dOsjCM8+z/Gs
+4TOKoL6dAwC1+QDoIxGoMET7nzANBgkqhkiG9w0BAQsFAAOCAQEACiHK/hlQf3KB
+dQE46ZNtiLeWnjDgzgNDORqVyK4TGntbHQC+ckILbF8gEjs0AgZrU5KendZfnQcv
+HSxCkRqKQzfF3o8eYn2qnH1ybbynwrm9YUMRsz683rXKIJzKbcDBULNM93SjGTGv
+SbNASKbvXg4IKBV7JHCJKp0P7nps/RssLBGznO+UCFV26j134IfnaByMukv2kG25
+K/hyO2dHQaiLBkLhfTImtsZigb0EYhU/xZtMVaDYSrzMek1nIhxXwQrpDkK4s+YP
+ENGZZHqaU4gpfI979TJQT3qFS7jPX7FnzoHPILUnPXtRgA6mSrh9gHb6JgeYkIGG
+9njUw44+5Q==
+-----END CERTIFICATE-----
+subject=CN = paiementsecuriser-portefeuille-leboncoin.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5229 bytes and written 426 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

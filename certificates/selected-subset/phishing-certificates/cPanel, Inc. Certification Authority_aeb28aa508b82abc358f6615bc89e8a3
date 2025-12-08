@@ -1,0 +1,73 @@
+https://drhassanalhagar.com/redir.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = drhassanalhagar.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGqzCCBZOgAwIBAgIRAK6yiqUIuCq8NY9mFbyJ6KMwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMjAxMTEwMDAwMDBaFw0yMjA0MTEyMzU5
+NTlaMB4xHDAaBgNVBAMTE2RyaGFzc2FuYWxoYWdhci5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDiSmRKhg0W17nNDV553Yly/NyOkvKuGH1geCSm
+luttJ7tjrOKCvnKsu6ALZ5Pz0ehe6A48aH8jZKFw0JB5ViZIwbdO9L+qtCtJyszm
+575pjKDDWNnafzIOv/b1MTVZAMqFM0j09eXLWT6HhBRRgud6tvP9VlBk720/gYFW
+RXE8RS50Hh45JKYKiK9Xz+SthHWQzDbqoPm6prBHETU4UNH3AbhGIuFPMM9VW0sl
+Q8bV4gKcUThCShrXxVgBX8Pke+fZUIVbNoUaggJQ7K8rhX1onu2l4nazAgyoTR/K
+WHP0AV4he/f6lQsdbJ6kPRsZuekUh+DbhqWbEnwerZK5q3oLAgMBAAGjggOOMIID
+ijAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUIYt7
+2JAE+H8c8VSm1xN/kktSOyAwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYB
+BAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMw
+CAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUF
+BwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1Bh
+bmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB3
+AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfkt2wbAAAAQDAEgw
+RgIhAJbDpQPrOmoJEVB+Uuaw9vndzI0OULpgyGsGV16Uxqp4AiEA9pn3nA9Jgr4A
+W3JyDRn5a3ducdeKZfK+LvTam+dtyjIAdQBByMqx3yJGShDGoToJQodeTjGLGwPr
+60vHaPCQYpYG9gAAAX5LdsFwAAAEAwBGMEQCICMsGxkErAsJSV/yjz1B/9CXLnsy
+nphhoIp/rN6ZKp2IAiAL39CpTVD7uTMLL+iupR+kN7mgGspWbuwr7PAUSMLogzCB
+6gYDVR0RBIHiMIHfghNkcmhhc3NhbmFsaGFnYXIuY29tghpjcGFuZWwuZHJoYXNz
+YW5hbGhhZ2FyLmNvbYIfY3BjYWxlbmRhcnMuZHJoYXNzYW5hbGhhZ2FyLmNvbYIe
+Y3Bjb250YWN0cy5kcmhhc3NhbmFsaGFnYXIuY29tghhtYWlsLmRyaGFzc2FuYWxo
+YWdhci5jb22CG3dlYmRpc2suZHJoYXNzYW5hbGhhZ2FyLmNvbYIbd2VibWFpbC5k
+cmhhc3NhbmFsaGFnYXIuY29tghd3d3cuZHJoYXNzYW5hbGhhZ2FyLmNvbTANBgkq
+hkiG9w0BAQsFAAOCAQEAbSxhZR1jAbyTn/a8Mbe8eAVZHOKPcKfE40s7fpBxgduJ
+tv6M4S6LA2sPMqcARMZx7oyzFfcKLG6ty2ctd6OPA0M5WVVk/w11gpINRcUDFxG7
+YMn4KHeSnYeE8BCxzHZwtEug8EcS2mOnQiG6vC7dupmOxBYVR+umhSmlM6+xYLaW
+/49DDEza+t0849PRtpMPhAuOAEyPs19ySSLnUQo5tmQAVDL67B2J4guJGikBds46
+YTalVTMPppCiwxknCQJWAndiYT9QDMbZF90rMZqZb6DJRa5SaM66Y5yUt4VFbIhv
+1vzxxoMJAR3c6TFBTluva2JK4J3aYJFPhKJoV/XLcw==
+-----END CERTIFICATE-----
+subject=CN = drhassanalhagar.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5216 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

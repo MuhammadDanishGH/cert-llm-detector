@@ -1,0 +1,70 @@
+https://www.instagram.com/itaucardbrasilpromocoes
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:C = US, ST = CA, L = Menlo Park, O = "Facebook, Inc.", CN = *.www.instagram.com
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert SHA2 High Assurance Server CA
+ 1 s:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert SHA2 High Assurance Server CA
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert High Assurance EV Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGaTCCBVGgAwIBAgIQDIrRjASRZMMildgmVZMQJDANBgkqhkiG9w0BAQsFADBw
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
+dXJhbmNlIFNlcnZlciBDQTAeFw0xOTAxMTAwMDAwMDBaFw0xOTA0MTAxMjAwMDBa
+MGYxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTETMBEGA1UEBxMKTWVubG8gUGFy
+azEXMBUGA1UEChMORmFjZWJvb2ssIEluYy4xHDAaBgNVBAMMEyoud3d3Lmluc3Rh
+Z3JhbS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDS/Q7IbCOF
+Xuc9QRVwJOLbXOng/UJpxO0GxXCeuekmRK2bnCd5bgB8SOqSEVUFzKgba/gGyJad
+NIt5uVINqiZhkqyS6w7eIseim6t6/osAgn0bThxjNMmwByivF1xBwNy5k0nZXQYb
+U040Ql/TTtpgCGof7YiCrXb/CjtEdtT5LAEMlV4N7uKzUYvYlVV2UeBVD2JUXixv
+A6jcgvmaMrY6HkGMYBoJt1o/TOtqbp5v6YoutSrsH6//shwGE3pc3oD4up+fCYfy
+GCzQFI2fHSBhjVIyzCi+BKL2kxB8Qsn4Hu0Zfe3yBdKyujeDBrmLY1Fr7aa8Xt26
+/ThrPZ+1defVAgMBAAGjggMHMIIDAzAfBgNVHSMEGDAWgBRRaP+QrwIHdTzM2WVk
+YqISuFlyOzAdBgNVHQ4EFgQUgniYfov4ygftnz9/sQy2s53V9VswMQYDVR0RBCow
+KIITKi53d3cuaW5zdGFncmFtLmNvbYIRd3d3Lmluc3RhZ3JhbS5jb20wDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjB1BgNVHR8E
+bjBsMDSgMqAwhi5odHRwOi8vY3JsMy5kaWdpY2VydC5jb20vc2hhMi1oYS1zZXJ2
+ZXItZzYuY3JsMDSgMqAwhi5odHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc2hhMi1o
+YS1zZXJ2ZXItZzYuY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAEBMCowKAYIKwYB
+BQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMIGD
+BggrBgEFBQcBAQR3MHUwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0
+LmNvbTBNBggrBgEFBQcwAoZBaHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0Rp
+Z2lDZXJ0U0hBMkhpZ2hBc3N1cmFuY2VTZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIw
+ADCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB3AKS5CZC0GFgUh7sTosxncAo8NZgE
++RvfuON3zQ7IDdwQAAABaDmrhJEAAAQDAEgwRgIhAL0SKrIhQRIjnT/VHK3XIQyZ
+wrchTVpAcwDfHqnMVPhiAiEAzub5N4jDncX4C6e5SdSifVLBIR1VmVL2bwsgM5PW
+uikAdQCHdb/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAWg5q4VuAAAE
+AwBGMEQCIF2mB2t2dHoSo9wbLztwT5uU8hHF3Z6aeAX4M8EY0ieTAiAb1ovhYXip
+0kM8tdI85k1S/PuDOEFNPBAU31jwg1JacDANBgkqhkiG9w0BAQsFAAOCAQEACO16
+PT1hbAN/TQPDY0kVKlsdqoXGgwlGLZFjE8FiZM2efzQIuXIv1dXt6i53LX4WI8zA
+6yATJ9lO3g5UnOygwFC6CiofRcOrd91+14X1Njx0T7EBhZRhqLwWMOZ4lAWd6xkw
+MKvBBiigz8pvKcFWv+l02SaegRDvImvpJ+C868ifYY2WPGtVfcZl8lWjFenPHVcx
+/d74hfvcJQmY0fei6MwF99PN0daE0NjXjcxndxzl8LhMpLo5WbLn5tZwvDQMmjNw
+xt5RzURBo0PjKC05XEQ+VnZDDI0B+XhFfky56OOYsmmoDZ0nojks2tZp02JnJrUC
+ONHrFGtQfNgi5Bp1Rg==
+-----END CERTIFICATE-----
+subject=C = US, ST = CA, L = Menlo Park, O = "Facebook, Inc.", CN = *.www.instagram.com
+
+issuer=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert SHA2 High Assurance Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3373 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

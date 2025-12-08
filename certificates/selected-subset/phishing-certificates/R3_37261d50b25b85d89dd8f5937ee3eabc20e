@@ -1,0 +1,72 @@
+http://latexspuitenamsterdam.eu/wp-content/plugins/easybusy/.../load.php?0=dGVybWluYWwyMUBnY3Bob3RlbHMuY29t&amp;guce_referrer=aHR0cHM6Ly9sb2dpbi55YWhvby5jb20v&amp;guce_referrer_sig=AQAAABA99NmGR9iNQOyU5mI3ASjQfYjcPATD_A8modgjxpNXYNmo8n5zxdi8EZV7GFYPzoSc_RpMz0hYfdCk0OLmxnMB6tpfZnd5ENc
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = latexspuitenamsterdam.eu
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGcjCCBVqgAwIBAgISA3Jh1QsluF2J3Y9ZN+4+q8IOMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjgxODAxMTFaFw0yMjAzMjgxODAxMTBaMCMxITAfBgNVBAMT
+GGxhdGV4c3B1aXRlbmFtc3RlcmRhbS5ldTCCAiIwDQYJKoZIhvcNAQEBBQADggIP
+ADCCAgoCggIBAOSAsq6pnI5+LsJwTxj7xD9MdjrjsMXF/TizjuRrGfA3TV4Cpi1n
+3A0hFt2Z9m4zQHLJ0ORXOsAv+8gwS5bTHXrDgLbSmEqvVeerqNORmU0++xg4/MLg
+Zgr4NzNiYbpsG8SSWvpnW341xH2tIgyBff2JH04uSD1hNyzBg4rO8qckKfAYhf/S
+OB20gmAbVhKkElxyPQHVVDjSh/S/VP0n0bu9mRRmZaq/q/nglsqmjiaYiG2AOMIw
+8a6lCoU98iLPiFjxN+nF+GR4jtLaJeQ6NfTM4/aaXsv2sR1dnCBNhU1vkrSrQOU2
+7HsvdCQJk8qOJkWM4xQRkfj/WzPSKHjKj6mELOP8K/+8Bgep3txFdcqiSEPD0rLn
+VJqyvGh6BXFXG44r607SoxIHY5mVhMT9fhqS+P7nI07+IZUIHAXxqJ7PuyO0IyFf
+hPkvx7UiKKHDN0XRAzP/xE+9hroXGufbEHktTWk5rtEQ6WXDyc73hckSjcTJBYr7
+DDDRCwlPuEK0stQmuvRka99moCSJMbn1LG5zM0g0no/xn1pAcPxpzuWupXblg/A1
+dmCvfWbcdAtR5qT7E6JbVt9Iq8X5ron9bBq88Umjg75dkR7+TXiclcYiENphj9Ia
+zc9DSdOxBWfEQbMhJPpxVGDII08CdAioR2nK515ISz3M6BdRouKKbx/LAgMBAAGj
+ggKPMIICizAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFIWR2L74Vbaj9t0YujKN9Ab4
+eoQxMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEB
+BEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUF
+BzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMGAGA1UdEQRZMFeCGGxhdGV4c3B1
+aXRlbmFtc3RlcmRhbS5ldYIdbWFpbC5sYXRleHNwdWl0ZW5hbXN0ZXJkYW0uZXWC
+HHd3dy5sYXRleHNwdWl0ZW5hbXN0ZXJkYW0uZXUwTAYDVR0gBEUwQzAIBgZngQwB
+AgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRz
+ZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQBByMqx3yJGShDG
+oToJQodeTjGLGwPr60vHaPCQYpYG9gAAAX4CavaIAAAEAwBGMEQCIHnRqTZzyHXZ
+bzh49dRuI1s1Eg0XtWOFkl8H3dMaCtV1AiBw+nXOUqVf8f4IViKl6vaqAANyDu+Z
+/Trya3EPKbUbUAB2AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAAB
+fgJq9qcAAAQDAEcwRQIgJVTp9/ibSf1ERpCYjDrbmeHeYvOOq1akPDJ2wyrckQcC
+IQCQozYFoxpgTXuQrDZCGXVWWLUga3AN+X8tRH8S5O8F9jANBgkqhkiG9w0BAQsF
+AAOCAQEAeJquQ8e6XNqoAIvivyJc+zhA3Y5BFDSPNorQ5ascs2J6U0At/lYUIySy
++tuAsg7qe3mf4wyspfX9qvAs0mwLsgax8w6guMmHWSn2buWO/mlj/cz5KfIvPvpo
+BpkRyAFj7vsTjfA9AIn1BuPoP6+UWw3Ev3NMw03o2ZAgneBzpy3YoK3ACa3f9vsm
+DArZ06FQP8i43YPyyKOv4bOCwZGzNF6zn2DRi6cUcqEoWpQoC0fex4fwEqD8vvFT
+YulfRxbxPT8eYctWZswFEOMUg4xakEv3QHeidN9Q+jqs2HCX3utFZczuQw8cJUms
+YzSRqep+5ll6MPJ/zhGQq1MuNexlBw==
+-----END CERTIFICATE-----
+subject=CN = latexspuitenamsterdam.eu
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5150 bytes and written 382 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

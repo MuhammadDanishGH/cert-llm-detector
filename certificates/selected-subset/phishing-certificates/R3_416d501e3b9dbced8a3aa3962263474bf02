@@ -1,0 +1,68 @@
+http://test.xperiencegospel.com/.tmb/chase/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.xperiencegospel.com.ng
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFyzCCBLOgAwIBAgISBBbVAeO5287Yo6o5YiY0dL8CMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDUwMjU0MTFaFw0yMjAzMDUwMjU0MTBaMCMxITAfBgNVBAMM
+GCoueHBlcmllbmNlZ29zcGVsLmNvbS5uZzCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAMuiGcDb1x/4wsHrojjcRePt1HLvrU1JamtrpgriNenfQn8APp7L
+MJXfDxRKItHOeNbzBnA74+EvPK9eVExs3Ff+VrR8a2/Zkk5vsxstpeAkRquaY1vN
+jnmMLkLZBqKHfFN3HSpXXRw/YAY3wRzZ8Cu7UmPjhl8CUVenq4jM+70vedRltsiP
+7L9akue+kvTyDLM1HIkOygUxyNWrsUFK4lpdBma89UxJ9jkj5cbSqkaMX1FF5gGk
+g/PqXvGhUk//rjiTr+5z76RfP8aUVlAXKlkf5NbteBrpiCpKU5yyWB3kqIuiIiUJ
+t7QPxhdPW8GjQSWaBuyCUcwxq4CIRrpx+4cCAwEAAaOCAugwggLkMA4GA1UdDwEB
+/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/
+BAIwADAdBgNVHQ4EFgQUjtWfeElb90rhVq1kQVJudbSdnV4wHwYDVR0jBBgwFoAU
+FC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzAB
+hhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5p
+LmxlbmNyLm9yZy8wgbgGA1UdEQSBsDCBrYIVKi54cGVyaWVuY2Vnb3NwZWwuY29t
+ghgqLnhwZXJpZW5jZWdvc3BlbC5jb20ubmeCG3d3dy5tcDMueHBlcmllbmNlZ29z
+cGVsLmNvbYIcd3d3LnRlc3QueHBlcmllbmNlZ29zcGVsLmNvbYInd3d3LnhwZXJp
+ZW5jZWdvc3BlbC54cGVyaWVuY2Vnb3NwZWwuY29tghZ4cGVyaWVuY2Vnb3NwZWwu
+Y29tLm5nMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHW
+eQIEAgSB9ASB8QDvAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMA
+AAF9iLpS0gAABAMARzBFAiAw5PRC3HLgYgcN+9F3DHmG5qdL4X3Yqh8kplld+ZgL
+nQIhAKgT9lLtcQDNQB5Ccz7iqxCTQ4h3/JABizmOYedYOnHwAHUARqVV63X6kSAw
+taKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9iLpS0QAABAMARjBEAiAtREBAzFvp
+rIJ0H9HuG38v/7SdTsySSROMH6ziubpqWwIgFAAvLBMmakTIv468XYM0GRDZsIRS
+/J4g9OTdfLVRz5gwDQYJKoZIhvcNAQELBQADggEBABsnKWOBMhCgWt6qb7qKYK9h
+DFozPhWYENboA2QTAVEht9jiTawSZSqA/2jtQM03LpzDxXzRM/OrjoSCuvzKeEFq
+3SBmFxqLXxqmVOV+v+sAvD5JIzTyLz5bKlp/V4ALJg2EkwjfVgdV0CdpmFT84jls
+WEZOpF7/yiP0jfpCDK0aj5GiATlxW2kLNTZdMhHr6tmRV8ScAiqfkDHPC5//ExpP
+FPJ/8PV5wREPieGvJAQX5Q1auT+k7AG9uXg61YcqrnTZcfM8FgSicHmWnwiVuXKO
+ECGEGfy8y73kEcIlCGVebMYCDqjGqWDfaRGdPAr2bg4IKyh/ik56I6isGiwDnuQ=
+-----END CERTIFICATE-----
+subject=CN = *.xperiencegospel.com.ng
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4673 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

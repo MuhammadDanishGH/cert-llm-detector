@@ -1,0 +1,70 @@
+http://metamaske-extension.hmongtimes.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = metamaske-extension.hmongtimes.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGIjCCBQqgAwIBAgIQdyCXE7A34fPMpoTPXO93bzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDkyMTAwMDAwMFoXDTIxMTIyMDIzNTk1
+OVowLTErMCkGA1UEAxMibWV0YW1hc2tlLWV4dGVuc2lvbi5obW9uZ3RpbWVzLmNv
+bTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAO+9+ByTfH4OW7R8lPM3
+jban3kUc9NF7zDybeG5EoVXJgukXOj2kLG60YLiqbvRJx6K1erqCsXADa95Hjhax
+0apL85Jg44fACoJEOv3Vx5Ba0rI9pYxwWGYlJQg+dgGEELr5gjFvm1I+GQQbODt1
+JTQ7HfGk1ZXKHSjLppvIEUVQXltb4s5+6gonD8/10nzCVbmtarh1PibVDOCsYFlk
+9YTCbiNR8OV71DTLEI8tKfLDrcGD6nVKb8Thi5kxylnNn7wIt+adezqI+w2Zadat
+XnM4FqxEEvOHWiPqGQZxvSScTZ6OSEzp1uq9VN2trNazGMIct/HZ+jUnuHEOvDDd
+BX8CAwEAAaOCAvcwggLzMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdl
+MB0GA1UdDgQWBBTGA/hcfBgjMhwug/eHcAVS9aM0UzAOBgNVHQ8BAf8EBAMCBaAw
+DAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYD
+VR0gBEIwQDA0BgsrBgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3Nl
+Y3RpZ28uY29tL0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDov
+L2NybC5jb21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0
+eS5jcmwwfQYIKwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNv
+bW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAk
+BggrBgEFBQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBAwYKKwYBBAHW
+eQIEAgSB9ASB8QDvAHYAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcA
+AAF8BxtX4gAABAMARzBFAiAyGxcryCF4IFpMIBubFQ3DmRASZIHrKTML6XG5gV/t
+kAIhALwylLUV/YfTS6F8zlS1OznUXixbKXAiXY6jIl8WJ+cvAHUARJRlLrDuzq/E
+QAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAF8BxtXoAAABAMARjBEAiBaeZAg+M6N
++rllA0PnKKkFOqBnEm5vAwNeUfl38QtWUAIgdeNy8YZLTdPBkbyaRQEShpSnZ42k
+wxXqh7ja8krg9iowVQYDVR0RBE4wTIIibWV0YW1hc2tlLWV4dGVuc2lvbi5obW9u
+Z3RpbWVzLmNvbYImd3d3Lm1ldGFtYXNrZS1leHRlbnNpb24uaG1vbmd0aW1lcy5j
+b20wDQYJKoZIhvcNAQELBQADggEBAGCzWlWUOOef3i2ctgcXp3B+APFgjg2kMQcW
+qXN8HlF4DBVExHJeqICBZYOIQoX5Hm1N52vf7BVd1RVgGTYNLpBYRg0LEbB1E86+
+40W3HXGnsuHdLQsFtn5CaLAlol/6i0Mu5H2TSRUp3blpPhmPVxjoYiPBsYeVXIX6
+JT8F/feyGT+a6CLT1uR5ntumPxSe5hl9Vre0ETGW7hHYcf4uU1dZcqVfNbMjaF47
+VbtT3JNbjcFhseYrLarEG9RMb2S3ebQC/QKVvyPlSmqF4jFgTRw9lqfvsI8lSov2
+E0AHh9pIJLOF9jY2YdK7BnGhC2grenZa7P6/XI7qL4Y2s8rvooU=
+-----END CERTIFICATE-----
+subject=CN = metamaske-extension.hmongtimes.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5079 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

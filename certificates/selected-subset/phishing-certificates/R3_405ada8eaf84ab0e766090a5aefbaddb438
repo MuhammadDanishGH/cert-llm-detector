@@ -1,0 +1,64 @@
+http://aprimoradodadesco.com/Seguranca/html/classic/index.shtml
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = aprimoradodadesco.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFSTCCBDGgAwIBAgISBAWtqOr4SrDnZgkKWu+63bQ4MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MjgwNzA4MTBaFw0yMTEyMjcwNzA4MDlaMCAxHjAcBgNVBAMT
+FWFwcmltb3JhZG9kYWRlc2NvLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAMn/P77HgmiG6X1q+q2Z5jZ8IJwbJ2Srhufsk55eESJfD9XhTOyNvUk/
+AuUY+I9gBLb6pAD+HgX3ziGkqHkYMKJkO6uU6BuIKJIfxwxshcamE113pQtC5rOs
+zh8h6iNgh1/wLPmoAuu2L5TbLhjGhhvYcgcU2tyeErrdxoWARrvnQQKADj8EU233
+2WUjbmnn4sKTd7N9B6VIx7ECNMdVRUHr9SZdd9m4eE5ARmJzRATUTjLLt6wqb9yq
+xbgidbzXo3gCaEzA3y0kKgmP/5qEL8wo3grxWmp7Kx0bk1XA6yGLRQlnm+XU4XbY
+mvjBHCGjj+3jyDH30AXsonRLlLOUHbcCAwEAAaOCAmkwggJlMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQUyicvPrPLtKq4/WhAEqALNGxSQfQwHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wOQYDVR0RBDIwMIIXKi5hcHJpbW9yYWRvZGFkZXNjby5jb22CFWFw
+cmltb3JhZG9kYWRlc2NvLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEE
+AYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9y
+ZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2APZclC/RdzAiFFQYCDCUVo7jTRMZ
+M7/fDC8gC8xO8WTjAAABfCtyZxoAAAQDAEcwRQIhAJxAm4Wqep3AG2ZoIFhPMyJY
+rY/q4eGziPJe1uNmT9UaAiAfm5tib4TPMAH3Pj8UMDfmbFXyO3csRxPVbiYuv3MV
+XAB2AJQgvB6O1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABfCtyaR4AAAQD
+AEcwRQIhAKO+TcJuvzkFkhEw8XukhZ1d64H2KpUXgsW5ti3FUHhhAiADV2yyUpY0
+2Yokb0GxDCuxK4Dp/+MtkIIFKCbWPyw4SzANBgkqhkiG9w0BAQsFAAOCAQEAKLl2
++ir199CimBNbiuf6xI83o0p60ByJbVW6cPilf4iuvvlfFfUNxGSbdu+4b4VAidpG
+TC76tCkmRt9XVesItRew9oW4lEk5Oh5CmC6brjWtmKuRgxZav35stee375u1DbPU
+YywJbB/UjcBY23Dwshkp+L/ukq5U8dgf9/h1Ss7W3pXcoe4JLVbxnL7dDAuMd82B
+bsed4rQKvOfbLmOJdnhlmKWBGn9pUm9Nj04TcXurjnNWOzrFd5wAz+vCEE4phbDJ
+i0n8TyqMIlhWo5kU/2Lhsn52WKkd6Uhqy3HeeVrJFPaO6Fm7bnb7+7l68kv1XtHs
+xozNc68P9lhU/6OeQQ==
+-----END CERTIFICATE-----
+subject=CN = aprimoradodadesco.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3228 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

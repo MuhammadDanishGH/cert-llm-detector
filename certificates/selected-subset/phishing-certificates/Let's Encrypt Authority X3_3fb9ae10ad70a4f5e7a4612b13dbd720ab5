@@ -1,0 +1,95 @@
+https://bondibodytea.com.au/wp-admin/swp-admin/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bondibodytea.com.au
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGCzCCBPOgAwIBAgISA/ua4QrXCk9eekYSsT29cgq1MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMzEwODE3NDdaFw0x
+OTA2MjkwODE3NDdaMB4xHDAaBgNVBAMTE2JvbmRpYm9keXRlYS5jb20uYXUwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCXLkcEE80gVyqZMH2JDDDhBkTP
+kMrDk5olmF6GCRaefdZDLGJI/XK6YfuTSO/Evdk4dwCXcnSIx+89dBVzAHdeb1ba
+RnFWfbhmXOAOpKnWieoixF7rPuER3PBAOmAElVXWHDsuFcUn+R+SYkhIFqnFmo1b
+47J3d6QVhnIikIxODKf8vb8gQL7rIuECZzMFd/BIQGbp0ptR7BfxfWbKj9+iQKRu
+XOZD3uZ9ll2enVgXHBE40RmOWoSZaYHel2ZNsvJtCIVe1mxrhawk4Cv1dAN3IY6R
+sNTJ6RpUURgqCX+yeU0/OGlPEaN6X8ZRhlzCVAvf+1qORBhk0KesSvtDDGWbAgMB
+AAGjggMVMIIDETAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFDAdaDWH8pJh50zvTKco
+F3uz7k0VMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUF
+BwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZy8wgcsGA1UdEQSBwzCBwIIgYXV0b2Rpc2NvdmVyLmJvbmRpYm9keXRl
+YS5jb20uYXWCE2JvbmRpYm9keXRlYS5jb20uYXWCGmNwYW5lbC5ib25kaWJvZHl0
+ZWEuY29tLmF1ghhtYWlsLmJvbmRpYm9keXRlYS5jb20uYXWCG3dlYmRpc2suYm9u
+ZGlib2R5dGVhLmNvbS5hdYIbd2VibWFpbC5ib25kaWJvZHl0ZWEuY29tLmF1ghd3
+d3cuYm9uZGlib2R5dGVhLmNvbS5hdTBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AOJpS64m6OlACeiGG7Y7g9Q+
+5/50iPukjyiTAZ3d8dv+AAABadMKZHkAAAQDAEYwRAIgHltDg24uzvezHXEx6Sq7
+KK99NeIlMBd/7wRLF8Mm44MCIE8Rn7NfEs2DGzVbZbTD1Si00oQF8jr2B9JY0j6G
+hNQqAHYAKTxRllTIOWW6qlD8WAfUt2+/WHopctykwwz05UVH9HgAAAFp0wpk4gAA
+BAMARzBFAiAgGCY/g6OfukkJz66Hvw18EyXCM/fz3knIuwwJTJPLxAIhAMipIYhc
+p5GG9o9LAJHniCfR2EcEduSZZ2a3oQUWkkcJMA0GCSqGSIb3DQEBCwUAA4IBAQBo
+iN0jKfAizPWrxWyyhgGc1Q9QpG7GnRRFQgpb4k7OqrWI8Y43uteKyHrZm4x8ePmS
+hrqlN5mNl4abg/dFlsXGxxboFIrUDRefy1Dy7tIBuXmD2kE+ncjakZMWzL+dbbCU
+w0TvKQiVLTbb8E9P05L0F1X4F9b6VPay0CgT/ViT87/e8PnOb8jqRsqZ4vtFFoG9
+G1oiGBPFOLLHfnRk4bhEN/kulhkKij7R9GalRGUJRWKdYiY3CA5KNcuD6KC+Q6W3
+a7JVLh53DpiVmlmaR3aCdABvzFzXIxMVcNZkqTxtDVCyGR3ZTL9zvdk7eD11v0P6
+M1Myjgu9N8wKOvgxVCDm
+-----END CERTIFICATE-----
+subject=CN = bondibodytea.com.au
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3405 bytes and written 424 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 47F7446A2FC0C252464868479F28BA9141B702C0FBCD58B785A6CBFD8712EBBF
+    Session-ID-ctx: 
+    Master-Key: 74702287E0B67F47E8352F6EAB7537A7389CE8CE04DB369796EB486EB0F22F7764D6F2E7C6F7716E616DED057B53506E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 1c 5d b5 f4 23 f0 40 68-9e 51 79 86 ea 6a d6 23   .]..#.@h.Qy..j.#
+    0010 - 73 a9 ed 88 02 f2 0c 07-a7 77 ff 48 cc 7c 11 ca   s........w.H.|..
+    0020 - e3 8a 3b 6c f0 2b 29 3e-29 45 91 b6 0a da fa f0   ..;l.+)>)E......
+    0030 - 55 b0 6c 0e 27 69 01 15-c0 79 2f 86 cf d4 c5 47   U.l.'i...y/....G
+    0040 - 6b ae b4 18 7c 63 a2 84-ce dc b5 94 8c ae 04 eb   k...|c..........
+    0050 - 97 37 0f d7 de bd 4e f9-45 19 a5 49 d7 0c 2e 51   .7....N.E..I...Q
+    0060 - 68 fb 69 eb ba aa 53 d3-9a 6c dd 5d d8 9e e4 8a   h.i...S..l.]....
+    0070 - 79 de de 75 95 57 cd 96-ba d7 66 ae f0 44 62 74   y..u.W....f..Dbt
+    0080 - dc 81 0e f1 de 2e 68 5b-73 96 c7 56 86 4a 01 87   ......h[s..V.J..
+    0090 - 98 27 3f f3 66 e6 86 82-ea 04 46 b3 f3 a2 4e 6b   .'?.f.....F...Nk
+    00a0 - 9e 01 29 d8 f9 5a 1f 40-cf 8b 37 ae d9 69 77 4d   ..)..Z.@..7..iwM
+    00b0 - 5d a5 82 35 a3 2d e0 73-68 04 53 c1 6f 38 ea d8   ]..5.-.sh.S.o8..
+    00c0 - 50 cc c8 29 c2 7c 54 de-19 0e 11 ba 52 c6 5e b9   P..).|T.....R.^.
+
+    Start Time: 1556542817
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

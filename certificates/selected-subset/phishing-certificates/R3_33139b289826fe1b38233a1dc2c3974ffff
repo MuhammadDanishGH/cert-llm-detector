@@ -1,0 +1,63 @@
+https://apascoffee.com/auth
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.apascoffee.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNjCCBB6gAwIBAgISAzE5somCb+GzgjOh3Cw5dP//MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMTYwMzU2MzNaFw0yMjAxMTQwMzU2MzJaMBsxGTAXBgNVBAMM
+ECouYXBhc2NvZmZlZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCsEveV9R2XmqIuUI9Licnfg0zSFoIfcvuikHC3q+GNmn+dptu8rXIzdFqIc6We
+aizl0dLw4cCCD2jxMR1H61uB6S+ioDf74EfeJ+4pW22cC2xHnQO0Zd0Q/z4am1Yj
+fyyel5K8JfL4Z5wQUCAPGCgYwLQBuPACABpJRx4dSsM6l6c0u4eZffyCUyhRAWog
+EkB4fz6+tB6EcQm86tuc8X7TSGvHnr7jHoHkcLDoxtNEBLER4FzS/yP5Zlda/VH2
+AgwraoRmvnWUEKSJt6iax3t5+LA1+gZ2o0Fxby1m6jMkVaXOGYOx3hIXx4uSxJq7
+Xe8dgF/rarvqyeBwZhgAvTRNAgMBAAGjggJbMIICVzAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFG0AvMjuP9eIxO1Syk7MSzlOk/TWMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMCsGA1UdEQQkMCKCECouYXBhc2NvZmZlZS5jb22CDmFwYXNjb2ZmZWUuY29t
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB
+9QSB8gDwAHcAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF8h3Vw
+GAAABAMASDBGAiEAspxm/9wzs2ZtPqBlFfsCZzHOxNHs4nGQKitqxIcvLKoCIQDj
+J4ndtWHdd1U+tyrhZFaaCGJrP7h1HgCgHxaE2HuVsgB1AG9Tdqwx8DEZ2JkApFEV
+/3cVHBHZAsEAKQaNsgiaN9kTAAABfId1ceUAAAQDAEYwRAIgLjQnv6jiGeREHqtg
+9VPa7wS0S9+dxyBo498PDW4HQLYCIFKzxarikmH1cZK/M9NgLYpuk9JVOZpYayE0
+nux1t64TMA0GCSqGSIb3DQEBCwUAA4IBAQCiaY++zWJaI48Hpp2Dh1033blFdmGx
+ZMGhEiSpqYKii6Nb9miWjTuF9AW6WHlhltxzDrVT2GqQcc1xClQeUtXd7KnUHmha
+g1mpYfKyyvNyOtVD5AW5xBaLomCANPv5THA8Ss4snaF114bEmwYwZJrd2jWCjDlc
+Tu59vfpvh7zIY720/ObRrBhhQNVLRB2RU7cEdmyhs/kJx9BqqR9y/7zVo1jlf3/V
+5XEA5nuFWPb301cWTggnpZ4YPF9S1a6WZntRSjiIAfuX+3bWex/NTszH3VWy2S4S
+dmFmpoTRrlMcWxT79jWGxWbw5nY9wXvkiz+7obdBYatUZqJFo6Hq5ckc
+-----END CERTIFICATE-----
+subject=CN = *.apascoffee.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3209 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

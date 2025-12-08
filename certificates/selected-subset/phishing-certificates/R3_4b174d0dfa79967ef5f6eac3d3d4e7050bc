@@ -1,0 +1,65 @@
+http://pcod.co.in/drive
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.pcod.co.in
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKTCCBBGgAwIBAgISBLF00N+nmWfvX26sPT1OcFC8MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTYwMTMwMzdaFw0yMTEwMTQwMTMwMzVaMBcxFTATBgNVBAMM
+DCoucGNvZC5jby5pbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALLB
+xbl73CX0KQG3En0VzThTUf3Wch5Z45y3/FqjlOlYdkdP7uD/ag7pYxKOX4crmoi/
+KOSFHUrsf1oz31M5NbIX5bchkdKmPawU1kGjCb/41CnUioRWeMZo3Og9FbzlEEE0
+0R6A7qrm/M1x0YG10ZGXRPrXJ5sGMZt/BBpDTu8mTupTWJjeKSb5eFGh5BZQOofp
+2qPi784oUxo+0awHMjB1W/LSd6UuGqZtDmYzG3f2q1nMHMK1aL5dj6QIbI1C9yAL
+iGfQ9mXsoGsIj9ZeQbOtNsAby0s2h/nj59O9G7fyssZTJhyBkhcq1ISJugS5Iy57
+1S5ef0Tja9STfddEm9sCAwEAAaOCAlIwggJOMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQUcKY/inpNT3SDOgodMEdYZ/PVB/owHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA
+5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMu
+by5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8w
+IwYDVR0RBBwwGoIMKi5wY29kLmNvLmluggpwY29kLmNvLmluMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUA9lyU
+L9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF6rSbGmQAABAMARjBEAiBb
+tSVKMOmWWbGysxjWQXLj4vIU+IuPpyPEKRcCYK0zzwIgT/jKlAUZrx64fv3ebVbZ
+OQYGdnAGN16VijVOCpEbeGsAdgBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOW
+tbaBqAAAAXqtJsa6AAAEAwBHMEUCIHScTI6bM/bRlEwT1cqltoQ97SqEdkYsW3ju
+jVUpcm0UAiEAlqEFr3MA8OxXKcYBANgbnNxWrNfv3td00B3K5IxZJcgwDQYJKoZI
+hvcNAQELBQADggEBACLiCNMLYFvWdqbatZgBYgw11DrZJ6rY9VMRLtpGpT+cA5kU
+nyalxpHuTHSu+T7nnYGIUfJz0iI00eyDbwdRU0rkgMK4mhziYr2u7F+5q7ZWfW/J
+tFc0bbciwR9dp1PteL0ZKgeUqmQQ0vUnTsp2BZECcHtdORXeWzDD2objDGtAyn2k
+VFjRHfGfpIRAt4WUXzomH5ua0ls/3ZXgLTF3ti64njiUd/YwAD4BQLlpglmMzWon
+YyCmXgPGRAXnY6aye9RnXlVgr96VrNdEeKnvbzZCRnONOli76A1ICiykCTm813dH
+gbP6bA8uyZEi0SzLWsse5h4EwYmay+tvTv0IduA=
+-----END CERTIFICATE-----
+subject=CN = *.pcod.co.in
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4581 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,66 @@
+https://www.etc-meisai.i5e87ag.cn/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = etc-meisai.i5e87ag.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFSzCCBDOgAwIBAgISBCvFjJpwWuEtHWnt3mhaOtuIMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDIxMDQwMjZaFw0yMjAxMzExMDQwMjVaMCAxHjAcBgNVBAMT
+FWV0Yy1tZWlzYWkuaTVlODdhZy5jbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAObzzpDHg9FixLQ9Atnq7/jKuypaR2GwNmoY9lCWoirHo5voG+GLDK0I
+WlMT3Twv+5R4sD8u9YcaUtMlEyrgovV3buwwF6QrNXY98NywFXuwSQtBvBkEj7JT
+wKzxjCxxkcHsGCEQ7zO2S6jmviO8za8DUahR7k8VcZsSlyUTEtKc24sWrDUmdYuD
+2U6eoUEcDUC7fU9hlMyfzJharDZDX8vT7Wd2lfJfjaHn7WESv5p3FL67C9CGVogp
+ILPZdPJpNYqpZBkf4Wf3WOvdZaEdFwcpIRx2VFkPHvjNGiVEdOYr3Gnce4/dZEu8
+5bhyJui/1YzqNy3btKCIaAqiSqlB2X0CAwEAAaOCAmswggJnMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQUuVVpdzTEFZgMiTFaz2Duq8LqX5QwHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wOwYDVR0RBDQwMoIVZXRjLW1laXNhaS5pNWU4N2FnLmNughl3d3cu
+ZXRjLW1laXNhaS5pNWU4N2FnLmNuMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysG
+AQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQu
+b3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYARqVV63X6kSAwtaKJafTzfREs
+QXS+/Um4havy/HD+bUcAAAF84HNQqwAABAMARzBFAiEAxNChRAVIkRe82eEBAntg
+3WgrlSnADtRFPCD0V8EzeykCIEVO5P+TfNuxPEFqbzrzA99w+22GBneX9XVvIbjU
+CyWmAHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF84HNShgAA
+BAMARzBFAiAWHjh4NelshTre+jbzV0ddJyldaLhfBh+/jxXDzTJmqAIhAKWRUB/D
+V0wer1c5z/cGhJPl7UtE8heQKBjnNjQ+oatoMA0GCSqGSIb3DQEBCwUAA4IBAQCP
+eg3Kxieeq1n8see2yFwP8Ea5UGqF4nSEqqgBqmXaQcoBYRibn9OYyBkVzSkJX8zJ
+YotwqsO3GouuWS7lIMPWmc6V+7x4asrVN+FqyNMIHa/5rao4AH7ax6XXaw0wHb4v
+4697cwZHCNVQsMKdVH9pQtayYqam8PhHb7QSSceQe6zGrWYkA75MTiMFQPqHfSG9
+yH8sZJfY2CHEzRzajFfPCvu4w7E1niPZ3zyH/Qzzo/jNl/2X9+JvESPxlXOHxoCn
+WBhWSUFPEOiXHZf5eTF8Hcwr5K+tVucuQXwk2KJ+QDQHiPk/V+V5bobLyizw2XvX
+rM92ic7XEalFcL3hxNfH
+-----END CERTIFICATE-----
+subject=CN = etc-meisai.i5e87ag.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4615 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

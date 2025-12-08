@@ -1,0 +1,61 @@
+https://www2-uccard-co-jp.xuxindogidea.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.xuxindogidea.top
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEcjCCA1qgAwIBAgISBDNoLJAOSU2itLXI6/xjQ0AjMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMDgwNzUyMjVaFw0yMjAxMDYwNzUyMjRaMB0xGzAZBgNVBAMM
+EioueHV4aW5kb2dpZGVhLnRvcDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABA0z
+Fql/YX0QyUaefZa9MtcVeaEQis+OIKvVKuzQEnP0GhX4l+o7PJknAI7z6XzDuUfH
+BdzBgptFVh7yxeoc9xSjggJgMIICXDAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFFCr
+3sSh3VryH9oOQBW4RIxePiqwMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52L
+FMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVu
+Y3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMC8GA1Ud
+EQQoMCaCEioueHV4aW5kb2dpZGVhLnRvcIIQeHV4aW5kb2dpZGVhLnRvcDBMBgNV
+HSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpo
+dHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA
+8QB3AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABfF8ag0UAAAQD
+AEgwRgIhAMvI7lHOood35ab6jA+Gv3hbmNgqv0s6/mTcg2ih6RcnAiEA1E15tMLt
+zjl9Z0kKtRv13fWJAILAhyHDVkGBw+f4W1cAdgBGpVXrdfqRIDC1oolp9PN9ESxB
+dL79SbiFq/L8cP5tRwAAAXxfGoXtAAAEAwBHMEUCIEPK0//b2zaPuo//uPiOtdWm
+caKLvp1yVxPzfZUT45NjAiEAnXn/FqNNIg63A2IkxeEOslA3h0p0Qxkgm3PjuQwv
+o5YwDQYJKoZIhvcNAQELBQADggEBAA8niOXAK22DrBH4DiQt4ZwpsM4LWQmIozzc
+a7MsAYz9BxS7iOwXajcgl2bSbFn3CYGvursNXVgQQFI3L2ZaDNUc9UaUvh+o+8C7
+kZCyM2ZshQ348kWEunhrEnhZ7GTlUJTHtZ1TmdpXny6LyTTIQBhUtB9WESTZ0TAe
+td7Xdp5GJ4rK7FAmoexJj/f5V99AT3JbsZXNf6oq4Qn8nWydgSJk2HD+LSsmM4Br
+iC1hFX3ZyI9jxQ1yoZ6CpMDkS7FN32ng+rM7vKZvlEMtljgV+wkzBca526KhZ5wJ
+CrielsKQUQEjDvMIocWuQ3s6px1ARgnOPdBPPp9uTVG15N1xS3Y=
+-----END CERTIFICATE-----
+subject=CN = *.xuxindogidea.top
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4147 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

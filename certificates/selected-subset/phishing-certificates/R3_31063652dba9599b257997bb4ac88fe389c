@@ -1,0 +1,67 @@
+http://amazing-merkle.62-4-31-175.plesk.page/vf/f58afc5e5b7765acd9fcfced268e7157/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amazing-merkle.62-4-31-175.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFezCCBGOgAwIBAgISAxBjZS26lZmyV5l7tKyI/jicMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTAxNTMwMjFaFw0yMjAyMDgxNTMwMjBaMDAxLjAsBgNVBAMT
+JWFtYXppbmctbWVya2xlLjYyLTQtMzEtMTc1LnBsZXNrLnBhZ2UwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDxSlrMKVcxVlh/2gYDx9seaUNaHPp0hTkE
+M53IFIGFN1QrDT/MaMueGB5rXpvEqPOJQA4xYyDx3lJheUXnqOOInIfeSEjKudJa
+tlHM5beo/IczwWPCzWXg14/T9iGrHaHrOT8Z3T1BQijM6Sm28saKAn04W4W48bni
+M8i5ZRpLCx6DdPJ/JvzfywN37WVFzqMKwjIJGiH6fOa5mHlXiXwxD8wfX6xhTU5d
+qr8miQs3m+gpqW/XNarItJf8SAgof6VOsSurLPWERM+TfWucUpj6wAg0SJvj2hNC
+sZE9yOzbynGaoZKSoiR5M2YP/fQ9Z+ddNGh/MP9JzBZB7SRqo9LnAgMBAAGjggKL
+MIIChzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFDfxhpVeeLJIzzszLC0jBRM2ude9
+MB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkw
+RzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAC
+hhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMFsGA1UdEQRUMFKCJWFtYXppbmctbWVy
+a2xlLjYyLTQtMzEtMTc1LnBsZXNrLnBhZ2WCKXd3dy5hbWF6aW5nLW1lcmtsZS42
+Mi00LTMxLTE3NS5wbGVzay5wYWdlMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysG
+AQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQu
+b3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA36Veq2iCTx9sre64X04+WurN
+ohKkal6OOxLAIERcKnMAAAF9Cq+fqAAABAMARzBFAiEA6L0gmOGb5a6hDrFB98CO
+sqAy/qa4sUfatd190DoFKpkCIBttS40KP93YsPfrYGZkVpnAqb0eeDsvUnWUgOBd
+ZKlYAHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9Cq+fzwAA
+BAMARzBFAiEAkUwlakC8PoHc+zzDWIQ9f7s72O3D4H7eaRLvtOjhIR8CID6+6/yL
+wk1Wc5JQErsVU9YW/kQh8Z30UXJn0jEtbTn4MA0GCSqGSIb3DQEBCwUAA4IBAQBE
+Gdr8ViFGRvcu9bvbEtrCxmUt3wPHS4D+sCPnMU+gMXIk5DFiBD28ce4ZdoOdI2Ee
+zE09nHVDG+1JtT3Fv5a+9LRzhkwyceNv6HkAYTwwr+M40dfRzewRKrh6k2NaCLnY
+1HZGFHL9+wFSSrHw4g7ALKzwVMfFwHcq2+Dm5E/Z7XAvnujWYRuS27NNdAxmeY49
+X34GnRWUAcKBGUoF/ESJxxtnS2N8jpHO2yfUslIRbiUr+CFNssD7SRBiX2ZrFLUX
+mwGEkWv9p9ECqiOsdlDb75zQVRZ+GHw46SAe0XTZCwp5gbxfwA9NcAE7ktEfonvA
+DnZCKxYrutbd72mrhaiI
+-----END CERTIFICATE-----
+subject=CN = amazing-merkle.62-4-31-175.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4663 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

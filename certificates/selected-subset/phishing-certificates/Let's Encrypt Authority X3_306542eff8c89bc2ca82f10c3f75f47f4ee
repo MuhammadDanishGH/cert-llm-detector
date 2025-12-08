@@ -1,0 +1,93 @@
+https://sahakari.net/paypal/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = sahakari.net
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFtjCCBJ6gAwIBAgISAwZULv+MibwsqC8Qw/dfR/TuMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMDQyMjMyMTNaFw0y
+MDAzMDMyMjMyMTNaMBcxFTATBgNVBAMTDHNhaGFrYXJpLm5ldDCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAMprajkTGlQxWxIs53CFfJScrh4bShofV/tw
+aHgXHgWmY2QhCiriM+RaHNxcLxkOVpgEF1HZT30dMeaWqmR/wz7UJ/1QczrEKQLy
+jXH8cWJ7JmqUoQk7Sydhp6EPdQIeV7acAgvuG8v7MGF82wg/74mjBOACJOftk8wN
+I9mxDiaQXocEn0PBHB/6K8vaZtr8DhunAK2BB1tAv/73rC5sjfM8bG3b5+NxRRYR
+XU0zbD9/E0bcLqsakDxW3qHrBm8NtlcnsWQ6CrNMo6k7eEelrhFFwf8joaU0XX6c
+tcmeEZcrrkavS2YHR8okjk+7xIqhJUqBhUmdm9qHezQ22i9gLgsCAwEAAaOCAscw
+ggLDMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU9j2oAxf8vmPu+nafW7+uwchUTYQw
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzB9BgNVHREEdjB0ghNjcGFuZWwuc2FoYWthcmkubmV0ghFtYWlsLnNhaGFrYXJp
+Lm5ldIIMc2FoYWthcmkubmV0ghR3ZWJkaXNrLnNhaGFrYXJpLm5ldIIUd2VibWFp
+bC5zYWhha2FyaS5uZXSCEHd3dy5zYWhha2FyaS5uZXQwTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdQDwlaRZ8gDR
+gkAQLS+TiI6tS/4dR+OZ4dA0prCoqo6ycwAAAW7TQce4AAAEAwBGMEQCIDrWBt3o
+3z1Z9Trw7n7h+5QRRio17iZN3bE+QUXtCYruAiAbxcTF+csBkhNXZmTR40l2hWuW
+5YNDnn0NbCJ6hMVV0gB3AAe3XBvlfWj/8bDGHSMVx7rmV3xXlLdq7rxhOhpp06Ic
+AAABbtNBx+QAAAQDAEgwRgIhAOYZ9qRjbIjDIa9rHkqpZiVUw/jdqIwR08oW2uS1
+IgT3AiEApizpReCdJZkCANqym+86QrlUr61RLs7IXTlaCGMKuxcwDQYJKoZIhvcN
+AQELBQADggEBAAWcvlsr1mqkLv0oeVtOspNZO13ldZDiL0aUmh1Dy262RqM4s7pZ
+M/mjHuKqXRgDMVCuYctboQUf0sJyg05GSSiEQgQsQ8g3R7x9zVU+ixrzQl+rwR1z
+E5UBfq6oPA9NEElU6bQp6LtD3aauqlQvPBrXiZW/CBu7/RQIh9NdclwC4ZrLN0uL
++qOy02/ttfhBgYnkX/BcOapKi1wGfgqpv+oaoKcfEfoj0PLPxE54/5Op31ujCu/e
+h4GAVGW+T7iFyOrRxLB4a+A8UrpFnfJl+0Sm0O6vYJ3VIcTUYmFVXqpo8BqgPcUa
+/rI4ShOZ1q69hn/h9il3wDFKcUmzvqYcE3k=
+-----END CERTIFICATE-----
+subject=CN = sahakari.net
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3349 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: A85349D8025F6DEA48C5F6FE69550A36666B1F6361E9EF4E5182679C36EFF498
+    Session-ID-ctx: 
+    Master-Key: 90468F24D43D0F93714F7AC819DFEA69AC5093845758FCB22C32FD443DF3E98829001B5818C192043F0DD1A7803D702A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 8a 9a 69 ec 8b 31 ba 77-ed 43 90 eb 13 d8 1f 80   ..i..1.w.C......
+    0010 - a2 fd 62 8b ee 88 cb b0-c8 4f ed dd c6 eb ca 48   ..b......O.....H
+    0020 - a0 ae 67 6d 9a cc 7d 73-9b 5b 98 56 51 d0 59 58   ..gm..}s.[.VQ.YX
+    0030 - 97 8f 6c f6 a8 24 7a 62-23 07 5f fa 83 b2 d2 3a   ..l..$zb#._....:
+    0040 - 31 0b e5 3a dc 99 86 0b-10 c6 42 01 9d 1f 4b 39   1..:......B...K9
+    0050 - f9 7a ee 12 09 0e be 15-ca 9a a3 4f 7e 42 e0 56   .z.........O~B.V
+    0060 - 96 05 b4 25 51 2d e9 df-32 c0 b2 ad 67 cd 75 d4   ...%Q-..2...g.u.
+    0070 - 9b fb 08 10 b1 f5 17 24-51 d9 5b 23 51 3a 8a f2   .......$Q.[#Q:..
+    0080 - 8d af a2 1d e9 5b ba d6-f0 42 57 3f dc 7c 66 f8   .....[...BW?.|f.
+    0090 - 7d 59 cb fe da e6 d9 46-f2 ff aa d7 46 cc 8f 9a   }Y.....F....F...
+    00a0 - c1 1c 9f ff ed f3 05 9e-2f 80 66 6b e5 b2 3a c4   ......../.fk..:.
+    00b0 - 0a 85 4c b4 74 ef 47 1f-a1 9b 83 6a 95 a4 19 0e   ..L.t.G....j....
+    00c0 - 5d ba 4b 7c 1d 72 8c cf-e9 e9 7f 49 63 b5 18 2b   ].K|.r.....Ic..+
+
+    Start Time: 1577628018
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

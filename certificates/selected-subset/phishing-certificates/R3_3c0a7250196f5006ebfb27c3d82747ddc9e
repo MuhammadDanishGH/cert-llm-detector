@@ -1,0 +1,66 @@
+http://pubgspecialevent.my.id/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpanel.pubgspecialevent.my.id
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUDCCBDigAwIBAgISA8CnJQGW9QBuv7J8PYJ0fdyeMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjIxNDQ5MDhaFw0yMjA0MjIxNDQ5MDdaMCgxJjAkBgNVBAMT
+HWNwYW5lbC5wdWJnc3BlY2lhbGV2ZW50Lm15LmlkMFkwEwYHKoZIzj0CAQYIKoZI
+zj0DAQcDQgAEmKfXjw4GEqKchyiV97sbWLqHH/D4WUUUizOMMvX6jU9I03f0eP7R
+2siTtYCnleA3FJn1e0UuY1z2KjLQn8vCrqOCAzMwggMvMA4GA1UdDwEB/wQEAwIH
+gDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUPI1WCUZVZCdzHClGaJWo5+QdB/UwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wggECBgNVHREEgfowgfeCHWNwYW5lbC5wdWJnc3BlY2lhbGV2ZW50Lm15
+LmlkgiJjcGNhbGVuZGFycy5wdWJnc3BlY2lhbGV2ZW50Lm15LmlkgiFjcGNvbnRh
+Y3RzLnB1YmdzcGVjaWFsZXZlbnQubXkuaWSCG21haWwucHViZ3NwZWNpYWxldmVu
+dC5teS5pZIIWcHViZ3NwZWNpYWxldmVudC5teS5pZIIed2ViZGlzay5wdWJnc3Bl
+Y2lhbGV2ZW50Lm15Lmlkgh53ZWJtYWlsLnB1YmdzcGVjaWFsZXZlbnQubXkuaWSC
+Gnd3dy5wdWJnc3BlY2lhbGV2ZW50Lm15LmlkMEwGA1UdIARFMEMwCAYGZ4EMAQIB
+MDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2Vu
+Y3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUA36Veq2iCTx9sre64
+X04+WurNohKkal6OOxLAIERcKnMAAAF+gnogBQAABAMARjBEAiA1MauT2lCYDYf/
+L2HJc348Z4Z6qDMTIa3vj132I+KEpQIgF0QQJbSp8SyurmzYwQsr62izmLdDwI+4
+yncd/Xd5FToAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX6C
+eiAsAAAEAwBHMEUCIAQwgFksnxMNBBwzdLYqRGUnRZGaua3JNwhm9RSnui/zAiEA
+sxEjOzk6hQ+prMpciaqVBYwddrt7p/uQKxnePanLuWMwDQYJKoZIhvcNAQELBQAD
+ggEBALUxk8H2DuOX2pFSz4O796+E9hZcXSuwyh6bxDnfzuV4FCWjv7v5K4JXm1W6
+j1em6UZ9Y2Uuqxxm73A7n+eQN8QikddPUI7xBXb5zKN/U1fJdsbWuvLWbWGKRCdW
+DiMIBnG+21Z6DdTq7mCJBRX6ppyod522jV+2c0xZvVEmqFlL+DMDUUqan4eaEZme
+oFv+RYiDgnM1dfLwwm5m6gu73sximZQbGenfirW2wgJEkrdBZd2baHjULA6ZigeT
+XIJoX8E0Ror5N80dLn64wAI8U3E0UzOM+IAtop1it24fb/2XXER1HMmAzldjXJKq
+Ez2Es7RjsAuMoYzSDZregIufjj0=
+-----END CERTIFICATE-----
+subject=CN = cpanel.pubgspecialevent.my.id
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4434 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

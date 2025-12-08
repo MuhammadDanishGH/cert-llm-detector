@@ -1,0 +1,71 @@
+https://northlane.esy.es/pl/plsjjd.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = northlane.esy.es
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+rZlMaz921diygs7cgQGtrQ==
+-----END CERTIFICATE-----
+subject=CN = northlane.esy.es
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5042 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

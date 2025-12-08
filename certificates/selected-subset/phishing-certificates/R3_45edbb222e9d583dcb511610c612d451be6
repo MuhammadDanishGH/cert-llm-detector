@@ -1,0 +1,65 @@
+http://ananzom.co.jpyvtfx.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ananzom.co.jpyvtfx.top
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMjCCBBqgAwIBAgISBF7bsiLp1YPctRFhDGEtRRvmMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MDcxOTA2MjdaFw0yMTEyMDYxOTA2MjZaMCExHzAdBgNVBAMT
+FmFuYW56b20uY28uanB5dnRmeC50b3AwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQC6kJ11nFOI1yoBN6ZjwQZ5T01ltOBGSvN14iN56yiplkAW4DKVEnN3
+fF69y/0cj4Gb7r6YOXeM2+2FH/zljThE2PMjws/p0KHZV/efGSSySA06Do3fINdj
+/AozD8UQOLGlpJ7C7q0q43DVbfvaVAWN6hWbAPrhdLxp7e3JZ5LDkdOznKNz53aL
+NCG48eDPB72pl693GWmD0A/23nckB63OiaPvXtg36gNNZZ1ZNaXuVZxDJeMK/a4L
+VGJoGucEiBdU09RaCcVQXFBVugChuYFwrYUH9A7DlvFOV/20khIOMwelvCLfWfxO
+wxL6YGcq9SQehcph/clUoGRKEBBl54U/AgMBAAGjggJRMIICTTAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFB41IDLTOvw8JAgRprsQVXQrmDDFMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMCEGA1UdEQQaMBiCFmFuYW56b20uY28uanB5dnRmeC50b3AwTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHy
+APAAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAXvB3npuAAAE
+AwBHMEUCIQDMQMe0eFLhOcLs7onAswhhF0GulYqFJrAFkcLsMe9VnwIgfhRZIhIR
+KKog8M3+Z2ICH+8t0zFlT9NvW5sT3y059QoAdgD2XJQv0XcwIhRUGAgwlFaO400T
+GTO/3wwvIAvMTvFk4wAAAXvB3nwrAAAEAwBHMEUCIC/PkOXLHtdECtskcOtoaQj6
+uBIq2MMPUaBDW36pPgSVAiEA7Pi7c60pDtWWpvsg8LK3ql/ka7h54QqmgevDQ5Qo
+cmAwDQYJKoZIhvcNAQELBQADggEBAD4LzcL8pCFjXzirliFwkkMFYIMpA8tbHOPM
+irQCV6PbEEn0FIwSZo2hK7KHidVO0IeMLN3XNgF3X6NDLaN6REtmDiq3mLgmIazA
+o9H/R7wObWbIJ0iINi17Q399oFHL1oPmXkyGRTfH81e1ml3764EvQPYazp37c0A4
+EkbKHMIjckwqnRUahKc96QLZCPBq6BjTvtYGDTkfgUY40Zm/lmlyAgzW2mKFeTnJ
+NHNNtlCYuNAyU/WFPKHjOfuFl1gFj8A7IuP4sDFx1IjdySzS1RQas2zfnUnbD/Sj
+dhDw0hx92H+wvk6Y+6oTCdpkxgQY0DUJxHVwpPVtrLVNbQq1GQ4=
+-----END CERTIFICATE-----
+subject=CN = ananzom.co.jpyvtfx.top
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4590 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,83 @@
+https://myetherwallet.japanbitcoinnews.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = myetherwallet.japanbitcoinnews.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGdjCCBV6gAwIBAgIQDyG3fDuE0ClV1UQ2Xu3btDANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTIxMDgwMTAwMDAwMFoXDTIyMDkwMTIzNTk1OVowLTErMCkGA1UEAxMibXll
+dGhlcndhbGxldC5qYXBhbmJpdGNvaW5uZXdzLmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBALDHncU8bXJ/T+578VSeInYvYUO3+fsizbkV3M1qhRMT
+NQWriqib3W5oHvrzdL0K0q91ywGWVer2rpvG/UrpVK2B9gcl1m3od/DxuJU1gmCS
+QIHXOCUUbUyaiXNRWIJvMUaQOG35j2uitYcxQKADqyMYUsxsw8rc8tPDjHbFWy0A
+N+w6hyROtJ+fhflcH4Hm78JHLDJFLBOFDEex4p9p7FM32ElCwAU858IdLBMoAk7S
+UBo1thH1kKlXJ3KP8r2duoAp1stOolCsjFaPoFIzDZWFicBNoqB70XGtl2yLrAvj
+HqpF0LbqwfadE0OamwZcKv3jZoeRyKRfNgdFyEc2Cd8CAwEAAaOCAy0wggMpMB8G
+A1UdIwQYMBaAFI2MXsRUrYrhd+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBRbSTCt+tD/
+6kdc1L1ABfU1yftaojAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIx
+AQICBzAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZn
+gQwBAgEwgYQGCCsGAQUFBwEBBHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5z
+ZWN0aWdvLmNvbS9TZWN0aWdvUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZl
+ckNBLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wVQYD
+VR0RBE4wTIIibXlldGhlcndhbGxldC5qYXBhbmJpdGNvaW5uZXdzLmNvbYImd3d3
+Lm15ZXRoZXJ3YWxsZXQuamFwYW5iaXRjb2lubmV3cy5jb20wggF/BgorBgEEAdZ5
+AgQCBIIBbwSCAWsBaQB2AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1H
+AAABewHpEVoAAAQDAEcwRQIhAPKn9Vh9Hns8w4qPsqIL9/QHcahkwh5Ud/jE4fYx
+GBsEAiAzIG0/jYUM0G9mcOonWiUu3zc95bK5CSA3ko+F6iRdMQB2AEHIyrHfIkZK
+EMahOglCh15OMYsbA+vrS8do8JBilgb2AAABewHpEWcAAAQDAEcwRQIgAOH+Bdty
+HKzQKFdX8jxl8xO7LWy7H+iCuV9kGSmVChgCIQDs7vO1NeIT3bwAgUBtQAAhI+N8
+uhSw2X+5inlbTWJ5VAB3ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceE
+AAABewHpEToAAAQDAEgwRgIhAMZ0WrgJK/UpBk23YV49rpORVQdxyEbMCUjxXPIj
+J8+jAiEAtNOI8AlVsr8GfmXS6om0IC+VghvIZSsjQoDVsBf31b4wDQYJKoZIhvcN
+AQELBQADggEBAMkJjKzIFA6G5CJ5sQAoOlA5eF+8HB2NmeGbCDdIqWd/jLmzllqs
+9VxQPjc6ww7F+6mvP1Gn1OdYYlGrH1yBIE32qO9etvN/CzBC+Upx5JTHlJzF1iw5
+K1rPTB2UKkhrtQnP9mmw57Va3sp8vPT9a422LPx6MeDUI3Jd9ho+NQSibyYNI9Xn
+973VeK0LAbdToMKhVYBTib9js7Gcl8e0M534WbPLAIjucGNeAxPU03PovffkJOLm
+IY8PKpS6JvZ7dcmrl1p2Rl5l1UxLeTzYzhkmHZxzdeI1TqqRKq4AeklIB47Mv+B5
+mJRUginQ6L9+Va3lOEMcOlnZnPdSjQZZZbs=
+-----END CERTIFICATE-----
+subject=CN = myetherwallet.japanbitcoinnews.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA1
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5164 bytes and written 502 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-SHA256
+    Session-ID: CB0B0000816FDE39AE742825B33726A74C6236027BF833FAD3AC6CB1B1927C61
+    Session-ID-ctx: 
+    Master-Key: DD11D560949DE2BEFA697F8E159014693F0E5E02B32433A1CC0398DCD30B370922AC5971B3ABE6700CCE77572BEA9F44
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1627831971
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

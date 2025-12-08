@@ -1,0 +1,67 @@
+http://vibrant-perlman.23-94-190-112.plesk.page/p/6bc43
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = vibrant-perlman.23-94-190-112.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFhTCCBG2gAwIBAgISA31up/T7K8iZE4bwyrbayxbLMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MjMxNDMxNTRaFw0yMTEyMjIxNDMxNTNaMDMxMTAvBgNVBAMT
+KHZpYnJhbnQtcGVybG1hbi4yMy05NC0xOTAtMTEyLnBsZXNrLnBhZ2UwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCoP2HQkvXwGQHmSLr37FQ4jRnPVWDP
+o6b3VH6n2ZMDmoz4shA1mpbnhdf/wR2I+LHc4ooLK8qpSOqju0XliPHwdjUwuRLd
+oElEDZKnCqQSdINegnLhBBKEQDjqAvbZvtWDm3NMoItMdYkYBYkVn6pkgz6QKimP
+3+95HpgWClAxpPSWoVGVfSFH0PR+n6hz/a8LUWINkehyRHtkUqq+8g4Axlx8aBn+
+I34yXxyFNfOnqVSIrn0qmCwo5SoAMWVt6LYuwsgQOL8d+BHuawbHBOo4QWuOysAf
+EDpJSOO5IhR4k/O5ifaGmsHA3IGI4BxK7pWvlH/ofwA2ccr18g5yM1MLAgMBAAGj
+ggKSMIICjjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFF7j9s17gnOtEp3Fpu11Tcvm
+ktauMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEB
+BEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUF
+BzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMGEGA1UdEQRaMFiCKHZpYnJhbnQt
+cGVybG1hbi4yMy05NC0xOTAtMTEyLnBsZXNrLnBhZ2WCLHd3dy52aWJyYW50LXBl
+cmxtYW4uMjMtOTQtMTkwLTExMi5wbGVzay5wYWdlMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAlCC8Ho7VjWyI
+cx+CiyIsDdHaTV5sT5Q9YdtOL1hNosIAAAF8E0jaTQAABAMARzBFAiEAy/Ei06k2
+uyI6z4lqf7cOtuEyjYO+knK1j0uGH+04ipICIDhMpwLoTFYHwGA2jFJ81yRkEYoi
+5P+R4YjQdBwPMQQcAHcAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcA
+AAF8E0jacQAABAMASDBGAiEAuCzzRmzO817ipKN2APkL2YGfLeNkHfTc1qW6CycJ
+/BwCIQDJABhjaotQ6OFTHTuMIDphQHL243y4MFPB+hOfHuYCrTANBgkqhkiG9w0B
+AQsFAAOCAQEAhwZzgLpLNnwrEE5EJ1PnfN7QGObetKfbEo5LYJI7FpKNBvSNTRdx
+VtU67JvCooEfRpK5QRgQNsSFAlwDracZcuQVFejo3tONiFKSVwaCY/wMBdwr1VNy
+QDedWLZ9PFiGXaSTkuS7Hl6jnXqyHkfrniuWEJv8WPmYL2clukOq0f+rbDMrAknx
+Jn+bA0MGDq4Dj4oqfOevYvszhI/Cl3eSely+8V1LBqHFa8D70e3VHLNE6f0nvKHA
+CLw+j85tPOLfE8J9S08w/eYKFsxBNzJdK4PmHtddva/6jIiC3WroIwuopBJmvnLF
+X6xA91zU4j8LW3fM/RJqsJPuTUCmQ0CzXg==
+-----END CERTIFICATE-----
+subject=CN = vibrant-perlman.23-94-190-112.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4673 bytes and written 414 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

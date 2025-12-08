@@ -1,0 +1,95 @@
+http://naiumang.org.technozacademy.com/home/gs_accessmail.php
+----------END URL----------
+CONNECTED(00000004)
+---
+Certificate chain
+ 0 s:CN = aigcl.in.technozacademy.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF2jCCBMKgAwIBAgISA6vq4vhY1TBeiMe0wBfbFWLPMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xODEyMjUyMDI1MTNaFw0x
+OTAzMjUyMDI1MTNaMCYxJDAiBgNVBAMTG2FpZ2NsLmluLnRlY2hub3phY2FkZW15
+LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL5x80DEr5fhZkga
+u+U1jCcHj7WpeqMB6C5lHI70Jvkr0Lq6wgj1Yr9JNSA0J+p2zpNYQyNbp12U+8H8
+ZE92GnYv8RV1nZGAZN2UTj7SeuTHGQuj6ERwriSKKc+vG2Zz57Uip1xYW4G+q+e3
+GCIJTFPG/5lETlLczD7a1GQQyTe2m7fTHLUKxMSPyaXiqU2iRqCUeR4yqHju52Ju
+GOyAeZBJK1i/wXOds9POtR7Az4mO6OZn1KYn6CUoSJD+1vL2UY+89WHqd4utDlIb
+41TSdheuxHeHIYrvUYvsXdBB84m2hX+8vYHt0T8AEIGmR873fEFrrNEpodJ68yHR
+S8l5Qi8CAwEAAaOCAtwwggLYMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggr
+BgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUILsTItuL
+9yukxe3lhrrSkkSIoEEwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEw
+bwYIKwYBBQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMu
+bGV0c2VuY3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMu
+bGV0c2VuY3J5cHQub3JnLzCBjwYDVR0RBIGHMIGEghthaWdjbC5pbi50ZWNobm96
+YWNhZGVteS5jb22CH25haXVtYW5nLm9yZy50ZWNobm96YWNhZGVteS5jb22CH3d3
+dy5haWdjbC5pbi50ZWNobm96YWNhZGVteS5jb22CI3d3dy5uYWl1bWFuZy5vcmcu
+dGVjaG5vemFjYWRlbXkuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcA4mlLribo6UAJ6IYbtjuD1D7n/nSI
++6SPKJMBnd3x2/4AAAFn50HirwAABAMASDBGAiEAqG2W++g5ihlg92AsQ0NUz0iM
+p62W0CoPeWVUF7YbDAMCIQDsb2+xp1vhV7ipfrnPdiaD04NHSJ1b4tsk7Ww7VD1k
+YgB3ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABZ+dB5KMAAAQD
+AEgwRgIhAPAlAMGv0Laf7j6lDC5syGId+58NxGiKTazvMIoxRQ+oAiEAje+OoJ6n
+L37RX5ao4WZ10RpezJuuRAaaf93ylqpfXJkwDQYJKoZIhvcNAQELBQADggEBAFSe
+1NkILJtPR55D3eH8lhDf/G3P7JusneAHK9RtIKIF9GAO3APu/qrduf6lKP1MBBeh
+mIhKmcKOqBTjv7crrE2Hsnm8Ps48MjzL8out63OBkGIcj4Fs3bEBW9dxus3+VpEI
+4hijUi/Qna0k1vikIdOcu7hUr5rDaWAUwhioffYnL2Eg/aIh1Ixyp7B6UZI+Odma
+6o2yxMRqyWl8JYg/4+ok7z6uOJXVMK2wfC9Fr6oUQYEMS0TNU3KYYB6aEtZ/3aiB
+Q3RgmwmJT9iUCnSrX+8yBgTnMJUUkiglBfj61coBjrsmuTzpQsfNF0ttEK3b2akH
+8Hex5AjuA2vJmbno0Rc=
+-----END CERTIFICATE-----
+subject=CN = aigcl.in.technozacademy.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3372 bytes and written 436 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 7FE4FBE510ACD360C8A2FB47A4347736BB9A4C41E527A8DCD2F69F08CADBC5D5
+    Session-ID-ctx: 
+    Master-Key: 3BBF4CDD7DEBD05A65F7FF1C60160E8BE56EF9E33935CD973BDB0E43EF42A206DEC3748109FE472BEEC73B7A391B514B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 6f 76 e3 e4 b8 51 2c 3a-e3 b4 54 a7 ca ce 3a 7e   ov...Q,:..T...:~
+    0010 - c7 38 5f 45 82 70 0d d5-a4 b9 df 5b 48 6f 36 02   .8_E.p.....[Ho6.
+    0020 - 0c 15 d9 d5 e5 5b 2c 06-89 59 05 8b e3 c1 76 48   .....[,..Y....vH
+    0030 - 18 49 4a 59 00 e6 1b 5b-e0 98 d4 1d f4 c7 be 32   .IJY...[.......2
+    0040 - 5f 4c 8b be fa 48 7c b1-1b 10 cc cc db ea 8a 6e   _L...H|........n
+    0050 - 65 12 0d 81 0b 9d 10 43-a9 1d 13 8f d7 53 e2 5a   e......C.....S.Z
+    0060 - 6e cb 82 67 eb 9a be bb-87 4d 9b 9f 59 45 65 e8   n..g.....M..YEe.
+    0070 - 21 83 7a f5 d3 2f ca 0a-d1 d3 f6 56 12 d3 9e dd   !.z../.....V....
+    0080 - d0 3c 25 0c 75 eb 3b c6-af ae ee ec 75 c5 e8 60   .<%.u.;.....u..`
+    0090 - 3c 71 e7 92 1f 8d 37 76-5a 59 a4 4e af 27 08 7d   <q....7vZY.N.'.}
+    00a0 - ea be 2d c2 af 94 49 5a-e5 a4 d7 ab 48 49 85 c7   ..-...IZ....HI..
+    00b0 - 5d dc 5e bc 2c 88 93 c6-25 db 91 af 19 9d c4 1e   ].^.,...%.......
+    00c0 - 08 f7 97 c6 e0 ab b4 01-17 69 3c 9d 03 88 81 eb   .........i<.....
+    00d0 - fb c2 9e 1b 80 88 28 a8-af f2 0b 84 a2 7c d1 a9   ......(......|..
+
+    Start Time: 1547474416
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

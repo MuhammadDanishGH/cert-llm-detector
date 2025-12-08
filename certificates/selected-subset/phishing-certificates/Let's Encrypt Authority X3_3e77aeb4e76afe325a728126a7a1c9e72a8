@@ -1,0 +1,89 @@
+https://secure.runescape.com-rrg.top
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = secure.runescape.com-rrg.top
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFcDCCBFigAwIBAgISA+d66052r+MlpygSanocnnKoMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MTUxNDM2MjRaFw0x
+OTA5MTMxNDM2MjRaMCcxJTAjBgNVBAMTHHNlY3VyZS5ydW5lc2NhcGUuY29tLXJy
+Zy50b3AwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCXSIamIvteIa3h
++h3ekpXoNZZuIeaP7pOmPsVPS4ScilCzoeukdH/b5D6cPZvp7KEqCOxkKwQEbOjb
+HsXv2hCT+zrU9xiaxP/jegN0tBM2KNx9+mYloEvT4r83nU5LHqkaiFp6dULHtXOe
+NlUiErD62rZ0UVmGj1LDBw9UEp0naLe1UxgD374EIGDKBekG01FR1Csykmcji0Sa
+0+uCFBPTnXeQRrrO+CMI28D+GMXWggh82vCS0TdzgdahFxecjE6HUv4dygXbZHsS
+A7aemabcBVqbUp5ZGpjMdoMeTimMgWrvHoaRAsgeCNEuhqf9KCrT2v1r4jiTT2fH
+O3EQdRl5AgMBAAGjggJxMIICbTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFKF1pan4
+a0HxL4HOWJwglcTgZgUGMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyh
+MG8GCCsGAQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgz
+LmxldHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgz
+LmxldHNlbmNyeXB0Lm9yZy8wJwYDVR0RBCAwHoIcc2VjdXJlLnJ1bmVzY2FwZS5j
+b20tcnJnLnRvcDBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisG
+AQQB1nkCBAIEgfUEgfIA8AB1AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgia
+N9kTAAABa1vIV34AAAQDAEYwRAIgTdmEWS+XcqDEDb6dyhWoDcfserwRKEHD9xYL
+7ELVxggCIBI6aST8WUAWsDaajoZrZpLTJwzYSzyoO2b6LXhEv1FXAHcAY/Lbzeg7
+zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFrW8hY1wAABAMASDBGAiEAjCkB
+9MsZVET+SrfKNF1fu+BqhNQZZkiqdO+9lRVm99ICIQCnQvuIGqfBtwtYdLjX4Ayq
+1lij5nMbhCuRAVzRbhLV1jANBgkqhkiG9w0BAQsFAAOCAQEAbHxPRj5AzW3Jfldj
+YQV3qza941GsH0Xlt3tc+4d95uohVs6gD7v/21E0Jlq/accx4R4qraachpvLYlk/
+w8FXd7lX28t8I2FntA1Rp/8BPBQUYiffx9wz6lDyzHsBgnAL861XU/m1OcMPyOsE
+V+mquVIfVcff+HlAQE6piUH74xSyf+9vuoQ6+oGL6vZzclrreqQUAiVMqW4Vm2Tc
+EhpKm9ak+rSqctcxNnXfO7b2fMmqRDHvSgh1hQzTetOHlq2ahNNNOx4pOUeFLzb0
+npU6ziEDuXlqoMCfN504m5ecKAEj+CW0n45xd4d/LKbKwjZEf0ORhMvwftW+4bIG
+mil4Lg==
+-----END CERTIFICATE-----
+subject=CN = secure.runescape.com-rrg.top
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3196 bytes and written 433 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: F2FF7D44CCCA5958BAEEC0E2DC38316753156BF58C342E8DF5478E9E2ED268F5
+    Session-ID-ctx: 
+    Master-Key: BA01E9D61377BDB5D12BAD5FD0C0DCDF373866D856A9D8DA270A1A30D61F5DA972DDD33CB02B97E7B27AA37ADBF0E003
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - a0 8d 04 76 45 93 bf 7e-c4 f3 cb bf 76 82 2d cc   ...vE..~....v.-.
+    0010 - ad 74 43 1d 28 8d c7 9e-83 ca 4a d6 59 41 6f eb   .tC.(.....J.YAo.
+    0020 - 2a 38 c7 3c 08 f4 a8 bc-0b 91 6b 92 1f 36 c4 68   *8.<......k..6.h
+    0030 - c2 07 28 ca fa ef 97 d0-d3 0c 8c 47 61 ea ba de   ..(........Ga...
+    0040 - f7 8e e8 85 86 54 53 82-c7 f8 19 8f 18 19 6e 93   .....TS.......n.
+    0050 - 2d 49 99 2b d0 63 21 db-a1 44 96 07 f4 1d 82 65   -I.+.c!..D.....e
+    0060 - 10 a8 24 b4 c5 87 00 7c-52 b2 3e b0 54 60 42 1e   ..$....|R.>.T`B.
+    0070 - a5 0a 50 ee 02 ca 0f ee-03 56 91 f3 42 4d 95 86   ..P......V..BM..
+    0080 - da c9 61 08 d5 eb 2a 0e-ec 35 de 10 d9 d1 44 48   ..a...*..5....DH
+    0090 - bb fa 68 10 db 32 9b 35-8c f6 d4 2c 46 f1 e1 23   ..h..2.5...,F..#
+
+    Start Time: 1560690021
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

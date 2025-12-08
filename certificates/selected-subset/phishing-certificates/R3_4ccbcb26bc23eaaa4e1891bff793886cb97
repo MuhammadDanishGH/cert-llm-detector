@@ -1,0 +1,66 @@
+https://mojocontracting.com.au/office-new-RD85-modify-auto
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.mojocontracting.com.au
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTzCCBDegAwIBAgISBMy8smvCPqqk4Ykb/3k4hsuXMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTgxNDU3MTZaFw0yMjAzMTgxNDU3MTVaMCMxITAfBgNVBAMM
+GCoubW9qb2NvbnRyYWN0aW5nLmNvbS5hdTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAK01Wrp6eDBVijKucNHFCcFjDrWHfDKDqWKDrUwP/IhBnn17RMPS
+6AvcceT7dTcPDq/b8omVZBtPZJJ0XgdPLDlNkbGORBykFtdeIW9Q7JMoqOHYCkSk
+NTGhsYYNQ+FcZtmLDo1uEU03v8TJWS3rdZvFNaA75xSiUi3wkbJ/59rp4xKYMqE/
+TycA3Xz6FcSmIPlHKADNlItKBkkt+Sjiu5TCQ0AU7n+bI1XYAHZK1nWRYSFGf2R1
+RAc7nzdl2hYd92exaif9oOfZetRATOXYlyoN12LsLPsOTX+SF7vzzM1oBUmgu8DE
+f4R+N1KQ2njja6HAiQC46ZjBfBpJcRo+OZsCAwEAAaOCAmwwggJoMA4GA1UdDwEB
+/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/
+BAIwADAdBgNVHQ4EFgQUFiwrHlTf2bAOmfn7+PTHxtRomoIwHwYDVR0jBBgwFoAU
+FC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzAB
+hhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5p
+LmxlbmNyLm9yZy8wOwYDVR0RBDQwMoIYKi5tb2pvY29udHJhY3RpbmcuY29tLmF1
+ghZtb2pvY29udHJhY3RpbmcuY29tLmF1MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcG
+CysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5
+cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAQcjKsd8iRkoQxqE6CUKH
+Xk4xixsD6+tLx2jwkGKWBvYAAAF9zkL+OgAABAMARzBFAiBmJBF95seN8Te1p61q
+Nxs8VH0blUCJ04EJkWjDlsGyMgIhALJCoG9x+jqWOZbia0e6V8ZVOKUFpU4Fajcz
+i6KvkCieAHcARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9zkL+
+VAAABAMASDBGAiEA2Dz0XQqt2Ib18MwgaO2GUQ7Schg0d35uLfDFg/bkP4UCIQC2
+XQsbkjLyLT1sQb5qaKhD/UVcqoaVuNhieoC389oLOjANBgkqhkiG9w0BAQsFAAOC
+AQEAffxtWwM1szwtA3Pf32iOOOU9FuJ1uDKTv0/+839UDRtIvwlEn0011rVnLBut
+eWngDFYwvueHmSOAuwSg2UaWlqdZQllwLu8yVhjpHTq5GPOpeEg1iCDgPuxBQgjq
+ogmd2Mq+Sfcgl1lhIl4ZLMjJkUlwtbB3ZKn0VqwgOdRC1ozLcFqszmPTL3RxRqye
+Uf+xTT2BRxlpyjwbUxxBK4zesqK4hD76koszEfDTCgPSiHe9knBoxO47DTqQ9C6x
+q1kLPjaPJgttWk6pqh7Kb2lujEJ4K3XMXbzmP+xNyR6cpFEx6Z+8Z2YBvbuQAfWU
+5cY8cXQI2vbzRZC9LJ89EonumQ==
+-----END CERTIFICATE-----
+subject=CN = *.mojocontracting.com.au
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, P-384, 384 bits
+---
+SSL handshake has read 4777 bytes and written 777 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

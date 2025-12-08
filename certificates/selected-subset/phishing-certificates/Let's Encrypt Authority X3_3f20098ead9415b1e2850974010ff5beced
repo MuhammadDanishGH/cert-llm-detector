@@ -1,0 +1,98 @@
+https://egreenbird.com/htaccess.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = groce24.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGozCCBYugAwIBAgISA/IAmOrZQVseKFCXQBD/W+ztMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAxMjEyMTU2NDFaFw0x
+OTA0MjEyMTU2NDFaMBYxFDASBgNVBAMTC2dyb2NlMjQuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2HiBRGfJE4+WVpYC4u2fvT6OvanoFhwJNJSI
+LFV1esPWmWcu8ELpiTSLR4srTMsWQk0AHZbmrhkLTDJGLL9zcjk30EwjZoF//1XT
+y4dk5e9HzOk/qw13cidHUr+6XB6xnK17mbf1mSw5v00NFm7wchgVCrz5HLhwnpw3
+1M8unBefoqjX85n8KOW51zRxnkKWQyvc5Ld6tewJ6wmyLw3Pm43qeSMfRH7Rpz3Z
+mUMo4JbB+pOwR+MQGks+HoRwuGgIsoCXoP2+g0VHtUSgvxT9dDvnWk18hYn7Yvz8
+VWp/B9Mj0mAb+Qs5+2nC6EX72lpnsE67+xOcH2Hd6DsqN1+jLQIDAQABo4IDtTCC
+A7EwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSHcXpvjLfa/WH8iGflf12qSyHHUDAf
+BgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRjMGEw
+LgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5vcmcw
+LwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5vcmcv
+MIIBaQYDVR0RBIIBYDCCAVyCFWNwYW5lbC5lZ3JlZW5iaXJkLmNvbYISY3BhbmVs
+Lmdyb2NlMjQuY29tgg5lZ3JlZW5iaXJkLmNvbYIZZWdyZWVuYmlyZC5leHByb3R1
+dG9yLmNvbYILZ3JvY2UyNC5jb22CFmdyb2NlMjQuZXhwcm90dXRvci5jb22CE21h
+aWwuZWdyZWVuYmlyZC5jb22CEG1haWwuZ3JvY2UyNC5jb22CFndlYmRpc2suZWdy
+ZWVuYmlyZC5jb22CE3dlYmRpc2suZ3JvY2UyNC5jb22CFndlYm1haWwuZWdyZWVu
+YmlyZC5jb22CE3dlYm1haWwuZ3JvY2UyNC5jb22CEnd3dy5lZ3JlZW5iaXJkLmNv
+bYIdd3d3LmVncmVlbmJpcmQuZXhwcm90dXRvci5jb22CD3d3dy5ncm9jZTI0LmNv
+bYIad3d3Lmdyb2NlMjQuZXhwcm90dXRvci5jb20wTAYDVR0gBEUwQzAIBgZngQwB
+AgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRz
+ZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgDiaUuuJujpQAno
+hhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWhyoVO1AAAEAwBHMEUCIEN+UgQdgQJc
+IvO2mo7UFxyV/odDWHfoQsIL+ojIUetNAiEA2F0fTE87zwQjAQ232OfDYTDdLD/7
+V50Qj6BxJFGXFzUAdgApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAA
+AWhyoVO1AAAEAwBHMEUCIH47N0CSDJUp4AOorNYiY3LeQqblFBg3nhtbWEWkcgKI
+AiEA1lJiq/8On9zvzDw/BZkeehSAdmQ8XK7Te3G+lmWl8YgwDQYJKoZIhvcNAQEL
+BQADggEBAI6NYtiZFH99l3lPGozu6NgTHUMXi7b7Z8EgQ29Qa1YsDsFpfvvwJ2cX
+irHvHoIUESGz/eYplqDm2vcHBfT8ZRhv9k2Aof4rPCA7vJyQTiawimnbVh2fQk3r
+kqIc1JdaEAAXQf/z5RUnx3uAjp6GIwzF3OspGEwKPFrmnGEfpiB+4XXCtq0aCC/v
+LGNotGIVo26Q1wObxTlJsRr1cgeiDkX714qXklH5gdc2vcCUDINATBIWYjSwburs
+aFzqoB/5nDEmV3ckEACzlpvKtppCsSbt2WQt7aN8GvtgddSGUOrDmSHIfwCzIjEG
+TbkpyRrUY4uXJEW64m/x8Qprdoqd2A0=
+-----END CERTIFICATE-----
+subject=CN = groce24.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3586 bytes and written 452 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 2D6A697629A93E6D24DFCD37B8FBD099C8947DF01B6A8551348885ACF0665638
+    Session-ID-ctx: 
+    Master-Key: 25DF3D1443F607B1D7D77182F9CA29056D1D2C36D21EDE9FEB5972ABA933090645964FFC3CB335A62D90E794A4279B8A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 0c 23 bb bb e0 bf 33 24-16 c6 d1 db 47 dd 91 24   .#....3$....G..$
+    0010 - c7 7d 3f a0 d5 b2 40 96-b6 b7 e0 2f 2b f3 a7 49   .}?...@..../+..I
+    0020 - 36 e6 84 83 9e 44 6d d6-44 42 01 d7 24 28 34 2e   6....Dm.DB..$(4.
+    0030 - c2 ff 71 d2 e1 7b 36 58-74 ac b8 d4 40 d3 aa 5d   ..q..{6Xt...@..]
+    0040 - 69 84 84 58 c8 d5 82 d0-75 da a8 de de 9b 67 87   i..X....u.....g.
+    0050 - 45 24 dc df 1b 3f 7b 96-e4 e4 16 e8 31 e5 a8 7c   E$...?{.....1..|
+    0060 - c6 15 d0 09 c0 67 2f 3c-55 b3 f7 8e 32 62 d6 96   .....g/<U...2b..
+    0070 - da a4 75 96 b3 14 ef b2-39 ca ba b8 7d 15 f3 db   ..u.....9...}...
+    0080 - 62 ba 91 c9 ba db 7d 72-45 3d 87 d7 d9 ef d2 10   b.....}rE=......
+    0090 - c3 0b 65 a7 fe ec 4b 1f-ba e6 fd 57 c5 8d 36 46   ..e...K....W..6F
+    00a0 - 16 97 52 1c c6 ab 7d 93-18 14 fa 2a 77 14 e1 73   ..R...}....*w..s
+    00b0 - 22 be ee 8e be 90 04 a7-d5 71 22 42 3c 11 1a f2   "........q"B<...
+    00c0 - 34 10 2a 03 03 03 07 4c-80 2e 1e 85 31 51 c7 c4   4.*....L....1Q..
+
+    Start Time: 1551016815
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,81 @@
+http://targetgene.com/rpa/img/ar/myaccount/signin/?country.x=US&amp;locale.x=en_US
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = targetgene.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGAzCCBOugAwIBAgIRALxFVYWvXqboE8kqLoYh9JUwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0xODEyMTYwMDAwMDBaFw0xOTAzMTYyMzU5
+NTlaMBkxFzAVBgNVBAMTDnRhcmdldGdlbmUuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAvNuvyOy1/WWIg2YExHrKPcKqpTVSZXgS4MDiozlqQNZ4
+eLNsK4ylt86otqYGi72CQfGBL/emkAZWa/4zeA7XsSkR8iofuzbwhI+ObtAQGHRM
+y/afHcUXB7icBPAxx0GQHkc/cH9tzCLIlbdYDy/o04P9kEokpdyQ8E41MWm5pNWM
+OyaZzj+le5I7PUyuj62F2SxEZGdkofkYhA0Y7VHp7nISnFH55n/U/yjmHA8i23p5
+53hJxujLXIcw55mkT043pLhydJm/62tEZrOotvbt80ncKeBmG0Amw/RRacp0dsGF
+rJwaEGxS79WOfKYTTsXNo1RsIypn8o8k03McHLh17QIDAQABo4IC6zCCAucwHwYD
+VR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFLlJJJX6rDsa
+2xvQdz4C2WRIon+BMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysGAQQBsjEB
+AgI0MCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5jb20vQ1BT
+MAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2Nh
+LmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEF
+BQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQ
+YW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhho
+dHRwOi8vb2NzcC5jb21vZG9jYS5jb20wQgYDVR0RBDswOYIOdGFyZ2V0Z2VuZS5j
+b22CE21haWwudGFyZ2V0Z2VuZS5jb22CEnd3dy50YXJnZXRnZW5lLmNvbTCCAQQG
+CisGAQQB1nkCBAIEgfUEgfIA8AB2ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCW
+ZDaOHtGFAAABZ7lYMXEAAAQDAEcwRQIhAOvtoQ2xMR6J8FqY/oKEE9f1PyorfDki
+hC1KzeKgz7KDAiBxHbJAfQAutN3gmXwuGYzu2n5gXOg7DIQpxjBRZ6nFPgB2AHR+
+2oMxrTMQkSGcziVPQnDCv/1eQiAIxjc1eeYQe8xWAAABZ7lYMZ4AAAQDAEcwRQIh
+AOUTl+Ec117oTzBTETDaLXPIA6VxswD7C2ewS1yqxYBzAiAsPaI+HHTlzhYrUCVH
+9PDm9qCra6hCzg672sIKIE7bAzANBgkqhkiG9w0BAQsFAAOCAQEAZxEXGEa12+E/
+kx5aMDsdARfXVIe1qtZJ1SGTB4EXbMCUonNKf4n1m6NRn3I8SyvxhDP2G5B3r3V2
+n9oz73LEtEPvP1nv2LGbgM+D9Gi2Hu9MXIXCCbxn9XJn28XVjz3Fdkqzh/AZVguG
+UjWB+Mi/X2EyrDuZiMl4D/ro7FmJbVsm2C8W3/a1xdug6u5dzD82/YnPae8kDfKt
+F1OxFo1eKXajdLiSDx4XWJCilSXEVx8P76si6SnAjv9hQ6OUUcbmzNr5vf8Ye+BQ
+Fv1RaEeMtAtJqzJfkCYqpnaH5Yl6BxRjRn7TvRNlkq//svVs8R2IxDVIP8yq2V4l
+5FrfxQ4evg==
+-----END CERTIFICATE-----
+subject=CN = targetgene.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4948 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 1A072BA56EA75976429254AD9171A5831D7C28CF8D648521FA001FD1D38EC087
+    Session-ID-ctx: 
+    Master-Key: AE0830B70FCD9503A08BC342EE5CBA8BF2502B1AE24985E2F7AAA9481D8049909F477EC7189D8A15EC3630ED27BAFE51
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1548424832
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

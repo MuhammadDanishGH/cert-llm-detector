@@ -1,0 +1,64 @@
+http://accedimontepaschi.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = accedimontepaschi.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFSzCCBDOgAwIBAgISBJ+e21TUlKdoozSCIPcB9qv6MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMDgxMzA5NTRaFw0yMjA0MDgxMzA5NTNaMCAxHjAcBgNVBAMT
+FWFjY2VkaW1vbnRlcGFzY2hpLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAJXLkHaiSFIhGgD6/+VSoF8ncLesyK8ZY+EJLGahkWWWyN0x/akmKWTS
+qnWqy7+HNZxu0tSBLX2JNyjooQXKY6Br/uvTHFHEJcs6Gxqe7D3S7lO0VOzc/Bps
+RzGn3bJFgp0vvMP3lYYZArqiZz4ZwmSCGk5bhpZGMq8kI2OEVIILSVp5kKtYhc6A
+/S7kgvaTiyo9HtSF0R5R6vJBjgudQYJ9POxZRFTKW16yLez93qJhIHWrN9P2l1EJ
+/vr/c7fniiKzwK8JuNeORaZU3/5epxqX4UFiA2TRDSDJlK59TIq9fBCc8HWGfhKK
+bvl165yWzrleX105YIZrKMEXrJOiEMkCAwEAAaOCAmswggJnMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQU80MFj8p8fHPKtlawx7L8gHvyRocwHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wOwYDVR0RBDQwMoIVYWNjZWRpbW9udGVwYXNjaGkuY29tghl3d3cu
+YWNjZWRpbW9udGVwYXNjaGkuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysG
+AQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQu
+b3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAb1N2rDHwMRnYmQCkURX/dxUc
+EdkCwQApBo2yCJo32RMAAAF+OgY9tAAABAMARzBFAiAjaKbnBzQQIts8hARC/mmq
+cRgmCpLvFCKXd2jbWw2F2wIhAOddxuKWfB2L9CBpxRZJRLKi+k6IETv/WZajQ2yE
+om1qAHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF+OgY9sgAA
+BAMARzBFAiEAs7LJPQ5tzcUC6keYKI5cfUj/ZcCFI1d8NSDLUewCX04CIFkejBtA
+GW/9BZDeeKgBIg53aNFBC41h64AKiZeiW1inMA0GCSqGSIb3DQEBCwUAA4IBAQAe
+2vfKw6H9m9D80MOU14/k/KENHp7drFqrR9RTjbWVQeP4AtHxw7RvWgbNfs4XWIB+
+pVsiXj4N4yp6D5LisY2mU2aosMVaKWjkTsuKBTfSwD1BDw5/XHtlXj3YYUN7EB2E
+pk4JkVO3qhZqyblmRX5JqyH1vvWBFUQM0j9yQ6ushjIHWV4eb4ftVrrbkgMNEiwC
+LxSjr1wzXqHkpg31ZHfNs6/JHMjqfbYjmg4KfdG/Bx5heZ5Fmrouf6z44LC7LJRc
+ZOIinJeY3iDnxohCg/450q+8AAEojapFJ9KcRne27fUT24MLRM0zSLeTxV/VG2Tf
+z+opaTJNwYrWEq0AHbOZ
+-----END CERTIFICATE-----
+subject=CN = accedimontepaschi.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3230 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

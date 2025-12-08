@@ -1,0 +1,65 @@
+https://dlscord-app.su/welcome
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = dlscord-app.su
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFODCCBCCgAwIBAgISAyMlgrBG2DjzQ/FegbusSXZLMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTYyMjE4MTlaFw0yMjAzMTYyMjE4MThaMBkxFzAVBgNVBAMT
+DmRsc2NvcmQtYXBwLnN1MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+0pp59z5qRR74FbyhgvcFuJyIromMGW1p8GQ2Xa+VhnGrgtyHRIQkSvV1249uXFgn
+GrJiaSm0c1At0IYxCVjjzzoEw5lIl9Jbq+Ww6nqKAmqfcCecT5ubYUBKYBRhxXEH
+a0vV6AKugqIpuzcMvr4eN/UGbNN5/KdHvH8N00IRRtTl6P5T5wK1VgeHU92spgRu
+lu6/1T+6LnI3OY7AfbV2LAh+6lovNh8N22kBL7odK22EQkJWNhFMahGJj3DYQ2gW
+QZBsWHIa+CVu90p28I+s3KtNIFCuhUMTPE7FqShFtdvacEqGhaRQu5vu0+avSunq
+HYMmk40Ww6DhuepOVyZEbQIDAQABo4ICXzCCAlswDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBRbVL9HMxOHIyIwLZC/pFbnTu2V+jAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzAtBgNVHREEJjAkgg5kbHNjb3JkLWFwcC5zdYISd3d3LmRsc2NvcmQtYXBwLnN1
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBgYKKwYBBAHWeQIEAgSB
+9wSB9ADyAHcAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAF9xYoQ
+UQAABAMASDBGAiEAmV7yVfXq4WFUg1fgZCGnUMsNk7iP6zJ89NtErQgKj20CIQDT
+B+wmVZwzMh8s5cFMpQWXwaMJG/fYGRmn5GNVo+8UFgB3ACl5vvCeOTkh8FZzn2Ol
+d+W+V32cYAr4+U1dJlwlXceEAAABfcWKEbIAAAQDAEgwRgIhAJKSJ7K+VLRFMwNI
+HBJvsG22r52k5R0cEC4acj+9DNYeAiEAl+75EhQqFvjlxILj3MY1MTt7XW6g0XrB
+XqcL4iNXUsMwDQYJKoZIhvcNAQELBQADggEBAFw38dxG1psyyx0aUfqDGVb3TVoD
+HGdxJ5WmzLbcWa0rx2FiC9yNRYSQSLZ6Pe3AbaojcNu91fIxqIPndcZqXIBw65Om
+azGqdyQIMRmbUxVxKcdJQAS663gLjB6xk9cYy1TCXlfxA10qAnCDoC55wuTEQYSd
+TRlhKezlSFPiKWbQz7yIUZdqYhUd3RRZPdzuY6ZIX6pmLQG1KYri52ZEgBV23WJa
+61TK7Z6PWM1hx2jGJsXHXkW4QBtm809pM6Qj6+if28R2T18t+iVEmMIb3qESHyo/
+/Av/iYzSCqoDIlLCKrGnS29/zToeW7WwZKnn19XmzqKtsXY5Vvgxz9jhrmM=
+-----END CERTIFICATE-----
+subject=CN = dlscord-app.su
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4580 bytes and written 372 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

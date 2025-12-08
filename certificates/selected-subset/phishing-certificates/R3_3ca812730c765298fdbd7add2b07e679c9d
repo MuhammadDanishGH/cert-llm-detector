@@ -1,0 +1,61 @@
+http://www.freefiremembarvn.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.freefiremembarvn.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEezCCA2OgAwIBAgISA8qBJzDHZSmP29et0rB+Z5ydMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMDUxMDI0MzdaFw0yMjAxMDMxMDI0MzZaMCExHzAdBgNVBAMM
+FiouZnJlZWZpcmVtZW1iYXJ2bi5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC
+AARmxbIlOzcxkSApp+PwHI22b6K7XE5kGC7xnXUQVuEmJacOwr3hMks65m6I2yvA
+2pbK4BKgnmbytzNp2ptn4aRjo4ICZTCCAmEwDgYDVR0PAQH/BAQDAgeAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBRLEX1/kdmzwzYWdEVRIIz8qVQpaTAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDm
+H6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5v
+LmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzA3
+BgNVHREEMDAughYqLmZyZWVmaXJlbWVtYmFydm4uY29tghRmcmVlZmlyZW1lbWJh
+cnZuLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYG
+CCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQIGCisGAQQB
+1nkCBAIEgfMEgfAA7gB1AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpz
+AAABfFAyxeoAAAQDAEYwRAIgJmPlXpJX2m1D8UwannvhLjQfVvjranU4ms0Z3+MV
+SdQCIHFbg9jLWaYZOuWI8NEkegosq805ykt6RHkaUDYAYZ8/AHUARqVV63X6kSAw
+taKJafTzfREsQXS+/Um4havy/HD+bUcAAAF8UDLGEAAABAMARjBEAiA4C2VKYoJK
+1zpPPUudOuN9Cy4MMK/dchDssWwwOKjXHwIgDKjNGJ2YvJJ/eXFCBs2Jvzh94kK7
+7d6neQQCPXU8/4cwDQYJKoZIhvcNAQELBQADggEBAJ10o0WtU1eM7M8yo04Vo6GB
+mi15121g/KNdfPBOYVWlTC1I0doXyH1wRxeZ4r/FgB3dnFSThtnaJ03cqq4fPOCu
+FvrFcg9Qlfl67q0wiH2qpxU1nLLTY/ZvO3hfMWOt/FBDSTLmQ5QTmFrxdrSwkIjH
+LGoKaUnAOsTdoCbYjMMywrKQKgX7ZHaIOLvpO7+g08j7jyO0EfxiuHDduVNOODhV
+3zNASODg+n9rp8VDXmWkyTOOU03wex52eYCG1eQf3SiVlGmyc5tBwiAwl2+/kCDb
+gCo17hv/VIFNhYCdru/dyewtOnA4+VVYU4fryccCHcKnSK2bvUVM9+DfVOzTNAQ=
+-----END CERTIFICATE-----
+subject=CN = *.freefiremembarvn.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4156 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

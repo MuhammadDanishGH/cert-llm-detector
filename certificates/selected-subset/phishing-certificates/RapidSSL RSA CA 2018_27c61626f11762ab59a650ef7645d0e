@@ -1,0 +1,92 @@
+https://www.buhgalteru.by/DELTA.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.buhgalteru.by
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = RapidSSL RSA CA 2018
+ 1 s:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = RapidSSL RSA CA 2018
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFvDCCBKSgAwIBAgIQAnxhYm8Rdiq1mmUO92RdDjANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRSYXBpZFNTTCBSU0EgQ0EgMjAxODAe
+Fw0xODA5MDUwMDAwMDBaFw0xOTExMTcxMjAwMDBaMBwxGjAYBgNVBAMTEXd3dy5i
+dWhnYWx0ZXJ1LmJ5MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxr2F
+Aq8QtjcOWEa3hdU+pcF4KuKY0ETbaDBlLb24+ltUNCIcAFTh7ekT7jJdDefDRFZE
+7KzKiV6t1/xFDqRbb9x+eTIUetH2N3kzws2zP/5eQYEmqXxkRIm2ouRbWXkAUUyT
+7ib/B66hacYvZog5Ez2x00BSaCeXMlFAzZYiva/bQX02GQ23rZhzVCrWyfsrEZZk
+qLoHPoagukEZUOSK7Mt3aATQWxWUdU23bUfZJA5gwT+3hml34PHffhGh7QGHgvgR
+zU39TB1m7+AgB9CFlQPyo7SOQKH5WPq0FrHYQP8T4kS0QH6dQdvaeB33eKr/8BIM
+OloC8x5rM9BaBhNVFwIDAQABo4ICtjCCArIwHwYDVR0jBBgwFoAUU8oXWfxrwAMh
+Lxqu5KqoHIJW2nUwHQYDVR0OBBYEFCqdKm66nWh0MgQiihEKYKDA/FI5MCsGA1Ud
+EQQkMCKCEXd3dy5idWhnYWx0ZXJ1LmJ5gg1idWhnYWx0ZXJ1LmJ5MA4GA1UdDwEB
+/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwPgYDVR0fBDcw
+NTAzoDGgL4YtaHR0cDovL2NkcC5yYXBpZHNzbC5jb20vUmFwaWRTU0xSU0FDQTIw
+MTguY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAECMCowKAYIKwYBBQUHAgEWHGh0
+dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQIBMHUGCCsGAQUFBwEB
+BGkwZzAmBggrBgEFBQcwAYYaaHR0cDovL3N0YXR1cy5yYXBpZHNzbC5jb20wPQYI
+KwYBBQUHMAKGMWh0dHA6Ly9jYWNlcnRzLnJhcGlkc3NsLmNvbS9SYXBpZFNTTFJT
+QUNBMjAxOC5jcnQwCQYDVR0TBAIwADCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1
+AKS5CZC0GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQAAABZalHPooAAAQDAEYw
+RAIgPjgWJZK8Q9ogOJ2W14UUIYe12bR1jJ0sHP8dwfqWCLMCIDvkQCsZuMihmz1J
+nNOrRXS2mwH083H7UGC2poUXPIeNAHUAh3W/51l8+IxDmV+9827/Vo1HVjb/SrVg
+wbTq/16ggw8AAAFlqUc/YgAABAMARjBEAiBMSr7Bc8g0dqqPWkurx9ySi8x/DABD
+tbB7Y0oUUV7hagIgeBP5lJbq/R7fd7RYttMx3bi765r74xthCQvKBj422DMwDQYJ
+KoZIhvcNAQELBQADggEBAI55eB+lXZttRroTxLq+1IuCVDHO0VqBpYJTzL0kSUzP
+3DG8aELmvfzEHPf0nHa1Go6pRM2pi/Gz6MSeQTz6scl7MYrThnVg/B+nyxI2UXcn
+BOEbVCLhUiQQwbqiC63iGOQS+VyZkybQ4vqOTP5gGaS6YGvCYgcGSVz3ijPRVlAC
+BzWV7rPyvpbvKv8RXP3JfGHGbx4cD3bPDzH+RuMgiSoaSpQpQhSwOyOD1PdTOq5d
+wj2f5EMT31avOiOHzitDTELDfi9m2oArL8ZcP4VGBCQm6geo4wgJ+EKTCypuXHul
+iY3l3CcRaA+Y3zxpX18dgDABttoDAB+7hKELrJ4T0pA=
+-----END CERTIFICATE-----
+subject=CN = www.buhgalteru.by
+
+issuer=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = RapidSSL RSA CA 2018
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3370 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: D5563348F54BEC1D82BD00CBE1E39D3AE0F4B8D29C9C2791A69EE09A93362E09
+    Session-ID-ctx: 
+    Master-Key: 4D7684D2FB0A3F345507C32CE4E0AC8731AE706ADF29548307777287CCAD7E8BD54C9086354F7F7E38943C94F250FD76
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 58 50 48 1f f2 7d 83 70-b2 27 f4 f8 32 c9 32 fc   XPH..}.p.'..2.2.
+    0010 - 8b bb b2 04 44 5b fa 0c-a3 01 d2 c0 e5 53 b4 51   ....D[.......S.Q
+    0020 - ed 19 84 ad 3f b0 1c 48-f3 69 88 17 7d f5 f5 bd   ....?..H.i..}...
+    0030 - 7f 90 c0 ba 8c 1e be 27-86 0a 09 af 58 fd d0 07   .......'....X...
+    0040 - 3c 52 70 96 c4 d2 83 39-1f 51 2a 59 f2 f5 37 f5   <Rp....9.Q*Y..7.
+    0050 - ba 0e 6d 89 0b 76 03 e9-75 e8 f1 73 d8 bb be de   ..m..v..u..s....
+    0060 - e3 83 a2 b2 0d b2 22 d4-cb 74 5f ea 38 57 eb 4b   ......"..t_.8W.K
+    0070 - d7 2c 5e 43 f0 21 e0 38-9f a6 e6 41 64 9b 79 c4   .,^C.!.8...Ad.y.
+    0080 - 6a c6 5f ee 57 73 97 de-d9 81 b5 7b 98 d6 63 1c   j._.Ws.....{..c.
+    0090 - 8b 06 30 e7 20 28 70 28-d5 ce 7e d6 72 2a 63 04   ..0. (p(..~.r*c.
+    00a0 - 70 0e 9a 7e 09 b5 53 68-52 a6 ff ca 38 ef 9c d3   p..~..ShR...8...
+    00b0 - 9e 6e a4 f3 81 8a ca a6-60 fe 3b 0f 55 85 9f 79   .n......`.;.U..y
+
+    Start Time: 1573135284
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

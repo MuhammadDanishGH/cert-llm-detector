@@ -1,0 +1,67 @@
+https://promosinterbank.virtuals1cliente-pe.com/doc/doc
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = promosinterbank.virtuals1cliente-pe.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFgjCCBGqgAwIBAgISAx2zI/mxVi132BH9bvTlxTYAMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MTkxNjI1MDlaFw0yMTExMTcxNjI1MDdaMDIxMDAuBgNVBAMT
+J3Byb21vc2ludGVyYmFuay52aXJ0dWFsczFjbGllbnRlLXBlLmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAMdktAL8xUhJwuL4zVXoa/70nUWdstRc
+h/T9NEIw/CHIqQXrp8eZjJwyBT4j1U8YqL8/a1qp1Z7Coe0yosb9yUbKjwemkete
+rUjmZ9Elj4GQKgUDza9g7+e28m/Nc5BbZzcqS9pL/xoi49Npx6ODbmXrVI9UMGZv
+4rV6Ch5rhHXA38izAcsjggrXBs1Tw8CkVvtWf2Yqo4LxcEyKZ62ddJzdemGCT48r
+2qVWmUr//NJRPc76UmrMczcPLOzNm8sy6cWt3GWt8CWJoLKMbwkVE9lv80N/eNtU
+kbsVgE6Jtrx7uTo9ShpO6p/uTSipOdOz/IxVimQ8OFCD3CLZrOYiQG8CAwEAAaOC
+ApAwggKMMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU+8gXqFypSXHlBa+TFqxFkqX4
+yzkwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEE
+STBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUH
+MAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wXwYDVR0RBFgwVoIncHJvbW9zaW50
+ZXJiYW5rLnZpcnR1YWxzMWNsaWVudGUtcGUuY29tgit3d3cucHJvbW9zaW50ZXJi
+YW5rLnZpcnR1YWxzMWNsaWVudGUtcGUuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIB
+MDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2Vu
+Y3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAfT7y+I//iFVoJMLA
+yp5SiXkrxQ54CX8uapdomX4i8NcAAAF7X3H2+AAABAMARzBFAiAPy1n5JuO0syou
+6Ym7x6a/FQIeYEq2MY2wPAT/r9uEIQIhANxo3WV6SLKhCnay5iVzRQCY5XjFnIq4
+GxpGVyDtZy61AHcAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAF7
+X3H4AQAABAMASDBGAiEA8X9t5aPbYk/OQ8ruxjy9W++jl9aDzu4k2pZw5emnXMcC
+IQDTKy3RgKr5gsb/7qg0cmCC5nHbDFk5tTnHh3ZyGZ0tsTANBgkqhkiG9w0BAQsF
+AAOCAQEAnWRY98Lf3hgSBhKF1AzsRiGsxvBeLRXLycQy7NenEqGo8j5n9IWFBZev
+9UFVhYm/ZzzpLrdJMibHPbVMHXfNXd2SS2Fx/YxOq6RlfjRSN8J4XnxmgXfF6sgb
+i1LDvbMUSpKWzLVWli/ljrlVsLv603pUrCRM60DIaHnFDTVCB5eNFp9x0zGpwmMG
+QOlLb1CXUAv2s5/YoQiCQsXAb9VNNw/FPPzEOZOrSl0fIo+VgWVKKqD5wFBwkJcb
+6gKRPlyY79DsYKU9sE4BFbG/PfkfXuEmmD/hjcjYWY+k8fZMtwGGW2+S11v/CIW3
+gYGa3y3/hwqYnDZn8UmQBC8ynbA2fw==
+-----END CERTIFICATE-----
+subject=CN = promosinterbank.virtuals1cliente-pe.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, P-384, 384 bits
+---
+SSL handshake has read 4828 bytes and written 827 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

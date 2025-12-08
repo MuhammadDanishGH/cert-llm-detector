@@ -1,0 +1,72 @@
+http://www.tornosindia.com/Aid/toda/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = tornosindia.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGiDCCBXCgAwIBAgIQRWgY6VYUuV/NhrtC2WpJ4jANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTEwNjAwMDAwMFoXDTIyMDIwNDIzNTk1
+OVowGjEYMBYGA1UEAxMPdG9ybm9zaW5kaWEuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAuJB4R3rgO+Vu3wCT6YAPsnH/rh/fRJ/CxFg/q6Fg/+OQ
+zXuaSTLh7KD0Whex7fAS81mgCAN4obvE7guCfx8HWbzvHUGth30VP1/PFoa1AeuN
+sIlly4kDxilijsEb9xsufOYCBpVJU+aqVykJQZT13ZDbuNmleO7Dc/XtwuRzH43w
+ndd467QOAzc6CdiQpF0eWakbnAwqh7kVXRkzZ7qiMd1yEagCOUHdRuk3p6acpA74
+5iEFW4mVNkGjDr2FiiMxMyBu+Xdiinc6O/OlnUhaRZ9Nm0jSVUhK4ZEwtJynZdeG
+wgwgDeCJTcBsWv7Gv/NosaymslT1GqJP6WREUSBV+wIDAQABo4IDcDCCA2wwHwYD
+VR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFLKOeXrMQrt7
+lbQtxfkZFM3xLt8qMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEB
+AgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeB
+DAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRx
+MG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbElu
+Y0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8v
+b2NzcC5jb21vZG9jYS5jb20wggEGBgorBgEEAdZ5AgQCBIH3BIH0APIAdwBGpVXr
+dfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXzz6r0PAAAEAwBIMEYCIQDI
+LHzjGfJSr7erbMLPnSzheFyW+gdXeeGXUR9Dg8677AIhAKkWPy5R226CIos9n3xt
+eI1op08U+vkpp7kbq6bmy/Z3AHcAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jw
+kGKWBvYAAAF88+q9HQAABAMASDBGAiEAnxb3WOrSwO1jXBSSavBhWxtoFyWeapVD
+q4Q/Q1eorQgCIQD0Xoxxarcs8TQRG6pw4mpLTG6+JouMta19sDtTr1zXCTCBygYD
+VR0RBIHCMIG/gg90b3Jub3NpbmRpYS5jb22CFmNwYW5lbC50b3Jub3NpbmRpYS5j
+b22CG2NwY2FsZW5kYXJzLnRvcm5vc2luZGlhLmNvbYIaY3Bjb250YWN0cy50b3Ju
+b3NpbmRpYS5jb22CFG1haWwudG9ybm9zaW5kaWEuY29tghd3ZWJkaXNrLnRvcm5v
+c2luZGlhLmNvbYIXd2VibWFpbC50b3Jub3NpbmRpYS5jb22CE3d3dy50b3Jub3Np
+bmRpYS5jb20wDQYJKoZIhvcNAQELBQADggEBAA9U0lYqA8JgW4BiGcW4UqmlFW5T
+Md/EM+WKoedDGAv4UI0mLA+S86OG4poY3f4uMjxEkuTEPK7TWfXzwohWC1Vq2NFy
+Sqidd5X065D2Tv09qYkBmNrbEMjv/iiX0Vz5bYMq4w2xKoSdEEhVMJ8x4ad8HuMY
+1IXcLMhKh98NwelwohQeNK6VZ+JzpsBMMpZDiA4ea6wuzFefvtNL2SzdkMbTP4Sf
+CCrdJAfdyvZYnbb1BXEEhUDv69yjcOu1ndH4UwwLT/X61hyY9rRmdaFMtqjQc/BZ
+M75iCd2vaMJyqTBvQleeodbqJqQWvOQmlg5XstKJxbGyMDv1nstZ+1HTOJo=
+-----END CERTIFICATE-----
+subject=CN = tornosindia.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5181 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,66 @@
+https://digilioreac.cl/wp-content/lioas/contract/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = digilioreac.cl
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFSzCCBDOgAwIBAgISA32TLnhvjXBIxPhndU0SgGxeMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDMxOTQ5MzZaFw0yMjAzMDMxOTQ5MzVaMBkxFzAVBgNVBAMT
+DmRpZ2lsaW9yZWFjLmNsMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+08m+vbcKFTOq1L5L7yEnAhg2jWGSzNwDWzc2uMAEB/Ep8te4kD71lWqqSwSuTAZ6
+QyGwZth96wTwGgaVTBSgSpIuqd89IuGyANgmwdECfj6I+MiLnl4RMBnEvIBRbH/S
+MWhZsv84fcTDd5qgjTsyp4hOxpctNtUPs4rC1m+d01YqQ3L+FbU2fNaLVPHVRQyX
+BWtbnsdd5HfiMjQrrG5ZiZLOCYjNwOf2itTIfjMqbrTc3j8CeXu8xVycJGTuAWaL
+U2/GVZj8kL2ojvLys3Bm6hRfs4MrA66X7pR0QIbTgzYZ5KBcEOt0tDnx0X0m+BMm
+RD48TkzymJn1m/uLmaT4rwIDAQABo4ICcjCCAm4wDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBTzaL2ngpOMcEk7JRnZHJDfGjz1jjAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzBCBgNVHREEOzA5gg5kaWdpbGlvcmVhYy5jbIITbWFpbC5kaWdpbGlvcmVhYy5j
+bIISd3d3LmRpZ2lsaW9yZWFjLmNsMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysG
+AQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQu
+b3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAQcjKsd8iRkoQxqE6CUKHXk4x
+ixsD6+tLx2jwkGKWBvYAAAF9gg874AAABAMARzBFAiBTSU2k7A76sZZwvurHOlhD
+CMJluAkb/kwewT68OTXjMwIhALGNxR77nRHfhn0jWnLWSUDSw2qh81hkaREPr9My
+/eh4AHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9gg88DQAA
+BAMARzBFAiEAz4SZ7fU5SN2OeU6X7TMcZWduyMg1IWxMvtgXXwT2Ho4CIBk6n7IR
+qvmv8aATsYFe61v2T2q9In3QzsJFwgBDmYwaMA0GCSqGSIb3DQEBCwUAA4IBAQC2
+qVkoLFOLi/nnBRz9LlATCoPVg+mo+gik7cEm8PrzPZ8WYkWCw3FNf8Ot5+ukqMxg
+DCbur4lsjoHGa0Hsd9RwsfROPNN/Y2Fziul8elR4pq99/vubMt5BMUXvO4ddjprR
+FxBmzQaL7YNQ4sYrufNOKANbCS5+kOCacxqIoV0aAZJk1/F3MyW2UcNtrPnxqmrS
+j3UxfAbQEP09OYlyQ7lw8DUQBn0GD6Kh4hK5YgM/qkzeVrXwWiz+LL1A/PqjJTRS
+hGxMJWg96OQXrsmpQ/3StKUINnjrS+dAvUyxhc8HmidaIp7HXLEQcvdMWB7Sgkfv
+lNT6iRPt036Ffwu4S1sc
+-----END CERTIFICATE-----
+subject=CN = digilioreac.cl
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4545 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

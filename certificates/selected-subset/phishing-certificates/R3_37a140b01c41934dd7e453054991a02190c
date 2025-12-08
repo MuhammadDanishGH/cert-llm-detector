@@ -1,0 +1,66 @@
+https://raktuen.szsxwbl.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = raktuen.szsxwbl.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFVDCCBDygAwIBAgISA3oUCwHEGTTdfkUwVJkaAhkMMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMjMwNDMyMzRaFw0yMjAxMjEwNDMyMzNaMB4xHDAaBgNVBAMT
+E3Jha3R1ZW4uc3pzeHdibC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQC+VlqGADoSw4U0goCDrC/nUusr7VuUR+vDdqvgZCape8fmVOKnffr7tiGb
+GccOij+MZ19Pd/OVpTTcfAqZ5QsUkkCUV63YzadozOuMGnyytbI1+tU9BCpiyX6k
+pptXA6PbkyECjYbCCReeDaL1Vbyq4HvAYJVp2EZRjlZQ8do0H40tDI7V3ct1RUUA
+5o3/VFQXUQk8a4a6a5TNz4HwX0ZlddmlysvWUDUW7FeFEdQnLBOAqxKu8mNDj0pi
++J/aNKotMs6hOo8TKExlHDBlSaaVILTPWXxLAetA1WEvshCd3PeQTCiktp5OV0ku
+wJQiQY/iK9fNFGlrmYQCunfM2TwDAgMBAAGjggJ2MIICcjAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFI0D7GQeHjRmY/pfbPO18JDmucJwMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMEYGA1UdEQQ/MD2CE3Jha3R1ZW4uc3pzeHdibC5jb22CE3Jha3R1ZW4u
+dGpocGNkYy5jb22CEXJha3R1ZW4ueWxzYmQuY29tMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAQcjKsd8iRkoQ
+xqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF8q6LvFgAABAMARzBFAiEAzV1RzQ4z
+6cywJqe2oCpC1u4ALVW7Ve0gBQfPvlem1cUCIG77+50AlJZgQYTwdD212VLq0KlR
+LRU1IdZsdnp4NvJiAHYAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QA
+AAF8q6LvAAAABAMARzBFAiEA6fqOid9H2zO8VZyZiVriLLsYd/X3+Q6EhY+7Pzly
+dEUCIBkJtLuIdoXF/RmRpDhfdwMvxOc/lHVewZ6F+/O98+CCMA0GCSqGSIb3DQEB
+CwUAA4IBAQA6AkPYWHWAcsOnizQS/E8QSnRB6jWmAD4QWfL/2KvGqbFIDCVp1aV2
+r7Z29kvXGcU78sOBJ9jDvNYC2rDhJPOm8op/Uf73J4sSRpDIeQpMFUT9Uw+gFitf
+IaNen1iOPMgU2y9Y85WnUoz5cmXrryANtk5/h40zxWY0USCDAXV1olOg/zSoq9iQ
+AIlwHG2r5UT59B6WBt3HUFhuOumzblkJShEj6WTSsuJy8oY2Eyyq5QHuYHB7RQvG
+XjlzfR2xKymsi55CN+5EXCL9m51VP6sJPRvboSKwbGleblPy1M7TwY9lOVLosGW+
+XHR2Ysc1oAivTNwfmCOC5G0HAE4tcu3u
+-----END CERTIFICATE-----
+subject=CN = raktuen.szsxwbl.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4624 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

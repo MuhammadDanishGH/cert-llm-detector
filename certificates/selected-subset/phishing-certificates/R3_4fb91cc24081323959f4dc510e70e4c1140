@@ -1,0 +1,66 @@
+https://raktuen.chianqjf.com/member/PC.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = raktuen.chianqjf.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXjCCBEagAwIBAgISBPuRzCQIEyOVn03FEOcOTBFAMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTEyMzE4NTVaFw0yMjAyMDkyMzE4NTRaMB8xHTAbBgNVBAMT
+FHJha3R1ZW4uY2hpYW5xamYuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAvtUUrbT63voAhs248W37FzlpKBD3/EnMkQqbBFnVB9fSwBzJ/pdfX9Nu
+Wc+ZJSbxn2wg15VOnLg+6MO049et59LbddZlANShK7UdS2ahQ3zeaHBr69ZHq2Uw
+5k7iv7e8ivzsELr5Cvgf32nNVv2gt2HscFZXcV3uDp5PudzQH7mNm2aqC5eIwxJA
+P0kQVYLlFKg+3yMo41CpbpoOjJzgk5pafeHm6PMomBhIjl+upPLM1XD5ms688aIl
+S7HHSQTJGleAmRe1WvPe6XKqPRCrTWVi9W0iq6LWrdEaZps+WFUPIRyNB69mILJX
+0awLERYvB1BsdSYxFSzRYUyPdBlSUwIDAQABo4ICfzCCAnswDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBRcK9PDIxVk92Xxc2qBN/zq+GrMqjAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzBPBgNVHREESDBGghJyYWt0ZXVuLnRzenhqdC5jb22CFHJha3R1ZW4u
+Y2hpYW5xamYuY29tghpyYWt0dWVuLmNvLmpwLmFjdGF0bHlzLmNvbTBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2
+AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfRGC96MAAAQDAEcw
+RQIhANvuS9+Qe5ggGE7Ik5Ak0BBeoMExSLtbV2Z5OtvC+GZiAiAndBZSw88l6gVL
+eJNsR0QdWnnPV6xGpKLXy+Mh9y7yygB2AN+lXqtogk8fbK3uuF9OPlrqzaISpGpe
+jjsSwCBEXCpzAAABfRGC+WAAAAQDAEcwRQIhAPRfVzt22Er43wikEDaHw7qVNoMr
+tOAk7ufxGaaEBAjWAiBEGr+fmAOkMjDpEKVrwhjf6chAaWRYcX6Mwm8Par1O3jAN
+BgkqhkiG9w0BAQsFAAOCAQEAqugPtPat1ABGFUTw0IY2lrD9bL0+3F4qTM5ZQWPP
+1XSKBsJ5/NF/lwoBhE2OG2wf9YnPJ2RlyPTGdLP+3nNukV0qEO0LLVB18bihaqdn
+Fe3E7aAHm55bdRxIf9clrHXkLVv2nH79xdRqyucEnNwsbzX1GwHhZMQ96/4Ja+bj
+K/P6fmK1O2ZX7dZdIhoRtV74hzwUTvYSh4Y+4BSpFY3K3IY+JDAc+y22pErZs6UP
+VepEWf2EdrKTT0aMmPTv3oCClT8d6dPMI7BdbnJWpiTZ66pj8r5W4ZtSQXlneFw7
+9n8xfSWu7E0v1DurJwA5xvQJH7GXqus+Az+NKSlxPdBOQw==
+-----END CERTIFICATE-----
+subject=CN = raktuen.chianqjf.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4634 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

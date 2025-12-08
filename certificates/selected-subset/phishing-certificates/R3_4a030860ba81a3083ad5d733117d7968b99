@@ -1,0 +1,94 @@
+http://www.lopalscnnmeirp.com/mazon/amazon/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.lopalscnnmeirp.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFQjCCBCqgAwIBAgISBKAwhguoGjCDrV1zMRfXlouZMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MjAwODM5MTJaFw0yMTEyMTkwODM5MTFaMB8xHTAbBgNVBAMM
+FCoubG9wYWxzY25ubWVpcnAuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEApDraemr+7o/IZcK134I6WGxl075fuTVtY783poGTsqNg2U1mtrQNbbpj
+Jp/aGJCGW7Wy96q+SZKnV1dkzKVS+9nq9wfsePyXH+ruNBlU7pRnM3NklJzC0ziD
+FFH+f1wMNroohKMF1S6EMyQnPEMuxJy57OVAf2ViyJ0tYDtCX1IviQnnAGCsGbk2
+A1qyOavlpRUiYH+FLEuhfYU7H/i/k/dE3Q5dlXR38HEnabhGwOsU7GgtKp1EELZk
+y3z00SKssNEpx2e1Q8YgbCT+7P0e/zkOFQKM4n/O/QYTJsJfp5179WNsg/QXh9hU
+oqUPox+rvJHHFz93nvww5zsxBisE4wIDAQABo4ICYzCCAl8wDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBR3XT6OP31pgbUuggf8q5voBsZgtTAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzAzBgNVHREELDAqghQqLmxvcGFsc2Nubm1laXJwLmNvbYISbG9wYWxz
+Y25ubWVpcnAuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEB
+MCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYK
+KwYBBAHWeQIEAgSB9QSB8gDwAHYAXNxDkv7mq0VEsV6a1FbmEDf71fpH3KFzlLJe
+5vbHDsoAAAF8ApLhdQAABAMARzBFAiBrK5suiZIINDMeU2CBwFG/cYS7/1pjSslf
+9PdMGDQ1eQIhALbDSQt2fFasWvtu/8zK/eL4e1F0CbKyCRqXmltCxAvuAHYA9lyU
+L9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF8ApLhWAAABAMARzBFAiEA
+5YKwVdq7YHAV51MCfCxYDGF2RIZX4dltF8McoYzskw0CIHl21nYBK5eyRSiGaRoD
+uOyU9qYoXD2S4G6gwvqpSBYsMA0GCSqGSIb3DQEBCwUAA4IBAQAguTxSvhOCq/vf
+DbOYiPLQYbYrUw70mfwf/S1N3qQwC5gwjg9Cry8wCjTur3YKHCHe+H/E9WKKEwjQ
+CIomxO+2CTd6AG6e/a/A+Gdl0lfpwudq9KiKIDCmTtR7idi+1iV/7oPDe/3P4ibB
+95VAB+MCcikpxNe124Tg+faIBMJPofxRIxCf0BZV40RGXFFeC59MvKyc5STtTWlj
+43qfewM6BaNo2VPEVXp/vd6qKLAWAk6UqDLztE7WB9LVoE+8eq798ipkvmA9eDgp
+LZrpD+pS0ymx+quGb8WUNMjT4mhJgmgQkrn9ZWNVPqM5MP6AlnkGxVBseWs/iTvp
+ZVxWUKSX
+-----END CERTIFICATE-----
+subject=CN = *.lopalscnnmeirp.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4735 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 449C2A55C5D918327EC1F9490BF548251C357E3F66A9B34F07332551D2D19264
+    Session-ID-ctx: 
+    Master-Key: 034D9D2CCEF578308097CC3B29F63A4EE9D37600046F9448A54199A919D8C1DA0A0AC98CBDD9C1BF6CE09397914CBC44
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - cd f0 7a 1d c9 f8 9e 33-47 09 e0 86 24 e0 00 b5   ..z....3G...$...
+    0010 - ad b7 d2 6a 7a d4 97 38-d4 10 ee fc bb 98 67 37   ...jz..8......g7
+    0020 - 55 ea b2 03 db 72 e4 09-72 b4 72 07 27 6b 64 7b   U....r..r.r.'kd{
+    0030 - fb 06 7a bc 9f b3 e4 4b-82 be bb 0e 88 dc f9 d1   ..z....K........
+    0040 - 03 86 39 af ff 36 8a 50-11 93 c0 35 94 66 b5 12   ..9..6.P...5.f..
+    0050 - 5d ea 85 ad 3a 98 a6 82-ee ea b4 19 48 a5 56 65   ]...:.......H.Ve
+    0060 - ab 36 cd f9 ff 28 19 1f-f9 4e 26 64 b2 23 12 60   .6...(...N&d.#.`
+    0070 - cc 88 f5 aa 08 44 79 39-d1 b3 b8 26 a2 73 ed eb   .....Dy9...&.s..
+    0080 - a2 7e 84 a9 5f ff e2 18-65 92 66 ab a5 fb b9 e9   .~.._...e.f.....
+    0090 - 6a 33 9d 23 63 a0 e9 65-a4 6c 37 e1 d9 be 80 95   j3.#c..e.l7.....
+    00a0 - e6 29 23 ec 16 af 91 d9-cb 6a 2d c0 b8 47 60 da   .)#......j-..G`.
+    00b0 - cb b8 cd 4b d9 6e e3 cc-1a 5e d7 69 51 e3 1c cf   ...K.n...^.iQ...
+    00c0 - 82 53 7a c8 f4 29 65 ac-c6 d4 a0 e0 61 24 8e 9e   .Sz..)e.....a$..
+    00d0 - 28 95 7a de 2b 8f f3 a7-cd 77 ed 12 cb c8 c6 8c   (.z.+....w......
+
+    Start Time: 1632141322
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

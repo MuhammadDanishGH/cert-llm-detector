@@ -1,0 +1,65 @@
+http://luckyspinmaterial.net/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = luckyspinmaterial.net
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMDCCBBigAwIBAgISA3rcOAMTdq2N/8yhc4AhkO/BMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MTQwNDA2MTNaFw0yMTExMTIwNDA2MTFaMCAxHjAcBgNVBAMT
+FWx1Y2t5c3Bpbm1hdGVyaWFsLm5ldDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAL7aJHJtK0vcGP7IeEkuZLaym3SMhuzHRdXBExqn7Sbphx0u5Wg0a8NM
+AB0m9AIoTZR3kats1PFkyjFVwIV7kAzQpOjRT8J7BNZL8TVIkuOvgs1FOmXZ7zeE
+stq/Db5dWvBWWZMtQejZHq1sz0XkltsLmuXHMpobeBlJf66Z61nCpjWDr8CLH0HG
+FeHVAem92kFV63uwB9EzxZTlK/MukkdGU8CLMMsc0mT296AffxCjtt6O4QN1yA1E
+oqjwGDWamdcSKRp5iRPCVA5z8mjUCfpKeLHtN3EtuYs0Qwqi2dGENmAgkcwzctPu
+oM5UzgOPwKrCXN8kmI0aoXLBfVg/Wf8CAwEAAaOCAlAwggJMMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQUZKWVlQyiYqpJw1y25N7VgE5fgoAwHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wIAYDVR0RBBkwF4IVbHVja3lzcGlubWF0ZXJpYWwubmV0MEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDw
+AHYARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAF7Qw2oeQAABAMA
+RzBFAiEAqCnu0KoG1Z9QhSNNj0mjOwmXWJc0QhxDgxs2LywE9fgCIAEjtVqqaBaR
+bihb3+Wsq412mX27rgLzZsi4nODZQMStAHYA9lyUL9F3MCIUVBgIMJRWjuNNExkz
+v98MLyALzE7xZOMAAAF7Qw2obAAABAMARzBFAiEA7cvpW0HIq3wO8piI5XmqKY5k
+cpYnSDv2BXwA2U/BhJMCIEHA9T008Jz19po+S7TMf63pv0x35Ay4mog3Ve9WbqGr
+MA0GCSqGSIb3DQEBCwUAA4IBAQAJQFIB/rQK0QLHDbjAROV+V90dLjacoDpBxJuR
+6TJu9X/pmOH5l47HACKdGF8l1YyvS8JfInnRPKTxB+cSP0UccNHgH3Ovmuz4eTPD
+/gMBuMRPFe4GVcO0j+U2q01pXB+CsbJ4EkB2A7Edw9sA66ALV+K2OFqcau3uqyWw
+uhh7N2t8QtRvkgqHSCx+cPrpocuIEBZmwNKjZGBD3am2MWUizNIlHK6nsC5E/l0N
+5ApRpdRds8Z0T5T6Mkyx+LHsYUcdGtsK4vlZMkUvn1rijiDoSszoNo/cQwCWB6d+
+hopBiUUce1QeB7Y5UEaOTZYxko405NewGPpEfN+Ab6Yf8W5D
+-----END CERTIFICATE-----
+subject=CN = luckyspinmaterial.net
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4588 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,95 @@
+https://4m477.r.a.d.sendibm1.com/mk/cl/f/u45Eov-G9rQ7AtRRs2KnaSCBhHnhPP-OqCJu9DZsEgGqnYatWXHH22krD3SDez2EGoG8MjhqjhieHNOf0Q7aZaWg51k-D7BjAPLtctyzOGy8ISDCy9H4mzKDk_SuUH59bRci3Kuap1NF9tVNd0Uvuh3F4UMAsJbiDJmbHQiuBy0fE2CXmwQfv3c
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.r.a.d.sendibm1.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLjCCBBagAwIBAgISBEcnjkyhL1bpzJXp2RAAnec7MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA2MjQxNDE4NTNaFw0yMTA5MjIxNDE4NTJaMB8xHTAbBgNVBAMM
+FCouci5hLmQuc2VuZGlibTEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAljoAIuHgUd2eyypXPd20Nsw5A0r1iU2dyaaD+9xlYX9hH9jOqCAc1/XG
+1PMMytRAqXm77sfQj2ofPitOYpOXJnM5jqssmj9qEOoYKDsPVnMq/rNVyNIQ8tbA
+nA5ex4PY7/1Hj+E7NkhPssFgP8IsA4xe2O9gxAgF3kNAS3oyooswO2ZJkcdZOI0a
+77ad0frg9j6nIQGVdWNhxCF4n/PTlIspFxPUvbisMphRlxIg6f9f2V/UHckZKj6O
+n/unocJCGjFRSqvOfpsPU/FHzINaLORaP26CDWTAc0je9PFsJsPkrzhDcChalbpe
+0Py8LQdWBy3P17huAZiXbsd5D4oUZQIDAQABo4ICTzCCAkswDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBSFo0jFYA6qbOMuElDinBGil6BlMzAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzAfBgNVHREEGDAWghQqLnIuYS5kLnNlbmRpYm0xLmNvbTBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2
+AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABej6aPO4AAAQDAEcw
+RQIhAOaOhbjlTNSLu/JjEZJCY2UwMTS8ulksimwxrJwLD6evAiADn9rngW3oGkWt
+Xgpa3t3xMabAu5mdG1MbHu8Igx4kPgB2AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/
+LmqXaJl+IvDXAAABej6aPPcAAAQDAEcwRQIgCCJ8Rjc3bQ6Mw+uGvJw/yBqI48Fj
++6tmpUC4X6fKcx0CIQDGqfHRw4tWhUx/zJtF5C+Dkh9tqffICKIOh9l4XLKL1jAN
+BgkqhkiG9w0BAQsFAAOCAQEAui5pvewT8yZEc0LwaJCLRevBjtUXl7W/H1kNLzld
+repp6VUsQoAuOeFIZ7d/nch8wtRGJ8EjPPIQ9OUCA3YYOQwE6fs31ymkdx/TS/hX
+FGhathGV+GMNIVrnFUC/5qumm+B780nWSBu4SxxdY/MimAzDcNDTLgtPJFVmmtEL
+E9k7+0wVNqjbNDyvOTFQXxDouXeoxupmiHWOdk9Aquo85wpYW4AdBjFOHY46KzLv
+yZSmz8W3MOKsd4yvAoyWDoUwhZns1sSShicBiwyGTL4RSq2+9RmPFPTQzS7dvpmn
+6T4OAiwjxGogsC5Xhl5t+2g9+2nF4tvvJ/LK8YiF3fdVIQ==
+-----END CERTIFICATE-----
+subject=CN = *.r.a.d.sendibm1.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4582 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: 80659C93726750D1D9FEFBD7DA3695FDC24A4AEEA48AB1A529D27B2C7126F778
+    Session-ID-ctx: 
+    Resumption PSK: 2C8A5D2297FBAC4AEDA56DA001EB29ECF87683D529F183DD59A9B3A91C4014FB425734CC081C5634B635A2A87EBE645E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - 7a 35 ea 68 7d c1 f1 46-3c a7 c4 06 a1 9c eb 68   z5.h}..F<......h
+    0010 - d2 29 e4 66 c0 fd 3f 0d-18 25 c1 24 42 54 9c b1   .).f..?..%.$BT..
+    0020 - da 14 75 22 0d 2e 6a 4f-31 2e c1 22 2e a1 61 4f   ..u"..jO1.."..aO
+    0030 - 1c 44 10 33 96 ef ff ab-5f 47 4c 58 f6 7d 79 37   .D.3...._GLX.}y7
+    0040 - d3 44 31 fe a3 a2 2e 7d-6d 9a 7d 53 c1 98 4e a4   .D1....}m.}S..N.
+    0050 - 91 51 8d 5f fe 1f 17 44-10 53 e8 e2 3d 80 aa 3a   .Q._...D.S..=..:
+    0060 - fc 54 17 3e 89 ec cb da-64 e5 8f 67 db b2 02 e2   .T.>....d..g....
+    0070 - 4d 93 70 2e 05 ad a0 22-9a 14 39 d6 2e 00 c1 40   M.p...."..9....@
+    0080 - a4                                                .
+
+    Start Time: 1625567800
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

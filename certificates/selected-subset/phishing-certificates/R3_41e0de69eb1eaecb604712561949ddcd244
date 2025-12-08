@@ -1,0 +1,69 @@
+http://spsbarrelservice.com/wp-content/cache/Express
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = spsbarrelservice.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGSTCCBTGgAwIBAgISBB4N5p6x6uy2BHElYZSd3NJEMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MjMxNDE2MDZaFw0yMTExMjExNDE2MDVaMB8xHTAbBgNVBAMT
+FHNwc2JhcnJlbHNlcnZpY2UuY29tMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIIC
+CgKCAgEArfq8hWu3mQwUeZEAxr87G64OOl6YKzd4PlZNFqe1wA6kUpO61R4eUnNP
+z44P7igGfgn5un7qlRK41ckdkPMS5uD1yMm1G/HPlmOQRDVVO54qE4bfvtaVI570
+tnoAHLoFhI12yj/O3TISgzRi4W1x7ftb3mlK7Dlc+bLo7AStWyNqANqVBeCbgWxv
+wXkS4KpalFXw4W2ppi2ex5U7/FWn8qVnVwLT3p/Ida8+bWjX1fN4opU/CG+USxeH
+bZGi5AhItQxFp14LMgT2/Zi/PZwHcyHslw5OcQqOr1NZzqOIuDVu7SWOwFPW+pmg
+emrYA616heHb6kGeD0Q+FyI7EEyUPf76bu8edOdYK7IzzLZUFoCzXgjuqOoDRXug
+InMThV4x3bVtYAU1QZGYEsAchujxZxsG7rRh0mTXtJMlfLN3EiLukVY/Jt6VczZP
+Q72qCoJge/FD4bHB0FxgCfrcrJCfk85CGWG2FhVYBtReV/x41xPQxB9N7u88pO8O
+lyUlMM3B4aOYEbOwSPptt11qIiBtKPHZF9cZQ+Ec3Nf8YTLTnyoPoKxQl5rm+odt
+jEKiJwE2OGV4NVy/Xu5TV9f/IdcYQUpMUX0IxJ7c8mhhfOmQF8IRLo/sXlUUZpFA
+UpW+Idkd7HTxajr1R0eLwri1yGL50Nlb4r2OqjjLYojdS5SZngkCAwEAAaOCAmow
+ggJmMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUuF74+JxSUpD2hcQFvBO7aktkmpAw
+HwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBH
+MCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKG
+Fmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wOQYDVR0RBDIwMIIUc3BzYmFycmVsc2Vy
+dmljZS5jb22CGHd3dy5zcHNiYXJyZWxzZXJ2aWNlLmNvbTBMBgNVHSAERTBDMAgG
+BmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3Bz
+LmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AESUZS6w
+7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABe3OVQg8AAAQDAEgwRgIhAJaH
+Jnv2VcKdqWcQItya/OB7MISjSzXIZRdgC0WmMgDMAiEA+zwSa1zdGphWsmdjqvgG
+itfJxdPdEjTCo4Zj+C1B69YAdgD2XJQv0XcwIhRUGAgwlFaO400TGTO/3wwvIAvM
+TvFk4wAAAXtzlUIUAAAEAwBHMEUCIEOydPh0juTVOMJfxnw6HE3F3l2LPQgHoqXw
+bn3hCa2TAiEA2rWnzoxvw80MJ+wiKYvXZ8NpnoERvVxyPdtsEVYCGXYwDQYJKoZI
+hvcNAQELBQADggEBAHfgpy8HAiED1L2fEbYzQNwaYT5lUFnHqIahcsgts3tDmHg+
+F1OxUxspB7fDhd9885aEH2nCQf7U/rpxa/LNA2WSYnbfXFaWHlnyWlD1WN3JWR5b
+X1rqzME9AJRDEP/EW+DymlVtUeAPzECZaVhQJK/l3IkHHIYanoHSN0ZQyMKtMVzr
+P280yW+41BIFeNk46epQ9LD1aIx7swGifrw2BdUgJGJZXeH2NxA2ScXX0R6OhzcR
+nRLJq5sYgwv7F1Nc7VoNG7u/yQdaPbYH1bJ2IuvuI+lB8bYO4pOBjqTMwIpmqQfY
+YWoD3Y0qAn+TO3hWXUGIjkp04Nwhz4LD/dsrvGM=
+-----END CERTIFICATE-----
+subject=CN = spsbarrelservice.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3740 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

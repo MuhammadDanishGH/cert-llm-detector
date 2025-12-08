@@ -1,0 +1,65 @@
+https://amaoxu.lphog9h.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amaoxu.lphog9h.top
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKzCCBBOgAwIBAgISBB/vVduxbmSxgt3P8N5VFpW/MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDYxNDMxMjBaFw0yMjAyMDQxNDMxMTlaMB0xGzAZBgNVBAMT
+EmFtYW94dS5scGhvZzloLnRvcDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBANBPuRPTsNl6QpF7e4U1BifF9lqIKtuhz5bQJysDCE/gI0svaGLuuBwJ56MF
+xXEn5G6uaen/7dQOQ8BsAHWIRAKzs7zpQFyrTcQB5yS6GhV0qmZwQjTe6j/cMytl
+Sh/OX/g58qRab6of+46pFNULxwtAj9j3USnem/BOxnVkk5zr35QDUNOtuVgQluke
+n/YNa1VpFIKD18LJVTVBcg4t8fyQusegh5Zp7N112GM6tHkjx2k/Pol7E4gx03b/
+j46n9GKspuAIwLj8hjPbrwnQkD5ddW1tfTF/s0mYS45LZtHXj3CWO6Dny0m0FgPC
+I4x1M06PumwDjm5ZoIL9QeDoDh8CAwEAAaOCAk4wggJKMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUzkSg0kaaKGqlftAvaLxGcXJPe1owHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wHQYDVR0RBBYwFIISYW1hb3h1LmxwaG9nOWgudG9wMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAQcjK
+sd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF89eAnLgAABAMARzBFAiBt
+F8wkMAJYhimmLUXvsZP4u5QPxNDkQKTCjUjtw1AYLQIhAOdfEfw8aqhFEZptEHJu
+ON0k9hmDOON8PzKHrQ9Mzk7TAHcAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0m
+XCVdx4QAAAF89eAnDQAABAMASDBGAiEAhxvwalghyk4vUETDiJTPTWLTPZZn2BxO
+0s/eftVi+NcCIQCLLYSWvWkGnYGF4K7DBLJW77iPu523WbPEL3U1y/sL4DANBgkq
+hkiG9w0BAQsFAAOCAQEAb6LCcTXlCywYMGnWwbOvRC7II8bGYjVu3Yu/HMfLn8gJ
+rDBR+CXYAWKp7x6tUWJ6YQTP2mZm/VFEXSKgZPoUnozUtS3XO3kwSFf/ufVpUgxY
+EhDTj8MM4KTAycPBIyx0Du41w+sEIRdl4ZeDRx8d3ghlCMlvjLRREYos4szCPJ2z
+bhYxsOsvm4Ti68M6W70DExf6Ua/4beVFKa3FXULQ21ZTEAj443z/tdApeBLQY9hz
+EgxnpMLNzICMocjx8rXmx+iozwvloifqLabIwvXGRJGo+iBlzb7pL4OEjPVdCwjS
+Va1SHvTK8s9JB9B/2+1YdEJle35m3GEAtfoQqUOPtQ==
+-----END CERTIFICATE-----
+subject=CN = amaoxu.lphog9h.top
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4583 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,74 @@
+http://verify-wellsid.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = verify-wellsid.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKzCCBBOgAwIBAgISAwruj+v/bBthwWZsS8Rs/ksXMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjQxNTMwMTlaFw0yMjA0MjQxNTMwMThaMB0xGzAZBgNVBAMT
+EnZlcmlmeS13ZWxsc2lkLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBANMIjvC6/Wn4JOThljTcS7oMsM3j9cqGoijIZO0Qwx1JANCCXKozQeb8Wn2q
+Sn2W894NJp3CVSV7cIMez1WuLtDXPhXNywK+EO6sjyN5jdcLTZPcdPJO8A0EzTVc
+AcUVN/giSOoNIMaXOzc1t6PBMsNNf6WDia8ZbEtWwPCFnlJ/jdfegBjg3RLYOFOI
+Gn5IxCQdOjIxjgYCCe7zjmxeGx1CM4OeBkaFPyCDKSrUpNdqNBnw7K7AE3DAZL6k
+BL7RLhICpwkVTgGzx6EVFWzM3ap6nwguugw4H9x9dDcGc8JQaBi+ObQp2CBuj7m4
+aEZTOpcTgCHvY/Fv+pq0WrIS9DkCAwEAAaOCAk4wggJKMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUYzCQ5gNwc/jdF6mIDhsRrinnSf8wHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wHQYDVR0RBBYwFIISdmVyaWZ5LXdlbGxzaWQuY29tMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYARqVV
+63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF+jOyKZwAABAMARzBFAiBH
+rFjHneQgtdNye8u20+Uy9gwlsb4snUzAGO2Kv3jpIAIhAJG8luO1coBIXcD14u/m
+8cPeNnL0bf6emFF20A/dPyCIAHcAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2y
+CJo32RMAAAF+jOyL1AAABAMASDBGAiEAr8fo0MfT1sEG0V0m4XX/kxpAJOrKL9PF
+qlvYA8gDDLMCIQDBDkV8Yp0I77pWkjsD9XBvqd//s3T1zlJ/CY4BUZHZszANBgkq
+hkiG9w0BAQsFAAOCAQEArYRE+msxeJ1dY9HFsUmlnpd7AKyXTKTumVbNzcUy6cFi
+Nn5u9/t885igghlQTVJtOoE+cfc08GQemN4PPDRNRhP93B/UoF+S1Cb0OhCMe6nu
+gvDwzqs9wKZOHsxD7baGhumBKtr3E19tTEC4SfEXV4HRDzH7PwS8bBl2EXMkKRg6
+odDxgfqKszkQmIDC6KWFuaWX4I7eQsPNvufV0Zc/RyUiOemPCaCzPrPnsw+XvDhp
+mB/Od9e7osqchm/d8H7kPRXZfaJHWHbf3LTILjM2YMlRqfN4iJI25Qy6fZMj33da
+dsbQ+AmbPpK+KWIjFeSHZJf3CHXMRI4HH/Mke/tCEg==
+-----END CERTIFICATE-----
+subject=CN = verify-wellsid.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-384, 384 bits
+---
+SSL handshake has read 3160 bytes and written 470 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 413900000012C3548B041EB4AAE52C408DC505D3F843A42F12C83C1F7927463C
+    Session-ID-ctx: 
+    Master-Key: C70AD4C58A666C213D64FFC8B4FD734A0984C6B93C55DE78A36638F54C0FDBEF71202F2D282E1040274FBACB5C09A9E7
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1643071972
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

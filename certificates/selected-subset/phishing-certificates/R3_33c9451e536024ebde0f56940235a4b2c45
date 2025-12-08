@@ -1,0 +1,65 @@
+https://www.brooksrunninggts.top/index.php?main_page=login
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.brooksrunninggts.top
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNjCCBB6gAwIBAgISAzyUUeU2Ak694PVpQCNaSyxFMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA1MzEwMDI4NTFaFw0yMTA4MjkwMDI4NTFaMCMxITAfBgNVBAMT
+GHd3dy5icm9va3NydW5uaW5nZ3RzLnRvcDCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAODsrk2bdNEq+wfFFmd40p4oFAPD/jZWUZpHVx1p/Qc/EWMzEi+a
+/WyNhhgXII2byzOWdpGDysK1MwzYFyzkKKWqzfEeqkTjERBZti552dGwXj4gflHn
+c8ybaKFKr8C8rj7/u2+KeD2o1RGcR3sLuQ+ZtqEKoJctF9TMw4maVRpy8ictqqxp
+8z5tGqI1QF6g09TIvmad/FjEGPnW5v++KmTPU4vCbVyNbrnLSBzf4H/b08G/2Ok6
+FiDP0sPtAPfajs476lpx9aYEniTajRqNmTGJnPOmaXpID6XNiJwYgtNsZBKRwRuj
+8aRiW0cNFrsTcKStfmX23C5Y59/z2tXfb2sCAwEAAaOCAlMwggJPMA4GA1UdDwEB
+/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/
+BAIwADAdBgNVHQ4EFgQUXYqioZKMbv9bHCi6dC6SwXev1FgwHwYDVR0jBBgwFoAU
+FC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzAB
+hhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5p
+LmxlbmNyLm9yZy8wIwYDVR0RBBwwGoIYd3d3LmJyb29rc3J1bm5pbmdndHMudG9w
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB
+9QSB8gDwAHUARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAF5wAmx
+mgAABAMARjBEAiA8qtiw/YesMD+blIaCBa+DdHjdMppcumwam6lJcy++ywIgeILj
++b5WZ6u41HjZWdzR2Ksr+h1LH2ExaDlqzIj6WxYAdwD2XJQv0XcwIhRUGAgwlFaO
+400TGTO/3wwvIAvMTvFk4wAAAXnACbGnAAAEAwBIMEYCIQDlVJ0XOn+Uf8qpL53l
+ikGOzDRwl/EuwVYXAKhJM9DR4wIhAPdfYB/+1R15+VsuXV3EDgp9NAX83HxZgpKN
+uDxo/YUfMA0GCSqGSIb3DQEBCwUAA4IBAQA6XX+uOBmcqOzSm7lSAcbgrrkzFQSR
+vKllMLn2a8JZS+/7gMdJMwrpF7+CDP3krYXnND/yY7no8IiV7W7uNaKjmOybk1n2
+h7VHf8nGqLBZv8Dv6WPONjEn+ZRCcPdloDOp+4pWjx2vRuaT4zhgIutz/gcU0qiY
+BQ6WwkkbPCRbG7AB7jsGZwLZRRFjOsCxY7tJt3XvLRADWRibAzJ0h8/gu3eJ5iTp
+RROdPCDu6XPAqRjso7k55lTn7o1cYUcH+bn5TnuHTjzRymde8MV/IKqXnseWkc5I
+Wfx3GDgBYrn4UxCAmAEN3u96PoUkSI1GXBSWDYYC+OKOk5oNkzqOWYCu
+-----END CERTIFICATE-----
+subject=CN = www.brooksrunninggts.top
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4594 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

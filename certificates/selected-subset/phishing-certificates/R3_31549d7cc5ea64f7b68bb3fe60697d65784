@@ -1,0 +1,77 @@
+https://www.stimulus-funds.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.stimulus-funds.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRzCCBC+gAwIBAgISAxVJ18xepk97aLs/5gaX1leEMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMDcxOTIwMDdaFw0yMjA0MDcxOTIwMDZaMCExHzAdBgNVBAMT
+Fnd3dy5zdGltdWx1cy1mdW5kcy5vcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQCZr1qeTjTX2WA6XjPVuC2GM+PYMhKOUrXqo7zg9Z2EHq2uGPRsvkal
+sF4TkyFWe+bq7O3N7N2KZ2a1qJd0jwyGqpLrhZTl+4ws2B2enR6XoMyTAtlbEoDG
+wz0U+c7siIJ0lTRvvrp6++N8+Fa54dB8GvstroqYlP/m+PCX3sXRCFNk6OjPt9P9
+0EuFGEcqGMIliC1Hs7pU2LMZekM5tMkzkoDXQnCmLOYE+umioLjZbqFfVIzFrFjw
+7UsRqxDseSpsxATNJKDeJXsYIl3Is9rfTvjrEDLS2cUmw+r4IyjDNSDMfCsJPeO2
+2nTOfkeRObJXZSgi1hoBFXLGkDYB4CMJAgMBAAGjggJmMIICYjAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFJanRDGMrJFsPXg/hDTWsaupoY3cMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMDUGA1UdEQQuMCyCEnN0aW11bHVzLWZ1bmRzLm9yZ4IWd3d3LnN0
+aW11bHVzLWZ1bmRzLm9yZzBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLf
+EwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCC
+AQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AN+lXqtogk8fbK3uuF9OPlrqzaISpGpe
+jjsSwCBEXCpzAAABfjYy0+AAAAQDAEgwRgIhANXOebL50viydv5rwfp9Okpvc6wH
+DsL09DXW0ipGR8z3AiEAtgh0GleWfEKTRZiMMY1HJwjFaH9OuaEOSn74zHW71xMA
+dgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX42MtPRAAAEAwBH
+MEUCIA8pxnryHTRBMI5xfjojvV+9k2mGKNicztdbNAvzZhRiAiEA/jt7q0hCZt6V
+SdP5pG/xH7qUybY4n8/fIJiHqu/qh3cwDQYJKoZIhvcNAQELBQADggEBAGz5hSbq
+gomYE9iH7at5NBsy8jrY2W+V9v5zWTT0ivq+Ryxcy5CSqWTY85+dS6Fs+LalGDuh
+d8Hc81qaEwNSMUZjqDaDjJRv0WQANdAvhfP+no7G7PHWWCPQWXXi7Ii+IoXBqfUj
+vzANJ2jGmlMVc99XXZjSktTfFJvPH5jboAOjrFydIJNRd+LOKFiuSW30E5hjkO3D
+51KDK0bfTgjzCWwPmsuLf3SCQ9HAnw7WGf8sqE0K5F7qlONCaHK698Meo/Lil9Zt
+zp09l49OClZv+Trj4rtyxVu/eNqWncvjf1Mj6CoGno/g0eBnL/Y9qIOE/0GqGxoB
+z6JrOzuMI86Vqgg=
+-----END CERTIFICATE-----
+subject=CN = www.stimulus-funds.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4526 bytes and written 442 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 
+    Session-ID-ctx: 
+    Master-Key: 981E8F1E517256863A3DC05EC69786A53386B084E3FEBF7DB1970538F13BF9ED7AECA7A053D2CDC30049135A1979366C
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1642617109
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

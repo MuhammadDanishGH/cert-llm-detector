@@ -1,0 +1,72 @@
+https://herkicksdfw.com/Karl/Droppers/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = herkicksdfw.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGhjCCBW6gAwIBAgIQYIONOxDyK3YfFTR5kCM32TANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDkwMjAwMDAwMFoXDTIxMTIwMTIzNTk1
+OVowGjEYMBYGA1UEAxMPaGVya2lja3NkZncuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAqLf2GaoOFDIlzUPshQsy43uHcK+GoNddOo6SLq1NxU9b
+sgQ2iHodR2E5BqnWlEXDqfAB+H6oQGEPRhnc+8uy+I5FH4im2J92Cih2PZxK7clL
+qfSIU9S+ND+M/gZansAeFGGgP8p61zYCxkv+ZVuCJSSkmMClz3yquaofGuvAJtpa
+Ua+XTOTftU3Mnib6GCOySA9u/u8g3H3kmXIOKyjOVrI3kw21X+VgPsWbgiAoqyiw
+VNlsd6buK4VWsQZd2PWevkMqXFwd34NBy1Ll57i/pj94ec4291harijUBYdlopkZ
+r/t9b9LRNDFMVmTAdZRznQkCkBVR/Ke7604iazwxmwIDAQABo4IDbjCCA2owHwYD
+VR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFAB62VQI8Hod
+hYrKoKO2MEAjwB1CMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEB
+AgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeB
+DAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRx
+MG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbElu
+Y0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8v
+b2NzcC5jb21vZG9jYS5jb20wggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdwB9PvL4
+j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXuog78dAAAEAwBIMEYCIQDa
+lDjEOhRvgPGdWi9fIxhK11ZYYnsuBRdMOMZEoLZbmwIhAMHkeoNa3kWWIPGaTdTq
+Gb0Gk0mOGpe5NOjjBsNw2Wm9AHUARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9Mz
+lrW2gagAAAF7qIO/JwAABAMARjBEAiBxqU+Gbl1Gj1WXaUNCwzBzpbd+4+M9Dn8H
+J8Vc+q0jxQIgVT0nY9JCEoebbIfmlMIYeOFIvvroH6wDBa/zEw9YaQowgcoGA1Ud
+EQSBwjCBv4IPaGVya2lja3NkZncuY29tghZjcGFuZWwuaGVya2lja3NkZncuY29t
+ghtjcGNhbGVuZGFycy5oZXJraWNrc2Rmdy5jb22CGmNwY29udGFjdHMuaGVya2lj
+a3NkZncuY29tghRtYWlsLmhlcmtpY2tzZGZ3LmNvbYIXd2ViZGlzay5oZXJraWNr
+c2Rmdy5jb22CF3dlYm1haWwuaGVya2lja3NkZncuY29tghN3d3cuaGVya2lja3Nk
+ZncuY29tMA0GCSqGSIb3DQEBCwUAA4IBAQAiWf6wUv4LKhdu9M00ni/YUIbBw9Wc
+g84ihB1GNfz5Kw3tJq/67sBaSAWAhv71QmIsza6k//B6EXtHxpFOVyTkq9iOEFGc
+HnHLcbF/Scqunj6l4g4HGuMbwNh1l1Pa0fSBcND0JR8petNKKA/0PPpMSS7Vh+eY
+xmUv/IFv7OuhJKpTr8R7ktbi66N2VKKbiei+PMyG2lmEwN/FZKV2+HI61DKgLOYJ
+DFJSqHkUn6Tk1mgbGSrpo1wFWBYbrVgBM8zVCH7k1nK45BuaR8dC8S9ZEAyWL1Sa
+TbZn1ZfQgfOM5STWqD39hxe2kFnhRpRq416R3wAF1EUs9mMyqVpFLPA/
+-----END CERTIFICATE-----
+subject=CN = herkicksdfw.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5179 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

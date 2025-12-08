@@ -1,0 +1,74 @@
+http://event-ff-68.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = event-ff-68.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGzzCCBbegAwIBAgIQcRKflwIi33KpVZ+LrhUi6jANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTEyMDAwMDAwMFoXDTIyMDIxODIzNTk1
+OVowIjEgMB4GA1UEAxMXZXZlbnQtZmYtNjguZHVja2Rucy5vcmcwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDbgpYso4DvUQWkTO3y9We/hgznyDW5bY2+
+TvsUkDBRnKX1QDjmtJ411zTyRdb9Vj5CYEIItlR513kSL79mNtTxj9/u9+DcGPs4
+cPWgXBXJugTKP/BUpd26Wp2qsN5jOkwNOunu1KWYvjNwJykLUpWj4bgJENmNHCSS
+sLbmJoq1nnddpk/01CZbVItTsGDAmA3hLH2Dbc1rnJQE+yD2bAiW9yZ0QnjwXksM
+1lN9u6aS6527tJmJgPt/1LgKx9NICfvy94uh7sy1VW0Tv6UphivqxuPGdLf4Bokr
+e/f9Sc8e3eIkuychvEOYR4FVYafPY1hyt8Y1yAB6uXD8GYsVDRYHAgMBAAGjggOv
+MIIDqzAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU
+yV1+/5lOLZKcJWDUdO95k8uOlwIwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
+MAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYL
+KwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9D
+UFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2Rv
+Y2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsG
+AQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGG
+GGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQMGCisGAQQB1nkCBAIEgfQEgfEA
+7wB1AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfTxKJj0AAAQD
+AEYwRAIgOYzXwzVvvnHdQ+U+czQbogX0v9QQaKglIzySOfJS7EYCIAFu40ZDRdCY
+UKExIfmQDMNK2+ctJf+VzIe1qRHmZRTMAHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD
+6+tLx2jwkGKWBvYAAAF9PEol7AAABAMARzBFAiA5mF5UB5IgPRZdfKYstsy+NIjE
++vJEVlOCX+g92+9xsAIhAKyUxoLjeks9H9/GmdTsZS4UWzTRpYGKU3O47AacKqxU
+MIIBCwYDVR0RBIIBAjCB/4IXZXZlbnQtZmYtNjguZHVja2Rucy5vcmeCHmNwYW5l
+bC5ldmVudC1mZi02OC5kdWNrZG5zLm9yZ4IjY3BjYWxlbmRhcnMuZXZlbnQtZmYt
+NjguZHVja2Rucy5vcmeCImNwY29udGFjdHMuZXZlbnQtZmYtNjguZHVja2Rucy5v
+cmeCHG1haWwuZXZlbnQtZmYtNjguZHVja2Rucy5vcmeCH3dlYmRpc2suZXZlbnQt
+ZmYtNjguZHVja2Rucy5vcmeCH3dlYm1haWwuZXZlbnQtZmYtNjguZHVja2Rucy5v
+cmeCG3d3dy5ldmVudC1mZi02OC5kdWNrZG5zLm9yZzANBgkqhkiG9w0BAQsFAAOC
+AQEAdit3FYRJKAQMwKPL+H/Y7DOL7J5PAytrqdqms/R9XS9xTadKDnBcO3zpK6LZ
+fPu2xPcDvsXzNX2dJUccXOdrl0sVts/fHAp/FYpT3RUrPFO5jmL3E2KeGsEEByG8
+IxKRMyE8P5YfSgZh7o6z9TD5uNbMTMTXY19DjuHQ5pD5BUAGcBUyoz56NAnv4fIL
+Y3kSXOEwWS2PknB6NB64fp9u1ZoNUg3fJzgpjD71655OiwQHc1btsEnxZxC1968v
+Ek0RWAKiEQHzgirg8aDJCrE9W9Xx2G0SuP+1m4s6RvaTYjFgHfKYQf5sfpO+JWzW
+hMfx0WHgOWNwaSv5c0xQy5c9gw==
+-----END CERTIFICATE-----
+subject=CN = event-ff-68.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5182 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

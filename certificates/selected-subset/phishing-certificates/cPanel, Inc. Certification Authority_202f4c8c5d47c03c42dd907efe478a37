@@ -1,0 +1,98 @@
+http://zwkqs.co.za/support.myhealth/odrv/next2.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = zwkqs.co.za
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGMzCCBRugAwIBAgIQIC9MjF1HwDxC3ZB+/keKNzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTE5MDYwOTAwMDAwMFoXDTE5MDkwNzIzNTk1
+OVowFjEUMBIGA1UEAxMLendrcXMuY28uemEwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCa1ilo0t9ATCfIGbvV4tI5U5kDKWnq9DH/d/CfyY9Y4dJklxne
+3jmnRzB/DfQ6eF2TZ9ok5KF7S7xuWpADTx538hCNt5adTEbyvHFhGHHyvmkS3qUS
+uIGgFKJxIV4StpZbZH2rH5wZgMKeU+phAARyzHzUlVR0pvmnb2XM0MO/uCPpgy98
+hnF98LNNTc9RNd98bqGtv6/eQmaVz2b1WSY+45n13KIi7Tehr8uhXm+Ggy5vJVLe
+WQENose43sH9cuaccfvPr+Qpf2zKq5IXYp3eJ9qcui6oX5OqSHSF1EMaQsB0C4EO
+7uOCLYfiR8Jq+IrqJhkFdWdCU7BBNKyic4obAgMBAAGjggMfMIIDGzAfBgNVHSME
+GDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU8ABHJqy3H9OrPyqH
+p8ttMAR+Q7UwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYBBAGyMQECAjQw
+KzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNvbS9DUFMwCAYG
+Z4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEB
+BHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVs
+SW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmNvbW9kb2NhLmNvbTB3BgNVHREEcDBuggt6d2txcy5jby56YYISY3Bh
+bmVsLnp3a3FzLmNvLnphghBtYWlsLnp3a3FzLmNvLnphghN3ZWJkaXNrLnp3a3Fz
+LmNvLnphghN3ZWJtYWlsLnp3a3FzLmNvLnphgg93d3cuendrcXMuY28uemEwggED
+BgorBgEEAdZ5AgQCBIH0BIHxAO8AdgC72d+8H4pxtZOUI5eqkntHOFeVCqtS6BqQ
+lmQ2jh7RhQAAAWs6PDt6AAAEAwBHMEUCIQC1k9jNyhKOccyEcByh3hVle9Kc1N3R
+7HItb5xGsoR7dwIge3dV/66IP5K6c77t+/ak2bY1gupxkDhP84odBrWgK4gAdQB0
+ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWs6PDuaAAAEAwBGMEQC
+IGRoSDj73q0gFS1bVUdpKBpMylcCJapZaEJFXG3sb4vgAiA3s1/MvoE43y9fHqPc
+UHcQ7f7uS3rY4bIlFbV2CZ4cwDANBgkqhkiG9w0BAQsFAAOCAQEAHIDwlELRvON/
+uyx2ljPmiFRmgElOXf6x8cQdBmGL1iWhudDnEKveWuT0qArT12iV34kRs0CYutg6
+9hPg5OR80pjVB1k81UeEVXRHfPOIpLT3bOIow63Dck5NyZEo/aMOp6Je8Rg0PbUb
+5hfG2rWKImChUMfRkuqxadJvpS7lnvLfJCXmrkVKMi+hhZOXFCuzXLW3OsBZhaCU
+EhXVnlFPpthQ+AKgrL5kExRKV8ecB3Uppy0j3XKNFiqa4aliMfrGIxgoXv3ucLL2
+FJpjqY1KqFDQMafi+telYrlVzgJu2D4oePuzVByoXd20O7Jkdlro9qeYQdE6PFyV
+8vxXfGrbLw==
+-----END CERTIFICATE-----
+subject=CN = zwkqs.co.za
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5228 bytes and written 449 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 5BCCA1E2EE63CB0D470056100F6C9B648F1CF6EBFB95BDCCFAF0053CF78252E2
+    Session-ID-ctx: 
+    Master-Key: 416092B597AABEE7787CF7F455BD2C134CC8684FD501DBDD8E9C544CD852046CC3902743A7197F65E1177B265E5ADBCC
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - b3 51 73 76 0b c8 4a 3a-18 b2 de 8b 46 d4 67 c1   .Qsv..J:....F.g.
+    0010 - f4 74 7f 60 12 5e 48 bd-b2 36 98 81 9e b3 55 a8   .t.`.^H..6....U.
+    0020 - 3c 6b fd 09 b2 fe d3 c1-1d 1c ee 69 cb be 12 5f   <k.........i..._
+    0030 - 2a 1f ab f5 22 3d cb 19-4c 4d 96 00 03 fa f7 30   *..."=..LM.....0
+    0040 - 5d 15 77 16 dd c7 ff e7-74 77 18 6e 95 d1 dd cb   ].w.....tw.n....
+    0050 - 2a 7f 98 6d 26 5f e1 d4-66 ab c3 7b b6 bf 10 96   *..m&_..f..{....
+    0060 - 94 6c 8a 19 63 f0 c1 da-c8 bc 1a e1 82 7d f0 eb   .l..c........}..
+    0070 - 38 97 0b b8 ea 34 70 bc-41 64 e2 39 0b 24 ee 51   8....4p.Ad.9.$.Q
+    0080 - 82 fe 2d 28 a3 32 e1 fc-2a be a1 22 a0 28 2b 8d   ..-(.2..*..".(+.
+    0090 - d3 16 e3 e6 24 df d8 c2-73 d8 7f d9 8f 41 f5 b2   ....$...s....A..
+    00a0 - 77 cb e5 55 c0 9d 3d 15-6a 00 2f e6 b7 1a ab 15   w..U..=.j./.....
+    00b0 - 73 ea 58 0a 77 b1 28 c8-2e bc 06 4f c6 8b e7 51   s.X.w.(....O...Q
+    00c0 - c5 22 c4 62 22 da bb 77-ee 4a a9 e7 49 57 1b d5   .".b"..w.J..IW..
+
+    Start Time: 1567429229
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

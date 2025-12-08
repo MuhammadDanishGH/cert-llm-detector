@@ -1,0 +1,65 @@
+https://payjet.in/co/ch/sca/#YUBiLmNvbQ==
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = payjet.in
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFGDCCBACgAwIBAgISBOTk8gCEIlJzurTa7MBCOPxhMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTcyMTEyNDJaFw0yMjAyMTUyMTEyNDFaMBQxEjAQBgNVBAMT
+CXBheWpldC5pbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMNpORN3
+giRR6D4fGurHttfc6wE5vJKXnifc79zJZpGBfaGmxpeFtRsTkDC0UYp06OuIiV88
+XmDOQnyfnch5Jx34ISYfvcpEbHH6Lok4CnQnU8DCL2fKK1TTHHfKyhCzs8M2N5Tj
+WHAsCX3BibMFKkHEUt8Z3PrKQrHblDF6ng09xQxXwHiu5wCphD1Od4ka3eg49QwS
+znFc9yQ1Ou+uhXrpvhMDygc2kvs60oKPIwlgzow704haOy20DsiXTWqvE7GbHUXa
+s+hiCM+orpx1FnYph1ftM0fTsDlytnnX7ArU4V8wb7vN0ybLqCGWR19pRXPCgAd+
+RxOnG6E6GOOh4NcCAwEAAaOCAkQwggJAMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU
+M+5oHGyhgKJ6CZi2DYhSQ0xJAeIwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+v
+nYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5s
+ZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wFAYD
+VR0RBA0wC4IJcGF5amV0LmluMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAKXm+8J45OSHwVnOfY6V35b5XfZxg
+Cvj5TV0mXCVdx4QAAAF9L/WRuQAABAMARzBFAiAPp1DNTPJrBSbUcYqokJZNYwfG
+h3ymR5B70CfS5kTrfQIhAPoe/qjfta67aZJqIbTmad1033xL7oX3aT7BkUnAPe6H
+AHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAF9L/WVjAAABAMA
+RzBFAiBxXtFirXFJhSTe3pmvupMU9dnYYHV/YcKb7jNXsY+0HAIhALESEShGVIjw
+L1XU+gY8LzxfMCTYdJ2R/zq0COia5Q8FMA0GCSqGSIb3DQEBCwUAA4IBAQAXEakC
+mpE8f3Dab0bElSwvJA6+DsgQ7ThrrxJegbQ+DH0FfYquAboVX6+wgoSn+fgkOZSm
+wIdjjyJsjWL3wB29s5Kxd+RUOpT9sanzSyUAKAm40gi1idVFjQMR+VptznuXOPUQ
+6nlHl2WcXo2C4blMKsmoSqJETIeeq9E0ODZ6BAC3h2ebbZNsfUsmHQ0eRSSB19rB
+qK8L4JqUKlLGmlrORSfB/T1GdVpWVg6pAsVjpRNNk2bV9m/qvTKSUzSSYGyuRW3i
+N92VSB049d9h1AQvWfqeB8PHTX6YwqC/H7ZW56gTq7LiXFgmFXc/4+kwegIkXbQf
+DsDlb7E9SX1ZGMGT
+-----END CERTIFICATE-----
+subject=CN = payjet.in
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4564 bytes and written 383 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

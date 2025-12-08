@@ -1,0 +1,70 @@
+https://vodafone.bills.ref-135.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = vodafone.bills.ref-135.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGDTCCBPWgAwIBAgIRAK65n21X46Jw/tEL1GagW7cwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTEwMzAwMDAwMDBaFw0yMjAxMjgyMzU5
+NTlaMCUxIzAhBgNVBAMTGnZvZGFmb25lLmJpbGxzLnJlZi0xMzUuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwwVZ2ZXhAi7B9qK8hRbhjVmUOVce
+UXrEJeIxkPBRdDE2unn69uuxZ6VZWH+n2TI2eVIFdZOqxTkltwKf2yDpoCCnYlGr
+BbFxHFvBx+eq7xUPrW8ShGADzuxRgy6YywZRInl+MyTfVRtH2mkJLdA6pGxjz8gY
+6Wud3VUrT600F5+1FJL3WHZI+qrpxvO94l3iA+XSqpIF1x+1txrkqqk1OFaMP+2K
+lvukbhiA4v02RQSp/UQhfO87bya+UjBTnH6Ax3Yb7339ne2S1bRD9QhIJyPkQyyn
+Oam7O0GF03ygcqAPBHcZIr4rX+nWr/UkScZtLFtD097/GwahHgAzYKDQCwIDAQAB
+o4IC6TCCAuUwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0O
+BBYEFAyYZp1I6NFJ9fyFTVBBfhvwkBDiMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMB
+Af8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBA
+MDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5j
+b20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNv
+bW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9
+BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUF
+BzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEFBgorBgEEAdZ5AgQCBIH2
+BIHzAPEAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXzRNC78
+AAAEAwBHMEUCIGyQD9eqsWR2aGQts0MG2WzeiHk8jA8Y9BORps34ICZ0AiEA03aN
+OgCtsPtyMcWblw9fBwM5bEAil/uAZttNVbADb98AdwBByMqx3yJGShDGoToJQode
+TjGLGwPr60vHaPCQYpYG9gAAAXzRNC7HAAAEAwBIMEYCIQDl9DGHin9psrRX1MxQ
+dtqu9VnMPAAnXWMve56mld3GqAIhAOyV9libdHE55JoOt5gs5EeompzxHY+tmhEZ
+ma0A6DW5MEUGA1UdEQQ+MDyCGnZvZGFmb25lLmJpbGxzLnJlZi0xMzUuY29tgh53
+d3cudm9kYWZvbmUuYmlsbHMucmVmLTEzNS5jb20wDQYJKoZIhvcNAQELBQADggEB
+ABLT4cZ8KBPSsA42KAe3Y/rcmHsv/jL3zE9RcO/Ac2ENxRKsIVWELGR+/JC3qI/t
+nEdkcFu6XjjG/kZKGk7sVoCZ4h4d8Q23U7B2ZDhiu0GIMXU75vOL/b4KMLc57kNe
+/UygSdAE1IGMbyGyB9rDCdumnCD0kl3Wsui9Z1+XCZmuk0JzMGXqj/AE4kC/UiBD
+tbxD23Nfwl08mmQzIpjdgR1VmSJTiuDpq/498sUMZop5Cw9oJgs4ky8ZfwAtqEjz
+BQp9ZztlJqgFsVtL4sNCTTr3vci1Zp367390cA225ewuDj9MsjZU18i704cpiecx
+Il5ufp3C8EUQB7F5MzJZszk=
+-----END CERTIFICATE-----
+subject=CN = vodafone.bills.ref-135.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5058 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

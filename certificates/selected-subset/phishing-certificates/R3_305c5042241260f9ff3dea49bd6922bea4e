@@ -1,0 +1,66 @@
+http://actionderegister.com/bankofscotlan/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.actionderegister.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFSDCCBDCgAwIBAgISAwXFBCJBJg+f896km9aSK+pOMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDgxOTE1MDlaFw0yMjAzMDgxOTE1MDhaMCExHzAdBgNVBAMM
+FiouYWN0aW9uZGVyZWdpc3Rlci5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQCs0cAm37FBcMluFK0c192XpK7GKS+E9RJAOckHz6N62YDzf/nWmBOx
+w5++8lpd5hQ3+ojmJp23moLjv0ByaUX0d/qo/xFBnGce32lcu39EVkZnnHBC8B0Y
+44AhSbu7XnrlDkFCn8j+kpuuIrcduFbcJvlLCXAEXcJLJPJm5rhPcCmqO74LzlqM
+gsHk2WoHqmMdVpuXij/lAiunUYkxsmrEhtnkNNxQj/BovbmLRktiHLBgWn8QMfMb
+VUJ+y5GOSmeyomdMMXyrYo7nkkzzJfEss9W1q5fin8Ittom+OBcPA6xJjq686Wer
+EgUp8dWcusCgAvnRethQD1rC3+ZlOwSPAgMBAAGjggJnMIICYzAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFGA4OOotQzmLFd7pspaO8D31bHLHMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMDcGA1UdEQQwMC6CFiouYWN0aW9uZGVyZWdpc3Rlci5jb22CFGFj
+dGlvbmRlcmVnaXN0ZXIuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHUARqVV63X6kSAwtaKJafTzfREsQXS+
+/Um4havy/HD+bUcAAAF9m69/VgAABAMARjBEAiAKE2MaaHc4oZ8CB6Rz+6JZhTxV
+9jS+ZFJIXQA3Bzi0ZQIgbynGRo/4K1dYDHP4vL8WWFZi6GTynv229Mv6Hy49clAA
+dwBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG9gAAAX2br4EnAAAEAwBI
+MEYCIQChvWaOXtPSWqqTR8VCg0OneUgmTCPtK7Fv7K4RXsXNmAIhAPqQEb1PLtb2
+vPr7tkCMu3h/ILzvNRqdwBCptmlTzjj9MA0GCSqGSIb3DQEBCwUAA4IBAQBoZEes
+5xsWvPoaQDBJ571DElfvFPrGXE52YdaqqQNzxd1piu85aI3Z/dXK8lNXjOfetB5d
+b2iH1r4ElHA8LwViB+JpKTkhd8tz9kg9YTmyBqc4N2iE3fmM82y2ZHhhwkdbabCR
+1WXjmnuWzk6hQBhzg2w8O5eiQJPtWgYugQ6mIfSAHDT1erHCDmekDRSL7feNHIlG
+veqsxOWEmjpCFAx3NpbzejCquB67cWgejlaY4Pu1gAHml1rZNKZ5bcPPlMov54FT
+lcBHXjS0wXCIxd9gbSvQEG+xbC6HGFEzIhYNP4yVLQED30x/zyVm2ZPNLWejqNqC
+h/6vHM3CMLLLuuzO
+-----END CERTIFICATE-----
+subject=CN = *.actionderegister.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4612 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

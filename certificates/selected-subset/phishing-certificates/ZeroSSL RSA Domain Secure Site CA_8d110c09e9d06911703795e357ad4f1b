@@ -1,0 +1,72 @@
+https://www.saisoncard.bphrz.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.saisoncard.bphrz.com
+   i:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+ 1 s:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+subject=CN = www.saisoncard.bphrz.com
+
+issuer=C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5405 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

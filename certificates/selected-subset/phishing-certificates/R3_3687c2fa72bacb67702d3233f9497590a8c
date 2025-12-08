@@ -1,0 +1,97 @@
+https://www.brouhk.com/index.php?main_page=login&amp;zenid=fmc6qj9vs9k0g5id5hha37luu1
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = brouhk.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+subject=CN = brouhk.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5235 bytes and written 442 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: D70B52424B2A0B171BDBDDC36686BA40E8136825159F3DCED65536E69CE5C752
+    Session-ID-ctx: 
+    Master-Key: D9F662F6C2137DF95442451B0C54371CD22D5614D31B8FB61E0A9BBF41746E5BB0A10FDA1C7E94DC815141D215888C78
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 93 1f ce 40 7f b1 b2 60-65 75 a3 ad 86 bd 75 bb   ...@...`eu....u.
+    0010 - 9c 40 37 14 82 82 51 38-9f 07 b7 98 a9 b1 45 73   .@7...Q8......Es
+    0020 - 82 ec 9c 7d 64 f8 81 af-8e 75 09 7a f2 83 ca 59   ...}d....u.z...Y
+    0030 - 02 18 35 c6 6f a3 17 93-34 9a 42 20 b1 bf 77 74   ..5.o...4.B ..wt
+    0040 - e3 6e 83 67 8b ad a8 c1-19 be f6 12 77 2a 5d 34   .n.g........w*]4
+    0050 - 30 ac 87 81 93 96 b8 09-d0 84 51 c4 01 e9 89 0d   0.........Q.....
+    0060 - 48 5d d4 65 4e 9e 0b 37-c3 06 e0 f6 ad 5c cc ee   H].eN..7.....\..
+    0070 - bd 9e 9b b1 af 75 4c fc-6a e4 fc 3c 65 5e 5f 90   .....uL.j..<e^_.
+    0080 - 9f e7 67 05 1e 10 8d ca-cf 92 e7 38 3e 87 05 bb   ..g........8>...
+    0090 - 14 47 57 19 3d 42 f2 b5-f9 50 11 91 d8 ea bb 58   .GW.=B...P.....X
+    00a0 - 2c 21 ba a9 f8 c9 4c cc-86 29 74 f5 36 7f b5 ba   ,!....L..)t.6...
+    00b0 - 9d 5f 51 a1 69 86 7d 76-7f 8d c0 d6 77 30 2a 5f   ._Q.i.}v....w0*_
+    00c0 - 3f ef 23 64 3d c4 86 e8-fb d8 8b 98 c9 ea 01 b2   ?.#d=...........
+
+    Start Time: 1631216141
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

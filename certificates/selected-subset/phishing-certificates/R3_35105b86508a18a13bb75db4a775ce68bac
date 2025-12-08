@@ -1,0 +1,65 @@
+https://arnaon.cq.xiaoming07.shop/new_bgc/cell_padding.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = arnaon.cq.xiaoming07.shop
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOjCCBCKgAwIBAgISA1EFuGUIoYoTu3XbSndc5ousMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjAxMzM2MzBaFw0yMjAzMjAxMzM2MjlaMCQxIjAgBgNVBAMT
+GWFybmFvbi5jcS54aWFvbWluZzA3LnNob3AwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDF/PKFuRa/AFcg+Me7+FWorzDDazFD/T7H3pYNOOyTIdAWqWyk
+07caPMo3Zp1y/ZxYGbqfB2ItVCSE5MTQkRHs5nDiRNbk1RJq8g0hboL+EaouycNv
+Ph7GyiFPuoJZPeUHhjHEJHxo8xRXI+UwnFdRTRIkwml8EXoxhCcjJOzCoBu36Mmh
+7V+SxbaCtFqqfOHzUmLAh2b0+f/T2kXhqQDiVqPew9uqjelzvXyHsvKo++6XU630
+h5PaZzy1Yf1df1eBGc/wWc5uDqwHvThKKgoz60g/H+dfQj0AQ7ZZZqDl3VByk40O
+YaBjfRUJ6XGye5T6fV0xFSP3ivEYFqRFT5ohAgMBAAGjggJWMIICUjAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFDeBQQMA95vofQtGYVbxrt8SY2AoMB8GA1UdIwQYMBaA
+FBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcw
+AYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMu
+aS5sZW5jci5vcmcvMCQGA1UdEQQdMBuCGWFybmFvbi5jcS54aWFvbWluZzA3LnNo
+b3AwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEF
+BQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEGBgorBgEEAdZ5AgQC
+BIH3BIH0APIAdwBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG9gAAAX3Y
+RcO+AAAEAwBIMEYCIQDZzlmJn/j4xtUFi/8BRSZ9XdN/TM3J6uLVlvvEMnPcvAIh
+AOaBlaWiG7RMF1QJgjTsyNK6G3ncExQmTdXpO9lYn2NJAHcARqVV63X6kSAwtaKJ
+afTzfREsQXS+/Um4havy/HD+bUcAAAF92EXDyAAABAMASDBGAiEAg3AXGd3RSYqM
+KbTd0if63QNH7eYEuC6gKT3QNj1ELroCIQD0sqxML3NidI/a9hBrW+3nJNbNWLg8
+nisACeO4X1E2hjANBgkqhkiG9w0BAQsFAAOCAQEAc/N5uy1kNrtFmL0I81005tQr
+wsPNlwAzIhoeuZQS9kSvqGnzOtd82E7IAj0nf4zxmlBt+R6VdXlG/ZSYAcalX5e1
+5W16KwYLvZ8R7QAOrIGlry98ELCTFuBjjCq8BXvgQfOfq52OLocoTSnpHcC1SgI7
+M0aiGysPZ567/qzMyUMRFxiA5n+db7xpj0Y3U4Jt+Rg0bS+OGC5dvsvKCj5YxF+/
+4u9DD8yvjK5lTA+5lyyaNzkBqvNApz0UtYbZFsNBdIpNoaGHi0Gq9LKFsbctQdK3
+dPncsL4W6JbRJ6M7/y15BInu2MrvihrJ06PqKO21OqVZmEBJ9E4XssLwl9Ib1w==
+-----END CERTIFICATE-----
+subject=CN = arnaon.cq.xiaoming07.shop
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4598 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

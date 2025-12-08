@@ -1,0 +1,66 @@
+https://irs.gov-assistance-center.com/r/PZOXvzR
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = irs.gov-assistance-center.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPzCCBCegAwIBAgISA9HfsVeH208Qzqmapxi+IWTYMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTkxNTQ3NDZaFw0yMjA0MTkxNTQ3NDVaMCgxJjAkBgNVBAMT
+HWlycy5nb3YtYXNzaXN0YW5jZS1jZW50ZXIuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA1Gd4ar8BDutX816NXLdhJAJEdlLuCEvogx2s6WI+OInb
+oziQqgeVgX3q/8CnmBlycuTROm+ItEr8uHLbj0b+AtP1SYtKypS2f4PjhnjKnHdz
+anSL+Bbsr8v26oRMJi2+fTWyAVuD3Ju3hCHuWk8Qv31Jx11YDUdkH+Wczwc+iko8
+ResVVuyYXrmZ/eX2lKKs7ceB5KJGJ+1dvru4Q5UqtyIA5EMoJ6NiDhhZlAMC/tNX
+DLxgRTJt/+BXYA6Jcl+gSJgDqc0wERXZ9P4QMQmPildLKkz4n+hMm6cP1XQ8LO3/
+iad59ZlIjojjJC7h4Go0LRUyAuS/1XsWUlp5pvcMuQIDAQABo4ICVzCCAlMwDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNV
+HRMBAf8EAjAAMB0GA1UdDgQWBBSUAovWHsnbo6rlRXpx+YGuWBkaLDAfBgNVHSME
+GDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYB
+BQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDov
+L3IzLmkubGVuY3Iub3JnLzAoBgNVHREEITAfgh1pcnMuZ292LWFzc2lzdGFuY2Ut
+Y2VudGVyLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisG
+AQQB1nkCBAIEgfQEgfEA7wB1ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwl
+XceEAAABfnM8uHYAAAQDAEYwRAIgQMpg3gl1oxZyGmj9edAsGUHCzk7bSeGU6y5W
+/Z1aULsCIDzZVlLiBOtvgcTgpaz3FrprIVS3zYcnE2frBPcGnEPUAHYAQcjKsd8i
+RkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF+czy4pAAABAMARzBFAiADkxsf
+YTyGb2LDFFrM5h5zER39VRQkB61Q37C7wtJ3YQIhAJIBNYUeODCyJu6p+AOk4Y2w
+29QHOMrre+gvhOyNc+ukMA0GCSqGSIb3DQEBCwUAA4IBAQCVexWgFpe0cp/c0Qda
+n5y7nBaLhSe69Uhr7o/iehWVHArf4SQfZOmB9Jgdrp8P2bz5J6a+BmCC/JAMZZ6v
+nRVpZUmoT1DWGWWzp6LardEPl79za6yP0liVvqZTtNXufOQLz27xi8HiOsF0sK5X
+R0nS5ihpbnMvIymCmMt8GzPNAS4QoFsM/snHFE+cBHHBwaA/hycn54hKsmY/qq+c
+5F+MYhkthR+1u/0ev6r9KmvWNyBxYu6tYnw8mMtDyNTOrDA1BrOBWtutebVLyqq5
+0BGwfFEZ6lQs3VBZWkfsab5Ywll1sAMKHPMY/c344RN19MHXFLsFlV0ISvfH1K7m
+1IWM
+-----END CERTIFICATE-----
+subject=CN = irs.gov-assistance-center.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4603 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

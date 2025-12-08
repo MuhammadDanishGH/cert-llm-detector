@@ -1,0 +1,81 @@
+http://androidrepublica.website/Zips/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:OU = Domain Control Validated, OU = PositiveSSL Multi-Domain, CN = sni157863.cloudflaressl.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Domain Validation Secure Server CA 2
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Domain Validation Secure Server CA 2
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIKTCCB8+gAwIBAgIQMBmPkMEpJZAQy4///nClajAKBggqhkjOPQQDAjCBkjEL
+MAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4GA1UE
+BxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxODA2BgNVBAMT
+L0NPTU9ETyBFQ0MgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBDQSAy
+MB4XDTE5MDUxMDAwMDAwMFoXDTE5MTExNjIzNTk1OVowbDEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMSEwHwYDVQQLExhQb3NpdGl2ZVNTTCBNdWx0
+aS1Eb21haW4xJDAiBgNVBAMTG3NuaTE1Nzg2My5jbG91ZGZsYXJlc3NsLmNvbTBZ
+MBMGByqGSM49AgEGCCqGSM49AwEHA0IABCExG8H5CXx7iyuzhqX3luOKNF8VpZjF
+dgePiEr/w0kxfsw+ULcYZC9OkHRiZZdfyhz+HMz/twDkIjHGC7w+qCOjggYqMIIG
+JjAfBgNVHSMEGDAWgBRACWFn8LyDcU/eEggsb9TUK3Y9ljAdBgNVHQ4EFgQUzG66
+1QfTNaLQ0cyYUB3J2cKf0lswDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYB
+BAGyMQECAgcwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNv
+bS9DUFMwCAYGZ4EMAQIBMFYGA1UdHwRPME0wS6BJoEeGRWh0dHA6Ly9jcmwuY29t
+b2RvY2E0LmNvbS9DT01PRE9FQ0NEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVy
+Q0EyLmNybDCBiAYIKwYBBQUHAQEEfDB6MFEGCCsGAQUFBzAChkVodHRwOi8vY3J0
+LmNvbW9kb2NhNC5jb20vQ09NT0RPRUNDRG9tYWluVmFsaWRhdGlvblNlY3VyZVNl
+cnZlckNBMi5jcnQwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLmNvbW9kb2NhNC5j
+b20wggNoBgNVHREEggNfMIIDW4Ibc25pMTU3ODYzLmNsb3VkZmxhcmVzc2wuY29t
+ggwqLjE3Mzk0MC5jb22CDiouNDA2NjY4ODguY29tgg0qLmFidW5lbnNvLmNmghkq
+LmFuYWx5dGljcy1jb21wYW5pZXMuY29tghoqLmFuZHJvaWRyZXB1YmxpY2Eud2Vi
+c2l0ZYIOKi5jZW1lcmVzY3EuZ3GCECouY29ib2NoZW5yZWkuZ2GCEiouZHVrdXpp
+aGV6aWdhYi50a4IRKi5mdW5reWR1Y2suY28udWuCDiouZ2Fub3RpemVqLnRrgg8q
+LmdvbGRoeWdnZS5jb22CDiouaG93Mndha2UuY29tghAqLmlsb2phaWRlYWwuY29t
+ghkqLmltcG90ZW50Y3VyZWNlbnRlci5jbHVighYqLm15ZGFpbHlmaW5kc2l0ZXMu
+Y29tghEqLm96YXNvd2lsYXBhdC5ncYISKi5yYWljb21yZWlsaW91LmNmghEqLnJl
+c3Rwcm9ib2dwaS5ncYIRKi5zbWFydC1wcGMuY28uaWyCDioudGlhY3VrZWNhLmdh
+ghAqLnRpbmtiYXJuZXBhLm1sghEqLnZhbGVjdGZlaGxiZS5ncYIPKi52YWxpYnJv
+cG9yLmdhggoxNzM5NDAuY29tggw0MDY2Njg4OC5jb22CC2FidW5lbnNvLmNmghdh
+bmFseXRpY3MtY29tcGFuaWVzLmNvbYIYYW5kcm9pZHJlcHVibGljYS53ZWJzaXRl
+ggxjZW1lcmVzY3EuZ3GCDmNvYm9jaGVucmVpLmdhghBkdWt1emloZXppZ2FiLnRr
+gg9mdW5reWR1Y2suY28udWuCDGdhbm90aXplai50a4INZ29sZGh5Z2dlLmNvbYIM
+aG93Mndha2UuY29tgg5pbG9qYWlkZWFsLmNvbYIXaW1wb3RlbnRjdXJlY2VudGVy
+LmNsdWKCFG15ZGFpbHlmaW5kc2l0ZXMuY29tgg9vemFzb3dpbGFwYXQuZ3GCEHJh
+aWNvbXJlaWxpb3UuY2aCD3Jlc3Rwcm9ib2dwaS5ncYIPc21hcnQtcHBjLmNvLmls
+ggx0aWFjdWtlY2EuZ2GCDnRpbmtiYXJuZXBhLm1sgg92YWxlY3RmZWhsYmUuZ3GC
+DXZhbGlicm9wb3IuZ2EwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgC72d+8H4px
+tZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAAAWqiH2G3AAAEAwBHMEUCIFuzKCCo
+TdNSxikubxyyF2YQ0GcmSzYvyF9VloPFttGoAiEA7nor+tXZpMI/Q16Lmvzw2eHF
+/WWIEYtT78Eq3hUfT1EAdwB0ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvM
+VgAAAWqiH2HmAAAEAwBIMEYCIQDWRaKTD1s+ThFH5N258vqDWoRih6ufvAItVvOn
+WN+ANQIhAPB8jngT7AFYQEVeloQVNtPFoHDHcEfxhtJt9IYPhxxLMAoGCCqGSM49
+BAMCA0gAMEUCIQDIgbLakthNJyzXLfIi9BDsjG36Afr4ODsc7qUAILYiCwIgbTNB
+Svab0TqXrk7WiMKkoubgo08ZK3XGqWCJiwpfjpU=
+-----END CERTIFICATE-----
+subject=OU = Domain Control Validated, OU = PositiveSSL Multi-Domain, CN = sni157863.cloudflaressl.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Domain Validation Secure Server CA 2
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4319 bytes and written 416 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

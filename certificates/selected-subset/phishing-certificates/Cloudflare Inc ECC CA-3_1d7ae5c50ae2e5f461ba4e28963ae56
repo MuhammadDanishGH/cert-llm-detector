@@ -1,0 +1,65 @@
+https://sparkasse.de-privatkunden-online-34523256675.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:C = US, ST = California, L = San Francisco, O = "Cloudflare, Inc.", CN = sni.cloudflaressl.com
+   i:C = US, O = "Cloudflare, Inc.", CN = Cloudflare Inc ECC CA-3
+ 1 s:C = US, O = "Cloudflare, Inc.", CN = Cloudflare Inc ECC CA-3
+   i:C = IE, O = Baltimore, OU = CyberTrust, CN = Baltimore CyberTrust Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFbTCCBRKgAwIBAgIQAdeuXFCuLl9GG6TiiWOuVjAKBggqhkjOPQQDAjBKMQsw
+CQYDVQQGEwJVUzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEgMB4GA1UEAxMX
+Q2xvdWRmbGFyZSBJbmMgRUNDIENBLTMwHhcNMjExMDMwMDAwMDAwWhcNMjIxMDI5
+MjM1OTU5WjB1MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQG
+A1UEBxMNU2FuIEZyYW5jaXNjbzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEe
+MBwGA1UEAxMVc25pLmNsb3VkZmxhcmVzc2wuY29tMFkwEwYHKoZIzj0CAQYIKoZI
+zj0DAQcDQgAEg0ALV8jHwMdUvHHvJJCjXlXIueQDLmfiLJ+hybT25ianIz15C3Z2
+0tC4LZvMT+oMjE9JjFhuD4ULMXs9Fv2XTaOCA60wggOpMB8GA1UdIwQYMBaAFKXO
+N+rrsHUOlGeItEX62SQQh5YfMB0GA1UdDgQWBBTQH62+ojkGKqk/wWE1tjM4RS7d
+KDByBgNVHREEazBpgiZkZS1wcml2YXRrdW5kZW4tb25saW5lLTM0NTIzMjU2Njc1
+LmNvbYIoKi5kZS1wcml2YXRrdW5kZW4tb25saW5lLTM0NTIzMjU2Njc1LmNvbYIV
+c25pLmNsb3VkZmxhcmVzc2wuY29tMA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwewYDVR0fBHQwcjA3oDWgM4YxaHR0cDovL2Ny
+bDMuZGlnaWNlcnQuY29tL0Nsb3VkZmxhcmVJbmNFQ0NDQS0zLmNybDA3oDWgM4Yx
+aHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0Nsb3VkZmxhcmVJbmNFQ0NDQS0zLmNy
+bDA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3
+LmRpZ2ljZXJ0LmNvbS9DUFMwdgYIKwYBBQUHAQEEajBoMCQGCCsGAQUFBzABhhho
+dHRwOi8vb2NzcC5kaWdpY2VydC5jb20wQAYIKwYBBQUHMAKGNGh0dHA6Ly9jYWNl
+cnRzLmRpZ2ljZXJ0LmNvbS9DbG91ZGZsYXJlSW5jRUNDQ0EtMy5jcnQwDAYDVR0T
+AQH/BAIwADCCAX8GCisGAQQB1nkCBAIEggFvBIIBawFpAHUARqVV63X6kSAwtaKJ
+afTzfREsQXS+/Um4havy/HD+bUcAAAF80UfXJwAABAMARjBEAiAI+3HWefmUaN9m
+LMd1PSSGJokdEk3Zd1XKD01OoTANTQIgAakqZ65US9prSHW7N8qItJvKN6zjba2q
+SUIIbar0gEAAdwBRo7D1/QF5nFZtuDd4jwykeswbJ8v3nohCmg3+1IsF5QAAAXzR
+R9dQAAAEAwBIMEYCIQC+LVu7yaoDqEq7FIBAunrHQPDuIFNUUIZ59A4AYMyGPAIh
+AMGyz9XqS4hM6vEQTq12tB/bevrV+sHDn0toEdAjvAYuAHcAQcjKsd8iRkoQxqE6
+CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF80UfXAwAABAMASDBGAiEAk3imeLLdkf/A
+WRChWMCDN5GELkbdt6K5fQV2Hgkm+HECIQD/BqzWvtnPz5oXmdt30woCDrbbW7rl
+F/Q0QRpmwyjJ+zAKBggqhkjOPQQDAgNJADBGAiEA+O+f7Ygg+pC6kF+550uE7UfR
+rHGShcBWJQwsfioRHT0CIQDK0QKWqpvMz6TuqeRa57KGRMsmi3eo2Kd0uOWjF5+A
+4A==
+-----END CERTIFICATE-----
+subject=C = US, ST = California, L = San Francisco, O = "Cloudflare, Inc.", CN = sni.cloudflaressl.com
+
+issuer=C = US, O = "Cloudflare, Inc.", CN = Cloudflare Inc ECC CA-3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2684 bytes and written 422 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

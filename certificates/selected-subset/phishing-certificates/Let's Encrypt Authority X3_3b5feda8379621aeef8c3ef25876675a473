@@ -1,0 +1,92 @@
+https://it.techlake.com.ng/.well-knowni/-./
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = it.techlake.com.ng
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdDCCBFygAwIBAgISA7X+2oN5Yhru+MPvJYdmdaRzMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MjUyMjM5NTJaFw0x
+OTEyMjQyMjM5NTJaMB0xGzAZBgNVBAMTEml0LnRlY2hsYWtlLmNvbS5uZzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKU5Ip4SBDimuhEfWNMi867pJpYg
+IQvSTALjTCq65yrI86BnGKiP3TGoRkx8MkLyxmpfE8+6e0vYwIj6KeLdRqf0hZvU
+dwe7sNHz1fK4ytJNV2gfEsBT6M0ZeNpLSJkFppqQApPv+cc+h49HyzP5CAeRt9yV
+sfbrp0Pc8KPI3mAv523pbgcbeoRX2IYUTQWDCTu8KWQjUoBpC1jJ+HMzqnIz47tp
+aGLK+bsMz3QhG/FCBC8tNcgzDi+4uRtcJLkUmGfZr3qMcmIU8Hk08UhGv4ZtbfUe
+SBLO/7Sm28R1FiDqNqK94fwyeZ9vjygAPlnai/ztk7R47VtzaI5RPrwOMGMCAwEA
+AaOCAn8wggJ7MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUDvYa7UoTxeoqXUJKV2r8
+wM27+i0wHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzA1BgNVHREELjAsghJpdC50ZWNobGFrZS5jb20ubmeCFnd3dy5pdC50
+ZWNobGFrZS5jb20ubmcwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMB
+AQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEE
+BgorBgEEAdZ5AgQCBIH1BIHyAPAAdgB0ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3
+NXnmEHvMVgAAAW1qy6E7AAAEAwBHMEUCIA6vBd3TZFc0JDNhx+MH7oGOAYSMumna
+W/i3HlQmmN9YAiEAzvZPpzuOFF4XLwPgwD2pFQaCKtTMDg5eX/0EObhcQ0oAdgBj
+8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4scdoVEvYjQAAAW1qy6EtAAAEAwBHMEUC
+IAoHVduSjPCqk65OnsaqnPxa/b4X/VyCMKw7tEnzutnaAiEAwSpZlDtTt8BdvfGJ
+WJnaxCk++V3FMQnX2cAXud4lfsswDQYJKoZIhvcNAQELBQADggEBAAMSIjuu0xtQ
+ftimcwP5efvER70H2zkewS8RAnl7eGXCg36srteMnkX64MLg7j2eubdlGfZWflLe
+mD9f08ttDU+J0GTAl4NLNdkkux4pAR3O0TP4zqHvKO/A/rjOGJqsL2z46iRdi6ze
+KSgQibOUC95XoCF7asmnNxiAmDEL+Dmtszec1SOrPN1zztsBql85kiMo5PMCiwHk
+FXyk8asHII/tDn3htLyEZjAPS8QmY4KsTo2ZVzQ/2tinI42av8NlWkK31qcPfO0Z
+S9WS9L5CEldE1p11LannR7eQZSsw6NlpA6wrl+1ELg7JmSWGzfXAhPqbPVr9jplW
+5RT2anBtM0o=
+-----END CERTIFICATE-----
+subject=CN = it.techlake.com.ng
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3283 bytes and written 456 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 1E59D915FD3A7EDD38AD19BA3C57679B1671EBD1ED869A63890DC4593F34A767
+    Session-ID-ctx: 
+    Master-Key: 69393A16119303CE64614E5B46108B86ABB022E799D3240B175A331FE6518EA9680F515AA040374C4178E512B46767D6
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 6a 7b e1 73 1d b4 be 61-51 12 fb 3c f7 58 e1 63   j{.s...aQ..<.X.c
+    0010 - c7 5f cb 1f db 20 53 f6-d8 2d 12 63 81 36 08 18   ._... S..-.c.6..
+    0020 - 7b 6c 79 65 b5 a8 eb b8-a5 f7 3d ee a7 19 59 8d   {lye......=...Y.
+    0030 - 0b dd b6 bd a1 08 eb d3-15 22 25 b8 89 8b 1c df   ........."%.....
+    0040 - b0 7f 1b 15 b8 9b 49 bd-b2 78 c1 97 36 2e a7 43   ......I..x..6..C
+    0050 - b4 48 d4 47 6d 68 7c 2a-74 fb a8 48 1c ff fa 9b   .H.Gmh|*t..H....
+    0060 - 1b 83 d6 06 09 75 20 e9-77 63 cc 92 bc cd f5 4a   .....u .wc.....J
+    0070 - ed 36 1b 2e 10 15 67 54-91 4f 7c 91 0c 70 7c db   .6....gT.O|..p|.
+    0080 - b3 18 50 56 6b a0 93 1c-10 b9 79 6c a5 82 64 95   ..PVk.....yl..d.
+    0090 - ca 8a de 61 89 62 6d a6-b2 f4 c6 09 a7 e3 39 f2   ...a.bm.......9.
+    00a0 - 44 b8 ec f5 bf a3 cb 4b-66 73 1a 9e 86 04 41 fc   D......Kfs....A.
+    00b0 - b4 43 fe 0b c9 57 ea ef-09 cf 21 9d 94 f2 6f ae   .C...W....!...o.
+    00c0 - df 1e d2 d1 d5 c0 8c 04-62 65 66 91 7e 0c b3 b2   ........bef.~...
+
+    Start Time: 1570539628
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

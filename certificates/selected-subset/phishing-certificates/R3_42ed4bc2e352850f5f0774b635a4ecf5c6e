@@ -1,0 +1,65 @@
+https://makcetsgocs.ru
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.makcetsgocs.ru
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNjCCBB6gAwIBAgISBC7UvC41KFD18HdLY1pOz1xuMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjQxMDI4NDFaFw0yMjAzMjQxMDI4NDBaMBsxGTAXBgNVBAMM
+ECoubWFrY2V0c2dvY3MucnUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDt42530dYgps5Cu6NRbNwbg2IPGosS9TWiNQ12U0qM/brwQCCMBGqiazh9MSgv
+CTFt8IrLaybr1Dzg6yk63IrXe9lM1lcqCB12BO8KmhJNQROiyPzzZ0NV8Q/qbyfE
+p632DVhHTbkTQlZi6Tjw3WieNi4UOHcKmikDBeC/iRO1vWBi42LWQ8jxhUOgeEwL
+yyd1HTHr0e1t5dRLmeNbSQIC8d2s9RqIpoq9RJP262PcoOu+HyZaAubkL1cjwGkZ
+1WPHWbILxgABKF4qvsQZKERqi6FfKjL4/hvSzYjyApuZKqRnzsgTXMJn+/MI/pqp
+V8ca53IZyHCmPkGsoUjhCMB/AgMBAAGjggJbMIICVzAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFIMtg8lsi4sNdgVUC7Wvkge+5y8wMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMCsGA1UdEQQkMCKCECoubWFrY2V0c2dvY3MucnWCDm1ha2NldHNnb2NzLnJ1
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB
+9QSB8gDwAHYAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF97DM/
+ugAABAMARzBFAiEAtUpvhw8z1M1pq4b+yNRvBqTi5raT0FPeoNB4jozEFngCIG0Z
+NRiY9MOGGK7ToGbHXXSCLYkgwisMArfX0+KNOYm4AHYAb1N2rDHwMRnYmQCkURX/
+dxUcEdkCwQApBo2yCJo32RMAAAF97DM/8wAABAMARzBFAiEA7T2Wph63u0YGNcUy
+oO2kS414AebvMQ6sB7X2FmJUcMcCICMLsT2cwvpsM4/Cvfmn9ghdNFs6SXSCmcFH
+YlEQ8CKhMA0GCSqGSIb3DQEBCwUAA4IBAQAGuf4GFZA3mNfK3uwhd3xFMxYL5TS5
+WXHiTz9N82S/cs2ZDaBqOuMRhALcDWwyiVpS0unWn0VIyHW9Ckk0IQKZYM70+tVy
+Kr+3usBzI5ODIhg5nZcSof0d1w9T+IMS68jY3GoCIQzbwe3YS7oNlbAO/qOb06+d
+wh0m/BAi3IEeFKgXSVLCSZfeN1RwhUU0mKhwlj3GL5pBakyDiFavlPhaJpXYGhPA
+xzKghVbsQjNnBu23b7kj2voYDDDRCivSHDiubVMc7uMfDzWRib+ew+uhSKNPQOq7
+7STTG6lL/uJqXY8jkoxpgNrPb8wowVejHD+T8HhqqbriKCGp2Xh3tszQ
+-----END CERTIFICATE-----
+subject=CN = *.makcetsgocs.ru
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4528 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,65 @@
+http://www.argonshop.ru/wells/login/ses/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = argonshop.ru
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLzCCBBegAwIBAgISBM8+/3LjjPJ+JPLhPGNDrIvDMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTgxNDUxMTVaFw0yMjA0MTgxNDUxMTRaMBcxFTATBgNVBAMT
+DGFyZ29uc2hvcC5ydTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANZD
+BXHg8yji3LvHAwfceI3XAygcRC8oQlcd/t6w5cs8uz34GCdLHo5j4S+gGkrSCUJA
+BrGHpZCXBL7XU0Wzq3KmauOop/QU/bHnI27N8A4gPsHjZDWtCydNIFNP0DMq38j8
+2Gc5BYYPBhVHgsBnM1w18taCIIR0W30Q8q5avDLZNqJwUrtTem5UHZzYTBiNCAy8
+xKtbPoABSl0+UKcNLeTO99X+THfbUgap2008XAt9hfe7lRS6JuJyH4GI1FuopQx9
+y9OPvLVAfc6gXf6zTyg6y6v7tewn77e/tMlhreOICHc6jRfKv4WR3qQPqhT5YQzx
+xeWMxS2REW6bIrHTaxECAwEAAaOCAlgwggJUMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQUOyVjC03YB5q07kupu+0JwRXHxDcwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA
+5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMu
+by5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8w
+KQYDVR0RBCIwIIIMYXJnb25zaG9wLnJ1ghB3d3cuYXJnb25zaG9wLnJ1MEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDv
+AHUAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF+beKhtQAABAMA
+RjBEAiBu5dYp0uwvwjQZtosymywyQCMJ+yHoGsDX4uKtwbwe6AIgcbgy7G5HEBgq
+RixJsjLjUYmSzP5vI262T9EQ3bpyKwgAdgDfpV6raIJPH2yt7rhfTj5a6s2iEqRq
+Xo47EsAgRFwqcwAAAX5t4qO5AAAEAwBHMEUCIGJJal28zebMW/cHBa3WeR11E4lN
+detwa//NoQ+dP7jFAiEAj/pHh21cxeqDfwiosG0OZMpu2aGa7tPphO9WJ9ANE48w
+DQYJKoZIhvcNAQELBQADggEBACCqCeOVlATxF0zOYWG8ft90SaDVClnxuPfzdfeL
+sJaKCNbT6lQv6VhhzV809PdP3YriEMMr9wSSDHM/6NEKtKYkCbZ1dJgDrj/wJGvz
+tU58H7udchjrDUXjTvnK/94vK6yrxD93KRdU2TvPBCP+mMOtxGGH/rc5cGuWFfFC
+SeAVCuuZXOD85cUN0CqDUFMS6Eo770PT/aYwPimYov8Vx/1+f1JvR4nx1oEI4Sb1
+2WjcUWgxaSVZwjVHBLd82EI4ltwE6bfF1f8k/cq1I+8gpl+bxZ8XyW5T9rUPbiKG
+CG9ZqEGAhEeeaAhiYh7RJQR4UtJeuk23Wdp2apJ9K2LTCQQ=
+-----END CERTIFICATE-----
+subject=CN = argonshop.ru
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4587 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

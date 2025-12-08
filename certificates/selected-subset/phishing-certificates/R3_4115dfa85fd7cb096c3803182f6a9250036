@@ -1,0 +1,71 @@
+https://agriaffaires-actuel.com/mobile/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = agriaffaires-actuel.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+subject=CN = agriaffaires-actuel.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5129 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

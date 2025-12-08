@@ -1,0 +1,69 @@
+http://wame-invitee.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.wame-invitee.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGLTCCBRWgAwIBAgISA/kkZx2uA25SUEf5fop1QsZ8MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDUxMzM4MTdaFw0yMjAyMDMxMzM4MTZaMCcxJTAjBgNVBAMT
+HHd3dy53YW1lLWludml0ZWUuZHVja2Rucy5vcmcwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQCXffncuD5K+LY4msU9n012w41GNsjUUkLYqeOaLrxe9G2C
+XqfDATi1wTU8Ir1rhQiSDX65q1nhpGXouxZkD3LXIAOjtqnXEtx3aGiO1joT4OeL
+Ed1M4qW5Mh0Ccub+Saa/xXz4rvytx7yoMLH26pjuptxl6OmkAr47zsAH1FjvW+nR
+yUTkkDlaumA7X3nNIq2bDjv9CgDDlpAkyfBMsdWr9eIf+1KZfrSrCts+5yavJfNX
+VSarASbvQ4Jr2OYpke0bTIpRGKdGIQaNBHPab/HLP5XOfXUuTMhlFIrdIa3XDgQA
+tvatleG3BU1fc8792I5s0gCukFkdaKGEB70RU/jxAgMBAAGjggNGMIIDQjAOBgNV
+HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1Ud
+EwEB/wQCMAAwHQYDVR0OBBYEFJ90Q0+QUwgqBtDo87l8CWYuMyhLMB8GA1UdIwQY
+MBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEF
+BQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8v
+cjMuaS5sZW5jci5vcmcvMIIBFAYDVR0RBIIBCzCCAQeCH2NwYW5lbC53YW1lLWlu
+dml0ZWUuZHVja2Rucy5vcmeCJGNwY2FsZW5kYXJzLndhbWUtaW52aXRlZS5kdWNr
+ZG5zLm9yZ4IjY3Bjb250YWN0cy53YW1lLWludml0ZWUuZHVja2Rucy5vcmeCHW1h
+aWwud2FtZS1pbnZpdGVlLmR1Y2tkbnMub3Jnghh3YW1lLWludml0ZWUuZHVja2Ru
+cy5vcmeCIHdlYmRpc2sud2FtZS1pbnZpdGVlLmR1Y2tkbnMub3JngiB3ZWJtYWls
+LndhbWUtaW52aXRlZS5kdWNrZG5zLm9yZ4Icd3d3LndhbWUtaW52aXRlZS5kdWNr
+ZG5zLm9yZzBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYG
+CCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB
+1nkCBAIEgfUEgfIA8AB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2
+AAABfPCJO5AAAAQDAEcwRQIgDEcyU390wLULnIfmSuFYTwzQ8zO7cKWm0O8CE0BW
+7iMCIQDNmbyqgs8WbwfN/Id+3eeOegbDDFwhiVYE9l3vDcLrCAB2AEalVet1+pEg
+MLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfPCJO6gAAAQDAEcwRQIgHlW8/1Rw
+eR9zNxDZ2HBAY4CEpOIyrYzSYpouJO0hL0kCIQC7/pii8CkbWyi8Ltnra4QQo+aS
+pUNJPkBBkJcwOAc6kDANBgkqhkiG9w0BAQsFAAOCAQEAgdEmM3wZN9F26sxUpH2b
+ffBu9hP2bEDxCP3rDNc6uEcAWJcgBlujqnrQb5YJJkLG7LNrbWbmSFWWFFSxf8hq
+ZwLv0hTJz6UhX972NygqB9nrx78rppY6nBs5YUX+g5l65fS7cs/6LeOjgmKOufuO
+i2nYTdGz5U+kOLU8gs7c9EGFXAbzBLY2yj/twQDko8Jk0eTbWVFM9oUs9lZV0Fgl
+6N1UrJHmbN024xnIY4Bc/GfPubJCqaQGNLb/UaiXw+6QMNa5x8V0bjCyPUb4Ff/k
+T4UCuCzkXBOZvaVBJcD1EtPcUZszEkG9L8eadekzcmEQ+8QdXR3U3naJhNmEMhkh
+jA==
+-----END CERTIFICATE-----
+subject=CN = www.wame-invitee.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3386 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

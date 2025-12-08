@@ -1,0 +1,64 @@
+https://jessius.co.uk/1.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = jessius.co.uk
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFZjCCBE6gAwIBAgISBOwFKpnwYy1hpkQmIlfrhg+CMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MTQxNjAwMzBaFw0x
+OTExMTIxNjAwMzBaMBgxFjAUBgNVBAMTDWplc3NpdXMuY28udWswggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDHUHOO3lWzfVoTMMKa5qICjum5DK4TGVKU
+2lvMc1A8Lug2QJkONyuZr1G94aX4uOjQpIw62kJJhagkUhf/WnVadGn9eXw4WmWg
+Op0PUzDGChTkb2LYUnz4UGv99GCVqQ8XxAOARtD0IuUVYT9q1jfltXFgBcpiDZjJ
+6u98ietNuuvSDDJJr40mZhz/XmWIq8B6OXeuTZxYF+0IU+QzomY6j39C+A9mF52H
+LH0Ns3Gbxs+g3qbfYBrMQaVjflK2gqpY9D3M9dJEORwPV78RM+JEsr9K9SYW1TcX
+aRNwjrt4KmVvU3ed9p36FsBH7BAhdKXf1fQzy1Fw5vGnDwtPwqW1AgMBAAGjggJ2
+MIICcjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFNNf2SJv198sSWfNIpUtYe169LRO
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wKwYDVR0RBCQwIoINamVzc2l1cy5jby51a4IRd3d3Lmplc3NpdXMuY28udWsw
+TAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcC
+ARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2
+BIHzAPEAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAWyREuVk
+AAAEAwBHMEUCIQCavYUnFYzFUoRtqSmHK2tVCffz9UV/eut6Au//mlDKYAIgGCSZ
+cAtXd4oOBWvxPajAhT9td5JhiFQTyrwX2ntdozEAdwApPFGWVMg5ZbqqUPxYB9S3
+b79Yeily3KTDDPTlRUf0eAAAAWyREua+AAAEAwBIMEYCIQCWkgoy1v9f3oQc1gZl
+HjspIajtc07RCofQe/qVdv5hRwIhAIA1crVJ6cHBwrqDvENwqzeC7gM+GTeiQ7gs
+nl53Pf7EMA0GCSqGSIb3DQEBCwUAA4IBAQCGQv6sKi73zdAPF4KtpWV3v6fiiFlu
+lfkpl/nNxUh6vZqFPmc9oElWfmqszFkesUhNI5OHLnLItRpOB3TjH5beZJfo3qIh
+OQbBYOH18yZdH39hQkJT+Tg/sVbylqcGzRFLDXvKgtfDxwSgRqJKplAqAeoG5UDO
+ghJhpiFuJqFmc2B7G0NKqeSMJyKXBgFP6E3rZtTPEbleXYUktL7MCxAJsEwuG0D0
+evZUG+0qVbLCz3t2wnSsSZBL3VWxpy0wWTDwIH80I1o4ZPCK+6PFgH1NXvYwGlL9
+LnXgw45BZlw9lW8BP7udKhB6ze9Qcb16lU4bVlETpo8ETZT14OwQlRJS
+-----END CERTIFICATE-----
+subject=CN = jessius.co.uk
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3125 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

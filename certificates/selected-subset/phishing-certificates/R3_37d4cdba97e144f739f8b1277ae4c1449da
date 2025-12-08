@@ -1,0 +1,71 @@
+https://update-02billing-sim.com/Login/index?id=8f141e17c0473e60af9838bb85d589c98f141e17c0473e60af9838bb85d589c9&session=8f141e17c0473e60af9838bb85d589c98f141e17c0473e60af9838bb85d589c9
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = update-02billing-sim.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+dL2M3WGM+mqKGA==
+-----END CERTIFICATE-----
+subject=CN = update-02billing-sim.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5106 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

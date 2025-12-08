@@ -1,0 +1,65 @@
+https://www2.sndc-card-nem-index.vgkpf.cn/smbc/smbcupdatebill.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = vgkpf.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOTCCBCGgAwIBAgISA8HtQ80odRRGc1cJmNVxTT8zMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MjEwNjQ2NTZaFw0yMTEwMTkwNjQ2NTRaMBMxETAPBgNVBAMT
+CHZna3BmLmNuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4YZLDnBP
+hCIdj2c9Qhh85c8x7y2oZhZj6FjBKP4WP3OUHIpJwOmXjkycR/sCfVuo7Uy/WkvC
+1Xh9J2ZoFfBsLFrv8jdxQnkR6ONKtDt743PbcNPuzIOzp/whw29k+4yt3aToqMle
+eHMq+uZxjfiX9wgfMpxLQ4r32OqkMU2RfSKcfTprvj2633m5Pqh1tI78lf4vPEXr
+cLOBfp3Z98Toy9S8TuIfvs8BLvBcIs8sJlz9r79MUNgX75S1ye/UeILlIc1liVfm
+sC30lx1jDyIOxgVxcmxV9N/MXh5mEDduMSSV6MMxn5ssFKy8rP/ZSKe02W1fO4Nz
++WqhZ9svWY4g7wIDAQABo4ICZjCCAmIwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSr
+3eVxFIhYp0kHg5wiMFMZAiOiQDAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+d
+ixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxl
+bmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzA2BgNV
+HREELzAtggh2Z2twZi5jboIhd3d3Mi5zbmRjLWNhcmQtbmVtLWluZGV4LnZna3Bm
+LmNuMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYB
+BQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIE
+AgSB9QSB8gDwAHYARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAF6
+yAgtNgAABAMARzBFAiB0fJpagxzASxIWV/0DrajuhirtZ1ASavVmb5X8wUsNKgIh
+APuGW7TCsftbs5wCvVttTAQceaWxr63TK+TvlG6F6msbAHYA9lyUL9F3MCIUVBgI
+MJRWjuNNExkzv98MLyALzE7xZOMAAAF6yAgtKQAABAMARzBFAiBUuDKc6YkieQxy
+Z3UoalDbJImLq3b87iziysmAjGq4RgIhAJNRYtxIWWh53KATW+VWn61snCxb7GTE
+2xL+jo+dU1+TMA0GCSqGSIb3DQEBCwUAA4IBAQAJyW3LZ6XmC1G6ldLYcKEJTE3I
+40DWH5AfTqazocX6OQBO3Za82HlJIrWVIGW2eLU4V8Ei7vxw26ybD3SdWeff34EN
+fANl6/yVTMAeHZxI30+LtG7fMpeXADECXk6sEDSBZOFfnmuwtUus9p0PbsOKRzot
+aKxsrCdO69O0pruGw98hNwQ57MelFQ3xhf6Y2hmGoOAmmH6dlZzbVkqDzwOdye1N
+2/D4wgujjUgM8T/GPVAhgbnK3YQcbccbq36BFA4fmmrW8mERKZoGqgi78+7rkj4K
+hTBzim+A5TgsZFALNCS6E5GTbtUrcL1uw92jzqo8HzsAgzOrfBdV/jSZrcJo
+-----END CERTIFICATE-----
+subject=CN = vgkpf.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4597 bytes and written 415 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

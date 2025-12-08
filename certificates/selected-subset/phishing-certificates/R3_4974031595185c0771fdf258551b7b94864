@@ -1,0 +1,65 @@
+https://amaznon.co.ip.jp0pdh.cn/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amaznon.co.ip.jp0pdh.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNTCCBB2gAwIBAgISBJdAMVlRhcB3H98lhVG3uUhkMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMTUxNzA3MTZaFw0yMjAxMTMxNzA3MTVaMCIxIDAeBgNVBAMT
+F2FtYXpub24uY28uaXAuanAwcGRoLmNuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAp1NC9/06kLMvSWAZQyQR7mhsyjR23FZsNfEXTAhHuHNSN6yYHUb/
+t8stKtatztHLrIvX76gm8Etf8GDjQ8Aq9oHFghoOskrN+OoikRfF45O5ITvhu2a4
+h5EH4b0wXlD/i12jYAef1yC8e0rfNgSUhLgI/GFt12lKQRBCykPUPb1NaHN1VcDp
+ewckIqyhico0VCo5X5oHhVYTak7KTFFzQjlQEso5d88l6hF/9LCy0lsc4nTnypcq
+Uc/F2pbW9zoAz8xxzh4fnnYFHlbxXt930PU7AbB/DrID5pAvCRS0qDkr5FMK5LWW
+sL6DveG+rW6TpEvklJH0N2jg3/SSuRgBdwIDAQABo4ICUzCCAk8wDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8E
+AjAAMB0GA1UdDgQWBBS/9/TnxsQN50pkN1y1mWjEKumkiTAfBgNVHSMEGDAWgBQU
+LrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGG
+FWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmku
+bGVuY3Iub3JnLzAiBgNVHREEGzAZghdhbWF6bm9uLmNvLmlwLmpwMHBkaC5jbjBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYE
+gfMA8QB3AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfIUjAe8A
+AAQDAEgwRgIhAK4fmEOY1GIQOUE6OGWB/mlbaypAjETtMOdRDVKLGE6jAiEAkH04
+3yeRkkXUrtNEWMTu7a8hmmt6peCYDZbRqI2S0N8AdgBGpVXrdfqRIDC1oolp9PN9
+ESxBdL79SbiFq/L8cP5tRwAAAXyFIwISAAAEAwBHMEUCIERyFf1TYvpwdeoRNSSJ
+X4gk5rYyDUZnGl1GwXCO7alsAiEAjiO7FfpMOU5YCFFIPTWOFW+y1iUdvBH6L3q5
+orjs70cwDQYJKoZIhvcNAQELBQADggEBAGZGC72lPa0b1r8CUFpAD85zmrApllJk
+OmSvumNKPrlKeSHGLO6z30/pD9/isBB75SqZm+w0KzbX+fmt23LKV+XGZF/wLYEA
+Ep4UrmBzlWnwdVJrWF/1oCHXaFva2XWbyMeoYTgCmC665l97zzmAhlcbFQYeJF9E
+vnTXPNqE7yq5DKW4axo3b9wrYGEOhulC7ZTccDmYN/zmBE/LkeCBwvVR78G8DjRq
+Fia9zGV3RGGCbsLIWwtDMNgflTjAjr9usTezEf8mPTuendsQTBCH8KRfmBnAdvfY
+LBPLUpjfZkU/FTNX8w3uSEarTEbFrUA7JBY9Js0nOaTF5wXf7nYXpC4=
+-----END CERTIFICATE-----
+subject=CN = amaznon.co.ip.jp0pdh.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4593 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,65 @@
+https://rancakeswap.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = rancakeswap.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFIzCCBAugAwIBAgISA+DWWIPmSzz2RQ9RyNTzFf0cMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMTgxOTAxMjlaFw0yMjAxMTYxOTAxMjhaMBoxGDAWBgNVBAMT
+D3JhbmNha2Vzd2FwLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+ALWaxEpDvDquTV6TZi4BZuWGCqSXbAIBSvfM4Afv4wGjZQn2cwrauKhnqtsWNmeO
+4vdXK0esWnOPlvYQKpUDJGY3LWb4qW1UAJzfNpuQ4uK324kmih8qmBcmWVT/s9bI
+WQpNnphx9DKyEk3yceCnFFPkQQAB5pve8rD2JIxvbbqCdPXuwsI4TsHwMdI6bCzT
+9uvjXYtiT4I1uNt+gE7m34Rqu1OZjxHx4eiS+puiMZT3dCJTOZyLstid/RlWqQpd
+quZemjdOEu0D25Fzkxr5XNJW6Wful8YpC9W9Pv9MBZwV66vh6B6Yevu4vbp4uf+h
+eX4w3HlVBRICL0zwR6EuZA8CAwEAAaOCAkkwggJFMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUTH+itzud9pKt0v/KK1DJ28CU1o4wHwYDVR0jBBgwFoAUFC6zF7dYVsuu
+UAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8v
+cjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9y
+Zy8wGgYDVR0RBBMwEYIPcmFuY2FrZXN3YXAuY29tMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYAQcjKsd8iRkoQ
+xqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF8lP6l6gAABAMARzBFAiEAiyIzZ/2y
+zsHIKfFFadIPZtED2nTq8BXBMB7vkGhvKBkCIBL2i0uG7AxxQNeUKk6ozC3h/CEI
+x+0fuqhZ+sPqPlYlAHUAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QA
+AAF8lP6l8wAABAMARjBEAiBkdcnQZtHAysb82st0CPwby/IryiPy6FMG/Tkvt4cm
+JQIgN4+25tdnRvEb5mZDauWlcjlVpitgkUkstYSwuHY3UhUwDQYJKoZIhvcNAQEL
+BQADggEBAKGdNALJ2iBn28BYgsi7KoYiZ/Twv+wQTBh8Wj7ySZQIgP0W/L07aKsT
+eG77jZ615uskSnM6iOnHBf3f/uwIg0ByGIdbjchlmZMcHR1kWIEiyb5gk+i0z4uo
+fVpLgu3WxJ80wgos2/PG9SO3bRrFIeCgToKMR9XTCjWUYu8FniZiD8ssM/kc/zb0
+1F/RwBiTYYq128+sN820534QqjHx+WcEaUr0GVjOudKK+Im6SSk9uq0flJERzt3R
+3/Gf3JDguvmHnKH4GWaSNfEcctKUN3Df+ueY0Z5iRzTxAoLRaasCLB/gCwn1Ohid
+gb3vbbcXHhCowzGsJPDkRBlv9LpsIHA=
+-----END CERTIFICATE-----
+subject=CN = rancakeswap.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4559 bytes and written 373 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

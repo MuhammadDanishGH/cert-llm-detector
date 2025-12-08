@@ -1,0 +1,63 @@
+https://onvrces.com/mazon/amazon/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.onvrces.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLTCCBBWgAwIBAgISBIzoOODuyZlUxmBvesKd7lJTMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjExODA3MDdaFw0yMjA0MjExODA3MDZaMBgxFjAUBgNVBAMM
+DSoub252cmNlcy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDW
+F4pk0LOX5oOFEw+MRzccmHtXDYPeFtKRF+onvVVf6i9Y8gskrKwS2H+LAd/cGWjh
+kbitLySNUhVGV9bHAVZu1/XAL+52WDQXoyu4MTcKTYYyeZlkPc0atRgFdoscMBnq
+kvELLY1mRksUwPpQg3uAX0U63qVJvdDyZJYVe1AVVmTLIWUB3URXGptnBDnGzQQA
+BTBX6IyIwGQdCoap3f9+wCdDdsnJj/UpCnxgEJ/0fYxVhJMKIMEDPqfJl2liqVjg
+rSOiOFbZT/7EqI/1Z1Hn4xDaTl0l7zj1SDwF4DiLz8BO7pejtLKqSgBIoPtwQtW6
+85bNsUIhs8552gkAidQLAgMBAAGjggJVMIICUTAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFNdo7Eahr3K5/+5pBYUr7XCkBtbJMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJ
+QOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3Iz
+Lm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcv
+MCUGA1UdEQQeMByCDSoub252cmNlcy5jb22CC29udnJjZXMuY29tMEwGA1UdIARF
+MEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6
+Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA
+QcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF+fgkE5QAABAMARzBF
+AiA7XnwwD/aLMEA90kqz3mCQ6obUzfiJ1KckfpRYrnDhwwIhAJsaoIdLHaowr8QJ
+uDCr4cFClj3MEK5p5ERG8LNgBVOmAHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4
+havy/HD+bUcAAAF+fgkFNgAABAMARzBFAiA4uITLYdtHUFHfvTTHR5maBrsWglD+
+n9aKWQrhXEQebAIhAMAA6Iwc89JJMp8oswnbxbPljLJh4SKGn/fWT6lIiYfHMA0G
+CSqGSIb3DQEBCwUAA4IBAQBlrewsRPPEBcKDxDNyHd+NFF6BjmVNLuqj61OrqK+x
+MvBKRUDzfs/7B/dAsSvPLUO63wbI5MKfC4ncXC5SPwnYMJuW71ESSznulca0/2S5
+Y2G7KlZ2t0Yux9xHbcWB2mm1e77hyh45H0MQNKXnzAxRP/e45fzEa9RG13djcK+b
+NUo7Ff9Y33uoCRiszDPNjUG72ELaMunqugttG2DmZ0eDCE4ESJl0JgCXKfUwL+YX
+e/2bov8O5u6pHc9wbe96uyIVtqlzJBBzdm6runNewJoK4nRPHGSrtdxG4zQkcxqT
+AwzUdfjMLjqq0H+1xKkyQDkVxZJeWhvFtdxtXVREiuk9
+-----END CERTIFICATE-----
+subject=CN = *.onvrces.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3200 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

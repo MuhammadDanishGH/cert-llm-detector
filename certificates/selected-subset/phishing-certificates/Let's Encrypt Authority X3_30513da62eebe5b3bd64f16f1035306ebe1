@@ -1,0 +1,92 @@
+http://powertruckparts.com/signi-n/customer_center/customer-IDPP00C924/myaccount/signin/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = powertruckparts.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdjCCBF6gAwIBAgISAwUT2mLuvls71k8W8QNTBuvhMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMjgwNjM5MDRaFw0x
+OTA2MjYwNjM5MDRaMB4xHDAaBgNVBAMTE3Bvd2VydHJ1Y2twYXJ0cy5jb20wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC8iXKHDWyMBUJc3MivlLvWQYT3
+azOKZ0oqFojYGxH0yN6H40UjhcmXFH7/c9dJFVXKPagtM2XAn9V99llUzFRkrIBC
+sRs3USHXjMFSQMRNmKSLwYck7G3Qa7LQFL5jn1bLTFZVYmNQ+xqT0thXr2ZFmA/9
+oYeIOoycUcZZ3hSr9cESOpNiOXQtDrGg1ISAN91fYKCzeraSwTd3qmz9wFeKGU/k
+KFnP8803HAV3FiBixV00pbgfRHp5Q4ZRJTQ0KzmXMeNc30hZQ6VAP2ZMmGU0GdF8
+7212BxZ4yCjfgaW52ytiYyT0QTgQyRveQKqgLlVgnoF7VYhfPei9dgvCdtzHAgMB
+AAGjggKAMIICfDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFObKloPDARQhRcQtGGiy
+5+q+L4GBMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUF
+BwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZy8wNwYDVR0RBDAwLoITcG93ZXJ0cnVja3BhcnRzLmNvbYIXd3d3LnBv
+d2VydHJ1Y2twYXJ0cy5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC
+3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcw
+ggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQDiaUuuJujpQAnohhu2O4PUPuf+dIj7
+pI8okwGd3fHb/gAAAWnDPPB8AAAEAwBGMEQCIC40tQrR//bZAsB2E9J4oRkcBWZp
+AKCwZGTas5iXIattAiAleAOi5Tu2jeT7npxM55aarZrCmPlqkEiKbeWfD9e2XAB2
+AGPy283oO8wszwtyhCdXazOkjWF3j711pjixx2hUS9iNAAABacM88OMAAAQDAEcw
+RQIgAMCqtA3T0lB1e7rks5IGK5Gviin2PvArWWa1V3h2ifICIQCYdoa5BUZQ4uC7
+/W58pyh3ZCuwcP4cH5ZtM/HXPSJQDDANBgkqhkiG9w0BAQsFAAOCAQEAHF+mLtta
+MROTPuqHitUpWFNJhH744nmvi4ty0zoKR/4KgA5bCJo2Zh/QpNSV7tsAFL9M/PFp
+DWYYCGd18JRi7wAMRRrgYGnlxwLkPxfAax5K9KQWBmeQ+jt10qfqM0OgD+Zx7DEo
+RnR+TKKd/b2kgHZ3Qk/e3uLr+tlnTto3Qqi4zvL94En6ZHnXa3a49i3ewTHxqz0E
+FruKvENpPyiK1XnPKFa3FO5wgc1tS+O++JFWhnU+eGAAVXSVDA9OrUnmzIywJ8GL
+2vcL+DD2wGROJ+bfqags2nrG9DOrZXaLXjhSdU1IHj/ymRahIKgrF0F7njObaiEW
+mg/OaaELs3StAA==
+-----END CERTIFICATE-----
+subject=CN = powertruckparts.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3285 bytes and written 457 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: C9826D56C9CE8649DC5A0A6F5858A535997F2FCBD79C41B751D83348ED497C64
+    Session-ID-ctx: 
+    Master-Key: 13A51329B38475AA6D5AAD0EA68CD85B1CC5E22722A59A7AF9F902B1D10512946135585A3027D0E4FF5631EF58716FE5
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 7a d3 c8 10 eb 11 6a 0d-a6 28 7b b4 27 3a 19 0f   z.....j..({.':..
+    0010 - ca 64 b2 cf 16 51 85 7b-0f 86 30 37 02 6f 03 35   .d...Q.{..07.o.5
+    0020 - a4 2b de c1 e0 ee 44 a7-46 1a 23 60 16 fa e8 ac   .+....D.F.#`....
+    0030 - eb 92 32 1c 2f 61 4f 85-e3 cb b3 32 4d b1 27 ad   ..2./aO....2M.'.
+    0040 - 26 a1 5c c5 a2 00 63 71-0a 33 55 30 a0 9d 5e 8e   &.\...cq.3U0..^.
+    0050 - 8e a7 78 70 86 6b e4 c0-ee e7 ac 5f b0 13 c8 b7   ..xp.k....._....
+    0060 - ba 8b c4 56 6e bb 02 e9-c7 d8 b9 c4 61 00 b7 55   ...Vn.......a..U
+    0070 - 38 95 c0 9e ab bd 35 bf-db 8a 7d 77 ca f5 0f 86   8.....5...}w....
+    0080 - f0 72 c5 71 09 30 8e 6a-f6 4f 32 32 d6 6e a3 36   .r.q.0.j.O22.n.6
+    0090 - 99 34 12 e8 16 35 55 37-58 cb 2f 00 e1 6e 7d bc   .4...5U7X./..n}.
+    00a0 - 6c da d9 80 02 0f 66 33-82 5a e9 4a 58 20 a7 77   l.....f3.Z.JX .w
+    00b0 - cb c6 e1 cb ed 8f e8 e1-7f 5f d9 81 5d 01 63 5c   ........._..].c\
+    00c0 - 79 06 fb 8e 1e 5d ca fe-2c 52 52 41 7f ce 09 12   y....]..,RRA....
+
+    Start Time: 1554296415
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

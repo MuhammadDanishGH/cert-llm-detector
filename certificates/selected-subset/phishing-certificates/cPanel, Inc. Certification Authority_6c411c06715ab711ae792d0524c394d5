@@ -1,0 +1,73 @@
+https://alexanderives.com/wp-includes/dhl/dhl_topscript/cmd-login=9f3885a038f82d43730038c8d9043a43/content/login.php?email=info@hatecgermany.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = alexanderives.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGmDCCBYCgAwIBAgIQbEEcBnFatxGueS0FJMOU1TANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTExNDAwMDAwMFoXDTIyMDIxMjIzNTk1
+OVowHDEaMBgGA1UEAxMRYWxleGFuZGVyaXZlcy5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDMLCfs/zWYUaZYObDyZlNDuyvCZTFiLcBdREZBWFEI
+yrjuEWaJy1HEEhvcZOqvLO8Zp+XTyq1xG8OSUMaDrUwLfISzT9MoM3R2Y8JMTPd7
+bce1JZPaCkogZbO0I5ggEGSCGGRE93fcOxD/EhwbrEil7onLt1ptriEudyfWYV8W
+HnYF+1W8InmK20us4369ahCgyRKyGKZpVcUhpTBqyBZ0+afOatNS0z5sgG6u7qfv
+ggdiDLsMygtzt4SvduVcFxuoOnm8CaRt1lQYFaWqYzOr2OtZziLCBPgNSxlRKb32
+arDHL0kCtzCh71VHr9ArwBcj6ktJBGmRkT6uq0pk1yQjAgMBAAGjggN+MIIDejAf
+BgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUSJja6eYt
+HeXUC4riHchX4QGVaaMwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGy
+MQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYG
+Z4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEB
+BHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVs
+SW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AEal
+Vet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfR36TsQAAAQDAEcwRQIg
+WEpf14AHlDIxzX1PwiHdt1SlL9/4uIVs+/p3fFcVnJQCIQCiUIxzIvMZgfkIy3Yv
+XHE5yiIeKFMlo6EWhkGOyQUiagB2AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsS
+wCBEXCpzAAABfR36ToUAAAQDAEcwRQIhAN13WzpOU5CnbjZr6uY2kHKTM/g0fQhX
+0VWs1RGW1yzcAiAsuIViUtOlJkyVjz3/H8jfj8FN9bwCu4QUUeC/rrMdWzCB2gYD
+VR0RBIHSMIHPghFhbGV4YW5kZXJpdmVzLmNvbYIYY3BhbmVsLmFsZXhhbmRlcml2
+ZXMuY29tgh1jcGNhbGVuZGFycy5hbGV4YW5kZXJpdmVzLmNvbYIcY3Bjb250YWN0
+cy5hbGV4YW5kZXJpdmVzLmNvbYIWbWFpbC5hbGV4YW5kZXJpdmVzLmNvbYIZd2Vi
+ZGlzay5hbGV4YW5kZXJpdmVzLmNvbYIZd2VibWFpbC5hbGV4YW5kZXJpdmVzLmNv
+bYIVd3d3LmFsZXhhbmRlcml2ZXMuY29tMA0GCSqGSIb3DQEBCwUAA4IBAQCD+QOB
+Fzz47ZOppJ+bBSnjhV6SjwCsESZLZ8bLChWxlICoEg4rcj2nfEqAKlczIzJAg/I4
+w1Nt1T+3AWRz/svZhSf40LwubJdwMrqW27rHydvJ3Wv170WRv2oZTgexItOcVQ34
+oOyylrgVDL33XBrCd74CGTB8XCJ8UD/i+VQtpn/zCXAxXNgoiUJggPLpg/UbIpef
+1LRfQVvGuLmECbxGkPzM3ZHoPtFIy8UB28r6zdR8lD2NLybFCQ3k/GR9J0htny8v
+y1wfUxsPnmk7c6WV9ypd4cXF4y6mPO4MzY3iigCZbIn4J+b2fJaH11jG0UKeQYbw
+Mh3moKVS+BDUFPPY
+-----END CERTIFICATE-----
+subject=CN = alexanderives.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5197 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

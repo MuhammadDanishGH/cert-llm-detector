@@ -1,0 +1,91 @@
+http://pure-viva.de/korn.htm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = pure-viva.de
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFeTCCBGGgAwIBAgISAzkRJDbh+3SmK2TyDhTEdeS7MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAyMjQxMzAzMTdaFw0x
+OTA1MjUxMzAzMTdaMBcxFTATBgNVBAMTDHB1cmUtdml2YS5kZTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAN5jM5+He20HqLtP8phMD+CoOrdG3V3OsKbA
+3J+3LgGNrgR0SeT3bHqDfApt7HQHAw5dTQc7LOM1tHrJ6j74v838Nq3hh4f4T/QZ
+jmcHTz1Es5YBro/oPfhe7fz2RuQGyeszEFvMO1TjFe2RIxNNBTtZ0TYl0L/l1XgP
+o3xgpcBY6ggru4EF9g+NKa8bMyQgXynYnPswUC6Bume1sV01Igv3NATwU+6iqnxA
+4wkM6T9OTTjGmiMHsaCfAhFO5TgEXK2yT4/TCNRk79f18FY/c5HScc6lU/BgLaWE
+wuYTL8Zz96w7Mmiks6ZgRidy7L82QsUp7ADM8AjUsdjYbJzVCAsCAwEAAaOCAoow
+ggKGMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUloc0BQy5olLzmQR4OrXmG2S0jcMw
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzA/BgNVHREEODA2ggxwdXJlLXZpdmEuZGWCFHdlYm1haWwucHVyZS12aXZhLmRl
+ghB3d3cucHVyZS12aXZhLmRlMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAdH7agzGtMxCRIZzOJU9CcMK//V5C
+IAjGNzV55hB7zFYAAAFpH9E1JgAABAMARzBFAiAFfEQra+txBCXLi+1a+4VhqW4k
+SNG7Mo/io/eqsR2NkwIhALMFfDkVdMTPYsdUFs2v9xTSCXSkdQUqzNurhuXQ+5br
+AHcAKTxRllTIOWW6qlD8WAfUt2+/WHopctykwwz05UVH9HgAAAFpH9EziAAABAMA
+SDBGAiEAq+GrxwTCpzzQSMbkCofqhSBijb+evbtoc8xKOEtYuigCIQC3IUcrWnF9
+WPz5i+M2k3NYuOVne1z8pd1QX4/XiyoQcTANBgkqhkiG9w0BAQsFAAOCAQEAHxw/
+XyQEKQ2rzQgvN04Im4CPOiJkLX5d3fThqQA//Sy6P9Z0R5LSCJXsC60Gf2gWc+KE
+Oq78gORiCr6lt64lWvrtSow2QL4XDOPrX7D64dThHLIQX/rpbUFUn4aY/DRCViMu
+eDPVoDNTCMHJ8My3hDI7KEMBMmLVkqJflaLpxakAwd+7/vTFHU9tKDiPKNXu8Hwn
+ONDaaMZX505LH/jFkb5D9FtJfUJGckyew7uu+8i1IF0hGe7K0XygLACnzkfhf4j+
+ds0C7Gjp+c2w3GtwkQoCJtnz2LCH3GFL/S0XO+qBxjSjWnyuczHp69Vavw0DcUBU
+c+dILsZ4+soxvydLjw==
+-----END CERTIFICATE-----
+subject=CN = pure-viva.de
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3272 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: C6C5AFCBBA9E3151063519D487D2B1241B139FC492A8ECF48566E561CDB54A5C
+    Session-ID-ctx: 
+    Master-Key: 08AF3CEFE1A3A2CD62D31205E8C73F416884580B6CE1071DCF68FD46385E4BCD6141917CC3F853B0496CD7E2BCFA8E6E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - a4 4d e3 57 d7 15 b0 8e-1b 46 96 56 f4 6b 82 82   .M.W.....F.V.k..
+    0010 - 27 3f d2 1b d0 5e cc df-20 46 ee 3e d9 3d bf a2   '?...^.. F.>.=..
+    0020 - dc 04 e9 4a ea 23 aa c6-19 7a 42 05 ed 05 65 98   ...J.#...zB...e.
+    0030 - cf c2 8b 3d c5 cd 6a 3b-f9 14 08 0b 1b a2 a3 09   ...=..j;........
+    0040 - 2a 2a 2c 11 c4 c5 f5 61-ee 68 3c 62 e9 10 c3 59   **,....a.h<b...Y
+    0050 - e4 55 cf e2 ab 43 36 7a-d0 64 75 a0 82 be 5d 91   .U...C6z.du...].
+    0060 - 4a 7f 12 61 cb 4b 14 4e-aa e5 c1 e0 78 59 17 6e   J..a.K.N....xY.n
+    0070 - 01 14 89 6f 77 f2 29 8b-21 d2 40 eb e2 bc 60 95   ...ow.).!.@...`.
+    0080 - a7 42 48 9c 4b af 28 65-ae 1b 0f 50 1b d1 b2 2b   .BH.K.(e...P...+
+    0090 - 86 e6 d0 08 4d ec b9 7a-b5 ea b7 58 c9 fd 47 99   ....M..z...X..G.
+    00a0 - 68 98 c5 a8 aa 35 c3 a4-53 da 89 f6 07 62 e3 59   h....5..S....b.Y
+    00b0 - 0a 5d 39 b3 ad 66 e9 9e-6c 52 f2 da a3 60 12 69   .]9..f..lR...`.i
+
+    Start Time: 1555333221
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

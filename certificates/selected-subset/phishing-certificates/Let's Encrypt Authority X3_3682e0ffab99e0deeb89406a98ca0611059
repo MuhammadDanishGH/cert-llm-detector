@@ -1,0 +1,76 @@
+http://www.mlaxoffvacxzq.com/ADSWE34RF345YH74R4F233RT423/myofficelogin/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mlaxoffvacxzq.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFijCCBHKgAwIBAgISA2guD/q5ng3uuJQGqYygYRBZMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MDQxMjIwNDRaFw0x
+OTA5MDIxMjIwNDRaMBwxGjAYBgNVBAMTEW1sYXhvZmZ2YWN4enEuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s7KsjxWmCKZQrLIEF1iCVC9N+r2
+ZzGTXrcY8cVFI8bV8MAkdP9KUB1rGSg0OWkuqaVdLrYmoF+IfWB62sOQhEZlm8pc
+IebqQPkJO1UJyRJnHwlqaJunY1RTpzx3tusdvCmylTrxBFk99c0Fo0/GOdcOv2Sb
+EWqbmq1KFNfyy5UxVcnCigZffY4x6iut+kfYzf80Qa3FNrchw3huRrJsxLjG+0SN
+oniVF4j2QB3xt6gTghgedtTW15XQIR3U2yT82Lt7aDxHVodlzILs05EwcIQVkkKA
+uXoYHBonY7JLmCi1m812pDBVJC97mfBdZ8j5kthM3HfPKJZj57BxfLZtzQIDAQAB
+o4ICljCCApIwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBT1rQxZSQBmYqhawPRvRP2C
+QTtcNTAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMEsGA1UdEQREMEKCFm1haWwubWxheG9mZnZhY3h6cS5jb22CEW1sYXhv
+ZmZ2YWN4enEuY29tghV3d3cubWxheG9mZnZhY3h6cS5jb20wTAYDVR0gBEUwQzAI
+BgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nw
+cy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgDiaUuu
+JujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWsipi1UAAAEAwBHMEUCIQCi
+66cxmcKbQ8VsWLx88wgTmvFXFax2+QDclcES66/0vwIgTs5pLZvs5e64CYaLV3lI
+SXlRFnNw9gH90l2NbfJ6Y7YAdwBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4scdo
+VEvYjQAAAWsipi1sAAAEAwBIMEYCIQCKqy4v5OCIzTRuXIryBpasGK7KMKA8KV/k
+iY+DdCLShAIhANdAZA4Kjvo8vXONp4bSDqxITTrpaudJaagHbE5czYkCMA0GCSqG
+SIb3DQEBCwUAA4IBAQAY19DOGV32HDRAy8sjBpYwDkcCPakqQFJ6oRiI9/5rxwTD
+TkYStRzWi1L5cNhA/MY3Xn6lEItAh9pRtqDQy2SLhR+uUuDNOyGeQWQE3VD3PstJ
+PdFwaP089vJT87ixt8yIwpbk5SBcrHv972EAqrr7/90nnUYSJt5bO3BJFS/AmhTv
+XYNEHrj2VmUD1W30rOXaJilyILC3BOp9WFEaoLSAYSzjHYygwrPf3iyHTNUKq/RO
+07ggOGQamBsvJDhVdPnG8mbhWI9K5Jfs31Tn4+qAwIE6vO86h+lnY/f/H2o6vqgb
+ibdj4TNYVTmRlbFL961si9/InCLSwHYiIMnKoMC5
+-----END CERTIFICATE-----
+subject=CN = mlaxoffvacxzq.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-384, 384 bits
+---
+SSL handshake has read 3140 bytes and written 491 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 8B1370FE450175A5E96B06C74E968DD396F00ADF87A6E54FF6477008966AF73C
+    Session-ID-ctx: 
+    Master-Key: 5DCD64ED4B462F8DC1A79B22FAC9E0384C030F526F00A7DF68E1279D663429EE1169574D3B63014E3C3D7522F29FD600
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1559739624
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,100 @@
+https://ae133ff14fcs5febqsc84f49072b6d61d.dns-cloud.net/njjg/indexa.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ae133ff14fcs5febqsc84f49072b6d61d.dns-cloud.net
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGyjCCBbKgAwIBAgISA89/jAhZ8P0CaOFYA9M0nPFaMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MjQxOTIyNDZaFw0x
+OTEyMjMxOTIyNDZaMDoxODA2BgNVBAMTL2FlMTMzZmYxNGZjczVmZWJxc2M4NGY0
+OTA3MmI2ZDYxZC5kbnMtY2xvdWQubmV0MIICIjANBgkqhkiG9w0BAQEFAAOCAg8A
+MIICCgKCAgEA3mZ6KXCopvXW8HOfAWuYpW9I+0ipeBA5ZTYBgN12wdVe/lPz5gu2
+hbb/qYEswyrssz+hCbTv+FLrfUaKVBsxxbFWO530jBOO0MAtiuONRKswldOzT60d
+RzCPm5dV+JOdFFldQz6hUuHsNkxmUTrtMS7BJHycErx6TkFhA05qnxg2A/XmS2bo
+eut9ko0d0ZkXegh0fVSUgcI6DyM3ud89KgeN9NaGhbuX4+KSyXbJ13Gpxf80MLxB
+m2POFOILSXCOFm0qhcfIKQo7Ig0c21P2mzbdyHECelTaOX0A+KNeockAn6Jgf84x
+R33IlPNFkTjRGsFwBxXvVNV8MTlMGOnnqoeigWCJ7wnktaLkE3Mzvwx6g64pcqLA
+hjcTGpdnrxsjL0DPVcGMqU+yhiaSum6OLO/JdTlbolPjXYC1jEr5K9Sea339xPGo
+82qkPn5cpnnv8bx8wPt6Bpn1brCpRVxdAhQwcVSTIJxVv7xXwemXYf0OPgxEOXj0
+1eOMYCoIMeAvaDEsEywTX6uBPagRlL6FIAOpFAoqrzST5wbFNwXZVhRtZshHvTzw
+lQnyRtM3CVUSrJJQ8vhN5vH20k8VECr3SU3lfIHEDB7hjxPk8URq7xIKzAf2DYgT
+gd9O72AvQKS5abAmu73et1jWxAGSrwY3IyerBj20BMGZOa7t21W+RekCAwEAAaOC
+ArgwggK0MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUxwOex1G7CjPSnyTqeDI/Gp4y
+rQswHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnLzBvBgNVHREEaDBmgi9hZTEzM2ZmMTRmY3M1ZmVicXNjODRmNDkwNzJiNmQ2
+MWQuZG5zLWNsb3VkLm5ldIIzd3d3LmFlMTMzZmYxNGZjczVmZWJxc2M4NGY0OTA3
+MmI2ZDYxZC5kbnMtY2xvdWQubmV0MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysG
+AQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQu
+b3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAdH7agzGtMxCRIZzOJU9CcMK/
+/V5CIAjGNzV55hB7zFYAAAFtZPDRuQAABAMARjBEAiAUb3/gKif6iLPEXvOom5Ox
+k4u5/fyXM+vJKr2K1mWlTwIgcnYAc1NVHgS7qBJ5W03jxIc/ijR5g+bniCUX8fZn
+4IAAdgApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAW1k8NHXAAAE
+AwBHMEUCIQCTSU4+yOSMGfC9MCV2mhH1zi+JSH8WV1urknPo6pLliwIgSK1xTd0A
+rRid95Qh4hs0GUe3SvzmV68tzD83KYLyNCIwDQYJKoZIhvcNAQELBQADggEBACh2
+0pCtBzG8JhnygQW0p+2q5eYlzx5syGYTWwPYNKzQ5at/CwRFrfyPeieydUkS8IA7
+pnJhQiEe+7wLJLG4S98TLD1wehRB+Rzw/kDqr6rvmaacr6vA0Smebrjt259Qkjjo
+UG+GfmIpoPIm49/wlZd1HOA9Ru22nPyZ0ymYm5YA98wNNFDDniyW9rx8Lx83LIgh
+rJjtJ/j82BLbCoS7L5x91XyN4SU6QCI1igKq5BLYBo2b75tEBEeVGhJC/PM6YA/n
+obnuW1+PGG/l/IwjmJkrrIOTa1ZGM2DgqmpdRpgzwlNveYwI2anzy0nKp53QFZo9
+miLMLv9AKe/Pv1VJoRA=
+-----END CERTIFICATE-----
+subject=CN = ae133ff14fcs5febqsc84f49072b6d61d.dns-cloud.net
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3897 bytes and written 485 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 7910B01C5A175BBF0DBC4F006DC25DDB7BD24D5059511888A7330FA3C90E862F
+    Session-ID-ctx: 
+    Master-Key: C18420DF90A422A38AAFD6FED902DC4A3D8AB06E06937F4D18BE552E4E8225B80E1431F4667B8145BAD0A95616F71EBA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - db 77 80 82 c7 92 70 18-df 92 d6 ae 24 f6 ca 16   .w....p.....$...
+    0010 - 58 02 f9 b6 b9 19 39 e8-7d 94 30 fc 44 5e 02 27   X.....9.}.0.D^.'
+    0020 - 12 f8 10 ae 1c a3 bd 3b-3c 29 79 10 68 66 17 69   .......;<)y.hf.i
+    0030 - d2 23 7a 72 9e 9b c8 ae-0a 26 79 17 08 e4 6c 4f   .#zr.....&y...lO
+    0040 - 1d 30 df 74 ed 64 71 66-e7 3f d2 2c 0e 1e c3 51   .0.t.dqf.?.,...Q
+    0050 - 3b 92 45 e0 03 ab a8 3f-b5 d0 de 15 25 c7 05 d3   ;.E....?....%...
+    0060 - 98 8e 73 44 10 86 6d 34-ee 62 16 4d 0c 29 f8 49   ..sD..m4.b.M.).I
+    0070 - 75 97 c4 6a 93 eb c3 56-29 2e a3 83 60 1a d9 26   u..j...V)...`..&
+    0080 - 4c ff f7 e7 53 77 06 41-26 71 33 7a 9e 97 3b 22   L...Sw.A&q3z..;"
+    0090 - 33 ac 74 03 ec f0 ad f9-c5 c9 a1 e6 b4 49 1a 49   3.t..........I.I
+    00a0 - dc c6 b2 a7 c7 80 ce ae-6d dc df d2 c0 7a 09 2a   ........m....z.*
+    00b0 - de 92 5d 76 be 48 d7 9a-9f 1b 3c d0 bf db 1e 96   ..]v.H....<.....
+    00c0 - 13 f6 b7 91 98 a3 73 0c-f8 ec 0b 09 9a 0a 9c 88   ......s.........
+    00d0 - 0a af b0 bd 6d 7f dd 75-44 9b 6f 93 d8 b5 46 81   ....m..uD.o...F.
+
+    Start Time: 1569589225
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,94 @@
+http://barrancobt.com.br/wp-content/plugins/cmsboost/eng/update
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = barrancobt.com.br
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF3DCCBMSgAwIBAgISA46YP1yCTPuTSxv63T1Kbyx6MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MDcwMzUyMjFaFw0x
+OTA5MDUwMzUyMjFaMBwxGjAYBgNVBAMTEWJhcnJhbmNvYnQuY29tLmJyMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsyHhL7GXmSTaiGeqgBYcV7p4mAGN
+newBK0ousY9mhLjlrPBN4sAd90hqBmZrPLISphaa/9+c78FdMA52O0yUp1I90991
+WodZ6Rp1kWyX2B6olVedps1pyiL+4qvr1HTuuk6v1UxM740yk5L1tydWrgml/TT4
+vUHirSYIiSkS+fBTShUGoYkYEIVF1RKRh3G/ihBxpdViG39mG5p5MBWTpyuK4aBi
+vpNVDOjsJHjt+w29ipUIWnox2YGMDbymV5Z1oFbXp9XsOKIy4NDjhtg+e+rHoFvL
+TuJTrx1mUuQ3Wxmrl5v3roUkO7LzZVMnNOMkjyIU5AO+q9uAeOCpp2W6WQIDAQAB
+o4IC6DCCAuQwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQaQ7AF5j4OPstsQD9Ryd4C
+Yut0BzAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMIGdBgNVHREEgZUwgZKCEWJhcnJhbmNvYnQuY29tLmJyghhjcGFuZWwu
+YmFycmFuY29idC5jb20uYnKCFm1haWwuYmFycmFuY29idC5jb20uYnKCGXdlYmRp
+c2suYmFycmFuY29idC5jb20uYnKCGXdlYm1haWwuYmFycmFuY29idC5jb20uYnKC
+FXd3dy5iYXJyYW5jb2J0LmNvbS5icjBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AG9Tdqwx8DEZ2JkApFEV/3cV
+HBHZAsEAKQaNsgiaN9kTAAABazBH0UMAAAQDAEcwRQIgWdjvJ63jhjgqyBPRu0bb
+YsslSMuezWfgg4NRRlioWYUCIQDrcw78iKG9YxR0sUo5oD2O91ibSaz92s4CrL1e
+yRpaEwB2ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABazBH0MYA
+AAQDAEcwRQIgHBgl1UhD1PxG7APDLAXQiHNGY5oCRQPPub1cKHVTMqYCIQD88vIK
+gP4qc27nG9JdJZwZbordDObxqPMjR6kIwECYMTANBgkqhkiG9w0BAQsFAAOCAQEA
+Y4xeaxkBMkwg6UuNT3p+Ibo4iIaGphdJII4gtVYI3n8pQg6csEDEasg8GXhzqOPK
+1f12LhTwMysde7uBFh1QBHkDO1EE7fzX9pbquNZZMliZvrbJRNcnc/3mRXGU7+Lx
+2nnp58T8OsKNvG520KfiLT8WdfSP+wrGFN6YOt2sNl248Mz4atcf7g34N13+NHpG
+mAo5jr1+48ncZKVsEou6ykfBF9vp6envzENfvYVB4vHvgG2QBETlOv4MkQTFO3jG
+163vVu3PUYGfqy4xWAqwgHh7DKoG5g7+E7RFsV+Aq+GMEs+RJ93/IGuOqg8yeDkw
+B7fF/lIMu/FKxC2LGBHbHg==
+-----END CERTIFICATE-----
+subject=CN = barrancobt.com.br
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3387 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 191691112AC0143D76570BFBFD2BE29441D8E30091129B7AFFF2BB9E739D491C
+    Session-ID-ctx: 
+    Master-Key: 6DD1F127D536C914CF6DF0E7D64FA68423989DF889532C8E0ACD079BABF8406FA58D31F0099EFFD338865808982ABAD7
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 9e f8 9e 0f 7f 0e 68 5a-5f ab 33 e9 e7 52 cc 96   ......hZ_.3..R..
+    0010 - 30 e8 0f e9 47 02 41 d1-ff 93 69 67 3e ec ba 35   0...G.A...ig>..5
+    0020 - 51 de a6 be 66 e1 01 98-00 33 2a 58 d6 d2 49 4e   Q...f....3*X..IN
+    0030 - 79 b8 27 9b 45 31 5b 63-9a 4f 09 1a 1f 55 8f d5   y.'.E1[c.O...U..
+    0040 - 2f b2 ea 2b 07 e2 d0 93-6a 05 55 c4 ac 0b 5a 25   /..+....j.U...Z%
+    0050 - bb f9 3c 0d 09 e3 d7 2c-71 6a 15 53 47 4a a1 18   ..<....,qj.SGJ..
+    0060 - 86 86 1f f4 fd 9b 6b 29-32 02 71 21 64 c4 85 be   ......k)2.q!d...
+    0070 - d2 8e 2e 0d e3 81 94 a6-41 6d 95 2a 40 da 7c cd   ........Am.*@.|.
+    0080 - b6 fc eb a1 6f 4e bb f4-8b c8 26 4f ef 3c 0c 77   ....oN....&O.<.w
+    0090 - 03 5a a5 5b 2d 79 bc eb-56 7c ef 58 93 c3 a7 dd   .Z.[-y..V|.X....
+    00a0 - 94 e4 84 a9 01 7c 49 37-c4 29 5b 3d 8d 53 f6 7a   .....|I7.)[=.S.z
+    00b0 - de 43 67 6c 2f ff ba 11-07 4f e6 dd 40 a9 ce 09   .Cgl/....O..@...
+    00c0 - 44 95 c6 eb ba 97 46 03-80 c1 e1 2e 8d 07 a7 84   D.....F.........
+
+    Start Time: 1562072431
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,64 @@
+https://www.nursing.org/videos/importance-bachelors-nursing-degree-bsn/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = nursing.org
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXzCCBEegAwIBAgISA6PtWktaINYf8iiizFPD1w6uMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MjYwNjAzMThaFw0x
+OTA4MjQwNjAzMThaMBYxFDASBgNVBAMTC251cnNpbmcub3JnMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAylJssp5CPeZTU74rwmum3suzqcSPcwYe7CrU
+mbqYp/UjnYoR1+NHWq2m51RFqjLFz/5BEAzYeMT7wh38/QO6BQl4282PUSE5Se0+
+joRlLqVq9tjFMSldMzhnntdGp0S0FSNIbb6TOU8W8i3fFtuSsU+lSSU8cs4IZICg
+Zw51+c8IZDB4auG1MASnOLmWdzBYjQUZL4afGfTDIFA6rh0BKzENc09G8juDT4XT
+8f7S73Sg62asq+H8CraCwQmNS5w2PQQ6BGHLqNiqfrNAzPO9ZZG4/oSjXMf3hR9j
+7RS68APeRIIyo3RkLprCxSCVFLdEnOCVO0AvRTR6nXz+TsX0KwIDAQABo4ICcTCC
+Am0wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQS2oAIp5OQUYCQ8Y7RotLj8Ty/DzAf
+BgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRjMGEw
+LgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5vcmcw
+LwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5vcmcv
+MCcGA1UdEQQgMB6CC251cnNpbmcub3Jngg93d3cubnVyc2luZy5vcmcwTAYDVR0g
+BEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0
+cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAA
+dgDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWry82NqAAAEAwBH
+MEUCIQCoPXOzcE7nMXuL5rmN9GpoQI0n8wDuFrayMLVIikYo0QIgL1CIpY/N5d6v
+9ws0Fp/5uZQRP5CmoavguHeOrtvGPi4AdgApPFGWVMg5ZbqqUPxYB9S3b79Yeily
+3KTDDPTlRUf0eAAAAWry82OOAAAEAwBHMEUCIBpOvYFkh8A5drr3q9fHFRq9UtdL
+WRZXgNjT5hLRKT11AiEAsLQ03AP1jAKEgZL+lYQL15kKDjMoxlurv7z1PjOpvvgw
+DQYJKoZIhvcNAQELBQADggEBAAsJzjyiFmwP7LvZWxOW/Toz+4aSjofb7qmx7dPp
+O72yM/qpZgrfhv/ATVHA6uOqxVOzHhOmt2kaHBAJLDb/t4aGaAp9l7ukkCgyJRhN
+8F7mAbiUIzZWInW2TO6YB+OiqTFVItwXwsVcmCO3bBjb0XyD9Gun4QK9v3bEMKtZ
+r7pFDWxJXI9H7r0iS1o75OpinT54Z2DLPu+T66LQYzFvKHXTQJVMrEJexlFhfG3X
+voQONeXAoIVfBo3J8AQOFNnl1aTg5g5X4gfdzNtV6qH9eyKzLbeFsWwMM1MDsOHT
+1Rpr+kaM7aKZk0jD4+4sOwJZ/onQFUSHi8YSgtyBRfyX3VI=
+-----END CERTIFICATE-----
+subject=CN = nursing.org
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3118 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

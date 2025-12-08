@@ -1,0 +1,81 @@
+https://www.avedelchile.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:OU = Domain Control Validated, OU = PositiveSSL, CN = avedelchile.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF/TCCBOWgAwIBAgIQWDvnTbNVaw1vOO6f7ID3YzANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTE5MDgwMjAwMDAwMFoXDTIwMDgwMTIzNTk1OVowUzEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMRQwEgYDVQQLEwtQb3NpdGl2ZVNTTDEYMBYG
+A1UEAxMPYXZlZGVsY2hpbGUuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAwjv7noutBGDKM1TJClV4+5f3igT4FgpW/xQqlwM5PCKwHYSSsp09WvoX
+VU78IDt8+t3WwQJ+X3kljgGponKHuJdHh7uj5Qm/nQM7ht2CnlSWEFdiJ5r/3O/M
+QAWYUEtl0co+cs37FoqkA/OAdhGrIPHQcA/VkS6OxJ1bAqQEwqRcV0SQPRzUQBCf
+HvVB0grCEKHCBdmN/c/mZRXBQ2DtofkQ6f4eXLissVVDYYlP3VWjMNGdyNAzCE5P
+/Vzth0uqUb/V8osiDDARYSLSGHzBvLLJeQGqJy6PWH164i6nt+rzQElpptrbZkhp
+3HBQUvsWWf1KPZNrIiN7gq25b86YDQIDAQABo4ICjjCCAoowHwYDVR0jBBgwFoAU
+jYxexFStiuF36Zv5mwXhuAGNYeEwHQYDVR0OBBYEFNjQcaV2oo3JVes5fG6+SzQ9
+GBqyMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYI
+KwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYI
+KwYBBQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29t
+L1NlY3RpZ29SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMG
+CCsGAQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTAvBgNVHREEKDAmgg9h
+dmVkZWxjaGlsZS5jb22CE3d3dy5hdmVkZWxjaGlsZS5jb20wggEGBgorBgEEAdZ5
+AgQCBIH3BIH0APIAdwCyHgXMi6LNiiBOh2b5K7mKJSBna9r6cOeySVMt74uQXgAA
+AWxS6fAgAAAEAwBIMEYCIQDQMBtZz0A5J5dQ7mpXoUCNnaLfpAvaYM1sHW0GSrjI
+8wIhAIJPwgMiqc5E38Hw8IOlcdaEx+3xasz9kR5ysDfnRP6fAHcAXqdz+d9WwOe1
+Nkh90EngMnqRmgyEoRIShBh1loFxRVgAAAFsUunwOgAABAMASDBGAiEA/YF5nWff
+lfEFJicrHiiaF53jaKysAeqmIsbvRc6exvkCIQCJ2iUIiRZomTQLctFBsjJo/S6l
+It9XL3KP3Yg/agZFfzANBgkqhkiG9w0BAQsFAAOCAQEASd1R4meb1es9g3ShKHsX
+2GGA4RJbBxgA9UC2NB3vV5WAVVlnNVg9PSrYJ5r/jxsL8w+c9raHym/h080Dl8q/
+tkUK2ENvojvwAIhEsXN4l6e1nLzkdzBrTdlZCk/o5umUt/sVnMN2kJfEVVF1ns7F
+DO8OgVX0BbyXaCxlSEk7PX1HBGpImPqrTCmuOdMhwgh+Pkkn/p7X6rZ1xUABZrci
+ZX60HFDcbspuPSn6/XQaUrzQ9QNr9dQKFGGNftE+Sbm2vWSMRIL4Qh0xw9h9kNC9
+Nt0sn6ubzzIRAg9Vfnquy36RuKXRU8vMxSAdaSTqg3khI/So8+I7RpYpo5blhvg6
+fA==
+-----END CERTIFICATE-----
+subject=OU = Domain Control Validated, OU = PositiveSSL, CN = avedelchile.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5016 bytes and written 457 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: E787F6E9334038327029F3BA8A05F3879C6A9E5AFBFEF8362AB6CF3FBC5E92E4
+    Session-ID-ctx: 
+    Master-Key: 85A3D3C899C5BB1988268457F7757DA580DAA206C749518C9D89ABD5692C88C236656101110E41BB49585E8205A3DE42
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1564837223
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

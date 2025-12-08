@@ -1,0 +1,66 @@
+https://d-hlsa.bem.com.ng/dhl-by-phone/about/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bem.com.ng
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFuzCCBKOgAwIBAgISA0VSqsrrOvPtyOlBoDJYTGZ2MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MzAxMzE4MTJaFw0yMTEyMjkxMzE4MTFaMBUxEzARBgNVBAMT
+CmJlbS5jb20ubmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCiMvVj
+uKqvBxoOIUuwiDA9xEth0eUnb45UoDjILTtO/0BujCnvPT1KdhQ2ED5rrQMq4FiF
+S8q3MnK07KvemAiSNXwJmDktYMCRFDfgFVmqGgcBI5uaFUbFIeCChNtaX/9aftWR
+M0CLWt3Va5CuUww8TQrYrsu2LszfWGNF6m3SiQXY64robuUGgTA6HviOZ1l0SGJn
+SitGW1eLh6gIYmgTw3rV+qSwNwsj0vfoosXJYmxCZb31A9R2kya5lJBV4O7/efdI
+/EgI9mig+Xmj90Htqsfax1beCyONaOF7dkrZxemnJLxEVLjRLfG1dabGIofeKEPa
+2FR6mon7Gdyp87e7AgMBAAGjggLmMIIC4jAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FCoHQxJWirBz+TAGHOAVQ1daRX53MB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYf
+r52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8u
+bGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMIG1
+BgNVHREEga0wgaqCDCouYmVtLmNvbS5uZ4IMKi5kLWhsc2EuY29tggwqLmYtZWlk
+Yy5jb22CFiouc2hlbGxwZXRyb2xncm91cC5jb22CCmJlbS5jb20ubmeCCmQtaGxz
+YS5jb22CCmYtZWlkYy5jb22CFHNoZWxscGV0cm9sZ3JvdXAuY29tghV3d3cuZC1o
+bHNhLmJlbS5jb20ubmeCFXd3dy5mLWVpZGMuYmVtLmNvbS5uZzBMBgNVHSAERTBD
+MAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8v
+Y3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB1AFzc
+Q5L+5qtFRLFemtRW5hA3+9X6R9yhc5SyXub2xw7KAAABfDcR6D4AAAQDAEYwRAIg
+IjO0Gln39V/1aasRN23L8/gNKYiojcKpBfvdih6YzjECIGejCDqRNdMgQxfoH+aT
+Ms/VTe128ruCVGQEpvo5glC0AHcAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdo
+mX4i8NcAAAF8NxHoagAABAMASDBGAiEAxObD09H6BchsDFUnCN9pKBEr4Q0o0L11
+/TceyXJTuhICIQCFXejzy14s2UvKbqE/Lf/23AGosSiLjlL8VWuM48o83TANBgkq
+hkiG9w0BAQsFAAOCAQEAQihhcMMV6y/mgH3lLJAti4pLtDJdJE1wzr2f3cBOlp9Y
+jDHJx6q1EjImrrkalfTfk0dSuRrWAaH65Kh96aH+GNKJpQBZqLExIr5tANOasAk5
+UX579TeZIKoWww7mG7B3Sz9oRH0/lVsv3dENKyU4fgP0OuF9Spo9lxnMjaobyP+H
+O18y1f24K1DyMjeyJRduuegZek35iowLWa6pjdr2TM98vGLO8iJbFWZ+LdcNnzoH
+gNXIuPa23KU3biRLsoe2ezetbU2d0c9o9WVTZeyZWXPZGh9+TI9ngQbqIS/XF59H
+I1JVDqYstDx2ggtYdKrT0bDgRnhywEu2kTdEfpScfA==
+-----END CERTIFICATE-----
+subject=CN = bem.com.ng
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3272 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

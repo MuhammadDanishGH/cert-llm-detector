@@ -1,0 +1,69 @@
+https://rakuten.card-raa.jp/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = rakuten.card-ds.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF2zCCBMOgAwIBAgISBAb2YC2oXl2p59VymUGfCpagMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MDkxNzIxMDhaFw0yMTEyMDgxNzIxMDdaMB4xHDAaBgNVBAMT
+E3Jha3V0ZW4uY2FyZC1kcy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDJy549VSejG+eyyZ8BizFbiu1tdVeLrk4vyi+AluBaaDAATGIavQAvec8e
+6R7QV5zm79QImviLXNEafb7/33zMOnUudEgyop3XiF2o/P4N1zB/5pj2l7Rfx5Nh
+p5cIAt5XPjcSa/AKIZy6sEZA6cPwNiUeos9dIf26trYJ7F/P8g06LKs6wvgj/73P
+dkMq/b+xkiXrO2gkGYaUFOXexueoInCfzH4bPjLZuqVhQtIwBvThu0x3+uzsuXe0
+wkQG5W22KVicodG8CAjXFc4DcJylVty9vWYyfBasrPFxG0x90ARIoqejftwFOjYl
+oyFAU4XRMJ8k8YmdnpqPBTKc7JLlAgMBAAGjggL9MIIC+TAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFGMA8x33L0u0KIUZP/J39bc2P3JAMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMIHNBgNVHREEgcUwgcKCFHJha3V0ZW4uY2FyZC1iY3YuY29tghRyYWt1
+dGVuLmNhcmQtYmN2Lm5ldIITcmFrdXRlbi5jYXJkLWRzLmNvbYITcmFrdXRlbi5j
+YXJkLXJhYS5qcIIUcmFrdXRlbi5jYXJkLXJhYS5uZXSCE3Jha3V0ZW4uY2FyZC1z
+dWMuanCCFHJha3V0ZW4uY2FyZC15b2UuY29tghNyYWt1dGVuLmNhcmQteW9lLmpw
+ghRyYWt1dGVuLmNhcmQteW9lLm5ldDBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AJQgvB6O1Y1siHMfgosiLA3R
+2k1ebE+UPWHbTi9YTaLCAAABe8vKw00AAAQDAEcwRQIgMmZg/7s4WrS6WM8sbeGd
+4kNeZGfl+C/++MSyP1do9ocCIQDZ/7DggKwI24rC+iHpQNQ7jzarCW632F45d6yM
+Fh39ngB1AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABe8vKw3UA
+AAQDAEYwRAIgbGFVSl8QrzXxFT7HebaQkc4YuRaVKqYccxlwsVEm8IoCIBVpuHUh
+rALPY78uSqaDPyRWfTEXfjTGihKZmNVejopJMA0GCSqGSIb3DQEBCwUAA4IBAQAq
+qFQDi3a1ATelGMnMg4cxw/vqnOCwkcjTDbwJP7FcvTItK2LoPVnrjYBrBQAl/QZT
+PMZq9PDMMQg10aTYABYHR8m04zcaAWx/X/UtkBYBEMsSdn2vZoL8F5/SvOOfta/+
+WFaaj0EZoqOyA4LJKsvRTJ78UkaKzdMEay8i+R2yR6FmW4movWawyu7sU8T/ewN4
+LFE0s2fiwrG9PMipQe9BR7Kk4M2A0e+JNPIvJIpFLRRq/SAfjirMNnTa58QkMiHk
+3SvWokOqkUdy4A2X41z7NGccC880HDd7OC/Dt4lsQuFA2tjPkP8of89qFssVwwLc
+kc2yeXtPhiSsCprQbx+R
+-----END CERTIFICATE-----
+subject=CN = rakuten.card-ds.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4759 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

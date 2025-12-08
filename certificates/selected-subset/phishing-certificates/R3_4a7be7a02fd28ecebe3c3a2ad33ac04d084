@@ -1,0 +1,68 @@
+http://tantesarah.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = tantesarah.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGFDCCBPygAwIBAgISBKe+egL9KOzr48OirTOsBNCEMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMjExNDA4MjdaFw0yMjAxMTkxNDA4MjZaMCExHzAdBgNVBAMT
+FnRhbnRlc2FyYWguZHVja2Rucy5vcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDcBjdcJDxgQO3fKMequfypjq9/onsZcvjO93mFDj0deO7WstSvsr4o
+4dN4lihzOaJCOzrv1v/c1/MiiYdTzAczYcTspi8hDcFGdXj8pjhX82x/zuQizelO
+2soYMoTeyeW42dh/JWMpGA3xDM5CoWf5sz6YPDaXuYwL4Txv4qNlIARkenfeYbrX
+OPkwPGSBSCrdUxzJljj+1C4Dn57nVCNPUQI11IhduAqM8/ppwYAE65NJVpZukB09
+i0M8XediG1m/BBPyeBEAyQzSUIzHZlS6md+xhL95oZyzFJu/E0EEbrPMQfEsm027
+w/c/L1iKjk+VVuwlQzFHfkh2f/p7ichbAgMBAAGjggMzMIIDLzAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFCwmW2jRBX3OXvnKYuv8+SUY/sinMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMIIBAgYDVR0RBIH6MIH3gh1jcGFuZWwudGFudGVzYXJhaC5kdWNr
+ZG5zLm9yZ4IiY3BjYWxlbmRhcnMudGFudGVzYXJhaC5kdWNrZG5zLm9yZ4IhY3Bj
+b250YWN0cy50YW50ZXNhcmFoLmR1Y2tkbnMub3JnghttYWlsLnRhbnRlc2FyYWgu
+ZHVja2Rucy5vcmeCFnRhbnRlc2FyYWguZHVja2Rucy5vcmeCHndlYmRpc2sudGFu
+dGVzYXJhaC5kdWNrZG5zLm9yZ4Ied2VibWFpbC50YW50ZXNhcmFoLmR1Y2tkbnMu
+b3Jnghp3d3cudGFudGVzYXJhaC5kdWNrZG5zLm9yZzBMBgNVHSAERTBDMAgGBmeB
+DAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxl
+dHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AN+lXqtogk8f
+bK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABfKNldtoAAAQDAEYwRAIgaey0w+6W
+xGV3fnyEbu/iXHNaiFgKvzsV0QPQ97VXtmoCIHo6IOxr6EFfAvYtEOKDQo3upNLZ
+LhOgSwQxv1cq/NaOAHYAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QA
+AAF8o2V2zAAABAMARzBFAiEAldvwME79lYzTOJdK59gfSjc8JNSWAHYL9dZcMWsP
+F7ACIGUK2yWjUNqdI4QeFTt263Lhi2URKOJ4nA7b9MydiAZ1MA0GCSqGSIb3DQEB
+CwUAA4IBAQCIAPBzckT9/0JCWKAtvRzX8kWL3Z7hRK+E8gL2MKMynpNJRo/pNT6c
++4XAmaPYgyDRLnh0q8w1fgw8mm+wXE25l/C1+V2bGIY/21l3DZfUU1KeESy3NE/n
+Efs6EtyhSJHdbQpcpStNqRFb4nH/cLB9H32mdlqGrKxnjp4anCMNmonmVAqedMBe
+BT6bgyrVCZfL7IxsB7vdNThDnZQ0Q35G6c4aN/do4R5WC6N/bAH3nr6umAj7fPSM
+JDWMC8Ewq23nummVma6b+JBF3Tv/4sfr8Cu13EJlxUoT+Aihu6KkoG3d5ODs6Y3b
+tZ+yUnUayAAEPn4dUOXKJq8g8n9zBD/5
+-----END CERTIFICATE-----
+subject=CN = tantesarah.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3361 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

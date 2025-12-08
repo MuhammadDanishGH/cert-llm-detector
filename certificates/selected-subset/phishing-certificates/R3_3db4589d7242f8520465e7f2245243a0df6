@@ -1,0 +1,65 @@
+https://voices.girleffect.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = voices.girleffect.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMDCCBBigAwIBAgISA9tFidckL4UgRl5/IkUkOg32MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MzAwMDU3MDlaFw0yMTEyMjkwMDU3MDhaMCAxHjAcBgNVBAMT
+FXZvaWNlcy5naXJsZWZmZWN0Lm9yZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAL6MzOGqv2RlV3na7cccSAf50+yohVYJ9JTrFNlHOzqmeOSvGTbEFau3
+lg6bN04H+v27ReUeffkwlR1mRx7+UGqjJg5vKTZo/mFle6CZWOe+DE/icQuXULge
+5InwiNimDD5+QVN+jePpWhkGWf0MB8QUH3NKSWDfs/HgfXHm2dJ9wwKV4I+WHfGq
+AsdcPN9dqQvoKJlKmFu+8kHgGubIx6JrRcwSWz03iB6hRzzCxXNR6nVg8BU3Wd+o
+lwB1rGh+jNLvErMT5rMoeivcXDJkR7QFVaOoe1ayMitHu6OrzJRMfde2ukGw4H7h
+TuL2rt/eEu2rypJUCZ4j1LGcQmEa0n0CAwEAAaOCAlAwggJMMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQUFozSI1sN48lMk3BfvKRtKbTY08EwHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wIAYDVR0RBBkwF4IVdm9pY2VzLmdpcmxlZmZlY3Qub3JnMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDw
+AHUAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF8NGtz+wAABAMA
+RjBEAiBhNvkfUIp+s7R6F3yG5Olx6AA147dwKPpisRXrH5V0JQIgFzei0iRbYBje
+i0ikOzBFyi2rtlo8hHhobmdAzAr7mVQAdwBvU3asMfAxGdiZAKRRFf93FRwR2QLB
+ACkGjbIImjfZEwAAAXw0a3RrAAAEAwBIMEYCIQCh4YT4OH6GRl0/DGNg3461GwTs
+9bQ1HPXo6T8q8nfomQIhALjeLqSwDWJH1AmUzB+Ptj5feVsRVpZAJerofLey58zm
+MA0GCSqGSIb3DQEBCwUAA4IBAQBP0+Y+a0ZKc4wYtuKaOXl3EtTmstjo0Ak7F8Pi
+S2li/fdzCKPjXDy2O+a+sUo7uHEgqBFFeXMfGvrWNONN87P0gb2Mz+51Jz1wUKsN
+bcL4f8BElKbDZPUEijJyrbgnTLfxGGTleB4g2RXPE0Ob2/eKD/nF2DvADzeyblRc
+mS+B/Ab+zO30fP3rAqqvA4F8XMGxfBLDZWt8qe1LARpsIvE2Ffs/E9ocRo4wjd5I
+EP61SDeAIHWN5OoyvQmHTBRO77vv1SNOiuDWnHuHblmIUHd5HGbWM9utRg/zrAVv
+rDfWnofatR/3W2jBtPymnRq5BHxI2pTvw/WTwGQiE/uq/yIA
+-----END CERTIFICATE-----
+subject=CN = voices.girleffect.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4518 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

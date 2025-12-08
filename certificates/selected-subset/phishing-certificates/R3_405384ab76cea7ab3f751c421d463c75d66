@@ -1,0 +1,93 @@
+https://x-suittmaterial.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = x-suittmaterial.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLjCCBBagAwIBAgISBAU4Srds6nqz91HEIdRjx11mMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA2MTIwNDQ1NDJaFw0yMTA5MTAwNDQ1NDFaMB4xHDAaBgNVBAMT
+E3gtc3VpdHRtYXRlcmlhbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQC1vGaciDk0EPGmipEQ03wQxNAXvFo7EV6MJKVR1y+bT3Q1MH1j2m4y0qZC
+mRX2+8zHzzZ3hJsMYy6I6j6XeOD6mcidbjhxTYOY7QGrVeM8ryHxqJzuSB77MSB1
+a3fSsdNZofc3hOlSiY/DjsUHR2PXIYTqq0PVi9Ujoe+Kog3WeICy+LRrvPYZDVfR
+KHYb4vlct9iMeAEO5Ah5A8JYzmL9oHDBdDydjLRdSqVuxUM5B0OpD0TAjjbkX7mX
+nTOePRQ0Mr1bveaqhx80Iv9lF5X2yDxmE20OPvvtv+JlZmFVqaeBDT0E9EH2Hdxf
+utT1aaZNhrLGNbv4YuhAbWUjsDinAgMBAAGjggJQMIICTDAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFBs0BCiDECDITT5No4d7HOVA+0GOMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMB4GA1UdEQQXMBWCE3gtc3VpdHRtYXRlcmlhbC5jb20wTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEGBgorBgEEAdZ5AgQCBIH3BIH0APIAdwB9
+PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXn+wSgRAAAEAwBIMEYC
+IQCpf5LVpeqi8FUXNDKautduxvg/cQAbrrOlFbghm1iExgIhAOHn+9CPoUZL7qPW
+0bPs3nSXz6UjC3q272xp4SX6TZmQAHcAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQAp
+Bo2yCJo32RMAAAF5/sEpaAAABAMASDBGAiEAsJbJYw7lCVWsjuEGhLmiUwliYqhY
+KWa5c5buZb2roPsCIQD0EAla7WTDPBplO2ZE7rb4H9zVrpRrCpiZZRfe/HteHDAN
+BgkqhkiG9w0BAQsFAAOCAQEAckpzjJerUKwgqzy36i3Yp4PqpFWAVebldA1WWPFC
+k3vIFufxSJmn3Ekkq9mL/iU1LeKm2Cr8/ms0ftZT8k2mFwyA+2vwfNIa/ZdHTRbH
+karsHNcy5pSCyesPFh5O+QSoRhIIX+2iYYKH5XAk3m91ywLapw5D8pSky4YJntsp
+DWB9+CmGcopIj4oZby+QXuRv6wxO9u/Y3yPo3wNFQvFS1lgmx10j6LY/L/1UQD2x
+erPnXQuR1qPoP/0zS2ywkb4oOvj5tzL64i1opm/js6veTczR0l4QNFlzsSg4K1L/
+Cb0pBU+r47UiNOqyCgYWK6gGiYmY2WX4i8rHiLB6OtgrEw==
+-----END CERTIFICATE-----
+subject=CN = x-suittmaterial.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4715 bytes and written 414 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 1E46AB52266F9372ECD950836C344DCA7D8AA600DF7C05825BF4737459E664C0
+    Session-ID-ctx: 
+    Master-Key: 5D1443D05C39506F7D21CE357225C73E27FC912F95937786D17C5E1307C7964FFAF39A4B95A5F93EB63BC2E2718ADDCE
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 75 d9 02 38 ba 01 1c a8-18 96 2c 79 70 85 31 d2   u..8......,yp.1.
+    0010 - 5c 1f f9 29 80 5a d7 47-84 73 d7 7d 87 2c 07 20   \..).Z.G.s.}.,. 
+    0020 - c0 ee 7e 6e f9 29 31 e6-d8 50 61 36 0d 4e 3e 1b   ..~n.)1..Pa6.N>.
+    0030 - 8d 40 09 0e 89 4e 14 b7-be 16 f5 f8 84 c7 37 a4   .@...N........7.
+    0040 - b3 6e b4 b1 6f 42 f0 f4-05 1b 09 b8 16 ea 59 00   .n..oB........Y.
+    0050 - 09 70 39 bb 8c 5e 72 01-60 eb 16 57 cc 2d 1c d5   .p9..^r.`..W.-..
+    0060 - 06 c4 52 8b 85 bb 77 da-cd d8 02 22 34 03 d4 aa   ..R...w...."4...
+    0070 - 16 8d f1 1d bf 3e 15 65-b6 42 cf 78 83 e6 f3 2f   .....>.e.B.x.../
+    0080 - aa e6 af 69 6b e2 ec 1c-d9 e2 6c d0 a9 b4 2f 2d   ...ik.....l.../-
+    0090 - 73 d3 16 42 3d 51 9b 35-bc 59 10 e4 ec 31 99 f9   s..B=Q.5.Y...1..
+    00a0 - 6f c2 37 05 8e 35 b1 a4-59 a8 71 df 0e 75 5a e6   o.7..5..Y.q..uZ.
+    00b0 - 36 d2 be f5 fc 23 c4 c3-66 88 50 ed 98 be de 4a   6....#..f.P....J
+    00c0 - 1b ed 35 7f 4a 49 23 fe-92 87 21 c8 cd e5 dd c3   ..5.JI#...!.....
+    00d0 - d0 2e d1 da 70 69 17 df-05 5d 6c 8a 39 1e 21 28   ....pi...]l.9.!(
+
+    Start Time: 1626485972
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

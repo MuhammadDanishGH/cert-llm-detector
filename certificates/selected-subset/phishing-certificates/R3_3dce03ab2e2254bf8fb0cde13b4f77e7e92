@@ -1,0 +1,65 @@
+https://flazposxt.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = flazposxt.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFHjCCBAagAwIBAgISA9zgOrLiJUv4+wzeE7T3fn6SMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MjIxNjM4MDBaFw0yMTExMjAxNjM3NTlaMBgxFjAUBgNVBAMT
+DWZsYXpwb3N4dC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCv
+trIGbf5sDlc7Ils8UKoaAfM55j+DbZ2ZAO+Ygej1AFEhpVmICH04Wx63pxEYywp0
+35PQ4CfplRAu8xyhvuv62dsecKKhYWFBavfVohvJmXu+/y+0xhB9mD7UUAW206xn
+QQKrwzYVCyqxZ4MqbkwTntzDZ2yaS/o4HGe1roZFTKTOm6ogv7I7jOtPuBK+ig8c
+7b0z/5+QvpUPdwtrNHRb8OqAZ4h+q7BCQ27JsAlAtAFpFiJeclV25x93Z6j/H2BI
+33bhiv5Q0YfeSrTbOGibitICmKXBgPqVTiKFHhYdWssanNsi1w2meP4GwI6ec84z
+ZK3RL4oOGiyroBjaGSxHAgMBAAGjggJGMIICQjAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFO+wod5LXu3Au7X/iwzdI5RKEmaYMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJ
+QOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3Iz
+Lm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcv
+MBgGA1UdEQQRMA+CDWZsYXpwb3N4dC5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEw
+NwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5j
+cnlwdC5vcmcwggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQCUILwejtWNbIhzH4KL
+IiwN0dpNXmxPlD1h204vWE2iwgAAAXtu8M4YAAAEAwBGMEQCIGLdPg3NKM3u1LNk
+8GNJSinrGlrcPiMfUutbij3UyF1yAiBOe4sc7fwH44u9nsz1h/5+eGx0rzb6cQA2
+9P0xKFoZ2wB1AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABe27w
+zkAAAAQDAEYwRAIgDdcpt0Tr4QbonGIy6PrwntAN9XvPeldAPS0hHMYXtJsCICNI
+wIyFO3AMkz/Shwi9qZFMrsO4mlFS1FwQd8cjoPUWMA0GCSqGSIb3DQEBCwUAA4IB
+AQBAY1OSPzgMeJo5Cd7uROlYrpdDh/Uc9/D8tfkTpKTC3Q/TOEjodIanQb5IEZBz
+tBcnXhKxrsX2eMrbiWpJGFzBS0uCY9PZUXlr0VFXO2u5Hxsfb1aKxHmINCqgIOXn
+rjOkkcFRFBge7ISodU7dMqEAwcfv4LIRssKaTKRbghx0kia8IR8KNaSAg0xOklBF
+Vp0fb15DFpjPn07ih22wKDddPnN4h0+W62KHbPMLXfcqyfW3yjvVSYG6B2E/0V8F
+E0SK6RZf9Ef1HNrcKpr2EG7GO2cmaR/0KN1A5QtURf1iQWcDjVuOn2y/f/Vol6AV
+cAeAB757Mm66/YhGzthM6/wM
+-----END CERTIFICATE-----
+subject=CN = flazposxt.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4570 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,84 @@
+http://www.google.com/url?q=http%3A%2F%2F54.153.44.66%2Faccount%2Flogin.php&sa=D&sntz=1&usg=AFQjCNEjlv9i8iyrKe4GDT6rwefa7Jvugg
+----------END URL----------
+CONNECTED(00000004)
+---
+Certificate chain
+ 0 s:C = US, ST = California, L = Mountain View, O = Google LLC, CN = www.google.com
+   i:C = US, O = Google Trust Services, CN = Google Internet Authority G3
+ 1 s:C = US, O = Google Trust Services, CN = Google Internet Authority G3
+   i:OU = GlobalSign Root CA - R2, O = GlobalSign, CN = GlobalSign
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIDxzCCAq+gAwIBAgIIPxeH6KU+in4wDQYJKoZIhvcNAQELBQAwVDELMAkGA1UE
+BhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczElMCMGA1UEAxMc
+R29vZ2xlIEludGVybmV0IEF1dGhvcml0eSBHMzAeFw0xODEyMDQwOTMzMDBaFw0x
+OTAyMjYwOTMzMDBaMGgxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlh
+MRYwFAYDVQQHDA1Nb3VudGFpbiBWaWV3MRMwEQYDVQQKDApHb29nbGUgTExDMRcw
+FQYDVQQDDA53d3cuZ29vZ2xlLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IA
+BDaV+n43LXDUol6CAGG8Q0foSBLUvIaEHS+Jh0115A6fAj/MbfZUX6V8G+bYdKc6
+FsYslWVTNgH2YV8xOgACzoajggFSMIIBTjATBgNVHSUEDDAKBggrBgEFBQcDATAO
+BgNVHQ8BAf8EBAMCB4AwGQYDVR0RBBIwEIIOd3d3Lmdvb2dsZS5jb20waAYIKwYB
+BQUHAQEEXDBaMC0GCCsGAQUFBzAChiFodHRwOi8vcGtpLmdvb2cvZ3NyMi9HVFNH
+SUFHMy5jcnQwKQYIKwYBBQUHMAGGHWh0dHA6Ly9vY3NwLnBraS5nb29nL0dUU0dJ
+QUczMB0GA1UdDgQWBBRo8LPpmi8fxvqI6vdJkTLt+YwKGDAMBgNVHRMBAf8EAjAA
+MB8GA1UdIwQYMBaAFHfCuFCaZ3Z2sS3ChtCDoH6mfrpLMCEGA1UdIAQaMBgwDAYK
+KwYBBAHWeQIFAzAIBgZngQwBAgIwMQYDVR0fBCowKDAmoCSgIoYgaHR0cDovL2Ny
+bC5wa2kuZ29vZy9HVFNHSUFHMy5jcmwwDQYJKoZIhvcNAQELBQADggEBADheeSSb
+8wevxEtuYjhFW/J3EHDElhkyF9UOHD5fM+ku1WHHoGBPiTQGg/FDboWq/yugxVPC
+4TddJh0NLJq8oS+RppTIJJa8u3tKdowTK+HUlE76WDkUyDKU/CFosLWPioHMlVWB
+uyk0M3FpepRVv6hom4H4d0r2dI0oxbzuHJdNtu9OBPPnufxekyz1BoGAiIHcJWQe
+mkAeknPPPoSQ0BdB3JD3NhEZaqc/cSv4xWAreUp7Q6GrjCZCQbhVJKdBJqYRoer0
+vlnfyqdBWkxpd1mJ5mdA8zwG+T4cne7AsS7i7BGmgx8po5I8XSrR8GdRzCyPsB/P
+LewJIdQZ4bHqN4A=
+-----END CERTIFICATE-----
+subject=C = US, ST = California, L = Mountain View, O = Google LLC, CN = www.google.com
+
+issuer=C = US, O = Google Trust Services, CN = Google Internet Authority G3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2583 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-CHACHA20-POLY1305
+Server public key is 256 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-CHACHA20-POLY1305
+    Session-ID: 375457F0AB662B352975D959CB42B3925729DFEF44D6883B5D3EAAFEC6D632B7
+    Session-ID-ctx: 
+    Master-Key: 2FC07B257E5B0C0BC2DA25C02C7F0A5381B4337FAC8FAE9651FB9668AED09C3942EF5F3D6E5F8537589560508B24B2A9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 100800 (seconds)
+    TLS session ticket:
+    0000 - 00 ad 22 4b d0 ec e0 7f-f5 50 e4 e9 38 af 01 e0   .."K.....P..8...
+    0010 - 7f 1f 8b f5 53 b0 ef 24-b3 be 47 05 e6 82 b1 54   ....S..$..G....T
+    0020 - 44 fe 2f 4c d9 af 27 96-f1 8b 96 e9 9e d8 bb 26   D./L..'........&
+    0030 - 08 ea dd e2 23 91 c7 94-a0 0c 8b a7 e4 89 01 8e   ....#...........
+    0040 - 0d 60 ee 18 17 31 c9 44-31 30 d1 68 03 0b 43 6b   .`...1.D10.h..Ck
+    0050 - aa 0a 0b 79 79 46 67 ca-e3 49 09 94 65 ea b8 e2   ...yyFg..I..e...
+    0060 - f2 b8 8a b4 81 f3 32 21-98 05 02 ea 62 3a 78 c2   ......2!....b:x.
+    0070 - 75 b0 4b ed 27 27 a9 21-1e b2 3b 28 e6 fe 9c 35   u.K.''.!..;(...5
+    0080 - 94 b2 b4 a9 f5 e6 11 ff-e8 44 31 72 33 fc 85 ef   .........D1r3...
+    0090 - 54 8e c0 a9 85 b8 c4 d0-c5 37 a4 98 2e 87 3e 68   T........7....>h
+    00a0 - 82 1f 58 e9 f6 dd b8 76-67 e6 18 fa 33 e4 66 62   ..X....vg...3.fb
+    00b0 - 04 4e be 57 ad ee 0c c3-f0 58 dd 6c f7 84 79 d3   .N.W.....X.l..y.
+    00c0 - 30 cb 08 8d 71 a4 86 eb-f3 b8 eb 12 03 86 b9 5d   0...q..........]
+    00d0 - b0 fe 58 cf e1 e7 fa 75-53 27                     ..X....uS'
+
+    Start Time: 1546524106
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

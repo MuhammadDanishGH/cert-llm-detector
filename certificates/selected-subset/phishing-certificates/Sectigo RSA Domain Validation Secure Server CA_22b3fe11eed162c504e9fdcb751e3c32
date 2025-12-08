@@ -1,0 +1,69 @@
+https://returnsmarketcooperative.com/fb-security-check100715295/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = returnsmarketcooperative.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF5zCCBM+gAwIBAgIQIrP+Ee7RYsUE6f3LdR48MjANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTIxMDMwNDAwMDAwMFoXDTIyMDMwNDIzNTk1OVowJzElMCMGA1UEAxMccmV0
+dXJuc21hcmtldGNvb3BlcmF0aXZlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAKh0p/p5xror2LWhEHSnsMfjLM3vlO2vE3jzJrsliRV12gaD68hF
+7WmbKV2hp0dZHV5pQhr1/8FSPegVTXB5Ac3j472Ksd7Luwp8/dRSOSQOJZeFdHfD
+os5cbCzSLil2eIFNM+6v/SKLLPGZgvi0c8ZrQ/YTHqPcJ2XboWP87QdywaLB9vAp
+QyNqWneQenhgIkVW8p8VocG2audXei7JkujHEdubSpssuCPmiUb8eivf8GhYd6zD
+Jkt/UbBu62xKDuZbNNbUgVk5d/4yQm7QtJqODPT1QNK+SgpCA20FLHV9Lk72aEWx
+wFV/FA2dLoOdSWsO/0wizRcT12F3/VQTFOECAwEAAaOCAqQwggKgMB8GA1UdIwQY
+MBaAFI2MXsRUrYrhd+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBRANgGeK/45aCUPrgah
+5BYmvmpX7DAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAl
+MCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEw
+gYQGCCsGAQUFBwEBBHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdv
+LmNvbS9TZWN0aWdvUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNy
+dDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wSQYDVR0RBEIw
+QIIccmV0dXJuc21hcmtldGNvb3BlcmF0aXZlLmNvbYIgd3d3LnJldHVybnNtYXJr
+ZXRjb29wZXJhdGl2ZS5jb20wggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQBGpVXr
+dfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXf9lvb6AAAEAwBGMEQCIHk7
+/iHNHmj4Hh3jtLoNbpC/huSOoGEPbaoBxO/cAzmDAiBah22QYim8GunK3f0PdIod
+Tc2F6T4uD3JoZbB4qPa0agB1AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBE
+XCpzAAABd/2W9ugAAAQDAEYwRAIgbpfxSEIKgut8581CH0HLzL2Kx/IMg+5pb1rF
+2qX5vIsCICw0Jj3VcST3E6JqX5EUKxmez7KfO/6EQ+iCvqLW9n/6MA0GCSqGSIb3
+DQEBCwUAA4IBAQBp/YslUAq2OaDhx/FoLGdLxUeqKYWPKqj94A2kqLlVDecfbh7E
+AlGgb7eHsKxZjL3t3/0Yp1LQp3EgQgW5mv0hzIqsYG/s1eO6wGzQwAaDjtOm78iy
+pZCqvBrHd0C2gQMXxokbRIZlTrBKIQdJmX1JBwULrdqeY212WgoXbA4yjFJqdgbl
+avXFeaJBtCnIlI0nujFNZ/tmQQbCp11ARof0SuQdC4TgajwKeQnvwtAr300AyevT
+Y3jIMId17z3E692tcmPxSQl+MOFXSPl051ORqk8TAC4DDcMWCL/6HBEaaVnFI/33
+V71I99N/9Bavm7lVMjS0tGbEWz6qbsG6x77K
+-----END CERTIFICATE-----
+subject=CN = returnsmarketcooperative.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5057 bytes and written 410 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

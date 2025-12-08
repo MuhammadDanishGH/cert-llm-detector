@@ -1,0 +1,88 @@
+https://www.monzo-review-account.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = monzo-review-account.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEqDCCA5CgAwIBAgISBOTrNbHyd5KwEYAm9dnh2hXFMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDcyMzMxNDhaFw0yMjAzMDcyMzMxNDdaMCMxITAfBgNVBAMT
+GG1vbnpvLXJldmlldy1hY2NvdW50LmNvbTB2MBAGByqGSM49AgEGBSuBBAAiA2IA
+BORIquemzD3wIFqRWDZ+qzs7coEPcrnKsLUv63lnSUIaGAM6SI5OZF9wHtzZcRAy
+suCg84gYg1uISuUk1XVTwSgs9v+jRlTt6pWjgCA/ALz9Pb7QBM5psnS2pKSuLQxP
+kKOCAnMwggJvMA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUvt794DKX7LVbYm9FsjIH
+SJDIeJowHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUH
+AQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYB
+BQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wQQYDVR0RBDowOIIYbW9uem8t
+cmV2aWV3LWFjY291bnQuY29tghx3d3cubW9uem8tcmV2aWV3LWFjY291bnQuY29t
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBgYKKwYBBAHWeQIEAgSB
+9wSB9ADyAHcA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF9l3Qc
+aAAABAMASDBGAiEA3OBUdgFIjlrHjqw3MedI+w7YKFtfZZ3uRzEQAiBT1tsCIQDF
+NbijXJ349cYG1Rq3yD9cWpPsZ0iMycBoAmRDIlE3BAB3ACl5vvCeOTkh8FZzn2Ol
+d+W+V32cYAr4+U1dJlwlXceEAAABfZd0Hj8AAAQDAEgwRgIhAP5L9Lhag1dz169g
+zVUh6CIv6muDCaEuNiUXpn3Z+eqNAiEAl8kMihGNy62eSvkLusi8vHZGj2XYHtvT
+TB81b0k/CbUwDQYJKoZIhvcNAQELBQADggEBAAfahO+CmA57xob3nEXIHWvYXj2q
+wCIyEA029fdOVU+EfCdWQ9nAElF5MrLAgvncwtbD/3VO02+0LUJzzJ56vrblJgre
++BbeTtYGqqyJui6x0s0RH/m7F5pZeQNrwz7g1tg5T6yE/eN2XO2n0keQfmJ7d0ZH
+hlCsRxYXKgpvu2PrRBwWrmybFeY5yIXRdrrcZIRqVvwF7AlYQGL9QLJGjYfWvNaP
+trIRHgoz7j0mP0hSU5YKpj1Prd7XRSgM633l0Iv8Tffuknzc7xRF6llgZiG4K4TO
+T6ofNpqGYCbGQH0uj3RgHXmn5QsnyHvBNdGmbIvcq5kAuBDKSxPExQjxg6w=
+-----END CERTIFICATE-----
+subject=CN = monzo-review-account.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: ECDSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3074 bytes and written 448 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-AES128-GCM-SHA256
+Server public key is 384 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES128-GCM-SHA256
+    Session-ID: B243D2AB9FE4AAA8AA225CEF51DD06CC64A1C9AE3D42DB2BD8ABF59B6EF31A35
+    Session-ID-ctx: 
+    Master-Key: 7D7E1D9B02EF6A65571D346DB3C5C2426A7BC2036EA1786CA71101429465B7BE1D9DDB608CD10FD18FE08A0018B298F8
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 34 b9 be cc 05 2a b5 c2-2e 3b a8 94 de 9c 90 16   4....*...;......
+    0010 - e8 3d 32 c0 ef 7f 94 4d-fb ec 99 f3 cc 76 f4 8f   .=2....M.....v..
+    0020 - 9a 1b fd d2 36 f9 40 32-e2 05 3d a2 b9 de cf 12   ....6.@2..=.....
+    0030 - 2c c1 ec 80 55 8e 0f 9f-20 d3 86 03 5e 45 a3 19   ,...U... ...^E..
+    0040 - 4e c9 28 ce 8b 9f 32 fc-c8 e9 45 82 33 b6 18 ca   N.(...2...E.3...
+    0050 - 2a 13 eb 78 36 ca 5d 26-c5 77 d2 97 0f 33 cf da   *..x6.]&.w...3..
+    0060 - 9f 74 11 6c 46 dc ec 97-07 01 cf d3 5b 0a b0 45   .t.lF.......[..E
+    0070 - 56 cf 5b 3b 77 07 7f 39-c6 72 db b9 3d 86 78 5e   V.[;w..9.r..=.x^
+    0080 - 32 66 4e 04 c5 6f 8e 15-bb ef 98 d3 9c 85 ae d0   2fN..o..........
+    0090 - ad ab e1 96 12 8a 5e 65-31 6e b0 17 5b 3f d0 72   ......^e1n..[?.r
+    00a0 - 22 d5 1c 1c 22 32 47 bf-36 f2 5b 2b 95 99 17 e9   "..."2G.6.[+....
+    00b0 - 40 5f 57 f9 c1 47 f6 a6-fc 17 d2 be 64 84 9b ab   @_W..G......d...
+    00c0 - 2f bd a8 59 59 28 2a 44-e8 ab d8 7d 26 67 10 87   /..YY(*D...}&g..
+    00d0 - fe 66 00 70 a2 fe e0 08-af a5 b2 8a c6 f9 8a 31   .f.p...........1
+
+    Start Time: 1639410403
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

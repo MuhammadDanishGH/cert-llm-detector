@@ -1,0 +1,77 @@
+https://crm.magicomm.co.uk/custom/to.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = magicomm.co.uk
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFrTCCBJWgAwIBAgISAxsN5p/0EKfAsh42dXoU/K4KMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MjEwMTIzMTBaFw0x
+OTExMTkwMTIzMTBaMBkxFzAVBgNVBAMTDm1hZ2ljb21tLmNvLnVrMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqKaJOYk5NnEjB1EkbI2vsD+f+CvuCyDq
++l/HnocLsuFKopdXwbDfGSjCdfUr9Ra9uEUUiDp06F1O85T39fMf2LoTt1zIoyjI
+hrWRqRNefhDhd5P6PqauBBb87XP2D72BozQTkq+inpjclySKeNkQD756lBh90xho
+AIXzOQYTAfNwt9uZHgGq7H1Wh8Dkx6PR3lwopu34iMMV81Tr1PZ+JTMK53N/ua1P
+tS0aS7SG11R4SDj1bDkBwaXJimSjI9POa6ZH+vUZQVxh5a5x1rLvJ/EjCG+yjUW1
+W8wxK6qgxrTS7lMn7YpHkdMYyguFd3t0x96qkBmy0pQ80i9hP+S6rwIDAQABo4IC
+vDCCArgwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSrYk1jTnkz6pI4PsZ5jCYGax21
+0zAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRj
+MGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5v
+cmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5v
+cmcvMHMGA1UdEQRsMGqCEyouZGF0YWZvcm1wcm8uY28udWuCECoubWFnaWNvbW0u
+Y28udWuCDyoub3BlbmZvcm1zLnByb4IRZGF0YWZvcm1wcm8uY28udWuCDm1hZ2lj
+b21tLmNvLnVrgg1vcGVuZm9ybXMucHJvMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcG
+CysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5
+cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYA4mlLribo6UAJ6IYbtjuD
+1D7n/nSI+6SPKJMBnd3x2/4AAAFssfwxowAABAMARzBFAiEAuy/Xolqgx9al/Uo8
+C5g8k/Y7ZzuWGyhNdTIc1Ao9vEQCIBtTOt2Fwe0KwEhAbDUWcVR8HQvB1zaEK2ud
+ElQGDeotAHUAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFssfwv
+zgAABAMARjBEAiB/L7ZpvRJuQTfd8tH+/Mnu8G9m9ijUwFlP92lzwHUuWwIgV/l7
+QpvFOqk6gJj5vK7xHIA8sXk5oFLDdW9oQk5lihowDQYJKoZIhvcNAQELBQADggEB
+AAkRrsQhvOuy1P7HeO/UUSb5HdcQG8o8TCQoM7V2jdHud0ZdxpQVwshZk32rG7xY
+807C9pHYWZg52wCNwKiaGUemaEmM6ozhMk2CSDwvIfsmdpw+z+ka6gURfrSQuvCa
+yoxOF9s/dsgQPVIwYYGiMii8uhMVckL49JY8mI0TertduI82ki7s3Yfn2Hufv6JJ
++BJItxqJkcWbxnnI4EUGvEJvPYW+3tLXeVOolS+99GQTgv8mblcKIQyk/pjsr7kX
+OA/SGKqKFNqq7eEj529iwm9n7pfsXCVgXe7oRGC+jl6Xo/jP5z4rmvuiQqC1IbUW
+mFquiEDSGjI98AaBDh648Q8=
+-----END CERTIFICATE-----
+subject=CN = magicomm.co.uk
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-384, 384 bits
+---
+SSL handshake has read 3158 bytes and written 488 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 031A000049DAA3CB2CACB7FCB62561B470FD099D5606A77AA6DAE07760D01127
+    Session-ID-ctx: 
+    Master-Key: AB2B774FC1281E6553B2127EA3C01B8F6652CC7482F08742643837EC83AFFFF4369DC181E1029680F5833AF9876FADFE
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1568120434
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

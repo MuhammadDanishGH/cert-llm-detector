@@ -1,0 +1,65 @@
+https://lovempower.world/Sharenew/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = lovempower.world
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJzCCBA+gAwIBAgISBHGoztqb2SCLw4sk9hhAP1EjMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MjkxMzIxMTJaFw0yMTEwMjcxMzIxMTBaMBsxGTAXBgNVBAMT
+EGxvdmVtcG93ZXIud29ybGQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDkUer1n29CBFANKR9mW3mryJ/i0M+zGZFKV1F/1skqIuTLQGTzc/BklStI8Ouk
+VWg3meTBUgdrTgG1Zt7+bGGQQPSHFTVGG7Lj38OTAp0jcbZkxX+13cF10Mb2M/lb
+OFspMXwIOzec6qNHsRn8bH/ztDVyE4nRzPr+5N9QgARXJFxX+na0v1rQv5UGE2AQ
+2LNaJR49Z+c+Mtxg8nbUtreefCe95SE4KrtnpGKDqLZTrC8AQRk4AO8H24eBQhSS
+Dl73aFZ6YPpTmP0rE20dAb7a3l+YjAjqZ3b8aBajousl9mR0ooAS+y0yvRhn+AJ5
+G56oPfLJIEz3EchRpTSozUw3AgMBAAGjggJMMIICSDAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFEf0jEtgkKGpPd2iW1wMfeEITvYTMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMBsGA1UdEQQUMBKCEGxvdmVtcG93ZXIud29ybGQwTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgD2XJQv0Xcw
+IhRUGAgwlFaO400TGTO/3wwvIAvMTvFk4wAAAXrypAKMAAAEAwBHMEUCIEP6+Rd1
+ymT78XikCtQCQ6fB4lNbTTsa7o2t0uNEr+osAiEA4yP2wduAQ+3f7Gq6RyOp1L49
+Q8nGoQ9Vnl6DFC0DfvkAdwBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZ
+EwAAAXrypAMmAAAEAwBIMEYCIQDX93eJ/c+AtfF33dYASlrySd00DAJyPBj9PZNZ
+2ODgKgIhAILk1nG3gZTAtnLtB1Oilwyenjnfw80aAt+QzDMfAAVYMA0GCSqGSIb3
+DQEBCwUAA4IBAQBa7TxmYgvztJ587D08VUh1b9N/GIZA4I7F/+07eDyxbECzeR0a
+dH6xWvsgBt59sVBpNcGwGJs7zkvEmc4NM1vmriwOmTgK/dkUMFDwIT1rq4OTkMJT
+aCmV9VqZ5k14sCZCBU6A4Wm/HTayayc8txVgdgiVGJ4MR2YwwVUD1cSCtc3qu8Ug
+rbad3Sz06fCRYd/Qa+AZqARSwmaB/CnxnRVLwSeoDxbZnXKArn7BO2bLD7rzH83R
+V1We/qr+tvDkJfSp5aLVWTXLrO0lAR/HW/U2rUT81iUfl60oYAIzF2IkNF4v9Y2e
+jiIm4/o9EddAYeSZE0QV18o1qwziX3dxLpPm
+-----END CERTIFICATE-----
+subject=CN = lovempower.world
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4579 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

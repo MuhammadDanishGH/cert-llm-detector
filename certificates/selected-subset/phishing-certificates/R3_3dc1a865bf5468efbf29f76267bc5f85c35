@@ -1,0 +1,66 @@
+https://inpost-agtd.pl-id67945558.xyz
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = inpost-agtd.pl-id67945558.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFZDCCBEygAwIBAgISA9wahlv1Ro778p92JnvF+Fw1MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMTExNDQ4NTBaFw0yMjAxMDkxNDQ4NDlaMCgxJjAkBgNVBAMT
+HWlucG9zdC1hZ3RkLnBsLWlkNjc5NDU1NTgueHl6MIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAv3cOzH/0SD/4YaapNYMEH+yL5aLjQLUy7Wbu1Hu3foSj
+s1xtMPhl3e6yKLLYMc8iny4CJiGnD9o6IQgJqozPhNVhnxTgkhHgemJazh7lMeA3
+As0zho7AlLfemZZ3DYZSOtEdqngnvGGhFkR4IyGb5mgqLFm74HPEflzKg2ZU/i+v
+wTJRlF8e2DZGLklMIDxnAUG/mizTZF5yNoJYLK0/EbwgcbDOgR3/loWcqqUZvHkm
+ZjPwZLr+K9w9672N3IAZs0qfrWVc2fFkuD1pMJMLM5iP9b2iT9mGEH9E6uGh5wJl
+VytPX/62O/ek8XqGXDEBdhnJrmzX0WCr7apgnjWjKQIDAQABo4ICfDCCAngwDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNV
+HRMBAf8EAjAAMB0GA1UdDgQWBBSUZLC/9XtOBzK1oth8moaPMSzeYTAfBgNVHSME
+GDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYB
+BQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDov
+L3IzLmkubGVuY3Iub3JnLzBLBgNVHREERDBCgh1pbnBvc3QtYWd0ZC5wbC1pZDY3
+OTQ1NTU4Lnh5eoIhd3d3LmlucG9zdC1hZ3RkLnBsLWlkNjc5NDU1NTgueHl6MEwG
+A1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEW
+Gmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB
+8wDxAHcAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF8cArWqgAA
+BAMASDBGAiEAtoNUxTmEcu+N+NorDG2/d8P8SpoxkkhabeeZfPTDNCYCIQD3cFAl
+Jsv5KJcOppvoc/LX5TzR+9isVdvrdetiJkcqjgB2AEalVet1+pEgMLWiiWn0830R
+LEF0vv1JuIWr8vxw/m1HAAABfHAK2LcAAAQDAEcwRQIgZI78RLicqhb2fNVPrVje
+nHMGOpYb5p+KNSLVTal2spsCIQCyQg/DDL9XjFadRvKj4dabwWfq/9/RR9jj9urr
+YaAF7jANBgkqhkiG9w0BAQsFAAOCAQEAcFuXIkXg09SNFOLMU0f492uk0ry+czZe
+osS8MEMkwCf93v0E6nN/068Qt7rvp2EFvb4dZmMERNmJ7vnrLpIe/CzPYWuLsU0o
+YNmmIk6t1ILvJe5qgFO1uZT/vbBcPIUswSlklGHIAObRSAoAcPLvaqNOkStSiu6O
+ZHPJPaFXiQw4WAQtHVqw+6ZUc8XnN6CSIRKXKl58IkRP9d7swL7T16Oh+6KFw4a5
+ADq6V/K+/w552p58voOj1fl1i/ddNhvTMmjF1rOmFUeRLVLN/LC5aR4u+pZVLXVY
+DjcHrd/8OJoMRtnpoxeSIuX7f0nSNBnuOlM+UniitM4Y2OJLmzXNYQ==
+-----END CERTIFICATE-----
+subject=CN = inpost-agtd.pl-id67945558.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4624 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

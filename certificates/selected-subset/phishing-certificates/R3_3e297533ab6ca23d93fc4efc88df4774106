@@ -1,0 +1,65 @@
+https://nhbca.4awls80.cn
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = nhbca.4awls80.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJjCCBA6gAwIBAgISA+KXUzq2yiPZP8TvyI30d0EGMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMDMwMzIwNTZaFw0yMjA0MDMwMzIwNTVaMBsxGTAXBgNVBAMT
+EG5oYmNhLjRhd2xzODAuY24wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCbMLU6kV/28NuqTpyiUAgMDF7umxXudaEGqAGBfqVfO6u3hFlbp7J5HUOVdu3z
+cAQ3JJx/Xd3IcEBIaJr2VEUqhDAHOQ0n0qkPsGggom4PvG0rmXdTFXUccI6mBTVP
+traxsCEdR2nB6HdQULTisy6gPX3U43crEic6v/tkIDT8U0+j/L+G+pWetct/8ZPq
+xaKZzv3+iLfKV3ZE5dvRxj3yterKKXFmVcsdsLwU2LorLGr18ecw0VV38+JCwO0K
+1kQuvQbonufVYo2uGqQTLhSs7G1mqQPZk3oOnFDcrYw0QAbGU2Dbh2mU8m97J+Mt
+IVdEd70oCrDZpXtDDY/NsMcFAgMBAAGjggJLMIICRzAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFNH12wiGRSvFYG9y8/ybYqXwG9MXMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMBsGA1UdEQQUMBKCEG5oYmNhLjRhd2xzODAuY24wTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdQDfpV6raIJP
+H2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAX4eKzuTAAAEAwBGMEQCIEl7q9Qg
+WcRzpMXMlOqo6S3tuZgGOHEtplUkD5ZhczTvAiAZkmqPkxkIPC1u5Kn+5mBcpPV3
+ccc94SmfMalNrkN5kAB3ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceE
+AAABfh4rO5EAAAQDAEgwRgIhAMX6hkkUtNAyFQ2AWuYQsvkC28KbtI74wVerzpDI
+i+ccAiEA5KM5XTgXfkbNvHuDnYCkCya0cGanHHdfGTJ9f/6BLHcwDQYJKoZIhvcN
+AQELBQADggEBACv84PVv2xwBu87TnrGDkeSO3fKcv2phFARzlP2fnReWD1nJtED/
+TEFfzrzTDDSpEqTCOxEjKVSqYWNW1ApTNxah1WrJn7rrotIomxNSuqszrW3rRU/1
+jN905/5ElE4F2nSUxYqImhyDpc7e3yExd+1m7goL0egMCSeTiBisAxwUS11JxoJr
+ICakqzfM2R39gPlqWj71fmwxMmC0Xn76Kzz3dxUWrfFF4AcuaRMw3xker1DXIV8v
+ZyRHyJewjdg2kW62tn6pDwAO/F1J9EuTR2rKhmIynvLm+8tmKkP65gnLrA5lY8VX
+O+y4toAAorLPSXiy21UtykYYa3XcadXxas0=
+-----END CERTIFICATE-----
+subject=CN = nhbca.4awls80.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4578 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

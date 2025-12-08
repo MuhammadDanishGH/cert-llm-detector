@@ -1,0 +1,92 @@
+https://turismogeologico.org/wp-content/dundun/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.turismogeologico.org
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFfzCCBGegAwIBAgISA/tdc64et1JET5u5C5LBpaCSMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA0MjgxOTE2MzNaFw0x
+OTA3MjcxOTE2MzNaMCMxITAfBgNVBAMTGHd3dy50dXJpc21vZ2VvbG9naWNvLm9y
+ZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALokBkqN5Iax6HPG/Xwx
+GYiAoQU8b08ct5lIeXcixW0UJjsD7LRSwJNZvZLiaE/6wEZ3Jc2g5QxWi0qcfDUJ
++9hw/DgBBEtZsspfMsSvaT7OkVGODsslTNkM5ITMJj6b1OU1YsurYYd/bfK+y45G
+RE4Ab9Y3AUamiSztm/4eiP3fxaEgWyOrjQFb1D21qIEPH4psazGus0p8NglYSW6O
+qlkWsO9XJ01tpXb2l9F4H2mopMJ1vOVajq32b3O9d4fIMVDlTVhdJI9FqT8U3nz9
+Kz0nIfTHQgXZbDqsAATL8NFp2Lm2zL5jWdhy6MgWK/A/G0mUtDPjKBLpRV1dZ4Ft
+y2MCAwEAAaOCAoQwggKAMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUx82wXor5J05I
+bBF7wafQJww/W7owHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYI
+KwYBBQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0
+c2VuY3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0
+c2VuY3J5cHQub3JnLzA5BgNVHREEMjAwghR0dXJpc21vZ2VvbG9naWNvLm9yZ4IY
+d3d3LnR1cmlzbW9nZW9sb2dpY28ub3JnMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcG
+CysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5
+cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAdH7agzGtMxCRIZzOJU9C
+cMK//V5CIAjGNzV55hB7zFYAAAFqZZeReQAABAMARzBFAiEAx5q0mU22kYF8pzqD
+jiFZk8zO5684c+A+ZuzT6arCIwcCIFenvOeN1EriGSh2nP0iZ44wL6kPF0kY13OG
+Fa0XyI7XAHcAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFqZZeR
+owAABAMASDBGAiEAxdSmZ3fh9QVWK72mgkm2SP+wsEcuHLLS/js/loekBKwCIQCR
+EPIdFMiJkmROYxXuzSh7rqPuDjj5F6dPLJ1Q9RQ3CjANBgkqhkiG9w0BAQsFAAOC
+AQEAaDtsLL6ohkIt2fZPNE7vopCE5KadlwCuSJaODqA3+YMXx1reh8qu058RAa8X
+8IqLi6Z4fc/7ARzz51tyFR5eUmgP2C0loU1lTQEiTBCYXNQzaE/XfLDfciukXI4V
+y8hj5tJOHHN7DnXso4gWBwXCOBecG/1a6SPbxmDNKEOIORRvTpJ1xySl3rLoA3bw
+PhnZqxSaU/KQuStX0dVxhdKBPsKyLxDKdlfowRRIkVvWZm53pHpC8yfZMMYLPwV7
+WB03zG80Xw8n5nNiy+5nolw7O/z5qo6qw4iKvikC7rKIZROcUHI1xiME/h7dMkVv
+p/l7JD718cbot7Fvy+ScZ4ObIQ==
+-----END CERTIFICATE-----
+subject=CN = www.turismogeologico.org
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3294 bytes and written 458 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 3386EACEE73A10BF91BCD3E4D831295AC1E3A89F0BF93F014EB19EA1B219AD0A
+    Session-ID-ctx: 
+    Master-Key: 74708D880F7D66738B6F0A824FA1BF1EE0714058974F8E69596B4BD74BB68EBE6A80043B25FEA0C8BBFC272A26C7100F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 1c 9b 9c 3c 1d 00 4d 02-a2 15 26 40 bd d2 e2 3b   ...<..M...&@...;
+    0010 - 13 89 ce 95 53 f0 ca e6-7a 8d 46 06 06 7a 63 f5   ....S...z.F..zc.
+    0020 - 3e 36 60 72 4f 8d 83 0c-78 c5 f3 22 be 7a e4 56   >6`rO...x..".z.V
+    0030 - fe 9e 9a 3a cb cb a4 44-71 a4 94 18 13 47 40 ba   ...:...Dq....G@.
+    0040 - fe 67 17 f4 d9 40 ea 67-f6 21 93 5e b9 0f 66 b4   .g...@.g.!.^..f.
+    0050 - 04 75 85 17 75 25 c2 07-e5 94 31 b5 85 01 94 c2   .u..u%....1.....
+    0060 - 2c be 2a 83 e8 90 62 76-6b a7 bb cc 74 a2 e8 e7   ,.*...bvk...t...
+    0070 - 91 1b a4 c8 3f 03 93 73-b7 5b 98 fd f1 41 3a d9   ....?..s.[...A:.
+    0080 - 75 d2 3d 53 db 8a 16 3c-d4 f3 17 aa 21 7a 38 99   u.=S...<....!z8.
+    0090 - 19 c7 b3 bd f2 4b c0 cd-53 f6 e1 03 41 bf 29 6a   .....K..S...A.)j
+    00a0 - 3e dc 7e cf 57 19 55 e7-32 6e d7 a5 0d d9 0f cc   >.~.W.U.2n......
+    00b0 - 48 27 a6 f5 77 c8 20 7f-fc 2e 1d ea 51 c6 0c 61   H'..w. .....Q..a
+    00c0 - 72 9b 88 32 e2 0d 8b a3-45 70 52 23 f7 af 22 ff   r..2....EpR#..".
+
+    Start Time: 1560430825
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

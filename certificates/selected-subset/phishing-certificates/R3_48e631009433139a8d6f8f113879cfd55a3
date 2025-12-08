@@ -1,0 +1,98 @@
+https://agenciatesla.com.br/wp-content/themes/02
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = agenciatesla.com.br
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+5xDM6j3Pjc3p/gGw51XZ8DGsSmzBLp4c+A==
+-----END CERTIFICATE-----
+subject=CN = agenciatesla.com.br
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5234 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 148A6B9387477ACCADCAEB423D06CB3D3A5DD68B3BFCEB2CCC62F211895C1E15
+    Session-ID-ctx: 
+    Master-Key: 9BA5A6EAC8111AB4C7FDC6F95B4BEE7D019FD52E5C6BFB783C038DE486D9068C4DCB246E6F46C9AE048F100FB4B470F2
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - db 2b 7b b1 b5 94 f9 ab-4b 4c 93 b4 c5 ad 21 21   .+{.....KL....!!
+    0010 - e9 cc 11 03 48 4f 3a 87-11 a9 bd 41 d3 42 45 d0   ....HO:....A.BE.
+    0020 - 42 78 5a 37 44 14 be 13-17 b3 d8 7b 5e 97 60 29   BxZ7D......{^.`)
+    0030 - 95 5e 78 c4 a3 f8 e1 af-c6 2b 6b 96 76 7d 6d 9c   .^x......+k.v}m.
+    0040 - 1a 24 81 de 94 e4 1c 86-9e bf 84 24 b3 12 f6 7f   .$.........$....
+    0050 - 91 66 56 ef 3d d0 ca 43-2a 51 f7 6e a4 94 03 1a   .fV.=..C*Q.n....
+    0060 - 94 af db 01 4d c9 ff de-01 0d aa cc c8 0f 7a 18   ....M.........z.
+    0070 - d3 0c 6b 28 54 15 70 68-2b 52 ec b7 34 d4 b0 bb   ..k(T.ph+R..4...
+    0080 - 63 19 cd e3 85 b3 0c 61-02 1c 6c c3 06 ff 45 61   c......a..l...Ea
+    0090 - 29 ac 8c 34 fc be 10 b5-b0 6d f9 57 34 88 ba 80   )..4.....m.W4...
+    00a0 - 5f 5c bb 19 d6 17 7e 91-04 fa fc 6a 8f 28 de 54   _\....~....j.(.T
+    00b0 - 32 47 7a 3c 45 f3 d9 bc-aa eb d4 f3 98 39 10 c9   2Gz<E........9..
+    00c0 - 0e d4 75 69 65 02 0f 2b-9f 54 61 c4 28 ae 4c 2e   ..uie..+.Ta.(.L.
+
+    Start Time: 1635809801
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

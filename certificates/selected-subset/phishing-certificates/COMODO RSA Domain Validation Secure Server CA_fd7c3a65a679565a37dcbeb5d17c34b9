@@ -1,0 +1,82 @@
+https://rplg.co/gmail06
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:OU = Domain Control Validated, OU = PositiveSSL, CN = rplg.co
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Domain Validation Secure Server CA
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGQTCCBSmgAwIBAgIRAP18OmWmeVZaN9y+tdF8NLkwDQYJKoZIhvcNAQELBQAw
+gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
+VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
+Q0EwHhcNMTgxMDE4MDAwMDAwWhcNMTkxMDE4MjM1OTU5WjBLMSEwHwYDVQQLExhE
+b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxFDASBgNVBAsTC1Bvc2l0aXZlU1NMMRAw
+DgYDVQQDEwdycGxnLmNvMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+9mehQkGlag+sgX2BNJzBDyxhrp1NIlNQoy0H2OXBuwuEFkAqLi3cAEj+X1XnJBBG
+hI28fwTfbkDicTwSkS3Hz4h5/6qfTrPcj++3vbh9ftf39wAe5XGM4UV9PFDra7T9
+Jof2bshPOlUBPcuQf9S5bH4sfvUkD/xDFRdsTX0NR68rvPn4HsfkI//FcTYJ3h2m
+toEC9z8wEsXXJ7O+Hmvs32CZavifHjBuK9tf3eg9iMOx3Aty/CFDjxelxuCN3vH3
+m4J4S5KJGONrkf+wgCQ8B2biyLzC8HuXR0epALPL7ZWKW0t0UPgDdaipjwPTNUe9
+CNuxptZbYzIfLU9eg9txpwIDAQABo4IC2DCCAtQwHwYDVR0jBBgwFoAUkK9qOpRa
+C9iQ6hJWc99DtDoo2ucwHQYDVR0OBBYEFGCwtpghJoAVyZ81MDlv5fjd1DLMMA4G
+A1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysGAQQBsjEBAgIHMCswKQYIKwYBBQUH
+AgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5jb20vQ1BTMAgGBmeBDAECATBUBgNV
+HR8ETTBLMEmgR6BFhkNodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9DT01PRE9SU0FE
+b21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3JsMIGFBggrBgEFBQcBAQR5
+MHcwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL0NPTU9ET1JT
+QURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwJAYIKwYBBQUHMAGG
+GGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTAfBgNVHREEGDAWggdycGxnLmNvggt3
+d3cucnBsZy5jbzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AO5Lvbd1zmC64UJp
+H6vhnmajD35fsHLYgwDEe4l6qP3LAAABZoXiKzMAAAQDAEYwRAIgd3IdCLyDqzSK
++wzJO2XAc21RyaRUabcjhpe9J8JBe/YCIH6y5m0oTJaoM8TTcIHdoaQ9xPwCZ1Wb
+oUth1ThrHkF3AHYAdH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFm
+heJu9gAABAMARzBFAiBH+R9rs1cQ1wwY5NyrFZS/P2dmR6jxIltglpnWFx0IVAIh
+AOvUc9QOh7IAW7IbdjBnCTjGBM9KuDT1axQTI+f1mzf9MA0GCSqGSIb3DQEBCwUA
+A4IBAQBIm5ygn86DsREijlD7Sdw02OOhdhaJTBJ9Nx6fLA/gLq59mIpnHTlou2UO
+D4wPkSpXUXxXSiVrX3sx6y4agx4uHGa9wBqB1YRlZpVI1Zyw3//7m52+v3ldHpz0
+p7Nz+DsUTVDQtTWQoFVgoHZSlkmWn9pZzxkdB5P3WvZmb3iLj20k/gmPC0hewJpp
+TvwZzXqPd/QcoAw8tHeBW7zGO6vEKKOli3XW75tmicXQOT96vfY1dACs7iSY+8cB
+m9qEADWJnAEjjCcT4foZfm74uvm5j77qL57PaMu2kwHn23MzrerMf3H0cCIQGqjL
+QMMZdZvby6xhrJHtAbWo/STfQ7gK
+-----END CERTIFICATE-----
+subject=OU = Domain Control Validated, OU = PositiveSSL, CN = rplg.co
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5070 bytes and written 445 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: F993FF6EFEDB3F8742988344AD0D85A5B2D51039CE27FFE13E1BCBE459D80235
+    Session-ID-ctx: 
+    Master-Key: 92DFCAF67874A85FE3AA5E64A5558BBF36DA3A3FC9C1ECA7C296DFF1CB17C965B26942DDB0DC49AA48ACAC13E4BD3B7C
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1553522417
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

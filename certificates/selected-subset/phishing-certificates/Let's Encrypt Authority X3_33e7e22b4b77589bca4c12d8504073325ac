@@ -1,0 +1,90 @@
+http://pygy.co/biz
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = pygy.co
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRTCCBC2gAwIBAgISAz5+IrS3dYm8pMEthQQHMyWsMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MTExMTEzMTRaFw0x
+OTEyMTAxMTEzMTRaMBIxEDAOBgNVBAMTB3B5Z3kuY28wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDI4rKcARnnssqJceqyQilRQ5Bch2BfMm4b+hQ3eszZ
+AkOdP0YEXmtI2POKrKONqLJQojXpXtPPHJfd/DBSFOOkJ2lLdzr+78eh7zL4XTVx
+JUgRcMlItZJICt9m3bmh28bBYCw1QIdaDkxFBGqFT9yMGjDxmSIlQKoSP4Ay1zRo
+BlSpw/pCiM2G8R8OOXnBb0r51A6nZt6NdC2SD01zAt0TCL2GdMQDlHo/ECpJz4qn
+buJh6Q9iwTug3kIMbSscOysj24+c2iZp1+hB12Z2XJq3JozHrir0v8ogUxG7//qn
+uCSFFPLIu68gU+8hPxhXS3/lKjTgPh1q2rLwHV5vBHRPAgMBAAGjggJbMIICVzAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwG
+A1UdEwEB/wQCMAAwHQYDVR0OBBYEFBjUvgzTjdiloodfyyhSp/Id2vi5MB8GA1Ud
+IwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAuBggr
+BgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAvBggr
+BgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8wEgYD
+VR0RBAswCYIHcHlneS5jbzBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLf
+EwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCC
+AQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAI
+xjc1eeYQe8xWAAABbSA99noAAAQDAEcwRQIgdDaLYEFVjodjAZfCgwQ8rB0YA9tC
+fvRmpom86BBfIogCIQD8SFbzwfWIqT+GNJXRlOjFbuSjOCstXXj+1vRzDRYSRwB1
+AGPy283oO8wszwtyhCdXazOkjWF3j711pjixx2hUS9iNAAABbSA99mcAAAQDAEYw
+RAIgd3wiuVMhk7WtsXqYVSJRfAW8P0ffGolhkP7x/IfU8xgCIFx6mEODPePEiOfI
+GS9a86SqbPaA24gLeJ3QRK58H/vFMA0GCSqGSIb3DQEBCwUAA4IBAQA0IwU2OAOd
+CF6cI8tYDHtZImwiXZUP/qyhi72hGQPAs2Mwgfnp+iodNb658h1Y2SxEbGm/txjh
+AmVxfVDcRkZPRP6E9JRgCrxtPu9gpHlSbAdk4UwuIJfomdlPBJSo+l8j2Q5gAF2V
+EZgVjKfEdutk7fBwdhvaO59unZQpHOuydqcfe5WU0QFOcaMhuB19kR+XTwY5gxY7
+mLfrno/Oc74xSp7lxjXTHdxUc+5QHl61VJloioT3mX+s0qY7FgZ3YY+dAn095MrK
+CN6Qq+/cZ+4GDFlOuu3t8aAPv3TnzVXO6k1WLcxFhXchZ8K/Bk3FKM/AoGFvuVFa
+AlkUQNXhLfO1
+-----END CERTIFICATE-----
+subject=CN = pygy.co
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3220 bytes and written 445 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 5A20C401624BFE3765FD144517D0D5781459C7F1172F31C3EA05F83DE1CBD26D
+    Session-ID-ctx: 
+    Master-Key: 0F224CDC001D0E6477750CBA604F42ED6C9FBE565A27D041131398AA72D1651337F9FA5AEDFF3D568CEE5557E3A43244
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 08 15 95 fb 54 b0 f7 ff-0a c8 a8 34 49 02 d4 2a   ....T......4I..*
+    0010 - c2 b8 d6 b9 12 ca 45 15-1d db ad ed b7 04 cd f2   ......E.........
+    0020 - d6 d5 7b 84 13 af 4a ae-e1 1e 77 b3 56 cd 47 79   ..{...J...w.V.Gy
+    0030 - e4 eb 7a 66 cd ba 39 dd-d5 17 c0 88 b6 fb 44 6d   ..zf..9.......Dm
+    0040 - ed 5d 7d 32 18 62 8b 0c-8f 4f 24 5c 8d dd ed 86   .]}2.b...O$\....
+    0050 - 6a 13 12 0d 05 b4 ce 68-d8 d1 f3 e9 b6 6e f5 c1   j......h.....n..
+    0060 - 90 25 71 59 c0 fb 37 b5-5d 1f 04 18 46 d4 38 b9   .%qY..7.]...F.8.
+    0070 - b5 9c 9f c2 e1 a2 df 9a-9a 9f 77 80 01 32 0c 26   ..........w..2.&
+    0080 - b6 09 83 3b e6 7d 73 94-ce 00 f1 c5 6c b5 47 06   ...;.}s.....l.G.
+    0090 - 54 07 1e f0 6b 0c 31 c0-5b ed 63 b2 28 7a af dc   T...k.1.[.c.(z..
+    00a0 - ca a5 15 87 c5 ee fb 9a-1c cf 9f cf c2 2e 21 ba   ..............!.
+    00b0 - ff 38 42 38 e2 aa 76 32-c2 7b 2c 9f fa 16 e2 31   .8B8..v2.{,....1
+
+    Start Time: 1574604026
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

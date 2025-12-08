@@ -1,0 +1,66 @@
+http://amozen.co.jp.amaozon.quest/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amaozon.quest
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPTCCBCWgAwIBAgISAzOxwdPa+sq37xmnWwprx0kaMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MDExNjIwMzlaFw0yMTExMzAxNjIwMzhaMBgxFjAUBgNVBAMT
+DWFtYW96b24ucXVlc3QwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDC
+vn+57sOdCUdX70JOGf/ycDiJi0NP9j9h64MXyjfE5UgbLSggUAa9azGvOvGdE9Lj
+2jzEBCesj2qsOqf3EJD430pjSehiM4iAVZ3FOQpt1UlHartP3LbNwSlnBXVdXwwt
+v3t6jhb1XJmQlvPTRnsKT7kWZfSA6bIk3QMyRuUDuk0c4fXqj9hf/uLEjW8Yu90E
+AYf+VVq5U25tKc4HRHaDrchEGmMIXq+yrGu3ZeQFPLWr3v3kU4ra0/RjK5Bvr3bM
+IpOwqfUm7KMF/Skr5yV2bxB/UQnf0VcnU9uHk/VBUif4l5MrYQ0Dh1/oWD16yUnC
+4cQ7DvW5SQdw+rsjRyK1AgMBAAGjggJlMIICYTAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFAtR2BHWTY7QE1TOVg6PbuDa7odaMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJ
+QOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3Iz
+Lm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcv
+MDQGA1UdEQQtMCuCDWFtYW96b24ucXVlc3SCGmFtb3plbi5jby5qcC5hbWFvem9u
+LnF1ZXN0MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHW
+eQIEAgSB9gSB8wDxAHcA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMA
+AAF7omCDVwAABAMASDBGAiEAkYJKs7xq6PJm74nSBCBJQbdtvw9ti2gSFvdNuknG
+QAQCIQDlrc3JCUu0wVEeTRwUxJ6JVJ47pxpQ7fi3KnQXsKv9kAB2AG9Tdqwx8DEZ
+2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABe6Jgg3YAAAQDAEcwRQIgJRbGIh0l
+bHE9/KdtCQ896ohJzcWQX6cxhm43qiphKCUCIQCGy4GToovqqDgab//+99iIXGst
+IUSV0NhFAcnTMgaNujANBgkqhkiG9w0BAQsFAAOCAQEAc69mMepy2TF5Re0Sgc39
+OX14tLtE10TyTNsEvqUxXypWBEiyFK/CidwQkcmxjvjgp6x8jCu3+AFdZm5i5ibI
+tFIypOIkme28ZvIn3MSOIc8svCduGpFrQjZBfyBFfalk0+Q9JUJxBvAoEf1dV2fZ
+FkHRfuXji+E2ThkEIg6MoCNqSF4dDqcAv6eQIH+NlPUJRf/LNziXw7hrmby8Zvfr
++awvn0XpORnTAaSCBYHeR185zW2zi3B21xtd+NykyBDW5Xta55uPaOHRu+kqlelA
+NvjddGl9sxKc/3YI9fsOJVdpT4nrhzz7UWZQwHGtsrxtwSopln/1sEUy3c4I2hBZ
+pA==
+-----END CERTIFICATE-----
+subject=CN = amaozon.quest
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4601 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

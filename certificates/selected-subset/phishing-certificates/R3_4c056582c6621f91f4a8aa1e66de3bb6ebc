@@ -1,0 +1,69 @@
+http://cuanmclearen.com/?nd=
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mail.cuanmclearen.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF4jCCBMqgAwIBAgISBMBWWCxmIfkfSoqh5m3ju268MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjMwMTM5MjRaFw0yMjAyMjEwMTM5MjNaMCAxHjAcBgNVBAMT
+FW1haWwuY3Vhbm1jbGVhcmVuLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAKb9O1jLrzfDcs6yhQhTx8/4zzGCbklAPGz4UikdyX/pt646bqyWkVUp
+/JklxDt21+UcmKOB5Palwrwy98SmNhUxUHnYCpdMSKnSe6NDO60yWdSBrNBlY6bz
+y6Y1t1R0MvcM4MYmsZ1lxh94w3m9Iwvp2eJ0trt/vo5xpZmskCy45uKWwWhR7jld
+2YLnL8nnuFfbe7USErNM2kkupd9z0cA37DpyizF8oPNQgsoGBHzIR2br7ezmxY5B
+LPKdXexS9h0ZYs34jAlhs9HonP5ZAw0dzk8n+JPJ72ubUWUgVuXfhLqHR4wjkGFP
+++2+P3qCQSSgTknpMd/203Q7fZG/TgkCAwEAAaOCAwIwggL+MA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQU1e0QJspgRANDVQnH6vku1k93lFkwHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wgdIGA1UdEQSByjCBx4IXY3BhbmVsLmN1YW5tY2xlYXJlbi5jb22C
+HGNwY2FsZW5kYXJzLmN1YW5tY2xlYXJlbi5jb22CG2NwY29udGFjdHMuY3Vhbm1j
+bGVhcmVuLmNvbYIQY3Vhbm1jbGVhcmVuLmNvbYIVbWFpbC5jdWFubWNsZWFyZW4u
+Y29tghh3ZWJkaXNrLmN1YW5tY2xlYXJlbi5jb22CGHdlYm1haWwuY3Vhbm1jbGVh
+cmVuLmNvbYIUd3d3LmN1YW5tY2xlYXJlbi5jb20wTAYDVR0gBEUwQzAIBgZngQwB
+AgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRz
+ZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQDfpV6raIJPH2yt
+7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAX1KqYqPAAAEAwBGMEQCIHZ9pFN4km9S
+sqTq+actTEkwFDhipE+XGSNpcziOR0FKAiAjtPBHQxX80Pkdbh5dkMsFr4Y7K9BR
+3OvEe3QAXtkJegB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAAB
+fUqpioIAAAQDAEcwRQIgYcpMy0UUErJpjz7YxkMzCq2IulxOy9sYE27rQkzxqvMC
+IQCdUY99ueJWzx22jkkIoynV+Sl+trY/VFMGDX2DrllLjzANBgkqhkiG9w0BAQsF
+AAOCAQEAdkfBldXqndT3zAESScMdTKS6c3cua225mnYaeD6DOoZJ6kSIjSDVDnZe
+YNa7e/wyhiBe81ygh7JEO5IsTHOnB7RtZJZBrexe7o0HIlsA+iJ0X8GH5xpdXLmO
+slbCJzQPaw1gbnd9ggc7zSd+XOUs0Tz6WLoh57fs6c06C4cuBLF6EhkjYAEoBemj
+DnHhxGMOWVQ/dz8UxNFn+f48suBKEsQG9cGx+DTBfbz3vtZTgCkpyNNWE8E+0vUZ
+qn8Q1bbigVy9kPMbxvCY1/fOZjSp3YHMD10KhR8F9JJvdPTlmcg5jTdd2nF20RTr
+hyB5sQ7yH1B6eOvkMUd993Xlb++Ivw==
+-----END CERTIFICATE-----
+subject=CN = mail.cuanmclearen.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4766 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

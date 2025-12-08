@@ -1,0 +1,75 @@
+http://grub-okepviral-2022.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = grub-okepviral-2022.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHGjCCBgKgAwIBAgIQAkdoo7e7t8Xgnf6Ehn0POjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIyMDIxNDAwMDAwMFoXDTIyMDUxNTIzNTk1
+OVowKjEoMCYGA1UEAxMfZ3J1Yi1va2VwdmlyYWwtMjAyMi5kdWNrZG5zLm9yZzCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAN4nG1y8DV8jcDWXW/EJ7AdR
+auYkfTXECsiTxfYDi2czrnXEPIoiZsGUiX/7XZ+zg6pE/NUs4MkwLyDmqxULjRUT
+8NvcnK9sGZCUElsY8VXyyppOrlZHY5WQWns+qsrzue5ElTECoVox8H7kaWH0kneV
+RfBwOp2Poi5ih/8dxBNSpWkVzvxMPi2wczzkI4996L22OVe4uj45FGgOX2HuS7ZT
+jdbM2mQfG5ij298x8eJFOwS6qnf541mfpiBW7l5tTPhE7w1jSctr/nU6RobGwWGM
+3Aw3awbTOS3o4ObTYQk9uW+oaeMbXonAP1lJMSsx2lTnBd5TQlSaYdCPF4DQrYkC
+AwEAAaOCA/IwggPuMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0G
+A1UdDgQWBBSQHL6sAUL6TaF+sI8lnvVOqj33vjAOBgNVHQ8BAf8EBAMCBaAwDAYD
+VR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0g
+BEIwQDA0BgsrBgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3Rp
+Z28uY29tL0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2Ny
+bC5jb21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5j
+cmwwfQYIKwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9k
+b2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggr
+BgEFBQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBBQYKKwYBBAHWeQIE
+AgSB9gSB8wDxAHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF+
++M2/xQAABAMARzBFAiAaS9q4vzvHDPQJi724hopxuP197ee/n5aBsNlejowj8AIh
+APcUkM1uxeL2ljRxmIFLR/5FnZyRatSuqSZDREyMq/f9AHcAQcjKsd8iRkoQxqE6
+CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF++M2/nAAABAMASDBGAiEAnDAxPgVEU8Bb
+lh6nPZZSfs9M4QSHHYOpPL+CX5QbNqUCIQDhUsLV0w2rAUBnOd5GK6vLmimmHy20
+IEHYbNgLJQkTpTCCAUwGA1UdEQSCAUMwggE/gh9ncnViLW9rZXB2aXJhbC0yMDIy
+LmR1Y2tkbnMub3JngiZjcGFuZWwuZ3J1Yi1va2VwdmlyYWwtMjAyMi5kdWNrZG5z
+Lm9yZ4IrY3BjYWxlbmRhcnMuZ3J1Yi1va2VwdmlyYWwtMjAyMi5kdWNrZG5zLm9y
+Z4IqY3Bjb250YWN0cy5ncnViLW9rZXB2aXJhbC0yMDIyLmR1Y2tkbnMub3JngiRt
+YWlsLmdydWItb2tlcHZpcmFsLTIwMjIuZHVja2Rucy5vcmeCJ3dlYmRpc2suZ3J1
+Yi1va2VwdmlyYWwtMjAyMi5kdWNrZG5zLm9yZ4Ind2VibWFpbC5ncnViLW9rZXB2
+aXJhbC0yMDIyLmR1Y2tkbnMub3JngiN3d3cuZ3J1Yi1va2VwdmlyYWwtMjAyMi5k
+dWNrZG5zLm9yZzANBgkqhkiG9w0BAQsFAAOCAQEAB+aT7KsbO5iTVmXHVlohI9/r
+CnSi6byZEaij50z90288YSrHRftoglOfyh6OF8zMTnhuY6eFVOSEY/dmm0YRG2LZ
+RJhExy35HtRRQSUf5eBcCO6ZImFwaHJIURHVtaDPbxC7jVfPctKeIJggCkBRu9QT
+hlzmnyzmlzQFnkn3UqqAx6e6xfDzg16A4GP/CXMSW9AWM65mKCfn1jbLqdlR99rW
+W/TzcbLtqMqPz+ZJ8lOTA0rcQPB+Em2soZg+TaLFH8LiBGRCsiI3l3WtHxcjIe5b
+gs7YS8zzP10OLbnkXrbEQnNCtKRuOnaGS/w0asIahplaGYB3Mbo9SPBfSzQv9A==
+-----END CERTIFICATE-----
+subject=CN = grub-okepviral-2022.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5327 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

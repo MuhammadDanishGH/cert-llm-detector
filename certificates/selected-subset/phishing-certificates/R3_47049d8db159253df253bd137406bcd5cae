@@ -1,0 +1,66 @@
+http://www.mvalleyonlinesweepstakes.com/mobile/login.php?userid=
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mvalleyonlinesweepstakes.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXzCCBEegAwIBAgISBHBJ2NsVklPfJTvRN0BrzVyuMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjIxNDQwMzVaFw0yMjA0MjIxNDQwMzRaMCcxJTAjBgNVBAMT
+HG12YWxsZXlvbmxpbmVzd2VlcHN0YWtlcy5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDI9qOZOsmdSj4FQCqbU9jhqFMjSKv9Iw+hoLA6pfoqCl8s
+by+RqL85F0LnZp6NETOLbWNsurj+KDc+AYpfDuT8q3d+ULkafc9WZpM4c/xClqpg
+3x5XfnvAym9D3Dwgm73TwbNYS3rID/3bE624rk4uwUc9/mJqvtCr/bEEfOYLt6at
+boDiBbL5H4uGiERParxxOA+5JvYKDVQOb5xCwdzAJZc2jH6EkQODAKRRNPUSj54j
+LLYtpn7RZB0jGBr51oh5T5zUsKAxYqMQ8C0LxaKLx9uQ4FfvzPgyzryb3/aoGU5V
+oFx9i2ku3ydEXk0r5Zy6UyQkvRbPo3i6oHcFfR4lAgMBAAGjggJ4MIICdDAOBgNV
+HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1Ud
+EwEB/wQCMAAwHQYDVR0OBBYEFLZgS5P3PeTg9iW5eGJx9oL/eQp/MB8GA1UdIwQY
+MBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEF
+BQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8v
+cjMuaS5sZW5jci5vcmcvMEkGA1UdEQRCMECCHG12YWxsZXlvbmxpbmVzd2VlcHN0
+YWtlcy5jb22CIHd3dy5tdmFsbGV5b25saW5lc3dlZXBzdGFrZXMuY29tMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDv
+AHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF+gnJK1QAABAMA
+RzBFAiEAqrfw347phftWbvNqa1mdvKBQtDC4bf/m4hlWLnfYLrcCIBLpYrFF32J1
+QQFYZimovRXVmzVkMrikH/RSLwjjvmNqAHUAKXm+8J45OSHwVnOfY6V35b5XfZxg
+Cvj5TV0mXCVdx4QAAAF+gnJKxQAABAMARjBEAiB0I/daOjKmgVL4NqHRrp7kkLEM
+fMuMLhyvjV3k/fzAPAIgNZENt7AhHpARwbc22htCcnCRxP/i1ZwKUDXjvb9jmUww
+DQYJKoZIhvcNAQELBQADggEBABvkH690RQJUT3apZxp/CH0+/gdGxAf0mxJVFCoy
+crZubWuz2y6h4YX4mKtro1RStkg8eSmicbK4+QrxmS4PQmqI8A+bRONF6CiXaadm
+QDh121Kc3Ndt12sSgOVTRVgG/iS0fgvGTB6p5374vU3dCfBIiEmbPfYSc4uCtwo/
+Kjnwa5Rc6JBK8DRJEqorg2Zc7gQhhoJtSg+Fwugu1/RQWJAbkUk5Fzb7mo5AigaA
+eM2X8Pqr4lEoPrWRp5RoYKDoViRDylXF4L/KWjVbZ7bF9hFmXjdUQE+oSk/id/8j
+5oNLWG34FmL14XjmhiTQosi7y8JGJUdlt6iaxWv2+Viet5w=
+-----END CERTIFICATE-----
+subject=CN = mvalleyonlinesweepstakes.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4635 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

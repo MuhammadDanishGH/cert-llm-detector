@@ -1,0 +1,65 @@
+https://smoc.co.jp.gimeyi.xyz
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = smoc.co.jp.gimeyi.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLzCCBBegAwIBAgISBIkVMiFs6Qj4/74MiG4UnIePMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTQxNDExMzVaFw0yMjAyMTIxNDExMzRaMCAxHjAcBgNVBAMT
+FXNtb2MuY28uanAuZ2ltZXlpLnh5ejCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAN7cvBAKCldgOpHeUk4oaTaOw8ZnxgWTz63ifVWhtdyBM2dX8VHI1zh8
+ki4/r3GpDy5v48Vz3kfiw6kIxfJhSuT0qDKDtj5mZzQ43SoZknxOY3SeRHX33EqS
+h2NyTqi/Ze6ZIrXLH25ZoUN2MtMvPTmeGwaSLRK/kzYp8UFK3RRWRTk7u3BDDi5C
+5Bv+ggJJgW00z/gRUhbtt1NSXO1V1H3hlFoEoBplkCkZsPYlrImHByU1bhaBjr+2
+jzLLuD7TlRclTmjJT0OdYcwcGjYvpIglCngCd1Bm6FHjneldd+X8whONnpm0Pbru
+HA5FOVQ+1a6c1d7ZrzdM4T9l7FiQHssCAwEAAaOCAk8wggJLMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQUaFdgJCF/iHn7zLlpTIMAjrV5DnswHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wIAYDVR0RBBkwF4IVc21vYy5jby5qcC5naW1leWkueHl6MEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDv
+AHUARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9HwDyZAAABAMA
+RjBEAiA+5DxqWwuA+2Yok11IC8oT06KQ55Mzz2DS75YAkgAC8QIgPCommMgL4P0G
+ZOejWWP+fwdysjFcsTTPMEpSViMVkMMAdgDfpV6raIJPH2yt7rhfTj5a6s2iEqRq
+Xo47EsAgRFwqcwAAAX0fAPQwAAAEAwBHMEUCIQDIdls2XYqV7ISWj4bE2D6g/jqZ
+WIBHsy5QiRVXs4NoiAIgDRIVyGkY7q/iH/PZfC7lHIPazZ2C2Li3hMki86Lh+1Iw
+DQYJKoZIhvcNAQELBQADggEBAIPeEBf4G3kAIABur5jAmGNN8Itvga7vz9SG/qqJ
+30+8i5IJ1V06V4PfBHXosXzfUdwNYuCUnvAYEIu3oQNJ1LXLyuoNvrhUo/mGmOF1
+h1ipcO2SZa1axqwtDrRmUgWkpFVApLfLeQ/LVmcorHC0pUhSaP5F7uAJmzwHGZxa
+UvFM2m/ft25plhLcYHpz4IRrt8hUcbO5wFRd2FUdUTHiOcncFS+aqeoFwO9QT4U9
+jwBPCHTd09MiLKqNsbhqSIFbVvHX6SdMx4pFq7h9g1cFkCtgE4kCjEsHC/kQDyym
+sv1auFrTvi4m+dyNd69fIMWWwlx371GkzetJMccm/xULYYI=
+-----END CERTIFICATE-----
+subject=CN = smoc.co.jp.gimeyi.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4587 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

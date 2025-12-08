@@ -1,0 +1,90 @@
+https://katmar.by/.well-known/postch/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = katmar.by
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJjCCBA6gAwIBAgISA6AJTXEN8boM10O/KZ5h6581MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA2MjUxMzAxNDZaFw0yMTA5MjMxMzAxNDVaMBQxEjAQBgNVBAMT
+CWthdG1hci5ieTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOycG4Hj
+lrGnn0wRRgIs+o4M2jhITdLf0kC++iI/LamEnoFJsst6hZ/8ppTmqu0XZBptGyJF
+quFCKFjPUOqYLwuKS1qjsUjy8Iu26xjtMfNbaKjGBm4Qd+U7ZAZleZ0EEA0g5Qny
+d9XpCA1g6Z48w0jyv6Gl/PeiYHZ2mycfnmmi+y8yefqTch/cVGnd7z5+xIT5Ds9n
+/iKYAGS/LyGTbw54d/ybhC7QKcaHv+t/WgHxq2VenfkJW4IQx0Px1UEqV4CGF4Yp
+0WgjSnZN2u9pFgYk+fCzz8b/aQq8HIcWKW66GHyvX4VJ9y8dqE8VWhk7u3vd9KgT
+1pLA+7FcqqWz3q0CAwEAAaOCAlIwggJOMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU
+7oVSo47iBMjPdDq6Y3ou4ifzIvMwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+v
+nYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5s
+ZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wIwYD
+VR0RBBwwGoIJa2F0bWFyLmJ5gg13d3cua2F0bWFyLmJ5MEwGA1UdIARFMEMwCAYG
+Z4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMu
+bGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUA9lyUL9F3
+MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF6Q3n+awAABAMARjBEAiB2v1jZ
+Sf9At+YOHMIpsK91wNZE+KYD+MTQBtfCeJ8oSwIgOhj/nBm9Q2yKP3tEdvAdDN0S
+qpxl6RwkB3Lmk+/agm4AdgCUILwejtWNbIhzH4KLIiwN0dpNXmxPlD1h204vWE2i
+wgAAAXpDegBeAAAEAwBHMEUCIQD8OJCJAjqJ0mDsXcRddGwIBK3YO+Vr/7xKFFXO
+0aKyywIgc/2F5YWI3oVskJuXdOzf3WhWB/5yrAzGQY+VQPdBruwwDQYJKoZIhvcN
+AQELBQADggEBAHmtILkusGZ9oO4LFWVupqH0/kjn32g19qFu7HgbSOOlzDL/3XkK
+2NlFU3eq1AkZhJM2rR/aTH9uDpnLfDeuRCYDYKADJKx6cfcDBlm/5G/NSQFcQ+3W
+ausoELhtAu84nFB5VRqyjDYmeVcSgn8bqdBA22CaBhdnISQ/zCQ4GfHuB2h3Ndhq
+euILnyb6EUIHJok2apQjQWZKiRsXTvR22YbXNk1/s3yJhUXRRlf2ud3Bv1vMj/UD
+FVR+y8cAU9Z1sXSX+vC5bLGp3FGwJRnt28OUQYjGzLi+uRJs5ha4n6pgv23ThWQT
+n20WXiu5uYja4vFlhZalMJSzfI/tK1nBVFU=
+-----END CERTIFICATE-----
+subject=CN = katmar.by
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4647 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 11B268CC622BA57AAFB282C719E455552EDA394D40AE5D121DCD0B2E68432E11
+    Session-ID-ctx: 
+    Master-Key: 3CB12A30FF50D904B73A2A2AC1BFF2625945EC7F02C21B1959914AD73412377C53077E9CEA9B5ABF15F4D407100946DC
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 78 eb c2 dc cc b4 d9 13-a8 bf 60 7e 04 dc 35 ff   x.........`~..5.
+    0010 - 7a 12 39 98 17 ff 7f 6c-01 00 a5 1c cc 8b 37 a2   z.9....l......7.
+    0020 - 6e 79 38 99 1c cf 01 00-8d 35 41 ce 3e a4 5b a5   ny8......5A.>.[.
+    0030 - da 03 8c d7 1e 83 9f 16-db cf 23 e2 91 2c 78 26   ..........#..,x&
+    0040 - 99 13 6e 04 df cd c3 9b-c1 f3 c7 f3 d7 27 d1 c2   ..n..........'..
+    0050 - 80 61 45 44 7f bb f6 e9-29 c3 fc bd 8b d8 0b 2b   .aED....)......+
+    0060 - 95 2a 08 52 93 31 d9 dc-89 5f ff c8 ed 0f 7b 9a   .*.R.1..._....{.
+    0070 - 43 e9 72 2b 99 ec 52 4d-2c 48 09 09 d4 d0 02 3a   C.r+..RM,H.....:
+    0080 - f0 e8 be d7 3d 2b 30 35-d8 12 f9 cb 5a 00 7a 71   ....=+05....Z.zq
+    0090 - ce 25 96 42 d4 fd df ab-cf b9 5f f1 ea 11 ad 35   .%.B......_....5
+    00a0 - 9c 6a 2f 02 91 ab aa 91-d1 ff aa e8 8f 49 20 ff   .j/..........I .
+
+    Start Time: 1626053776
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

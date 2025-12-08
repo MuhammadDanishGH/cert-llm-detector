@@ -1,0 +1,84 @@
+http://nateshinagawa.com/wap/$$/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:OU = Domain Control Validated, OU = PositiveSSL Multi-Domain, CN = sni220297.cloudflaressl.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Domain Validation Secure Server CA 2
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Domain Validation Secure Server CA 2
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIpDCCCEqgAwIBAgIRAJctuFgr2799JPuO4GvetTQwCgYIKoZIzj0EAwIwgZIx
+CzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAOBgNV
+BAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTgwNgYDVQQD
+Ey9DT01PRE8gRUNDIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIgQ0Eg
+MjAeFw0xOTA0MjQwMDAwMDBaFw0xOTEwMzEyMzU5NTlaMGwxITAfBgNVBAsTGERv
+bWFpbiBDb250cm9sIFZhbGlkYXRlZDEhMB8GA1UECxMYUG9zaXRpdmVTU0wgTXVs
+dGktRG9tYWluMSQwIgYDVQQDExtzbmkyMjAyOTcuY2xvdWRmbGFyZXNzbC5jb20w
+WTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATI3kWv8Ad1WJTT8xdRXQdEM7o1Egfs
+7P0lSQieS6A4kzf/5o+SBCFjyPS6r6IaZys1wiVXdDRHyAJBC9QDqHN2o4IGpDCC
+BqAwHwYDVR0jBBgwFoAUQAlhZ/C8g3FP3hIILG/U1Ct2PZYwHQYDVR0OBBYEFJBf
+KfAeGzr6bdnf3tK0nn0vm2FKMA4GA1UdDwEB/wQEAwIHgDAMBgNVHRMBAf8EAjAA
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysG
+AQQBsjEBAgIHMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5j
+b20vQ1BTMAgGBmeBDAECATBWBgNVHR8ETzBNMEugSaBHhkVodHRwOi8vY3JsLmNv
+bW9kb2NhNC5jb20vQ09NT0RPRUNDRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZl
+ckNBMi5jcmwwgYgGCCsGAQUFBwEBBHwwejBRBggrBgEFBQcwAoZFaHR0cDovL2Ny
+dC5jb21vZG9jYTQuY29tL0NPTU9ET0VDQ0RvbWFpblZhbGlkYXRpb25TZWN1cmVT
+ZXJ2ZXJDQTIuY3J0MCUGCCsGAQUFBzABhhlodHRwOi8vb2NzcC5jb21vZG9jYTQu
+Y29tMIID5AYDVR0RBIID2zCCA9eCG3NuaTIyMDI5Ny5jbG91ZGZsYXJlc3NsLmNv
+bYIPKi5hZmJ1d29vZGxvLnRrgg8qLmFqZWRpZ3lqYW0udGuCESouYmlsZHRvbXJv
+YmVsLnRrgg0qLmJtcmlsbGVuLmdxggwqLmJvdGVyeS50b3CCDCouYnVtb3N0LnRv
+cIIMKi5jaGFyZXQudG9wgg0qLmNpeWFyeWNvLmNmgg0qLmNsb3Vwb3MuY29tghMq
+LmNvbnNnZXJuZXluZXdzLmdxggwqLmN1bHR1ZS50b3CCDCouY3VyYW5kLnRvcIIN
+Ki5lYmNhbXB1cy50a4IMKi5mYXJlbmQudG9wggwqLmZvb2RhdC5hcHCCCyouaHdh
+dmlzLmdhgg8qLmlzbWVib29rLWEuZ2GCDCoubGlseXBvcC5mcoITKi5tb2xvbmV5
+c2FsbGV5LmNvbYITKi5uYXRlc2hpbmFnYXdhLmNvbYIVKi5yZW5kZXp2b3VzY2Fu
+b2UuY29tgg4qLnJlcHVtZXN0by5ncYIMKi5yZXN0ZWQudG9wghIqLnNob3BweWNo
+b2ljZS5jb22CDiouc3RlZmFub3J2LmNmggwqLnRmdXJiYW4uZ3GCDyoudHFyYW5z
+ZmVyeS5ncYIPKi51bnl4dGVycmEuY29tghEqLndlbnVtbGlicmFyeS5nYYIMKi53
+b2VmdWx2LmNmghIqLnd1dmFtb3Jhc29ob3kuZ2GCDWFmYnV3b29kbG8udGuCDWFq
+ZWRpZ3lqYW0udGuCD2JpbGR0b21yb2JlbC50a4ILYm1yaWxsZW4uZ3GCCmJvdGVy
+eS50b3CCCmJ1bW9zdC50b3CCCmNoYXJldC50b3CCC2NpeWFyeWNvLmNmggtjbG91
+cG9zLmNvbYIRY29uc2dlcm5leW5ld3MuZ3GCCmN1bHR1ZS50b3CCCmN1cmFuZC50
+b3CCC2ViY2FtcHVzLnRrggpmYXJlbmQudG9wggpmb29kYXQuYXBwgglod2F2aXMu
+Z2GCDWlzbWVib29rLWEuZ2GCCmxpbHlwb3AuZnKCEW1vbG9uZXlzYWxsZXkuY29t
+ghFuYXRlc2hpbmFnYXdhLmNvbYITcmVuZGV6dm91c2Nhbm9lLmNvbYIMcmVwdW1l
+c3RvLmdxggpyZXN0ZWQudG9wghBzaG9wcHljaG9pY2UuY29tggxzdGVmYW5vcnYu
+Y2aCCnRmdXJiYW4uZ3GCDXRxcmFuc2ZlcnkuZ3GCDXVueXh0ZXJyYS5jb22CD3dl
+bnVtbGlicmFyeS5nYYIKd29lZnVsdi5jZoIQd3V2YW1vcmFzb2hveS5nYTCCAQMG
+CisGAQQB1nkCBAIEgfQEgfEA7wB1ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCW
+ZDaOHtGFAAABak3K9MMAAAQDAEYwRAIgePC1FYBP4iIOD936ppxhI71gA3a+obkQ
+o6fX95p99q8CIG2ur/l5Mxo7qFHjLVpnQwxMBPhnpnk5Km40m5T8W/6VAHYAdH7a
+gzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFqTcr06wAABAMARzBFAiEA
+hTIJ9h0q9QR9q6R4mQYLnxis7yHRBiXShpRHiapd7y0CIGeEBegLTW+Vt9cNBtR0
+DV3SjoA4cedUhkQHNrHx9TBTMAoGCCqGSM49BAMCA0gAMEUCIQCG/8sAUBc2hvjl
+p8zT6Q37hJlIH+n1U/1SaSYV3wJCmQIgPJplNrOrWvhghT9aPzoEjGtmUYG3h+Mb
+zW3u87O78vk=
+-----END CERTIFICATE-----
+subject=OU = Domain Control Validated, OU = PositiveSSL Multi-Domain, CN = sni220297.cloudflaressl.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Domain Validation Secure Server CA 2
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4441 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

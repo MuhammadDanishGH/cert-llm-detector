@@ -1,0 +1,94 @@
+http://irs-informationsubmitinfo.ge-information.xyz/form/personal
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.irs-informationsubmitinfo.ge-information.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFlDCCBHygAwIBAgISAynqTqVFt4ZDSlbkLv8riYRdMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTQxOTEwNTNaFw0yMjA0MTQxOTEwNTJaMDsxOTA3BgNVBAMT
+MHd3dy5pcnMtaW5mb3JtYXRpb25zdWJtaXRpbmZvLmdlLWluZm9ybWF0aW9uLnh5
+ejCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANeOUdZJhFpnkbST/LZX
+uZl+dKU3jClE599Tdb7wamF+Qi7sYmEcDQyS7K6Ka7i8W8eAl58dUJPcVbyq0wxs
++2v9svQdo3yJ2n5gRvOzwSMGzn167l34CDmWcLrORkERHyniQ23pZdg6FWkVvxae
+XlRi6klgqxzdkqpNPaOJ9YTDaCgLmHJaBqtaLyOkEPOYx1OJNAHJ8Jn7GWdiJPEw
+VHWAJemvymt6FVqTT0trx5qpWKAgZH/16m2lOOaZleEszFBJJiqBsLU+K27Ny4by
+04B4Slbm8c32MKsFMijwYdLJPfJk2JWF98azS2aeq7VVB/pzIo0jZHRR6eftzRPl
+eDUCAwEAAaOCApkwggKVMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUWzSiP/6DKzGD
+rhrD8wayazTh3SQwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYI
+KwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcw
+IgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8waQYDVR0RBGIwYIIs
+aXJzLWluZm9ybWF0aW9uc3VibWl0aW5mby5nZS1pbmZvcm1hdGlvbi54eXqCMHd3
+dy5pcnMtaW5mb3JtYXRpb25zdWJtaXRpbmZvLmdlLWluZm9ybWF0aW9uLnh5ejBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB2AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABflo24WsA
+AAQDAEcwRQIhAOdOhbvwOSRWtZhe8dj9CYjGuI/rVF9qfvRLBCnHC7mIAiAly4ep
+0ZCt7Lp2fAklYjSgy/sAxUUR6cu8DHOr3L7yygB2ACl5vvCeOTkh8FZzn2Old+W+
+V32cYAr4+U1dJlwlXceEAAABflo24V8AAAQDAEcwRQIgfeuLm5k/9IMjlnJWDfM1
+Ara9bXiVTAPNUwatc3XpCTUCIQCZq7brjoGhuQXTnF5NenUw3jAFYA1GAk0umiAN
+wLT0mDANBgkqhkiG9w0BAQsFAAOCAQEAMNMdLpm2a/zEeg1ggc/Kng3GfqpCXm5N
+c89Gz9OhXNtsqyH5BFmidASuQXInlf24/L0N5L7Dw4+XRbnq4gUMDxJEFR/NGnAx
+vhfpGO1juDcLijCJcU16T6EsEPWK9ekJ9+mUUFPYHlzyd6tQ0CmZ9QhomDgQURV7
+Xwnby2Zto6JT0ZrvFUjq8S/cz37pW1jdwwxdMvCxypj/3bAKKvJpFYjmOs0EP7vy
+kjF6WJBdJt9woXlTOhmNTovMtrvhkOV7+eiaZETRylltxNWl7AhWbg2vDTuGdL7O
+nUsCHKGQ1QP/dz+f2G/H9mqhNJ1y9DfApAr1x+37PqE7c35GHR3Ikw==
+-----END CERTIFICATE-----
+subject=CN = www.irs-informationsubmitinfo.ge-information.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3450 bytes and written 431 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DBF9F4333ECB1F5296C46DFB9D6B267A1034D8EEF1328B21C578F2693616C976
+    Session-ID-ctx: 
+    Master-Key: ACD7F82CF479317DB5A50B09B9C684D9B769C2F7046103030559DA387510A48DAFF2D3F98BB98DEDDBA65ABCD6C96C58
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 95 b1 81 fe 8a f3 f0 0c-cc 3e b9 bf d9 27 9d c4   .........>...'..
+    0010 - bf d7 35 ce 88 bc b7 67-c7 2f f7 d5 03 06 e4 13   ..5....g./......
+    0020 - 6d a0 35 4c f2 05 a8 ef-7a 84 53 04 cc 66 7b 58   m.5L....z.S..f{X
+    0030 - 41 f4 fd e2 8e ae fa 5e-6d 27 e2 17 f8 5a 60 cf   A......^m'...Z`.
+    0040 - 5b 30 ae 48 2c 42 de fe-96 41 68 05 c2 f2 b7 14   [0.H,B...Ah.....
+    0050 - 85 64 b0 aa 7b e2 b1 05-6e d5 37 9a 4b 3f 7a 82   .d..{...n.7.K?z.
+    0060 - 2d e2 8b 1d 8e 96 3f f0-3d c4 0e ec 37 20 d0 b3   -.....?.=...7 ..
+    0070 - 2b d5 53 43 55 e8 92 bc-ce 98 7b 58 83 e4 44 1d   +.SCU.....{X..D.
+    0080 - 54 34 e8 04 f8 8d f8 ed-8f e5 33 45 c8 cf 57 4c   T4........3E..WL
+    0090 - 71 29 11 64 c0 e0 f1 3b-4c 3f fa 8e e0 50 6b 9d   q).d...;L?...Pk.
+    00a0 - 4b 23 89 30 91 91 15 c1-33 65 b0 9c e0 15 fe 99   K#.0....3e......
+    00b0 - 11 48 63 80 13 20 49 a4-3d a3 2e 46 f2 c1 38 e8   .Hc.. I.=..F..8.
+    00c0 - 3b 84 5c 85 d0 25 07 a6-d0 0a 9e a3 0b 15 45 12   ;.\..%........E.
+    00d0 - 91 42 45 65 df 46 da 3f-93 4c 11 84 6a 02 81 c5   .BEe.F.?.L..j...
+    00e0 - cc 8d bd 6e ca 29 de fe-1b cb 9e 23 6f 0b 49 b1   ...n.).....#o.I.
+
+    Start Time: 1642606385
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

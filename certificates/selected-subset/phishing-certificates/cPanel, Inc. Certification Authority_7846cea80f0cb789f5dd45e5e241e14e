@@ -1,0 +1,71 @@
+https://eco-delo.com/areaseguro/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = eco-delo.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGVzCCBT+gAwIBAgIQeEbOqA8Mt4n13UXl4kHhTjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTE5MDkwNzAwMDAwMFoXDTE5MTIwNjIzNTk1
+OVowFzEVMBMGA1UEAxMMZWNvLWRlbG8uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAxbDafaRz7eimjfCgctOdm10MmUbQePeOPUAdPKDDRcG2yMn5
+MhGU5W0+6sGs8KQIXPChpd+RL7Qj5eJGeRe10pf0yok1GKvEzL6V/+wLU13CpNzE
+u88sVlKyo4yW1HFargk+0vhvMDBKwCmlzMbPnaU5tQjUK2+4qt8eF4CzAbd6bBCD
+QLm1XfiWDvWM5ix37t5NDiMWvoWngfr9C0N/Yi5t0j1No84+8sf+F5EJ7c4KlxXn
+LK9rNoVO9fwTq9RCp+fG1wVY4SxdCxTryzxbSHqm0PV1sr00qNcHOGPWnzol9FUE
+2cCt6P4fi3UZMojnQoILdUsPBfOiJQE2WQ+wLQIDAQABo4IDQjCCAz4wHwYDVR0j
+BBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFFvHRGfsph/P5h+P
+mZbQkZW8EEH4MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysGAQQBsjEBAgI0
+MCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5jb20vQ1BTMAgG
+BmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNv
+bS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcB
+AQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5l
+bEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRw
+Oi8vb2NzcC5jb21vZG9jYS5jb20wgZoGA1UdEQSBkjCBj4IMZWNvLWRlbG8uY29t
+ghlhdXRvZGlzY292ZXIuZWNvLWRlbG8uY29tghNjcGFuZWwuZWNvLWRlbG8uY29t
+ghFtYWlsLmVjby1kZWxvLmNvbYIUd2ViZGlzay5lY28tZGVsby5jb22CFHdlYm1h
+aWwuZWNvLWRlbG8uY29tghB3d3cuZWNvLWRlbG8uY29tMIIBAgYKKwYBBAHWeQIE
+AgSB8wSB8ADuAHUAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFt
+CTVnVgAABAMARjBEAiBjggyUWDEeq4uuhUDcDkZ7u3jG5yrmScSTi/fQHaTSPwIg
+ck/3NU6GLF1F4z1CRMyUP+ur/pe7vtkRJ2wnSdniircAdQB0ftqDMa0zEJEhnM4l
+T0Jwwr/9XkIgCMY3NXnmEHvMVgAAAW0JNWd1AAAEAwBGMEQCIFrl+5JjSK6e1HoM
+nJVXPgwDtsKHymFE8aNH0+tDRy+EAiBZXi3y4XkVMH7rySCDlElofbQAFmGrvyAx
+Kuv9LO208DANBgkqhkiG9w0BAQsFAAOCAQEAA2RCExA5yTnFT2bxt8Us9kQk7lxU
+7ZxBKA2jdbtk0A3fUuJDTtjy6w5fdfTZNmyXY6rbnwHQ0DZi7gtsWT+W1GyYYObO
+POeoUyTJA+uXIe7yUxZFhdmBgEyj3Odu+axwQ2Owi1LPPLh21v4F4R3ZE05rTSHE
+VNA0G3I2TJXLygTy8zNNnANHabJgrL9lXTQIzPc9iIy6jbE++GFM9mCKnG4EV+WU
+Z90f4iCManuhz/QQgbAUGhKkuoiYQyehxvR0OslVwAxLQ0GZw8wuU5PX8qsVOCS/
+7uyWOd18hEFPhGl0SzbyK7v+jEs/cfT9GzjnS0Gg+q0TwHytn46a7eZ+CA==
+-----END CERTIFICATE-----
+subject=CN = eco-delo.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5052 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

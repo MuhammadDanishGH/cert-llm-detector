@@ -1,0 +1,70 @@
+http://2022-exodus.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = 2022-exodus.com
+   i:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+ 1 s:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGgzCCBGugAwIBAgIQMgqQGrco3suCaKhiKEQkMzANBgkqhkiG9w0BAQwFADBL
+MQswCQYDVQQGEwJBVDEQMA4GA1UEChMHWmVyb1NTTDEqMCgGA1UEAxMhWmVyb1NT
+TCBSU0EgRG9tYWluIFNlY3VyZSBTaXRlIENBMB4XDTIyMDEwNzAwMDAwMFoXDTIy
+MDQwNzIzNTk1OVowGjEYMBYGA1UEAxMPMjAyMi1leG9kdXMuY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjCh684ukKioIYgykSPyHmiIT9NtDCvDb
+6yWzPUCopkGvPuLL3IAhYKcfyI7NZkLKl3BDXa/YxWfTYaiStmPueEg5XMahcHvj
+wxh1NQjvPBi6AnjPobzIK/pWb2ChvDAR0BB7X3A8d0dP/ut1YvDUcJ02oHAf02Ip
+7IjTdlCohpLd1x3/GQLDEjkJiuqj0ZSMj3sLXNpTV6O7B0XZqz1LsYqXRivIOcHB
+2xXY1sZce9S98N7iL1XZ1jPm8US4y+IpbGOiMj9nccSQLH48zBN2u7YRUTyYNat4
+fLLf0IueiRPqDeIRnPBRE+UghMewsgWa8CtBIokY4VWFUKQX/dT+XwIDAQABo4IC
+kjCCAo4wHwYDVR0jBBgwFoAUyNl4aKLZGWjVPXLeXwo+3LWGhqYwHQYDVR0OBBYE
+FMMa0SPPYODIORd6d2HX1phwFidGMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8E
+AjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQG
+CysGAQQBsjEBAgJOMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20v
+Q1BTMAgGBmeBDAECATCBiAYIKwYBBQUHAQEEfDB6MEsGCCsGAQUFBzAChj9odHRw
+Oi8vemVyb3NzbC5jcnQuc2VjdGlnby5jb20vWmVyb1NTTFJTQURvbWFpblNlY3Vy
+ZVNpdGVDQS5jcnQwKwYIKwYBBQUHMAGGH2h0dHA6Ly96ZXJvc3NsLm9jc3Auc2Vj
+dGlnby5jb20wggEGBgorBgEEAdZ5AgQCBIH3BIH0APIAdwBGpVXrdfqRIDC1oolp
+9PN9ESxBdL79SbiFq/L8cP5tRwAAAX4zYEIbAAAEAwBIMEYCIQDM3P7FVn4CL467
+9mQZsdfjh6LxGrz52tpj1mA5UNgAeAIhAOjAYBB5TORHqDKIZVRXZXhvZp/GpfMu
+W3Vc3CYIIooLAHcAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF+
+M2BB2wAABAMASDBGAiEA2m9lhr336Ws0ZOtl1mZlOTGCfiCbD5CGstj0wZ1lMpwC
+IQDZMD98nU1+4LJoiS90x/0tVwieFTO3jOf5T5E3y5jkfjAvBgNVHREEKDAmgg8y
+MDIyLWV4b2R1cy5jb22CE3d3dy4yMDIyLWV4b2R1cy5jb20wDQYJKoZIhvcNAQEM
+BQADggIBAH/d/u+hrfe2i01Id17lSWbc33JNFew+cJqPpO6nedXGwvj7qtmJ6WUp
+8a4ACwi/pAf2arYvlPgvXLLforeYETtHcoC0JHj9k0j7fDmNtF3j9yhYeK4zzmxh
+DJhl0WvYLzohfvrqyQTLeKW7CVhnTyfdordpICxl520U2BHa0ArTNmAUeL/wEab6
+0zdEnAON6EYBwea+mRraAZwqzy8JgnkGfdwB1TTLvSKRpblPQeq4yxwoyuCDREsL
+hpEcleQs7arrwdgbfEgDTiQfN8uyii657/oafccjnvyr6JMkqOSbCJZMPe29p1gE
+iZ+cqSt1+P5M34pnvmaSvoXYrWu8Cux69RQnW/DNvh7rEqwX8mxrngNVh/xahM9F
+EMWL1Hgrz5t08qFDsYA0kor6R4nULnW0mH1JxtOnh7lmuF0KC1MBf63dX4I/bLdp
+zJTP8hQ5aCdPSG0e6ysVmlU/MlB9/fYM0YtriL6fAAWIYZeuWFajAXiuyREbXW2G
+KzPgAkNSkEFQgDxUR63zY/IE6cvbc14LZoj3HOzzHniFUNt5mi422KtteiOVGxP0
+61Uie1e34S0f/oAWiUscntZV5NB/skV6iym+7/TLWJcvfIdwa8tWJ11ZMbNP/tAP
+d9endRCkh+OjJRvvnwd1yFuaDlSjvFqZjviYaX0s7FCXuUBTOfVg
+-----END CERTIFICATE-----
+subject=CN = 2022-exodus.com
+
+issuer=C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3989 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

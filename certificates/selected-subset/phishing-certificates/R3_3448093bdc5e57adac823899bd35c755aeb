@@ -1,0 +1,100 @@
+https://transf-directdeposit.duckdns.org/interac-depositmobile/directing/www1.royalbank.com/cgi-bin/rbaccess/rbunxcgi/ClientSignin.htm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = transf-directdeposit.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGazCCBVOgAwIBAgISA0SAk73F5XrayCOJm9NcdVrrMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDMwNjEwMzZaFw0yMjAyMDEwNjEwMzVaMCsxKTAnBgNVBAMT
+IHRyYW5zZi1kaXJlY3RkZXBvc2l0LmR1Y2tkbnMub3JnMIICIjANBgkqhkiG9w0B
+AQEFAAOCAg8AMIICCgKCAgEAsYxVvGdIK1UPAG45u28qIwwm+PYhCagNaJUPOCR+
+AW2/FTaY3R2BUDCmxzke9IpYR/dMS1GD8XcLqT8o8aeH9yi6y2O69/aTUoGG6OIp
+BpC8rvZ7ThUBjxulF9uhZBTps1XtYmVroO3nWqQSG/S4uMA3l2+lPgERI1IWgKZ1
+VutyVgFYngEHfpa7INZKv5gFv1GKUSjSS1R4itDHA1H88UcS4M4zXkoAgH4tB0tw
+zVn0+M1vh6dUXMAV5ATpWgqxqWoyV3KyYcgzdDz9341D+repMQhcGZYRNDhBxMC2
+ZVFsv07mrYM78MsYsx2n/S1yCZmSSarsEUMoTyhu0aEp/XG5fBQz180OHUmcTofV
+gdQuYj6JMgughBAkJ/wPqsN3tQTvKVua3Cde1LXTsi1s7VTd0sR27a++GFypbiP4
+okrdKlba1Gg25DdpQqNmdNWmbgaK3lGg50K4Z+c7rz72JNY/L4ZCa7zQDaeMm5SJ
+gR70SDKG/bGlJDUk+xdg+cZu/aj9BHHBk0QJB9iR3tBFq80uT59BuY+mJY4J1ReZ
+WLJ5Zv/VLuhpIUdgLe3IabLQvrMUazENttOc4sF2SiXkIbx0ckwaf2KJ6CXvEXx8
+iqYefbDmR/9lQPlkR2k0fiMqG/t9ehGV5MQ4qD1LbYJE0wZPuw71+bo47IeSVG6W
+0DMCAwEAAaOCAoAwggJ8MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUCrWyBzN7UnAc
+PLdBsC8CgKaIw/UwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYI
+KwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcw
+IgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wUQYDVR0RBEowSIIg
+dHJhbnNmLWRpcmVjdGRlcG9zaXQuZHVja2Rucy5vcmeCJHd3dy50cmFuc2YtZGly
+ZWN0ZGVwb3NpdC5kdWNrZG5zLm9yZzBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1ACl5vvCeOTkh8FZzn2Old+W+
+V32cYAr4+U1dJlwlXceEAAABfOSio2YAAAQDAEYwRAIgcg79ebrTAV1mZew/UdRr
+SpQ+Yzs24Fsjop4kCOUw1dUCIFZI/JUCsia7h6CdtA9zzZNngY8yQqBFI/D76BLi
+uTwUAHYA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF85KKlZQAA
+BAMARzBFAiEAgxJ8SKo8Hl06+juXorZ69ol6NjuTV+ShoO9jQln5D1kCIFk9dx9L
+D0sboyrYhmg6jHQclFXyr077wIw3oDQQGqGxMA0GCSqGSIb3DQEBCwUAA4IBAQAq
+oMNrHkBxsfdRF55kIgHvBE4stxtIi5WFxHdVbzhQR6/rv4NiYot5Ixl4viF4nXOH
+cDZ6yj1pAKFYiiNELBmNUbmaiEWVdSxS/AmfeOUVfASaUqT0+O8KTLAVZ+PdjccE
+Lc72D+Dl8KChUEJkvWSJwLVx9mQjl6Wvelw3tGyD+sgWCWMetanLPMCYCA/jNfrK
+kHLTXMWd9VHMPsVqUNxu2aFNYuNYw/3Op2ruPm07pSFxhPUWfS3fN56gflFUO8mO
+0GIOCPoUSOXCmOO4xbxtE2dGkTH9j3UmjDgJOeM492NEIt25QiPyewxaEABPG+dh
+/n1wm45ME5r2glDORton
+-----END CERTIFICATE-----
+subject=CN = transf-directdeposit.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5288 bytes and written 419 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: B210E756C6058D36EC7744CDF63044BB7C2CC96F1592F2EA2A7E447F949A5FE6
+    Session-ID-ctx: 
+    Master-Key: 07E6DB7F2FD13F2E0A1E01DE6FB84D57BA8061D36E75BA65FB73E6EFA66423ED958BCE5EE62B3B8072A7075014FBDD76
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e1 60 d0 84 bc e7 c7 6f-20 72 b6 92 27 43 03 77   .`.....o r..'C.w
+    0010 - cb 5e b6 9b bd a6 16 73-01 42 dd de 73 8e c9 25   .^.....s.B..s..%
+    0020 - 1d f4 5b fc 11 a9 56 37-1a 57 46 06 e5 13 67 b8   ..[...V7.WF...g.
+    0030 - ff b7 99 4c a4 d6 7b e5-29 22 43 8b 88 3f 34 f1   ...L..{.)"C..?4.
+    0040 - 9b 19 a1 96 13 65 75 f9-a6 f9 80 4d 4c 32 a7 e9   .....eu....ML2..
+    0050 - 00 f8 fa 31 49 65 5f 61-cc c9 62 e5 a5 0e d0 ae   ...1Ie_a..b.....
+    0060 - a8 f3 43 74 be 9f 34 67-1c 1f 62 47 07 bd a4 46   ..Ct..4g..bG...F
+    0070 - b8 75 fa 1d 64 e5 eb 96-9b 0b 65 c5 49 b4 23 b4   .u..d.....e.I.#.
+    0080 - 75 91 e3 71 26 fe 78 af-24 ed 0f ce 87 3a 16 ba   u..q&.x.$....:..
+    0090 - ff 2c 54 5e d4 72 53 23-8d 8d 9a f7 9a 10 da b5   .,T^.rS#........
+    00a0 - b1 a9 1b 4e c6 28 3a 18-f3 1b 05 e1 58 2f 89 35   ...N.(:.....X/.5
+    00b0 - 86 88 ce 9e 81 b8 77 85-4e fa 74 cb 81 96 a8 24   ......w.N.t....$
+    00c0 - ae 5a 74 c3 74 ca b3 9f-cb da ff df 72 2c 7a 27   .Zt.t.......r,z'
+    00d0 - 26 d0 2b 28 60 96 74 19-98 b1 33 e2 91 3a 24 ca   &.+(`.t...3..:$.
+
+    Start Time: 1635943141
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

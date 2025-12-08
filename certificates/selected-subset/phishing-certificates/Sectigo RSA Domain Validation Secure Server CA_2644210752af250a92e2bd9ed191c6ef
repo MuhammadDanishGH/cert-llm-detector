@@ -1,0 +1,71 @@
+https://fidelite-convertisseur.com/vs/?sexy=www.dadada.pxap
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = fidelite-convertisseur.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGWzCCBUOgAwIBAgIQJkQhB1KvJQqS4r2e0ZHG7zANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTIxMDkxOTAwMDAwMFoXDTIyMDkxOTIzNTk1OVowJTEjMCEGA1UEAxMaZmlk
+ZWxpdGUtY29udmVydGlzc2V1ci5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQC5DvN3GksTpsZzOFpoLdsL0aHa5AR0+x81CMxdCCNcA0dIaVqp5lF1
+02Eua/SaO4z8UNVbWqrPenSUBymrvOvSinCi7j7zHzOX2xqdgN8pxvcy57kjEpDQ
+D4NNkTPXKTndJFosMtpX3QGRm3glYppSriZo7OZQXFgrEIrNx/LdIbP4RqDnc8G5
+jEKSicEK4ZmQyWCta5GnLHo+kjfK7Me95KuNPV2N6yyU6Gjxi+D4O17+kbVwbkvL
+yeHfh58W3GAaA59K8Ycd4PFkNaXeTNnO/2aIRckjogDENeHxd7u+ngTm1Rhx42TS
+Q3vF9vBiVMC/7i4Z8cpMBehYhmkoV/qrAgMBAAGjggMaMIIDFjAfBgNVHSMEGDAW
+gBSNjF7EVK2K4Xfpm/mbBeG4AY1h4TAdBgNVHQ4EFgQU/15sMyr/NcAXlEB3FKnJ
+JeqXF80wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAj
+BggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGE
+BggrBgEFBQcBAQR4MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5j
+b20vU2VjdGlnb1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQw
+IwYIKwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMEUGA1UdEQQ+MDyC
+GmZpZGVsaXRlLWNvbnZlcnRpc3NldXIuY29tgh53d3cuZmlkZWxpdGUtY29udmVy
+dGlzc2V1ci5jb20wggF8BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB1AEalVet1+pEg
+MLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABe//eC8QAAAQDAEYwRAIgA7w3oaHy
+HSrMCAlzUprdR/HMES09WKaMDKMQQUnkgrcCIBVI17sq1CbFa4ZB98o0EwAvqjgk
+qsuIWIjZ9e+LbxmgAHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYA
+AAF7/94LoQAABAMARzBFAiEAuhDRbK9cPNS+qh1mEUeBI5RjA5vMoSYeY/dZsQ1w
+gPECIDzumAt1yLXZ6Pb56zckR8/nqcepMvtYNczQn5TtlHWnAHUAKXm+8J45OSHw
+VnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF7/94LawAABAMARjBEAiAwjXVSp1Rd
+uBa/WT62H0I6jTxKDM7J0TzG1HQQQKue2AIgT5KiV9n85CUNwgk9Ct6Qrv4teuV1
+w846MT9srAwJCaAwDQYJKoZIhvcNAQELBQADggEBAK2n+r8CpcoXRVVqP+SGFwhF
+Sex5MYedyMkRnTNvfjemV1p+TbxA2Q3bwYZgmpA/kbu4xlFXNLqEmaIBk7n5WDG0
+9Cyh+rjp4gKmtC+c8JPfP6VAqq+ycJdN3vX+k/4EcYdDRIvi6HVCVfFbY401JEdz
+lSW3E+S75BPxUbzZlvWWYnXR8nL2VjEftEh07e8cKJmEAZk+pis4I/1o00f4+xmd
+13n9bnyu4yi5dz1NtB27Ro+ed125aPNGVBXRG4MpAyRjGTQo6Vn8ItYNiuWVZwwg
+k0Ntj55fTZcWjD1iuiT5t4NMWfAeN3HUPyD5u2rWVA7Onbyrg1DBZRfhHq/pFes=
+-----END CERTIFICATE-----
+subject=CN = fidelite-convertisseur.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5173 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

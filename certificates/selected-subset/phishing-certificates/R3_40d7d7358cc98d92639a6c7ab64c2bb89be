@@ -1,0 +1,73 @@
+http://www.conhecaonlinedigital.com.br/altice/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.amplio.conhecaonlinedigital.com.br
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGkzCCBXugAwIBAgISBA19c1jMmNkmOabHq2TCu4m+MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMDIwMTExNDlaFw0yMTEyMzEwMTExNDhaMDExLzAtBgNVBAMT
+Jnd3dy5hbXBsaW8uY29uaGVjYW9ubGluZWRpZ2l0YWwuY29tLmJyMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsKpOzSHPOcTuhyaHge2kNinT5U2zu1V5
+CYzrVIe3WUfAc9aZNLAHFM6biporqfZu3v5KMbiHeMMpId/jV+yEEYXIxYXzNW6G
+MiyDsJFJRPzhg8adRHlv2+XZ39FM/h0uYWqlLg+Khts2AAds4SuFU36W6kz72oTp
+NsZKY495dD8CtAAeoH/U1PG7pUA1Ygwpbf8VIxXLovhsp3ojo4UxwNJilpxWUM7W
+ggpRuHldnjMCc7uFDlKdFTtgHatdH16WJgffMujBPfr8GTdVPNuZTQLeBEyzcHbY
+hAvcIMdYoPehtpSjiH+u92yKD0EDQ28XZcJ2o2qCPtC91UYqWTMO9QIDAQABo4ID
+ojCCA54wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSsrxcLZWpyKO1pHyiVihMjlaRB
+ODAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJ
+MEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcw
+AoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzCCAXEGA1UdEQSCAWgwggFkgh0qLmNv
+bmhlY2FvbmxpbmVkaWdpdGFsLmNvbS5icoIbY29uaGVjYW9ubGluZWRpZ2l0YWwu
+Y29tLmJygiZ3d3cuYW1wbGlvLmNvbmhlY2FvbmxpbmVkaWdpdGFsLmNvbS5icoI/
+d3d3LmN1cnNvLW1lc3RyZXMtZG8tYml0Y29pbi1zZWd1cm8uY29uaGVjYW9ubGlu
+ZWRpZ2l0YWwuY29tLmJygjV3d3cuY3Vyc29tZXN0cmVzZG9iaXRjb2luLmNvbmhl
+Y2FvbmxpbmVkaWdpdGFsLmNvbS5icoIqd3d3LmVzcGFjb2Nsb2UuY29uaGVjYW9u
+bGluZWRpZ2l0YWwuY29tLmJygi93d3cubmVvb2RvbnRvbG9naWNvLmNvbmhlY2Fv
+bmxpbmVkaWdpdGFsLmNvbS5icoIpd3d3LnRlc3RlcXVpei5jb25oZWNhb25saW5l
+ZGlnaXRhbC5jb20uYnIwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMB
+AQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggED
+BgorBgEEAdZ5AgQCBIH0BIHxAO8AdgB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5q
+l2iZfiLw1wAAAXw+xZplAAAEAwBHMEUCIQDOQ2Jym6yG0BR8zjqMhzihfvVeGjT7
+l2hhyqkN28Y07gIgBlCS3XoB5avAO6QxBg/N4erp3BSeYLfQ7lKFn5jiXxQAdQCU
+ILwejtWNbIhzH4KLIiwN0dpNXmxPlD1h204vWE2iwgAAAXw+xZwqAAAEAwBGMEQC
+IAVsrdojolg3B6liV0JBkq726AWsha3iY374OH39hKAMAiAJ/NpD8hwiLPrexRen
+OxU8o7jsyDX/dRV64gQXLxvJ8TANBgkqhkiG9w0BAQsFAAOCAQEAZksHrHLQt24Y
+v6+T2fgzhJXLDj7OG5FlABSUeI55Xitm6+8TqXnExIliUUA/IOtdY6S6etuIkkiH
+WjOCsFAv/vxsuIO1ufJnrb8hd0ZuPNP3why9rJ5zKR7EYu94D4609sHN29anpCBq
+ZL3+/52LPwMrSi099Og5sADZgN7ZiH8GAjBzRJHaKywEFco4eI6RLVX79ivl60bm
+7oWRxBO8ncsoIzC6xvJ1Kg3/o366vwiezNk/nhj5WHo3D+JA0eq8JoR/GDlHzy3l
+R7h54U5npyYZPyMwc6Ap2IoF8Sx9LnHW5O3fHliTTRRBM20oEzlA63bcq8GEOZ63
+BTrHleHqpA==
+-----END CERTIFICATE-----
+subject=CN = www.amplio.conhecaonlinedigital.com.br
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3558 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+ode: 0 (ok)
+---

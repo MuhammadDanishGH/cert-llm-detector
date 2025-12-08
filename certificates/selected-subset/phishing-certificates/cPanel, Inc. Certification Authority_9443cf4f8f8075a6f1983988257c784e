@@ -1,0 +1,75 @@
+https://authentification-snapchat.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = authentification-snapchat.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHCTCCBfGgAwIBAgIRAJRDz0+PgHWm8Zg5iCV8eE4wDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA5MTUwMDAwMDBaFw0yMTEyMTQyMzU5
+NTlaMCgxJjAkBgNVBAMTHWF1dGhlbnRpZmljYXRpb24tc25hcGNoYXQuY29tMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs4sD3kMdNmZk3/iMQ7AFa7OY
+yR87ScqtIZRi99dWVhjCfSwAKqRfG3ITBHNUqzf9C5HaFcigvMMn2p95e+hfq0gz
+vA6psMXxsWWDP0VoiNoUwJR81Q6ooL/ZaAkNS83biF1oj6/LjondN/DpLxssG0Iq
+G960y1/6KsbnN2efCOv/EX8ZMSaLhniGd6Bj/3/RoaRy3huhRujpbohtrUVfDSkt
+EMb9XjYv/djKNla9n3+v9Nmyw3s/byGker2V0UHRn6z+sKYbxPdBFsdP+kOhLKV6
+wteMURfhsVBOqdyqZMmFpnQYKALQ0dvMRUnbZ0ECDrEsGycnn3oI3wunDIeofwID
+AQABo4ID4jCCA94wHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYD
+VR0OBBYEFFIPrd3SfE1ms1/MOJ9V7ur6fTztMA4GA1UdDwEB/wQEAwIFoDAMBgNV
+HRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAE
+QjBAMDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGln
+by5jb20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3Js
+LmNvbW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNy
+bDB9BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2Rv
+Y2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsG
+AQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEFBgorBgEEAdZ5AgQC
+BIH2BIHzAPEAdwB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXvr
+HXSkAAAEAwBIMEYCIQCBKl+JLrtN9CnjO1AKsSSIy3YHAZBpiQcrHoEAGtaNNQIh
+AK3hjHtWcqveL+hjtdEyYpCZd9HUMLYsedEK1GS69CrNAHYARJRlLrDuzq/EQAfY
+qP4owNrmgr7YyzG1P9MzlrW2gagAAAF76x10YwAABAMARzBFAiB5OrfgQiXei40C
+H2C45UKZviXmyc2LTCBa2Z/+DMF5KgIhAKyMgYdr57skgZj4y3tqsyBBUp+sa+m/
+/5VD5Qx88CFjMIIBPAYDVR0RBIIBMzCCAS+CHWF1dGhlbnRpZmljYXRpb24tc25h
+cGNoYXQuY29tgiRjcGFuZWwuYXV0aGVudGlmaWNhdGlvbi1zbmFwY2hhdC5jb22C
+KWNwY2FsZW5kYXJzLmF1dGhlbnRpZmljYXRpb24tc25hcGNoYXQuY29tgihjcGNv
+bnRhY3RzLmF1dGhlbnRpZmljYXRpb24tc25hcGNoYXQuY29tgiJtYWlsLmF1dGhl
+bnRpZmljYXRpb24tc25hcGNoYXQuY29tgiV3ZWJkaXNrLmF1dGhlbnRpZmljYXRp
+b24tc25hcGNoYXQuY29tgiV3ZWJtYWlsLmF1dGhlbnRpZmljYXRpb24tc25hcGNo
+YXQuY29tgiF3d3cuYXV0aGVudGlmaWNhdGlvbi1zbmFwY2hhdC5jb20wDQYJKoZI
+hvcNAQELBQADggEBAHLPiOyw8js888bVumPZWTUt65PiFi9zpbScXQSUbGgLOobg
+g801RoxxJcY8/dLds5LKSFbmV3DbA4jqexA20kwG7xtrRV/kvWecbYo07c7IbMmY
+t6LN7r1CGBCutJPMAe3yv6wPnHWYc3nK8bSywwpjS4EGuLcbARB/R2L8QUpSnyx+
+LPLPTlV6QndpYVnXA2INh526NHsDbwO4HMRYavS/RC88RZJmUqx2WabbMbfq1p3L
+cyo+9zjagBVCHtdUI86AVxzaOFTdzKDQYyuQ7xmTjTM5DqvlaKfrE0r+Q2EERJkA
+jbHTaxP59m6CCZIDip78Fci5kPtbN5ciqRn42qE=
+-----END CERTIFICATE-----
+subject=CN = authentification-snapchat.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5240 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

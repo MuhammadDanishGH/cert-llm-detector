@@ -1,0 +1,72 @@
+https://themasterly.org/hgagska/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = themasterly.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGhzCCBW+gAwIBAgIRAIgcC+qF5JtzboGFUKvIScYwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA3MjYwMDAwMDBaFw0yMTEwMjQyMzU5
+NTlaMBoxGDAWBgNVBAMTD3RoZW1hc3Rlcmx5Lm9yZzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAKP2nDhphVHanFZ/A3lbbUyzeIbXbZP6ITg+SDujYwGn
+WxqFJzigt/BPex4eGrzQ3eX0+/dShCYRfTR+T2ey5RuUsp6Eu09SiJmgXP66sImF
+h4cQIWJW7WokBTRPHAp4QPc5tQ2qAT0DfvRzM/Lwnh8YKcvx2aiYjJUeP3kQ8Qd9
+iOquhBw7gnfnQS+6thn3vWofo+gQ8tIH6oshlrMRIpA5Ff7TNRnrRRmCjAPUFB+W
+OPMnW0Qz5g+MEVpWZRGvXX8m5dfR3yBZzxGxMF66a6g7Slt7X40MME2wTQTw2cxA
+3loXJHmtMktM+T01NWZ1dEVT18jGh+35MwP71MXbkRECAwEAAaOCA24wggNqMB8G
+A1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBRAjpZ7NgFe
+TxBh5wcmoS0V9my4yjAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIx
+AQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZn
+gQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEE
+cTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJ
+bmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDov
+L29jc3AuY29tb2RvY2EuY29tMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAfT7y
++I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF64nPmJAAABAMARzBFAiEA
+l5fqh/OAvsrauRVs0Fj3OYMUgHhlRS33BXYsJdnmf2ACIHHY6DEQJMEpZzs2U8TJ
+GzJU1CcHDswxdmQp4NEqCyMEAHYARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9Mz
+lrW2gagAAAF64nPmLwAABAMARzBFAiEA4+Xx8MSb10zKEUIKIdB1IIWWv/uEV+11
+e0p1Pq/aof4CIDO5Huumk+OIRQOIKd5CHTnMD4dFajiMDZdJ8cRiaBBOMIHKBgNV
+HREEgcIwgb+CD3RoZW1hc3Rlcmx5Lm9yZ4IWY3BhbmVsLnRoZW1hc3Rlcmx5Lm9y
+Z4IbY3BjYWxlbmRhcnMudGhlbWFzdGVybHkub3JnghpjcGNvbnRhY3RzLnRoZW1h
+c3Rlcmx5Lm9yZ4IUbWFpbC50aGVtYXN0ZXJseS5vcmeCF3dlYmRpc2sudGhlbWFz
+dGVybHkub3Jnghd3ZWJtYWlsLnRoZW1hc3Rlcmx5Lm9yZ4ITd3d3LnRoZW1hc3Rl
+cmx5Lm9yZzANBgkqhkiG9w0BAQsFAAOCAQEAGg2s9nlXJhtPlG/7Prm6bN2uv2cB
+LaMgGE3g32fw9iRCvMYgWjIu8HdXjA5CFgsQv+JcBFsdf7smOlpiX7hk8fY8wlaU
+2WQ6MgoOqDRaXEylxZ+Z8987+GC5xpUqWEowQcNJabp9Un+LsvctXcjJGSKVNVeT
+jmiXGp0Af78xDjX7AlUA1BOFaIEbzD+u4P0vF7Ryx3+QgbWJb8z2w/OyvKjm1iLv
+mklxpsb8SvlkaUvqyv5RfsF1y2qUMQQJBGdZTR6t8TjnH1eoLeOS53u1d9ajWnDf
+/FBvAtdKuxwSqYUlTSlpMVs7ds760sI6I0uw73GCCETpkcIbkAJVm73jyA==
+-----END CERTIFICATE-----
+subject=CN = themasterly.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5180 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

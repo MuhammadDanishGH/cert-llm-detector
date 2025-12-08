@@ -1,0 +1,74 @@
+http://gudanggamismuslimah.com/.account/gmail/indexgmail.htm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = gudanggamismuslimah.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG0jCCBbqgAwIBAgIRAPWcpFjj+2PmhgihoQx5EeYwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMjAxMTYwMDAwMDBaFw0yMjA0MTYyMzU5
+NTlaMCIxIDAeBgNVBAMTF2d1ZGFuZ2dhbWlzbXVzbGltYWguY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx0iKFHpwekf5OiggVf6zAELHsJoh96TB
+/PRCWVwm6SbfsxHbKYanGhfXvJvH1y75uOJbwP0BBCYGx81PfMdchG8/J5sc3yVN
+SAL1PNMQau/tBRMhPoI82hqfN58hmNPtCHgHXOCtgVSs/yT7XyazRSM0bCBZWbJE
+PVTKj0IW7cPIGEOmz7X+Ew09//r32+I3pgs2un0O/Q7n2whsOR/o0TRmgBXOhDPY
+EcO2nhDga+dDUUdhMKNmrvJwqMvNTjKBpUWgMc3WgRhuZRnshS2j/PMuYD7Bo78Y
+a4WcAzNMiqNa72RT6DLRfqnvP+P3FMO5+60zpDs/7xbVQy6/b2e7TwIDAQABo4ID
+sTCCA60wHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYE
+FLrbnd0b035vPP1ypp9URPhxKLyDMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8E
+AjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQG
+CysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20v
+Q1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9k
+b2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9Bggr
+BgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzAB
+hhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEFBgorBgEEAdZ5AgQCBIH2BIHz
+APEAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX5ksimkAAAE
+AwBHMEUCIQCVCvauJn5u8PncTJHooQM5Qp1KyyixLjYoJP5TKiP4BQIgPtkQNtT1
+pQIxIX/QSLg0rOCqI8HS989EZ+cxi8PUeVsAdwBByMqx3yJGShDGoToJQodeTjGL
+GwPr60vHaPCQYpYG9gAAAX5ksildAAAEAwBIMEYCIQD0ZnOa6DYrxEWD9lR5rlUy
+SoSlIJPkOJ2qInMZFw9h9QIhAO5T5s2uO+IdbodOisgKJWFr8DWR+VaaZJbXcJXJ
+00ChMIIBCwYDVR0RBIIBAjCB/4IXZ3VkYW5nZ2FtaXNtdXNsaW1haC5jb22CHmNw
+YW5lbC5ndWRhbmdnYW1pc211c2xpbWFoLmNvbYIjY3BjYWxlbmRhcnMuZ3VkYW5n
+Z2FtaXNtdXNsaW1haC5jb22CImNwY29udGFjdHMuZ3VkYW5nZ2FtaXNtdXNsaW1h
+aC5jb22CHG1haWwuZ3VkYW5nZ2FtaXNtdXNsaW1haC5jb22CH3dlYmRpc2suZ3Vk
+YW5nZ2FtaXNtdXNsaW1haC5jb22CH3dlYm1haWwuZ3VkYW5nZ2FtaXNtdXNsaW1h
+aC5jb22CG3d3dy5ndWRhbmdnYW1pc211c2xpbWFoLmNvbTANBgkqhkiG9w0BAQsF
+AAOCAQEACPfQJTH/W5Jjdoch50AKh7JGn0yTWEBMuglHv4iJ7gSf0qufCFL+ECk4
+E4vT27ouyhv47jd/zVl1MBOg2NGlyLykfSBNI6AnH9gP+hb7VWNk+I9UxbluMBt4
+J1E0B6T3HPCqnRhjrhegEuNDhkZRVZ7SKlDsfEE/bNfyM2cHRKwMglyn+Dk/JLZP
+Na3j9pc30rt0nmT8HJPgmjPhmb2k06bId+A0/KFebQEVaYW0CvIOtrN6YDNnUMBB
+YvO8WHKRo9JonZqKYpE8YEUSkxpfysxw9gPV85fpSy305bmqQ5ZRDcz1YccBcfb7
+K2wQK9onHgq7Vui1LzAisyXmQ9G67g==
+-----END CERTIFICATE-----
+subject=CN = gudanggamismuslimah.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5255 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

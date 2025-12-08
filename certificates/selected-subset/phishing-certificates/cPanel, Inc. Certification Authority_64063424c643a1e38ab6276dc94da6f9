@@ -1,0 +1,95 @@
+http://www.ekaguna.com/baxter/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ekaguna.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGNDCCBRygAwIBAgIQZAY0JMZDoeOKtidtyU2m+TANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTE5MDkwMzAwMDAwMFoXDTE5MTIwMjIzNTk1
+OVowFjEUMBIGA1UEAxMLZWthZ3VuYS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDgAJ6pwRxPJdAlL8QWfjONR1zpD9f7l/HEOFzPnNrhaFR6PtUM
+DnmmasFGCBWtyMrM03VP5zYJElSgUtSei25dhEjPBNAPzp6lYme0BNpvZ3UfshMs
+UMF8MWo8arvaa8mLlHOTYFfMYcYRfbeYDpj2hitB18N47XLivYSmbyRzO//ppET9
+i3n+sDLbc02M+/7g5BXn5oCUD1IQzWh5R0CVbV/GiLOGnMgEXnFLQO1Ft6nQ2paz
+SfP2fXvWpw4crtuVpTQBNWFuxf1hUJPxegCwD8APiemPYQUcLUyhzYyz92JmKPL2
+FYuXn1enJLT+oP8vPGpA4QK6OH49kKPxne3zAgMBAAGjggMgMIIDHDAfBgNVHSME
+GDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUjv5zsrXXIka+oTQ1
+bazxtn5E56QwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYBBAGyMQECAjQw
+KzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNvbS9DUFMwCAYG
+Z4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEB
+BHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVs
+SW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmNvbW9kb2NhLmNvbTB3BgNVHREEcDBuggtla2FndW5hLmNvbYISY3Bh
+bmVsLmVrYWd1bmEuY29tghBtYWlsLmVrYWd1bmEuY29tghN3ZWJkaXNrLmVrYWd1
+bmEuY29tghN3ZWJtYWlsLmVrYWd1bmEuY29tgg93d3cuZWthZ3VuYS5jb20wggEE
+BgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4
+scdoVEvYjQAAAWz30mk2AAAEAwBHMEUCIQDj1KCsbJoJORjoUC0k6FAzNXoeRMIC
+Yd9IrXFvJq1KXAIgCueWnnAr3Xqidoo1/PakoihK+Hzs/zypxj64crKY0xcAdgB0
+ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWz30mlcAAAEAwBHMEUC
+IG8z6uKTAsNNaq6RTBRlWI8v5BLJMlbPnOo6s3opBpS9AiEAzmUzpQH37a8WIhpM
+E1MkykAVon5jGZV38jKGL6ABY60wDQYJKoZIhvcNAQELBQADggEBABJs0aSTlXX/
+i/4JS1TIIowRijeeJ8BgPYGKawOZEID1aTfj8HTudk91hxf+2FLBsD7A+EnUq5v2
+ywoAJflGNva0sZkU95Dl4lShnYCYTrESTciIu32tzwKSEYW7WSQ+p5NJevkDGUWo
+0fcZy0WnQRYhF8EohPnXDFHdF2i+Ik//MZI+/TuDU/4yfG3en4+9QaHv/J11cL8X
+cgu50eWiu/uo1+y0NYovhr5QKJdt3oFgPie86R5C5FRsSO1B1aiuDO5Ya1HBF9uZ
+HtwH6tYaHC703v0HkYqFObv/5yqZHc9oO97XwwRPLV2ZUOS/uw/Nj0YUA5uBdhfL
+eZQvxp0BOKQ=
+-----END CERTIFICATE-----
+subject=CN = ekaguna.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5146 bytes and written 420 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 508698149D24A92B77B2AAA41B2E6799B172499508A65EF249A0FBFF0696BD80
+    Session-ID-ctx: 
+    Master-Key: 6F1C30F304CF188C6E889E39F381B96F20A092370F7FDB4A2A05033D9356936F74386EF229D69241F16FD876AD95F8C5
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - f4 99 23 24 d0 3c fe ec-ec 9d cc af 36 47 63 6c   ..#$.<......6Gcl
+    0010 - c4 48 c6 77 6f b4 5a ec-58 40 92 02 7a d3 28 aa   .H.wo.Z.X@..z.(.
+    0020 - 27 ba 4e 67 c2 e6 3f c3-d1 d2 78 a6 f1 e0 36 02   '.Ng..?...x...6.
+    0030 - 5a 90 07 87 c5 18 fa 5c-64 23 da 2d 27 6a 56 72   Z......\d#.-'jVr
+    0040 - 33 f6 5b 9b 52 a0 b5 d4-30 f1 bb a6 c0 51 51 86   3.[.R...0....QQ.
+    0050 - 63 f2 a7 88 20 e3 89 58-1c b7 b7 01 66 20 bd 17   c... ..X....f ..
+    0060 - 9e 40 9c 35 d8 d4 1f e7-0f cf 4a c7 71 81 93 49   .@.5......J.q..I
+    0070 - f7 08 a6 c5 c2 e7 f2 84-22 23 c2 ad ba 18 96 74   ........"#.....t
+    0080 - dc 52 c5 c0 5e ff 4c eb-c2 f7 4c c6 5b 18 3f f4   .R..^.L...L.[.?.
+    0090 - 7c 23 81 15 a2 7d 3c 83-03 9c c5 88 18 89 21 6d   |#...}<.......!m
+
+    Start Time: 1571490026
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

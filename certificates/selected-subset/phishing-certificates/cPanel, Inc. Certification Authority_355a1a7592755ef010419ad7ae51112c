@@ -1,0 +1,73 @@
+https://contact-ronin.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = contact-ronin.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGmTCCBYGgAwIBAgIQNVoadZJ1XvAQQZrXrlERLDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTAwMzAwMDAwMFoXDTIyMDEwMTIzNTk1
+OVowHDEaMBgGA1UEAxMRY29udGFjdC1yb25pbi5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQC3cBfwy/141jxpKwQnTSiq1BQcPX3YMnsGRqAddodF
+f55ViOnzuoyO6B+sGlkop09rYE7Y4YhTgXKgTNrGDBCxXk+Rhw7pu3pGuZccR2fV
+2WCyne4km6/sIPct+zMp3lYfzu1Xz1htylAwnJzfiWbOl3MbX51LsI6b2YKSUQAj
+m8xONpkeQ2/NEPcP6RCtNltiNGeqE2MBmeZHX/RWWBi8caGC9MiWqhV4MNZwlY0e
+4S8cKNJj9GTXHIbR3L9eu7YiQRTG+VJC9UqKlrXXpjymXDOvBNlJ6wRP+/Eo9cA/
+VHPvFxbQY6UVMohuCuSt8MPlhUSmx+6WP7fyH1B8/rm9AgMBAAGjggN/MIIDezAf
+BgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU/RNTxYJZ
+wrTtdVF41urqdHYHEywwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGy
+MQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYG
+Z4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEB
+BHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVs
+SW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AEal
+Vet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfEZ3TNEAAAQDAEgwRgIh
+AL7wlBwpEgVffk24wTf6YKeajwiOCliTQWQAsmZULPqtAiEAxM/qU2CzZErTOxUx
+PsvjwPbgRrr0Mr+GpuP6HYKUADQAdgBByMqx3yJGShDGoToJQodeTjGLGwPr60vH
+aPCQYpYG9gAAAXxGd0yLAAAEAwBHMEUCIBPYqjbvpNEV5i7g5nuSSjxoLHvRQazp
+VoP0cqIf0PKFAiEAm7alQ5ipMElCHGLiwo6ecARemDG9/dJSoAbjbDSm14IwgdoG
+A1UdEQSB0jCBz4IRY29udGFjdC1yb25pbi5jb22CGGNwYW5lbC5jb250YWN0LXJv
+bmluLmNvbYIdY3BjYWxlbmRhcnMuY29udGFjdC1yb25pbi5jb22CHGNwY29udGFj
+dHMuY29udGFjdC1yb25pbi5jb22CFm1haWwuY29udGFjdC1yb25pbi5jb22CGXdl
+YmRpc2suY29udGFjdC1yb25pbi5jb22CGXdlYm1haWwuY29udGFjdC1yb25pbi5j
+b22CFXd3dy5jb250YWN0LXJvbmluLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAHXS+
+o1Z4r3k38/8BdkIcS7+G1D3pOKDFIyB55pcoBH5SLHTOmOLKmlPx7urwBk5YnYl9
+hhqzG8qMrtECfiBknn6JSAYLmUrWx6pWmr59OwcfDxiGZOIazODJxjTZG5P2Hcdc
+4o0FcTOQ17QnVsn5FcNYkKmajZgzxu8Q6DRDoAxzU7/zrQLkGKOTzmYrxvkEBH49
+ZhAB7PR8NIsZvZtC0lgTPJwKBmotUjzhCIkaO3CUcc/I3ssUx0DDLZiJ7m86stQ3
+WSoCDUkIuvfTain3rlOhmuNkoV2wWQv/8G9LIkRIAF8uh+7Sl7Olj9OPdh+Uv5nv
+sVFPopWL0hNs8QgoQg==
+-----END CERTIFICATE-----
+subject=CN = contact-ronin.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5182 bytes and written 375 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,63 @@
+https://hilinkco.com/red
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.hilinkco.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLzCCBBegAwIBAgISBKVhiR1xFhEFy/AsOX+BzeriMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTQwNjU1MzdaFw0yMjA0MTQwNjU1MzZaMBkxFzAVBgNVBAMM
+DiouaGlsaW5rY28uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+zrxg0IPYNYQHEw/FsBsZBADGyuwQcAXe/P+LsvDQxa6vHvznDdIEGbWEPY4MBBu6
+hikLguQI5NO5NIMvpxQudSg9Ii71f5ov2tLGBG+zTOTC8VPfAe/qfl5oGVvqEH3q
+g9rUMTJS3YH2IijL05JneEW3Drq/vL94mBLPU4LEoXOo3HFFD7r+2pjb/VFK2jvA
+HF6yzJOgiMHTZrqxh0vF72ooqQErwRq7P0L9sKVe1J3i3/VRx9zCdDk2AI/72egC
+5zOYfCj4o6fjRQL6cWj6VlXfF+CRJ3641MVH/OIUH9XMx3DBUSqnXdfSzjPivodh
+C7x/DCQnvvc87craPRq21QIDAQABo4ICVjCCAlIwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBQNZ1tHirrEwDKudH3RP6OGN3HYtTAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzAnBgNVHREEIDAegg4qLmhpbGlua2NvLmNvbYIMaGlsaW5rY28uY29tMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDv
+AHYA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF+V5W81wAABAMA
+RzBFAiEAoD/oVs1Fk6SDCurqgKNjJEAaDzQfJ8biQfRgPHsXZVcCIDvavpI5gq+D
+mIQpp7GbgLzyb4hq9AeRBHj7q2RkZckUAHUARqVV63X6kSAwtaKJafTzfREsQXS+
+/Um4havy/HD+bUcAAAF+V5W8+wAABAMARjBEAiAl2nhMFM1WZmAT6+Wr/ia3N0f9
+zGkSOgZ3c+tnFaQNUAIgNDYnNAoubQ3x5Hb+HaJjkdjo4DaedKM8XvNiPkaIKDgw
+DQYJKoZIhvcNAQELBQADggEBAFYxZ9HfbK2KYujLyqLvBTbD73mFyrmD6gtd188p
+z/TtoUmGgEBSp9H/p84hM8tkJhXkSS3m9ldEvpgy9SwJWSx1OdR6fuwX7Y+3MTta
+1H2dBSA9+dxXH8YAT9WYWPtrEQtRaPNGkMqrq1USQ8rR8xjAoOj3WofRsaFqmmHt
+aBESIfJkAoPvqSlUyCAwp41xo5EnolMxIGGut44lx3J89yc+/9lj4qMchzo0lcI2
+WQqrSSIzM12O1pkeVzLnRxsnDLoM2ZzXA4dP8lcLNBPnn8flc9QnTK1D/7IZURq3
+YyOe7nSIQ6IKmdztgbauLsvUu4ZxtpHRNtPZ/cIHGrMzRts=
+-----END CERTIFICATE-----
+subject=CN = *.hilinkco.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3202 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

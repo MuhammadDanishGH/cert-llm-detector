@@ -1,0 +1,69 @@
+https://social.cnh-e.net/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = social.cnh-e.net
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGWDCCBUCgAwIBAgISBPtey1F882Ty5q9gOBgsr6HLMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MTcwOTE2MTFaFw0x
+OTA4MTUwOTE2MTFaMBsxGTAXBgNVBAMTEHNvY2lhbC5jbmgtZS5uZXQwggIiMA0G
+CSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDfXC+d+vCgDBsuiNks9S7C3EQ3NNB2
+CUngvW9A/QoVPbErfokx8vYju8ib8Apr/rGMEtFhRMvqFIP4BAv7oKoJqLVjK7vK
+YSLpxvkHaipoPDU1aJ+XIeqe5rb3TZxZGaogwwDVSBByI3sNn1KqcOMl6aAVh3Si
+Tt3AGGlve5oMy9f59ewKGySug2LuYJ/GvpcjkJLJ35GeYPZZTLojcc5JE6C5pd7m
+rNFFzQ9lox2jZbTIJzVbZwKsdbIksALv4swZsSgHykb/zwqMSS7CdGVYe/hg80PS
+IPq5JeKmIpHFb70KPscKoWtjZhP47+FC/UOu/QNQOZV6bzZwQnvUrJetDMl2xaK9
+VqY8SS1bPhL2ZoNvQZqnTKLNp608S5ZuTOFco6w4C8V1iBF1tzTNwHQX39CMO/a3
+7o3AJ6vV3EB9NbRMCybvMN8sBCjkfXl/Jsv6AjNn75KkaCr8D9f5zcH5lp82vIQX
+tPN2UOt52xdxzB4mxsyez1S8mttZlZCzmUFBVMg2bU6Nbcia/zoMUeIZDVCLaNwx
+6YWSULWexfd8mtaJuxbUlTY7xwXAbtaakOPxxTIVu2GD1XI01U1qdF6HAVLMhbkm
+n1FtVG6Mdhx4CXidWw8mot77js0HeB435kaZrxm43W+1u8h+tIakOE4+bm8vMKGo
+EDMR1867FTflYwIDAQABo4ICZTCCAmEwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBR9
+9cvuiydw8IQepO0WcLMuOnIG9zAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv
+86jsoTBvBggrBgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmlu
+dC14My5sZXRzZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0Lmlu
+dC14My5sZXRzZW5jcnlwdC5vcmcvMBsGA1UdEQQUMBKCEHNvY2lhbC5jbmgtZS5u
+ZXQwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEF
+BQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQC
+BIH1BIHyAPAAdgB0ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWrF
+SsKlAAAEAwBHMEUCIDKwFj9poQapQJ2qaN6H6qSX8SFyz2t4BV3vka6wwxC6AiEA
+1aY5Wpb3o45g/P+kCBaM++f2fQ1ybY53JwtdWqGRpWoAdgApPFGWVMg5ZbqqUPxY
+B9S3b79Yeily3KTDDPTlRUf0eAAAAWrFSsCiAAAEAwBHMEUCIDBc24uJX8Bdei3c
+Ytpud6P0Wj8gTvMpKPpPgMZ1iWISAiEAu3qcY6iCz0E1apIhBdcIdPl+MgZ7H+41
+FDU0e3pbtyIwDQYJKoZIhvcNAQELBQADggEBAJw5gSWhgdTkrkBYS3g0tJFAi5DI
+/YM3Fe5FjAoVy4Tg0st7A3Kb6hhxoIxv31H/BGv3BQldchb4K8+9RXFjEyBH0NbV
+lkfaziqPt1HSY8k8KH+MCqYJldpCZjj6o+gyZ661K3smYyd86QtyWB/QYcv1PHqM
++JYx7/Q9s7rx/L6uLj/kJZm9yJ5Y58hHSetCYQ4mbRhz168XJLtaGp8dAoq5nwTB
+QT2zgpyV/hNttQxlUN/AdlzGeUDB83h56B/tqqjk9dfOamDkRVDAbt+qZqw/xG91
+dTpu7+I/ArlIru9993FI/B6yC4E3EuMwq+g3zbAZHsGtgVyLJw3m/KAAS7w=
+-----END CERTIFICATE-----
+subject=CN = social.cnh-e.net
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, P-384, 384 bits
+---
+SSL handshake has read 3781 bytes and written 801 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

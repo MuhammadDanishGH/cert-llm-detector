@@ -1,0 +1,74 @@
+http://valenteplay.com.br/Llc/fileshare/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = valenteplay.com.br
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGxTCCBa2gAwIBAgIRAK58O1cmt9qjr1wWcPrq6iIwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA4MjcwMDAwMDBaFw0yMTExMjUyMzU5
+NTlaMB0xGzAZBgNVBAMTEnZhbGVudGVwbGF5LmNvbS5icjCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAJU7xP+rLHf90gOuKiU8bZqnl1ckm/Vc03jNiNO4
+jpCMegrKb8AilGxFxZRuc46/Ey2Gd5ag8/D6dWbBtck0ZWLlY4dfVXEzJ09Pt6Kw
+KrwifEN73RjFfzHIZ06weSdeybLlU801L+aub/2sZ9HU2gzWeU1lZFts6Btv1HjN
+UUGfL87htI9x/JuTFw2FtmbzO86tBMyd/zpnyX1nL21uEo5gvpZY8WN0hTRc/E5q
+rRMKnHFz2yKPdmlUWUu6JSpV6wSFGEMVssZeZpHgafpmFmSNittlNLwJnsFS0RB6
+vOfKcOjoFLhI3+rg+N551FaGyycG3qmmjsOnaUi4PZdK7R8CAwEAAaOCA6kwggOl
+MB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBQ7e/lN
+PR6snEGFR4WoS26cCKBAKjAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEE
+AbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAI
+BgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5j
+b20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUH
+AQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFu
+ZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0
+cDovL29jc3AuY29tb2RvY2EuY29tMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcA
+fT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7hS7DNwAABAMASDBG
+AiEA/Yv+cmtrFvKQ+4+E4/1lCDSfm6tQqBIUKvbqqTrvmYYCIQC+zNJmNNLkMLaM
+SYyyWaevSkc4Hz7LA09W3mZTXwjSZQB2AESUZS6w7s6vxEAH2Kj+KMDa5oK+2Msx
+tT/TM5a1toGoAAABe4Uuwv0AAAQDAEcwRQIhALT6fINAq+RPHcyzS6SVhVFmTi+0
+hb5rFmPpoH6h6AmNAiAq2uVautNxqAQicJc9QfRqZV+ZCA+JR3evsmdzvHr/ETCC
+AQMGA1UdEQSB+zCB+IISdmFsZW50ZXBsYXkuY29tLmJygh9hdXRvZGlzY292ZXIu
+dmFsZW50ZXBsYXkuY29tLmJyghljcGFuZWwudmFsZW50ZXBsYXkuY29tLmJygh5j
+cGNhbGVuZGFycy52YWxlbnRlcGxheS5jb20uYnKCHWNwY29udGFjdHMudmFsZW50
+ZXBsYXkuY29tLmJyghdtYWlsLnZhbGVudGVwbGF5LmNvbS5icoIad2ViZGlzay52
+YWxlbnRlcGxheS5jb20uYnKCGndlYm1haWwudmFsZW50ZXBsYXkuY29tLmJyghZ3
+d3cudmFsZW50ZXBsYXkuY29tLmJyMA0GCSqGSIb3DQEBCwUAA4IBAQCFT040ke3v
+F2kBVS3yJUAe4dNBeHkL/JWiOLAgCpvKQx72F++IL69RZRxPy18FFIrUgH4p+eB6
+5UUI+bVagHw6nZNOHX1nR1dgg9VhBgIzLwwKWsdbjB/6P03wb43kOVi7OPXO1Mh2
+08JZw/EnUU7BnT1/RUcwEOY5OlJe52d9a8RuU92Aacjo2v45vzY9d+YnjFwP71uA
+ON2Vhqo1R4hjpf/dzq4/jIKOV6Fg964ru0W1c6HI6dK+BB0HNimvs6ybK0wpAWy/
+uZd+ddTH1C3DxS1I+zfGRb89mNCsZPyvkUcBx5irkhf7VabNl1mDuPeqEB7ZI6Aj
+sNEiBOmdr7H2
+-----END CERTIFICATE-----
+subject=CN = valenteplay.com.br
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5242 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,65 @@
+http://an-land.fun/dg/aom/secure.wellsfargo.com/authloginpresentorigin/cob&error/yes&LOB=CONS/&destination=AccountSummary/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.an-land.fun
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLTCCBBWgAwIBAgISBO4rvHZdznef8Q02yfDov8z+MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjQwMTIwNTNaFw0yMjA0MjQwMTIwNTJaMBgxFjAUBgNVBAMM
+DSouYW4tbGFuZC5mdW4wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDH
+Qa8iTYVgYtloe5zniF/tMNGrw2fQuTpn2pUbC5mhyBpI3yvsoVuifE9KPt3IvYu/
+jzZNwTfb2t7YJ+SRXjz6YK9HnGlVVBUTOt8p0QI26qXylH48Oe64lTZRkg9B22DL
+PuprRrb8irnkn/pIMnxw3EAJgCA9wCDPYjSaEozWEc8PAP+jFLddgpDr/SgZWaMD
+uPtlqzEoeVxxe8t0lNap2eDn05OnOMXWnGLbtTNtIn6uuJvt7ry6Eulwhf3ivBD4
+htpYRNKC2TYz05BKeHDWvbAQaWnmMPJYcVgjELn8yDrGyce28gdXOURG08FWfYuw
+WwvYonfvvxbphtJ/PKjpAgMBAAGjggJVMIICUTAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFNE1lBbIrryPjY8GWwm5pn1SJFTAMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJ
+QOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3Iz
+Lm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcv
+MCUGA1UdEQQeMByCDSouYW4tbGFuZC5mdW6CC2FuLWxhbmQuZnVuMEwGA1UdIARF
+MEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6
+Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHUA
+QcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF+ieLdTwAABAMARjBE
+AiBylkLOKB7QcHeehn4VOAWP+FKVv9Sn0whzn+ZlSEWsNQIgDxRc+U16E0RQWkvP
+N3mitJS17tX8yswYb+pnhmSZwk4AdwBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiF
+q/L8cP5tRwAAAX6J4t1tAAAEAwBIMEYCIQC+FCvTMxt5BHvLrzx4Kudi3P3OrLO6
+DonEdwZXqvaxywIhAOpql6QQwsRfk9S7TXN/3uDhZhwEw4Sx/JdsTCmmOoTjMA0G
+CSqGSIb3DQEBCwUAA4IBAQA9OxoqBRgQwWKocJ+Fb0el+OS7WWTD2vg455linfZ1
+Jiq/BIcWDk0mIgNCsECufFmZPEH6WG2hvbcDPrulWm9vzYzny8scBgczkujhF3O8
+At6edEajTt39uR/dyZP02ToHltH0xyBsfxgz6B8sgY45seUJp1rQnygg7gNuf09r
+KPJxrS7on0lIxAM5wJaTO7o1qwbzdJrbnLNDa9gY4feLR0xGO3+IhqYzVy5UOU1j
+hWiLNh+7TZnU8OgtTc8yjdK7JaSvAIDO7u2g3ohjvB5gj8Vtkg478Xgk2WGjpPaP
+2xFxLV7diMnMIPQrb9ktaKKdQQunn8E+OuoDS3HpvqSO
+-----END CERTIFICATE-----
+subject=CN = *.an-land.fun
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4515 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

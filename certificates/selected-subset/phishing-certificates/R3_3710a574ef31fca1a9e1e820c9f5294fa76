@@ -1,0 +1,67 @@
+https://vwwlnterbank.virtuals1cliente-pe.com/lnterbank/doc/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = vwwlnterbank.virtuals1cliente-pe.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdjCCBF6gAwIBAgISA3EKV07zH8oanh6CDJ9SlPp2MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MTkxOTMwNTVaFw0yMTExMTcxOTMwNTRaMC8xLTArBgNVBAMT
+JHZ3d2xudGVyYmFuay52aXJ0dWFsczFjbGllbnRlLXBlLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAM7yIbN/EmPC6bI906tImcBzBusE08ztJjB7
+t95o4NgV7o79XKbthSuY4+agRh8mNMw0pp276w5S2qDovtVyViwqQsMKUWCI5PNY
+cmdKV2n4c7fhR5YFj3v8GNPR9VPHSVJy2CmH4BRpiptEc5r1DMj6X7ROSzTSxO6y
+2PI7Oz/qpWZmSIZoeVOT4hqtLmX/KsVT+tBXNgNNAb6372KzJs/OkEngcGq1A6xr
+sXc+6DlZQzPMOHeGT1tqcC5lbnzHDckAt/PdkrjYAngcsW3IKvuNdcxOXjW49vhb
+7doHl7vU1cRkzTEbcx3majqRrLIFLeEq1vGQgOyCyCxnA0jXRgcCAwEAAaOCAocw
+ggKDMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUkFUH5C0N9GVL4QdDfoytBO6sNU4w
+HwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBH
+MCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKG
+Fmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wWQYDVR0RBFIwUIIkdnd3bG50ZXJiYW5r
+LnZpcnR1YWxzMWNsaWVudGUtcGUuY29tgih3d3cudnd3bG50ZXJiYW5rLnZpcnR1
+YWxzMWNsaWVudGUtcGUuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBAgYKKwYBBAHWeQIEAgSB8wSB8ADuAHUARJRlLrDuzq/EQAfYqP4owNrmgr7Y
+yzG1P9MzlrW2gagAAAF7YBwIbgAABAMARjBEAiBjrdAvOtuhkd3y86ABDrAoCHFT
+Vch5c98nKnsCF/ViBAIgUok1SziBrOgUIE6gVtda/FLR6HDqcPeRnjbeNtLP52EA
+dQB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXtgHAiUAAAEAwBG
+MEQCIF/5B4MqywV7ZxGC+2Ka/KdHiP6M5JInBHqA95aAvci+AiAvPMeXkXiI0tYW
+DdCOZYchJjyqhq1qBQQ89moSR7++dTANBgkqhkiG9w0BAQsFAAOCAQEAYIubAo7Z
+lmruDv5ojZxkoyXQEf3+2RUEJy/6pzSNzbw0z/mVGj/OEUk+IShMvemiqge2rzL0
+uoVEe9PabF3Wwm03xsnlxgnw1XLuQTmslHvxIUdtxyiKbgWPs1hETBr9wS62EpYv
+P+ntuNC8zR7RgePArnW8TxduqA+Y7lwiilfGQnnDHmhY6fz1qXbLme7KmBeTTRls
+wTbEkYRjFCI19cvcS+dhSfMWVxGhP181hi9IpUPwSKvoL1EGP6vTtC0xj/gz7ct3
+4uCuRJF3xJboMGlO/2Gz/KQq9PRdwLWGzD5qGSRqOJqxyBUJbr7Hj+HrQFCo7nd3
+tCxL1B9pIjeoKA==
+-----END CERTIFICATE-----
+subject=CN = vwwlnterbank.virtuals1cliente-pe.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, P-384, 384 bits
+---
+SSL handshake has read 4816 bytes and written 821 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

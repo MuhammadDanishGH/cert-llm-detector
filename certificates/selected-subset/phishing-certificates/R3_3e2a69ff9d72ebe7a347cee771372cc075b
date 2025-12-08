@@ -1,0 +1,79 @@
+https://toicangap.com/c
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.spathamnguyen.toicangap.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHszCCBpugAwIBAgISA+Kmn/nXLr56NHzudxNyzAdbMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA2MjAyMzQ2NDRaFw0yMTA5MTgyMzQ2NDNaMCoxKDAmBgNVBAMT
+H3d3dy5zcGF0aGFtbmd1eWVuLnRvaWNhbmdhcC5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDFU8kqVjtNPWiaY87DzDdXzEqImicEwhG0O5zb4w6W
++etH0YGMDeWvaB8T5WUqvNIWXc6Dbh4uKwNT8gmnZt+vPIUoWFltEEA9Hw0+qmO5
+1ST0E4lMnqPJUyyqWZK78l1NiKa+earrIgQf+YJGyY59vHlw2zbiuAhCHUWEQ3d/
+3enkmF3C2Bl6/jHr3Nuy9F/KOouhgBSxyLOnkaQxpWva3qHsx9qv9UryQk4Vxsjs
+gUcfM700/Far/UulF1FW5P/evll/pKuirq24gsPidZ0bEJnfDuKdyVKrEnIiYWpo
+SKE3fyfq2DRY3eBeyIFUbiDiRoiIbtlQSF8gG5ZKeXizAgMBAAGjggTJMIIExTAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwG
+A1UdEwEB/wQCMAAwHQYDVR0OBBYEFLf1148dXRbChhES+qxCiRSm0rtaMB8GA1Ud
+IwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggr
+BgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRw
+Oi8vcjMuaS5sZW5jci5vcmcvMIIClgYDVR0RBIICjTCCAomCIWF1dG9kaXNjb3Zl
+ci5uZ3V5ZW5ob2FuZ3NvbnR2LmNvbYIaYXV0b2Rpc2NvdmVyLnRvaWNhbmdhcC5j
+b22CFWNhbXR1dm8udG9pY2FuZ2FwLmNvbYIbY3BhbmVsLm5ndXllbmhvYW5nc29u
+dHYuY29tghRjcGFuZWwudG9pY2FuZ2FwLmNvbYIgY3BjYWxlbmRhcnMubmd1eWVu
+aG9hbmdzb250di5jb22CGWNwY2FsZW5kYXJzLnRvaWNhbmdhcC5jb22CH2NwY29u
+dGFjdHMubmd1eWVuaG9hbmdzb250di5jb22CGGNwY29udGFjdHMudG9pY2FuZ2Fw
+LmNvbYIZbWFpbC5uZ3V5ZW5ob2FuZ3NvbnR2LmNvbYISbWFpbC50b2ljYW5nYXAu
+Y29tghRuZ3V5ZW5ob2FuZ3NvbnR2LmNvbYIebmd1eWVuaG9hbmdzb250di50b2lj
+YW5nYXAuY29tghtzcGF0aGFtbmd1eWVuLnRvaWNhbmdhcC5jb22CDXRvaWNhbmdh
+cC5jb22CHHdlYmRpc2submd1eWVuaG9hbmdzb250di5jb22CFXdlYmRpc2sudG9p
+Y2FuZ2FwLmNvbYIcd2VibWFpbC5uZ3V5ZW5ob2FuZ3NvbnR2LmNvbYIVd2VibWFp
+bC50b2ljYW5nYXAuY29tghl3d3cuY2FtdHV2by50b2ljYW5nYXAuY29tghh3d3cu
+bmd1eWVuaG9hbmdzb250di5jb22CInd3dy5uZ3V5ZW5ob2FuZ3NvbnR2LnRvaWNh
+bmdhcC5jb22CH3d3dy5zcGF0aGFtbmd1eWVuLnRvaWNhbmdhcC5jb22CEXd3dy50
+b2ljYW5nYXAuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEB
+MCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYK
+KwYBBAHWeQIEAgSB9gSB8wDxAHcAXNxDkv7mq0VEsV6a1FbmEDf71fpH3KFzlLJe
+5vbHDsoAAAF6LAitvgAABAMASDBGAiEAoconFozd0/LrFGUyWYUCpm++HbvGIydo
+lWevNzV0mk4CIQCo5J8CYdZqWSUjdMaqAFdompv0Q4dygtdANkNPOXVUaQB2APZc
+lC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTjAAABeiwIsEEAAAQDAEcwRQIg
+KWazRYR7k+a9zzxdv6j11VL38N+pUTCTz7CKTKLXO08CIQDSh+PX8UFmGgKR1CFQ
+md5ZjiDX1h4AtT15nTcA3I4q9TANBgkqhkiG9w0BAQsFAAOCAQEAM389lG6WZx4r
+R8aj95wn1jI4qIBTKXB3N6u7kxk0oCsZOyp7a2Q1xLvrM4TWcMaVGWoSsn62/r5v
+GmRZcAOWPDw0Nl5ghGM/ividjsDeV1H1rT7CxxZ5ZwAYYdHkFXlAGxtQ3bZKh2EP
+nfAkBPU/AdjZi7Y2KZIsN2PDxJ/Xq06R0y5Kg4szFro7VE5tnkQx/8+mt/Q32rpP
+Ow2pDje4ZCMfOxJcPVEkDA/SoUIg1BD4TM18NZlJyINRiWd6OvXfNTwTrozEauyJ
+7RPwSwI4RkrEK6af0k3U3YMyvIcSfTyCeO+PpHiLzxIMjoGgRNYHFIHX+EclNH0w
+ccUn4Vag4Q==
+-----END CERTIFICATE-----
+subject=CN = www.spathamnguyen.toicangap.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5231 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

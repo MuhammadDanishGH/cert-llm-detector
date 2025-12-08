@@ -1,0 +1,65 @@
+https://www.amaicoz.shop/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amaicoz.shop
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMDCCBBigAwIBAgISA4VxiuAil3yICPHGs3D9X1lLMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDMwNzQyNThaFw0yMjAyMDEwNzQyNTdaMBcxFTATBgNVBAMT
+DGFtYWljb3ouc2hvcDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMWB
+ifNwf/1tloIaA6+4xjVWbmcbaNpQoNBUuzLAMNL88xQgRhMdaESt+bnylm2+cn6G
+ZY/JrWA/svwX+wWO9vmzM+VoYyq/5+923R7PFyISiUHZp1sign2geMODkWfF3ftj
+nQhk1bETqb01AhWyxoUZOlHuE19GqU7R7l36b1qEXGQ/o6jX5sNgrVFyHMCJkLRv
+oDoUpZQYSy3sZqRA7pCGk4TFhzJ0lh6I46F2piDkT8prpe6R5nLKEVvNu6B7UAAf
++tXphl/qXrsU/KaotOqNMevemkvJFpe6HO9yIRt7S3xUDrlykiUlvXJTSNmXLvQK
+atRDXtKPq9/WUbYnt1UCAwEAAaOCAlkwggJVMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQUj34HgTVWioaEs3XfhD50gDl1iggwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA
+5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMu
+by5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8w
+KQYDVR0RBCIwIIIMYW1haWNvei5zaG9wghB3d3cuYW1haWNvei5zaG9wMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDw
+AHUA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF85PczSAAABAMA
+RjBEAiAr5Jt58pgBRCJVOGiRLWMnQkv/B3NvkHdUToT4siQOGwIgXhaAYMt1uYv3
++vGPgrG7H8b+OD3dNAhZGRN7pINhFfcAdwBGpVXrdfqRIDC1oolp9PN9ESxBdL79
+SbiFq/L8cP5tRwAAAXzk9zOEAAAEAwBIMEYCIQDG5hx1vpPR7zLSUb0CaNYf/hi7
+VT8uGs5L9N416UrxXgIhAN8JgXpYirT/OQ62KzQ/GDlAUWbVfqz/xWePoaPTpxsS
+MA0GCSqGSIb3DQEBCwUAA4IBAQCK5bXSPBpJgFFDHVS7i3kwPWLR/t2rt/gSVgDv
+4c8sDYwNARM1d/qklPKiCtxCGjjEFgnJLX9we/vO8m6qTLoFEcROcgktKwLBqpB5
+hkCTYn84symTflAyI1Cy8xgZ+2F/kyz0XxD0dP/Bnb4udtkXKeYDQy1dd4csYZTm
+JJpzkUMR0c/3Wq23IrNvpsDLDfAdnatMBVBeNxP01SgkGn7TLK2tkJamrjtYNxAf
+RXfHoKcrG1hOjiGeHKwSd6VCSM67BT2aIu0GmHxzgUVcMr89hpv/vKB+js+KggpU
+9R6uBqFhl/ZfPCPUKfdMkSW+8Obp93VGCJPYl7E8LgPbkeY1
+-----END CERTIFICATE-----
+subject=CN = amaicoz.shop
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4588 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

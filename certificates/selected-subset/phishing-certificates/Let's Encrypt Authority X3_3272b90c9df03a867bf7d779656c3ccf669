@@ -1,0 +1,92 @@
+http://bangsoldstore.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bangsoldstore.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFcTCCBFmgAwIBAgISAycrkMnfA6hnv313llbDzPZpMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MzAwNjUwMzJaFw0x
+OTA4MjgwNjUwMzJaMBwxGjAYBgNVBAMTEWJhbmdzb2xkc3RvcmUuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsrsq7uRmqnaKMSdsG5Rbk2Np9EDO
+TZx3FNjR/9JdiUD5GVQj4ORadcz3IJTGFHyr2m8ZScIPwXzv0u4MM/eAXcggM6NR
+YQC7KHAWXMDgGGqQ2TymkDL1P26Y1GkIeU0uDoZ+0eqEkSz5kJuXwLflDmhE+k6S
+x4RlMbaMGDpMo0L+mvSs0C7WoCoWHdUTnUGUE49ETEEavCpZJQAhD6Hic9yRQnpV
+LKnYNMNJvskYPA2zyLm1JB8/EHPV+xfNIBegjdBCNLjPAH31FdMbMqGCnxDuJm74
+Ra2kKp0VyuPrKumRz0jAQmwP/Q7WSCwkMlmyj+WJBkNKFW+2fJskKRKYfQIDAQAB
+o4ICfTCCAnkwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRdj4Or6UGqMI0My6L3bghV
+H+75QjAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMDMGA1UdEQQsMCqCEWJhbmdzb2xkc3RvcmUuY29tghV3d3cuYmFuZ3Nv
+bGRzdG9yZS5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEw
+KDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgor
+BgEEAdZ5AgQCBIH1BIHyAPAAdgDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd
+3fHb/gAAAWsHuBR+AAAEAwBHMEUCIQC2QKAS33LbwIVjYSzTwlBieZFCg2bcG53P
+2gGCsOKGpwIgfwdF49rGojsec/sv7bQrqjKz1aADfzP3BlAQSEqOhq4AdgApPFGW
+VMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAWsHuBSeAAAEAwBHMEUCIQD6
+fIvy8zjgArIFo/6mi4nrmtgrECB5byfR9OV4MrsF1gIgeMWJTRD6zftg9Ry5H3ho
+Uv6gpvrHcmiFaZdUuTzZpOAwDQYJKoZIhvcNAQELBQADggEBAD/y6SnVQwoYZOk0
+muYUBFuibFd+z9hzD0InYI7N0EO5yKYfEwrqiYoRPSoGRrVvPHYDeU1ypiFGhP0J
+lcY4+30SVUPlil7dp61sUn6qa8wpxihNCnK+VA6tBdlXX4bhN4e+pzkhOv7P45Ha
+f+88t6ifcyWfquHi2xxUdcH9XB+A5TWS+CFq9FN3+VwiQUBiWq1aVBeHaxvf/MPw
+zqcgjG5BuBJs0J8ohqGKqPufQyR5BUECrXEIwhA7k0wZY2CS9EHk8K3BikMVdBKO
+fJvXmyazsuSNWwyBVItDWCaEeQvIL1eMdEY6u0OBGBNXqTs1Xli2Ldn30Kmex5ji
+WZVLI8Y=
+-----END CERTIFICATE-----
+subject=CN = bangsoldstore.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3280 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 99576182AC40F61156CD5F95A10C0AA1307BD7B60AC1FB76E3260932A00F4079
+    Session-ID-ctx: 
+    Master-Key: 9D1248F9A5EB2DD409BEB18C0A1ED9F3C4434AE092370E24C14DE94441957149EAFEACBF086E1321988658F57C91D6FA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 42 53 dc c6 9a 36 e5 3d-eb 49 33 17 78 7d 2e 5d   BS...6.=.I3.x}.]
+    0010 - 2d c0 68 8f 9b fb 27 fa-34 f8 99 5f 4b bd 58 0b   -.h...'.4.._K.X.
+    0020 - 94 d1 04 6d ad c0 fa 84-38 8c e1 28 f5 41 a5 ce   ...m....8..(.A..
+    0030 - 68 fb a9 ec e3 84 43 17-02 0d 4c 6f c7 87 80 ca   h.....C...Lo....
+    0040 - ee 74 94 98 ac a9 b5 c8-62 9f f9 42 e1 cb d7 cb   .t......b..B....
+    0050 - 00 17 f6 a8 fe 3a 40 f3-fc 82 91 eb a9 51 cc 86   .....:@......Q..
+    0060 - 5a f8 65 49 c3 b8 c8 f0-94 eb 6f 16 c4 2a 55 c4   Z.eI......o..*U.
+    0070 - 74 2f 95 f9 86 e6 a4 df-5e 1a b8 bd b7 77 b5 1a   t/......^....w..
+    0080 - 90 e9 f0 bd 43 37 df 14-cc 19 db 17 8a 60 33 7f   ....C7.......`3.
+    0090 - ec 51 d9 0b 69 ff 80 a6-30 c6 cf 9b 51 cd ee 5f   .Q..i...0...Q.._
+    00a0 - 68 a1 32 28 1f ba 2c f9-8d b4 0a b4 c0 17 0f 37   h.2(..,........7
+    00b0 - ae 16 c1 72 af 23 eb 4f-e6 51 11 34 a4 ab 08 3f   ...r.#.O.Q.4...?
+    00c0 - 92 d7 90 48 30 f3 54 98-f5 dd b9 2c 14 c3 b0 1a   ...H0.T....,....
+
+    Start Time: 1559739642
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

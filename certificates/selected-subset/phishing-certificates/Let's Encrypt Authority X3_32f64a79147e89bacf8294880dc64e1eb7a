@@ -1,0 +1,95 @@
+https://secure-accountlimtied.entanindoneasian.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = secure-accountlimtied.entanindoneasian.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFojCCBIqgAwIBAgISAy9kp5FH6Jus+ClIgNxk4et6MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MjUxMTI1MzdaFw0x
+OTExMjMxMTI1MzdaMDUxMzAxBgNVBAMTKnNlY3VyZS1hY2NvdW50bGltdGllZC5l
+bnRhbmluZG9uZWFzaWFuLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAOYGRiLMJmrUAiHoKHyfV1sea4IBSpLZ5wY2EtyLbbl1dKo2YCiezpIGHcR8
+kyKK+d5hR47me2CkcMO3Day5LwPmuNe7doa9YSzSTnu+4f8omBI0ilFRmbHxxUrd
+acGr5fZxx2Q6pG3s8AD5zbqiek4fS1z58zT0d1T4hux60/TxHxCgNfhzIJ4Hp3uv
++Eg+KO5xiKuo2UxaI3U208aDSOPgT3ZFQ2ucEirDKdLUfiDtX/ym/oSE7VpYaXD4
+R1wXmJYG9rlv32ZxfwvhXILiCDudGEgS4CUKce+AaK2g7gLUsKQvYRKFxqr8s2pC
+sVHa13I3XsPzqMWNacoxiJmrL28CAwEAAaOCApUwggKRMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUvTC4mN0JThryguoKiR6CerFNdAkwHwYDVR0jBBgwFoAUqEpqYwR9
+3brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRw
+Oi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRw
+Oi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3JnLzBLBgNVHREERDBCghRlbnRh
+bmluZG9uZWFzaWFuLmNvbYIqc2VjdXJlLWFjY291bnRsaW10aWVkLmVudGFuaW5k
+b25lYXNpYW4uY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEB
+MCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYK
+KwYBBAHWeQIEAgSB9QSB8gDwAHUAdH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV5
+5hB7zFYAAAFsyL0wRwAABAMARjBEAiBYgKdlXKCEFvn89AfI7DtVWO0itBZnpOkt
+Q7uJP2nJtQIgd7xvvnE7Yvk8a0/OgTkB16IQvKnsWYEnI6yw8aLV11cAdwBj8tvN
+6DvMLM8LcoQnV2szpI1hd4+9daY4scdoVEvYjQAAAWzIvTBkAAAEAwBIMEYCIQD8
+dddoHWgk2ruhIYHohFb3V4x7V6GVty9bWgIXLYtVbQIhAPN/XkFlQwbQZ81FEa3P
+GaEXXmmNGSMtI/dBKLxTi7IuMA0GCSqGSIb3DQEBCwUAA4IBAQBnU+ZX8Kq+kmO2
+xGM6Ffsvh2wrqtgs0Ldcbswahjqk8GmV6INDBjzcSWTOSKVKHNUIBlJA4AWMyQDA
++lTOyzP0J4yTeJ6agE1HWo/e5ytOv2u72pOdTY84ylPWOxzkpEhrR1MXaGrE8nvu
+hfjY4JjySeSOFLgnSiT4BUIsisHyyxjBLlMARlBn3R40/1eFuIkDFoH5a3BcAlwI
+aLbmZXPn+EljQDPOvVABAOWOYMtiflrCemuwXFcbuOI82wIqFbRYqXe/BKh7Ju5u
+a24jyKtDnekVpMxR0yHHLXCjfUMkghNc32SRwuxZ9pjkv6dn5SK026EktZ1URBK5
+iwKUdRqO
+-----END CERTIFICATE-----
+subject=CN = secure-accountlimtied.entanindoneasian.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3361 bytes and written 480 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 5E3A5A44F395730A1DEFE0FF090C3C335B2D4C1FEA2C6C855F94417D891C7B9F
+    Session-ID-ctx: 
+    Master-Key: 2C3156F6E805FE7A355BC5A795E60A4AD1BB80F9D08FDBE22B9858C080F31A019BC8B99A83EAB8D21F49A6C1252D1B2F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 13 ad a0 a6 c1 74 89 7f-eb 6f f0 ec a8 6c 3b 5d   .....t...o...l;]
+    0010 - 38 2d 02 89 dc 31 4c fb-d3 b2 15 a7 47 79 a2 9e   8-...1L.....Gy..
+    0020 - 70 cb 10 de 84 29 ba 53-94 c7 9e 49 5c c7 9f 2e   p....).S...I\...
+    0030 - 00 eb 5e fd 87 7f df 9a-42 07 af 5a 8f 76 18 fe   ..^.....B..Z.v..
+    0040 - e5 16 41 07 4d 07 d3 1f-4d f2 4b 6d 9d f1 12 1e   ..A.M...M.Km....
+    0050 - ec 5c e8 ea ce 5c 85 8a-d9 30 03 b3 13 d4 e4 22   .\...\...0....."
+    0060 - c6 89 71 a9 77 5f 7c ae-b4 66 ec e3 fc b1 58 30   ..q.w_|..f....X0
+    0070 - 8f a8 92 ec 0b 2f 86 1c-14 d6 11 60 1c 9b 51 cd   ...../.....`..Q.
+    0080 - df 31 55 3a e5 b5 c5 66-5d 1d 40 04 24 ba 3f a5   .1U:...f].@.$.?.
+    0090 - d6 3e 58 3d e9 cf 25 85-00 6b 9d 8a 29 ff 7a b7   .>X=..%..k..).z.
+    00a0 - 83 ec 93 bb e6 83 50 31-82 98 33 1c da 3a 72 d1   ......P1..3..:r.
+    00b0 - bd 7b 25 34 7e df 57 d9-04 c4 2f ca 31 b0 75 e7   .{%4~.W.../.1.u.
+    00c0 - ff 68 94 0f 60 18 0e 25-63 7c 2e 88 67 ad a7 e9   .h..`..%c|..g...
+    00d0 - e1 41 1b cc 12 74 3d be-4c 2d 30 b0 a6 38 00 db   .A...t=.L-0..8..
+    00e0 - 50 37 bb 51 b1 40 cc 4c-8e 3e 24 32 a4 2f ac 94   P7.Q.@.L.>$2./..
+
+    Start Time: 1566824426
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,81 @@
+http://marsold.cl/wp-includes/boaboaboaboaboa/login.php?cmd=login_submit&amp;id=84723b0190295a78859121db94d8c67584723b0190295a78859121db94d8c675&amp;session=84723b0190295a78859121db94d8c67584723b0190295a78859121db94d8c675
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = marsold.cl
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGJjCCBQ6gAwIBAgIRANn5LG/xNnQLHc1z1q9wnzgwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0xOTEwMjkwMDAwMDBaFw0yMDAxMjcyMzU5
+NTlaMBUxEzARBgNVBAMTCm1hcnNvbGQuY2wwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCvTMuZ2pglIz2l/0KQRGH5C+YXNK1XpzoL4iq033uUo8A+7DYv
+5HfCWwNZTMCwDb0Y1IcBSnkz8llem8W4pIdZgszJyA4MVCVGYFTi3CXSLWwUOxeO
+WZGwSFpRYSQeTNxMUw+tQtCvyLZfDRgcsZ63bW6Ly8VvI7K6NNMnJjTpS6qfA0R7
+i1Tw/9lFPg03URXQtmD0phDma0paeweMj2B6UBu6G3i5QnsB2hTSbVntX+fZtcOV
+jNcNDnPEgzIVxqVP3Bv2kPyP4Onh6nsfzbjPy34AIN88FxiUVlOXzmMcW0SCU7X1
+mbHNNP3/ulwu7FAVrLH2Qfs43l4/uDSLmI5pAgMBAAGjggMSMIIDDjAfBgNVHSME
+GDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUUquiGkCPhPBGhUXj
+fea7aqF6pQkwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAjQw
+JTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIB
+MEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29tL2NQYW5l
+bEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEBBHEwbzBH
+BggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVsSW5jQ2Vy
+dGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3Nw
+LmNvbW9kb2NhLmNvbTBxBgNVHREEajBoggptYXJzb2xkLmNsghFjcGFuZWwubWFy
+c29sZC5jbIIPbWFpbC5tYXJzb2xkLmNsghJ3ZWJkaXNrLm1hcnNvbGQuY2yCEndl
+Ym1haWwubWFyc29sZC5jbIIOd3d3Lm1hcnNvbGQuY2wwggECBgorBgEEAdZ5AgQC
+BIHzBIHwAO4AdQAHt1wb5X1o//Gwxh0jFce65ld8V5S3au68YToaadOiHAAAAW4V
+S/SZAAAEAwBGMEQCIBUNQqEA8AAuNburioIcDqwjkZXYvayZ/mC52rw0SKmsAiB6
+wdHllk51IJgncrqom9eEtBtZg1fGmDRBIACDqTZJugB1AF6nc/nfVsDntTZIfdBJ
+4DJ6kZoMhKESEoQYdZaBcUVYAAABbhVL9HwAAAQDAEYwRAIgaduH1yXbBR5mlYZ3
+SlwhBaTwrYE3K9OFKl5Ls5j/zVcCIHVRho+Udg1dfVWgji1DgC6kmVwkMxOUH7pS
+muqXzDezMA0GCSqGSIb3DQEBCwUAA4IBAQA9yI2gX/stVmJfX0i/R8620aEwT0Uz
+ILdk34j2x0Gu1wk4bYeFhXq3hOaooGge1IFcKhPex2j7bt5p2mWj09RrH1tjcXrP
+cO3PG++PqSUZQ6FqcfbcjXmToyaG6i5xh5NABTbcPHaT7oaEDCq7KSp/362yy7fx
+1KJe7ErKMgcSWYN4RJEQ8tIzOD61H9HpJ/rXb9pEPUHwApZBSw89VQv6VoAig+me
+oG241kXgbEsjo5kDd0VmMGottqTpgJE5GpQKywj26HgBZlwdjtl97Y+gOmHdegpn
+Fo4HY85b3y8ftNNXGEb/jymBFas7Sd41WlDC9dX40KFwYy0QHg7suUwc
+-----END CERTIFICATE-----
+subject=CN = marsold.cl
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5020 bytes and written 448 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 2EC3C4EEB10B0F0AA5F18656691993C790E23A7C55FDFE66ACAE86C8B10EFBEF
+    Session-ID-ctx: 
+    Master-Key: E2A09BFF531F5557D0505EA06D9625F7A09127B56CFB9CA458C5C65F57AE7129B1AB45967117B9C887558FC67D27AEE1
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1575986431
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

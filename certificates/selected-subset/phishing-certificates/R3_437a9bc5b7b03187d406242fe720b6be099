@@ -1,0 +1,93 @@
+http://quanesiamccoy.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.quanesiamccoy.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPzCCBCegAwIBAgISBDepvFt7Axh9QGJC/nILa+CZMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjEyMzAxNDdaFw0yMjA0MjEyMzAxNDZaMB4xHDAaBgNVBAMM
+EyoucXVhbmVzaWFtY2NveS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCu5mR0BRw/ruGnFeHuaRobc8XatK6LDlsdoL+vI5M2rDSn6F7xEWkIZQTD
+JYysf9Tqkdimy6cQxf85drNmNgfeh2kx6z4y+5t4AWl04m/Yd6uj7SwCLFd9Kd0Z
+xZT2HntzSjj1ByUPo3tJwyWbSvCS34gev+OJwb82fZJU2YJmNQZueroHmYy0IlZ/
+ANYNVbsk3jVkx6WbML+eN7aMRta9yF6qsg5178VVPIMJQz6DwnOHQm9PqZ4riinu
+gIx2mn5V80Y2ixrIy8FKl9+iSekt4MR9dp9QqPEzvEEBKyd+HgPaH8UC3e3/14yg
+TUZRrc7U9qi8jVMTQq/Tjo5MIx/VAgMBAAGjggJhMIICXTAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFLMV4oUZ7AFlgY1iNzQRdA2YOKEWMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMDEGA1UdEQQqMCiCEyoucXVhbmVzaWFtY2NveS5jb22CEXF1YW5lc2lh
+bWNjb3kuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgw
+JgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYB
+BAHWeQIEAgSB9QSB8gDwAHUAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKW
+BvYAAAF+fxbKugAABAMARjBEAiBxi/19EZ8u+DnDjTyOYaMw1iZS8l+gCp9BHtEr
+mFVR3QIgb+NQfWM884lQ17IXHm3xRayFuSCAyrDNnATT8Cr1E7QAdwApeb7wnjk5
+IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAX5/FsqgAAAEAwBIMEYCIQDSB2jR
+gI9k+glNrx8Q4wqkDpkr9aUvVWtWVVg/O8cCdAIhAPJjHTQj5OC8hFfLZ13ylzHs
+nwODYCNYW+RAj+ul0HhGMA0GCSqGSIb3DQEBCwUAA4IBAQAdd+UpPwv2rxHvJvwK
+6l42Ol2MD/xU0ByY7jzj+e9tYyMOkEcolqvCx8ZcZqOikA2GMlqmB7wrCinxFdgI
+81NZGni7E6z1L4OqrcMeGh7aNbroUJtUybXKF/6Y+RNnRG/zVlBiJGMyI6hYX3ic
+9DSGgK1gEEMj85tSBNY8RIm9PNt3DO/36LwH4KWAtxD8EpNGWgBY111ilVx3aVf8
+hPy0fvYGOm6Uxr8HBJRD4j7PirbRtgq/AitoQbcFNLLdnGu1PFcXrqyQtRycSiqT
+IZ/4Qjc9cA/RD2lEOQTukhTeHG8SoZHcQSWL+O9qwroOnR4tAtOxM1mLiD53bcSW
+wBEA
+-----END CERTIFICATE-----
+subject=CN = *.quanesiamccoy.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4716 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 796BFAF806CE7FA7E53855B24ACB8D7FD02B10285E46E345B3CC9EB00542D7A2
+    Session-ID-ctx: 
+    Master-Key: 3C453A11FA57D08C42049F65DE69F4BBF081A4A3697322FB8DDBEADDEC402351E6C9AEC2C996AD1F26D494567C8D7A55
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e0 95 86 3e 16 15 00 9a-7c 74 85 20 de 00 58 51   ...>....|t. ..XQ
+    0010 - a1 2b 88 73 9f 48 88 61-2e d6 68 1e 4e ca 5f 0d   .+.s.H.a..h.N._.
+    0020 - a5 f2 8b 5f 81 64 12 ba-96 18 04 00 17 14 7f 34   ..._.d.........4
+    0030 - c9 61 df 15 b1 69 36 b7-bc 4e 42 a9 1a 99 ef d9   .a...i6..NB.....
+    0040 - 2b 3d 9f b1 5d 76 bf 1a-ba 45 f4 fb f5 97 c1 3f   +=..]v...E.....?
+    0050 - f9 2f 3e 14 f2 3d d6 4f-aa b2 db 8f 5e 2a 67 6b   ./>..=.O....^*gk
+    0060 - 00 71 48 05 b8 59 1f 29-ef a0 66 1b a7 ff 9d 8c   .qH..Y.)..f.....
+    0070 - bc 36 18 50 77 e5 a9 52-df f6 7d 60 8d 09 41 39   .6.Pw..R..}`..A9
+    0080 - 08 c7 8a 67 a0 19 00 62-26 37 89 5d 4a cc bb 80   ...g...b&7.]J...
+    0090 - bf 68 37 91 2e 84 df b1-57 ff 4c d9 1d 48 e8 b3   .h7.....W.L..H..
+    00a0 - 1c 35 03 13 f1 7d 2d 43-f1 49 ba 82 3a 7d 6f 17   .5...}-C.I..:}o.
+    00b0 - a8 2d c5 22 f4 28 c3 52-11 a5 0c 8b 47 57 ee 7e   .-.".(.R....GW.~
+    00c0 - 20 7c 2d 98 50 ff fc 18-3f 50 59 ec 8d 66 01 04    |-.P...?PY..f..
+
+    Start Time: 1642854976
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

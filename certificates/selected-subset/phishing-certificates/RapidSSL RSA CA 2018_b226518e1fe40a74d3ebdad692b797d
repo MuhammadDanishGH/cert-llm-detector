@@ -1,0 +1,78 @@
+https://sparkasseninfo.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.sparkasseninfo.com
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = RapidSSL RSA CA 2018
+ 1 s:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = RapidSSL RSA CA 2018
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFzTCCBLWgAwIBAgIQCyJlGOH+QKdNPr2taSt5fTANBgkqhkiG9w0BAQsFADBe
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRSYXBpZFNTTCBSU0EgQ0EgMjAxODAe
+Fw0xOTAyMTMwMDAwMDBaFw0yMDAyMTMxMjAwMDBaMCExHzAdBgNVBAMTFnd3dy5z
+cGFya2Fzc2VuaW5mby5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCnurMO0UGTn0nCvjBHs8cYcJCYzE799+yPsEzzOEpMTmbc7faD/x/ETrO81RE9
+75w6MriH4cvk5W9Jm//uFzDMbazE1h41vvtXVBPjpemrGA4wk6BRdMtrVjkaIwxt
+h1m/OYedejWYTghYCZWKH+St3nLhhSYu5i+c04rBwUY9cgfx1mp+/RF+O76VV5T0
+4Z4ohf1Xp4EQlb+akd2U1ejkN76Mhb0nnAjv34pE4HMjDEUcjsdWUIZqCsxyzHZX
+l+pNlP0FMrW0BhQIs1iMIuE5d0GmmnJwYO6RgeMkKAnI5lDPOZ9DnqNbWPiu1FE6
+InagHBQO2hMTuV/efYMx8tL9AgMBAAGjggLCMIICvjAfBgNVHSMEGDAWgBRTyhdZ
+/GvAAyEvGq7kqqgcglbadTAdBgNVHQ4EFgQUJvnqQGZIqgSdLf5tDPZazkLE+cgw
+NQYDVR0RBC4wLIIWd3d3LnNwYXJrYXNzZW5pbmZvLmNvbYISc3Bhcmthc3Nlbmlu
+Zm8uY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2NkcC5yYXBpZHNzbC5jb20v
+UmFwaWRTU0xSU0FDQTIwMTguY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAECMCow
+KAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EM
+AQIBMHUGCCsGAQUFBwEBBGkwZzAmBggrBgEFBQcwAYYaaHR0cDovL3N0YXR1cy5y
+YXBpZHNzbC5jb20wPQYIKwYBBQUHMAKGMWh0dHA6Ly9jYWNlcnRzLnJhcGlkc3Ns
+LmNvbS9SYXBpZFNTTFJTQUNBMjAxOC5jcnQwCQYDVR0TBAIwADCCAQQGCisGAQQB
+1nkCBAIEgfUEgfIA8AB2AKS5CZC0GFgUh7sTosxncAo8NZgE+RvfuON3zQ7IDdwQ
+AAABaOjkXMoAAAQDAEcwRQIgPXVm48S/ZVr5bwxyvJh5Z57JRn3M6606wX5ykWK1
+2hYCIQCRxYIkqGskFNKdaGZVdtM1Xk2b/O6vDo/qN/FSl07MAgB2AId1v+dZfPiM
+Q5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMPAAABaOjkXacAAAQDAEcwRQIgN49igYMs
+2HebQk1IY8DZjn8pX8I8NkA/tL3JM+d+WP8CIQDhaCiz6Y9p/nTkVKEb/s0ZAifE
+iGYbTbPPfSoqA1f9ZDANBgkqhkiG9w0BAQsFAAOCAQEAaaL/PXmo51OJl5GPz8s8
+8zakLVNlekCgghxKsQBNNR/yKPbN7JnparvXr1vMJABfJWXkhT7/rOjwYHuQAG3j
+5V+m1wuWkLFbGNUIqEo/RP5RGSAC1j92CnFz/fMeUO39w3mcpq+eFbr/SSG9nG1E
+yfBvFePun9xBrCjjcp2s+7iGLxKF7Me3X1T+aFl8CRcOWbAsphySgontiZMs2327
+OiOBQwwhA7UVx38Nh5ftu2kKOxWPNqP5u2B3M9LuV6GAxFb9Wq1DHPsdNMd3ZuIc
+JPXIRznDOkWJC8JDTpVa0oAy/2tdRz0vnQqLupDEPuUj2Ht/h1TwkM5Betx46Nbi
+aA==
+-----END CERTIFICATE-----
+subject=CN = www.sparkasseninfo.com
+
+issuer=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = RapidSSL RSA CA 2018
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3208 bytes and written 456 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 12E5E694DD6189BC25A3C944D5B49B510589AC21B9F84508D6EB772BB339B613
+    Session-ID-ctx: 
+    Master-Key: A04C4BDEC60D239DA91F5C0A15C747468A2315F8289AF1AAFE03E95AF4A350E1A0CFBB5BDE67D69511282A7373D987BB
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1550412014
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

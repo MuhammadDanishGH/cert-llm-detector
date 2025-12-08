@@ -1,0 +1,66 @@
+http://dry-bush-fcef.document-dropb0x.workers.dev/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.document-dropb0x.workers.dev
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYDCCBEigAwIBAgISA1V5HjyW4x4AXBuWlgaHX0GkMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDIwOTM0MjZaFw0yMjAxMzEwOTM0MjVaMCkxJzAlBgNVBAMM
+HiouZG9jdW1lbnQtZHJvcGIweC53b3JrZXJzLmRldjCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAIciLwPxmQAM5yGm6jTYK9w5HYhVK/BKydnmHMCgeM3a
+V5HEx19e2CROjEZfYMUz3DqI5KV3yuIHpDkLlIPU4kV2KwarDWYY0pAxEy1X7p33
+HNJ+Awhd1tXDxoBQ8lEkORm0YcrakqL1zNmw7wjsVAWNdOt4pTXx++UK05WBaHGb
+TODekk5s1Mv8aFm/vi4nsBjJLSu6mSCkqAeL0IuDgs/lHwkPE7snWopeqtyaDdkg
+vRpsN9Bj7TDqlnogWrYWG6bT2gvSukVmrraLa4Y2iog6u3KtLNduBe2x7zH8XVv0
+Dn1QKTLSwoL6INrGTRuHcvKDS3P8tmlbhRp0orq4ywUCAwEAAaOCAncwggJzMA4G
+A1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYD
+VR0TAQH/BAIwADAdBgNVHQ4EFgQUmeUP9HkUh3UlKII4PG0brDLB3LUwHwYDVR0j
+BBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsG
+AQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6
+Ly9yMy5pLmxlbmNyLm9yZy8wRwYDVR0RBEAwPoIeKi5kb2N1bWVudC1kcm9wYjB4
+LndvcmtlcnMuZGV2ghxkb2N1bWVudC1kcm9wYjB4LndvcmtlcnMuZGV2MEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDw
+AHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF84Dbl2QAABAMA
+RzBFAiEAp0SLGiAu940FuLv1DOo3rMBDuRbNOK63s/wSRcYbS+YCIF9AHmBmW7H8
+t2e/Iu1st6NxymAWWiMoham803jeXqR7AHYAKXm+8J45OSHwVnOfY6V35b5XfZxg
+Cvj5TV0mXCVdx4QAAAF84DblxAAABAMARzBFAiEA6BBGKF7a5H8XMXXG/zxLBaJU
+rXONnhwniYXecJ+InoUCID9YhoOYQ4cCRCUQEy5d9QePlJLyKHNyTrs1kKrrgtQm
+MA0GCSqGSIb3DQEBCwUAA4IBAQBaTjM1zjul9iyXmgLN1DADmxfysuPEcKh8R2z/
+EGzjHBeouWbQsc13H18m7K8iaIwCjXoGxnIs9N8f9Bd+H6Ymz2qAT1kRV+mVApjg
+kn8iWhIx8ebHgHwP+lIN8uWZcYRH0Q27Vyt3U/dFxpvST0xATI31celsIvM3lp1i
+Gn8cyrOw15+w3KgBfQtL1YISzWBxzFGi431CLMJW+kHwEVIiCv9GzjHd99QpjyWi
+lRwGFU8+217jpSQDIBP9R0sgyKSxxq1VhAWJmKZvyV1R0dcol99m8SXR0ABhSKsM
+OERAZi6RQiewF0rfLHyz6/KNf8F7sDOOaYTLc8rUrETeRm/i
+-----END CERTIFICATE-----
+subject=CN = *.document-dropb0x.workers.dev
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4570 bytes and written 416 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

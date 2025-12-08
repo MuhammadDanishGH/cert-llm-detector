@@ -1,0 +1,81 @@
+https://itunes-connect.com/fmi/mobile.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = itunes-connect.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGDTCCBPWgAwIBAgIQZ9cI3amppDwzN86QMYgDezANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTE5MTIxMjAwMDAwMFoXDTIwMDMxMTIzNTk1
+OVowHTEbMBkGA1UEAxMSaXR1bmVzLWNvbm5lY3QuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAnfLLzxXN4XYJxt74FPPiLntRJECvZnfRBA/HpifY
+0tfU14I/JNBHT3bl2ruC7ZgqZdhtMh9sOTKBcZvtJYYPueBnI0wuqxBrXXqBinFf
+BQwdbfJOg4NPigFwzlWCcKbCwqezwr0xRujQJ3XaEYFSPv2CKV5931EXXx9zi8tr
+WpWhg4YQ9dt6aIHjGvKoqfk+b0/zm9fSWp10iKH7h9DcX3KxaRhHxAdCdkqtbVTy
+Cn4uwlyY4PfnaYNO5I16dkcBRSVDTS+KiBD/DBc1vsTmYqvxhKH/SGcmaMRIQxJG
+4fWqEMJUKnNSKaKisdImCDV+Z/jbv0zLWnTAfRXpvDsb/QIDAQABo4IC8jCCAu4w
+HwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFAxI8BJq
+h/Z0JewPYaX9NbMdqyq/MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQB
+sjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgG
+BmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNv
+bS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcB
+AQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5l
+bEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRw
+Oi8vb2NzcC5jb21vZG9jYS5jb20wTgYDVR0RBEcwRYISaXR1bmVzLWNvbm5lY3Qu
+Y29tghdtYWlsLml0dW5lcy1jb25uZWN0LmNvbYIWd3d3Lml0dW5lcy1jb25uZWN0
+LmNvbTCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AAe3XBvlfWj/8bDGHSMVx7rm
+V3xXlLdq7rxhOhpp06IcAAABbvfE2PAAAAQDAEgwRgIhAPp0QX8wHwtbkW00uLta
+grsQ2aqwouPrFCS4YGN51CyOAiEA0uQhFQtVdQBxcMfE5OVrMyvIW+a2aLm98RhQ
+3yzlDX8AdgBep3P531bA57U2SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAW73xNjg
+AAAEAwBHMEUCIQDNQtp5rILxTbCQte4qQ7QEdZc5pqeH6xyZ8IIs6HFK9gIgSPXy
+Lcr5E+WKypggaOBvIgqcgGpc45FAtqA6aYuCsIcwDQYJKoZIhvcNAQELBQADggEB
+AIB1Sh5onztNQvrV8xFiIhQ94YrxYrRqUgKYK5A0WvU8Em4apIP+t+0K7qdyGUd8
+c/WnfCgHU5FrJYFGt2GBtNiZ98bKSX3XtWvr7DN7MAgjPze0BTHrnK91YrsVREli
+e0PRUGIBxtg4DLXt1waxu9Eej2NOZog958My2quLpYCgklVbxskHpb/pTYTe28FZ
+5xe6h8khVt6xGmwfuhTLZhnkXTdyA4XlLoliOXqEEnisBZbo9U4GAOBHlQeYpBt4
+2ORmCSjj14DDLjeFp93WnCNX8sWGq5C2jmImbBBZnb5GqSGUIFGgVsy6+P1l799P
+fn38t16UqthpO9PjmST/3fw=
+-----END CERTIFICATE-----
+subject=CN = itunes-connect.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4995 bytes and written 456 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 8258D0A97AC54D1250A7D48D59356DCE9918B30EBD22451639A95A04E61D9A9F
+    Session-ID-ctx: 
+    Master-Key: C4C7576135C837B543BA25465D739045E612941089B72D5EE702D65A16D5DCA780ECF7618F3BC73A0BE0F42D256B0EA3
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1576418432
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

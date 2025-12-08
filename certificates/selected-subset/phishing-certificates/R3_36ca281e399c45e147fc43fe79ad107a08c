@@ -1,0 +1,63 @@
+http://martensnew.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = martensnew.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFODCCBCCgAwIBAgISA2yigeOZxF4Uf8Q/55rRB6CMMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MjAxNTIyMzhaFw0yMTEwMTgxNTIyMzZaMBkxFzAVBgNVBAMT
+Dm1hcnRlbnNuZXcuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+0WJ3OGEewCG/HOvcyl48rxXw/ks4zQEQ17FICxLBwlgLvdW1L2X47AhbZ5oyWep8
+gervE5k5B9qzX/+XQ1X4TPt1nRlriNuHePCUfGidfJFl75+iW8JXS1ZWAwQIA00N
+U/1djvv3JhvfiLrfGLtPgTb2JZZlyzF9noaEdaTDFlnqseS9ZtdKmJEr7Q1jFCGo
+kfGDSxEBlenOiE1y7SXGWKv/vDi5cNvRWVkdQ9W8OhZX6sz/CvIWhitg7ZOGI5ID
+7ttzq9taXiGtHPi3RAsffC1yZ45efIYEnDKWXhrY0vceZCXcTAFGHmIKFh3mBBq4
+XnJlokkgYu0dvHL+NbkMeQIDAQABo4ICXzCCAlswDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBTcUhhcmnKNfn+5GP1u68QL/kqUwzAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzAtBgNVHREEJjAkgg5tYXJ0ZW5zbmV3LmNvbYISd3d3Lm1hcnRlbnNuZXcuY29t
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBgYKKwYBBAHWeQIEAgSB
+9wSB9ADyAHcAXNxDkv7mq0VEsV6a1FbmEDf71fpH3KFzlLJe5vbHDsoAAAF6xLny
+4AAABAMASDBGAiEAnyNesqheo9A7c9QTvRsSy29a1wHOEVEZGUCD/7df1RECIQD0
+ItlP//FajtHlb4mCc++D2ECZanByO+9VkyMcV296GwB3AH0+8viP/4hVaCTCwMqe
+Uol5K8UOeAl/LmqXaJl+IvDXAAABesS58xIAAAQDAEgwRgIhAKF0Qo5lKfqn7WSP
+dVg76RF5E5Hq8Q38eUh5q52QX6ZVAiEA4z1wTqsENaBgXlOCw5EKID0jZoyQOmfY
+YQHqBMUg2eswDQYJKoZIhvcNAQELBQADggEBAJ4Kbm7bkxHap7jXnaAfionizMil
+HwmrwBAsoagQuZcd0Afs6FHgDBsHv1ApYge60v/kBr5mtV9g57g3oD0W0ALacO5i
+nmflMMg7qPQ6kVw9dAWQp9jaBQzelccFo32t6ILXgQTkWV34vgAOQIVltrVtg3Us
++UMvl8QZ/drn4FgCi+SexZSo76ZNlXfApmvdceyE95Fg853DTMZWly8st0N4N0XQ
+7GF/oAYrrQbZHUPWWH2G4MsugGTyj0x14eitKqou46iIvEoFE1SQ1iRyA7F51wcN
+wOof038TTrM82jdfBa8FswWDlBBhARJB5VInDLf+PzXK3UV3Lc0cvb0K+sY=
+-----END CERTIFICATE-----
+subject=CN = martensnew.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3211 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

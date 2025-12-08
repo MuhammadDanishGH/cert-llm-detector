@@ -1,0 +1,76 @@
+https://notifications-rules-breachs.com/help/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = notifications-rules-breachs.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFlDCCBHygAwIBAgISBKf085VJjyvETZxFFq+VdO+EMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTkxOTUxMjZaFw0yMjA1MjAxOTUxMjVaMCoxKDAmBgNVBAMT
+H25vdGlmaWNhdGlvbnMtcnVsZXMtYnJlYWNocy5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDQH066YdrJwkoFrhr1GvZUBMEN2bIBYKjjas0KAzXo
+mRduLX7GFPDBdrsQpL0Y7BPuA3C3w01342G5csoiDhGkwfcPGm5/AZo+XOta7wrO
+9eewPF+eRWhUz/nBHRYIaa6jPOa1B9eZ2B+yUvlaUBVJ2cXIyUr3bxTx1HuSCBj8
+eu/Csrp9XdPqs40jAcTidIpVVljnxsnsTwd/nKoAxQ92yU19Gv5+wXvSp9/P8FRp
+HM0wmwgHJozdOf+WW1Tzqex3wx5wXoGAurjdUGdYvvLHuxJCK3ou3/fPEKMszwai
+gMf4y2UKEUUAkpafJAQ2OtN0R+Me1kUvFW2g2wdogybLAgMBAAGjggKqMIICpjAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwG
+A1UdEwEB/wQCMAAwHQYDVR0OBBYEFAAH/xMZFFN7m9L6MNnUApLXsNI7MB8GA1Ud
+IwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggr
+BgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRw
+Oi8vcjMuaS5sZW5jci5vcmcvMHgGA1UdEQRxMG+CH25vdGlmaWNhdGlvbnMtcnVs
+ZXMtYnJlYWNocy5jb22CJ3dlYm1haWwubm90aWZpY2F0aW9ucy1ydWxlcy1icmVh
+Y2hzLmNvbYIjd3d3Lm5vdGlmaWNhdGlvbnMtcnVsZXMtYnJlYWNocy5jb20wTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEGBgorBgEEAdZ5AgQCBIH3BIH0
+APIAdwApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAX8TwPPcAAAE
+AwBIMEYCIQDLAHHFG/j2iU0ezwP8dwMe1RJhxEViir+eNevhFR0lSgIhAKNTroSt
++YcwUeH6aZizuaI6JoIxzusoOqnAk9shS09xAHcAb1N2rDHwMRnYmQCkURX/dxUc
+EdkCwQApBo2yCJo32RMAAAF/E8D05AAABAMASDBGAiEAjCdSj3ui0tWHtWJUBYYQ
+TSbxmmr487hr7mTa0m3kgJ0CIQD94nsNoTnompkHXGuDSDWIqsa1Lce7IVcU/IL1
+HQOQkDANBgkqhkiG9w0BAQsFAAOCAQEAuRu6HjUjPSplMB+MAIQWEHM3PZ3pAanP
+wmLGOIlH4+YmQMZndCodFwVj93mecLEf0DUq+Ab/gmKM/6sE0ZSnHEVYWsSq0APm
+K+mLZosRkYzzOIjKksfmXGEMSWCYnQW4fq7ME6NiEC1WelQdD6PC9TrICSFKe7Md
+PQ2xE7G1PiMuftKpyZOib3pdvWvZG24q9Z7WcpVOjWq8A0ZWlyn8LBH3CHMWW707
+2VZ3CDFlqtDe1I51WT+tcFmWKaboCTgp0R0Ip7FSsale3UncgQPE3jaOpxhf8VCJ
+xyqytC0DQYQfv/eqJklpsXnKg6DcVOpGLpx4P2IDv02dfxTFILkNFQ==
+-----END CERTIFICATE-----
+subject=CN = notifications-rules-breachs.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3200 bytes and written 418 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 48480000A6A15CA8286859542D7C1188F0815B8D4C53CCD4A705DA2F04E962DD
+    Session-ID-ctx: 
+    Master-Key: B78809E6B137A3859D3267F624754EC1317716203C1802EC4618E7908CDC1D6ECC840076905B2FC995E4F11FC2A3C7ED
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1645310710
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

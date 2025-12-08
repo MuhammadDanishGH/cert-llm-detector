@@ -1,0 +1,96 @@
+http://datiainfo.com/wordpress/wp-content/plugins/OneDrive/Document/Secure/Access/office365/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = datiainfo.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGPzCCBSegAwIBAgISA6PM72N7TSq1mjLsc2Ko0UI6MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MDIwMDE5MDJaFw0x
+OTA5MzAwMDE5MDJaMBgxFjAUBgNVBAMTDWRhdGlhaW5mby5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDIBxf4s8PTtKevQgO6YW7AvpfAzXTV6c9X
+15QXlL294zjyndxddm9gXz6ddIkZgTcv/QQaGbUsJaGfG6D7RLZ9MO/zKPISaFC7
+5bU0LeQ0r6WkGxBCKGbGY/YfEQ541D5ptjSwhWUyKLE8jKBUnibeLWJD+fSPjVWj
+9uMRg6N44kplSRc1DUFRqwafY/YZljp68+dzafTeU5KNLmfTSsL7e1grOV78BEuK
+53++017TKqHJnBV5FvqHaxSvSwAtpDPyeTMMI1UNksnn76EcN/8zavhIdZJyWWgn
+zLtYO5/BjkjhQ575ITDleV6IAuslk0LWjSp8eibkOHc09QBTWjHpAgMBAAGjggNP
+MIIDSzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFLMsIYizaoyGqXWglRVh6eQC/0E9
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wggEDBgNVHREEgfswgfiCFGNwYW5lbC5kYXRpYWluZm8uY29tgg1kYXRpYWlu
+Zm8uY29tgiVkYXRpYWluZm8uY29tLmNwLWluLTEyLndlYmhvc3Rib3gubmV0ghJt
+YWlsLmRhdGlhaW5mby5jb22CKm1haWwuZGF0aWFpbmZvLmNvbS5jcC1pbi0xMi53
+ZWJob3N0Ym94Lm5ldIIVd2ViZGlzay5kYXRpYWluZm8uY29tghV3ZWJtYWlsLmRh
+dGlhaW5mby5jb22CEXd3dy5kYXRpYWluZm8uY29tgil3d3cuZGF0aWFpbmZvLmNv
+bS5jcC1pbi0xMi53ZWJob3N0Ym94Lm5ldDBMBgNVHSAERTBDMAgGBmeBDAECATA3
+BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNy
+eXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AHR+2oMxrTMQkSGcziVP
+QnDCv/1eQiAIxjc1eeYQe8xWAAABa7BDgvIAAAQDAEcwRQIhAMEAn/3vJZcDkpsq
+KaK1Zq14yXt/NCa1cS3tpsq14LROAiBoZ9oTgg8jqfNfZiMBwojn741U/FpNIIaj
+7rTH9zU+1wB2AGPy283oO8wszwtyhCdXazOkjWF3j711pjixx2hUS9iNAAABa7BD
+gw4AAAQDAEcwRQIgNmJxeqneGq8bvfKDzkXPrSkIK2M8QLZAveuUGUsHLv8CIQD+
+jRdBg2pvFKdqN5Cx6f4AqkiRosnud6wGg8T2/8p1OzANBgkqhkiG9w0BAQsFAAOC
+AQEATqRnZDVid5qrhs0PQUkSKHPfzOStqqRK/9wuQPec4cuwiwpmxc3eVIjM/p0J
+CofkrxRgqT/SHFRPdx81LI/nbMkc2BVbQBFqbi78thgAA4m5rjXd/mpy7ffCi9AF
+H7d5rhZRJqzaP1Y187i6v5kksedVvCF3XNH3FUjB0H1awdOYjnGnke7tgRwCP9tc
+pD5hvjvnFi27ZllqN2A15RxOXDTJ4ilk5G6op7TU/ztpAKcqQgsaGP8NpioKHg3E
+uS+rV3+QGkTKepr1OmUut/VF+IeupLMeCl9CUVXuOFW0aWD6g2rpi73ZqZwPfbeE
+7asg03Zdfo+/QrzQIFj+xzPc+g==
+-----END CERTIFICATE-----
+subject=CN = datiainfo.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3486 bytes and written 451 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: A909BD5F504941E43EB584C6A6779AB679FD14E21C57AFF9A0F5D8CEAB5AC131
+    Session-ID-ctx: 
+    Master-Key: EEE2F2775F6235C59A39AAE0762209A841AF36CF7C8152EFF39ACDE66113EE82B2AF2C5AEB7E0A26386A1D79AEA95404
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - fb a4 9e 88 5c c6 3b dd-6e 42 03 6d 79 d2 0a 42   ....\.;.nB.my..B
+    0010 - 70 b8 48 75 48 b6 6f 97-b4 f8 ec 85 02 16 42 0d   p.HuH.o.......B.
+    0020 - 21 b4 39 a7 d4 53 3c 25-a6 71 a2 57 b7 71 4e a6   !.9..S<%.q.W.qN.
+    0030 - a1 01 04 17 29 68 42 2e-96 2d 22 aa 8a d8 75 8a   ....)hB..-"...u.
+    0040 - ad 02 b4 7a fb ea d3 e0-d1 d5 eb 60 eb c8 e1 0b   ...z.......`....
+    0050 - b4 08 6f 96 00 e5 6e 7a-1d 46 3b 03 a5 a9 b6 b7   ..o...nz.F;.....
+    0060 - c9 a3 ff 62 c8 2d 8f 89-43 ac c2 aa ed 79 42 5e   ...b.-..C....yB^
+    0070 - 62 96 09 d2 c7 cd 0d 6e-a4 f9 00 58 6a 0d f2 2f   b......n...Xj../
+    0080 - c7 13 a2 ae 8d ed 50 12-ca 68 fe 7d 39 16 ca 85   ......P..h.}9...
+    0090 - 75 fe 67 dd 50 30 2d 53-5b 73 6f c7 47 55 5e 73   u.g.P0-S[so.GU^s
+    00a0 - b6 c3 24 69 dc e4 38 6b-4d 5b 12 67 70 10 3e d6   ..$i..8kM[.gp.>.
+    00b0 - 5e 3a 1c 41 b5 cb 8a b3-87 25 bc 76 ca d7 e5 47   ^:.A.....%.v...G
+    00c0 - 11 9d ad 58 32 61 fc 6e-9e 38 63 9e 51 3f 57 99   ...X2a.n.8c.Q?W.
+
+    Start Time: 1563714032
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

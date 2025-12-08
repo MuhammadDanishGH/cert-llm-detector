@@ -1,0 +1,66 @@
+https://proprog.xyz/admin_page/retiovcx-excel2-2021_webpage/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.sc.proprog.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXjCCBEagAwIBAgISA5p9YepJUHkzqJcBdjyR5eiPMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTUxMjU5MTlaFw0yMTEwMTMxMjU5MThaMB0xGzAZBgNVBAMT
+End3dy5zYy5wcm9wcm9nLnh5ejCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAL4lEV2iJ2zeE7eqmS8/G6QK6CrVmIwHlv7YjtCfTBt+w/FBSwlilwqDF8b5
+hVLTa0E8MIuY/dTntGtJd2wY2a63EdzTQ16iA5/a5FotBqFdnbgqkkc1GhSBkE60
+uGDGKt4r0Rk6yZvNKun9GuRo/dTmueqw2O8vVTmmd/aNMimxiyFhafUucmPbVZpL
+mTSxNV9AgOvrA9Bj3lbSvBJr5aj0ycoKWKyPXPbFuVaaTagrq9T9NdE6b64TLOL5
+djYAtNBKKRdDvWZVd5qrjBENE2W1oEIjKActXF7fPBKYSDtD4TpDFyIu6Mt/nf+2
+fT+Ts1W+drcR7MwBMcghgkT2zycCAwEAAaOCAoEwggJ9MA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQU1m+88x+Oz9ACvrVEOrCB3DmzXcAwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wUQYDVR0RBEowSIINKi5wcm9wcm9nLnh5eoILcHJvcHJvZy54eXqCEnd3
+dy5zYy5wcm9wcm9nLnh5eoIWd3d3LnNjaG9vbC5wcm9wcm9nLnh5ejBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB1
+APZclC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTjAAABeqp28K0AAAQDAEYw
+RAIgTeFWCKP0ybvpGVMy3AkhfnY9rZv+PARsbVTJ4bDmnJYCIFIvcznZqG5kzrBB
+liBXsyk8qbyOE12U9oVwciQUFv5xAHcAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQAp
+Bo2yCJo32RMAAAF6qnbzOAAABAMASDBGAiEA79O+3UGgRgM9y6zMuNT6I/IJLHzw
+RQCR9FWpP2m6hfQCIQC2qbR0xqRT8mBWSKGLuG5Bwupmd3Y9W/zsdle6DRr0QjAN
+BgkqhkiG9w0BAQsFAAOCAQEAUIuAcd2CW+yCopF8MW6Yna138pqXCdiy7zHCf8Dc
+y0aRN+1NEaqviBF/nQrbSeSm5FYNMaHuifQElONcwwhfTqezP5yl9wv/VhHWdhWJ
+3b38A9YGchDor9+gSK9/YsTwwoS1d4zCq0tr8EPP3r0DEwJBFW+h8tj+b4N8117w
+oOtHkOwcDNZCU5BPLQgKHukWrfEFqR/QDw39WOIXcWx1NsL7U7E4zfsqWvK6uGzB
+Job9/jfQCXzCT+WIw0UbkPeH9Q+Dc10pglQTCtICNuSFrCrvjFX3JpriMCWwQUGc
+54LunqInzpj2+w0/OswgdVwYmUmxt7gjtKjOm5oPYH+6FA==
+-----END CERTIFICATE-----
+subject=CN = www.sc.proprog.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4634 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

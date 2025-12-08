@@ -1,0 +1,79 @@
+http://chat-watsap-ynd87proxxd573fren86cbg65inc.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = chat-watsap-ynd87proxxd573fren86cbg65inc.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIH1jCCBr6gAwIBAgIRAL88ZAe6Psawb7qOjCf0I9QwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA5MjYwMDAwMDBaFw0yMTEyMjUyMzU5
+NTlaMD8xPTA7BgNVBAMTNGNoYXQtd2F0c2FwLXluZDg3cHJveHhkNTczZnJlbjg2
+Y2JnNjVpbmMuZHVja2Rucy5vcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCyJxZGRMJ9eDqcSVTlbFLCXd4rtvWqspzBrWBpg+m7usse+Y+Jl1m4dj7y
+lj4eesv2EH5oFIiVxLleGNbOM0ptLRSL3iKo5OF/5SDMdTmM/Xfu+LkowUuemqoD
+AsX/rFx2dRXeEk2lLq3uPgeB3WF/IbzjQfaYBs1JCq96bu2/HMdZaKu65REiHOI0
+vQ+24O59bM1v9sJix0DQErsvLnRSglHO9Ibw8kyJ2bMaTRv7ScXcMwLPCDkJEQLO
+3JfpHqFixfBvda1lzZVfIzAQE4Y264E4+07uUwTEUXgiF+aKRwgaA5LKidO5E84i
+EL3W7euJP/baof5l1+UausNt5xFJAgMBAAGjggSYMIIElDAfBgNVHSMEGDAWgBR+
+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQURxseCRYyFY23aDn934YmDfBc
+UzgwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAjQwJTAjBggr
+BgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMEwGA1Ud
+HwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29tL2NQYW5lbEluY0Nl
+cnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEBBHEwbzBHBggrBgEF
+BQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNh
+dGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9k
+b2NhLmNvbTCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AH0+8viP/4hVaCTCwMqe
+Uol5K8UOeAl/LmqXaJl+IvDXAAABfCKNs98AAAQDAEcwRQIhAOYoNs0JH+qiXUn9
+JTdJWHLsiazdW/DaKkhfBieHr1kOAiBUdhL8y81qBdoqAlrctWz0UCKF0qrK0Ws4
+kLtjyRruDQB1AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABfCKN
+s5oAAAQDAEYwRAIgetl09xuOEtreTnh43jeYYtPm29li6+zCxEIlvHNpNv8CIGPh
+ALH4Wm1v7CTUR84j+oc1IQ4FhaGpzNDqu7qtttumMIIB9AYDVR0RBIIB6zCCAeeC
+NGNoYXQtd2F0c2FwLXluZDg3cHJveHhkNTczZnJlbjg2Y2JnNjVpbmMuZHVja2Ru
+cy5vcmeCO2NwYW5lbC5jaGF0LXdhdHNhcC15bmQ4N3Byb3h4ZDU3M2ZyZW44NmNi
+ZzY1aW5jLmR1Y2tkbnMub3JngkBjcGNhbGVuZGFycy5jaGF0LXdhdHNhcC15bmQ4
+N3Byb3h4ZDU3M2ZyZW44NmNiZzY1aW5jLmR1Y2tkbnMub3Jngj9jcGNvbnRhY3Rz
+LmNoYXQtd2F0c2FwLXluZDg3cHJveHhkNTczZnJlbjg2Y2JnNjVpbmMuZHVja2Ru
+cy5vcmeCOW1haWwuY2hhdC13YXRzYXAteW5kODdwcm94eGQ1NzNmcmVuODZjYmc2
+NWluYy5kdWNrZG5zLm9yZ4I8d2ViZGlzay5jaGF0LXdhdHNhcC15bmQ4N3Byb3h4
+ZDU3M2ZyZW44NmNiZzY1aW5jLmR1Y2tkbnMub3Jngjx3ZWJtYWlsLmNoYXQtd2F0
+c2FwLXluZDg3cHJveHhkNTczZnJlbjg2Y2JnNjVpbmMuZHVja2Rucy5vcmeCOHd3
+dy5jaGF0LXdhdHNhcC15bmQ4N3Byb3h4ZDU3M2ZyZW44NmNiZzY1aW5jLmR1Y2tk
+bnMub3JnMA0GCSqGSIb3DQEBCwUAA4IBAQAhOC0xb9rJng1WtbPr+RgsQv/SDxfZ
+xzqo/MgpTeU63RxkrYNWdLGePrHfnYpd3+VXRJEaaRIVCRtKLNAy8T+/3otf946G
+rEkiOrAn/w5VTIH7UBauLTu7DiKPyJsZbuPyV8Ay17RItXzqZCpDDJy6Bu4Miqk0
+SK29J4sU27g8bmvuGf1onBm046eCJL2k2O9Hvb8ZEpM0Es4eolXO+lp4dm8sf/sa
+1rZE+hXabsOst5/AxZiB0DoRTjyoBb6ielcE4KpGIXtglrV4OScYqE5drtuVZzGP
+cU95K+SH5iofeXGnfaMfJHCTOCyGQKVCTM32KvZTbQ9E4Iy+wZI9/fQL
+-----END CERTIFICATE-----
+subject=CN = chat-watsap-ynd87proxxd573fren86cbg65inc.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5445 bytes and written 426 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

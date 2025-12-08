@@ -1,0 +1,76 @@
+https://younitedhearts.org/user1/linkedin/linknewin/LINKEDIN/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.sweetappsolutions.saltybod.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHkDCCBnigAwIBAgISA7D3eG4Bkx+SNq5lodNwi0IxMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMjgwMjU5MzFaFw0yMjAxMjYwMjU5MzBaMC0xKzApBgNVBAMT
+Ind3dy5zd2VldGFwcHNvbHV0aW9ucy5zYWx0eWJvZC5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDM3UBliZugDMTDahCTyADM1KYngM7CRweR52LP
+1Yse/Wo+s+R4nEwQr62dQjQ63ww08ZfVzRs+yuzy4pwP/8/1vWPGa46QQp8xen1k
+QL3cHMSKRb5ei8WQo0gFdlhvgafcjJnRqnGwGPFEY51OWmTMpyrZTRwQX31nwTpK
+rWgRM9vsrTkmnymdsgU4weCzqNReaKYWgTKkCJe+OQ670aAv7m6s8exoCxET/312
+ztyLE50Cqe2fHxIr57JTJINmULDOgQt8munH3IzitWLOEUHYKr4XvDjtmEp1OzOr
+nA9ZhI5WRVfQtQvQHsPFEy0u9nAtc/xKvcfRn3JsjzGvkgArAgMBAAGjggSjMIIE
+nzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFHaq37OVDPr7IOu6LbZieI75UKG8MB8G
+A1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAh
+BggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZo
+dHRwOi8vcjMuaS5sZW5jci5vcmcvMIICcQYDVR0RBIICaDCCAmSCEiouY29tLnNh
+bHR5Ym9kLmNvbYIUKi5mZWxpY2lha2lsbGlhbi5jb22CFyoubGl0dGxlbW9tbXl0
+aGluZ3MuY29tgg4qLnNhbHR5Ym9kLmNvbYIUKi55b3VuaXRlZGhlYXJ0cy5vcmeC
+EmZlbGljaWFraWxsaWFuLmNvbYIVbGl0dGxlbW9tbXl0aGluZ3MuY29tghx3d3cu
+YnVja2R1Zy5jb20uc2FsdHlib2QuY29tghh3d3cuYnVnZHVjay5zYWx0eWJvZC5j
+b22CHnd3dy5jYXJyeW15ZGlnaXRzLnNhbHR5Ym9kLmNvbYIgd3d3LmRlbmFzZ2Fy
+ZGVuLmNvbS5zYWx0eWJvZC5jb22CGnd3dy5lbGllYW5kbWUuc2FsdHlib2QuY29t
+gh93d3cuZmVsaWNpYWtpbGxpYW4uc2FsdHlib2QuY29tgh13d3cuaGVscGNhbXBh
+aWduLnNhbHR5Ym9kLmNvbYIdd3d3Lmluc3BpcmVteWFzcy5zYWx0eWJvZC5jb22C
+Hnd3dy5qZWFuc2NhbXBhaWduLnNhbHR5Ym9kLmNvbYIid3d3LmxpdHRsZW1vbW15
+dGhpbmdzLnNhbHR5Ym9kLmNvbYIbd3d3Lm15Zml0d2F2ZXMuc2FsdHlib2QuY29t
+gh93d3cuc2FpbnR4Ym91dGlxdWUuc2FsdHlib2QuY29tgiJ3d3cuc3dlZXRhcHBz
+b2x1dGlvbnMuc2FsdHlib2QuY29tgh93d3cueW91bml0ZWRoZWFydHMuc2FsdHli
+b2QuY29tghJ5b3VuaXRlZGhlYXJ0cy5vcmcwTAYDVR0gBEUwQzAIBgZngQwBAgEw
+NwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5j
+cnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBvU3asMfAxGdiZAKRR
+Ff93FRwR2QLBACkGjbIImjfZEwAAAXzFDYx7AAAEAwBHMEUCIBc71kQtmoQ74eFQ
+8aBZxg+BOW1L5prZ0+PDhDsA7I2YAiEAr1pYWiu5rkwn8SkNoETHYaeehifyNwCR
+wZL7GAVhE0IAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXzF
+DYxeAAAEAwBHMEUCIDzVlQBiplrOySKIj1dkdVne/4x1gO/Z1yhlWjlReIrcAiEA
+vlpM+nbyJASm0l5br09SX6aMn0eTGA+y2Jy3AkM1oZ4wDQYJKoZIhvcNAQELBQAD
+ggEBACI3pylXzqoKNQ4BG1d5lLF9exawqLP/JZ5gHS4OlAsbgULSr04IVGuj1s3Q
+fX1X01/Bs6zUawBRJ1puNvyLkbK0v/7dgQ/uHFIcgwhc/iza/8ckQefYELttWJcy
+2j44iWWF5DjW6RxiRtQHhB+jrXCBN9ej3sKCFf62KHehNN4TtBP7YDbvn+bZc8kr
+tXEb5JW+iZi06i23q18egL1narRYZyK69H2XWxjPC4nELe/YJyRbln6ib8T9KefD
+HdUL0nkio/g1H73iVT4oFbhoyNCY9GF/h0X0xmK10ePVReENNolGZ4HgzoWTJkie
+pXzsQ/UZ9b/HuJ96ePO5gVU4QZU=
+-----END CERTIFICATE-----
+subject=CN = www.sweetappsolutions.saltybod.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3811 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

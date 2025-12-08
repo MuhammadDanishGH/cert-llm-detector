@@ -1,0 +1,66 @@
+http://examplefreeride.name.ng/jeffdavis@harpak-ulma.com/metransfer
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.examplefreeride.name.ng
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUTCCBDmgAwIBAgISBBxLyTOxRbMfStWLYE806DcVMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjIxNTE5MTZaFw0yMjAyMjAxNTE5MTVaMCQxIjAgBgNVBAMM
+GSouZXhhbXBsZWZyZWVyaWRlLm5hbWUubmcwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDc6PUcQ1j9FkysIIMezp9z+wU+k0aHfl5P9rijzuJKwFpoVy3o
+wky5XeXr+2WwPvF1NM9TLpx/rZK+LzWFgROrvuyrwSu0/hGxlAp7m11df52CB53k
+FVV5znKCXgOQsWWOxC/NY4mNWTduUYyiqC26tGN6+qNn//dCf+re7uyMcCMGAxmu
+OFB2dtBCH7nZswZXmJAmzzMOw/5GplAIXFdB61e2VWwtqZRDZnpH5JkUPk3qF1gs
+ZsrxScmGa3XQF/VVfu4po/jAPDSKsvbbR3Z8Uv/NljUTtziOGf0KTL3XdU7BIeCn
+ulql0mx+QADDrLGafWWmCM4AeN8ZWsslojt1AgMBAAGjggJtMIICaTAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFG7mODXZw3G++HZaTNVBZgVO4hQcMB8GA1UdIwQYMBaA
+FBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcw
+AYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMu
+aS5sZW5jci5vcmcvMD0GA1UdEQQ2MDSCGSouZXhhbXBsZWZyZWVyaWRlLm5hbWUu
+bmeCF2V4YW1wbGVmcmVlcmlkZS5uYW1lLm5nMEwGA1UdIARFMEMwCAYGZ4EMAQIB
+MDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2Vu
+Y3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYARqVV63X6kSAwtaKJ
+afTzfREsQXS+/Um4havy/HD+bUcAAAF9SHHIawAABAMARzBFAiAwi/WX1WA1A4Is
+MWKDCS6MTeo0oCxkDbD+6JgOEUn+xgIhAL0i1j+thE4hQB06sZL3xI9QT6/+pjyd
+4MgRfiRHPDiVAHYA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF9
+SHHMKQAABAMARzBFAiEAiy/WfCyQXrLjXMyzwukpbuqHPZSHncqfmf4kZroHzaAC
+IAwoeA6KCkijPTGd/tQGw/NVCrF3RdFFtHN5KRf1vPGNMA0GCSqGSIb3DQEBCwUA
+A4IBAQArIk3MwXq/WRJurONVjfvw+R1diDq6nY1O4kFS09sH7qDzcm/9uNrSUQCQ
+vAySaWADE6ff/SeV+p3I1BHyr/eGJoo9tzZ8gScSWv0jgc/CvCAir2GZJk9QWfII
+u1kRM2kPSAIl/vTh8IqLnM78EdOC03hSO/+3h/nNgxLEwrx8anCkTVy+YqXtVtOH
+pYiDo+H/jVwqQa2mTbRBHh8zV7z4y9oUVAIU1tXfODaTY/BhmFdTuC/8f5I7f2j0
+jWanzxNoVlAIT9p8+vhllWBxFVoT/P6Zpe3qZCNAL8skOfB1NaIKcPtUByV2DZ2T
+PxNlyI2/FadpyinQrS6S5WF/eJkX
+-----END CERTIFICATE-----
+subject=CN = *.examplefreeride.name.ng
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4621 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

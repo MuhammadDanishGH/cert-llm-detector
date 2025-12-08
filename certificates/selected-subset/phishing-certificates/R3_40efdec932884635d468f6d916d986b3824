@@ -1,0 +1,69 @@
+https://ebayfraud.gremlins-in-it.com/fraudulent.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ebayfraud.gremlins-in-it.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGLjCCBRagAwIBAgISBA797JMohGNdRo9tkW2YazgkMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDYxNDQ5NDVaFw0yMjAyMDQxNDQ5NDRaMCcxJTAjBgNVBAMT
+HGViYXlmcmF1ZC5ncmVtbGlucy1pbi1pdC5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQC77f3tJ0oeN3eew3FFjkQVVX0bkPVZk0vHmOXZCyD8Y9PK
+jKKP+5XHxlzq+Fqlmrj4HkP9P7d6M2vK0wU1iPAD56Eq7qr2DcUW9YGBEdMquoMM
+IeeCDugZRG9zhgKd5MYtnVLloJvdHrHQI8eBIStsS9fX0norMf8Quv7JWDPjw833
+pQ93imRmyvB8e8HiKYFjwh5XE3P8JZPr6DqJzuKNCgdeKsQWN+lP48rEIH/2w7+w
+J5UN0bQ39X9e4U8urN1OMzahy/FNK5DF/itvwa7BArwbDG2tItNTDaRePO9ui//I
+EGqsiBaB49XqliwZezg+VEFRX4GevRz3MEkUQZZFAgMBAAGjggNHMIIDQzAOBgNV
+HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1Ud
+EwEB/wQCMAAwHQYDVR0OBBYEFA4lAmFoQn0MSV9cd6AU4+gRlF3xMB8GA1UdIwQY
+MBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEF
+BQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8v
+cjMuaS5sZW5jci5vcmcvMIIBFQYDVR0RBIIBDDCCAQiCHGViYXlmcmF1ZC5ncmVt
+bGlucy1pbi1pdC5jb22CGWdhcm1pbi5ncmVtbGlucy1pbi1pdC5jb22CGG1hcnRh
+LmdyZW1saW5zLWluLWl0LmNvbYInd2luZHNvcmFuZG1haWRlbmhlYWQuZ3JlbWxp
+bnMtaW4taXQuY29tgiB3d3cuZWJheWZyYXVkLmdyZW1saW5zLWluLWl0LmNvbYId
+d3d3Lmdhcm1pbi5ncmVtbGlucy1pbi1pdC5jb22CHHd3dy5tYXJ0YS5ncmVtbGlu
+cy1pbi1pdC5jb22CK3d3dy53aW5kc29yYW5kbWFpZGVuaGVhZC5ncmVtbGlucy1p
+bi1pdC5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAm
+BggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEE
+AdZ5AgQCBIH1BIHyAPAAdgDfpV6raIJPH2yt7rhfTj5a6s2iEqRqXo47EsAgRFwq
+cwAAAXz18QVOAAAEAwBHMEUCIQD3MXJfqKRtTGZPBKFBE8hIyR180bRPqs2o691O
+//gN/gIgPKxUzEJfp+87ieSWV+jYZOVgdPhJsr+PxnuJ2VD+BEUAdgApeb7wnjk5
+IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAXz18QVCAAAEAwBHMEUCIBb27LQT
+/72GyFuDYMkAZkEErwIHXMOocrl+/VcMfbnKAiEAymkHZQyycdEuZlgr9k49cTwY
+mXQwlp8sjfoUC6nXUeEwDQYJKoZIhvcNAQELBQADggEBAJdNJUzWdq+gAP8thiS0
+3GnOKT98mGLmdnEnvv8pHKyouI6a06adE+jMzVBy8cT1CMfIOL+iJPBRlCTAyrBF
+73ozlR68F8Htb29eNRH99Vh9Zuosus4PNJorac+ucyv7VzqCNCwHUYnaL0ni2pa+
+imoQmC9zt4JejHKXxx0B5U2hmCMS/7G6Wjy3fnJqyjFFSkpqXtERpxj6pXKfzi56
+4uGJuP4Uhh9e/daT2IXalwNTJnTVUNbaKgwtNtBkEnspeW83lKvUbtA2m+9i3h70
+KCb29GjNN7cwO7wb0P3ZhjacSFEjII6wdNyQXVZ13qzKC595570fYbB7Ezw0lKK7
+WZ8=
+-----END CERTIFICATE-----
+subject=CN = ebayfraud.gremlins-in-it.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3457 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

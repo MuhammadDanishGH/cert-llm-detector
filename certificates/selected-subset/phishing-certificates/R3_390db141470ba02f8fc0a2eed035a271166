@@ -1,0 +1,66 @@
+https://mypersonal-webapp-site.ml/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mypersonal-webapp-site.ml
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFVjCCBD6gAwIBAgISA5DbFBRwugL4/Aou7QNaJxFmMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MDgyMTAwMDFaFw0yMTExMDYyMDU5NTlaMCQxIjAgBgNVBAMT
+GW15cGVyc29uYWwtd2ViYXBwLXNpdGUubWwwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDN1EH6JNQQkjVNfQlXzq3Ukk37R/JFO+gVsidsl6DPRTYtUTD9
+TOyQDzoRk75JvwJkBZdBkMDz5G4vx3hS+C2hvI7tohwmO6OLwo5kG8bC2FBF8q4s
+eTptJOd2WOrJCClNQsO+nD9p5kBht6e6VOuUu+iyLg78GPj63VFVr1Do7GL/jYhh
+/iYWVZ//UCGz5HGfCVxZn2GFOKG4kZCACJlPn7U9yRDF+05G8WemoGop9J05uTe4
+UTG5bdEPxPQvXBZdW9CF6Cv2tpAY7WQBPvBKm2e3Fjzz7vg5RKuY0blWl2HiScZU
+nQ/WEfcigKSoZ2LlAN/y6k7ldraXJg8R6+TZAgMBAAGjggJyMIICbjAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFAr3/gzjGsQd6P12BbsknCSzrNglMB8GA1UdIwQYMBaA
+FBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcw
+AYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMu
+aS5sZW5jci5vcmcvMEMGA1UdEQQ8MDqCGW15cGVyc29uYWwtd2ViYXBwLXNpdGUu
+bWyCHXd3dy5teXBlcnNvbmFsLXdlYmFwcC1zaXRlLm1sMEwGA1UdIARFMEMwCAYG
+Z4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMu
+bGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYAXNxDkv7m
+q0VEsV6a1FbmEDf71fpH3KFzlLJe5vbHDsoAAAF7J8eqWwAABAMARzBFAiEAn37s
+nyRN9F2WZWXj9s1aAOaFN45tV8YrHXuhcDo+yQYCIHyBOiizClEOgPh7tvc5kCSP
+EsluGKTL0m2bmGt4DjNLAHUAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i
+8NcAAAF7J8eqhgAABAMARjBEAiBsK3al6xaCyOp3vivElv+qZDsmiDAttLQX5SQX
+gUpfkAIgFN1pca9BnjIwGVG8PwpXt2nBUns6H5F0fjANBoSC2FowDQYJKoZIhvcN
+AQELBQADggEBABbZtrB5OtX+g8sor5yud3PVBB//k367Xs0cL+NxkMyhq4CsMAZC
+jRByhvQYgfYzsqC5WZVGBu7EK4VLPeX4+4X6acK1+47qin+srdp5jVwjVQpCMXLt
+spVl8akF9RLANmiMgRzQt5JbbXUplNYxllQbeDc4mbkdXxPX2fl3E8gRjXoARwUQ
+X7eCZ1AXjfBzZVz2j5kDrUtIRH3RSXbDFKOLElP2tKg7yMVq24TY4StR8JSUv/aO
+/M8IaSQlxuqdJvJoZrhzPmUHZFpoL6oXOEq67q3TjlNvPquR8TcqrQH5GQJyMmYD
+wY61awKFvkPvGTa+++IV68mFljdwg0da4xE=
+-----END CERTIFICATE-----
+subject=CN = mypersonal-webapp-site.ml
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4556 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

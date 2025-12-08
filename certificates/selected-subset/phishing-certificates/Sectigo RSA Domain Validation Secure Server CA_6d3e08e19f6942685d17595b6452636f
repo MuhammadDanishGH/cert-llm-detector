@@ -1,0 +1,71 @@
+https://v1lqa.store/1/index_select.php?sess=DGiF471643123863bfd852a79bdb6b8a38cedec141cbcd59bfd852a79bdb6b8a38cedec141cbcd59bfd852a79bdb6b8a38cedec141cbcd59bfd852a79bdb6b8a38cedec141cbcd59bfd852a79bdb6b8a38cedec141cbcd59&DGiF471643123863bfd852a79bdb6b8a38cedec141cbcd59bfd852a79bdb6b8a38cedec141cbcd59bfd852a79bdb6b8a38cedec141cbcd59bfd852a79bdb6b8a38cedec141cbcd59bfd852a79bdb6b8a38cedec141cbcd59&emal=lauriec_ea@larrycunninghaminc.com&mex=gddy
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = v1lqa.store
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGLzCCBRegAwIBAgIQbT4I4Z9pQmhdF1lbZFJjbzANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTIyMDEyNDAwMDAwMFoXDTIzMDEyNDIzNTk1OVowFjEUMBIGA1UEAxMLdjFs
+cWEuc3RvcmUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCmRjl1ErmN
+gB1A66TdSLpLM/T4JP8jdLWYuhl57pzELb6msNxp3QahHd46OUp9GMdOeK08GetI
+3RRwgXAtawPDdYVykqYV3M1CFBXaGZeDCwuEWJuAaV8QBpaBxhfDHx8cOM7XXdxv
+NBqIYZvNnk2cftPcx8rrv7ZqItGGeo6lnimpPHXW502j/3QReV4xKz+gCteDXwMG
+heTyyfXA5OY3uZjsT1MHXA3zbF7UKJhiIUTgxSzzP0fTj38UGRww1YEOdHxzgFFN
+oMdrl+Cd6kGN+x9CPxmGm4ODFOD2dCNfssyqfJ6ExuXev9roOMPQPyTW8MWyyNO5
+Ph6HOSiO6/WRAgMBAAGjggL9MIIC+TAfBgNVHSMEGDAWgBSNjF7EVK2K4Xfpm/mb
+BeG4AY1h4TAdBgNVHQ4EFgQUFwvPnvzb848HlsrckdiYsGBQUYYwDgYDVR0PAQH/
+BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAjBggrBgEFBQcCARYXaHR0
+cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGEBggrBgEFBQcBAQR4MHYw
+TwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1JTQURv
+bWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYBBQUHMAGGF2h0
+dHA6Ly9vY3NwLnNlY3RpZ28uY29tMCcGA1UdEQQgMB6CC3YxbHFhLnN0b3Jlgg93
+d3cudjFscWEuc3RvcmUwggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB2AK33vvp8
+/xDIi509nB4+GGq0Zyldz7EMJMqFhjTr3IKKAAABfo4t4OAAAAQDAEcwRQIgVhap
+J3G6S2azt3Sm5y+DDNP+E9uzq5XK+vaABaXkfN4CIQCczMLmVcPEP6vcuqZfZ01Q
+ho1bqb1Wk4eeYHi2OYfJAQB2AHoyjFTYty22IOo44FIe6YQWcDIThU070ivBOlej
+UutSAAABfo4t4K4AAAQDAEcwRQIhAPfesKjTQFuPj+geXCnYDTeUIvxmvmsWgrBs
+z4O1TH8XAiBlunptZEelHavt3cx6DdkZc8oe5mI1q60a8Ayk6ImIZwB1AOg+0No+
+9QY1MudXKLyJa8kD08vREWvs62nhd31tBr1uAAABfo4t4IUAAAQDAEYwRAIgf5Hh
+gark8rTWR9Ky47zrLHOYf5RZMWPyZux7sHctDKQCIEBwfBQi9M6gZlwb/hG0+38B
+fbdsKAs76XpW5d+9TdAHMA0GCSqGSIb3DQEBCwUAA4IBAQB1c2oRt380rPNE0nIw
+FbqHMPvPprZ3BxfRbikBvoRyYN1JUDY1KPMiLb2D+YpAmaE318DiRRqBClRjtlt9
+LZ1bVdNwlG3H+l2nn8CT6AKeoyb/sIgtx273hIEnvMUC3tasMa+D7w+X6rtjTuEr
+C6g6IsNP0z8wfh+/6hxe0R741HbMr2/F8JcUChIKVkwKR6Kw5OkSTOBXndZdgp0N
+VEQ+YsOr/M8/sB+nckW7LvPDnIbjADLIPD1U5lMplNxHxQRnGXn153gcH1+vxVCK
+GMiN6C2hFwB9sXS4HgY57JV6w9DQrCGu2/p2+w2pwbmt/vVzt2H2fYh9GNW0CQtc
+KAPb
+-----END CERTIFICATE-----
+subject=CN = v1lqa.store
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5129 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

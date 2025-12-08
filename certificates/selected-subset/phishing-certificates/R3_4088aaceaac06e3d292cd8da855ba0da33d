@@ -1,0 +1,87 @@
+https://outlook.skiwi.nl/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = outlook.skiwi.nl
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEjTCCA3WgAwIBAgISBAiKrOqsBuPSks2NqFW6DaM9MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTcwMzA5MTNaFw0yMjA0MTcwMzA5MTJaMBsxGTAXBgNVBAMT
+EG91dGxvb2suc2tpd2kubmwwdjAQBgcqhkjOPQIBBgUrgQQAIgNiAARhWhNu2M2Y
+iITqjslN7rZ6ebc9pNaJBKn07I7MzBZbJ12b3J++Etkte/zSCl5hRNUWwbbR1ivr
+4j0daJOByVsB56675OgA1A06Lrki0jZYLW7kqSoAEhId7A7n0Zki7lejggJgMIIC
+XDAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFMqfeI+7SdY63lXuAbs5eFtNXW74MB8G
+A1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAh
+BggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZo
+dHRwOi8vcjMuaS5sZW5jci5vcmcvMDEGA1UdEQQqMCiCEG91dGxvb2suc2tpd2ku
+bmyCFHd3dy5vdXRsb29rLnNraXdpLm5sMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcG
+CysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5
+cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYAQcjKsd8iRkoQxqE6CUKH
+Xk4xixsD6+tLx2jwkGKWBvYAAAF+ZjmKlAAABAMARzBFAiAnC3f5uh3cW5HMzf9f
+af+FGphs9wdHbAqtVzcSWLdM6gIhAMnUz8JiSVQ7vK77/4Przv2P8oopbs9ZzIJo
+Pr9FDNWTAHUAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF+ZjmK
+gQAABAMARjBEAiA8zYlHLCseY7bOAG6Gu314YthzXC4JGQ24KpGvKf04WQIgIk1X
+YSGMe2IAafFjnsfcJ2cOzw5pNps5Na4ZODaqn/4wDQYJKoZIhvcNAQELBQADggEB
+ACY9TnZhxfUHDaUOuVvhqktYNxXCtcMGjmNNgAhpcQVoNHQNUZ5sEJlc3ZX9gTtl
+GIFTXwzTSzHeEB28FpOdULb2Sl6gaT+ox2aQKCIwQg63bgv9GFPJllJd3VAyVd6j
+dY/pKV33ekG65CJ43o67wY4tdm3/V0rVdvJehIf4kGfZiTejeuM1TJyeDewZPaQo
+v46XuR1NZAlXrTaP19LKSpuE/UukfMPO7a5tJOzgqFXUzgI3uqowozkOgpToEw47
+UrymWCgkm9IRQkFLEbNN1APH76rw4RnVEmp/xGC6bDsXXdfQKCw/5Mo3AWbbwmJ9
+aKWv5a0lXd2QsdDUf7QuTUs=
+-----END CERTIFICATE-----
+subject=CN = outlook.skiwi.nl
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3032 bytes and written 436 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-AES256-GCM-SHA384
+Server public key is 384 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES256-GCM-SHA384
+    Session-ID: 899BD7E48CAD01887F536D855A088EB705D4F178693EA9BE8EA40E091F74B8D8
+    Session-ID-ctx: 
+    Master-Key: F91683897DB70526AC0D36038A36F2665D233873A178B1CFDEE3B7CE68B9EC5AC3D613F7445DDA59DF181F516D084561
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f7 83 7e 62 74 f2 e3 14-19 a7 a2 82 14 c5 00 11   ..~bt...........
+    0010 - 85 79 3c bf d3 38 4a e1-d9 4e 38 4d 82 8c 2a 90   .y<..8J..N8M..*.
+    0020 - 54 59 c6 90 b0 9e 5a 68-dc 91 73 f1 85 b8 e6 9d   TY....Zh..s.....
+    0030 - cf d4 d0 88 5c 72 85 92-5c 20 e1 ce 17 97 66 28   ....\r..\ ....f(
+    0040 - ea 4f 5a 2d e8 b0 2c 9e-18 28 11 71 83 fc cc 33   .OZ-..,..(.q...3
+    0050 - e3 b1 f6 62 7f c7 b6 ef-5f 2e d4 e6 d9 16 5b 35   ...b...._.....[5
+    0060 - 8e 67 44 a3 80 b2 e5 9d-ff 98 b7 61 5c 6d d6 16   .gD........a\m..
+    0070 - 58 16 f9 74 f8 ad 91 72-bf 5b 83 be 7d 4e cc 0a   X..t...r.[..}N..
+    0080 - fd ff e6 c2 7d 52 58 8f-c6 f5 6a b8 b2 3e 3a 14   ....}RX...j..>:.
+    0090 - 7c 4b ac fa 79 04 d7 3c-22 81 c8 f9 e1 1a eb 4c   |K..y..<"......L
+    00a0 - a9 a0 d5 3a 1f 9b 43 af-fa 71 be 72 cd 7c 31 0f   ...:..C..q.r.|1.
+    00b0 - 88 37 8d 46 99 5c e9 98-da bf 28 eb 06 83 a6 7f   .7.F.\....(.....
+    00c0 - ff e6 52 1b 9f 75 e5 45-c2 91 c0 7d 21 25 c8 3e   ..R..u.E...}!%.>
+
+    Start Time: 1642467272
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

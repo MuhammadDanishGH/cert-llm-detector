@@ -1,0 +1,93 @@
+https://apple.com.loginid.live/f/183-528
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = apple.com.loginid.live
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPjCCBCagAwIBAgISA96+c26wKwS9yRnqFyBzB6EwMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTAwNzM5NDZaFw0yMTEwMDgwNzM5NDVaMCExHzAdBgNVBAMT
+FmFwcGxlLmNvbS5sb2dpbmlkLmxpdmUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQC/xvjMWc0IBCG/Sqk17L8EX+RjPLw1bBgRP0FAYHwjA4a2Q7emD7EQ
+1UAa1cChCS+DpQkpOAt+oxy+f6TR3Yhnx1EQ/ToZMB5HViwoW+b49+7V7gJL27T0
+N8KIxwzZ7ZX8UhrM6VAVVbitv7Qrf8YCsIw9RomXMPyBXz7OhyK853d2+csYIchw
+x/P2+tQS5GM3ZM8LP00N4x3B6C4pVnZgZ+jmegGvLxZVruxPakcHHi6OPYm1nUG6
+LO4PjLy7So0wQfkxY//qsO08Rtqi2Lv0ZJBXbUjeqzQY9TvQhpBWxuQuJuOMQq3C
+TXi6qUGRMq6IYfdLnEaBhoPtv+o4RTF7AgMBAAGjggJdMIICWTAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFCodl9o1e8G+Hkmp1S6hsyyYywqMMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMC8GA1UdEQQoMCaCFmFwcGxlLmNvbS5sb2dpbmlkLmxpdmWCDGxv
+Z2luaWQubGl2ZTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQIGCisG
+AQQB1nkCBAIEgfMEgfAA7gB1AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgia
+N9kTAAABeo+Sl5gAAAQDAEYwRAIgcy7teaBMGWQ5J9Ly95Ugjeg76557DORjUgZg
+fsFZWk4CICOHKJYWgKgfF3k0AQ2cbH+mI8Hby9nU4fPiSgs9W6k5AHUA9lyUL9F3
+MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF6j5KZXAAABAMARjBEAiBJL848
+7FHtz9eio8KczcUB7W33Zwy8UYREN/o8oCzW7QIgUb7QUEXiQXFSLBNRrGxkIjGh
+Xc1Mkgpy9xV6JdXqN0owDQYJKoZIhvcNAQELBQADggEBADQqGAA9nLib5S731rjg
+7ncr1FWZKI5X8U8kzUlPzQGtPo0xMEUExrlVZCx0JnIJY94z6EqTmBvC4MpJ+HmY
+6jsMHzf6lJy/S6KvdAnE/a4MujXGEkrYf6Cm7KPN9UuZbyCAlSO8zswXAjes6fne
+a0w25TIXJHz4SgNzjCLarozSGJrUW9a9/6g9xyZr2a1oE9I8UbhZrEYEvLOILM+y
+AaNkvx4NtCghaOzO9H0p+eW6U4ZAUfz5ElshzaTuk1xoCklkOQT9+pGvlLy3KvPt
+h+AGLGn4gTtmZoLSWah5GC+0x1cc2rHkex+1rodAPAeTY+gW1iHgiXc+7WUp4hI5
+5Pw=
+-----END CERTIFICATE-----
+subject=CN = apple.com.loginid.live
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4744 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 84CFADDB2E0F2923392B2EE2814DB2C612678F73408B382E4FF1E8B534A5AA26
+    Session-ID-ctx: 
+    Master-Key: 9F3E1180372867E1CD87EFD311B03AEBDCE1BE506BD0B6D7DEACD9709D15FB1E071E5706A3B5C6EACC493B9A7CFA9E07
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 4e 6a 88 b2 66 f1 60 95-c0 ca 5f 46 c2 fb 86 30   Nj..f.`..._F...0
+    0010 - 78 22 82 31 9f ff dd 29-71 2d 5e 46 66 52 1c 0e   x".1...)q-^FfR..
+    0020 - 4a 83 c6 ea 5c 19 85 37-7f 8c c9 77 2d 41 fe 43   J...\..7...w-A.C
+    0030 - 92 8e 75 29 c9 de 52 e9-cb 16 93 b2 b9 58 f4 6e   ..u)..R......X.n
+    0040 - dd eb f3 4b 0f 2e 65 6f-95 eb c4 2e 61 60 be 12   ...K..eo....a`..
+    0050 - 39 43 4d df 45 2c fe 66-bd f1 b9 36 0e 6c 9c 62   9CM.E,.f...6.l.b
+    0060 - 70 60 5b 60 d6 98 1e dc-79 84 8b 7a 04 82 75 a2   p`[`....y..z..u.
+    0070 - d8 59 2c 94 af 0e 7f 65-e9 07 d4 83 63 5e 7b 44   .Y,....e....c^{D
+    0080 - 7b c3 f4 ac 23 cd 8d 49-85 9d f3 fb ae ec a5 14   {...#..I........
+    0090 - 99 57 e5 fc bd b9 59 c8-28 e3 9f 2d 17 4b 0e 03   .W....Y.(..-.K..
+    00a0 - 40 c2 37 e3 a0 85 9c 87-ea 1b d7 db 52 98 b4 fe   @.7.........R...
+    00b0 - 78 d9 07 f0 78 f1 93 cf-94 3f 6a a1 40 0a 71 6e   x...x....?j.@.qn
+    00c0 - 84 d9 a9 c2 49 6e b7 b3-97 ec 08 df 27 23 c9 de   ....In......'#..
+
+    Start Time: 1625963879
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

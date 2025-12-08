@@ -1,0 +1,74 @@
+http://isaiahchristopherent.com/adobe/pdf/pdf-/pdf-/pdf
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = isaiahchristopherent.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG2zCCBcOgAwIBAgIRAJzv+wXI/1kX3lW4/OtqRtMwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA4MDgwMDAwMDBaFw0yMTExMDYyMzU5
+NTlaMCMxITAfBgNVBAMTGGlzYWlhaGNocmlzdG9waGVyZW50LmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBALRIYggNi2d2L3+2AlciCkFAalMuAI1Z
+IyPIAsioxa0RiUF/JLlNAM83W8LjBFyDHprDBExXBlymf+vVOr/keLZwlfobfQbZ
+TkhkP3PcAoT9237IIo5AVDVMekzTWxHYpzW36Bqx4tuSm2O9pC+E6xgPDfU1u+p8
+iNjBTwwrlLdIkr1/Za0Svl/hoGZ9hiOYHYxAIwoU/dim7LMKoCztRjUW/xu094nw
+NtQSakfHTnYLrgdemq1Dwip+yDsmexwzwQTCSZSqUIiPl0nakf4R0bAu7+Z2E9w7
+198GX1VHPJ7LKLeTromRCwUpxfwhHHXl1ZJQK2dGFewvncn/BOhgj9UCAwEAAaOC
+A7kwggO1MB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQW
+BBThmHI+DLwc24iMvxKDyPKIojtH7TAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/
+BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0
+BgsrBgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29t
+L0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21v
+ZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYI
+KwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNv
+bS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcw
+AYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBBAYKKwYBBAHWeQIEAgSB9QSB
+8gDwAHYAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7JlZqdwAA
+BAMARzBFAiBWgWOIKBEuqEW74H0eeC++aigeWjroQZdL8qKM6kAobQIhAODaXdNQ
+EAJGw0gL1dyWKMj4K67zNbgw9krm5diFcNa5AHYARJRlLrDuzq/EQAfYqP4owNrm
+gr7YyzG1P9MzlrW2gagAAAF7JlZqjgAABAMARzBFAiEA6qmCBAxku2qPa8CMoLVw
+4zwfvwxi/u+aqd7p2X57FyQCIGint/lYxBsLmFSQhVGbsFEI/QOiTk14K7Fw6LaO
+7jqcMIIBFAYDVR0RBIIBCzCCAQeCGGlzYWlhaGNocmlzdG9waGVyZW50LmNvbYIf
+Y3BhbmVsLmlzYWlhaGNocmlzdG9waGVyZW50LmNvbYIkY3BjYWxlbmRhcnMuaXNh
+aWFoY2hyaXN0b3BoZXJlbnQuY29tgiNjcGNvbnRhY3RzLmlzYWlhaGNocmlzdG9w
+aGVyZW50LmNvbYIdbWFpbC5pc2FpYWhjaHJpc3RvcGhlcmVudC5jb22CIHdlYmRp
+c2suaXNhaWFoY2hyaXN0b3BoZXJlbnQuY29tgiB3ZWJtYWlsLmlzYWlhaGNocmlz
+dG9waGVyZW50LmNvbYIcd3d3LmlzYWlhaGNocmlzdG9waGVyZW50LmNvbTANBgkq
+hkiG9w0BAQsFAAOCAQEAJClCAdjRRJaH9K5t0dW1HZaS7UyGUy6Qk+ujEP/j4OAG
+MTocQA+zCUX/0KrtIkkQaY6wagyMah/n/lAzUP1TPqCt4Z74Z2xDhQIyx+gujaiA
+4Q05PR2vdnSoc/LorFboKA1JdV4NIJDDOE3OMu12xf0htzEoQzBQDebgL9EdPG7V
+uLGdrjJs+kxac+Gi3oqyMReQP018JpXXFlQQaSwUzJIyRn9FxfBewgPFWx0zem1S
+KDN2AXrNFf9Ekkz+/l82Airu2WRVqmCoCJfsmlACBt9p8yWtl8xFy5j1AAEalEfB
+pLfSo1KaWaL2dybyNBfNIQlhRudihSIhh988kMP6JQ==
+-----END CERTIFICATE-----
+subject=CN = isaiahchristopherent.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5264 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

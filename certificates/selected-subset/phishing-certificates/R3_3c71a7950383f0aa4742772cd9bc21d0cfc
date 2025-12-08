@@ -1,0 +1,92 @@
+http://klick.smarketer.io/info/1nd71z1zz1r8vv4zz1zzqz3/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = klick.smarketer.io
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+subject=CN = klick.smarketer.io
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5119 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: F23B69B3EFCF5D0D049B97927A66B1885D50CE03020D942CC8ADC8C12C9A40E4
+    Session-ID-ctx: 
+    Master-Key: EA9E41715BA44FA0927426292E91CCBB3CEE7C7208BED99A9323BC87DC3F0D482B3ADE6D7514B2684898A03105F18EE8
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket:
+    0000 - 3d 49 72 c2 5b ee 69 38-ac 4c f7 93 4f ab 1a b6   =Ir.[.i8.L..O...
+    0010 - 01 f9 c4 d6 eb a1 e1 f8-42 e0 f1 96 ec d4 e0 2f   ........B....../
+    0020 - 1f a5 11 b3 17 09 41 8d-ae 4d d1 40 02 3c 4c 51   ......A..M.@.<LQ
+    0030 - 63 c8 41 11 5a 11 a2 c8-75 8f bc 34 d2 78 26 31   c.A.Z...u..4.x&1
+    0040 - 62 a1 80 e5 cf 93 7b 2e-ad 03 ef 03 0a 9a 31 f9   b.....{.......1.
+    0050 - c0 8e b6 7e 58 63 71 77-23 71 4e d3 6a b6 75 42   ...~Xcqw#qN.j.uB
+    0060 - 7b a8 d6 28 30 53 e8 fb-85 78 b9 f9 8f 62 f1 45   {..(0S...x...b.E
+    0070 - b4 35 ea 64 5e e0 50 a8-ce de 4d 0d 67 42 0f e0   .5.d^.P...M.gB..
+    0080 - 39                                                9
+
+    Start Time: 1640480279
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,66 @@
+https://jaees-srevioc-traind-jalg0000100m.s8f2g.cn/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = jaees-srevioc-traind-jalg0000100m.s8f2g.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFWjCCBEKgAwIBAgISA0HwavOcwCt3S4flNeAWZdxfMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTAwOTU0NTJaFw0yMTEyMDkwOTU0NTFaMDUxMzAxBgNVBAMT
+KmphZWVzLXNyZXZpb2MtdHJhaW5kLWphbGcwMDAwMTAwbS5zOGYyZy5jbjCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANAblE2w8b4dAMB7LzhWI0oaB2bx
+P6pq/xOz9MhPHQZCdy3beoAeDxQ2Hx9/8OCMj888yBzUXJrmftnW/0hyD2eZTjN9
+Pme3V9Z8Mgi4MsRHLcXjFiHxVjfjMp2QkANUyBQBFJpVlZEPMDADJ0F0DuPzv/h6
+v3IPmWJ46psgbcmQ8mpvX2WtzZxkfeT2nHqFJgIpDqC5jGzziH+rsUzlK6TUNylb
+kproRs5uwHF7x9EBfweHYKxtDBZlZB8RMI46F0rkr3aRajlyMQO4GCChjORQQoiB
+lk9mPRb0BCd4CAWJKzf/0rUKiTe0zkUbWFGS3Brmz7wdJjSDzkrjs3jGG40CAwEA
+AaOCAmUwggJhMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUNuoNFto6zL+becsUdub0
+IEqtXtMwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUH
+AQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYB
+BQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wNQYDVR0RBC4wLIIqamFlZXMt
+c3JldmlvYy10cmFpbmQtamFsZzAwMDAxMDBtLnM4ZjJnLmNuMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcAXNxD
+kv7mq0VEsV6a1FbmEDf71fpH3KFzlLJe5vbHDsoAAAF7z1iPOQAABAMASDBGAiEA
+zb6S0FEuhjRpmLzmt7WVvAkhyLZlY3hqluu535K2uc8CIQCgBOQcVlCbSGBnUFUf
+5+hchlD7TUDzLDa9HBZ4tIrdXQB1AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqX
+aJl+IvDXAAABe89Yj18AAAQDAEYwRAIgBZjfXHLw2Y7M4K/gpNBq0ouAlXsJlDSp
++cpMwJeKaZcCIDmSkOlZ4m7gxh9vV+nTz/XnlK90nQZzn1jjilxCqU4IMA0GCSqG
+SIb3DQEBCwUAA4IBAQBeVY7PUMiyF2sMug9Jq5Hb9jTl6EvesEdmC+h8LBG0GtK7
+Tx1k00Vq9oRYj510WkO1f5pBx3Xaf7oGlhrBJ41XICYHCFhyYIiiRTAWyHnHXUS9
+G4kqi5F9gCfP7vdTpVEDVZO7E4JEV21I4qxKdays99SalbFYs3v/q8lSn5ECJGMs
+V8aKB4W6yoqd4aBAu9RF0T+VP7Tsl2vF0fbZ8UHfMhC6AcLVSl1cycFfyvPSOTy/
+3FJmt8liH4bKCu+VvxnJFDqlyZJJkGIMHHS0/unKzW1NcZFYGsYPPLztWZ3+vW10
+06PeFGJCHVJ3uqwK3QAxoDxg2IoJCFoy/uDXaUwp
+-----END CERTIFICATE-----
+subject=CN = jaees-srevioc-traind-jalg0000100m.s8f2g.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4630 bytes and written 424 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

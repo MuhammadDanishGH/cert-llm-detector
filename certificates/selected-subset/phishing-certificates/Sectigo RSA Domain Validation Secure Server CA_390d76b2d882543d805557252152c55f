@@ -1,0 +1,71 @@
+https://my.ts3card.cebpco.com/client/login.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = my.ts3card.cebpco.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGMzCCBRugAwIBAgIQOQ12stiCVD2AVVclIVLFXzANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTIxMTEyOTAwMDAwMFoXDTIyMTEyOTIzNTk1OVowIDEeMBwGA1UEAxMVbXku
+dHMzY2FyZC5jZWJwY28uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAmdTG2rRmpEdeHaVz2Iy9/dlb6Bjj/2IeQrsBiUAZ+Eabu/jm7M6pBFgX15ua
+0a7S8YNAOI/58WU5SBP/F40WH37uwYtOPE2ulSo8rgY1cotDQO9ysGDAbDWksk4l
+0lLONKyElSLuG4tzxlRtyPb3fkvI+jzX+Un21Pm9WZh3gtJ3Jpb1m//gcBHSFTg8
+KaIV2zhqV3pAOYXWymx6N6IEtIcLkdcPXcHE78weJUGzvL4nygMbZnjd/aVH3pY7
+ch5D3gylIYIe/WXNOesIoi9sjmBnAQZF532eOHRET4ABVJYT7LbUPGtJP5THC+ck
+PEmNS7HMpNPuBPZFwQLbCfFPpQIDAQABo4IC9zCCAvMwHwYDVR0jBBgwFoAUjYxe
+xFStiuF36Zv5mwXhuAGNYeEwHQYDVR0OBBYEFK9XlLSUVQkZ+e7GNi2A6NZVqeus
+MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYB
+BQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYB
+BQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1Nl
+Y3RpZ29SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsG
+AQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTAgBgNVHREEGTAXghVteS50
+czNjYXJkLmNlYnBjby5jb20wggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB3AEal
+Vet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfWzGHJEAAAQDAEgwRgIh
+AOLha4VJm+eKdRshY1z9g6x7zaldgv6Ou+XsMW24uo4WAiEAySDQWqVwrEHMluMh
+R/UHdeYBqGIZJt7hDEVreIOrgJUAdQBByMqx3yJGShDGoToJQodeTjGLGwPr60vH
+aPCQYpYG9gAAAX1sxhxgAAAEAwBGMEQCIFnqDdm47mC31TWsLsDs/wOlW1+Zhrxy
+xYOvWb9w1UcGAiBFKBux+usQVa4ejkHjDBTo98HbdA4l9xy96H5Po6yvVwB2ACl5
+vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfWzGHDAAAAQDAEcwRQIh
+ANlCiA3jF8pop9Qr53owTRysnsZ8889IpGUiFuxvdgACAiAYztKu9VXYZI/k6G/E
+cLMb+3ySpswUxDVhEC2zuxkIbTANBgkqhkiG9w0BAQsFAAOCAQEAldvIQWxIzeUg
+TNlQa3R35lKkzsK1/37lOazOpwGnjKVWxVhVLnssySCVn0FQhBN8noVOA/eB8uIU
+Kj4er3jiKGAwDsOw229qUcLomfqlVjqh4Ys//DvaaXs8KO1Jo7qFleAVmGUdVpak
+nSHgdB5mIfMM99XWmfs/pgVQULJldyPIGsZ6rYBnqQhsXde57PubZIAl4VVpmmFj
+O7ymxklWyex2Ca5lEZPNynujc3D3800VXo7wpqIjIZKo+zlbe2hLe7VRL0ih1MhX
+6RQ+AFWekXAijMTduc8ftnZM8cFo8WhkVmOTIcRZ+K79ipbDW4ja5cc3+OE6U6tC
+7PUhUIw35g==
+-----END CERTIFICATE-----
+subject=CN = my.ts3card.cebpco.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5133 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

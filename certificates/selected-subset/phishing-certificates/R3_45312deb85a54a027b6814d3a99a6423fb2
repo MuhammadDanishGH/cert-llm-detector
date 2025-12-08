@@ -1,0 +1,71 @@
+https://gwwshipping.com/wp-content/yknk1
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = gwwshipping.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+UHyidWFibJOTwYMZlQ==
+-----END CERTIFICATE-----
+subject=CN = gwwshipping.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5039 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

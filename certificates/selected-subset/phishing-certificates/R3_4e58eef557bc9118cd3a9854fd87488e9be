@@ -1,0 +1,65 @@
+https://mercari.merse3.com/#/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mercari.merse3.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKzCCBBOgAwIBAgISBOWO71V7yRGM06mFT9h0iOm+MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MjYwNTQ5MTBaFw0yMTEyMjUwNTQ5MDlaMB0xGzAZBgNVBAMT
+Em1lcmNhcmkubWVyc2UzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAMaEr+OCGGfZqPX49Tpiove+wzNGmw7LBM22NUZ4FGFny0+QLFa5vNaq0gwC
+AJ1heJgccN4o5nktKK10CaaM2XQRqDskF8jQTW1o4nDhCAG4QMTp1ylR4xKh1mag
+7cr9tZuFlWFpyRjs4tiBzy4uREqs6/UOO792s7BqaMQj5MiajC0rH8u/lF0OWQu2
+NYSApaHcOUknKU0EO6SEasu08esGekO4Dzo1tJqr+NaQvFshYzTkYBZKJQ0e2l7U
+ygJAK7GlPKlgjyu2yw7GpBwEOGw7e0EQTndiJhg7ehl8KEVKVYJPgUe2ucoGGmq4
+SioD8HcMf3OnR8mmTwXUsiXobdcCAwEAAaOCAk4wggJKMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUiAHoPcvEb5redlkA8U4HCK8a4/gwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wHQYDVR0RBBYwFIISbWVyY2FyaS5tZXJzZTMuY29tMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcARJRl
+LrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAF8IN1bKQAABAMASDBGAiEA
+kagzKumnDxP9Nqqg1IXE/pMwRgyIbg+cxhZlK6fpiOwCIQD5HYiWcolcaT+bBKV4
+PozJalF2Qf7/u7tiuddYen9FyQB2AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqX
+aJl+IvDXAAABfCDdW1QAAAQDAEcwRQIgchUFhUPkcZBpmzyTR8UbzpWnQM5ReJQv
+U8c0X6FG4+gCIQDUsEz5iMHwzi9JwqFtUPNEgGwTwj+3l5cP5xkFw4bMbzANBgkq
+hkiG9w0BAQsFAAOCAQEAVX1Nk8RPFFWAQj/dxYk+yxYQF80AjoaE6pXEOxn4hqAi
+42x/j1QdhtwGCtEc8WHZ+BG02w+JgT7dGTKsyZCokzHpr3KrBOVzCLDE6Nlu3nf1
+/5LehOdRqRQUtIMbRxbD0clXCCzHYDUsmJ9k1mLFQ4cX00U6n8JtFP5ZbQ/tX9q1
+D7BgLVHSNXQMD+SleSW1FcjckyM6T4FSS3+c9DKX0LqMFzUBTy7vty2A+wXy4Rqt
+EFCQG41OiPLPLIdvpamNQbEMe8UzeiMpj5Xl4Gqs4fW3ozm7Fagpr8lqRWcRItO2
+86l64EBUK38fmM8eRYf0fEBEh+GZhQsUETtm84l01g==
+-----END CERTIFICATE-----
+subject=CN = mercari.merse3.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4583 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

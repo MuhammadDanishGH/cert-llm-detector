@@ -1,0 +1,98 @@
+https://cucarnet.com/wp-content/themes/comments
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = callcashforcars.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG3TCCBcWgAwIBAgISA+Je509egMyFuOYziiMeFX/JMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAyMDkwMzE0NTRaFw0x
+OTA1MTAwMzE0NTRaMB4xHDAaBgNVBAMTE2NhbGxjYXNoZm9yY2Fycy5jb20wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDGBqYVZINJxrfh6+lZtdF3gW1s
+N6ExPM8J14RbE7vf55m5BndG/MLG+7UVvj8QIfUA06R4V/U2UpD8cRaLy0tcsjb0
+tEDa4QqSmYdBEy5cV9lUcrUQLIaC9u3Iw+v88pXtAU7n7npIPOaSSLqpA9aGnhFj
+JOuaShqC1BeADWw9RSq2oRFsGgKo2ABQ/N3G09dR0+RtUOKIBJLwkhzcxFh4oqiH
+bqr3BpaB7Njus41Lwr1sUUpHO63JS6oGF+mXxtDpnMVpvoLV2whsYKBMxfiNJDuB
+aKO1aRQOTovoM02RUlmM+wMFTroDQLaH4mR9os0oAYkFl7jI2+vzDKW+F07BAgMB
+AAGjggPnMIID4zAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFBZgbbLfefnak/3wf3ag
+kHA1QfA5MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUF
+BwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZy8wggGcBgNVHREEggGTMIIBj4IgYXV0b2Rpc2NvdmVyLmNhbGxjYXNo
+Zm9yY2Fycy5jb22CGWF1dG9kaXNjb3Zlci5jdWNhcm5ldC5jb22CE2NhbGxjYXNo
+Zm9yY2Fycy5jb22CGmNwYW5lbC5jYWxsY2FzaGZvcmNhcnMuY29tghNjcGFuZWwu
+Y3VjYXJuZXQuY29tghxjdWNhcm5ldC5jYWxsY2FzaGZvcmNhcnMuY29tggxjdWNh
+cm5ldC5jb22CGG1haWwuY2FsbGNhc2hmb3JjYXJzLmNvbYIRbWFpbC5jdWNhcm5l
+dC5jb22CG3dlYmRpc2suY2FsbGNhc2hmb3JjYXJzLmNvbYIUd2ViZGlzay5jdWNh
+cm5ldC5jb22CG3dlYm1haWwuY2FsbGNhc2hmb3JjYXJzLmNvbYIUd2VibWFpbC5j
+dWNhcm5ldC5jb22CF3d3dy5jYWxsY2FzaGZvcmNhcnMuY29tgiB3d3cuY3VjYXJu
+ZXQuY2FsbGNhc2hmb3JjYXJzLmNvbYIQd3d3LmN1Y2FybmV0LmNvbTBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2
+AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAIxjc1eeYQe8xWAAABaNB3IHcAAAQDAEcw
+RQIgEFq5kpKxtHSyfJhY6lyYg3R9VKZR5PxTpdBrzChJEsICIQCcKmoEjNhzifQF
+o9R8QRsMm7klDWOEV5LZPGqwjf9uYAB1ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLc
+pMMM9OVFR/R4AAABaNB3INAAAAQDAEYwRAIgYvj0j4T5lBdFl2ZBtynTWg2Z6JJi
+oi/GlPCphJpkh9gCICTQraQ7AaNYSBnyTDs2THS6L2G6ZtN16LnF3dQ8qkyEMA0G
+CSqGSIb3DQEBCwUAA4IBAQCYWtqaXJXA5pfb4p/n+xB0QOMBuA3KtszYQkoyOFRc
+jWRiZK0zxju4aDWkIBlahBYTU8BkOBkGg1n/CyiwujY8qDnoIT2o4K6QlgGXBnSc
+0iJbtuivaZ5Qp7VAO7EBousPZaL/Tt75zzpQWvIlPUfP2A44jVFapyZcWRxnrAkL
+lfEetffD0058HfiXzBn9pzLeMOXg9SQ+aO/+bK8iD27VgoNw5g2FYvg6RKAM/6L5
+zI9lxeej+rVW6U/nywAFNqXa6kGHqg7ywt8sy4dmdyTpGk117lSKqziV9Xozerw+
+Ev46pAbrAsgMA1y4Y0fI2o6rtrjOL0YTj0Sxx57Ht6fC
+-----END CERTIFICATE-----
+subject=CN = callcashforcars.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3599 bytes and written 417 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: CBEA01DC2AA2984C845BC054F317188708CCEAEE6CD0F07EC4F54B7EB93774B6
+    Session-ID-ctx: 
+    Master-Key: ACF60095AE7492F5EC26EFEDA5E9E50B24AE5EF8EDAFC439A85EF0DE73EAAF775448D247E2B65B3B4035472E6343917A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 85 0f c0 90 df fd ba b8-16 12 d7 83 32 03 0d 51   ............2..Q
+    0010 - a6 7b ee 93 9b b0 55 b0-a2 f6 56 03 48 13 46 a1   .{....U...V.H.F.
+    0020 - ec d4 2d 26 e0 45 c1 a5-26 a8 cf e6 1d 8a 96 a2   ..-&.E..&.......
+    0030 - 10 42 b2 c4 87 ae d7 2f-72 17 96 a8 e5 87 ce 6a   .B...../r......j
+    0040 - 48 35 47 05 4d 2a a5 7c-4d 41 56 f0 5f 68 ee 4c   H5G.M*.|MAV._h.L
+    0050 - 69 8c 79 3b 42 1d ad be-83 19 2b c7 99 73 a4 62   i.y;B.....+..s.b
+    0060 - fb 21 f5 29 1b 81 8b 10-8a 9d ac e8 2a 93 8a 5c   .!.)........*..\
+    0070 - f9 c7 4c e3 4f c1 1f 7a-10 d0 fb 7d 6c a1 68 34   ..L.O..z...}l.h4
+    0080 - a7 ca 44 a9 85 e5 71 f3-25 eb 1a 5b c5 11 e9 22   ..D...q.%..[..."
+    0090 - 1f f2 1f d5 4a 15 b7 12-85 4f 96 db 72 29 10 3f   ....J....O..r).?
+    00a0 - eb 2e f3 fc ea a7 cd 64-a2 71 34 83 e3 5c 53 5b   .......d.q4..\S[
+    00b0 - cc 4a 7e 1c d4 4a e3 82-f9 44 af d6 9e ce d2 1a   .J~..J...D......
+
+    Start Time: 1553522420
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

@@ -1,0 +1,94 @@
+https://hardwarecollection.mx/images/productos/data/Netflix_Login/Netflix_Login/Login/Login
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = hardwarecollection.mx
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF0TCCBLmgAwIBAgIQCuvMrRFlE2uIq2XLmoccBDANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTE5MDgwOTAwMDAwMFoXDTE5MTEwNzIzNTk1OVowIDEeMBwGA1UEAxMVaGFy
+ZHdhcmVjb2xsZWN0aW9uLm14MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAq5rk6aR5ZV6mPszf31p1n0c3XuyvRKlA62eIwGgtcrI21E6q4M1VccAm/PZE
+eZed+mv93hOJIA8qNZe9UjbZK1zoKuqN3KG0FewAotx6FV/3FYHQ8HBczwgLXGNq
+OtVQCdzZVR0Cu8dgYy+AC4oLf6Ftg4R2J+PDRHCJF6azHMgHjUqf0qkEWqGTadrN
+eFPtdeEz+JHQzvznVvLheFv/BRK8f5abwd07uiae1Z8rr7jV6DkcgujEpLn3vlNy
+asZYsbNctwtUqP97MC3Um5IWWpTfTve2qBsfP2Nq/t+rz6fXPz1xYUWi7uDMYO61
+kAE7gw833kq+fX3Rm+KggH7PRQIDAQABo4IClTCCApEwHwYDVR0jBBgwFoAUjYxe
+xFStiuF36Zv5mwXhuAGNYeEwHQYDVR0OBBYEFAnE4YgUnkUCA7XByMvBmjEeBBtk
+MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYB
+BQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYB
+BQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1Nl
+Y3RpZ29SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsG
+AQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTA7BgNVHREENDAyghVoYXJk
+d2FyZWNvbGxlY3Rpb24ubXiCGXd3dy5oYXJkd2FyZWNvbGxlY3Rpb24ubXgwggEB
+BgorBgEEAdZ5AgQCBIHyBIHvAO0AdQBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4
+scdoVEvYjQAAAWx4NTq2AAAEAwBGMEQCIFD3DC8Qd+ZY051J6v7DM+YuMemjiC4b
+mF2Yp3B8iqdRAiAT8UbTlvMG6lxRXi3sz4FqbGXdbY8PCFkdj6VEGZl0DwB0AHR+
+2oMxrTMQkSGcziVPQnDCv/1eQiAIxjc1eeYQe8xWAAABbHg1OtUAAAQDAEUwQwIg
+eLGgirSkD3I3mNmgd87FLEmwtSncZSxjWU7zfb5VhesCH236LHkDeE+erZWXH8sG
+Hbz4ah/9hAr4tDTxmzGQdTYwDQYJKoZIhvcNAQELBQADggEBADnxpRBsHzQ3EV0d
+0L97GPS5El8+GjqqsvHXnwEW5+mijcVePLQv7xIsqEyXf5rNhsHXmSHKUuTP2THE
+MsPTo4YSumpdr+SrgepwdNgFsgoVxeyngFgO1w+sZ1d46xBk9w8/ovGl42i2ajA2
+IWNMouEMO2k5cgiZJlvjsTChYBoXkBh89Hgi8XxhKSLu216Qhtkk3RNMj11AiyQ9
+LbfQKCWY/AI8O2YzzHHL03qkjb4ZxCnW4tZE3wvNtaVzLKBaFhUebQWabl0J+cpT
+gCqu8YEvTEOAHKajDJAJh2cp3rbOmd1eB8qINTIM7T5hrkH1pfhFv10Zc2U7rtzO
+akhoDwM=
+-----END CERTIFICATE-----
+subject=CN = hardwarecollection.mx
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3761 bytes and written 459 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 7E67F87DF05D13175931DB6566D6A91CF13028007B4C3D04F421B27A026FE00B
+    Session-ID-ctx: 
+    Master-Key: 3C26FEFF47CD25C2E5B840BEC9530FF1568923CC14F5E409259F58F9D9895C68E939B554A41F4707BFE42DB837BE8216
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - ff 4b c0 cf be ed e0 93-2e 31 33 a8 e4 e1 a1 d2   .K.......13.....
+    0010 - d6 6f d4 d4 6f 9d d4 67-15 57 35 91 78 b2 38 00   .o..o..g.W5.x.8.
+    0020 - d1 b2 7e 20 9f 1d 77 b4-a0 d5 60 e1 5b 36 5a e0   ..~ ..w...`.[6Z.
+    0030 - e6 15 20 c3 35 97 ab cb-cb a3 1a 34 3e 56 8a 1c   .. .5......4>V..
+    0040 - bb df e9 7c 70 ab 88 30-e8 39 d0 28 30 39 d9 47   ...|p..0.9.(09.G
+    0050 - fb ab 37 44 bf 8e ed fc-fe 68 46 6d 5e ca 1c dc   ..7D.....hFm^...
+    0060 - 0f cd ab ef 2a cf e8 21-e9 b9 1e b1 f9 19 c7 84   ....*..!........
+    0070 - ba 1c 92 5d 9b a9 ea 16-cb 96 6f e2 d9 e5 cc 40   ...]......o....@
+    0080 - 6b 52 d9 f7 f2 4d 84 1c-34 42 ab b7 e7 cb 02 12   kR...M..4B......
+    0090 - ba 17 b9 ed fd 46 e5 fd-04 05 a4 7b aa 1b ed 8c   .....F.....{....
+    00a0 - 7c 94 b7 8c 2c b3 52 52-cf 10 71 41 9e bf 0d ba   |...,.RR..qA....
+    00b0 - e6 47 fa b8 e0 01 55 c8-d6 41 d2 b3 7f 20 67 bb   .G....U..A... g.
+    00c0 - d2 e7 eb a4 0d 5d 5b 6c-e5 ea de ea 29 ea 21 21   .....][l....).!!
+
+    Start Time: 1569416436
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

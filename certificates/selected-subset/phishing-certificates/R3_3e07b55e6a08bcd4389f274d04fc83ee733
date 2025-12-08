@@ -1,0 +1,66 @@
+https://giftcode-garena.com/bhfEAd01pxgjN9IOq0XVchWoQwyqWqGgSkawz6UMujcc59R0Ks0Ya9gKQRI8PKiFi2qUrrtTAKgM1OyvmFQJEcEpzTVJT7tF5qpZN
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.giftcode-garena.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRDCCBCygAwIBAgISA+B7Veagi81DifJ00E/IPuczMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDYwMTA1MDVaFw0yMjAyMDQwMTA1MDRaMCAxHjAcBgNVBAMM
+FSouZ2lmdGNvZGUtZ2FyZW5hLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBANUm42HmJ6I9T+ypfhYmIZhban1L+etjKs5LO9Ty5NzoXPzorE4OQ3dM
+F97oXORS2WogzCKg1VG5ZMxNYLABtIYYtFlnIvZ2PS7+hdpVIkTuXMQaeMXkzamR
+KpvGC5Lot0sBSJNUBHL0nmA2C4hoBjHafEfs6ZLmsHtePUH++/DlDM2JwHPALYah
+7sf/P/Fo0Q2dXdOoz5p1KiEtfNrON8ya1feR9/s48xXv8TrlQmNmXdgbnSZEkvxX
+0eT5FBQrxgHd2rnCwvLOeOqgpmoMLh+JvOKaMdBmumhNHfktzPcaHp2lUOJfER49
+wFhV74r+dfyzjUuic+M0hlHKH7PYovUCAwEAAaOCAmQwggJgMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQUWz1K0r5WRMv2zgvm+YZD73s19QswHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wNQYDVR0RBC4wLIIVKi5naWZ0Y29kZS1nYXJlbmEuY29tghNnaWZ0
+Y29kZS1nYXJlbmEuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+AwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQAp
+Bo2yCJo32RMAAAF88v4EqQAABAMARjBEAiAA12aDLo7IXU1xmjdkDW7qppt2yU20
+WrptplW4qrabdQIgPfi4J9yAT14tg4GyIlmbS+ofiVnM2Lu3W/H70N0fHtgAdgAp
+eb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAXzy/gR6AAAEAwBHMEUC
+IBsG2I5VjQ/oehkGGmgq7T2hN7w7ZN5ksA+H3FTR/EVEAiEAmX8KwzTRju6h3CJG
+MAGdMoiuCqRaUAmhpq/UHNN7ZmcwDQYJKoZIhvcNAQELBQADggEBAGlN8u4+Czf/
+XYSxKdEyDhbYrhJVFRoN9OQg4gpeV638Nd5yOVoTsHXwC3GWFQX6S4vKv1wSXto0
+4WVwQ000HNuwDSpvUwuxTxh6bS8h6D6FMnPWze91xoVj99xEhn5gBi3WWYl75jm+
+Ch3VeodDzx1Ah3R3v6/BCf0jSnzMQlPF0tEZH4nrsmJdJBDGciml/ZvEfhDgevid
+eO9VZ/32PrE1nODtZzbRugBIhOqHX4djaooea5aaI4wKV/dHIkme5rJbL3kKuEsr
+HnF8tl4x32Q1SN+LRoWr74fVeDXRJNhxHyZJfTmjtPDRTK/+qWOlvs3pFImLQWiS
+A/1jlmzKXIk=
+-----END CERTIFICATE-----
+subject=CN = *.giftcode-garena.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4542 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

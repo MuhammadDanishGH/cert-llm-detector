@@ -1,0 +1,73 @@
+https://adornedbyskyler.com/wp-content/cgi-bins/Outlook/VN/Outlook?email=tomw@cesmechanical.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = adornedbyskyler.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGqzCCBZOgAwIBAgIRAMhUxXH2YM1sLzkCguHvwYwwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA4MjIwMDAwMDBaFw0yMTExMjAyMzU5
+NTlaMB4xHDAaBgNVBAMTE2Fkb3JuZWRieXNreWxlci5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDHg5s4uICWn1BsHpVnOOZfR2yZtuKpwlNkyj8v
+WoLnE/5m3TCCtAQ1xtjoBZ+OJYVhhiKfjkLOeJsiEgICw9m03hqnB+AkAGQTRm5I
+YNM2JUFqPN0HARnVRQdmyTScodKw4c7cp4nSAz+zgM0uQslzWQfFaR8FWXWeuxcz
+/Pzs5gppqF0eHQ2ctb4MD/TubxvKYztiaCOWrxxT8jgmzCMNQMnOLh6dNNUuqFAE
+JqJOHtOh2Wn16YMVON+F6lIjQstQisDzdEc0Q/EcFZfnSr0+/bFscoEAgqqhA7Ba
+ZomNvLVdBjFcFuaT6Y4g6x5M14c5ZKUL3nD/RPZg33zrjqv/AgMBAAGjggOOMIID
+ijAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUn3dB
+/T9ScLBIj2BX+8cv5IS7jUYwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYB
+BAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMw
+CAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUF
+BwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1Bh
+bmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2
+AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABe20hvAoAAAQDAEcw
+RQIhAJR2yz4gDDxXemkvm2tBHhBLdOdeBmLYmMxNvC5fnNdnAiBzadFP/u0PgsHz
+LdAoeUbPVME+69bQCdUYVghgHKHJeAB2AESUZS6w7s6vxEAH2Kj+KMDa5oK+2Msx
+tT/TM5a1toGoAAABe20hu9AAAAQDAEcwRQIhAJwqzS+SWLx/7rHW+NkpVVO0Yqee
+S70RxkYd0aacallnAiBXlxoaTV8n/EGkSuLAO7bVZGLmF03EdQYi2ypz6qrMLzCB
+6gYDVR0RBIHiMIHfghNhZG9ybmVkYnlza3lsZXIuY29tghpjcGFuZWwuYWRvcm5l
+ZGJ5c2t5bGVyLmNvbYIfY3BjYWxlbmRhcnMuYWRvcm5lZGJ5c2t5bGVyLmNvbYIe
+Y3Bjb250YWN0cy5hZG9ybmVkYnlza3lsZXIuY29tghhtYWlsLmFkb3JuZWRieXNr
+eWxlci5jb22CG3dlYmRpc2suYWRvcm5lZGJ5c2t5bGVyLmNvbYIbd2VibWFpbC5h
+ZG9ybmVkYnlza3lsZXIuY29tghd3d3cuYWRvcm5lZGJ5c2t5bGVyLmNvbTANBgkq
+hkiG9w0BAQsFAAOCAQEAJbLHlKy5ARPQcx+cH3X719DWMy3/IkBtmh1n8rHCUJsO
+Jd01M6C0AAYbw0l9wZH7LRwhL9+ROHOOaPyqonQpRLHpLd9RwtRkkzLPo8/q6qjh
+w2Pj1bLng23OwB9LXmbNxeVBaMLkNoNvL8Vsrag3mKR+3mscxtSyKbASqWdFl+rE
+oIkD1JHKh+SKFhrak2e8AUmP7jXWEW8dL19BOkrtKaR6y6rcepbvXoR06wwTZXQz
+DIzMrh9Io1kSKlV+ElNYphND8tLxc7OpdQRI18qQYZhUDEIhKc3ao1x+6IswI8f8
+Fn5veRXe88jpl9JEItNHsmXXjEwBzMEfh0LZEBc5yQ==
+-----END CERTIFICATE-----
+subject=CN = adornedbyskyler.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5216 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

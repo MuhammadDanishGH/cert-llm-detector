@@ -1,0 +1,92 @@
+https://wm-moscow.ru
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = wm-moscow.ru
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:CN = wm-moscow.ru
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 2 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYjCCBEqgAwIBAgISAxFW4sJfGobR8xx0HLCsGrHSMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAxMjQyMTIwNTdaFw0x
+OTA0MjQyMTIwNTdaMBcxFTATBgNVBAMTDHdtLW1vc2Nvdy5ydTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAK0pPvB+0dSuf9OSFH9DWLaUFFdRIYjT4OPx
+dSbAugYcMtYh82v/pV18YkA83HqqFNaomI38QDU2AGXkv8whe2wAlV/43ED8x2Mn
+VJkefjOnohHTaVbCmm6vOMTQ7Bd/MU4Gkp/J8XEB7bKY4fSd+Gfi8Y+RQyRl6gYQ
+6Y7l+AGisFnUvlquT5DiLjZNxlxWqmqzMhI9dC/P2RhBZ4bgDAnDV7Zlfy2W11Vo
+bH7BhIPhZDsvRS1NcB1hv+MtQpP+tnCDM5B32mPZ79b7lVo2/5ZHKjyXSoyF9T/D
+fGcefe45IY7m7eb1eMtXMIcAh5Wxh0E5rStF04GoFZPYmaIPn+8CAwEAAaOCAnMw
+ggJvMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUCdJhkB/eQFnDFM9DcJNIprZU4m0w
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzApBgNVHREEIjAgggx3bS1tb3Njb3cucnWCEHd3dy53bS1tb3Njb3cucnUwTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHy
+APAAdgDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWiB87KEAAAE
+AwBHMEUCIQDHhxbLu5tfME47/CfRjmu+0TbEPc+syPSMmbtYX3TIaAIgD9ykTf7j
+Udl4aYEf8BJT/AOyZNmEK8ajrURKQorEz6kAdgBj8tvN6DvMLM8LcoQnV2szpI1h
+d4+9daY4scdoVEvYjQAAAWiB87DcAAAEAwBHMEUCIEPg6Me/y2TiwzSbufResEnm
+V9AiWVt2VTdZT/GGb5YDAiEAjg6X7CrMlzizixQ9AK3aXPuRmz5dHcuh+U06/4i9
+hXcwDQYJKoZIhvcNAQELBQADggEBAD2TjNXS1Kvq2/TxHEXabpyg3RYgKcF7LVEs
+RbAYdo/koqRBtYPtaEaInjr4FYt0bPARg1Hn0me/xnq1C+nCkB923p1Qg86fyhCZ
+M5InDnwhJCb5kD+LJOAStInNR+sAlflHb6zjNUhUJTh0P6bcFGketeEhaD9kZr/B
+mlbZqYyYEiEiBc6cIfo/fjjeNQM3QUJsmInFyM6DRZO/5RgQRBJfsOckPg+fq4xr
+fJ81rTg8PqNhZUvZw1hSiu6ibwPQvCumQwoOoVQ4ojLGL2iFFurYohFNIPWKn6jw
+BpWXvpKOK5NOocgSvRzIdr2C2Q5i8puL+FzVpxQYgNGW72sru0M=
+-----END CERTIFICATE-----
+subject=CN = wm-moscow.ru
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4634 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: B78F648636BE516F01135E2D738ECE80631428EFAAEF0AB75F94DD8E3B0EFD22
+    Session-ID-ctx: 
+    Master-Key: 5918073DAB841F4A73B0072D94164D2B7C51F6D24A021438FBA4388813071589A9EF3C6B0D07D41C75CF1BBEB17C828C
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - af 79 f4 6b 95 40 67 ba-90 48 b8 6c cb c5 25 d5   .y.k.@g..H.l..%.
+    0010 - 0b 3a 45 0b 12 99 e3 48-df 19 db 6d 80 24 1f ef   .:E....H...m.$..
+    0020 - 92 65 d0 c2 eb d1 4c d4-6f 42 2c 31 a3 ae 4b 7e   .e....L.oB,1..K~
+    0030 - 22 d8 97 9e 99 86 bf 3c-33 c5 47 d9 aa d8 d6 ce   "......<3.G.....
+    0040 - e5 00 8c 71 72 7b 1d c5-a1 35 2c eb f6 43 23 8d   ...qr{...5,..C#.
+    0050 - 3a 8d ad c4 9d 42 e7 dc-b8 16 4b 05 b3 a0 0a 4a   :....B....K....J
+    0060 - 76 0f 70 4d 3c 51 a3 c1-93 85 c3 fe f7 c9 5a 62   v.pM<Q........Zb
+    0070 - 18 9a 5a 47 c6 7c aa 63-95 8e af 90 69 15 56 60   ..ZG.|.c....i.V`
+    0080 - b6 9e 65 1d 93 64 62 77-8c e0 d5 f5 e3 bb 4e ea   ..e..dbw......N.
+    0090 - a6 ce ac 24 24 13 cf 83-09 28 f4 30 91 e7 4e 5c   ...$$....(.0..N\
+    00a0 - 1a 60 1c 7a 8f 13 4d 19-c8 eb 73 b1 dc 6b a6 bf   .`.z..M...s..k..
+    00b0 - 83 14 76 cd cc 44 b9 7b-0e be 2d 8f cc 41 90 6d   ..v..D.{..-..A.m
+
+    Start Time: 1548508815
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,94 @@
+http://admissions.gau.ac.ke/.wp/2018/2018/2018/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = gau.ac.ke
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF9TCCBN2gAwIBAgISA/AHSO3Jl2iieMnzdBwkU9JZMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MDMwMTI5MjRaFw0x
+OTEwMDEwMTI5MjRaMBQxEjAQBgNVBAMTCWdhdS5hYy5rZTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBALqKlY3x30fX8zTmhtIg2oBKlCHMlgRzydo+rsT/
+j0YQTL5fJgGATYmjC4Se2ZCEJXehkKB3o7WKAxRlAO/dU/8ea5hLwd5ofrIjvkSU
+tkbiKJ2/GH1zs2ENBtevB5EzTE8KkZry8HxeEVl6YZCNy/3kLjXa0ReBrA6RwiC/
+OZxRCVp2qDYTKDgV5kM0q60BA2rIrMbQPOgxkdvFrP6JcFqx1xTI4xisO81WM8qw
+vIfE5JT1z37cKC7yAd7xsbfHHUI7+rJyOIdKA3Bb61jUsOFBa2T6NXjBDTPM3W94
+n0tYJ3+vODOfxV9Bh4/S3BqtrKy3WGMkiohAB6r70bOazQcCAwEAAaOCAwkwggMF
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+DAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUk0yiN86+Vno+8n8Ggx9OhKC4ecgwHwYD
+VR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBhMC4G
+CCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3JnMC8G
+CCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3JnLzCB
+vQYDVR0RBIG1MIGyghRhZG1pc3Npb25zLmdhdS5hYy5rZYIXZ2FyaXNzYXVuaXZl
+cnNpdHkuYWMua2WCCWdhdS5hYy5rZYIOc2Jwcy5nYXUuYWMua2WCD3NlYXNzLmdh
+dS5hYy5rZYIPc29kZWwuZ2F1LmFjLmtlghh3d3cuYWRtaXNzaW9ucy5nYXUuYWMu
+a2WCG3d3dy5nYXJpc3NhdW5pdmVyc2l0eS5hYy5rZYINd3d3LmdhdS5hYy5rZTBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYE
+gfMA8QB3AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABa7WqSdsA
+AAQDAEgwRgIhAOv9S6CB4fDc8SufMmbEIuukQmMj270IA6BOOfAlSXMPAiEAx97G
+aFq22tzFr6yxF2x0EUQnEk4PqLlEreG+/FRX1rkAdgApPFGWVMg5ZbqqUPxYB9S3
+b79Yeily3KTDDPTlRUf0eAAAAWu1qknWAAAEAwBHMEUCICf1p9QLSx+oX8i0G+X0
+rh+oRtXMSySLKjK8AX8fAajjAiEA3jzENSEqy0VyjnAtRZi5kxagzf8S5/TG9Gqo
+GrkbKqwwDQYJKoZIhvcNAQELBQADggEBAHxsNedwjMCadQUJoxFMj4YbuUGZU9Z/
+aYZ92gxk3A/aZDOG+MbL1Jf/iH2YwcQrUEmEisJh/yOOgQg6YFtW85pEyuHJGJ4l
+Qiz7J1VeAC8BiIqAME4Phr/Q4xUoHxd7N6F0AF/TTbQTlnXI9IuYJzn+sLy+/18A
+fF5+XMm+xcX4nVvn9rW9sMb7OHbSfvGnu8KnDiWWfCPIJdseYJwzO8fQRJd39hf+
+GdIRIiUP1+rz3gN6ZVaEGM9PGfbxecwGUcNvd/YPhdTInFyJ/NliZ6hUsZz98QRn
+gLV6KPTmgJHAMvqZqoXjZUbTa0512cKYXAwHmOw2MHE4r5ju9MApyG4=
+-----END CERTIFICATE-----
+subject=CN = gau.ac.ke
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3412 bytes and written 458 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 5EE9828C01CAA7458ABB43D1CAFE0C28718E7F97C2ACFEB597A71A9810A53207
+    Session-ID-ctx: 
+    Master-Key: 5AA83F72240E6DFC768579999FF8E4CF7F1633114DEA18151BA8261C7442CE1993F7C74D66B2BA98BAE0367E161BCAE6
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - a1 96 8b 60 dd 80 15 67-15 82 1c ab 26 87 4b c2   ...`...g....&.K.
+    0010 - 32 0c 9e 78 b9 28 ec 86-26 07 da 92 db 45 80 84   2..x.(..&....E..
+    0020 - f0 cd 32 9e 80 ac d5 0f-8c ec 79 2b b8 5d cc 0c   ..2.......y+.]..
+    0030 - 59 46 f9 46 fa f9 eb e5-48 af af bc 17 5f 25 bc   YF.F....H...._%.
+    0040 - 61 7c 0e 87 73 40 24 6b-72 59 4b 6e bb fa a2 e0   a|..s@$krYKn....
+    0050 - 12 4f c0 80 5f 39 f8 b7-3e 19 89 bf 25 06 ea 37   .O.._9..>...%..7
+    0060 - 5c e8 43 77 15 85 53 0a-64 9d f7 4e 31 e9 07 47   \.Cw..S.d..N1..G
+    0070 - c7 94 bc b4 a9 02 ba 8b-fe 9a 11 7e fe a5 4a 65   ...........~..Je
+    0080 - 37 1c d2 a5 0b b7 01 93-30 42 9e 6d c2 88 96 42   7.......0B.m...B
+    0090 - 16 90 20 6a 00 2d 79 75-95 95 32 9d 73 80 48 13   .. j.-yu..2.s.H.
+    00a0 - d5 f8 6b 88 7b 85 a1 4b-bb 86 8a bc b1 a1 2d 98   ..k.{..K......-.
+    00b0 - 4e 13 28 0c 31 cb 10 9c-75 3f 7a 8a 78 89 61 0e   N.(.1...u?z.x.a.
+    00c0 - f4 f3 cd f8 e4 2f b9 12-d7 26 16 57 59 86 d0 1a   ...../...&.WY...
+
+    Start Time: 1564491626
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

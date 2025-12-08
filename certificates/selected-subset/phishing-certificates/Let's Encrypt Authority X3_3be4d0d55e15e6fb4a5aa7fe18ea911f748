@@ -1,0 +1,92 @@
+http://pablouzonmuse.com/login/service/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = pablouzonmuse.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFcDCCBFigAwIBAgISA75NDVXhXm+0pap/4Y6pEfdIMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MjMxMjEyNDdaFw0x
+OTA4MjExMjEyNDdaMBwxGjAYBgNVBAMTEXBhYmxvdXpvbm11c2UuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzYlMvNdghvKviEQGW/RtYyBV+IH7
+OpVPYNiqGZFdl2BI7J5WAQiiOy3p+aTMsedCZv9CgYqg+Xa4GInHdPts4d+NkGuU
+Vzg9ZcvwLkoe+StqOJr4ZBSi0F5oHv7wf9k4+M7C5JXVaR5fr/dLTjv2BoOj3OeH
+12F7eSJpaHT8YOxRTeSL+mr9Qxt/mTslB7N5tpWaRyB/13ZtgjADHlLvV0/fkZtJ
+DjajPU6xcX7JejFnHWB1J20slPtMM7e3MPPDmnucYLSwQCRkCCb5EJ4J2N2bhcLT
+V1ojSFuP27QPN8VbaqRmUuTM6csSatjzKGG+vVb5JJWJSD5XTVraGo7l2wIDAQAB
+o4ICfDCCAngwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQ7dypF1ubO36m+bk8VZW06
+X63aDjAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMDMGA1UdEQQsMCqCEXBhYmxvdXpvbm11c2UuY29tghV3d3cucGFibG91
+em9ubXVzZS5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEw
+KDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgor
+BgEEAdZ5AgQCBIH0BIHxAO8AdgB0ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnm
+EHvMVgAAAWrk0pUwAAAEAwBHMEUCIQDIJAri1MoiDMU9YK/HcItfnQNkQCJRK7HQ
+wBMIaUNUcwIgCTmYu0NT9QI7ZJOlVVBZ+ZReNwRk/qcF2lPAZwRGPhsAdQApPFGW
+VMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAWrk0pUjAAAEAwBGMEQCIE5n
+rZM7pNf5FRjGPKGQ4Pl+sBYYGVHc+X5YNe+E7zFUAiAwtbN9pwANitkDllJoWApy
+0rZQ+Z9JfrFLQfgQvQUANjANBgkqhkiG9w0BAQsFAAOCAQEAmwHHe0HrwmMNgRff
+NcU/Ui5PrXJtANiKV3ECAUaxYij5AeNfAUhN4YV8fGbm0GsIG9xCWWymnp4dd1ij
+DUTjC7WyiW/Nr8vY+3Ab4yNuGOnhY0BSOUEkk49FcIhlXbcm6G76OVJwYHvfToT8
+keFrowsyjDiEmIkpTn3FPQBrbeMx0Sll0jGC9weJolEba9SWDXePIJKnqKugIOkX
+3GayxqkxMdqXLfnbv5JB9aKKPRviLMWtAhMZIVImeoTlN3OrKvb8Wf9o2Y/7g0rm
+sNx+iDihwqa8hQ7WnEP9B+q/ivl+mtdIqHZ9EHY/natICwCVZ9jN7KVEy8zwAGU/
+oHjBow==
+-----END CERTIFICATE-----
+subject=CN = pablouzonmuse.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3279 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: B8C8CB4862537DDAEDED6A1DB1F32243151DB1D445B02316C85ACE5E5D176274
+    Session-ID-ctx: 
+    Master-Key: 34EEDE23292F07F100896D6943E6A117FC4316123F6A7287C94042B052A5E1E1D934231272B9348187CEBA6D9E100366
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - fa b3 cf 84 d2 5a fb 66-be 44 d0 a0 b9 f4 6a fc   .....Z.f.D....j.
+    0010 - 5e 28 74 07 fc 76 d3 48-cb e7 93 ea e2 84 e8 0e   ^(t..v.H........
+    0020 - d2 1d 07 a4 b5 18 a0 aa-90 ed 3f 4c e3 06 bc c0   ..........?L....
+    0030 - d2 8a d9 cf 9e e8 e1 93-8d e4 5e 8a d4 0c 38 12   ..........^...8.
+    0040 - 58 9b 7c 48 8f ff ed a1-01 fc 7f 6f 74 11 03 f2   X.|H.......ot...
+    0050 - bc c8 c4 f1 33 92 89 9d-63 26 e1 6e 78 7b 72 4f   ....3...c&.nx{rO
+    0060 - 11 8c 42 c9 30 28 b2 8a-a0 0d 0a 92 99 15 25 2f   ..B.0(........%/
+    0070 - 58 0c 70 6f 7a 15 bb e3-ab d7 3f ef 76 93 95 55   X.poz.....?.v..U
+    0080 - a9 30 aa 4f 9a 07 69 01-54 79 da 43 ae d1 90 e1   .0.O..i.Ty.C....
+    0090 - a2 81 b7 0f 9b 00 53 6f-8a 5c 70 bf 33 58 5e bd   ......So.\p.3X^.
+    00a0 - 5a ca dc ba a3 52 dc 5c-d2 1c 8f a7 54 f1 22 ca   Z....R.\....T.".
+    00b0 - 4b f6 8c 5b d5 12 e4 a2-c6 5c 36 ff 9c 04 3b 19   K..[.....\6...;.
+    00c0 - 16 ea 7d 50 be 1c d3 39-ed 38 7d 27 79 38 0d 6a   ..}P...9.8}'y8.j
+
+    Start Time: 1559134821
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

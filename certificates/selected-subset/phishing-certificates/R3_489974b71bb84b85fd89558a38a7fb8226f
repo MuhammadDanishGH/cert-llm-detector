@@ -1,0 +1,70 @@
+https://dbss.techvein.com/KSR
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.stxaviersschoolsahibganj.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGdDCCBVygAwIBAgISBImXS3G7hLhf2JVYo4p/uCJvMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MDkxOTQ1MTdaFw0yMTEyMDgxOTQ1MTZaMCkxJzAlBgNVBAMM
+Hiouc3R4YXZpZXJzc2Nob29sc2FoaWJnYW5qLmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBANZmY4RcGfWzvJ7hm+kQzFmha6sXwovIeIsWIf1ixSoi
+5W1Nh11cyM/n4y5tuUoLgPS+I8I3/2V8wyIFwddbDUr/Zt6R2sh60R3YAx4najHn
+cUrTJYa4Tq1vLs/XMT9K+vCoLzc7nLklINEMkVQZxxiHQKVe9KukPDueDjjqoayW
+h4rxn6qWerBYCWoJcLnF0K8NY2UmwkfsQ8T4CGuAHv3LylGinsn3FSYx36kcpBL+
+VG3OvyWpnp7hBHfiid/QdAVTSBFOa9Hs2bUmn4qX6zIAOB/j1yAuB2kLVbQs2JyJ
+1yQSccDt4mLQptzsE/zgJqdNrVmP+fq9+vpY2UE+53UCAwEAAaOCA4swggOHMA4G
+A1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYD
+VR0TAQH/BAIwADAdBgNVHQ4EFgQUspT/mNVYWWuROd7AV0Sv4O+Pu1cwHwYDVR0j
+BBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsG
+AQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6
+Ly9yMy5pLmxlbmNyLm9yZy8wggFaBgNVHREEggFRMIIBTYIQKi5icnNzY2hvb2xz
+LmNvbYIPKi5tcHNrdHIuZWR1LmlughIqLnNzZWNzbWFqaXRoYS5jb22CHiouc3R4
+YXZpZXJzc2Nob29sc2FoaWJnYW5qLmNvbYIOKi50ZWNodmVpbi5jb22CDmJyc3Nj
+aG9vbHMuY29tgg1tcHNrdHIuZWR1LmlughBzc2Vjc21haml0aGEuY29tghxzdHhh
+dmllcnNzY2hvb2xzYWhpYmdhbmouY29tght3d3cuYnJzc2Nob29scy50ZWNodmVp
+bi5jb22CFXd3dy5kYnNzLnRlY2h2ZWluLmNvbYIXd3d3Lm1wc2t0ci50ZWNodmVp
+bi5jb22CHXd3dy5zc2Vjc21haml0aGEudGVjaHZlaW4uY29tgil3d3cuc3R4YXZp
+ZXJzc2Nob29sc2FoaWJnYW5qLnRlY2h2ZWluLmNvbTBMBgNVHSAERTBDMAgGBmeB
+DAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxl
+dHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AJQgvB6O1Y1s
+iHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABe8xOvkAAAAQDAEcwRQIhANllLKsJ
+CeMMokoAbCRtPJpl2rzpdxf5oBTqup4ybz2xAiBE6EmOTWcfdRYjoHg2HOXRoCva
+Pn+DSXPTKJc2gLCi3wB1APZclC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTj
+AAABe8xOvjIAAAQDAEYwRAIgLOKlBlAwLeABhAjVwtXKR2GPseNhOFqXS0qu2HBv
+QloCIGO+JgYCYFD4KV9zNjtSixwCDHom5YcXDolKRGGb5BuRMA0GCSqGSIb3DQEB
+CwUAA4IBAQC4zU3f+dasDcVab05hjnMWlwBUC5qu1aGnlKBsF01zzCAvlSvjEUiL
+b4VprjqW5BPRvNJnCht4SiEkzJIao/ZSYWNIFZbw0uG199C327SQUXfB5+IXOCtx
+XswE0o6WzKNYcBN8gIgEU+za9x1+BMxs0qdZj7yObjWHR826zOiq59zh1rfElk8L
+N6sKaSuUjkUHItXBTCY7piJWdeL7NaPk/VvrQH6VuK4m48BNAFJ0EAS0RWcEluu+
+rJpOehiyuWyYaH99BATVVmseYR3DkyMU2Wcv+rTSz6suHBjI0LibfQx5fQAgZeYA
+Xu1sVnkdV7lLO9FXecwPpvaJU245IDpl
+-----END CERTIFICATE-----
+subject=CN = *.stxaviersschoolsahibganj.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3527 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

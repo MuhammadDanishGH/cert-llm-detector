@@ -1,0 +1,73 @@
+http://bokepgadisnakalterbaru.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpcalendars.bokepgadisnakalterbaru.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGkDCCBXigAwIBAgISBLBjPTfotgHfjtCtjh41cvp4MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MjgxNDM1MzdaFw0yMTEyMjcxNDM1MzZaMDkxNzA1BgNVBAMT
+LmNwY2FsZW5kYXJzLmJva2VwZ2FkaXNuYWthbHRlcmJhcnUuZHVja2Rucy5vcmcw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDe7/95j1OIdHHSjzuk4/Lr
+UsJm5TTPqnMT5MNRXi9MqkJcGACo8R1WPzWp6/ibAHgE6DnEs4idUTGw5t8qMtTL
+dToT9nORFVhnMetCV2zhdaWIX0XRg7zLYVnpSZp0jk2/Vbez74spTi2eHUvJO4BR
+gduHDEvcL5Zv6MTHIs7cybYysMXjTciBCzOzRN/YtN18Ksd5MYIip19ACnNZT+Vo
+6sI0lUNdeTTI8ly4h3ym/Yw93+7nrB79fLL0a9AzGsZFajske7XgpJCX2CAWiSLQ
+TEeqLof/ebu+ZPLqgUgJnxiWVY5XdU/lPWFxdhlmMf2O/kzpCZakeqiO5CmYm0Vr
+AgMBAAGjggOXMIIDkzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFFh5uYAbhq6hv8+f
+ewSjOlJC8DRoMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsG
+AQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIG
+CCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMIIBZAYDVR0RBIIBWzCC
+AVeCImJva2VwZ2FkaXNuYWthbHRlcmJhcnUuZHVja2Rucy5vcmeCKWNwYW5lbC5i
+b2tlcGdhZGlzbmFrYWx0ZXJiYXJ1LmR1Y2tkbnMub3Jngi5jcGNhbGVuZGFycy5i
+b2tlcGdhZGlzbmFrYWx0ZXJiYXJ1LmR1Y2tkbnMub3Jngi1jcGNvbnRhY3RzLmJv
+a2VwZ2FkaXNuYWthbHRlcmJhcnUuZHVja2Rucy5vcmeCJ21haWwuYm9rZXBnYWRp
+c25ha2FsdGVyYmFydS5kdWNrZG5zLm9yZ4Iqd2ViZGlzay5ib2tlcGdhZGlzbmFr
+YWx0ZXJiYXJ1LmR1Y2tkbnMub3Jngip3ZWJtYWlsLmJva2VwZ2FkaXNuYWthbHRl
+cmJhcnUuZHVja2Rucy5vcmeCJnd3dy5ib2tlcGdhZGlzbmFrYWx0ZXJiYXJ1LmR1
+Y2tkbnMub3JnMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgw
+JgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYB
+BAHWeQIEAgSB9gSB8wDxAHYARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2
+gagAAAF8LQwReAAABAMARzBFAiEAvQJe5YpguaCJWBu0q31pfcAsjVvzn/tDF47Z
+M3JTbDQCIHbesiHksOAlOpx4kBBdrwwdxhAXzMPbbpaNj7LEX1V/AHcA9lyUL9F3
+MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF8LQwRTgAABAMASDBGAiEA8STP
+VUadJCCbbpsUcWi53vAnNiYD5l8mGGjiBSq+IswCIQDxzL96rYurG2UZuCASk3Ou
+aaXlXdpDy0H5fTWDAbXGvTANBgkqhkiG9w0BAQsFAAOCAQEAVOo7uiVUORDhkcnC
+YXeWvrLUYKhXX/KzrYzW/vOlbID4+dIqOMFq/tiKh7zQcTxc1ovhFZ8A5UgmRv0n
+O2YX3U3ASrK0BUKvYF5IBJMRGva3fpbFkrFruIGP/3LnpEfVwB+c4GscOkNxN5ig
+tepBemmMwKOVdRcebo3+ezpVVsgs5ODWXk0+hgPv34HJiie7GFcwOlIcRNFcjksd
+6JfdQWL/pncrCdFhMLL5rAK7Y/5x5QIcTxK7521GSdtAz/WCVzjCClAwn7rcDqum
+e8uh0zhiJAIFd38//AiUKgnBFU+l1ikOkAY6HK9q75ntW/F7gWnnOjKCXFkI3Xy4
+NT12SA==
+-----END CERTIFICATE-----
+subject=CN = cpcalendars.bokepgadisnakalterbaru.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4870 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

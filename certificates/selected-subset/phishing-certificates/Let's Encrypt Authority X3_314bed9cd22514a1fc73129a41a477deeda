@@ -1,0 +1,91 @@
+https://www.hadidi.info/1Ewlmt
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.hadidi.info
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFVjCCBD6gAwIBAgISAxS+2c0iUUofxzEppBpHfe7aMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MjcwOTIxMDJaFw0x
+OTA5MjUwOTIxMDJaMBoxGDAWBgNVBAMTD3d3dy5oYWRpZGkuaW5mbzCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBALPZGKBqRqpG5Psqcd19hj67E3+502GS
+bwhXY+Wv2TNoD6AT8S4AjFqMXhB5HXIzjK/F7O559sezwPjbXmE8fYZzsuTUy8IZ
+oF2e3whlW/xCLmjKIBr8PasKpTygB4SefX0ZumIkn12BNTOLG7cbgsE5gyrKGZmo
+2VmGkfBKlGSni/RRxqIRuLY0ZN0YrEHvTArJ56REdWfp37ha8mLdEJnN55GwlWYU
+yhAmDDHM8OgI/AxeEOLn92pW6Zhb8l3aC9BJw1j9H0fdD0MQWkic2yMgTydUiRk9
+MSir8l+qwCbYU6WTRkE80AnLgEvb0qBDuABGzL9Ay1pKZP6FZ0vz6K8CAwEAAaOC
+AmQwggJgMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU9MAm/lrKhmTA6IYCSZDCSl7P
+VfkwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnLzAaBgNVHREEEzARgg93d3cuaGFkaWRpLmluZm8wTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdQB0ftqDMa0z
+EJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWuYc+4TAAAEAwBGMEQCIGMFzYYs
+kA0cAe0soT8X9GyoNN3TRTtyRnF2ItfwnTKdAiAGa/YT1wdxUeNbOffUgIgMSefT
+4F1/Rlik91GYfRYjRgB3ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4
+AAABa5hz7iwAAAQDAEgwRgIhALZIXGXKlzA873XmxZXFu2wdK5xPz/MjpjkdCjPM
+cXz9AiEA/X5/+1HKZV5iiLBDWHHqvqAC9VsReQ2fNU188ryGAHAwDQYJKoZIhvcN
+AQELBQADggEBAJK9koj4B5olxnnozjnoAq8kNn39u37DArner1emIZHKabkRs9IS
+Gdwb37HBFEIe5tVmTy03jUU6tberyLR+uLwNF9QyjuoKoH5HwAw4BXbC7j/o5wJt
+s2V/PYqd8dWBCFA/V1cDs2np+jH0tUqMi3Gl/2I7cDVBSqWm38AlI8eh/ymhQflO
+fKDk6SrFwDX9EEQ8bMzps/+awYZXSjuILGENxTLN9dqYulQZo9li3spXBIazMIF2
+TUYNqqB+i/9fnyFeXb/2UBZeQWPArS6rD4qKY44TpL3gSEAPxFf6zgt9XmagZxQW
+9oekZltD/spSG16t8c5Io0u5yoc0BW7XQiQ=
+-----END CERTIFICATE-----
+subject=CN = www.hadidi.info
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3216 bytes and written 412 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: CF97CD40988FDC265EDB434DEEA57272460025CF6F5C9F25754A00864FF9CDD7
+    Session-ID-ctx: 
+    Master-Key: C428EA3A3D60FAE3600FB32A984DE1871F50724380FF9D53CE25F753B4AF35457E69469F90CAF2D29331EF7139820B70
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - fa 12 7a 52 9f b8 cb 80-89 f9 ea 05 21 45 6c 2f   ..zR........!El/
+    0010 - 3f 80 7c 56 70 42 b0 8d-06 e8 ef 00 92 3c 7e 1b   ?.|VpB.......<~.
+    0020 - 16 fe 26 09 0f 23 eb eb-1b ff 25 5c 7c 46 22 83   ..&..#....%\|F".
+    0030 - 87 70 7e 78 db 4c 17 b4-c6 7d ea 27 e9 bf 6e aa   .p~x.L...}.'..n.
+    0040 - 3c c1 3c 4a cc c6 c3 15-bd d3 c4 29 33 9d 0e a7   <.<J.......)3...
+    0050 - 77 4f 31 a2 40 77 6e 77-0a b8 cd 59 f9 7c f0 e1   wO1.@wnw...Y.|..
+    0060 - 36 34 e0 f2 03 e8 29 d1-59 79 fe e5 1a 67 3b 76   64....).Yy...g;v
+    0070 - 4a ac 1c 7b e9 bf a1 d4-0a 8f 95 28 6a f4 a1 ae   J..{.......(j...
+    0080 - 1d 9d 73 f6 47 94 88 6e-8e 64 d4 fa 81 ef 06 bc   ..s.G..n.d......
+    0090 - 13 eb 4b a6 8e 46 0e 79-7a 65 14 81 0d bd c7 66   ..K..F.yze.....f
+    00a0 - 21 64 94 bc 91 41 ec 30-cf f5 3f e0 93 86 44 d4   !d...A.0..?...D.
+    00b0 - c4 86 3c 4d ce f8 79 9d-3f 76 ba 42 ca c3 4c 3d   ..<M..y.?v.B..L=
+    00c0 - 1b 1d 71 ee d7 c7 b2 d6-f3 72 12 9a 19 2f 63 fe   ..q......r.../c.
+
+    Start Time: 1561726822
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

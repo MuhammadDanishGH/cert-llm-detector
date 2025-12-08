@@ -1,0 +1,66 @@
+https://newshearsupporty.com/sys
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.newshearsupporty.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFSDCCBDCgAwIBAgISA2BxMRNoE6BrO6vqrEyLhtOwMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTgxODE4MDhaFw0yMjAzMTgxODE4MDdaMCExHzAdBgNVBAMM
+FioubmV3c2hlYXJzdXBwb3J0eS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDLMCRkC6ZyZgJuo49P79QSE//tmzuSv+i5tIeaQDsyuE1B0sNbqNAr
+Wirg7VqphfmhCsvPV9D6HJJAlkXeLLblPM+Wwz5ry7sK7Jv+pWdGEgMbJ6SbfN3H
+iOHjG4DpehClZ82K9xmRULNIobldjhZRW9eri0HTd0gCXAwHBJ0ZzA/vS6P5r1Pv
+7eRgG6atl14y+Qmq8LSX0dvKhPXXg9HYnj+3NCSj0sK+1isokyL0XMuoIJOCDjHM
+XRH2AYoPpyiLHuA2S4q7ix3dXTkyzZHPNyjmSZ8jOU5YxUnzOmGBrXprXPLW1+cA
+tx8muYAqSbKlRDXvoPqPidxMLyugnqOjAgMBAAGjggJnMIICYzAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFM/PC2bWr+xKpvrFTcSvZfpuxXfUMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMDcGA1UdEQQwMC6CFioubmV3c2hlYXJzdXBwb3J0eS5jb22CFG5l
+d3NoZWFyc3VwcG9ydHkuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkC
+wQApBo2yCJo32RMAAAF9zvrjwgAABAMARzBFAiB4w3b1clLJ5vmRvQOq5uCXpjTD
+wKAO8JC5DaJTXip78QIhAINHXTr5ZfDDImqKZmva7pDKES/ZlsVynVxDyw+BeHw3
+AHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9zvrkOAAABAMA
+RzBFAiEAxOy2/9ByDZ9PsN/Hbzm3YBOaWQcfzK2+ZDAY23NLrFkCIFEqycexLHpf
+O7su1YR/Uui7hU6Rg62J9Dmy+fJA9s7hMA0GCSqGSIb3DQEBCwUAA4IBAQBP+m8l
+sUuoOvDj5HyJOP/RDGxxAhyZk44J5l48QnXhN0noxWO9SrD12gYQ9kJZs9VV1o7g
+vle5cBTkOPber8VNG1I7HqjSnFBZy69LT25dTduHIB3vLiGdfPAKF7xbKdMlRFST
+riAYnNXReOscC+8ypD0I0Ilm6VkpleT4o/G22akhcL71DSiJAawPO+Qk8+aLCiS8
+bvFflj4V5UJMd0Z9r6qMm11V1MeXWUVXF9BrFxgxqlxtQxJFSjDAuPgo70TCSuX9
+/EZmOfhjX0GzYodoidMhmp0FmHM4JS47ZbqzVb7MdKDZpU8IVzCJ1dR4ebI9R6cA
+dNvI7K+Dn0GlvXKd
+-----END CERTIFICATE-----
+subject=CN = *.newshearsupporty.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4546 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

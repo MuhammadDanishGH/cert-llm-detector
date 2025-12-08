@@ -1,0 +1,90 @@
+http://allisweb.com/cusm/logs/Dashboard_ppl/myaccount/signin
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = allisweb.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYjCCBEqgAwIBAgISA+5Mtsb7ZGU3GAN+ZTpM9nU/MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MjExMTA5NTdaFw0x
+OTEyMjAxMTA5NTdaMBcxFTATBgNVBAMTDGFsbGlzd2ViLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAM/Ke/UKEEXqw7u6xH/w5DOha7JO+Ouk947x
+EMDBRY+h1W7AnlCt60XeG6klB0guOfzDL6ZL+ZrgmABHyNlmNntsg2rfqMgGcw/L
+6r1+bSEgFiMrV9F8IGFPVwWnWtX2i65G/+/k90yjyJNquk4g2tR8Cp5ZTNCLcpzr
+8Zn52gszlLshYRrfP7OjtvazToOqgr20vKQgF5SCG/8oXQ/g+oGm55d7J5pT88RX
+JQ0JvR0hwAOQne1Fz5JxQ8LE/Lxf87WgI+I++YW8iMA0FZfJu4ada7uFYamWXTYo
+Mu2PPttEz6D5YtCM/4l/u31Kfe8VJRYoPHnfvzCvTKaMOdT1HyECAwEAAaOCAnMw
+ggJvMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUC+C7GJtAgCBkx8sSerixZcxNE8Mw
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzApBgNVHREEIjAgggxhbGxpc3dlYi5jb22CEHd3dy5hbGxpc3dlYi5jb20wTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHy
+APAAdgBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4scdoVEvYjQAAAW1TuorXAAAE
+AwBHMEUCIC+jnu4RJahdaeItemsfgtZfATHlvVQfgoxR8DRZifQjAiEAgCVQp6BB
+DZV/eU4jAZaH1GqvGsub+ZlUVSaG28LKy9kAdgDiaUuuJujpQAnohhu2O4PUPuf+
+dIj7pI8okwGd3fHb/gAAAW1TuoyrAAAEAwBHMEUCIQCDZmfPnHbVDqFHlwH08/dx
+xo7BdloGwCSvwWEblXSH4QIgTtZDRCobjoXQ4crGFfs3S7mdJFROYMOyVeVW+Fow
+vkcwDQYJKoZIhvcNAQELBQADggEBAA9Yt0n13087NsrE//FVY73FyPm+IekQ/ZT1
+5wqXAYuTOcep1giNmIkAveUswrpCupWxFsCWMDa+DTZpQBhkHXRUOex2RRBZDBSx
+peqCnfjoNjwdDSuzb35uL4hUKfeZe5K5pPSyB7ns1MkKuZv0PeaqLARDzbUo7qya
+bSuVk9+VsN61TYTUT6zHT2KY4LX6fWCJG5Gd+chqPaBetW8QJnVchh9ojYEI2frj
+Fmw171zPnv5HeOZABEoZa3fKmJbAVZyKKDqI3MfcrqAvi6R6UcuyclNnbWkLjtzR
+8oJWsWqQmsevFsuSp+d/83WoUTBVbu+HYaEtmB2yjeSFzaxWpDM=
+-----END CERTIFICATE-----
+subject=CN = allisweb.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3249 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: E336158BF39090E94EE26CB5B54916941899C28004E833E5B4B846880E5564FB
+    Session-ID-ctx: 
+    Master-Key: 4021CF70FCA78C9A89D8166276BC3D425F043C275DDE1DB8CD5B39121C8F0B0AAFD4C32AD1AC164134F9747C1088FE94
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e3 91 f6 52 c1 9a 07 cd-57 87 09 0e 67 7d b0 68   ...R....W...g}.h
+    0010 - e6 b8 53 68 fd e9 f2 2a-83 7e 5d 3a 21 5f 44 b0   ..Sh...*.~]:!_D.
+    0020 - b8 a2 13 49 85 03 3f 27-ef 49 26 e4 c8 8b 42 24   ...I..?'.I&...B$
+    0030 - 21 9d 11 d7 55 5a b4 f3-9e 92 98 63 cc 5a 62 d5   !...UZ.....c.Zb.
+    0040 - ad 1c 85 f4 cf c1 38 5d-eb fb 7a 8f c1 ee 2e 7c   ......8]..z....|
+    0050 - cd 67 78 82 a2 e9 30 72-2a 4a 5c ea 78 06 c0 2c   .gx...0r*J\.x..,
+    0060 - 28 92 97 ea df e1 2a 57-ed e5 bc e1 8d 1f 1f b1   (.....*W........
+    0070 - c5 93 b7 8a 37 2a 77 04-f3 d8 5c a3 ab 2b c7 08   ....7*w...\..+..
+    0080 - 64 4c 32 29 08 e5 29 6d-53 37 c2 e4 22 7a 9b 71   dL2)..)mS7.."z.q
+    0090 - 18 52 d7 cf 4c 47 a3 5d-45 49 9b c5 c7 86 e7 c0   .R..LG.]EI......
+    00a0 - c1 2e 37 ef 8c 3d 99 92-c3 94 bc e0 89 66 74 6f   ..7..=.......fto
+    00b0 - fd 35 89 cf e2 03 0d ac-85 e3 81 5c 54 51 5d a7   .5.........\TQ].
+
+    Start Time: 1569157230
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

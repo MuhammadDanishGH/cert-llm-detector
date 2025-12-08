@@ -1,0 +1,70 @@
+http://hapropertyholdings.com/Virtruportal/off/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpcalendars.hapropertyholdings.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGAzCCBOugAwIBAgISBJbf1NBjoVJSCmhY9HymD1JXMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMzEwODMyNDZaFw0yMjA1MDEwODMyNDVaMC0xKzApBgNVBAMT
+ImNwY2FsZW5kYXJzLmhhcHJvcGVydHlob2xkaW5ncy5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQC4JFQpwIJgNUGOvmEN9xI8VAVbsgi9Mk6a6ThD
++U9StVWACo2lCiTjjjE31C3E3o/o0TkStbpDvzl7HzL+MaPgLb3uPksds6ncaDdS
+jd+v2BpZPLxYibw5wqNB5w3BTLmYKk1ujWMoIz5+1mdPULyaELst2eVXewEwzO1c
+rNylzorhsuxZtrP4YntkL5l/0W5BbZ2NiGFLBQ2tWyc1m056w8FIr7B0zx77OfKt
+N0UN1ZJSBEHzqMFZuzA2PfM7PythluhSAHobIEcKAakVo0z+xICvZFvckWmhgP+y
+QO1PJAWJ8LYn7VCUQaB1xgCt++Z5Lh7ARSXadpTAb4UY7qPPAgMBAAGjggMWMIID
+EjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFNUr94W0FQnDeFqMi5Hmfk+r6+bTMB8G
+A1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAh
+BggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZo
+dHRwOi8vcjMuaS5sZW5jci5vcmcvMIHmBgNVHREEgd4wgduCHWNwYW5lbC5oYXBy
+b3BlcnR5aG9sZGluZ3MuY29tgiJjcGNhbGVuZGFycy5oYXByb3BlcnR5aG9sZGlu
+Z3MuY29tgiFjcGNvbnRhY3RzLmhhcHJvcGVydHlob2xkaW5ncy5jb22CFmhhcHJv
+cGVydHlob2xkaW5ncy5jb22CG21haWwuaGFwcm9wZXJ0eWhvbGRpbmdzLmNvbYIe
+d2ViZGlzay5oYXByb3BlcnR5aG9sZGluZ3MuY29tgh53ZWJtYWlsLmhhcHJvcGVy
+dHlob2xkaW5ncy5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMB
+AQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggED
+BgorBgEEAdZ5AgQCBIH0BIHxAO8AdQDfpV6raIJPH2yt7rhfTj5a6s2iEqRqXo47
+EsAgRFwqcwAAAX6vespVAAAEAwBGMEQCIBKyl33rAdJinuj4pWQE10TjFBKkmRMg
+gTFp14rG3YviAiAnho/6MD4DPJ7NXEiGdAUI+mFAM7FxSqvb6zEWQgXnHwB2ACl5
+vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfq96ykQAAAQDAEcwRQIh
+AP+BCM7X9nw/Kc7dydyXpvPPkeuJzNUwpeM3FpsC+5Y1AiAoiHAWT/lVs16hhZF/
+9dQsg0EF1cfKxrst2eF7IPW+bDANBgkqhkiG9w0BAQsFAAOCAQEAiT/2lOEq05vr
+iJ8r05d77MPsuXHy0Fti9aIbrtCsa46H9DiA7FWNZ0WNZXfAIrf9fBxvt2pNyjAT
+6BYDnFvlfe+D6WL+o0vtYKE620HPTy3r1adJrJuSoRU7objLVfx9hO5q1xSD6PGd
+CalhkeERQs2xv8I53KH2pBfCBep1GRludQ49sGKleaDr9a/Q0U83jgbHdIwrg/lw
+scDTX02ItJjjQGkZ0ltKqLjXEnq2j4eu6Bi1XqCSpjq3qbc2ur0k+/Vcmo+426Yp
+Wj0g1P7rBYp3yVikJBuyfqvkP6g1mPRFxaK0eey2/1c9V6mHaEIISsW0poaUTnr7
+937tps6qZQ==
+-----END CERTIFICATE-----
+subject=CN = cpcalendars.hapropertyholdings.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4799 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

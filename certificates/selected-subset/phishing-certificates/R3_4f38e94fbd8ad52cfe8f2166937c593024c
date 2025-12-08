@@ -1,0 +1,71 @@
+https://smbc.cart000.com/m
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = smbc.goldloan-kiyaku.net
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGOjCCBSKgAwIBAgISBPOOlPvYrVLP6PIWaTfFkwJMMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTIxNTUzMjRaFw0yMTEwMTAxNTUzMjNaMCMxITAfBgNVBAMT
+GHNtYmMuZ29sZGxvYW4ta2l5YWt1Lm5ldDCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAJx+M6IT+xEHwk/hOiFrqVs5MFr32iruDG6Vvmro39VL6/4OwOau
+DEUXVXN/F2gR0H9I9vJSHMLgKM+mXjpAqolXcDZg77IfhFX1zTkzj9+GipRazH9v
+hQ465TqOYMKue6EqTSov7ev6IKXX+IggQGrbUFx4kXazfUyHHNRYYJALarwZ2B/t
+dGIgHoT7ijsGT2xq3goYlBM99gUNW42lSyv/+rREMNfCsWACJ1Xtjmw4xKVHaLQW
+FjT6DoVa68ivSTe4qoCDsjVfB+wnoWtFyciDlwupWRWrJkznI04RdUDOidyTypY6
+ORS9m6nErhUir3Abfw1gv22BsTct2nOHtFUCAwEAAaOCA1cwggNTMA4GA1UdDwEB
+/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/
+BAIwADAdBgNVHQ4EFgQUwcBMHkxRxEtiKz5a/3h1Z9tzNz0wHwYDVR0jBBgwFoAU
+FC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzAB
+hhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5p
+LmxlbmNyLm9yZy8wggEkBgNVHREEggEbMIIBF4IQc21iYy5jYXJ0MDAwLmNvbYIQ
+c21iYy5jYXJ0MDAwLmZ1boIQc21iYy5jYXJ0MDAwLm5ldIIRc21iYy5jYXJ0MDAw
+LndvcmuCEXNtYmMuY2FydDAwMDUuY29tghFzbWJjLmNhcnQwMDA1LmZ1boIRc21i
+Yy5jYXJ0MDAwNS5uZXSCEnNtYmMuY2FydDAwMDUud29ya4IRc21iYy5jYXJ0b29v
+Ni5jb22CEXNtYmMuY2FydG9vbzYuZnVughFzbWJjLmNhcnRvb282Lm5ldIISc21i
+Yy5jYXJ0b29vNi53b3JrghhzbWJjLmdvbGRsb2FuLWtpeWFrdS5jb22CGHNtYmMu
+Z29sZGxvYW4ta2l5YWt1Lm5ldDBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEE
+AYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9y
+ZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2AFzcQ5L+5qtFRLFemtRW5hA3+9X6
+R9yhc5SyXub2xw7KAAABepujPbQAAAQDAEcwRQIhAINeqe3yjiR887iEfwtxjiQm
+FciQM+nw+hrcGkEhf7oiAiBXGDiOmIOM8jLBkJSLKlQlBzENDUllVjNfvTC+Uf8h
+xAB3AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABepujPdgAAAQD
+AEgwRgIhAPAVHj2uocNXMFyMSzSPmSnRHiqYekRw0gzI7BAs7LEuAiEAru0iKaJp
+A1SEfmrUyofQbEEBhyG5bWZ2L7megrEA+s4wDQYJKoZIhvcNAQELBQADggEBAKgw
+OzXMaF8NLXVHIbDRygKBK/8UDXxNNCJR/eDn0rTa8cdZ7YTT12jBVekXoMC4oEdW
+aY/khAaAXMXZlb0b/J0Mbsfli7xNVtfixkIrcM0cKQ0mBIOh4Fn5d92DU2J9t0yo
+i4TZcsxmY47sR+0kM+4E9tyzHAjo4O04Y2KHVNHDsiS08HUqqS25se3Zp6bPLynK
+7CbGtddAeMzKdgac1BFrT0xdevMFRBtitpQSjxpvE8pLcJu0tjKOtx8mtWj7UJzW
+nhxi/N52H1xNtPSm0+4qbIyoFhXplexo/8c6V1w4+ngn++ooZU0VIjJTHv//3AWJ
+2DBnUf2iPKNP7QjOnUY=
+-----END CERTIFICATE-----
+subject=CN = smbc.goldloan-kiyaku.net
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4854 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,92 @@
+http://mail.simpower.com.cn/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mail.simpower.com.cn
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+ 1 s:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFkTCCBHmgAwIBAgIQAhHA0XkS1WAsuLnjG2gimTANBgkqhkiG9w0BAQsFADBu
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS0wKwYDVQQDEyRFbmNyeXB0aW9uIEV2ZXJ5d2hlcmUg
+RFYgVExTIENBIC0gRzEwHhcNMjAxMjIxMDAwMDAwWhcNMjExMjIxMjM1OTU5WjAf
+MR0wGwYDVQQDExRtYWlsLnNpbXBvd2VyLmNvbS5jbjCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAKDGwOhoyZaQsgi4v2adOpTz7vE2r3b1btu13j0hUri6
+Q2t1C4fBV92AzTYtRf1kQTKTiGIU71qWlkRPDBpohRjPzcoL4YPjo13tMwZ+1zwr
+nbCKgl0Q76V5uje5nRFMM+ODtpXY4FY4qwdHzv6CHMXNMqbe+oPAEEwUFlH3zcu/
+NKyQy5+JLdVJca7Sw85BHjtovuugZXwhAoguZQEONOiQqP3the8wWOnY/t/58UYm
+Mgfxpe57oyr1I7sNo3t0P6nMQvEiTwMqXEL7Qo5n604RtZYLPzRbyhdgN10AFKAJ
+fBkocOomWCwbvZyinQynNtJoTlYzuaqrBe5Pbjm5suECAwEAAaOCAngwggJ0MB8G
+A1UdIwQYMBaAFFV0T7JyT/VgulDR1+ZRXJoBhxrXMB0GA1UdDgQWBBTGlgEcL9c+
+V+Sk89EeWN1xnvzh4zAfBgNVHREEGDAWghRtYWlsLnNpbXBvd2VyLmNvbS5jbjAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEwG
+A1UdIARFMEMwNwYJYIZIAYb9bAECMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3
+LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQIBMIGABggrBgEFBQcBAQR0MHIwJAYI
+KwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBKBggrBgEFBQcwAoY+
+aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0VuY3J5cHRpb25FdmVyeXdoZXJl
+RFZUTFNDQS1HMS5jcnQwCQYDVR0TBAIwADCCAQQGCisGAQQB1nkCBAIEgfUEgfIA
+8AB1APZclC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTjAAABdoRbB5UAAAQD
+AEYwRAIgNKNgLUgNu/wocQUTGxi4Cwfnd9rxo6vW+V6smr1GYnUCIB+6NR0nEDLz
+sD/MAkJu6rAPUHeuovkO0oifYRvPK88LAHcAXNxDkv7mq0VEsV6a1FbmEDf71fpH
+3KFzlLJe5vbHDsoAAAF2hFsH+gAABAMASDBGAiEA3NFxMgDQd8lr2OHECaB41blc
+UHBV6Gjd1JJte021CWQCIQDLiiIVHlfp5kQhu7uJmvXWSLRKuP+qoyASSqCvgkOD
+4zANBgkqhkiG9w0BAQsFAAOCAQEAdr1NLn48aCb7trquoyWIsCR4rERpYfl/77d0
+7uUYhw2bUb6N9GUF9rzxDo6JzocNeUCtWfoxo57VSoWBmV3ZEStt6fQ/NhcGFa9X
+bk8acjRYVSS2IP6QTGPCcqI91MMjqKazrybQxQBjLOoczRHv5LhcuYyodZQY3LWP
+KuKkC7c+362hrk+a5FvpI0eU1CtLGpd0xGh75yfW23+dAUs+3NfazQkkl5ju0LVV
+ZUeZ1hy/Yep3AII+VbSvr0U5YU1xtTFIxPzWVYkbFFfbUScOaF4E9djfwjJUCfJ2
+hfMMTKBdtn+u3qexDAwwmsJsTwc4b8rrpTfcU/699ujHAJs3oQ==
+-----END CERTIFICATE-----
+subject=CN = mail.simpower.com.cn
+
+issuer=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3307 bytes and written 415 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 6EA03D558F645C62292D3BADA85A7053EF73F9825D2DB7EFCA7D35932305F2DD
+    Session-ID-ctx: 
+    Master-Key: 2DBE77125C0058A8A5F44945926570557B0DC52B58294BBFAC0712F1AF7F779978355576B341385CE4C66509D7C81598
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 52 d2 f6 3a 77 a8 f4 4b-9d a3 72 10 f3 7d 07 26   R..:w..K..r..}.&
+    0010 - 8b b3 ad 78 1c c6 cb 2e-19 1e ba df c6 27 ae a8   ...x.........'..
+    0020 - 25 a6 a5 a0 24 28 3d 8a-57 a3 02 bd 38 b4 62 b0   %...$(=.W...8.b.
+    0030 - 01 6d 3c 9e e7 fe 30 f8-0b ba 4a 6b ba 5a a4 8e   .m<...0...Jk.Z..
+    0040 - dc 9f 86 d3 3b 58 76 72-0f 51 20 75 9e 9a d1 71   ....;Xvr.Q u...q
+    0050 - c0 22 93 41 d6 a3 ed 6c-f0 95 fb b8 56 ba b8 41   .".A...l....V..A
+    0060 - b6 37 9b 3f ce 97 54 dc-d8 08 fe cb 18 fe 45 22   .7.?..T.......E"
+    0070 - fb 2e 9d ad 55 84 6a 7f-31 83 28 f4 53 52 10 2a   ....U.j.1.(.SR.*
+    0080 - 09 2b 7e 6a be 93 ed a7-c2 48 b1 64 c6 04 b2 01   .+~j.....H.d....
+    0090 - 4c f8 95 80 ae 59 9b 7d-8d 5e db 2c 77 49 20 84   L....Y.}.^.,wI .
+    00a0 - d9 4b 1b 07 6a 56 d0 39-08 33 70 c5 e6 35 79 62   .K..jV.9.3p..5yb
+    00b0 - 54 dd 1f c3 ae e4 26 de-b3 47 03 c8 99 d5 2d d7   T.....&..G....-.
+    00c0 - 06 52 7b 48 ce df da 8f-04 74 8f 8a 69 5e 15 ab   .R{H.....t..i^..
+
+    Start Time: 1627419515
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

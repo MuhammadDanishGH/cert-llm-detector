@@ -1,0 +1,92 @@
+http://alamujakoise.com/client/service/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = alamujakoise.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFbjCCBFagAwIBAgISA4bB6NgbHn1HxngK9nj98FsiMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MjAxMzIyNDhaFw0x
+OTA4MTgxMzIyNDhaMBsxGTAXBgNVBAMTEGFsYW11amFrb2lzZS5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDtD1dFVGHbeNYix5NGgaDkKRwBuMSg
+dHUkxK+8pGhxOaAsGpEKOgO8SSSq368nzaTT6osc92TR8OGKdfN2t1kDN2oa2bfQ
+UWw50AyxjNZh6h/yX00Kg67lsvU5MCpN1tf5IIXKnGw8JHFQ8MWoNOzSM9otaUzZ
+kPaVwr2U2YlyoKZ+TlIGVrb4lw1bHrRe/seMfokUcC9kZHG83PoGRNDnJ5oRv/zI
+Ieffb3dyYW6G7p8kKx+tjXrejKnvNO3qO5maNUUb0WQXDSAi5IiYuQhqsjSG2QAz
+Yqru1M+zVjAvuteFMy+PTF2Cp1I5DM5SP4mEeF2fmAGClu1B/z/EuYUvAgMBAAGj
+ggJ7MIICdzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFIpN8qp+o75UzWwq3KrJbynm
+U5fnMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEB
+BGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZy8wMQYDVR0RBCowKIIQYWxhbXVqYWtvaXNlLmNvbYIUd3d3LmFsYW11amFr
+b2lzZS5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAm
+BggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEE
+AdZ5AgQCBIH1BIHyAPAAdgApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0
+eAAAAWrVn55+AAAEAwBHMEUCIHFb2o3ozKvuUc5PLP0QNsCi6jk8HZmtfB1iskJz
+zMbvAiEA8VbpsKRbf9ZlzncygsAZ3cLOizlipU3hLAKaH+bwUgEAdgDiaUuuJujp
+QAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWrVn6J4AAAEAwBHMEUCIGqeIx3a
+/i0sgVpfiTjKMBjmlwGgfe+SAdTBgeneDLKuAiEAlOFnep25foK0lrAhfAiApt5N
+UsNvrGIEj/Q0MWtKsfIwDQYJKoZIhvcNAQELBQADggEBAJJbh/+Kosr8l1pKJGsl
+9CtWLBxoa4/c6iJVbTEYeoJHBowr/4UdzeqWKXdf7DsFnXVPv+w4l92XkFK3pmXM
+uD8923/ZWpeOYFBDwBslhWdgBQEt4aWizHEkg37k2kKE94Fn43bwNjXkjOa3dmuo
+GwSLdveKbgu3HpNMijjgNuf+mbUZtDSxezsXbakeMSzA/5TB1KB99giWrEZ2p6R+
+9GnvHxNh7I8SZ6MpCYjrwUvXpmozg0DmPN3IhdXYgXVVi3+96AU+te1ZJ6wJe/Uh
+2Akv70kYk84mxvuz8Tyc/imHH8n9ny8lsWmtbxsdepkTOZZ/FyrznVaIpllv5oh4
+psA=
+-----END CERTIFICATE-----
+subject=CN = alamujakoise.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3277 bytes and written 454 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DAC76131326E5AE491E5A83FFB9840011A81A0508FB7CB319218A9EB5DCCD2BB
+    Session-ID-ctx: 
+    Master-Key: C291ECE3EFDC28D9228931BA8D4263178237C3D71B74A8235DAB076B8D9F159694B1324B2EBF2E2D7AD3164B1B4A4F18
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - fa b3 cf 84 d2 5a fb 66-be 44 d0 a0 b9 f4 6a fc   .....Z.f.D....j.
+    0010 - 5f a5 da 04 1e 24 44 77-2b cc 7e 7c f3 5c 1e 92   _....$Dw+.~|.\..
+    0020 - 80 73 7b d0 7f c6 fc 04-5f 6f cf 1b 98 42 9f 06   .s{....._o...B..
+    0030 - 2d 5b 62 fb 13 1e c3 f1-61 90 59 e4 72 ab cb 42   -[b.....a.Y.r..B
+    0040 - 6a 68 f1 58 bf f4 2d e6-51 99 f9 fd cc e3 43 b8   jh.X..-.Q.....C.
+    0050 - ac e8 d7 19 a4 d5 58 b8-6e da 51 ee 48 f2 65 0e   ......X.n.Q.H.e.
+    0060 - 47 38 95 8a 94 9a 71 39-5a e0 55 df 79 9d 02 52   G8....q9Z.U.y..R
+    0070 - e8 72 1e 34 eb ac 1d 92-53 3a 47 4b 1d 79 26 79   .r.4....S:GK.y&y
+    0080 - a0 e3 e4 e9 c6 99 83 39-b5 60 40 86 ab 7e 68 3d   .......9.`@..~h=
+    0090 - 56 56 ef be b8 98 db 24-62 66 5a ca 39 c0 94 0f   VV.....$bfZ.9...
+    00a0 - e4 cc 48 64 61 28 6a f4-f1 a2 93 29 af 20 6f 8f   ..Hda(j....). o.
+    00b0 - 7f bf f7 79 0b 09 16 75-a1 cf 45 b0 10 54 e8 28   ...y...u..E..T.(
+    00c0 - f5 9d ee 50 ee 7a dc 40-ed 6a fd f7 ef 7e 22 54   ...P.z.@.j...~"T
+
+    Start Time: 1559134824
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,66 @@
+https://finaz-gleich24.xyz/s/anmeldung.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.finaz-gleich24.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFQjCCBCqgAwIBAgISA113djl974u+0WAcqikH/AdOMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDUxMDQ1NDBaFw0yMjAzMDUxMDQ1MzlaMB8xHTAbBgNVBAMM
+FCouZmluYXotZ2xlaWNoMjQueHl6MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA1oDspumYulyCPqlcPzjdA5MadZJMR8EGVAlMGUrrbqh7JUbK88n1PhmR
+rBfsqKdW8+IIu5TF3oRQxysknwVPTByYg6+D0rzE26HTBdHgYmvjZJWeNx7Cg+9K
+n6bJL8i4nJwyg9Od+6m/KcvlLiJivebmBA5ouKBnm0ngCs73fQlPX3IdJ3z4d2W3
+yvd69ZcXjTFNvh6oBQ9elZuK5O66GXM2JdGFw3DF+4wPZFSt48PdB3CVbC3bMxGL
+ehnOcKh93gGoUuYmf/yBWEfGB8fro+rYdVEKsOYCmAkXdRQ7qWia4I/lvnK57W9e
+aL1BXJdWR6cdVk5t0jHSzY1fwBVdBwIDAQABo4ICYzCCAl8wDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBSWYnT43Hnje2QHQH4YXrOva66JtzAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzAzBgNVHREELDAqghQqLmZpbmF6LWdsZWljaDI0Lnh5eoISZmluYXot
+Z2xlaWNoMjQueHl6MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEB
+MCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYK
+KwYBBAHWeQIEAgSB9QSB8gDwAHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jw
+kGKWBvYAAAF9imn53gAABAMARzBFAiB9kwL7FT/w4tIom7Xvk8nbsdvNs0GniYop
++L/sHlClKwIhAI+NC4HUtCcsFmzvM3g6pLVOB56QQQ3ORdjtKk68z/o4AHYARqVV
+63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9imn5+wAABAMARzBFAiEA
++bol1WwTqWeKERNSOYInPZX7Rc9cJH6do2Xm1UjW3DQCIHlqkHJBZIZVmYJESfen
+NuJYRbGiP19P9VQy7vtsPAPHMA0GCSqGSIb3DQEBCwUAA4IBAQAekaiefOM9fSRY
+8G1F6vON9YVHu65kahFkfhX6BCCuLHp/nyyXOHrRa0395HcXePs7YwhCGES5UrNr
+TBMf90ztONMil5p34KRwTrdN5ZMuIleSbGOibDxwuI0+FzgKST4VqBK3RFyDHXEs
+MRXs+x4hTo7IimX11Orx7GJ/O8gIQ2Q09bxwVWmxzn7gh5fwSr2mgGeVe1RotTMX
+9UA90lVbN2lRtyRy/XAaYQueIq0b5Z5/rnyAJpwZgwgpjftoWCNYFLECBriEuWOD
+FZJEOCRK1x470UatLw/v6SRfXViXn82oQwxmQyCk4pmplJqUvXR0buwfh2zhPTKW
+Al4zy4iE
+-----END CERTIFICATE-----
+subject=CN = *.finaz-gleich24.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4540 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

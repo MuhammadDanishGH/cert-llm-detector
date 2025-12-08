@@ -1,0 +1,65 @@
+https://www1.vqoss-ne-jp.dsnvrq.cn/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www1.vqoss-ne-jp.dsnvrq.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOjCCBCKgAwIBAgISBGIVraDW+7MrxzXJMiTHMSusMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MDIxMzAwMjZaFw0yMTEyMDExMzAwMjVaMCUxIzAhBgNVBAMT
+Gnd3dzEudnFvc3MtbmUtanAuZHNudnJxLmNuMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA2DF2cQmouRvA/Pa4cIZfhESalpwWdPSrhsVZ0/9Dg7HUtW9j
+J2+b21rRwvRE2CPx55JSIrzmcHEgHbEJLhQ9Qj2QCrFu7+5DPjw3qWJzuauwRJfj
+nbmcx6wN4PzCYsrXh/h14uY8X0zy1HjqjAaQ1AQuh4mAbVaw0alTC2v+XBhp50dl
+4pWRZrHmQebQBUi+8izL8rRnCqOUMtsZ4klfJWyo56lccCnMrJTiBuMrG+SCNjFP
+MR2W1YjsGvtOjmj7wBJmoGO5x9mU1fSeT17xWv/ENKdi1zaYWyGownrUUGPEFg/s
+C3UuMgxegSla1CXeJYqsMSb9Zf6MuN5rB7zxAwIDAQABo4ICVTCCAlEwDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBQkI8OHzW9ZIRK6aWl55Y4AT9ar6DAfBgNVHSMEGDAW
+gBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUH
+MAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3Iz
+LmkubGVuY3Iub3JnLzAlBgNVHREEHjAcghp3d3cxLnZxb3NzLW5lLWpwLmRzbnZy
+cS5jbjBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsG
+AQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkC
+BAIEgfUEgfIA8AB3AJQgvB6O1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAAB
+e6bPlCEAAAQDAEgwRgIhAItsKHgTTw+hfWQvjkPfJddo6yIgzG08tjbe3Fw3Qb0v
+AiEAntekZsUs9ID1NgNOjvP8xSaJOGcWM0ZDUQmzNfG9rGoAdQB9PvL4j/+IVWgk
+wsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXumz5RTAAAEAwBGMEQCIEDfnwW6nIJe
+f2EyAwB0jgiHLcgg8C1bRdFJgQ9j9O/aAiAuf33D1qEjnXN1RTW2n9g/E574VurZ
+OryxlEYipybSWTANBgkqhkiG9w0BAQsFAAOCAQEAdIEeaLKwEbBNYhHrLfp4pJa7
+6VuOLF73afA3kjJhaicwmxM9EploBtfv9zzQwQiNLT5mn81LBSYgIKgSDPx9AkAU
+JWeOLFVMzjq4/V7heELtN7jJVwD1AtlSeFqAOsIBAjd7knPaW8E/49ebHoYUePDF
+/Y1OeRYX8f4Fdmb5THWuMEE+ow363WPB3VU7AQ73Stg9nkVQZ3T2djseiSHtHfHB
+TzZg/cBUYqY0TqlVaZcJQvRcxMi6M8VjUsDSdZymwh16HR5PYmClpBRr7AVq/wdn
+kXdiBe30nIyV8iC7IqOtFkQxJcXPB5nrIjd6fPA3Flq+d4d1nfYEsYtAqftPDQ==
+-----END CERTIFICATE-----
+subject=CN = www1.vqoss-ne-jp.dsnvrq.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4598 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

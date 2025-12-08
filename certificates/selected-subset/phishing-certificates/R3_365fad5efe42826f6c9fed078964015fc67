@@ -1,0 +1,73 @@
+http://join-grup-whatsapp-tante18.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpcontacts.join-grup-whatsapp-tante18.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGsTCCBZmgAwIBAgISA2X61e/kKCb2yf7QeJZAFfxnMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTkxNjM5MjJaFw0yMjA1MjAxNjM5MjFaMDwxOjA4BgNVBAMT
+MWNwY29udGFjdHMuam9pbi1ncnVwLXdoYXRzYXBwLXRhbnRlMTguZHVja2Rucy5v
+cmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDYI8DT/it/rVmHH9QX
+5gCwYvr6rRQ2SzTexIxZv/dFQEDYHzXo38XZSJaGt270FuHpDLkAVOZGxkHykJZf
+arxcznqVN6poi4HRtN53mOvcxlPqoT1Q+JyG8Y2zhQnyPi0/36MsklaCxa7r9VBT
+vZMbnfIWwFSy/gw0rA27qYeaCjEC/4WH+2Q1lqNYCV+nzUcMLuFUzHWIrREZooQJ
+10qcd8TWVF5sjIhGo/5Cv5QCqEH4xguqohctXjjexqn78hRWukNoAfCiDwwzDtKi
+JmCXCGM6k78+xSvKdxzbv4qIK5HmBut5XPO47jpgXi2+3OMtPnpXCfWeKlvTtDC9
+Q6WDAgMBAAGjggO1MIIDsTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFD3bHZk1KmEU
+0YzOTVzv9jzLcSW9MB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUG
+CCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3Jn
+MCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMIIBhAYDVR0RBIIB
+ezCCAXeCLWNwYW5lbC5qb2luLWdydXAtd2hhdHNhcHAtdGFudGUxOC5kdWNrZG5z
+Lm9yZ4IyY3BjYWxlbmRhcnMuam9pbi1ncnVwLXdoYXRzYXBwLXRhbnRlMTguZHVj
+a2Rucy5vcmeCMWNwY29udGFjdHMuam9pbi1ncnVwLXdoYXRzYXBwLXRhbnRlMTgu
+ZHVja2Rucy5vcmeCJmpvaW4tZ3J1cC13aGF0c2FwcC10YW50ZTE4LmR1Y2tkbnMu
+b3JngittYWlsLmpvaW4tZ3J1cC13aGF0c2FwcC10YW50ZTE4LmR1Y2tkbnMub3Jn
+gi53ZWJkaXNrLmpvaW4tZ3J1cC13aGF0c2FwcC10YW50ZTE4LmR1Y2tkbnMub3Jn
+gi53ZWJtYWlsLmpvaW4tZ3J1cC13aGF0c2FwcC10YW50ZTE4LmR1Y2tkbnMub3Jn
+gip3d3cuam9pbi1ncnVwLXdoYXRzYXBwLXRhbnRlMTguZHVja2Rucy5vcmcwTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHx
+AO8AdgBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG9gAAAX8TERu0AAAE
+AwBHMEUCIE5vF7bQ3Ty5rWa8P7/0m4HPakA4EhYAXE637E2+u5LPAiEAyavrkskD
+voiE119zDjfZndViZGjuBRGe36vJmiDsZRMAdQBGpVXrdfqRIDC1oolp9PN9ESxB
+dL79SbiFq/L8cP5tRwAAAX8TERvjAAAEAwBGMEQCIDyw/yLThlfRhUuypNEK+id5
++sk9Ursl0vBL7hEX2u5gAiAVcITgzDNcLKemH8ODVKpl/E5D94wKYm2fKGomR63h
+fDANBgkqhkiG9w0BAQsFAAOCAQEAJOtFvE+DghvkB9846oQkS5/oye6Gfxg2xcVV
+nItkhqi0KCopeoVewEk6aRuVGnk3UqawEvMRjL5BfVGKCTjntyH75eX5GSFBCml/
+4NCgeDjf/yRZfS5hZdRNH0vOMh59dWDGC4vcTS2LGu63dPk6I4rpZkmMjM06mDnN
+1tUs3ARrIjUwIwaWNWcIEnV/PJ6DVJqsR4xwiVYlwpAiq4EtP3p3IKvGqzTI1R86
+2P6Vik1+iJWr4wIQ6U9IofF/Rhb2JAtSivZKgK33TC1HrILTkfsZnF6usSfrmKnB
+ePVaWSXQZLW/HeNgPDLZXZt8xV42lPkhCHzx/pZQyS1hhMFPDw==
+-----END CERTIFICATE-----
+subject=CN = cpcontacts.join-grup-whatsapp-tante18.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4973 bytes and written 412 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

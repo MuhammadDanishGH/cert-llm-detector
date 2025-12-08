@@ -1,0 +1,65 @@
+http://amazoodoowde.xyz/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amazoodoowde.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJzCCBA+gAwIBAgISA87SR2lPwJ7UlD1zliODj+iGMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTExNTA3NTZaFw0yMTEyMTAxNTA3NTVaMBsxGTAXBgNVBAMT
+EGFtYXpvb2Rvb3dkZS54eXowggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDDcYlUq8TXKAprm3kBGU22JjwFfj8N7+2mn3NuGAg21nF/d3c5dbTy/Y6qdiK/
+KpKlLW+wvcIAwzXTkmCKOHsoDR0u1faWl2IdqTnw2gpAJQyyk0VQqxIPSgagYaUF
+CXRU62+a6VfepTYvRVmVOpB1X3Lh4QsYTy8bxzxe9iUQCwg6DRpwVXhvEXrDS+zx
+EagWNIe0zBJMHcfB/YQJM358Ad/kLeE2vnmj4i7Kj6In//BW6nNngNvkHRR2WB5p
+WaaWeDVEpn+G180w+ZxbOysN0CQckxU9WG5G/ZXJLIJifv1pE3u5WdbRFp2h9y7B
+RtTwLammZRtWI4cL4RXa37JxAgMBAAGjggJMMIICSDAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFB4n9Gu9LdcdiQUYfV3NetYSQaiWMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMBsGA1UdEQQUMBKCEGFtYXpvb2Rvb3dkZS54eXowTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwBc3EOS/uar
+RUSxXprUVuYQN/vV+kfcoXOUsl7m9scOygAAAXvVnYqtAAAEAwBIMEYCIQClRmQ9
+rgg1avlt+xeoYEaFh50EpjYvQJg5zgzXAPER8gIhAOB3UNmo538c9V+CoqRZktgz
+lPjfEg0OIh5VXhFCeIHOAHYA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7x
+ZOMAAAF71Z2MlwAABAMARzBFAiEAkuADiwgF/zMr7XW3BNOZwlInuNbvDv+g1dqo
+MOsLUaoCIB+7AaQn5xwtbOYU0cQqRJbRdFZshIxAFLn8h7oaHoXSMA0GCSqGSIb3
+DQEBCwUAA4IBAQCOxmrTlQGU8q+JIrUrtNVaVPwONnfdJ3Kwpc5+bpTj2G9SfDrE
+vk2zoWITy/j0y1fza+WRZbjNGP87ynprf5I9gxlwOapjm8n+9hplyOaw6dxlyLxg
+YZpWMTM0vHVjPjbk0hO+TjMfg5Fn8pJJFdYlKU9P0SkZcU9IgG9I3IZuhVMYywsI
+OWmutssBGb7POh4LeoDPcIkZCgMWLGzraFV78GgeWurwdtuAkp+tVKu/sqHVNlPn
+bJaQiyAtaxdWvmmsMtKiN1qGURh+q4aFjEBIjEH6V1Q6g+pmWnWk2PQ9NJJ2xAIl
+ojtLuuUuftndNrG5YKXm3slLbsDvjLqgW0OR
+-----END CERTIFICATE-----
+subject=CN = amazoodoowde.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4579 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

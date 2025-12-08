@@ -1,0 +1,65 @@
+https://byrl.me/cR3n6r1
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.byrl.me
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJDCCBAygAwIBAgISA7YfCzhoGOKVWvCJwKYSzzM0MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MjEyMzUyMjhaFw0yMTEyMjAyMzUyMjdaMBYxFDASBgNVBAMT
+C3d3dy5ieXJsLm1lMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0YZ5
+C2grCj8U1Bk9J5Apsjacs2gTJslNAk5POzHXOY7TA3JNiTecCpqo2Q8WNWq9IG0c
+ztVWo+cPaQmspR/1O3R0QxFZYCKnfoB3fGRAvAQIw/HKbMTTBJJXg9j1wGjH1udM
+FlJy1FfH8R6y9JFCqkfwwvJauVDz8BvUWERHvzDwgT6lgS08b5qBIDc9AnvLEwGG
+PsDb0ld6fa8VQ9pPbrkYG2Cjj02SUdx6PZpVY+TI4kltyjwinq4REsOvzoYTfgbr
+S83QO/PPuqBnzFdSg5BdowOvsGl47L8zFdjJfo+UHram+fccplRuVeUtI0dxLLqz
+vPPqN/5VANendGr52wIDAQABo4ICTjCCAkowDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBSEBJfjy1u/G9/SPBFiqir+pnkuyTAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDm
+H6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5v
+LmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzAf
+BgNVHREEGDAWggdieXJsLm1lggt3d3cuYnlybC5tZTBMBgNVHSAERTBDMAgGBmeB
+DAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxl
+dHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AJQgvB6O1Y1s
+iHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABfAr9W8cAAAQDAEYwRAIgVJCc9i9n
+JutTo67wsHXLk3LSPDRnP9P4uM6vwE8loCsCIBEhCVC/fZuuJJo+isJut9vLPXpS
+SuupQLtOjI6R7ChPAHYA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMA
+AAF8Cv1dvAAABAMARzBFAiAxJeCWk0lovq5V1P4MzZkFZw+2b2sCOTuxy7sroaeU
+6AIhAOXSr2nybEUAeSn3jFaC6Hr8uh74I3r+k0F4hb20RnTBMA0GCSqGSIb3DQEB
+CwUAA4IBAQA7a3BjjoHokAbAdg2WFskpKNeKAfgvPMXFdWuuodBD/vVF9StpgBmP
+cqW2IqL7RKf6UrrxXgBGJNtlZ/1G7fDoaDnZuPnEIagJ6wBUrMlnl3uRjvgJOvXj
+E9yQCigifHO2umtpzcKDe9XamclTPO0vvrNLGL2CvPkf1CH07fujTJaZZRv6ruOX
+gWKWWhFNsb3A1vkEHQIzhlJ+v5dt3DNXOASRv7VvLdwNvvVK0jugt6Jur674pX3h
+mu1JW+2b5mkCnNolRdKo55AmK9saH60esxRHgNrxefN3M6SjuoZcIcF8yQtQKFGN
+5dgOl1gB7NKwu0yHJIrq5rpI+SOR3aE9
+-----END CERTIFICATE-----
+subject=CN = www.byrl.me
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4576 bytes and written 381 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

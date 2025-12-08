@@ -1,0 +1,75 @@
+https://mamis-gym.com/truelogin/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mamis-gym.com.ar
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHBTCCBe2gAwIBAgIQB5gZnvKaluQwHOJi9L7L/DANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDkyNDAwMDAwMFoXDTIxMTIyMzIzNTk1
+OVowGzEZMBcGA1UEAxMQbWFtaXMtZ3ltLmNvbS5hcjCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBALy4ByJCkOTHvwTxlddPHT9uKzpQdmdXVptyIEJc2Cmo
+JAhSj0t4vwpx4WXMDiT13zxoSUK5YXMYcboVKbA9mOJgiftYSiic9xayvqf65HsN
+vs/ucgioDDCZSP9/5Wst7hWu3rxVUX7okvrFmZW5BTI6VpGrjkiwP2od9IPQhrhu
+0CmJ/Z4cbl47hm8IeSGmXduBGXqS1X/a9Ef2Z7EEUnGMSl07+aIsTu4zaO6VEi4B
+sS/wYow6p/Fy4oCe6qU/UycGo5mzxeobNC1rOt9DbImE9GGsHfg7O3H/Rgdvn6Pr
+B857E3ZJz/eVklqPStRrQcTRa+v2SE8NJpGn65eFPtUCAwEAAaOCA+wwggPoMB8G
+A1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBSBAK52oz1F
+t+pZlzCkVFxnMb4/oTAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIx
+AQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZn
+gQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEE
+cTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJ
+bmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDov
+L29jc3AuY29tb2RvY2EuY29tMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAfT7y
++I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF8FTfGtAAABAMARzBFAiBj
+qZM7zi4fESQiHmkmIcEvyPWU7bC3fvywkaMJM0hJRAIhAJ6ynDVT870E0Iz43EIK
+AiS2HlWodfHQRkc1GcOI1QdlAHcARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9Mz
+lrW2gagAAAF8FTfGhQAABAMASDBGAiEAn2cDjiuiugnBTo2CIZJV+1m06yxb8z6o
+nv5EVwUSSJkCIQCDJ/B2lxDg4KF6TlN6AhjV0P1+fBr/CvrbzLgzGx+eJTCCAUYG
+A1UdEQSCAT0wggE5ghBtYW1pcy1neW0uY29tLmFyghdjcGFuZWwubWFtaXMtZ3lt
+LmNvbS5hcoIcY3BjYWxlbmRhcnMubWFtaXMtZ3ltLmNvbS5hcoIbY3Bjb250YWN0
+cy5tYW1pcy1neW0uY29tLmFyghJtYWlsLm1hbWlzLWd5bS5jb22CFW1haWwubWFt
+aXMtZ3ltLmNvbS5hcoIUbWFpbC5tYW1pc2d5bS5jb20uYXKCDW1hbWlzLWd5bS5j
+b22CD21hbWlzZ3ltLmNvbS5hcoIYd2ViZGlzay5tYW1pcy1neW0uY29tLmFyghh3
+ZWJtYWlsLm1hbWlzLWd5bS5jb20uYXKCEXd3dy5tYW1pcy1neW0uY29tghR3d3cu
+bWFtaXMtZ3ltLmNvbS5hcoITd3d3Lm1hbWlzZ3ltLmNvbS5hcjANBgkqhkiG9w0B
+AQsFAAOCAQEAU1Kt4CoHW8QIFpUoGUXsn0Nm8BX0HpuRs2ORK+iPksmQIvrDi1r0
+iJr4njbYERnCiJcA3KYy4Nf42hBHNOrptoe/eWtYrPtRoziJgpTp+OXpf+1CEiob
+WI3JYbdXThGRECf9ohtYABhJzsIbjvhCe9O8/bmSzE0095rKBP16jkW0ooaeG9sZ
+7qEuCptKbrgoyG5gHmUDG5GcnBD25LhPuOmVaEWken6MDN/hC3MV3FtkKm7PV1JQ
+RRekHFaWSIYEWAxXlBowgYOvV9cr6R9B7YMB9RS4Az7bKeJjz6x9LhHVCNM5wQVZ
+xUEyjUxpPZRTBhmQfR+fpAbwq0hl2Q7bwg==
+-----END CERTIFICATE-----
+subject=CN = mamis-gym.com.ar
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5306 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

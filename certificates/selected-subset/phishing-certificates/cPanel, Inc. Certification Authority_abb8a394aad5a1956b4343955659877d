@@ -1,0 +1,96 @@
+http://binance-lending.website
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = binance-lending.website
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGizCCBXOgAwIBAgIRAKu4o5Sq1aGVa0NDlVZZh30wDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0xOTA5MTAwMDAwMDBaFw0xOTEyMDkyMzU5
+NTlaMCIxIDAeBgNVBAMTF2JpbmFuY2UtbGVuZGluZy53ZWJzaXRlMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyawH+jofxjEBVjAKixm1ZX+D2DkYSA0s
+A9gTYqJt7OmP8wbwdZ1A6Sh8QolKtSIF0tEVJYraPvheYRtq5a8UfbTcbnwYnNOj
+b+/3p58D4IuPW/4mplgc+YkZPbwuZAsAu93kyJzeWiiHWFxTL6knLiiLETxhjMKj
+Lu2ZbxSsucU4u6gZtBVYJGav0FiVlmxQrOgbgr8Fgga3Af5gmeoGwYu1wT8z1KXp
+JsMXi6r5tAKwNSKDo8BmAbC350jMNkTeCCQ6YcRV67E/cuAvl3JMrtsuObdg+zGB
+PqF7iCtFgZs+RYSWpZoxdrFs6KlVd/t2KwkL+3I9s0fPS6atMzGIcQIDAQABo4ID
+ajCCA2YwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYE
+FOuTXx/ecAIjEEc82SraxnocfBaZMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8E
+AjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoG
+CysGAQQBsjEBAgI0MCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9k
+by5jb20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3Js
+LmNvbW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNy
+bDB9BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2Rv
+Y2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsG
+AQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wgcEGA1UdEQSBuTCBtoIX
+YmluYW5jZS1sZW5kaW5nLndlYnNpdGWCHmNwYW5lbC5iaW5hbmNlLWxlbmRpbmcu
+d2Vic2l0ZYIcbWFpbC5iaW5hbmNlLWxlbmRpbmcud2Vic2l0ZYIfd2ViZGlzay5i
+aW5hbmNlLWxlbmRpbmcud2Vic2l0ZYIfd2VibWFpbC5iaW5hbmNlLWxlbmRpbmcu
+d2Vic2l0ZYIbd3d3LmJpbmFuY2UtbGVuZGluZy53ZWJzaXRlMIIBAwYKKwYBBAHW
+eQIEAgSB9ASB8QDvAHUAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0A
+AAFtHBfvlwAABAMARjBEAiAcVPzTb50nsGUkH96EPRKM6iLsfr5LtgiMEzRrC7CL
+tQIgFTzTHGqQvPwZHcIoGjel8usBYerdhUkFH/bxynnsIdsAdgB0ftqDMa0zEJEh
+nM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAW0cF+/LAAAEAwBHMEUCIE2Mo9MPR0JL
+BSNRbv4+vXSsw+xN+MH+xceIKNlCdlLOAiEAg0lGNhycZjFOrKQS7AFdFbpVUOK4
+udveKPU4oaJdQh0wDQYJKoZIhvcNAQELBQADggEBAGjw0WgueMyRnpePXx5gYHEH
+ArcEDrtRIpfo8arGl4k5FFDy3bYCa8nKJWLjU3dfbkBBN19S5Sd6+Bk3or+3dFPy
+8VVn+6y5kLgh6C0Vt4R2P2p4+njzW+5jvvmc5bhe0NY66mSXSz+wbHbnHcRUWsPY
+J3/h6P0i1JK7aA4qnRtVFhAGt1Y45tRcn0f7EzaqY3V4LoOXnifEmtB5+rPw3dCn
+UupiClJZOr/SK4fjVwUUUKS6Zj92fgg3NSuYsPRCPT3EEsSSYEMc1VekEw15wQKx
+hMRiMIXsHbOQPfQzwI0ewDtMCvCkeafbLpuEv2EqjuOx2sENUh/VMqPmsLCJ1eU=
+-----END CERTIFICATE-----
+subject=CN = binance-lending.website
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5233 bytes and written 428 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: FD57D0B6359A43561F45C2AF0E6CE4B94BBE0EC16F94A70C6A275C1AD34303A2
+    Session-ID-ctx: 
+    Master-Key: EC3AE29BD61267CB6C77B981E14B96662F27E1F38922069079E84A873C7DAACF73CBC3DD48308D1F537AA0821EC17CAA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - a8 5a 14 f3 55 f6 8c 99-81 25 70 07 7f 41 c2 18   .Z..U....%p..A..
+    0010 - 4c 14 6e 1f 8a c1 e4 07-13 5f 11 28 28 a0 67 19   L.n......_.((.g.
+    0020 - 1e b1 0e d5 69 b6 24 45-11 91 5f f7 d6 55 fa e2   ....i.$E.._..U..
+    0030 - 50 81 1c 54 cf 17 da c4-a2 2e e4 81 7d f2 61 c2   P..T........}.a.
+    0040 - 9a 0a db 95 97 ef 63 4f-59 53 ce 9a 81 45 66 0e   ......cOYS...Ef.
+    0050 - 03 38 ab cb 51 37 0e a5-f5 8a 5b 98 62 03 55 d7   .8..Q7....[.b.U.
+    0060 - 56 f3 d9 ed ba 91 7b d3-48 e1 d6 a6 46 a3 67 dd   V.....{.H...F.g.
+    0070 - 4b 71 b7 2b 51 91 3d c5-9b a7 e9 6d 73 8a ca e6   Kq.+Q.=....ms...
+    0080 - f4 47 5e df 8b 80 82 0a-5c 19 a4 bf 70 1b a5 20   .G^.....\...p.. 
+    0090 - 48 f7 3a 25 5c d0 e2 20-29 ea 5f 32 2d 3b ce 7b   H.:%\.. )._2-;.{
+
+    Start Time: 1568206832
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

@@ -1,0 +1,70 @@
+http://www.milehighkidz.com/Wendy/Padilla/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = milehighkidz.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGBDCCBOygAwIBAgIQKfaLE/VAUnoStHdbyXHRgjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTEwMTAwMDAwMFoXDTIyMDEzMDIzNTk1
+OVowGzEZMBcGA1UEAxMQbWlsZWhpZ2hraWR6LmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAOxOP2pHqT70F/pH5f65N89N54Mzlhq5ZUnt0kKh60WQ
+tAV2+ctUoiWYCvcodSkckg0HnsVlo+Kxh6DEKJanPFgGlTDhHadDhpYfozWdrrDX
+a8hMgBH5OYlaGG6WgqKGPH5jhV5dX9HAVHf+p4oxo6cL9CE5FtC+dLwBGuibrjPo
+4JCooEl0L8GNDRvb3B7c6EQBbr2PaP+R3ysBVZRD9vJ62cSXdGeo493ybMNCSlb4
+kFO8whnXdvylBjolvAKBdrkPyJm2Qyl9x1zSVDTbMPuF6s3nu5oz8+7Pcu3BjtKN
+eBIfJ2sEMzPLxkncrGsLmeirV4Y8wovL1flQpciXoaUCAwEAAaOCAuswggLnMB8G
+A1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBQmAptbgU2Q
+2PYODCyeeVosq6C9aTAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIx
+AQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZn
+gQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEE
+cTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJ
+bmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDov
+L29jc3AuY29tb2RvY2EuY29tMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYARqVV
+63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF83U9PHAAABAMARzBFAiEA
+lvk6Nk5Mc0tjJj4j5Se0Kz0fWMIDe6/KO9vE7FdvbNkCIGAbxTikCTyX+rFYwFTn
+orTCQREmZBW2f92AGG8FjEyMAHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jw
+kGKWBvYAAAF83U9O7QAABAMARzBFAiEAhiLTv7OtBnqt9C1FpnrEnzk+qVL0bi/r
+yNCk14S0qYMCIDiP40db3S+hQEWYtR/6yzFjlmhfmUWuQybK1v9wQp9fMEgGA1Ud
+EQRBMD+CEG1pbGVoaWdoa2lkei5jb22CFW1haWwubWlsZWhpZ2hraWR6LmNvbYIU
+d3d3Lm1pbGVoaWdoa2lkei5jb20wDQYJKoZIhvcNAQELBQADggEBAF0HFvPTl8vS
+DMk5wl0jNokExSy3nwMP6dKEv3teNCsXhfvwZE8r7NBOKYqFUX9aXUhORT5sPPJf
+lgtFknyuOHotPPkZIuz1Dgg/2OTcGrIk2YLCBUFuUnG7YRBmlOruCi1k+zBxM9f8
+X/uhj3V/FX/Twr8OyZJv2cZ7jmjzBaN0OQdjnyQtQQl8GV04bwj7Wz0ojzmCLtmx
+nA5kbEAkdpdKjm0Ujk7GmtE0xrB4t1vMJXxsPUu3YU4lnSABkdtDYPXGzC1iNkJj
+M9L7jP7HwRzjuDEdYpV7QHaNu6Umgh/l8jHKL4U/xbhvt+AMlAQyCk/SAV53wbQK
+P+eJOGZM3zA=
+-----END CERTIFICATE-----
+subject=CN = milehighkidz.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5049 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,88 @@
+http://split.to/UUXIJeE
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = 1.worldwaycapitalitalia.it
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHsDCCBpigAwIBAgISA+vNu4WDSzMmYyVWGKiL6qj0MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MDUwNjI0MjhaFw0x
+OTA4MDMwNjI0MjhaMCUxIzAhBgNVBAMTGjEud29ybGR3YXljYXBpdGFsaXRhbGlh
+Lml0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0spFAOq6GaCYscV6
+TSAgd+0TX/vCmnicWXZ6S9wHtujVez8yx3FjoDPPRX+87L8wuI6oOjGWnWclDzZi
+IdTGhzZXxnacTE3xx+d7S3e3KMtRkk/1GHjVhkDv6m2XvFenUIdKPWQK32BNbRaI
+v/9eJRgP1QaGP9AYpi9bghDlruwDuhDF79RKrIbh2lNSreYd922se6uugLgG3hMp
+9dro2jQ88wDzo86rHA4LMU0dbBqpR7SfYdQK/86Kv87kbSFbd56IXfTescVFmxX5
+ldNjXy4M9pcKSZeSup12EqJPsV2+tBgDNj+orTMdeMHkjg8tYvIs/mriY3uUugHM
+LA5w7wIDAQABo4IEszCCBK8wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQHxZ47Znrz
+H3er9fmM21rmnUpzNzAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBv
+BggrBgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5s
+ZXRzZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5s
+ZXRzZW5jcnlwdC5vcmcvMIICZwYDVR0RBIICXjCCAlqCGjEud29ybGR3YXljYXBp
+dGFsaXRhbGlhLml0ghthcHAuZmF0YWZhdHN0b2Nrc2NyZWVuZXIuaW6CDmF5by5o
+dWJ1bmdpLm1lgghjbGlxdS5lc4ISY25hbWUubGlua3NwbGl0Lmlvghtkb3dubG9h
+ZC5zaW5naW5nc3VjY2Vzcy5jb22CGGRvd25sb2Fkcy5lc3ByaXRkYWlyLmNvbYIX
+Z2l2ZWF3YXkudG9kYXlhbmRtZS5jb22CDWdvLmFtenpuLmNsdWKCGmpvaW4udGhl
+dHJhZGluZ2FuYWx5c3QuY29tgg9saW5rLmFtenpuLmNsdWKCGmxpbmsuZGlnaXRh
+bG1hcmtldGVyaGsuY29tghBsaW5rLmp1aWNlcG9wLmNvghZsaW5rLm1vYWRsaWZh
+bmRhbGkuY29tghFsaW5rLnNwbGl0czU5LmNvbYITbGluay51cmJhbmNyZWRpdC5p
+dIIUbGluay52aXRhbGUtdml2YS5jb22CGGxpbmtzLm1hcmRpbmFzYWZpeXlhLmNv
+bYIMbGlua3NwbGl0LmlvghZtY2xhdW5jaC5sYXp5LW1vbmsuY29tghRwcm9tby5u
+dXRyYWJsYXN0LmNvbYITcXVpenplcy5lbWJvZGVuLmNvbYIIcmFjaGUubWWCD3No
+b3AuYW16em4uY2x1YoIUc3BsaXQuaG9vcC1saWdodC5jb22CCHNwbGl0LnRvght0
+YWtlbWV0b2FtYXpvbi5pYW1jb21maS5jb22CEHd3dy5saW5rc3BsaXQuaW+CDHd3
+dy5zcGxpdC50bzBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisG
+AQQB1nkCBAIEgfUEgfIA8AB2AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAIxjc1eeYQ
+e8xWAAABaobhOnQAAAQDAEcwRQIgHQIgtnljaIzFuVD0Rx1RRSyHCKKQxeQjnsDJ
+MKPKpDgCIQCp7xUQEB1TM/lPB4mnDgmW+vqRNSh3zFqbqoIbpQozMAB2ACk8UZZU
+yDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABaobhOmcAAAQDAEcwRQIgNUw6
+yR7CHeTsAmjcyx0mGxSg9aPHyIU0Zva2vroh4PECIQCf+0CoWTOsIqYcZsAwp8UK
+JfIOAkE/VnCHhlzku/Z3LzANBgkqhkiG9w0BAQsFAAOCAQEAXzWmB26iVoFnGzNn
+dcOuY1cQuXRWGxU95E495iYQRy1EfYoS/wU622ihsCziSNQi4rTdiaphyHBO2dmB
+me8LxaJhWBu/kyJWt+s3eUDWP2TIgty5v2N4e3YPW613fOHOknRtClJ6idymeDOp
+r34B/hhDie58ElhfYZlePbqzvz/cHgcHTyv1sffIHO3YemUlPkhAdf8Ag3CTmeGp
+wpBXjH5vHsSJKxOVxm7MqhR6cTatmSw+bmbT7/HB24oBVEwxQXBqxpjLT6Fr2Y+s
+qPrOGjBcIZ7hl14LUxa0k1iSpHVEM2lyUuCzz7mfLisZgSKybfmOytaNoUIKiHiq
+YIoiWA==
+-----END CERTIFICATE-----
+subject=CN = 1.worldwaycapitalitalia.it
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3654 bytes and written 446 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 4B578B3B0014ED48633A936DE35C828D2EFD98A6E37C3CBB00F05BF4A61209A0
+    Session-ID-ctx: 
+    Master-Key: 823188B0CFB41824BFFFF9CC2891C6E0224EBB6C5973137C84CB5D1CD525FA6BD1250B77528E68B0C67B22EF74364457
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1558875622
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

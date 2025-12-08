@@ -1,0 +1,97 @@
+https://www.satoriconsult.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = satoriconsult.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGaDCCBVCgAwIBAgISA2Jp/fLrdvp6V0BEOYg6+MXsMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAyMjcwMzE1MDRaFw0x
+OTA1MjgwMzE1MDRaMBwxGjAYBgNVBAMTEXNhdG9yaWNvbnN1bHQuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuZFa9konNuQczezbGSuSL4oTPQZx
+LTKB87S/13qtcpdecEXju1w9cFc/QkoYzKZCPyKzB/JFT/b6xaCFWtxhCmWCoFtk
+T65A4Jl7K/gNFId5PUPgSBw8xAisR4t2098TDn4NaMTdMcPfhsmKoKJmqH+mAdrp
+aXPLuXglKAOE6FzBPR/rN0Pd6jyI8YeBCrwLs1utHOpYFevrgVe56wzaIWKt2rrI
+3uMW8O6RwhUnM34Km0PGg/nKCscNYlJSq8DhqbVouZIoQLZtvFudwf4QMAyjPY7s
+bh+uVdWF9Gj5b1OAXP02YX3TNXws1imH3J34dSJGV0RIxRqSbVrdgg4T6wIDAQAB
+o4IDdDCCA3AwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTaj1Y6NbvpSR7BV9lZ9unh
+3hWSajAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMIIBJgYDVR0RBIIBHTCCARmCGGNwYW5lbC5zYXRvcmljb25zdWx0LmNv
+bYIWbWFpbC5zYXRvcmljb25zdWx0LmNvbYItbWFpbC5zYXRvcmljb25zdWx0LmNv
+bS5jcC1odC03LndlYmhvc3Rib3gubmV0ghFzYXRvcmljb25zdWx0LmNvbYIoc2F0
+b3JpY29uc3VsdC5jb20uY3AtaHQtNy53ZWJob3N0Ym94Lm5ldIIZd2ViZGlzay5z
+YXRvcmljb25zdWx0LmNvbYIZd2VibWFpbC5zYXRvcmljb25zdWx0LmNvbYIVd3d3
+LnNhdG9yaWNvbnN1bHQuY29tgix3d3cuc2F0b3JpY29uc3VsdC5jb20uY3AtaHQt
+Ny53ZWJob3N0Ym94Lm5ldDBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLf
+EwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCC
+AQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AOJpS64m6OlACeiGG7Y7g9Q+5/50iPuk
+jyiTAZ3d8dv+AAABaS0pwT4AAAQDAEgwRgIhAI0JsqSmC3tnx9QGHBF9RlbrbTXp
+LbB83bA7IhfItLOxAiEAziq9KoeNIQyQtNdx2cASwD+OAH0eGdluJVw/W8gNX3oA
+dwBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4scdoVEvYjQAAAWktKcF6AAAEAwBI
+MEYCIQCAm0mIx7fkSoseSMZv/kyIAgV8G6BDBXm01rfCBDj+lQIhALsVIp3a4c25
+eDJAK9F7cVCFoZklN0TWTKSpV9tJ/okGMA0GCSqGSIb3DQEBCwUAA4IBAQALHq+r
+jB8SNnASuw3TvI/1kDNn7GUjco0DWfylU9wAHus60U4mf72n7Qc17mEBPiMC75EQ
+yRQSv1JkOPJXNc5RiEn7hNUfL77mbHZIbJSHVAySmXzuBGyG4aNzBWM6QZCPf18X
+Iy31U6pR2lTU+XeKUE3DQwj5mzkt11xLgAsKQXNNr+qoHlVVU6cw6WYh/90U2vgh
+3LVWuSSTBEAwcmDXOSFYes/v9BMKxId20lcDM/OZKrIsBGgRXbxsbvrKvmAr2jzf
+q+jyAl5FXEJTHd91tjUzJwxN5Dpu4nYWsQcfRb4B+fModmT5nO0mB33qnEQsxw6+
+u7VbH4sbMpP5u6Ar
+-----END CERTIFICATE-----
+subject=CN = satoriconsult.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3527 bytes and written 459 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: FE1065CDC84D495B81AADEB1854EB3A2F8368945AF2DB2C527E03778EFB74C73
+    Session-ID-ctx: 
+    Master-Key: 397F17ADC766AF8776C82253DAFB8C31FA5E52416BF38EF519063647F55E3FE76217E21DFDEB64929C5A5AEA96EFAFE9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c2 98 5e d8 e9 9c 22 78-47 83 f0 84 12 7e 36 1e   ..^..."xG....~6.
+    0010 - 9b 70 92 c7 00 48 81 3e-df ba 39 90 65 52 31 2d   .p...H.>..9.eR1-
+    0020 - da c7 b8 3e eb ff a4 1e-69 3b 71 63 71 a2 d1 3c   ...>....i;qcq..<
+    0030 - 53 73 51 83 91 b6 df 10-5d ae 79 41 4c fa 50 27   SsQ.....].yAL.P'
+    0040 - d8 92 9b 44 02 68 1b fe-0c 76 e7 b9 bd 63 be 78   ...D.h...v...c.x
+    0050 - 50 f0 68 cf 9f 29 d8 52-ba 7c c8 ee 37 a7 fd 25   P.h..).R.|..7..%
+    0060 - 65 22 63 ec b9 08 62 81-28 18 24 04 50 86 7b b6   e"c...b.(.$.P.{.
+    0070 - 92 6e 28 cf 3e ae b6 86-0d c1 d2 99 e1 e5 72 92   .n(.>.........r.
+    0080 - 2b e2 ce 2b 87 85 c4 2f-e3 3e 53 c7 98 08 60 54   +..+.../.>S...`T
+    0090 - d2 38 79 45 41 48 56 91-a5 19 60 b2 13 90 59 a6   .8yEAHV...`...Y.
+    00a0 - 03 56 9f 9f 41 81 99 05-76 c9 9f 7d 70 7e 2e ae   .V..A...v..}p~..
+    00b0 - 91 10 82 49 03 3c 6e d9-ed 47 67 e6 68 ab 21 21   ...I.<n..Gg.h.!!
+    00c0 - 6c 5d 9f 87 be 90 ec fd-65 7d 3d 31 02 af 21 37   l]......e}=1..!7
+
+    Start Time: 1552226416
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

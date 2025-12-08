@@ -1,0 +1,92 @@
+http://www.espaceclient-verif.net/espace/signin/signin.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = espaceclient-verif.net
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFfjCCBGagAwIBAgISBCpGP4UyvOtP+3NpQaxKtcU8MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MjUxMjIyNDBaFw0x
+OTExMjMxMjIyNDBaMCExHzAdBgNVBAMTFmVzcGFjZWNsaWVudC12ZXJpZi5uZXQw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDPmV0DKFWDY7wDWwIzXfrb
+JR4oFlfYRVjI7Fl14ewUFqD8v2YoL5FO6igb0HIhgS/IKC+TC6l7DO+YOK7KnBJC
+5SWE1FMYfsk4YU8AmSsUS7fZ+wwpRumT6zJkET8ZlJ264Tu68kNWXWdJCp24Pkb+
+wrIWmp5k5g3eYOZa+NAN9VAMKLdrjlpMZ87CCnR2xxSxXsDCKEVqcikHHK69YQzd
+t1u78zjK//OZDAldyOtYBcwD6iOTT7lXeNJLkAlzCeVsLGLwj6QCPm4nTRVWUufo
+O4FEeYiTYwIMcWgCsafWGSHn3unTbyQA/jWH97Z3EiFlHJyGS77fVZugcc4IX2Xx
+AgMBAAGjggKFMIICgTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFJ8BQRZiL/z301bx
+k2GyPLurWNTJMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsG
+AQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZy8wPQYDVR0RBDYwNIIWZXNwYWNlY2xpZW50LXZlcmlmLm5ldIIa
+d3d3LmVzcGFjZWNsaWVudC12ZXJpZi5uZXQwTAYDVR0gBEUwQzAIBgZngQwBAgEw
+NwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5j
+cnlwdC5vcmcwggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQB0ftqDMa0zEJEhnM4l
+T0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWzI8Wk7AAAEAwBGMEQCIGFon3Zod+GB4Z9w
+GFYDur63wvGMQJzAf3Ujm6EuZ0S+AiBkN7TPYyBLBcdDt7JXwc4SEASr2OS9NaKT
+oJkEHnFFLgB1AGPy283oO8wszwtyhCdXazOkjWF3j711pjixx2hUS9iNAAABbMjx
+aS0AAAQDAEYwRAIgHKapxyexlFWyTT1YgNezkhwgPHLs2Okfo4jrbRXWVfoCIG6l
+f8Y6SJPcXoyRLAHHns8JEiT1T2j4m9nSJaCb1wT/MA0GCSqGSIb3DQEBCwUAA4IB
+AQBXfT6ta+blLExvZRDgPHfBUuBqDetiEpjqRlnJcxrRIYcbvfJYGAerVIoHYb8c
+804AqVZYt2/P8nROwlEjUuEVRQbN5BQswUBtLrE74I5HaAM51yFHw4KDVTBxDTLO
++aG/n3oA68NWOiveG51QskvOVhspG0BayRdHcjm+2mGmLeyN7D1Xeu41P+HqHdiJ
+sM8P1Ey95rM3T6nEDzZG1Zf+V8x1+4as9PEAAl4R4AZLY6RCiYU0UTmuQYSIrcW7
++IMmzvtdm9tVhSYMHqMbnmm0f0xXM6pVlUdk0QQwzxPZGPs/EIMDnolWJHlCeHRF
+S3dzFl5fOwaCrW1NECqfcn2D
+-----END CERTIFICATE-----
+subject=CN = espaceclient-verif.net
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3293 bytes and written 464 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 496600B187BB6E2D9AEBFC515700C70A4EC12D35AC5FF08BBB40120427B2D875
+    Session-ID-ctx: 
+    Master-Key: 9F97AF60A159877F4EF0459A43AE7C0FACE883D0E7287A54EFE14CC63EA65FED33B67DC2A1300B088B1A6402231C323C
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - a7 67 30 c3 b4 cd 7b 82-22 88 fc cf bf fd c3 27   .g0...{."......'
+    0010 - 70 04 03 7b 36 9f c9 c7-7c 10 a9 9a d5 3a e0 26   p..{6...|....:.&
+    0020 - 6f 3c 6e 87 8b 23 6a f1-36 95 d9 ae 03 bc 7a 49   o<n..#j.6.....zI
+    0030 - 46 48 b4 2f 9b d2 3c c5-72 28 0b db a5 7d 82 52   FH./..<.r(...}.R
+    0040 - 67 42 d7 de c2 ac 3a 2c-c3 b4 60 97 41 3d 50 c3   gB....:,..`.A=P.
+    0050 - 66 85 12 65 bf 39 ee 00-06 58 60 26 85 3d 8f 1d   f..e.9...X`&.=..
+    0060 - 06 dc 2d 37 d6 65 3a b6-99 7a 2f 9f 8e e2 ec 36   ..-7.e:..z/....6
+    0070 - e4 77 05 01 93 0b 08 73-7d e8 fd 21 bf 8c 16 7b   .w.....s}..!...{
+    0080 - ca 39 78 4d 23 e6 3e 1e-a8 64 6a 42 01 bd fd 1b   .9xM#.>..djB....
+    0090 - 3d 96 69 16 52 89 50 7f-b9 cc bf e6 49 db 8c b0   =.i.R.P.....I...
+    00a0 - 31 9f 89 24 84 f2 77 99-6d 45 3c 09 aa 28 ea 48   1..$..w.mE<..(.H
+    00b0 - c6 79 ac 96 f8 3d 30 85-7d 92 5c e0 c3 25 93 59   .y...=0.}.\..%.Y
+    00c0 - e0 25 90 8c 6f a7 54 2d-89 4a ee c9 36 d1 a3 30   .%..o.T-.J..6..0
+
+    Start Time: 1566910836
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

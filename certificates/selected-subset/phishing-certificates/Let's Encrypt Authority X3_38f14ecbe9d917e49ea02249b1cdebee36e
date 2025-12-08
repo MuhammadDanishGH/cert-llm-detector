@@ -1,0 +1,68 @@
+https://account-update.amazon.co.jp.yamata.life/ShowMessage
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = yamata.life
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGADCCBOigAwIBAgISA48U7L6dkX5J6gIkmxzevuNuMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MDUwODI5NDJaFw0x
+OTEyMDQwODI5NDJaMBYxFDASBgNVBAMTC3lhbWF0YS5saWZlMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu9VqZ1EKrVKjD8uiQmQiPTPqehv/+wDkjGNR
+lwg+Ji8A7+r5UMwVaXtcPmZroFB/katKYRYzSTxMVDvKFWQncJpQ2Ny4uIW1SIgA
+hZPFbhYikPp5vFPNMXoluNbo3VyLIalFOcKMKU8fNcxDiFYs2VmQddKlqpGWjvU8
+5MQocsiH+dy9XY1F0lDljpd8IT7eO+rvcILKnaLZ7yQYzxnWez8K9bJ6o53LNKUu
+RypRuGgUfJPBIsW4niqDENcFczjEkVOW+FkJ1HESCIKZWxXENJ7BOUJdArbEi31i
+ju9MfHiGu+RjXzHe9sw/MzmZbIQtfuqV7vhoorqRvXqNEAhWAwIDAQABo4IDEjCC
+Aw4wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSpxZRnZFToUJ5FHIaFU7/m0SBMqzAf
+BgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRjMGEw
+LgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5vcmcw
+LwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5vcmcv
+MIHHBgNVHREEgb8wgbyCKSouYWNjb3VudC11cGRhdGUuYW1hem9uLmNvLmpwLnlh
+bWF0YS5saWZlgjAqLmFtYXpvbi5hY2NvdW50LXVwZGF0ZS5hbWF6b24uY28uanAu
+eWFtYXRhLmxpZmWCGiouYW1hem9uLmNvLmpwLnlhbWF0YS5saWZlghMqLmNvLmpw
+LnlhbWF0YS5saWZlghAqLmpwLnlhbWF0YS5saWZlgg0qLnlhbWF0YS5saWZlggt5
+YW1hdGEubGlmZTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisG
+AQQB1nkCBAIEgfUEgfIA8AB2AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgia
+N9kTAAABbQDCFQoAAAQDAEcwRQIhAKh/rHb1HtzjpLe2wPtZ8fRH+HIOVD3rjGoH
+RyAo6UPSAiBSOir7mYp4OhUE8LrRP6En00zwob5yEJK8HTaxEoYpIwB2AGPy283o
+O8wszwtyhCdXazOkjWF3j711pjixx2hUS9iNAAABbQDCFHUAAAQDAEcwRQIhAN73
+shKZMTMMck6nd9m2fhXWkXKOiSIKzd9sD2kbYPVEAiBbDbLHit8Z3D3a4OloVJSI
+7PFFUlPIKWNNC7eeDUyY/DANBgkqhkiG9w0BAQsFAAOCAQEASCiEltr63oDgu8V3
+q36BQUgUkYJlJUGrXUuVp5ftl/rLa9OX5JWMLfd7ljIVa76DFxJyPC2eX5lDH2gb
+BpWVmLnu2I6E0VefQMnyq7aKMT4rv5E77xzOSv31YjVwJ01v1uoLF7P9cIP9yqRY
+2FuRPxPajxmpDGsvjOCCO3X02eIJlrfOBUvfmq3g11B+0x5GOc+3lb24eOYmORwi
+gjlqPAOt7W8bCHCQDjUwEDw/0oxoWq1nXv8KeWgFzaIz6vLQNlZbpRGUd6+5kJfw
+dEp00UwmP65XxVm4rNegd/TvgwtKIkhsM7YdXsNgZ4npj41qqcxr1lBB/KX1tRm/
+GJTBZg==
+-----END CERTIFICATE-----
+subject=CN = yamata.life
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3279 bytes and written 431 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

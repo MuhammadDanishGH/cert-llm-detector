@@ -1,0 +1,76 @@
+https://slastik.com/wp-content/UP
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = slastik.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLDCCBBSgAwIBAgISAzdgQduC7C25g4e96eL0GftLMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMTkwOTIzNDFaFw0yMjAxMTcwOTIzNDBaMBYxFDASBgNVBAMT
+C3NsYXN0aWsuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5/U0
+Qle+fKtdPapq5GRitwmm7clsr2CCP7Tu/a/et1cCQJoww9RK12VfEcexWoz53Cy7
+jODCybG5Jg0mGmo9iCogNSwzCWPOHXU17Cf2WTDtl0IKTlnf87IWA6WfRWq1rBa7
+ue77dFPRQTXpc0NI3Wg3t7qCY+U7a3t1VMjG0vdYVYFEBNHPQsE1Tw21PCn3Vlmt
+w9CiBt5U18KnJevTO6R4H4p5Bt5we3GMPwQxja837//xqX02Zg627PFp4utcgk9X
+Rw23sK+EcGEwXzPnYwuzwotHm4CDZMr9kIUlufTQcXlJqjvFPjJ7nGIftONni5Hn
+BmHnbWqL3RGJG7jwvQIDAQABo4ICVjCCAlIwDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBRZ/OD03a2lBeepV+I0XUm4jVo8sjAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDm
+H6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5v
+LmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzAn
+BgNVHREEIDAeggtzbGFzdGlrLmNvbYIPd3d3LnNsYXN0aWsuY29tMEwGA1UdIARF
+MEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6
+Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYA
+QcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF8mBQFbAAABAMARzBF
+AiArf6+iH4nIQYXm3waHXUhu/hrUVN8EyrDGRy8Bhm5NewIhAPHxFSA/sYeCFvC8
+7m5qi9OgZHka82bB5ECnk50QUHHCAHUAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5
+TV0mXCVdx4QAAAF8mBQFWwAABAMARjBEAiAEJkS21aQ9JGA3QI2e1OLqZnsuK4eB
+LetxDWYHIX79bwIgYlO5GQ7GdmyTEr/jqm1nuBBs9hOjYBy+UiMMKRWtlEwwDQYJ
+KoZIhvcNAQELBQADggEBAFvYGSd6mDwFDnEnuvCiHsb8zOpXYbMJJJtIQvH82Omx
++9AsqhNlMk9VJtnGFwlXI/Y+G+di/Y96RJJH+5kI7krbjKglA+6uf0Cg/Xt/zdbp
+mqR8SYyFkC5K7FDGNeargsh2natXa/m+1BK5rq/Er7f5u++72GxKFo0yb8xSLeUM
+UTUECYir4I4S7Y7UcadkJWDi01iTCNiKxfXgD0tHzrCy8sesY2VX//rRbpEDtc47
+fpWWamsgA1DVyOh9DQPtikJcVelFqOq8w00vb1SYwckP4Up69eHJsvf4JGl/Oer1
+RjnDjVJQzfY0BNYdX2eVBpk/oB5GzKWm/3HysitlZiw=
+-----END CERTIFICATE-----
+subject=CN = slastik.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4502 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: F6A94AC54AFD5A78EC2FF8BE5413F8C54C96FDF30673C556406B071568A9A1CE
+    Session-ID-ctx: 
+    Master-Key: 30015CDED45AD083B99664C1192955E4B121D44F83BE3643247B9DF32DE49AABE11CC3FB7657D41CC2C9D1B3ADA9D47F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1636678405
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

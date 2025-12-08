@@ -1,0 +1,64 @@
+http://dfyyuerprinter.me/spreadgeneratepmer/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.dfyyuerprinter.me
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXTCCBEWgAwIBAgISBJu84P+QYji1jdO+afBi74LXMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMzAwNzUzMTVaFw0yMjAxMjgwNzUzMTRaMCAxHjAcBgNVBAMT
+FXd3dy5kZnl5dWVycHJpbnRlci5tZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAM0lgUlFne9en0tzEh2EDGpcYE7v9bd3xAypLbgNcb0dIESgr+27QFUO
+qajTUTmA+GOHeYJ8Q+tDoT/0KLUdB5ufuSD/CIWZZOLck9oI33xVkKT632P8xLRN
+ISy6AA+4b4YTMzfbdbMv1vJxd51EqxE1eoytbDorZ4QGgKlUloQebncNGSp5mrY/
+w44zendjJGQH08jzR16JSKiSTRhoqscIytAHD3+UlgJY2NbmCwwZcJpRfP1BOttQ
+rwrVLxT8y+RF0W+2la0uLFP6IguH6r/3SpGy4P1OI4m6NQp5A0/n32PLcGxMbQtl
+AOtYgk0WW/kHBIc7GYiX08K3RAVwNuECAwEAAaOCAn0wggJ5MA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQUFu/tTm6cb9+5fLGw6p9dSJfr6tswHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wSwYDVR0RBEQwQoIRZGZ5eXVlcnByaW50ZXIubWWCFm1haWwuZGZ5
+eXVlcnByaW50ZXIubWWCFXd3dy5kZnl5dWVycHJpbnRlci5tZTBMBgNVHSAERTBD
+MAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8v
+Y3BzLmxldHNlbmNyeXB0Lm9yZzCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AEHI
+yrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfNBnLbcAAAQDAEgwRgIh
+AIigbdyyA1tvJDp8QYzppEdzpOiAn9oA5KuHWaMed8xYAiEA4SOXAgIIGAkTIUWk
+s5nkV6xq3CdpiTSazaUoWZ+/snsAdwApeb7wnjk5IfBWc59jpXflvld9nGAK+PlN
+XSZcJV3HhAAAAXzQZy2ZAAAEAwBIMEYCIQC9+i0EdI+z88AtJR47uAHot4HBQEUN
+AegVEx8FFLQlKAIhAKk4JqAJmOgSxT3kw+AL+wmJYgffRV5PtN/QwzT/AhPKMA0G
+CSqGSIb3DQEBCwUAA4IBAQBTJxy4sVXvy+P7UYRzc1S3c9j0Gm87fKCGEb8mKzCv
+nwP4V+3BuWoIH7usVrzosjP/sbYlpGqI7PLKJQJNfwjqFDVbE02CxSi2X1vU65wm
+V/sZrCmXhKsLuqIrT0bZcrlgRAK/Kmeh7RbKIACXL08iPurvUtL14paNAWu/4Y7t
+2oU3jhyjO4EP3INE47YPszcu5HmLoVtU8zIr3AP3bhTc8VE0ECmVRY6oq71MW26k
+2gYL+2SfXN73d2ZLHuNe/NFASkOSMS6fF41e+BHBDqs8wya056xaKYvbX/uFtjck
+mvq/Hv/UTTXiuT02VAWJ7g/k/ifR4FSxUyomLaW2VY89
+-----END CERTIFICATE-----
+subject=CN = www.dfyyuerprinter.me
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3248 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

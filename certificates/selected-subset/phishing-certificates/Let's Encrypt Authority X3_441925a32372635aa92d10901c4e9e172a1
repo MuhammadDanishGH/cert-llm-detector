@@ -1,0 +1,91 @@
+https://pingstliljan.nu/wp-content/plugins/css-ready-selectors/owa/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = pingstliljan.nu
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFaTCCBFGgAwIBAgISBEGSWjI3JjWqktEJAcTp4XKhMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA0MTUxMDM0MzVaFw0x
+OTA3MTQxMDM0MzVaMBoxGDAWBgNVBAMTD3BpbmdzdGxpbGphbi5udTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAMrtKpJswIgWUMSp4j1weiC48GswolCc
+E3oPbAM3PwRVq2wWQ4SLMcprzXaaKce+p9aN86ewNL6RzZlP4SBpE7nxNXhg1KrP
+AnHmnsIveYwDitqFLpzFD8lqMTvH5FBnbaS/j8IGKvHpwts0JTow4eSJDwZSGfzq
+PltscKtFshwJsCa96BxKw6SovIC6XsDkGNTsztYAHgjoUkn/HU8mOimCgbeu2Pm3
+5TzPZQHZHNqFo4AG3+5pgBCwtCsLnKC/elKvCo7ChuhiY57o2upR/m//DgOBRfSN
+caYsYhwhDbRnVqduPPkd4wvMp63Hcls1qtHylqTK3zwPt3GcktcVm9UCAwEAAaOC
+AncwggJzMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUvVbwzmy9cTzxJXN8qwhAndm2
+voMwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnLzAvBgNVHREEKDAmgg9waW5nc3RsaWxqYW4ubnWCE3d3dy5waW5nc3RsaWxq
+YW4ubnUwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggr
+BgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggECBgorBgEEAdZ5
+AgQCBIHzBIHwAO4AdQBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAA
+AWogxwkCAAAEAwBGMEQCIDV6OX/msOrSp9RWcmowsjSUg26P9BzbvPhlPeCSFMOO
+AiAoqXwjgh7WpcX7vLbV/gzMEuDFLvWQDyab0l6i24mbiwB1AGPy283oO8wszwty
+hCdXazOkjWF3j711pjixx2hUS9iNAAABaiDHCroAAAQDAEYwRAIgNLGQRNEwBlEL
+8OrHOeAuvDwwOvG60jAboGmAvj6V7AsCIGjQtdb3wSeyiXGwBVGA0G64dPfFmx7W
+uuFaRl5K7F1GMA0GCSqGSIb3DQEBCwUAA4IBAQB+RipOaGSfnaGO4veow7MbpLUq
+LuhaGUvRYQoseDtqfRTttmO//E2qLJX7BE5RZJTvR2DjHJOvUu4jW5SHlLH+duqb
+KLaSMTbnu0R357YezvvdQ51EgTHJgAzlHp6Lrh/4plEwZ7DuJptznzie0ngDNrtF
+ExEJNFuq4T/h5+LnMnVkgPCX4umRk+GbY7w6IhPR0vmW2VZXFoxSpyclvlyuU9r4
+IDESHeTSMJ1h+MywcxfrUDBd3sncMLGtzbSqAiabaH/s2hFcHKRzUIlVJa5NQHlh
+LUOkXOaHDclb6jOftdkdrixPiKUGV1UyCyvKWEpkfNnfroM/3Crk+D/5RSuV
+-----END CERTIFICATE-----
+subject=CN = pingstliljan.nu
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3272 bytes and written 453 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: D7046AF529CB4D631A0E3D79FC38088E5C374F2B013E8858C5647E0A25D9FDA5
+    Session-ID-ctx: 
+    Master-Key: CB179AAF673661AE6E6AECD8B830993653C27FA1F5FEA9740DEC2CB78F6B3B1C4C04042B767AADF34A2B3AD8070D9465
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 07 da cb f9 e7 85 31 19-4d e8 94 bb 6f 09 d7 bf   ......1.M...o...
+    0010 - 3b 20 2f 60 66 0a 45 8c-78 a4 64 19 bf 2f f6 54   ; /`f.E.x.d../.T
+    0020 - 6f 63 b5 b1 99 f4 ed 81-c9 eb db 21 33 93 2e 25   oc.........!3..%
+    0030 - b6 03 66 33 5b 5e 39 92-21 0f 1e 8f 28 66 e2 b7   ..f3[^9.!...(f..
+    0040 - de 4b 6c d5 27 ee 4b 6d-84 72 b0 1a 32 9b da 3d   .Kl.'.Km.r..2..=
+    0050 - e1 2d 69 4e ac f2 f0 e0-08 30 c9 8d 8c 56 3a 59   .-iN.....0...V:Y
+    0060 - 70 b8 50 81 90 5c e1 76-87 48 de c2 ea c9 d7 b3   p.P..\.v.H......
+    0070 - 38 73 71 68 64 a5 f3 12-53 6a 53 89 a2 af 5e 93   8sqhd...SjS...^.
+    0080 - b9 24 45 2f 81 e1 f1 7c-60 b2 8c eb b4 71 ea a8   .$E/...|`....q..
+    0090 - 9f cb 69 ae 80 75 26 75-17 44 47 a7 a7 75 88 67   ..i..u&u.DG..u.g
+    00a0 - 1d de 33 8b 6b 92 a3 90-ca 7c 90 24 9d 68 b3 dd   ..3.k....|.$.h..
+    00b0 - ee ef f8 fb e8 ef 50 d3-c1 b7 8e a4 0a 6d 61 0a   ......P......ma.
+    00c0 - d8 2f 95 c2 5a 5c e9 c7-a4 d2 38 66 b9 b4 51 d7   ./..Z\....8f..Q.
+
+    Start Time: 1555765227
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

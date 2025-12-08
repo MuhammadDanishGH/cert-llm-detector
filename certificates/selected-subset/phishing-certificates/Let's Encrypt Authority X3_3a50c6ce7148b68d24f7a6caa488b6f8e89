@@ -1,0 +1,93 @@
+http://jaysonsecurity.co.zw/latest-onedrivee/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = jaysonsecurity.co.zw
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGFTCCBP2gAwIBAgISA6UMbOcUi2jST3psqkiLb46JMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MTMwMTE2NDNaFw0x
+OTA4MTEwMTE2NDNaMB8xHTAbBgNVBAMTFGpheXNvbnNlY3VyaXR5LmNvLnp3MIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyECMtHouG7Za+KgiDzdlx+c6
+q57kXyjvv2XUBKS9rspjupPSZ2LcJ3tszqQN7szq6ZOWkfIC6oRdtuSAAE6iwhPB
+/rt2HnDQCDHXdPYLfxI11KLt2SrxzXkNfcWTqn2fuGI4OK9PYV4/3UAcsEYzYwu2
+K6llo1RXpMsso9H9cbNPE+4h+YNzKTLZAU6y8AgtkZBrecrUMjNgZeeRJjxyuTTN
+ZtbXcZ2HGGv1AYEObnNVkkSi42vIgoMmnpeysvK8tgGKqbu9sPuM1g3RLk0nWwYw
+Dwl21vmNoorHniqsgxHUeX4G+6tGbNFvo/dKx8lDABQ0FEvUKvQILZLG5EVWXQID
+AQABo4IDHjCCAxowDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBT8eQDJO/+dOvqiN+oi
+SAFsIrRr7DAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEF
+BQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5j
+cnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5j
+cnlwdC5vcmcvMIHSBgNVHREEgcowgceCIWF1dG9kaXNjb3Zlci5qYXlzb25zZWN1
+cml0eS5jby56d4IbY3BhbmVsLmpheXNvbnNlY3VyaXR5LmNvLnp3ghRqYXlzb25z
+ZWN1cml0eS5jby56d4IZbWFpbC5qYXlzb25zZWN1cml0eS5jby56d4Icd2ViZGlz
+ay5qYXlzb25zZWN1cml0eS5jby56d4Icd2VibWFpbC5qYXlzb25zZWN1cml0eS5j
+by56d4IYd3d3LmpheXNvbnNlY3VyaXR5LmNvLnp3MEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAdH7agzGtMxCR
+IZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFqrvpa7QAABAMARzBFAiA1r/vLobBf
+vvKn85vK3uDG9IpT7YfecEQVk6cQ1zFNMAIhALhS7MPnvvk5pqstLpPcPTBfjHBq
+4rLWFt+WGtqssNajAHcAKTxRllTIOWW6qlD8WAfUt2+/WHopctykwwz05UVH9HgA
+AAFqrvpbEAAABAMASDBGAiEAxIXFF2DaKMNpuyAKJ37XVBZF42V9GA8gb5tbDQUg
+RikCIQCn5g97L3CW7BuAWNf5qkjvcQGRWmHvQ1rzDc8AJ2XwMDANBgkqhkiG9w0B
+AQsFAAOCAQEAiC2P3XgtQJCmCByn019rRsu+pDgvUI2wZ906ISpZSwxU5nBNYn9T
+9dpCDTwT9WWG4ZnnrZplxPN97mF6Nnfrr5HrPDaYUJNSe2S6LP7YiQiiYQ47PXwc
+Ge5JvtGoYfgC9t/lDv4eyLMrqnJLICz5yMkZlijhoR0UMFPBrcmwVaX7NfwXaN9f
+mRFNOLlISgJDX4TnFeKQjTeEowZ89ZxajRfTux3OFtbDbjGxqcWOh1dCdRPB9Piz
+rjV+OkJy/BVQkCnECXfWFR0pfedDN5AaVW7FIzUcfInedJaACmjoSB0dfAJULXbd
+rnRjXxYmqVbu1hW5KguEJJjAbTHdPXmkWA==
+-----END CERTIFICATE-----
+subject=CN = jaysonsecurity.co.zw
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3412 bytes and written 458 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 972E57CD075BD1EBCC19869C118DC7626D72EE4B53EBFA8B2E7822DFC1CCA9DB
+    Session-ID-ctx: 
+    Master-Key: F33B01A854824ABF3A28BFF8C0589E25BDF11C21DC70D46824AE2A05288F95F2FDE475666DCD13225B3C8A7FD10BBF68
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - a4 0d f4 76 4a ab 75 75-2f be 78 b5 9e 71 49 78   ...vJ.uu/.x..qIx
+    0010 - c0 b3 f4 96 46 f5 46 ba-39 20 87 f0 ec 6f 9c 05   ....F.F.9 ...o..
+    0020 - 45 0b cb 53 6b 2c 72 05-4d be 76 5b 41 ad e8 0f   E..Sk,r.M.v[A...
+    0030 - 1e bf 9e 7b ea 8d 60 48-ba cc 36 24 2d 26 65 2c   ...{..`H..6$-&e,
+    0040 - a7 77 99 ba af 8e 80 ba-99 42 80 61 e7 59 af 6e   .w.......B.a.Y.n
+    0050 - e5 57 61 c4 be 59 ad 6f-bf a7 59 6a 97 7c 76 94   .Wa..Y.o..Yj.|v.
+    0060 - 1f e8 50 89 b9 42 30 a0-e1 e8 64 70 7f 10 97 30   ..P..B0...dp...0
+    0070 - a0 1b 27 6b b4 85 25 0a-a4 e6 29 ea c2 73 dc ac   ..'k..%...)..s..
+    0080 - 71 eb 1b 29 7a 01 e8 49-53 9a f1 34 a2 62 09 66   q..)z..IS..4.b.f
+    0090 - bd 78 b4 ef 8c ec ce cf-ce 38 c8 06 ec 57 31 2d   .x.......8...W1-
+    00a0 - 20 80 ef c3 0e 9d 1d 46-15 9c 2c 70 2f 60 89 5d    ......F..,p/`.]
+
+    Start Time: 1562763625
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,71 @@
+https://bonhotelkanolafia.com/swiss/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bonhotelkanolafia.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGTTCCBTWgAwIBAgIRANEIplecUZVb8pOGXSnMFoswDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMTEwMDEwMDAwMDBaFw0yMjEwMDEyMzU5NTlaMCAxHjAcBgNVBAMTFWJv
+bmhvdGVsa2Fub2xhZmlhLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAMuIiTmaDxd3fFDVSCr9DXosENvXYbPbC5CZwX2KPqXa8PLXizUjYRrLPItU
+XIDpnY/2lIVajBPOD4wq+/hRzu4IJhO4VynfRdaUcEyQ1kRmyUislcGq1DwG8TxE
+HIJTXIfXBqoll+lzBOD9emc0sl3Y+QyyA2P5thkriVu2T2cHtr3viEb4sl8IT6U6
+nfylXpEdUp5owYt8aJF3Gn1k3T0NYezv/RSwBeergdnMVlwZm/vjuV8ftZMXvAL8
+dOtaRxmRoCcrydI0SbQ+CAEvth+uRvaomXwNBwgBaurpnB64DVKAO8jY0xPsDFlu
+Y24kT1lU6Xye2GzT3QRtxBi34McCAwEAAaOCAxAwggMMMB8GA1UdIwQYMBaAFI2M
+XsRUrYrhd+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBTGakZho33JTe6QYMAAqGxxzu/Z
+vzAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsG
+AQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsG
+AQUFBwEBBHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9T
+ZWN0aWdvUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggr
+BgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wOwYDVR0RBDQwMoIVYm9u
+aG90ZWxrYW5vbGFmaWEuY29tghl3d3cuYm9uaG90ZWxrYW5vbGFmaWEuY29tMIIB
+fAYKKwYBBAHWeQIEAgSCAWwEggFoAWYAdQBGpVXrdfqRIDC1oolp9PN9ESxBdL79
+SbiFq/L8cP5tRwAAAXw8kioIAAAEAwBGMEQCIEsEh7irvlhQClSPce3BSWRprBP2
+cx6+dGIBvs5evN25AiAmt7v74adZi/TR41kWxpwbNKm4Lb+AmxXtRmbTRTQPIgB2
+AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfDySKdAAAAQDAEcw
+RQIhAPQdQEvSDG8hNEy1lqW97+wBFsascF3ojUASqTsc9qRvAiABJ8DEOUZpUN4d
+eXPakIY178bgivD0FzSFF7odc3rLcgB1ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4
++U1dJlwlXceEAAABfDySKZYAAAQDAEYwRAIgYz7KywKY+A+Zv0NIOZq1rS2VxR0t
+NYlxKbBM9JB4iVYCIGnukOYCBv9pq9ommMFsgTRTSDAddEshq/zwuwKxEe1QMA0G
+CSqGSIb3DQEBCwUAA4IBAQDQ9OYu+cMBKTULmnoxv10FWSP4CbZFHujnBM69FgMU
+8akKBpCP5Dz4gOJ7ePTzV3xGXamaHjUCEu7wBMiGeBTBIFeSadTiNEGVIoDVxkYc
+G/kq8G/aulGGodR8doMdEvMbCWMpcEb4iCW6C55rojd3Zrq9pl25clSBcTBOVKBy
+5uKuloMFaKA6IfakhmV2Curauutf6OH0arCbY1nFrve9+bRKj3XiUtGWN9m1Th+2
+d2YzlwNUJDJbuBXgfh7L2E4D/z3f5xoRbaMhMekKfau1ByVzLe2fq4fs2mhQck42
+N5d5L1CW1UxjZcNZ96+UZsoULS6ILCeIyMM1IsLbTYsJ
+-----END CERTIFICATE-----
+subject=CN = bonhotelkanolafia.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5159 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

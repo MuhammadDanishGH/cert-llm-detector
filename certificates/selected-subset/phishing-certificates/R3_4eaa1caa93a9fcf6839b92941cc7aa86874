@@ -1,0 +1,66 @@
+https://anger-or-control-admin.my.id/ref=0.htm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = anger-or-control-admin.pages-admin-01.site
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFyzCCBLOgAwIBAgISBOqhyqk6n89oObkpQcx6qGh0MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTQxNTU0NThaFw0yMjAyMTIxNTU0NTdaMDUxMzAxBgNVBAMT
+KmFuZ2VyLW9yLWNvbnRyb2wtYWRtaW4ucGFnZXMtYWRtaW4tMDEuc2l0ZTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANmV//7FbQ2W95uxWicRsf6/asz/
+bS8y6H/3KPBxcA6+JKbBUjiJWfYZh7kZcLvGUJCot6eLw6d7Z1ec8o+6j7gtippd
+6qP3PWG3UVAfahG4rI6V8DtBEyIzwJNV0zEmYwVqsg5b+UR7/zT0eYcrcQXsdz7b
+GhF6r0d/XMdx3x2sqBwsfEMhKv2KmewerTtu3HnXk0DevN3GO/KELkPzHjvWDgpW
+9YR02ZUwcrIjikUiu9IC7rUOrzPkxk1oTmeNbzrj/x3/z0ykLj/VxEVTARmu/i05
+sHgAMLRc6Lx+IV6Ow717y/BERr0wfk52HHUPPVsPrZnYz+PgNqGZVfJBO7sCAwEA
+AaOCAtYwggLSMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUudHpa/51lUMLTg2gbKrN
+WK4y2r8wHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUH
+AQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYB
+BQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wgaUGA1UdEQSBnTCBmoIeKi5h
+bmdlci1vci1jb250cm9sLWFkbWluLm15Lmlkghxhbmdlci1vci1jb250cm9sLWFk
+bWluLm15Lmlkgiphbmdlci1vci1jb250cm9sLWFkbWluLnBhZ2VzLWFkbWluLTAx
+LnNpdGWCLnd3dy5hbmdlci1vci1jb250cm9sLWFkbWluLnBhZ2VzLWFkbWluLTAx
+LnNpdGUwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggr
+BgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5
+AgQCBIH1BIHyAPAAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAA
+AX0fX5jZAAAEAwBHMEUCIQCg9Qx4/HWzmZmUPiURn379heVcJPB/kuiNmFTdlBJk
+NwIgJ2xZDoNy3BSljkqWGh+/vfi0+MI6XkvJg6WYNdOrH0cAdgBvU3asMfAxGdiZ
+AKRRFf93FRwR2QLBACkGjbIImjfZEwAAAX0fX5j5AAAEAwBHMEUCIQDt/2DvXPgY
+vQ97c3R3T8lcVNyvB1BPEfTiK+8kDx2SHgIgJ1Zb2GbRDk8RnyJJMhRBqxskV7YT
+ZE8f4bAa7kbXF6EwDQYJKoZIhvcNAQELBQADggEBAFm0gmWMqKwAZ9GZgQAyntUz
+X0udNKrgghgvw8LdZRHwpjCR/8rSW33KL8ARRFDe0uvvbbZHYT4GtAJmNHY2BW+U
+17UqDhS0uZLY4vbe+MWHtUUEVL/3H3TF8pFs+oa7b8Fxg5gUTZVqhFZcMXZnT5cC
+Il2qvslK5gtzZ+2MJYrOrfp9hZGD8N6kLsSEGM9A8tODDC3yk4Q5EhNlcDjBw8eK
+4T6TH6pDi1AAsbH1zUgX3qWMCkKzsBgvO44X73akXsD+tj1FRJFo6Pr0ClzZs1t5
+OUgXrsTfWxHFgECUzo7CD2IapJqYUqb7SdFuzeedpAoTRG3+Y6Aoj7PhSGhNK9A=
+-----END CERTIFICATE-----
+subject=CN = anger-or-control-admin.pages-admin-01.site
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3358 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

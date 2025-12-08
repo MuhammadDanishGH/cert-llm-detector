@@ -1,0 +1,74 @@
+https://secure07b.viewdns.net/loginweb.php?token=e4813bcd88cd45f02ed18b7e0c0cc07ba9addff3b8b749d69af094262d93c36292e282172e3cd9d01457dbe3a7043e5b022628af099c702c156676a117e7539d
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = secure07b.viewdns.net
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGvjCCBaagAwIBAgIRAMmduMEX7wtWPfzyLCyy4AcwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTExMTYwMDAwMDBaFw0yMjAyMTQyMzU5
+NTlaMCAxHjAcBgNVBAMTFXNlY3VyZTA3Yi52aWV3ZG5zLm5ldDCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAK3QctbJGExRxPLjh5AzzFLtgsly5YqK8a30
+QVFYdO0Jh2sKnj0GJi8oXHbWtZ2EhaGjabgZW+I3kPi0pa9yTqHqPXAEWbMAdkTx
++mPMBSQo/1jStPMjfQRwI0fHw30zOF1RKdWHmqtoUVrp48D2iOHwiaN3SngiItMR
+yti2OztmxxiRn/4zcIEEzIn5fQ0nWDbyMlJj8IEjTq2McWbjAGm/aBHNDA+z1d12
+1zbGLFQEoluJXNusFNnwsRCguatDrhiD4+QbyPWn1QSUnrwTV5HSHa/4GaKDCx+x
+4He2gJxC1z/piFa2F7KM9jPS4YWP2vTFPHwISdoHsq6d1Ue1rK8CAwEAAaOCA58w
+ggObMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBTL
+8c5cZBiXBtrKLz8jOuu//MHHuDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIw
+ADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0Bgsr
+BgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQ
+UzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYB
+BQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYY
+aHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDx
+AHcARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9Kc5WcgAABAMA
+SDBGAiEAnXdunWj/wSYshzJgMEh322e7w14uL73oP7XTQqbujgICIQCCCQ3ZOSt5
+bYcZQNgU2tr7MbeJUmklTFKdCnSLcF0UPAB2AEHIyrHfIkZKEMahOglCh15OMYsb
+A+vrS8do8JBilgb2AAABfSnOVkAAAAQDAEcwRQIgK1M+LOP0rAtillnj3yiaEfqE
+t8WbrjqdlTFpadFuL1UCIQD5hN+SOhK8OMs76HjcspmGFp0/DjfO9Y9A2HzfiGny
+6zCB+gYDVR0RBIHyMIHvghVzZWN1cmUwN2Iudmlld2Rucy5uZXSCHGNwYW5lbC5z
+ZWN1cmUwN2Iudmlld2Rucy5uZXSCIWNwY2FsZW5kYXJzLnNlY3VyZTA3Yi52aWV3
+ZG5zLm5ldIIgY3Bjb250YWN0cy5zZWN1cmUwN2Iudmlld2Rucy5uZXSCGm1haWwu
+c2VjdXJlMDdiLnZpZXdkbnMubmV0gh13ZWJkaXNrLnNlY3VyZTA3Yi52aWV3ZG5z
+Lm5ldIIdd2VibWFpbC5zZWN1cmUwN2Iudmlld2Rucy5uZXSCGXd3dy5zZWN1cmUw
+N2Iudmlld2Rucy5uZXQwDQYJKoZIhvcNAQELBQADggEBAE16Dd9AEjOi4TyF2YS6
+5RXHc0/z2xgoiovDIAJxw9BUYLxJqlljFxo9qXLWHh9rf4rlpIHCVSuYaLgruCMn
+VYsl4r0bSEx3X3pBShGI7gaMxgdW+mhQV2ELMODSiLoAMyJ0YF+ih4wgCIOcxJy3
+Ev3Ncl2eqcfxHpnN+wt7fdFDAS1hY4n+WKPEt2WwIQGNibIHGlx5rcIYUU3Y4um1
+xN7BqvV3ALCpe0N3GDEnOt45oaSv0858ryM+z0lq2Ax45amY5n20kNKkIeWE3qhA
+Q+XTnLMoNTz9ntEpZLNv3YvaKYfQG75P08m5XyOa9EhFPeilktPP7VBiBSBK/bcM
+jlI=
+-----END CERTIFICATE-----
+subject=CN = secure07b.viewdns.net
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5235 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

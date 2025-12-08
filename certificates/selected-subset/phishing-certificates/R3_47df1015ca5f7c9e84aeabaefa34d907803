@@ -1,0 +1,66 @@
+https://inpost-oferta.id-info072.me
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = inpost-oferta.id-info072.me
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFWzCCBEOgAwIBAgISBH3xAVyl98noSuq676NNkHgDMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDIwOTQxMjhaFw0yMjAxMzEwOTQxMjdaMCYxJDAiBgNVBAMT
+G2lucG9zdC1vZmVydGEuaWQtaW5mbzA3Mi5tZTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAMkIfhgrwAFYg/CDzBlMf3PQc5EAY7M1q65V0LJh648ivqho
+kfDY5+xg30Keb6beBnToxvBVWANtPSK2wNd99R5ZD/pvuVFl6gEPlHCkQNwH9Y9a
+Us9jeQkUGwl6mNM+ZTn5cCaGDlhx2hvM4ios5oLUqVsKnN0XlpYxelDP1smKYdu5
+zqDg/8XS5WMtaNgcJ3yTjUvApK2VYMWKahg/WeruKHPWOF0sAXatBM5fe/W+eRwL
+rbzZvtz8f/pyO3WS4FG+Ht7e9ThnZHxVmoc2HTJQsfAbXIe6ngYrIhLoKVR259QH
+8iPxK2olpv99Ed4Q/zkSMNNhgA353m2FJe1pL5sCAwEAAaOCAnUwggJxMA4GA1Ud
+DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0T
+AQH/BAIwADAdBgNVHQ4EFgQUiYBU9ugRyx7kCknQbbWCeshOH20wHwYDVR0jBBgw
+FoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUF
+BzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9y
+My5pLmxlbmNyLm9yZy8wRwYDVR0RBEAwPoIbaW5wb3N0LW9mZXJ0YS5pZC1pbmZv
+MDcyLm1lgh93d3cuaW5wb3N0LW9mZXJ0YS5pZC1pbmZvMDcyLm1lMEwGA1UdIARF
+MEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6
+Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAgYKKwYBBAHWeQIEAgSB8wSB8ADuAHUA
+36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF84D1UIAAABAMARjBE
+AiAB0G+Fed2HMxKgLpQCiWBpdQWlE9KuON2mlriWSdkR/gIgaI/sh5WsvkhI8ZM8
+/eNOgnesvFHsOJ00Cw5kxLk2FYAAdQBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiF
+q/L8cP5tRwAAAXzgPVRTAAAEAwBGMEQCICa1xuzd+Vvd2khypoPDUUhCX4jl0blX
+T7gXD7VtV6pOAiAda+ZoHxugDXYGFPcWq8pugbaFIlX42wWPOSQrPqgG/jANBgkq
+hkiG9w0BAQsFAAOCAQEAASfW5OwELBz7/ZYQT0qqwL8rP1AhS6i2vvAr9GGlZX1o
+vjDx2WD0W7Zbo7zmcfwECygGKt5BVVuJ5DReRy/pOQxm1Bo7PlZ4CpjZ83W8hNA/
+fAkZHDGs1dR61MwQBRBzuhnPbeWZYhyAIKyNZzf7/t5bATb9RAjCNhdoa06DRFT4
+0ytTg9iR4v9tBXhg+RqAl9+6R8hmuf8LxVtSWe2y74nnoilPKK5W5JvIDyhXne4O
+enx+I64SrBmtJ6M4mU7apiQF0vP40TANz4bxFAq2eoMc9fB5KwByxMBGl4oAN1Oa
+URlgqrogNhxTFuXXcvq3ULLdPEdFZdWd7anpz6qK3w==
+-----END CERTIFICATE-----
+subject=CN = inpost-oferta.id-info072.me
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4615 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

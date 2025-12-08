@@ -1,0 +1,73 @@
+http://trafficplans.net/invoice
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = trafficplans.net
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGjjCCBXagAwIBAgIQEjPYQSfuECZhWOWNTC4mczANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDgyNjAwMDAwMFoXDTIxMTEyNDIzNTk1
+OVowGzEZMBcGA1UEAxMQdHJhZmZpY3BsYW5zLm5ldDCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAKybsYFxQ5FbwqONz4UwWY7f7b0YuInrI2205o2lqDD4
+KTlmCmLA3JgWB7KlqDsgTgrcUbU0uoEi6yCx7tN5pIVdbGyVv4pHoT+qALuqSZN7
+Zl1XZAnUAAGrJFTNdomOkd/T/U8CfSURz1IrlpsRWNYDvNgCstvPwv+3OstXOJ5/
+vEz2jG7tCdBUbS99Mxd2LACr4QSDAAWh217+BiOvYvnBlXkSzQJD1u45wJMRWdHf
+iTMhVxMxVmrTHQOf3BUauBWKN+NKDBBQLj12JElQg15THFUL5OTZpkzIAfZzkA2h
+lmep4MU/fjA1mhJDpEY5RPdXA5zkc3XtoryPjPPBd5cCAwEAAaOCA3UwggNxMB8G
+A1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBTrecLTxnKb
+0YNz0tEQ3gA70pYaHTAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIx
+AQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZn
+gQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEE
+cTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJ
+bmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDov
+L29jc3AuY29tb2RvY2EuY29tMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYAfT7y
++I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7gd6eLwAABAMARzBFAiEA
+9cbimJ2Eh/7JhoShLF9v2Za6D2uZm7BjAtBCDoTOsu4CIAELrDl1OkFbvYKoQeIU
+Bw3vddePQOiIjbAArAHPQG9XAHUARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9Mz
+lrW2gagAAAF7gd6d6AAABAMARjBEAiB00fj5ZmxJdoQFEYSsm4bYRtLVJx6ZJIy0
+PVicDCMZ0wIgEDhrup4tM9kv9Z2wTLqAFpVJCVTsHBxzWOfjyIgV/lwwgdIGA1Ud
+EQSByjCBx4IQdHJhZmZpY3BsYW5zLm5ldIIXY3BhbmVsLnRyYWZmaWNwbGFucy5u
+ZXSCHGNwY2FsZW5kYXJzLnRyYWZmaWNwbGFucy5uZXSCG2NwY29udGFjdHMudHJh
+ZmZpY3BsYW5zLm5ldIIVbWFpbC50cmFmZmljcGxhbnMubmV0ghh3ZWJkaXNrLnRy
+YWZmaWNwbGFucy5uZXSCGHdlYm1haWwudHJhZmZpY3BsYW5zLm5ldIIUd3d3LnRy
+YWZmaWNwbGFucy5uZXQwDQYJKoZIhvcNAQELBQADggEBAH0eoR29MNj22kLW9ywo
+VR8STep2aLyRlXVmRcJskkA1LvXj9rgYvEmO1P3qvekfEKXGLNOUrbmZDVesifUX
+xEyzafUvtCgOJ+4TRVTO2NMypWQA5mOFTx5//rftS0yakj0jCKDNBiGot3Y5vdOX
+oRKqXEbuOOhHuk51bDDOoLcGnp7JmpNOKTDahisdFL6jDIfjcLUUt+WPB0a3rF6d
++YHleo+GNDEysg+U8oD368EpvovB6eAQ1Zn/wJ1yMuI8s9p49cEA4FZhXB5uzHFl
+yowjCcOgglJXYWJgliMAahUrdEvKyEahY2mtIvwYa7v/0hLd8JXSioqWy1drZkLS
+g3A=
+-----END CERTIFICATE-----
+subject=CN = trafficplans.net
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5187 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,70 @@
+https://pancakswap.at/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = pancakswap.at
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGIDCCBQigAwIBAgISA7v+O7acQ6rKhrebBvk/m+yrMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTAxNzU5MDVaFw0yMjAyMDgxNzU5MDRaMBgxFjAUBgNVBAMT
+DXBhbmNha3N3YXAuYXQwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDB
+SR55euxgSHVUeRypgXBnRMO8hGRP8joI9c4og1SIfWS/vw5zU6Hy6s+SmMaTM3wG
+7kFVHYCPGWrfY8JZ8AiPt0tP6g6uo+AZje5u0Gs6jQedvEhqJIZku9KyxUkPtIWp
+uZZTRunep5/MDOrSJg/LtKVqrax0DEpva19iPlZZ3RNOcn2Nguk6zIkUlag3qP51
+B3+MTQF+xGpYKNh23c8ZtY7VZMJPzEPBY8R+hNs6G2zii/bjKe0jepJzQ75wlhyo
+ULZuwNHl6/03/D57eNFXd9fA8oIU34N1xmwKfZaj12NSk18O+6ULhNlqUso+hp0g
+9mdEG4WugoPIlIV49bSrJMNEnFVsQXpuINT14vb1hZk0yBubhIFB44azhVh22Xpg
+The1OKmtMmP/2dNMMInitHMO27+9o9g3C/Ji56NkZyRYay5rUAxsDq/V2qJOnPDa
+qN8oWi6dt+D5t/72UxZSzcsCmOz91mBhIeYRotLsGpzZZA55/Ekriu4UIVul1kdi
+HumYn54fSsenlZ4ych/0W3Nl+VkITzXkZmWfs+M4s0O2dDUPQStvM7rGQ3rix7pA
+zz1dA/J9LdJyeyY0WsX8ZOwpFPVMmtObHVzuKQL9wU4Nm/fa4dOSIEoeSNEE+HPN
+YocJVMW431pSs8R8eXNQT+KtPS3wQNS5hRYDrSV3pQIDAQABo4ICSDCCAkQwDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNV
+HRMBAf8EAjAAMB0GA1UdDgQWBBR+82AkF5hx7QilUDKd7NIoPzDbpjAfBgNVHSME
+GDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYB
+BQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDov
+L3IzLmkubGVuY3Iub3JnLzAYBgNVHREEETAPgg1wYW5jYWtzd2FwLmF0MEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDw
+AHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF9CzfI9wAABAMA
+RzBFAiBeuxNdOZLh54+CttStsM9rfYEzfN9/ODZR5MZwCumsnQIhAL4v6F30eZcl
+cQJINkrahWLwD9x4ey5s2L1cCumS21ncAHYAKXm+8J45OSHwVnOfY6V35b5XfZxg
+Cvj5TV0mXCVdx4QAAAF9CzfI4AAABAMARzBFAiApRa5KjQtb/rdNipKgN9L4DtKE
+3L+uvTHx/JkbeXPYngIhAJBfe1eNpoqLpFhnkNDUVJzOYjvmw1I77uHkg3s+9Jq6
+MA0GCSqGSIb3DQEBCwUAA4IBAQBBiD9zOl+Nn/Xph5f8l/kVpGb5jyz03ZScqPTy
+aq/ccf5uSNnslOD5l0KtlaMDQx4WzV+83qxvpt48bQnM0sSFl3EVeSJcFcwY2vNP
+P5018vjh0MkTilwAsCt7toMRxQstuDijhXtMdsW0rBtV5tsi5tji/kEvgf+BWuvp
+kE8wvy3n5PdhqJvjRIYlUxCZATASo2nUNAhywYactXGoORV1IRyQ+YOOzBU0MK4b
+qtwoJmGvnWkn4YzKlB7wa+BrposzjAJqZM8jmenD0PNo9Q2g2yCgUa+lIE/OZoIc
+7WiBEwI65ig6bhL4Jp0kEzBZ/vBNYD5wsUwy+9TRmRTkhhMS
+-----END CERTIFICATE-----
+subject=CN = pancakswap.at
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5084 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

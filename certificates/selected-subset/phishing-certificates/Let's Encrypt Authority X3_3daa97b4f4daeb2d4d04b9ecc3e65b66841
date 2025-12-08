@@ -1,0 +1,65 @@
+http://shaurman.com.ua
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.shaurman.com.ua
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFcDCCBFigAwIBAgISA9qpe09NrrLU0EuezD5ltmhBMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAyMTYyMTU2MDVaFw0x
+OTA1MTcyMTU2MDVaMB4xHDAaBgNVBAMTE3d3dy5zaGF1cm1hbi5jb20udWEwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDIzBIwt8daRClarcYarvKjclSS
+kRCuJSD0aBj7sdBuYvIWWbFyDD5Ng40w0mOeqXZcrSAVT+u1mjqyhd7XNbIdODA0
+V6MLWdoVExtfmF98+gFm89+vLXyqoVOOVtIaP7jVnPHIGW7YTcg+wgNQCFYYWiUJ
+5RfxcrcTq59Br0AIIBmRhbygGq7zTGPygNBRKGsPHAvCdDrSAI4AqC5xElC6l9Mg
+f5OK1aLvn7bo19GQCpuHGI6dBGy1cfZJdblNRkwydJhHm2H95v7T5/6HZuEYDWyR
+ZzqGukurj1Yi9oSM/lugje4mdf1by6dqbtZjSiqH71HbfOlD0Y99z5CsxLbFAgMB
+AAGjggJ6MIICdjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFJU8+3G2E29EyOIIAhrr
+Gz1WBXN/MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUF
+BwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZy8wLwYDVR0RBCgwJoIPc2hhdXJtYW4uY29tLnVhghN3d3cuc2hhdXJt
+YW4uY29tLnVhMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgw
+JgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYB
+BAHWeQIEAgSB9gSB8wDxAHYAdH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7
+zFYAAAFo+IYfOgAABAMARzBFAiEAk17mOYkNxfeOPAoiN0zSw20gNeQJr/JbEXOw
+aLJG+oMCIFvncxMc1YhthEDe8J+mbw3Ri3WNVnu1aEija9Hb4HAQAHcAKTxRllTI
+OWW6qlD8WAfUt2+/WHopctykwwz05UVH9HgAAAFo+IYdmwAABAMASDBGAiEAjGh9
+tJZlQOWHys/ANTrn/5YiPFtOP93YQj61LJwbLeUCIQCbo1PCSdIACJlc2ZHYInNj
+m2WDsL3MJAzXv1fS4UzZJzANBgkqhkiG9w0BAQsFAAOCAQEAN2LHHAwRF8dX/iEZ
+5Bu9OHDPGDktR+0qgFwI4OP9/MyUXNsreBKHra2bZlmmlpnznY0OAxUEpYi8E4Xs
+zLtOBSU9gXe0JGfbKfYtSt2JJcvHqT9QZ+LmlI5G10685/j90Qbz2t3Mz/Q01il3
+BxVpWzWi15W9OBuJym+oIFa8+0cJfBmVXV0S38f23d/YTV8iVCt6mW9Tiy+xzXzx
+xfdxjLTaf5RU+qkW7o3zmqsZMLEnAz9/+9eyZw7vJa6qfhCiXQ083RTwdaOPftOV
+zuAhdffaJiVuZWQgtKLviL7l9oz7skiVlMRz+drVvblnmXMWmGVCwKloH9FgPsZb
+0SK/zg==
+-----END CERTIFICATE-----
+subject=CN = www.shaurman.com.ua
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3135 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

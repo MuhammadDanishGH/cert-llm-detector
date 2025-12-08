@@ -1,0 +1,92 @@
+http://tarifajusta.com.br/.well-known/bankofamerica.com.update/update.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = tarifajusta.com.br
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFjjCCBHagAwIBAgISA5Mv9LKUiFx2CNpxhmM76t0NMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAyMjAyMzU4MjdaFw0x
+OTA1MjEyMzU4MjdaMB0xGzAZBgNVBAMTEnRhcmlmYWp1c3RhLmNvbS5icjCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKLWwHh5nf0n4gnOZBAg7zKw4+Wl
+BF25c+G+eMpvT36qvwdOR4jX1HVHN0/KtUgnIN9zToSy6tYs/PQybweRi4ZD3n6U
+OzdMcP0R2pduQwtrYKRf+Dwgp25HvoKHgT+PXMJOZ2VtbbvTIYFGXzLBV7TdXpn7
+cLoOOsdix+nHnNHJw/2sIuOKmyf/FFadsmf8G7A3kFxroIVcCVzbVdiCG371WMUv
+Z2dJ6SuJIlsRjACTcc8/RweTQGmyL0CTmXVNVYjNeqHsRJcCCtKrQSDd78KFjHAL
+HzcYnWrukYd/a81fadYEPAVLOjQO+tT1wsW/xe6yDOLCHE5Cy8baCI+IkskCAwEA
+AaOCApkwggKVMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU8rPlFXmGiK14uApqs6U3
+qthWHSswHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzBOBgNVHREERzBFghdtYWlsLnRhcmlmYWp1c3RhLmNvbS5icoISdGFy
+aWZhanVzdGEuY29tLmJyghZ3d3cudGFyaWZhanVzdGEuY29tLmJyMEwGA1UdIARF
+MEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6
+Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcA
+dH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFpDY+W7wAABAMASDBG
+AiEAqafDTNCnxx0MmwlPavhnj7KzvxevFdQ5KSTVnLhuyUkCIQCMFeDwne0GW08+
+Ut0CoN0YEsqAVaON/Dyfq0apRNVFigB2AGPy283oO8wszwtyhCdXazOkjWF3j711
+pjixx2hUS9iNAAABaQ2Pl1EAAAQDAEcwRQIhAIr+ajotz3oGrpIkOxtywXjRsWu1
+7vNvLDkiIAo0WcjCAiAH0jRB44VkB1FqyzJtLHlZ9yMNk7eNueTll+N4bZNBuTAN
+BgkqhkiG9w0BAQsFAAOCAQEAmNxpcDschakVLW2RcaSbuRGOY9CrJXzTeu1QSj9O
+FcABg3DixPNMHP4ECEJSi6lZbxWrPneFNEWo7hNCi0ujCIAFsxXdeZJ/0Fd1Ngov
+O73zL69eGfNyQwLpM3o1kVYl4caDbBzmnLb6ZvJ4k/ljQ0Id9Z3/8yv3AzSdZ/V3
+Tx3fnlQZQl9ZlK9QMWE50llgthForPuD9tJFTZILgKfY4NHfJRiezEwWHv/gOy2j
+wX9lxWydSBUgIi+vBXrVdHWuoKSKrgTQwdNa00NWtKMMghv6bmL6OoG8o+Zjjw3c
+V4eZXR2aDJ4lxdZ8Oi2Pj8/lGrkAjJMw8IINCjh0Ew5YUg==
+-----END CERTIFICATE-----
+subject=CN = tarifajusta.com.br
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3309 bytes and written 456 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 17D6EAE8BC181BAF03EB71D72BF34CF5B2869E040C67AEB1CD757A4A98B4D2E2
+    Session-ID-ctx: 
+    Master-Key: 10D345B53FD57DFB9FA97955ACFD8EBCD67B0A8CD3A9E7B0B15B888A09271AFD6D2B5C9F335E93FFE48DDC21EEE44E87
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - cf 1a 10 d3 42 d7 0f 82-c2 60 00 20 8d a2 bd 5b   ....B....`. ...[
+    0010 - 13 86 2b e0 b0 6d b9 52-87 97 bb 39 16 6c 09 82   ..+..m.R...9.l..
+    0020 - 40 f8 48 1e d0 db c1 e3-76 d7 c1 5c 35 b0 e9 46   @.H.....v..\5..F
+    0030 - ea 84 a3 d6 7b 12 9b e2-a8 1f 29 a9 fd 8b 7c 24   ....{.....)...|$
+    0040 - 31 16 56 99 fc f2 68 fa-2d aa fc ca 10 0f fc 80   1.V...h.-.......
+    0050 - 39 b6 92 18 a5 64 32 a8-ab 1a 01 ea ea 6a 2d a6   9....d2......j-.
+    0060 - 05 32 51 20 17 ea 1f 70-b8 e8 00 11 2f 7a cb 8b   .2Q ...p..../z..
+    0070 - c3 a7 fd 81 e5 9e b4 98-0e 13 0a 2f 11 b8 bc 29   .........../...)
+    0080 - 9f f3 9b 1b f2 9f c2 aa-f6 69 46 19 71 82 b2 15   .........iF.q...
+    0090 - e3 fa de 1e 3f 2a eb 18-33 f5 ba 4f 0e de 9f 5b   ....?*..3..O...[
+    00a0 - 7c bf 34 da ce 5c ac 0f-1b 80 5c 25 c6 56 5f 85   |.4..\....\%.V_.
+    00b0 - 36 c2 a4 f5 42 f2 85 35-7f 02 c4 a9 1d 11 7b ac   6...B..5......{.
+    00c0 - a1 38 8b 04 f4 5d e1 1f-29 34 68 cb c0 82 aa 21   .8...]..)4h....!
+
+    Start Time: 1556197217
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

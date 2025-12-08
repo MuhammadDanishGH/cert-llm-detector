@@ -1,0 +1,71 @@
+https://amazon.0click-myinfo3.net/_
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amazon.0click-myinfo1.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGMDCCBRigAwIBAgISA4IcIG3GSWB+vqfq4rcVTiBGMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MTExOTAxMzZaFw0yMTExMDkxOTAxMzRaMCQxIjAgBgNVBAMT
+GWFtYXpvbi4wY2xpY2stbXlpbmZvMS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDKc7DhELCyxj/0mSTrVF3sGTqTXJ5E3zg39T/dhKODYvRDwqAC
+Vwh1y8SAQiWvSpL+oVKODMY5UK4dpecB9NBPYXvj5dve4RlRFjm0VVN1i7JD26h/
+MqqH5dDHAEUyXqWHnwfRmStUNE+YKeEmqiaG57gH8KJEIBDCKODV6uKR11IdOwcH
+f4V89X9RRqVrgkk19+Ye+kqPh6n3j07gddmN3/8elGfIepIxaOIhRrYeXE9mri+x
+9B9TMdzQej9gbDsErj7gv7D9EGQQOJ/5Ad409o5gIM/KRx71y/Ksl3tTd/K/aexU
+nFP397t5xBtRKLO867Qbz+ALsMtKRZYuZyxhAgMBAAGjggNMMIIDSDAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFLDnM65AugIx1jMpXu4a1+gJdLngMB8GA1UdIwQYMBaA
+FBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcw
+AYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMu
+aS5sZW5jci5vcmcvMIIBGwYDVR0RBIIBEjCCAQ6CGWFtYXpvbi4wY2xpY2stbXlp
+bmZvMS5jb22CGWFtYXpvbi4wY2xpY2stbXlpbmZvMS5uZXSCGWFtYXpvbi4wY2xp
+Y2stbXlpbmZvMi5jb22CGWFtYXpvbi4wY2xpY2stbXlpbmZvMi5uZXSCGWFtYXpv
+bi4wY2xpY2stbXlpbmZvMy5jb22CGWFtYXpvbi4wY2xpY2stbXlpbmZvMy5uZXSC
+GWFtYXpvbi4wY2xpY2stbXlpbmZvNC5jb22CGWFtYXpvbi4wY2xpY2stbXlpbmZv
+NC5uZXSCGWFtYXpvbi4wY2xpY2stbXlpbmZvNS5jb22CGWFtYXpvbi4wY2xpY2st
+bXlpbmZvNS5uZXQwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEw
+KDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgor
+BgEEAdZ5AgQCBIH0BIHxAO8AdgD2XJQv0XcwIhRUGAgwlFaO400TGTO/3wwvIAvM
+TvFk4wAAAXs2zlSKAAAEAwBHMEUCIQDELcqghsDi7agE8G2bDBWA9wmXqAqpHOXc
+o8a/La8lqQIgPfUXZExTyAPT7+2Jvr2Tjc/j4zDLnjvybQz1eYaHrAIAdQBElGUu
+sO7Or8RAB9io/ijA2uaCvtjLMbU/0zOWtbaBqAAAAXs2zlTiAAAEAwBGMEQCIHFY
+YaXBc/DOOFWDz18UEuOdbdKx58eTvuoDrb1M3mQWAiAhzLLQoUW31YvzC6dJe6Q4
+W4upuHe4DxxepL8kTiUwoDANBgkqhkiG9w0BAQsFAAOCAQEAIOGEYWCCJ+9hHOZp
+BLmAH8W6EfID7WikFwGufuwnUQYW6GHevsBsuabNQj9ZBYgOXziraHuhHQOf3CMu
+nohCdrS8d2gVejfxUTYeO0JMQF/ZpipBTXuMGWQ0cPMjrqrHc6+yh9UnPKjAAEWs
+KIL11UxzxdT+sZj62Ni2+H508/5S1i1MlqhAR7JTYB/T9K9UZvY9hXduIx1tVcyF
+IWGLVVz0uN769CozF4aa9WjUpSv9MDhpRIXQmmpt5G/4PAe9oasxxKtDv7bMWpT5
+HnCaKsXfbQnMcws5bdA+MehqEe3xUQoVDqrZRRcNXlgLhsUK477+sCWeAj6flKrJ
+DtmHnA==
+-----END CERTIFICATE-----
+subject=CN = amazon.0click-myinfo1.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4844 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

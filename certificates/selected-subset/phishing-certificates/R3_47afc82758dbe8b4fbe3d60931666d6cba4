@@ -1,0 +1,93 @@
+https://boat.servequake.com/?checkid=a@abc
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = last.3utilities.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIKdjCCCV6gAwIBAgISBHr8gnWNvotPvj1gkxZm1sukMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTkxMDM3MzlaFw0yMjAzMTkxMDM3MzhaMB4xHDAaBgNVBAMT
+E2xhc3QuM3V0aWxpdGllcy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCxO1KH+i1b8rR+fyRiGn+F1LfvHh1OADIWPhxDRA4Ts6QKvETqI86iDKyj
+jyGXRO46egoOuC6oDEzcOyLUijctqhdWDIuOerUS0g8XaD7chXbbkLY3ULoprzfg
+ETRWOZZtB7QXADJ8OnBb8C6ohSbR9eg2pAxru8QUXHg4uecaEj1fDE9M8Wb6OikG
+lBNfbAGAvtnljyK7WSsvhDLBqfpWqL1tSPEjjfSScwscl6UxPicBnMh48MWXyaC9
+8Yj12QQUm0p4nNTz3D44omEoaNkVbYri1EbuFccoohoxBFoFB1iFSiVG3ZYzU+Em
+J6+t0peFK0HqMSj/bGx42Gl4Cq9fAgMBAAGjggeYMIIHlDAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFDb4pt7syImd07vUcRdjlCviPIDdMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMIIFZgYDVR0RBIIFXTCCBVmCFmFic3VyZHMuc2VydmVxdWFrZS5jb22C
+FWFzc2lnbmVkLmRkbnNraW5nLmNvbYITYmFjaGVsb3JzLm15dm5jLmNvbYIaYmV0
+cmF5ZWQuc2VydmVoYWxmbGlmZS5jb22CFmJldHdlZW5zLnNlcnZlYmVlci5jb22C
+E2JvYXQuc2VydmVxdWFrZS5jb22CGGJyaW5ncy5zZXJ2ZWhhbGZsaWZlLmNvbYIV
+YnVkZGhhcy5zZXJ2ZWJlZXIuY29tghNidXJpZWQuc2VydmVpcmMuY29tghFieS4z
+dXRpbGl0aWVzLmNvbYITY2hhbmdlLnNlcnZlZnRwLmNvbYISY2xlYXJlZHMubXl2
+bmMuY29tghhjb25maWRlbmNlcy5zZXJ2ZW1wMy5jb22CFGNyYW1wZWQuc2VydmVm
+dHAuY29tghRkcmF3ZXJzLnNlcnZlaXJjLmNvbYIVZHJhd2Vycy5zZXJ2ZXBpY3Mu
+Y29tghNmdXJ5LnNlcnZlcXVha2UuY29tghVnYW5nc3Rlci5kZG5za2luZy5jb22C
+Emdvb2Quc2VydmVnYW1lLmNvbYIUZ29zc2lwLnNlcnZlcGljcy5jb22CE2hhaXIu
+M3V0aWxpdGllcy5jb22CGmhhcHBlbmVkLnNlcnZlaGFsZmxpZmUuY29tghNob2Fy
+c2Uuc2VydmVpcmMuY29tghJob2xpZGF5cy5teXZuYy5jb22CFmhvbWV0b3ducy5k
+ZG5za2luZy5jb22CFmh1cnJpZWRseS5zZXJ2ZW1wMy5jb22CEmlyYW4uc2VydmVw
+aWNzLmNvbYIUam9nZ2luZy5zZXJ2ZW1wMy5jb22CE2xhc3QuM3V0aWxpdGllcy5j
+b22CE21ha2V1cC5zZXJ2ZWZ0cC5jb22CGG1pY3Jvc2NvcGljLnNlcnZlZnRwLmNv
+bYIWbWlub3JpdHkuc2VydmVwaWNzLmNvbYIWbmlja25hbWUuc2VydmVodHRwLmNv
+bYIcbm9ybWFsaXphdGlvbi4zdXRpbGl0aWVzLmNvbYIWbm9zdHJpbHMuc2VydmVo
+dHRwLmNvbYIXb3JkaW5hcmlseS5zZXJ2ZWZ0cC5jb22CFHBlcnNvbnMuc2VydmVt
+cDMuY29tghNwbGVhLnNlcnZlcXVha2UuY29tghZwcmFjdGljZXMuZGRuc2tpbmcu
+Y29tghpwcmVwYXJlZC5zZXJ2ZWhhbGZsaWZlLmNvbYIVcWlhbnNoYW4uc2VydmVt
+cDMuY29tghZxdWFycmVsZWQuc2VydmVmdHAuY29tghZxdWFycmVsZWQuc2VydmVp
+cmMuY29tghZyZWFsaXR5LjN1dGlsaXRpZXMuY29tghRyb2NrZXQuc2VydmViZWVy
+LmNvbYIUc2FjcmVkLnNlcnZlZ2FtZS5jb22CEnNhZGx5LnNlcnZlaXJjLmNvbYIS
+c2FpZC5zZXJ2ZWh0dHAuY29tghNzY29wZS5zZXJ2ZWJlZXIuY29tghZzZW50ZW5j
+ZS5zZXJ2ZWdhbWUuY29tghlzaG9wcGluZ21hZG5lc3MubXl2bmMuY29tghd0cmFu
+c2xhdGVkLmRkbnNraW5nLmNvbYISdHJpcC5zZXJ2ZXBpY3MuY29tghJ0d2luLnNl
+cnZlZ2FtZS5jb22CG3VuY29tZm9ydGFibGUuc2VydmViZWVyLmNvbYIWdmlicmF0
+ZWQuc2VydmVnYW1lLmNvbYINd2FyLm15dm5jLmNvbYISd2VudC5zZXJ2ZWh0dHAu
+Y29tghN3aW5kcy5zZXJ2ZWh0dHAuY29tghZ5b3VuZ2VyLnNlcnZlcXVha2UuY29t
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB
+9QSB8gDwAHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF90nuq
+FwAABAMARzBFAiEAzfSbbjSRnlWBDZ0gwzlPQHs3L40avSKiBNtlJqQpNokCIF91
+UmVku6JbHgjk8eFqNTQL+RKHe6BGXGFBlXXCvAVIAHYAKXm+8J45OSHwVnOfY6V3
+5b5XfZxgCvj5TV0mXCVdx4QAAAF90nuqAQAABAMARzBFAiEAy4BNGODvV1qCxWOq
+0HY7QvFoshT4bzb249FHIUm6wjkCIE+esIZrbVlL8iBs0XEybuvSS/BoVy5nY9Ee
+sGLr/A+dMA0GCSqGSIb3DQEBCwUAA4IBAQBHiOfitKhJc/hFjLGyhYvHMQE1afQj
+MuKIFzHsvJ9jonLAe34EUvlsWYh36sUvyRf9pWkXQxPr3KLLCFLyB/ckmOVOIfZA
+G9SnC9mDvrfl0KJnIf9IYbKYDa+vazZvQtX0/wbe2Naoe2GAuxTtUEhYay6y/tOE
+nWdD19w+z2+xeoeLLkh2Hf7inngkwdMA5uMCXAtTG1LsexKYh8SnsHk8f3Ba9O6E
+jOZAiCr28siSUgE4t3z0S8hv9i6XvFgIJXySMHNy/43tD4D6OAXaumausO5SzcS1
+0GuMEaWje272DSv7aQVh2+Cz0YZDYgH3iBNWvCYjnHgqjJztLFSdRqsW
+-----END CERTIFICATE-----
+subject=CN = last.3utilities.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5938 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

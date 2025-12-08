@@ -1,0 +1,92 @@
+https://secure.runescape.com-nji.top/m=weblogin/loginform.ws121%2c336%2c107%2c68548522.php?mod=1
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = secure.runescape.com-nji.top
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFcTCCBFmgAwIBAgISAx37HC2VjxOBXIKDx7SeJXouMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MTMyMzMwMzRaFw0x
+OTExMTEyMzMwMzRaMCcxJTAjBgNVBAMTHHNlY3VyZS5ydW5lc2NhcGUuY29tLW5q
+aS50b3AwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCy90qTcDe4FGMV
+qpfyIDGUQq3/9V8uRp72VxuRZvhSEpyASfsbm4zXwn4y12pXgr4KEVRfjSA4N+Vn
+d3Dy/sFk35RcQKamljtM2wa7j1It8/1OggqixVMnVxFBbVBiOXPOQDuA4tqwBxAb
+BCzJMH5jm6MbW4zOqUYWvy3QpkYZdCeYt5wJNvrBhpbmwZBPK12kfiGG3c3szs2m
+iSGbWE/+d52tJ3vxZu5fQFo8tk6TUy3aq4ryoRLdOrmuRleHHAFSlA2J9ihugF0A
+SxD0rD62nedeX2aSfz71qrPTJ691vWk1BMN806peNL5Ec3XZ8W6nda7EXxRm0bc3
+3Pgp4BiTAgMBAAGjggJyMIICbjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFDmMEaXo
+tyTbt3nxc5LOHoIimwJcMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyh
+MG8GCCsGAQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgz
+LmxldHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgz
+LmxldHNlbmNyeXB0Lm9yZy8wJwYDVR0RBCAwHoIcc2VjdXJlLnJ1bmVzY2FwZS5j
+b20tbmppLnRvcDBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisG
+AQQB1nkCBAIEgfYEgfMA8QB3AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAIxjc1eeYQ
+e8xWAAABbI2ImBEAAAQDAEgwRgIhAKS1x/J8+fs80Pauyi7AAGdOEZ/3SOWXeX4g
+76/lt279AiEA6MxHZQywK/0Sn3+RNySz1MvoH9C32yCrUhYryffQ4RwAdgApPFGW
+VMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAWyNiJn4AAAEAwBHMEUCIDYY
+EFvu1UtEA/sssUB/5Jb+HIFym+k5d333U4a/D8RVAiEAx10BOomDgFdPX7Cv3yJb
+2ejjPRHJNMDARuaNGaMF0JQwDQYJKoZIhvcNAQELBQADggEBAHuOyGqqnO8b6ywP
+Q6HxWQggvnK4xMDA4Uaes1RjKnC1aX4L0MRQa2ZFc/cnFuJkiUq4HBHy5lBTMBuf
+MPIK4M/3LvaCrMHhMqNLnD88RXFJoDHbx7cjgk9yVFFJEmqby0EkcOgESJArrSZR
+mPl7HegBcfvt3pD8koIPwuzxbFrzzZvAlFzi09P+YNVajEWaghJHpVv9BnjDqoYZ
+L4Ub0t++C+yElaOUqeN2B4PKuKrw3qJ8B1hWi9TroGLl6WcUknMtIjkvmSV4mhUj
+Hf0oiEd041i2Fqb0P8ASt0aNWpEH5B8QcKcjMQkmlBXd2m/X8Eo645etGAGD+v49
+uloMIGs=
+-----END CERTIFICATE-----
+subject=CN = secure.runescape.com-nji.top
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3280 bytes and written 466 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 2E6C8183DB4DF49B502E3D5926FFF360C07F17EA3D482537F9EA81CDB166E6C3
+    Session-ID-ctx: 
+    Master-Key: 3DBC731C9CF184A8CC1BC2BA7C978E2485D881FC41A6E99A3BC2B69C16337F556EBBD5F1A8D8E2303DDF2B5E595E924C
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - be 4c 11 1e d4 6b e9 e0-ec df ed 1f a9 cb 0f 69   .L...k.........i
+    0010 - 33 de 11 1a 8f cd fd b9-78 bb cd 8f 1c b0 b2 9c   3.......x.......
+    0020 - 85 ea e5 c1 cc ec fc 6d-87 4a 39 82 af 73 c1 7c   .......m.J9..s.|
+    0030 - 92 f1 d7 49 9e b0 f5 2d-40 05 f2 56 b2 d9 66 12   ...I...-@..V..f.
+    0040 - 9a 2b 20 6f e1 7c 80 ba-41 25 3c b9 3b e6 a7 7a   .+ o.|..A%<.;..z
+    0050 - 43 c4 ed 22 1f 55 95 6d-ee 4c e8 f4 0c 7d d6 28   C..".U.m.L...}.(
+    0060 - a1 41 a1 18 f8 b9 5f 55-35 f4 fe ab 33 6e de 21   .A...._U5...3n.!
+    0070 - 2c fd 75 83 03 9d e9 73-18 33 15 3b 97 da 8d a8   ,.u....s.3.;....
+    0080 - 7c dc 9a 71 6d 33 f5 87-4d f3 c0 2d 66 2a 31 1a   |..qm3..M..-f*1.
+    0090 - 7c 7d 62 58 eb dd b5 ea-10 9f 76 19 e7 9f bb a9   |}bX......v.....
+    00a0 - dc 70 fa 4a 8b 66 64 7c-0f 46 b4 d9 f9 6b 6a 27   .p.J.fd|.F...kj'
+    00b0 - d5 7d 86 70 24 8f df ee-4d a5 57 26 29 fa 3f 01   .}.p$...M.W&).?.
+    00c0 - 0f 84 aa b9 b2 ab 64 7f-b1 b6 0d 78 77 6f 6d d6   ......d....xwom.
+
+    Start Time: 1566133227
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

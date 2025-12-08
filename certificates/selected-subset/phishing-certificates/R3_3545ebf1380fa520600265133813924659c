@@ -1,0 +1,65 @@
+https://amaz-bwr.ga/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amaz-bwr.ga
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFHTCCBAWgAwIBAgISA1RevxOA+lIGACZRM4E5JGWcMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTAxNjE3MzFaFw0yMjAzMTAxNjE3MzBaMBYxFDASBgNVBAMT
+C2FtYXotYndyLmdhMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzuUm
+ZAWQrgnmUOQYCzUlOX6z6W6nS1OS3vIL+UC96cuM/m/qpoJ4AvEfm63Zy1+RKvZH
+iph0KEpTycvG7YNby4BgjPJ7trLdmtrM8GYLJAzD1IzF6s7sosSj0W4cF5OzNiWz
+NA121PfW/17FlZiRwZDSyCoCQXl3AFlt51gzsreFK51GRAxRNQ58R1dyzN4ra4gb
+V8rWSUURw75VSSMBWoPil8zVAG/7m/PDqzRam6jLfsVhL2w8Vo8F2aqWeoHm0+kS
+yORThfPUIyrBnyTCRvHre5XVvdm354njo74FLM1+n5ad4gpTCph0T+woKhY61S9n
+DC89MC8oU8kJxO7I8wIDAQABo4ICRzCCAkMwDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBS83+c5CnTJPwSx/L3i19IziC+iajAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDm
+H6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5v
+LmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzAW
+BgNVHREEDzANggthbWF6LWJ3ci5nYTBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AN+lXqtogk8fbK3uuF9OPlrq
+zaISpGpejjsSwCBEXCpzAAABfaVZlysAAAQDAEgwRgIhAL/kdGPthJyS4RpuMbCe
+RNfDMohZhmEJs1qq3X9x4/gTAiEA/oqkbr22JXMjeuLESRNB2nweiC1MabUHocKW
+Er6hNTsAdgApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAX2lWZce
+AAAEAwBHMEUCIAf2zPoEwIHgc6/d/+eLU1++0WhoXUotnjFUlSzWc5UoAiEApNCy
+bulr9T7Dizb9B/dL2E6/Z4p+AcsvqCLiKzv3KiYwDQYJKoZIhvcNAQELBQADggEB
+AIdOO+peiMXuLjehkOl9qjui2vfE5j8fsjhI0rDwtDhDs5yOdL9mTFp9Ct9eZ9n3
++Da+zI7R7c6tAnv+8ojqEICXL36BriGutVwMZJk5qlrBpj4TVHS25jghX85o2tqf
+QDXrxlIvrlYI9vHYjGlwSHJCTkODqdnzWLnp6WGr0e//CxVvhOyxt4Bghekq1nVa
+bwANC3fYT4/nJSIK4d51GP1Ks0PhAONPFXdS/cnlq00qf8NJFm7dOmZfnX0x9ddF
+fRlaaWqbiJCjLMoyYMg+7aMrDRhUGVxCzgmdMIgJm6fuO8TFHKFECI7eM2tGVgtG
+JigQRKYiWvaVsIgyMzxDEC4=
+-----END CERTIFICATE-----
+subject=CN = amaz-bwr.ga
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4569 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

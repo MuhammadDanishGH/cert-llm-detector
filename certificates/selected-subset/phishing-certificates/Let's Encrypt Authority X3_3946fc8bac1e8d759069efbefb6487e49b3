@@ -1,0 +1,95 @@
+https://paypl-user-limited.net/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = paypl-user-limited.net
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF/jCCBOagAwIBAgISA5RvyLrB6NdZBp7777ZIfkmzMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MTgxNDI4NTBaFw0x
+OTExMTYxNDI4NTBaMCExHzAdBgNVBAMTFnBheXBsLXVzZXItbGltaXRlZC5uZXQw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCkw4CSeWwFOH2zgxu7f9t1
+x/D+Npwi5Z6mE4t7uSPRujljCxOgYJ/d0sv5SnPV4iKfdzQfEGhxMSKSe/XWPPoy
+8LEusLtN2HC8jHidjgM5qpv1c3ZRePvhgVX07GU3Ehta9sx95XrdPeckJlIG1vnk
+bUXNnpmoFTS9PqwEkgwWWLKnQZ7GvBw4GiUwxmyjbDdXcGcYxlH9jnNm0eK92RWK
+sG+iu0Zi+9CPN1/NeBrJRP0FpefUlB1/xX7hEwVAclmTeZDnQwzfKr7ktXEoLbDS
+vWeF3gZaTksXjlfLLQNevLBosq/sh9nFghxup4i38lEzJl3TZm22kCSb1XKqtsOt
+AgMBAAGjggMFMIIDATAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFK/lK0dAYU7WCr+x
+dyPH7OlyEN+zMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsG
+AQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZy8wgbsGA1UdEQSBszCBsIIdY3BhbmVsLnBheXBsLXVzZXItbGlt
+aXRlZC5uZXSCG21haWwucGF5cGwtdXNlci1saW1pdGVkLm5ldIIWcGF5cGwtdXNl
+ci1saW1pdGVkLm5ldIIed2ViZGlzay5wYXlwbC11c2VyLWxpbWl0ZWQubmV0gh53
+ZWJtYWlsLnBheXBsLXVzZXItbGltaXRlZC5uZXSCGnd3dy5wYXlwbC11c2VyLWxp
+bWl0ZWQubmV0MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgw
+JgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYB
+BAHWeQIEAgSB9ASB8QDvAHUAdH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7
+zFYAAAFspVhoXgAABAMARjBEAiAbeRLzYporpbDq3auUC9IV1nYN0T+wlpu8VhzO
+Zz0x3wIgSv1+PaoVAbo/S+DLrE/Yf4wGFQQNH7gZEl5Id5lIdvwAdgBj8tvN6DvM
+LM8LcoQnV2szpI1hd4+9daY4scdoVEvYjQAAAWylWGpAAAAEAwBHMEUCIQDS1fYG
++ahSLrbkhh9EL3DiOmaLZipWjKfBgyYNasfthgIgJCZG6WhI5G5kotAkDpXi8Acc
+6VmDqwDNtPZ1BTzxwCMwDQYJKoZIhvcNAQELBQADggEBAIO0u69JH6jbflQdtlW3
+05jA/g0AYQ6mIu17S2R56Hf61El5g9dSRT6cY31HdoMAsXQQ3fSByuLLD03Ig6oH
+l8l/V4bBjVkgM9gKUb1MNj9Sb4d9+rNyDM4ACP6Tin8ya1ylj6XjCJrb0femCaoF
+b0lHR0SEjrGUyTmHHnDEQ25b22S5uXXYPJweVXTa24vrcFldqHQtosjGQ2xD1Xgn
+/t6O/Gcm0IFhCA0efOLEMNrwQ5ms7ZSspfYpx1uqM233H2uu6QQV4NcJvKmeXuxL
+cDhXuWrQIu8eQEwcjCnqwhIm0upQ1Qaus4s8Vy9HI99snWBan6VR15Pj7dO7dtJr
+pl0=
+-----END CERTIFICATE-----
+subject=CN = paypl-user-limited.net
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3421 bytes and written 460 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: C254A240703C53D6564C101595234F0A5614B284C0290D800629B186B6DC3DA1
+    Session-ID-ctx: 
+    Master-Key: 18AAD197F8C774B21E30DFDF6111AB3FFD43D1BD4DD194C03B2D610F7C9C8029C3B031E371DC3555F8455DC46784D229
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 08 ce 0c ae 92 2f 5f f2-2c d9 2b de d2 58 2b 13   ...../_.,.+..X+.
+    0010 - f7 61 b6 98 50 63 f8 f7-ca bb c5 db e5 d1 8b 80   .a..Pc..........
+    0020 - 14 22 df a5 58 19 ea 76-17 56 a1 cb 23 26 e1 cf   ."..X..v.V..#&..
+    0030 - 71 1a 62 1f 41 80 8c 7e-54 a9 70 53 43 05 ad 33   q.b.A..~T.pSC..3
+    0040 - d4 c6 5c 66 40 a8 33 06-e8 93 8a 20 48 78 7f b5   ..\f@.3.... Hx..
+    0050 - 69 6b f6 80 79 08 9f eb-5d d3 56 4c a0 97 f1 9b   ik..y...].VL....
+    0060 - 12 8a 37 76 1f a6 c5 39-94 27 21 3a d4 37 b9 bb   ..7v...9.'!:.7..
+    0070 - fc ba 82 97 2c c1 eb 23-5f 06 75 4a ac aa 52 ea   ....,..#_.uJ..R.
+    0080 - 8d ef 37 0c 52 8c ce bb-92 a5 36 7f 18 54 4e f2   ..7.R.....6..TN.
+    0090 - 64 2d 37 49 c8 54 cf 20-28 fa 32 d5 c0 4b fc a5   d-7I.T. (.2..K..
+    00a0 - ea ce 7b 76 04 90 6e 3d-44 4d df 4f 35 dc e0 7b   ..{v..n=DM.O5..{
+    00b0 - bf 0c 4c 37 20 8b 07 40-1f 28 96 f2 e2 38 df 6a   ..L7 ..@.(...8.j
+    00c0 - 5c 6c 10 dd b3 75 8c e9-28 57 ea a9 3c 65 62 27   \l...u..(W..<eb'
+
+    Start Time: 1566306027
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

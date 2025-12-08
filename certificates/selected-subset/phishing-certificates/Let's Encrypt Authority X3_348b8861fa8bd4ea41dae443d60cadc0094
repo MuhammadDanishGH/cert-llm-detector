@@ -1,0 +1,90 @@
+https://www.wuyn.com/AIRBNB/LOG/airbnb/p2/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.wuyn.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFWTCCBEGgAwIBAgISA0i4hh+ovU6kHa5EPWDK3ACUMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MjYwOTExNTdaFw0x
+OTEwMjQwOTExNTdaMBcxFTATBgNVBAMTDHd3dy53dXluLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBALcp/rncJDcOp3atvvZYkyVAsvQ9KsIuFgXT
+rNKOyLUkLc01U0KzVWd7Iukk74fEQ1FqZgOb2f8hvgbboBtDQGzap43tJUUnnE7m
+igkFPHKVFuKuJVM5ORZLC8Vlu/hplj5Wtxrsbyd8hipa8v7ypxiZqMx0y1TkDkDP
+9qwSFlJzSbiyx3ued4v5NchqpktyzlDWeU9F5SbMQENKLdM3OG5rn0XtgTqZHlhr
+vmutiioZjt5z1jfBgTqN3wCRt4LV35s4W/8Z36n1SLkDYLbjk+JKDfHtfFMgq5Jz
+oS35WIcXqCniuHFM0xbSLHNpfz1gp1gDkC0+qFoexe9xj6sv7EECAwEAAaOCAmow
+ggJmMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU/Ww9kdzIIuEQ12SgG4ZyONukgg8w
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzAhBgNVHREEGjAYggh3dXluLmNvbYIMd3d3Lnd1eW4uY29tMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAdH7a
+gzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFsLcQI9QAABAMARjBEAiAK
+KslVaoB/cAGBB16v+JPjroAQS6cQMvmoYadiRktL2wIgdVKPeUhSU+cQ+zGYxE82
+F/J0QUxdwEjMYdyc2aW2qTMAdgBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4scdo
+VEvYjQAAAWwtxAkOAAAEAwBHMEUCICEzlamtu5/Hcbh6QHsw3xVlbRdcQEbrsv+J
+YoHguA9DAiEA4hQrUi71604PV7f6yxT/3n7kVcJpvFvS0i9UKeLxnFwwDQYJKoZI
+hvcNAQELBQADggEBABa05W8m4aI4aqqmrPrYKNZKcAI4To6+yHhJhuhI3yYow4IT
+pBV2+dtVeBTwg7yfacG6kiyfoH+EUPcIxYMVC/z3YHf2i4Z8bIA7vzoKuWRZ2VcB
+Go7SMzXZRxXh9Nw5MHG9/9C7UQxVkYiZ3iF/AqK4IkTYpnCjFt1LsJsuRF2y1Hkc
+/X/ZYJSLCHRI/iuRbFzbZZHF2dTvniXuiKqV/vl60w1BeHIDEWaEkyn1+jr55EOd
+uabmG1BBEWdt3/nykgS6mX7x3DHh8NZNLb/GDL5axlYWblVBX+AA7ecgYcbAtt6H
+hb0uWpt7fW1xhBs7zgSWC5WRjc/fu/+LAYirxHQ=
+-----END CERTIFICATE-----
+subject=CN = www.wuyn.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3240 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 7ED5685F8D60A34583AE5635B0762F808DA411F617042F5A8BE1B9D7D2656AFD
+    Session-ID-ctx: 
+    Master-Key: 68CCDE3B1D7C51615BC58713A2A8EBC6978FA43603DB568996D28DBAC079DCE2290F2FDE55BC044AF5CB026A436E2582
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 3b 10 8a 7c 3f 7f ff b1-70 09 08 64 7f 8f dd 6a   ;..|?...p..d...j
+    0010 - fc 42 9a 69 5d 7b 88 f0-10 31 9a 44 c5 c4 ef 5b   .B.i]{...1.D...[
+    0020 - e9 09 9a 13 90 92 68 69-35 86 1f d6 64 b4 99 bb   ......hi5...d...
+    0030 - 6f 05 9f 06 06 cc b8 a4-04 5c 63 4f 3d 3f 37 b3   o........\cO=?7.
+    0040 - eb c8 2b 1d 0e e2 62 65-b7 8b d4 98 77 14 fc 20   ..+...be....w.. 
+    0050 - 29 96 8a 32 eb e7 cb 60-2c 3c b8 8a 15 4c b9 07   )..2...`,<...L..
+    0060 - 8a 35 cc ed 3e 5b 43 1e-3e d8 2b dd bc aa d3 95   .5..>[C.>.+.....
+    0070 - b8 03 19 8a f4 1b f0 3d-de 1a a9 0d 82 bd 36 f0   .......=......6.
+    0080 - 7d fb 27 e7 fc 40 bc b1-b5 f7 13 82 74 ae e6 6e   }.'..@......t..n
+    0090 - a9 21 85 b9 d6 ea db 22-b2 d7 3d 9a 2d 45 89 fe   .!....."..=.-E..
+    00a0 - a9 5e 59 24 6f f4 a0 25-4e 31 c1 b5 2c e2 63 f4   .^Y$o..%N1..,.c.
+    00b0 - ae 37 2a 35 b1 b0 fa a7-02 2d 4a 28 ba f9 d9 82   .7*5.....-J(....
+
+    Start Time: 1564146026
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

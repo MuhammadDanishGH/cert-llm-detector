@@ -1,0 +1,94 @@
+https://tvlicensing-refund.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.tvlicensing-refund.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:CN = www.tvlicensing-refund.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 2 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFhDCCBGygAwIBAgISA7fFsksu5fx4R5DjA0W+n/8DMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMTMxMzIyNTJaFw0x
+OTA2MTExMzIyNTJaMCUxIzAhBgNVBAMTGnd3dy50dmxpY2Vuc2luZy1yZWZ1bmQu
+Y29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1TnmYWBheu2yeI/H
+/Z1TETgKk9XNG9GuDaR0viBhaRRuCg9FZal4Uw8Chtc1BS2XyGQH9rlbq5xRI03p
+QzmxSgMcVQ7d65KoTWHOIjdfV01yQCIurshifmwUJblQF3hgrICuNldKCNJwH1CO
+QDrEJubT3tWqbMIJP4U83PKZjEsG0F9FK92NZozvKsKuao4ki5pefUayjjWp7e1o
+9bfA5c8EwZEDeamSzq1ELs1j5bY6t7QFEZyUBYxq7g/tyMDjlbmGh2lilO3WTkMt
+ADJeIHh6F3T5GgoONfECMrEh/az27h+LzUYmv0Pt+oVBtEUvAIuH7zWmlOuIBMcI
+AZ3F8QIDAQABo4IChzCCAoMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQ1ydRxOsCF
+bvairxbbw420k704HTAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBv
+BggrBgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5s
+ZXRzZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5s
+ZXRzZW5jcnlwdC5vcmcvMD0GA1UdEQQ2MDSCFnR2bGljZW5zaW5nLXJlZnVuZC5j
+b22CGnd3dy50dmxpY2Vuc2luZy1yZWZ1bmQuY29tMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA4mlLribo6UAJ
+6IYbtjuD1D7n/nSI+6SPKJMBnd3x2/4AAAFpd286jAAABAMARzBFAiBdqvRDDwye
+x87rbclL5nqTnHHMHuMLy4PcdceaaWYnJAIhAOEeJgYbNaOuzSSuvq7nAVvPx/3a
+pBBQWZAYAFhIVEtMAHYAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0A
+AAFpd2861AAABAMARzBFAiEA5WrhAzod/dODIA3lO9qlPx8PpcFTQcW31jTCkqiZ
+VwkCIHRqQYbcQ4hNXCkZLS2kawWhOdyyOZvBBUDfo/q6rlKtMA0GCSqGSIb3DQEB
+CwUAA4IBAQBti7tsZyQ35ktBl2Wm4C6OiGtPC4j5SMA7zOoniBmuuRvY8y9ewgy0
+XRuPcIWiWUIOLfmDDYT/qD48U5qkdd3QkcM8QMNE0TpwX+ofJEr/VtaEhguAb1Xt
+qAwhbd3OKfuiH1v4Af/WLCpmfVbquxbv0UOSQWOdf/YQQdjdUoByDTRJOttraelR
+6feoUE0aWTsYmmJaFy7wLpnsRrXaDRN0cgqQm89PZhf/AesWOAjbDkkNUirSLS8a
+pkL5w5ppLp43jQ3PaGniKKpQ7GPdVLy/Pv7vv79LufQlFWGHuq5uzu8dX4IVlS3t
+nJxpXnpBs45iF7JHH8/A01vvvA2PNmCv
+-----END CERTIFICATE-----
+subject=CN = www.tvlicensing-refund.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4718 bytes and written 460 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: ACF6BDB5D29D42BFE15248BC8120ED9DED2807096F4F26A8E9E3127D28B6562E
+    Session-ID-ctx: 
+    Master-Key: 48AEF09B7CB630A78D3212B7D9809AEFDF6F791EFB0835CA07B125A2981D7EAD8E6879D90F198CB849DE9FCAC0454A52
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c4 ec 6a cb 7c 64 97 00-f9 73 0a 6f fa 6f 0c ef   ..j.|d...s.o.o..
+    0010 - 86 81 97 b2 5b 11 98 df-f8 0c 27 f5 a9 9c c9 3c   ....[.....'....<
+    0020 - ec b1 84 77 a9 e8 9c 48-19 1c 5f 4c 9e ca 1b ec   ...w...H.._L....
+    0030 - 8c c8 e5 b9 ee 4d 99 38-79 39 34 0e 8f fd 6c 4e   .....M.8y94...lN
+    0040 - 86 7a 3d 0b 00 09 09 1e-34 c3 a0 f1 5e 5e 96 b3   .z=.....4...^^..
+    0050 - 55 1f 72 1c 7c 26 31 a6-be 6a 11 bf a5 f3 24 15   U.r.|&1..j....$.
+    0060 - 7c de dc 20 24 5c 57 48-d7 69 ec 47 76 2a 11 9d   |.. $\WH.i.Gv*..
+    0070 - 7b e9 18 a4 48 7c d4 01-e4 4a 08 81 39 f7 54 3b   {...H|...J..9.T;
+    0080 - 56 a2 fa a0 38 de 78 09-23 56 c9 95 e1 d9 c5 4b   V...8.x.#V.....K
+    0090 - 1c 2d 3c 50 7b 50 d5 21-c8 1b 14 1b 84 a2 4f 17   .-<P{P.!......O.
+    00a0 - 69 15 9a c4 f2 dd 5a 07-f4 75 e9 9b 89 27 10 72   i.....Z..u...'.r
+    00b0 - c6 5a 29 56 56 63 05 b4-be 39 44 f4 2e b0 f2 4e   .Z)VVc...9D....N
+    00c0 - 5b 73 6b 9a da b3 9e a2-f0 8f 27 80 f0 08 10 1d   [sk.......'.....
+
+    Start Time: 1552831217
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,70 @@
+https://mboutique.cfd/espaceclient/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mboutique.cfd
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGIzCCBQugAwIBAgIRAMq7AgOjS6GTogqnOxTCmaMwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMTEyMDYwMDAwMDBaFw0yMjEyMDYyMzU5NTlaMBgxFjAUBgNVBAMTDW1i
+b3V0aXF1ZS5jZmQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDhL5HG
+lhvmJyIsaBwvTXPPpHCJcm0IfD6hYZu62ut9JXU+OwonGxogeohUQZ0l0tFdNLuQ
+0Ko1kJ0xr/UWO8ZNmlR9Yswsg9hcaJSzjnuIXplIXD9Rgp03cKmaZhZ/9n0HXjWL
+QRld5MICknWnch2n9Fhm/fbwyRPy1CKDeb0/FaiGe3xgBznwykyv6kftJ6ghb7S1
++BZvU3NzWEKsBMBuwQQpqO+r8SDLW1lwM9o5K6XjUfkr7kBx3pMB5RfUw5CqezGA
+sHMPvveskamxsn4qtCNK0Eua1ItE6U4Va6sdWgwjP0U4mXaUIluN7cX4UL0oHroD
+lw0wbH1McCYN44+nAgMBAAGjggLuMIIC6jAfBgNVHSMEGDAWgBSNjF7EVK2K4Xfp
+m/mbBeG4AY1h4TAdBgNVHQ4EFgQU3cmBfezFv3qtZqvDHKldm4VMhKUwDgYDVR0P
+AQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAjBggrBgEFBQcCARYX
+aHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGEBggrBgEFBQcBAQR4
+MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGlnb1JT
+QURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYBBQUHMAGG
+F2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMBgGA1UdEQQRMA+CDW1ib3V0aXF1ZS5j
+ZmQwggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB2AEalVet1+pEgMLWiiWn0830R
+LEF0vv1JuIWr8vxw/m1HAAABfZGIk6oAAAQDAEcwRQIhAM+tJqRz5M5BQkFESPLX
+ORvHXe8wEsmUXbCS0Nda40oyAiBrpQBW94v5YLXRw+/gwZaFXM6rN8/6nBFtLGqJ
+kSAJAgB1AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfZGIk7wA
+AAQDAEYwRAIgcaObobE3mAeAPLu9HEHb51C0RrzSjCa/jWbJg5CvHmkCICKCRx30
+8y2k+bsRZ3VHpZO63Nj/oPI66vtdhya4iWyxAHYAKXm+8J45OSHwVnOfY6V35b5X
+fZxgCvj5TV0mXCVdx4QAAAF9kYiTiQAABAMARzBFAiAHLJ302S2BUUto3Ow432ld
+sEM942xxROOhN4VUnRi3RQIhAMRF9RjsEXM1gjIQSKJB5oUiCAtGI48JdI7ll0gA
+iLiPMA0GCSqGSIb3DQEBCwUAA4IBAQBSICA16X+iZ060gJx3S2iHnoFcYxpgDniz
+OjcHrG+zYtqOhAWy9690clkwCUOAyfxVoMtClt5C8D8Npq3JCQAxumTK+CFxRtno
+azUF+F5rNIdn7Z3YKHrES7X6CEcuPohuxLiK6+IKGodlI+0VdWg99WTJj2OeLNlP
+gFHOGCrVWUcw71mMLZTlUV2AlgLzo+UqApvd8NwQnsREiMG/H7KhY+gYjAXUSnrI
+NEtwQ6DNTURMf8GCXjAHq0fBOOKXqQ9JvM+RP+J1YSCFhh/f0a1OnIuR7Wxo2B+U
+jWIoDPNSA0ntcFUKZiMUSapnrxu83KQGPvy/VSJsatPITvLWAkob
+-----END CERTIFICATE-----
+subject=CN = mboutique.cfd
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5117 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

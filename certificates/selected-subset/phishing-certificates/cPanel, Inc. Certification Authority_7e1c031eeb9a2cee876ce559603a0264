@@ -1,0 +1,75 @@
+http://www-citizensbank.sytes.net/citizen_bank/darkx/ms/password.php?online_id=4df5a5515337225c67ad92c37&country=United%20Kingdom&iso=GB
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www-citizensbank.sytes.net
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG7TCCBdWgAwIBAgIQfhwDHuuaLO6HbOVZYDoCZDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDkxOTAwMDAwMFoXDTIxMTIxODIzNTk1
+OVowJTEjMCEGA1UEAxMad3d3LWNpdGl6ZW5zYmFuay5zeXRlcy5uZXQwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDP4WbU6flFJUfxoR+9qA+JguuU+CHg
+Zvj4JJysXK8iBL41IgSW4iQuS2s1bQXmITtTpqTfnxQmBqEPf3ONOhCPRyTSK3ke
+3K1ho/53WPR90Iacw1EiaHaQ4vHyma5jv3tdvR9OaxjTlcRmICFPJatLLZjeh1np
+SSZBwyBKdfVpmB3GJcYShHFDwkln9689dSwgSPsxHB34DWg6CcOAHmVeScJocL1s
+v7IqmastEJWoJJ4iUUfrt024gZD6qataUcVgZI56muPgu/317QCqiQNbjtvURbJ8
+LAUsfQ0LqS91P8x/17uz94WfSizFZLc8Lua2GjqXJLUKYBZE/tBfORTrAgMBAAGj
+ggPKMIIDxjAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4E
+FgQUSZsn/f3BNSestpL5XZWfD42zkMEwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB
+/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAw
+NAYLKwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNv
+bS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29t
+b2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0G
+CCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5j
+b20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQUGCisGAQQB1nkCBAIEgfYE
+gfMA8QB3AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABe/8J+CkA
+AAQDAEgwRgIhAKrOAjRKV9e4Ce46OSkQ7RPFyhN7Z7xvTBYwXaw/bEF/AiEA/xIf
+vjqkDwTAamDAHUmjTx6CSaaLZvGik65YlO3eJqoAdgBElGUusO7Or8RAB9io/ijA
+2uaCvtjLMbU/0zOWtbaBqAAAAXv/Cff2AAAEAwBHMEUCIFK18GxO9+FAoGO3LA40
+lrKbNV5viz0Na6I4Vl37TeSWAiEAi2Wl88Vv3bQJKec2eC3V1NRSS7YCl6dwUYnI
+pB7EiQ4wggEkBgNVHREEggEbMIIBF4Iad3d3LWNpdGl6ZW5zYmFuay5zeXRlcy5u
+ZXSCIWNwYW5lbC53d3ctY2l0aXplbnNiYW5rLnN5dGVzLm5ldIImY3BjYWxlbmRh
+cnMud3d3LWNpdGl6ZW5zYmFuay5zeXRlcy5uZXSCJWNwY29udGFjdHMud3d3LWNp
+dGl6ZW5zYmFuay5zeXRlcy5uZXSCH21haWwud3d3LWNpdGl6ZW5zYmFuay5zeXRl
+cy5uZXSCIndlYmRpc2sud3d3LWNpdGl6ZW5zYmFuay5zeXRlcy5uZXSCIndlYm1h
+aWwud3d3LWNpdGl6ZW5zYmFuay5zeXRlcy5uZXSCHnd3dy53d3ctY2l0aXplbnNi
+YW5rLnN5dGVzLm5ldDANBgkqhkiG9w0BAQsFAAOCAQEAce6NOi849Pu9DcJRB4z7
+yhuZ2Lq03SH301KIY+0hrtq5rvFVj8nr8ezXF9fMVmgTzK7FAaywsfqxrPjtf8BR
+l9R1TsXsUlZ2apfUY1VH1yz7cvVVPoIR26hOnNrFeRrglML1s0ROqwriC2Me7hYI
++bZs3dD+f2sOuWC3R4FiiJcRY9XczO5eOx/21cgaboyk1SvU3WbBKcDZwPZOdWUn
+uiT9Gbs6w9q8qVM+hBl4HMOzX/8b/vjkctl8elc5URqCIX40EWdz0gB6VeLYZwBU
+8G4GQERGXjfzqHGH2hKWOHivw9OgWSx4MQJ0NjWGmnZabitOI6xPB1PlpKrVABjH
+2A==
+-----END CERTIFICATE-----
+subject=CN = www-citizensbank.sytes.net
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5282 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,73 @@
+https://ericfrancis.com/sonoma-county-development-commision/owa/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ericfrancis.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGmjCCBYKgAwIBAgIQTEw2gJcskxR87PG4oYhVTzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIyMDEwMzAwMDAwMFoXDTIyMDQwMzIzNTk1
+OVowGjEYMBYGA1UEAxMPZXJpY2ZyYW5jaXMuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAwfRWvu46w+fU9DCow/TQzRjpJEQwicDLMjy+bPsxBRd4
+4RaUDmc6GYdM9vUlJzJDVRJpRpHAEBAxYLgAPEbFkLapOzGcy4QVmPqxv+vZrRLm
+nJjoeH4iSlm0jtc/yTmqso6rJ+aA5SBHs1jElYbH3bxqyrwh+ffiJG6THLOozuiw
+Lo62kIW19+Z5KDGfJ6/GthTDL93aW17vNn5ZRsloqip5GaZ/CL6dcdEb4zK5FN7V
+m5rSP0SUY4xGQ2wvqp/gh4v5nKx6/ZbTIRkaUfy3gXO/G/c4iNrF/55/nAyhrRxL
+y0i3Nbl44aD+fDMOtZPEP0/g5G+WpPjVzauS06mFTwIDAQABo4IDgjCCA34wHwYD
+VR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFFZmkPQTBdZv
+xAwC4cWE0Zl3ZqeTMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEB
+AgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeB
+DAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRx
+MG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbElu
+Y0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8v
+b2NzcC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQBGpVXr
+dfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX4eo7bgAAAEAwBGMEQCIAjP
+O4teYiYFfzLhaUDaFCx2eXQVi0QxNQCw5/5ECukeAiA+6NPOyNMtA8f/SzHgCUfi
+iAkKPfdES+Of/mVOTJ3YdwB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBi
+lgb2AAABfh6jtpYAAAQDAEcwRQIhALLMWJNAD7VhxSwUHlUaZ2iGZeXBQcbKh86P
+S1RJzkD6AiB3qVQfiKArmVL8g39QEODzzeGB6UjBNIVL1luyVkI0IzCB3wYDVR0R
+BIHXMIHUgg9lcmljZnJhbmNpcy5jb22CFmNwYW5lbC5lcmljZnJhbmNpcy5jb22C
+G2NwY2FsZW5kYXJzLmVyaWNmcmFuY2lzLmNvbYIaY3Bjb250YWN0cy5lcmljZnJh
+bmNpcy5jb22CFG1haWwuZXJpY2ZyYW5jaXMuY29tghd3ZWJkaXNrLmVyaWNmcmFu
+Y2lzLmNvbYIXd2VibWFpbC5lcmljZnJhbmNpcy5jb22CE3dobS5lcmljZnJhbmNp
+cy5jb22CE3d3dy5lcmljZnJhbmNpcy5jb20wDQYJKoZIhvcNAQELBQADggEBAC3V
+hAfnaHmby0IcUhjPo6gwHBSTW2lcWofjXuTHf16o8ajkGCGPWraGwjhqxpwOwxTG
+DZjhulE+rdn23NgkqH9fFjb8IdPVp7lG7mr87ynrftLSQKwuqPAfxlcMxyeEOvKF
+7sO8G2FCJXCPsNNp274ojEqMV+60C+IEJ8C2+H2L24KmO5mXr5Xzqocd8mKgcW5i
+lIHL+cUNWlPxUPLBHYU5fBGCJ950KX+IPknqgzmj4p5yIhJDmeou2kgBPO4CLF60
+PuRHX6xo33h/GvZUFYcJmytLF8Qrcgidz4BHFkkaUBpzLHNAn+Ygm2UTHPK/NpUc
+DburPN8h1TVJAMFF1mU=
+-----END CERTIFICATE-----
+subject=CN = ericfrancis.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5199 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

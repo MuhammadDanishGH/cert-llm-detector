@@ -1,0 +1,65 @@
+https://botyekan.glowingber.com/pHnjptM
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = botyekan.glowingber.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNDCCBBygAwIBAgISBNH7QwAim04DocLs8Q7DmT5yMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTUwODIzMzZaFw0yMTEwMTMwODIzMzVaMCIxIDAeBgNVBAMT
+F2JvdHlla2FuLmdsb3dpbmdiZXIuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAqTrBuJEZ8q3iel/qHQBpd8Abn0WNwiOpQ9xN4sDbjXNYT6v8oG+G
+IfLex1+JpXHRAaC4KDWgHPhwUD9EsRo4IBNlAJ7VaMz0x1u028JUaqRFVGCpIhDS
+zJRJMlb+rpN0pkP5spQfVxGtORldVDPOOdeOkj8II/Q50CbVYVE4KTsRkf1Fmi46
+Cu9NX9HzPYjD+dpcJrpvESIwfntYnOPXUzeZVekEY6xPn48bJilA4nQp21kFhcze
+/DGRQKu2GLg2sAb1/6iARYtfWjE8zhjoWliDZPOeRWKgqcSozcepBzCIAbhu1WzH
+0u/Nq/2klfE9M3/bhwmz5y+OOy8UUAxUwQIDAQABo4ICUjCCAk4wDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8E
+AjAAMB0GA1UdDgQWBBTQfNdxw3xIN/5ObDeceWxZmW+3bjAfBgNVHSMEGDAWgBQU
+LrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGG
+FWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmku
+bGVuY3Iub3JnLzAiBgNVHREEGzAZghdib3R5ZWthbi5nbG93aW5nYmVyLmNvbTBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB2APZclC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTjAAABeql6hGoA
+AAQDAEcwRQIgbL0LLcsdH6aiGWZ1q0Ux5ge+IT9umr1EHLb1Bo40llkCIQDysePc
+8+Sr+YVVTkW7B82DLuKkKJ0G3kHpuHqQnmcFlQB2AG9Tdqwx8DEZ2JkApFEV/3cV
+HBHZAsEAKQaNsgiaN9kTAAABeql6hO8AAAQDAEcwRQIhALNBoHIjO3W6qBtfYv28
+9WnA5GzPBGnaUh4AoaXPX/eLAiAOhn6m78h9qOSZNvwd11kjyPMNqdQ9tm+UkdwE
+McxoADANBgkqhkiG9w0BAQsFAAOCAQEAfBzH2kOhbTWADpgU5onCxOUwswln2j6L
+RQ/0R8n7Qjd9y/AzhJDqXz+QAiSVAnCeP2RUVVY4ujJtVZLY2z/rJbdAKWC/2tO8
+TQMy6mix9JYtp3bL9WNy0iZQr3UZFEh1vQ9XuaMpvYdR0t+J9slZT4gA2Ufy2kQl
+GsB5X4z/uElB8huS4m4Z/k5SMYKqvr1uNrI1W5NJpr2qYgNMFbUPhJuX+20Rvq9V
+tXkl2L9GuLpX0mqabZJh0dYiUPO2TVk3esn7hRlJFMnvYu7TuUERQqAwWSIja8sO
+UF8uIizOZjAOGQv6emsugQyAVOyo+2sqRa0cUL1Q4WJL1RTP2jyV0Q==
+-----END CERTIFICATE-----
+subject=CN = botyekan.glowingber.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4592 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

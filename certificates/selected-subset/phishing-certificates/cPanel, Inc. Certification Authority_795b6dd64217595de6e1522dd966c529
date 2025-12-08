@@ -1,0 +1,73 @@
+http://startup-prodigy.com/doc/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = startup-prodigy.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGqjCCBZKgAwIBAgIQeVtt1kIXWV3m4VIt2WbFKTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIyMDExOTAwMDAwMFoXDTIyMDQxOTIzNTk1
+OVowHjEcMBoGA1UEAxMTc3RhcnR1cC1wcm9kaWd5LmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBANr5uc78LpE2bnEk6uLK5V/CNccfwBeSVjiGW1Pr
+lkJlM1IHoX0A6LHm5eC416Eo5kQdlu0xi7fXMwbgVNMaQ9jC+jvWQKwq+Pe04W0k
+y3xjjL4vd4fGg3JHur+FFgic8hnMZf09D9YwMr99hO1owpO8PovoFg24TLMB7kQa
+8oPW9U6gge7IDDrAgqSxXJl+4wRImlOYmdlwnVlOQg6N6KFd2h5J+59xzDn7vEku
+6Om1oMmWlZPdiE2tgBwfDv1f/ekuoNWRITDppFdA6I0XTMsIJ2IRtgH1mvAFovZX
+E5+SNkZfuM2jcjMVoY9Y8J6b/ONQXh1bdFwbietRJIN74L0CAwEAAaOCA44wggOK
+MB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBReVkvO
+1osuaeNe2/NfM9C/NrjhJjAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEE
+AbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAI
+BgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5j
+b20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUH
+AQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFu
+ZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0
+cDovL29jc3AuY29tb2RvY2EuY29tMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA
+RqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF+cNi0mgAABAMARzBF
+AiEAlLGcqr3n3BGEEloLFpCIu+dddzNEx9UyiKYURvJnDeECIG5YIVwjd+cZvw0F
+AxGbdXYCwFezXieHXls51Ej14+21AHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tL
+x2jwkGKWBvYAAAF+cNi0VQAABAMARzBFAiEAtu7GZIPiOT1Ph35aY/9UCxZWHHwg
+iCjH1jXQnmNAfaQCIGSVKLigg9No2pkQmnD/3Re3LklclLjMQw7uI5uMKtDeMIHq
+BgNVHREEgeIwgd+CE3N0YXJ0dXAtcHJvZGlneS5jb22CGmNwYW5lbC5zdGFydHVw
+LXByb2RpZ3kuY29tgh9jcGNhbGVuZGFycy5zdGFydHVwLXByb2RpZ3kuY29tgh5j
+cGNvbnRhY3RzLnN0YXJ0dXAtcHJvZGlneS5jb22CGG1haWwuc3RhcnR1cC1wcm9k
+aWd5LmNvbYIbd2ViZGlzay5zdGFydHVwLXByb2RpZ3kuY29tght3ZWJtYWlsLnN0
+YXJ0dXAtcHJvZGlneS5jb22CF3d3dy5zdGFydHVwLXByb2RpZ3kuY29tMA0GCSqG
+SIb3DQEBCwUAA4IBAQABmYehOMz41Qrwg05Wn+HXjVMvBLRCFvCvZdCOF0eRPgIk
+Ncd1T0fjW78kIAMjHXrV/M+A/bf+d/8kD2gdjq+ytpigzXamHNroH877qs1CP0cs
+FfaNjFCb/Na8lIwlSkItjUwkkOhd039O5gz+LBa4TmgTMRdUKlJnGno/v8Hkfgn/
+Rufhhj1H39XJeUIeFCZl3+mmFl7FMLXTdrG/qBsXlVtqwAaAoNPjZRTkKfGNNrKK
+Rl98oQHvkw5QNRtLY4kyD9Dp5opc7Ddr0mNWfXCiVGrwdTAd3/6WPr9kApqEpVot
+0u8XmQ17fs7MJSLTSqF+/U5Xh5/hp5THYgvz/Ngg
+-----END CERTIFICATE-----
+subject=CN = startup-prodigy.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5215 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

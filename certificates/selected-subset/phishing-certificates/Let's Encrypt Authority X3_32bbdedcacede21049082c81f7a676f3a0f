@@ -1,0 +1,93 @@
+http://poou.ir/4
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.zeryan.ir
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF0DCCBLigAwIBAgISAyu97crO3iEEkILIH3pnbzoPMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMjcxMTE1NTRaFw0y
+MDAxMjUxMTE1NTRaMBgxFjAUBgNVBAMTDXd3dy56ZXJ5YW4uaXIwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDQxcTIjIP8Ps8e8kaKpu7M7iHCe/X2qhf5
+JCPzRxlAbdhj7YhyMxsR3NHIn4ZhPaOr6tYNsof0ZEwVlLcfYkulc/7d+ucBV692
+O3Nq9TCvkBTVUmMf1wyNvgPYko4Wow6I/gkqgstY/gjGZBpWWez6LwuPt38ak/t8
+JtxnezBCpAAd4mJZgcycuXbRBSfOngKz/qJoaZpGGT5ksdfy3aDb2PK36+sxnyvS
+HaSkd6XOGMKgNApmk2I3YYmKYxXqInjAPY5fsmr2z1eIrXAxXDIx9PviGKUZiWit
+sA4+goOfT3JulSJ6pEICT7AJoSqf8qSXtyyyEfH563LgLtn5/8R7AgMBAAGjggLg
+MIIC3DAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFHtti42/PXDXMJBVPFD7ntGfbTRK
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wgZUGA1UdEQSBjTCBioINY2hvb2JraGFhdC5pcoIKZGVsbHdpbi5pcoIHcG9v
+dS5pcoIRd3d3LmNob29ia2hhYXQuaXKCDnd3dy5kZWxsd2luLmlyggt3d3cucG9v
+dS5pcoIOd3d3Lnplcnlhbi5jb22CDXd3dy56ZXJ5YW4uaXKCCnplcnlhbi5jb22C
+CXplcnlhbi5pcjBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisG
+AQQB1nkCBAIEgfUEgfIA8AB2APCVpFnyANGCQBAtL5OIjq1L/h1H45nh0DSmsKiq
+jrJzAAABbg0k7TEAAAQDAEcwRQIhAIGWkS5bAepWAIpfmX75DqMBYrKN4zNkoC7O
+7YN8taTmAiB8RuQaT5/zAQDxC86KJO1UEcgZLVpNdBXqk63kYWZ9qAB2AAe3XBvl
+fWj/8bDGHSMVx7rmV3xXlLdq7rxhOhpp06IcAAABbg0k7WAAAAQDAEcwRQIhAOrT
+TBNwx67utKrTXJn1gap6ffd3J5xaCTVgiCTVwRwmAiAxDF3reLNh7XEkNWWnB4Z4
+Hzbqet9yKAf1CLhLj9MZBzANBgkqhkiG9w0BAQsFAAOCAQEAiCRRCHErrQOOrUKl
+IJ2dZ44Scrr09tnLJmXGH34jPf5PDQcy2Vbaf5hDcs79AnZTNPRpKB8sboMfOtu5
+Q9v8yrwzr1+QT6gfwLQRsoQKpJMsTqFRqhZz/uY5CMcbXQnR088cx8mr0iNgv+aD
+EpMVMHAfqS8SF+b8fkpkSBbEmw97GBRtyy9XMnMpFnD9mvegQVSenBKv1zqJoZ4d
+f84K3qwpnR0d0t4KY+T07F8ijU+yqLwq407JFgmBxnhNUMYPAkuBfs4FLx0YqNRB
+lLLaCDNMnbockHX0Qfnmuc22gh4WMetTebzYlPUir1sZIkw3ysCTF80BYG2uAZzW
+gSMcIg==
+-----END CERTIFICATE-----
+subject=CN = www.zeryan.ir
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3359 bytes and written 445 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 5B0853CF21122072896BA89E38BEC35A77C55791BB90BD2E1D724040C3FF5BD0
+    Session-ID-ctx: 
+    Master-Key: A0FAFE8C6429866E76DAADA498360F95A984B11B7F2E3C1F9427644392FE3AAF4EBFD46188C1343656290C115D20EF85
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 5f ac df 88 c5 98 14 b5-94 6b da 0a 59 87 81 05   _........k..Y...
+    0010 - e6 d2 36 21 cb f0 ad 6a-e8 36 99 c4 ad ba 26 be   ..6!...j.6....&.
+    0020 - fd 17 28 9e 5b a1 dc cc-44 26 1a 3b e4 3e b4 bb   ..(.[...D&.;.>..
+    0030 - 5c 6f 1f 06 91 00 2e b8-6e e8 8d 17 d7 46 ec ba   \o......n....F..
+    0040 - 16 c4 2c 68 cb 25 a7 18-07 15 70 45 8c c2 9b d6   ..,h.%....pE....
+    0050 - 52 59 75 d8 19 10 6f 94-62 05 90 7a c1 20 f1 f0   RYu...o.b..z. ..
+    0060 - 3d c4 38 cc fd 4c 8f 92-18 df 2c cf 40 a2 50 1c   =.8..L....,.@.P.
+    0070 - 52 a5 67 58 c1 48 41 f7-31 10 ca 5f 28 50 ee 02   R.gX.HA.1.._(P..
+    0080 - da db 88 2d 7f b3 b6 52-33 21 e4 52 6f 1e 5d 53   ...-...R3!.Ro.]S
+    0090 - 67 2b 83 54 75 7f 29 d3-90 c1 4d 65 28 66 3f 12   g+.Tu.)...Me(f?.
+    00a0 - ee 21 88 c5 54 64 87 14-83 87 24 54 17 b4 56 4a   .!..Td....$T..VJ
+    00b0 - cf ed 29 ae 5d 16 6f 81-a2 bd f2 c3 12 f0 e5 ed   ..).].o.........
+
+    Start Time: 1573653627
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

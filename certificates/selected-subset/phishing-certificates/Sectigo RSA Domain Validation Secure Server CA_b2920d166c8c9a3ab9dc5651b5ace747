@@ -1,0 +1,71 @@
+https://pooshaq.com/bank/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = pooshaq.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGMTCCBRmgAwIBAgIRALKSDRZsjJo6udxWUbWs50cwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMTA5MTUwMDAwMDBaFw0yMjA5MTUyMzU5NTlaMBYxFDASBgNVBAMTC3Bv
+b3NoYXEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvvhrR0VQ
+IMJfuXl47fSgyTB9BYea9hvJm5pVTxuvHQzW2AUv21v9CdE/4BfQua5FpbQHdxx2
+G/Ok4oEvkOuNfqKqP7k0kYRNxSwQu7y3p8kjZSiewOGCIM1kRhF5DpiscOlHam2f
+CvnAx+CrLJizXjlhvDguC+joAYOB0BoEb2eacmwBllCTDT2hzrdEADFb7AcrPaes
+6F7Dy1nwD4M+mmBkLrY4bmGnD9+b/krh/pmXycU5yhN+C8naM+BIhfqXy+pNncDZ
+lDu5l9cI34isSrYUMA4W5jzzBvxV71OBzJfsIJ+7FToxdaL+Nlm9qNr2QtKiywah
+ETcaoIfco1utWQIDAQABo4IC/jCCAvowHwYDVR0jBBgwFoAUjYxexFStiuF36Zv5
+mwXhuAGNYeEwHQYDVR0OBBYEFC5enAUJO7++PHW6Uto2fQR69rIUMA4GA1UdDwEB
+/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYBBQUHAgEWF2h0
+dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYBBQUHAQEEeDB2
+ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29SU0FE
+b21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsGAQUFBzABhhdo
+dHRwOi8vb2NzcC5zZWN0aWdvLmNvbTAnBgNVHREEIDAeggtwb29zaGFxLmNvbYIP
+d3d3LnBvb3NoYXEuY29tMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdQBGpVXr
+dfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXvo48nBAAAEAwBGMEQCIF0M
+JhBTekqFojZdCfljcTJbk//UAMzaRK1NWndbJrQbAiBj4Afo+NXd4BuAB/XsE90c
+dIMtXbpLWwe/0akDXcxUXQB3AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBi
+lgb2AAABe+jjyY4AAAQDAEgwRgIhAInzuyFUQSCwXt+HvTFhnyXQ+1zKNMVWEQm7
+lw3CJ5rVAiEA43dTy2u1g8UakrKFlktzO7voKxK2DloynhMzQ9PDYhUAdgApeb7w
+njk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAXvo48lZAAAEAwBHMEUCIAaW
+bWxpXCu7ctijcwJ4uYFEYFoUPSh/M6jtSe4hx7x3AiEA97lMcT564U3ErUKKD/A1
+AGMvZdNG9N8UIAsSgjVvHm0wDQYJKoZIhvcNAQELBQADggEBAI/FkpxHdVa+lv8U
+t4J3JSqnvl6FDxuiN5qIhQNdUOatvGh0c57eOaWyaKC3Q1wm7lJJTgnI9HuUeHhP
+W8vx1aiNJG9vY+hlH543LSA4Ay23AbQqYztDcrghhaBASzCL159wze+cgiRjFE+H
+xitfzyeqs+Gc4OhygqmLAY/4XkkP8W2xVp4LuVStWiLTwvCnRplga9qzxpLOrsTe
+Q+0kVwIMs6dak0bGldF/BInyVySNyPDC+hMs6a5BR+ykvrDZpMDnFdZpPjyVRc5k
+i2NWTzlx31QCDadBrXleK5+cTk9xBhQA+5jX3JLGREUA9KARiCsU5vjykbKhPsq1
+kVs9pUU=
+-----END CERTIFICATE-----
+subject=CN = pooshaq.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5131 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

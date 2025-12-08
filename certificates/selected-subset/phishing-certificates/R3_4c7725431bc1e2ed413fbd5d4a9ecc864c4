@@ -1,0 +1,65 @@
+https://thefinancialmodels.com/kraw.com/outlook.office.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = thefinancialmodels.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNDCCBBygAwIBAgISBMdyVDG8Hi7UE/vV1KnsyGTEMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTYxNTAwMzBaFw0yMjA0MTYxNTAwMjlaMCExHzAdBgNVBAMT
+FnRoZWZpbmFuY2lhbG1vZGVscy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQCoqvDDmQSVLkSxxH71VcrolKSlPE66b3UByDBgNfdLmycRKSroC9d2
+A9uWMPlxLbfjsdjtVIgfQ63C73P42gZ7zn1LyCP8vWNz1aUmUk0JSPbdFvobnfPe
+9vRgOgSbbltoIuf2nvAPf1EuP7yciIbK1Sqa0hEpsoMTkoE8YdZmIdh+GIBvs84S
+d+WKwBdnf0yvnyjjO7wsFGVCR5408oqV4tk5gkgB1IwKOSQ8m3h+mBLshgHqsg+g
+AXcVRxaCemxmuivB5jNVthqp2cJeJw86X48gokt5yx3tlbowC4aLRVPOeMzliGAJ
+pY9zQgFFIn9Uk/HFCyzHrAx2bFtJOxQXAgMBAAGjggJTMIICTzAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFGrmGnSY+51AQp+7dNB+iqVp9N9lMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMCEGA1UdEQQaMBiCFnRoZWZpbmFuY2lhbG1vZGVscy5jb20wTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEGBgorBgEEAdZ5AgQCBIH3BIH0
+APIAdwBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG9gAAAX5jnl9HAAAE
+AwBIMEYCIQDdKzHYlLNnxYdLv/44uNfIvP0rljOi415Ip9tMZdy73gIhAIb0JwQO
+tHRG0vWOLECqjTg4VHNwbitOFW7gPcPRdqR5AHcAKXm+8J45OSHwVnOfY6V35b5X
+fZxgCvj5TV0mXCVdx4QAAAF+Y55fMAAABAMASDBGAiEA0iB5eRz29u/HEULNXlTo
+b/6POdoNyAFk2hewO0ElVmcCIQC0Tv3Vgq9UufI5qEDnqD81/158h5kX+0diWroO
+QYWTNDANBgkqhkiG9w0BAQsFAAOCAQEAl6dYSvR5UgO0dNVDCPheRrJj7i48122w
+i+V7mXNtaM61JuPIaogJMRVsWTkHFkAzmamrNnZJ1kuvjwPwdH3BU8Qao1/11gKz
+fJNZLGN4tw9I4EfyxumBTIE2GMI9JtqWIvCAQyib9EJ5ZQ6gZ3OkSrO0ixsIhYRJ
+6QiPzMFJdIVpv8DKDBeSdmI1DLwS77rI3vCE3NtSPq6MkuiNp/gdaT1LYKOwI7cj
+j+v376u5gEKkZK8cFLLmXx78pjuyqMcQ3ASLWdzi18h5nAP2zGuj0TGrpEZDAcuU
+i8OJxjfMxBGSJFBBRWLvZjtJujSuQwmz1ZdeM1YvHfas2E0lzPscgA==
+-----END CERTIFICATE-----
+subject=CN = thefinancialmodels.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4592 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

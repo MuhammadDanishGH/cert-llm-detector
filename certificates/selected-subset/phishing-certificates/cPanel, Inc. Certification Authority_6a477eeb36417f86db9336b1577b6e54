@@ -1,0 +1,76 @@
+http://chatwhatsaaap2022-199371.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = chatwhatsaaap2022-199371.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHRDCCBiygAwIBAgIQakd+6zZBf4bbkzaxV3tuVDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIyMDIyMTAwMDAwMFoXDTIyMDUyMjIzNTk1
+OVowLzEtMCsGA1UEAxMkY2hhdHdoYXRzYWFhcDIwMjItMTk5MzcxLmR1Y2tkbnMu
+b3JnMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAustYamKsPM2KsIR8
+SCv124h6XFAvB7IkVrem7h8u9BsPl3Tu4k1tWCeHnhHOdCrJLK8Z8ZFTeGMKZRNi
+/+qMg1YPV5P2Xzga84pKP4aqZCFHKPq4Ii92pScCU/cTrvd/VZHm0NI7AE9reQPy
+zZ+Th66H3p9OwThT9kJMCM1/+OMmhY8XQX3ETzfGqOIkp1ZdHYdZc4F+newDHegw
+1HptEPTsHsxS4M4RtR215A4MAnsYXBFTkzy+P7RGiOWPUKWwXNE2VJTlA0dzOuDb
+haid9h/sbUvx22jk+TmS8oV6ts5oL3qBLR8pmpGVkeEua78lGPDUM4xt7npJTNsw
+bjy8+wIDAQABo4IEFzCCBBMwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1q
+x2UwHQYDVR0OBBYEFMXZ+6E2NhCQAuLRkkVDvr62zFn/MA4GA1UdDwEB/wQEAwIF
+oDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJ
+BgNVHSAEQjBAMDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8v
+c2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRw
+Oi8vY3JsLmNvbW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9y
+aXR5LmNybDB9BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQu
+Y29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0
+MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggECBgorBgEE
+AdZ5AgQCBIHzBIHwAO4AdQBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5t
+RwAAAX8aiFbNAAAEAwBGMEQCIBg5ZrF8KPWoM+8jey/3+rt6U2vRKVsM35CFg9fD
+e1+PAiBATLHnvfBoNcwNOBVFKVOiImWMdnJOLOiR0nzIxd1RKgB1AEHIyrHfIkZK
+EMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfxqIVooAAAQDAEYwRAIgBH6o80C1
+vrjIlWCswkmP53lNyBMVWMe6t5CYTmth3s8CIAwF6HcwweYo+SYCXfg7CplfMlgE
+BbbE5of1BadAbe4HMIIBdAYDVR0RBIIBazCCAWeCJGNoYXR3aGF0c2FhYXAyMDIy
+LTE5OTM3MS5kdWNrZG5zLm9yZ4IrY3BhbmVsLmNoYXR3aGF0c2FhYXAyMDIyLTE5
+OTM3MS5kdWNrZG5zLm9yZ4IwY3BjYWxlbmRhcnMuY2hhdHdoYXRzYWFhcDIwMjIt
+MTk5MzcxLmR1Y2tkbnMub3Jngi9jcGNvbnRhY3RzLmNoYXR3aGF0c2FhYXAyMDIy
+LTE5OTM3MS5kdWNrZG5zLm9yZ4IpbWFpbC5jaGF0d2hhdHNhYWFwMjAyMi0xOTkz
+NzEuZHVja2Rucy5vcmeCLHdlYmRpc2suY2hhdHdoYXRzYWFhcDIwMjItMTk5Mzcx
+LmR1Y2tkbnMub3Jngix3ZWJtYWlsLmNoYXR3aGF0c2FhYXAyMDIyLTE5OTM3MS5k
+dWNrZG5zLm9yZ4Iod3d3LmNoYXR3aGF0c2FhYXAyMDIyLTE5OTM3MS5kdWNrZG5z
+Lm9yZzANBgkqhkiG9w0BAQsFAAOCAQEAfmDJNaEzo4FyqYf0bNxhIGir/5BLpTKH
+f7pEfs15I0NQtfNDJKen3kJls7NcjWO1m+4Fx61yZrrNYlaX7AtgRlBGBge+EhKR
+9SEOMiIEoQ1ZszkHBi7DRIwPE0PBDPG3lUA04L3sF/cj6rMdoo4hIbnyCMYCEeFZ
+gUTLGtlCxnGFV/jEbGBWow1mrcp3MH8bHJtVQRbFrONNh9XS5oMr1v0qYywK2LbW
+xTl4sgY7mj1wnOzNUb7peTYDjLa5grLeX0e3fEak2l1yI0nfsMPOBT0vxQOoh34/
+e79/ebDfGd32fvpX5hmi+6GbEIaaNo8ZZ3Hnl13yDFNlm3ZkOD2BVg==
+-----END CERTIFICATE-----
+subject=CN = chatwhatsaaap2022-199371.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5369 bytes and written 410 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,69 @@
+https://rebirthing.sk/zaidm3assab1.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.rebirthing.sk
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGMzCCBRugAwIBAgISA+CDqJuRhM9X+qbQrqs7WLfiMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTgwMzA1NTFaFw0yMjA0MTgwMzA1NTBaMBoxGDAWBgNVBAMM
+DyoucmViaXJ0aGluZy5zazCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIB
+ALQ4antXWTA/7GyHHEW89UCQ/oi3ZHEPxfgayD5exMoaXNIQtmUmVQvVwLYGtY2E
+In3zQL6NOsxBNVK2bCDkxGz6aKriGnO/mkaBSA4AF+P6FnpzL3C32vgXao1X+F61
+7V3ji57kOPMla4eyfauZWVHRnS9IXNF4xyPsjA4w7A8o7dWQVlkFISgHeHNaInhc
+4qdNi0Um9oet/LmBq/ksHHA5AEj+EowO3g8YmhKq5L6qYQQMyzgk+JKC3sIaT6MB
+I7TB8mZC/7MdV2ym3sAlTqx7+8eFBIAUxeKm2MuAsdeDZe7PrzP+xtLjD9fFfmz7
+uFkAh2qr8j2MCX1ggUgns0t7XP2YzGJC1WNV9IU0gV6EoOJqOqZ6Urrqp6hRiCtU
+0XiH8ZZ9TX/Pkjd5WebowgJJ7ZMEQQ/A5lybJDMgH2B7xlBJRv+3EPMCu5qYQoCD
+ysHjycWIDhdpkHpsH6X/6yrG1filJikkvZEfPnX+nDM568McIHf3T8Kjkp7hIaMj
+8PJxqwDmbHOX4wIkVSjXGYD5/HkyTYQPfcVj4f0Kj1UtRyZaWpeUZX3BszsaDJYa
+Xi0wq+WWWwHXfL5h4SXQB271MZtbBfTw9HC9CWcxl3LJ+QXjIBObAv6bZSeRx/TJ
+PkB6viOD6qLlZUAECfVQJHkBE8X8D2weqd4S5OqAa94pAgMBAAGjggJZMIICVTAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwG
+A1UdEwEB/wQCMAAwHQYDVR0OBBYEFNvS/sOEaRzY9H+hhtTcx1dInellMB8GA1Ud
+IwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggr
+BgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRw
+Oi8vcjMuaS5sZW5jci5vcmcvMCkGA1UdEQQiMCCCDyoucmViaXJ0aGluZy5za4IN
+cmViaXJ0aGluZy5zazBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEB
+ATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQG
+CisGAQQB1nkCBAIEgfUEgfIA8AB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1d
+JlwlXceEAAABfmtczaAAAAQDAEcwRQIgZ91F40TMNYZuu0W7Oda2qft5fU6BiX5/
+11jhebBlSGQCIQCIzEiaMFN0MCIe+VElfcLvLjB2WIvllZr7lQAGKi3iHQB2AG9T
+dqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABfmtczycAAAQDAEcwRQIh
+AK4KiFF2wBWs+VycjsqJRic9ehRDUYvdUna3E1bQ9pxwAiAwXYSK/SV8b/3wtApq
+ATh+RoWpSYSNLZ+dmyPuVCUNEjANBgkqhkiG9w0BAQsFAAOCAQEAOfQYhCPWxrFR
+1U94ythQLyqKpmyABl22JoL2MtVOX0R28nEKN1gJuDo7ZGFK03sRwb2l39QA5fLV
+NSO4JBIhoLm6EMWQQ6kN+jJ3AzIf80FiD7491vkhdMCAfhy4YSMa+Wiy2gf7XiWt
+yiU+tKZFemx8reJcowFpHEXpShpokB/02UlembiKIgiHSNkiw1bMIZOv2zmYIERg
+zbdfAcVQ4bSeOztnPMXAbO4B2Q5tClyEF4+DjToo1NYtW39VWF52H5ooConGd+k6
+MZ6EhjSaA221tFLj+D6CbskJmiHDJvb4zWe8BxmbatPg9o+z4dHMw1+hN1vGCDn6
+pdME2pJ3Mg==
+-----END CERTIFICATE-----
+subject=CN = *.rebirthing.sk
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3714 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

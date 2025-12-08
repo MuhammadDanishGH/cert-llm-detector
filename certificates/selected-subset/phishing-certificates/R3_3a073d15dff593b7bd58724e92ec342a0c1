@@ -1,0 +1,69 @@
+http://asiangreen.org/file/updation
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpcalendars.asiangreen.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF1jCCBL6gAwIBAgISA6Bz0V3/WTt71Yck6S7DQqDBMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMzAxNTM0MTNaFw0yMjAyMjgxNTM0MTJaMCUxIzAhBgNVBAMT
+GmNwY2FsZW5kYXJzLmFzaWFuZ3JlZW4ub3JnMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA7tcQUJNK44zr3G3e0tMGq+9LPun1Ke6XvmyKCRF2u9Yx3FVE
+MOpydT6JlJ6cReKNvczAWobTfW5ZzJRF8aFXA/gGJVz9A1PI3bDJBeyKfUZTaRLB
+JDAJtvhGTT6KA11BLflYDRHESjfT8cYcsqIcBj/u6UTz9WNO9ktwpUriI/Darpzw
+R7cUDAOWSUnEsq3r6nXKRRLcW5Bt3WyQXOPvC4HDmJBNtJ1ZLFgYmVg5AzAnwnLP
+GHIGNlUrQFVkA2x++/swgqmqGu307FrRFH+x+tx+Z9I0U+ijVb2wmP2FHVG+FYnW
+h1n/fSNXA4C3wOqI2xbfFiRwBbi6DY6Ui9eMUQIDAQABo4IC8TCCAu0wDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBTpzrft684gZsIoicgGrJnsQ2qUCTAfBgNVHSMEGDAW
+gBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUH
+MAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3Iz
+LmkubGVuY3Iub3JnLzCBwgYDVR0RBIG6MIG3gg5hc2lhbmdyZWVuLm9yZ4IVY3Bh
+bmVsLmFzaWFuZ3JlZW4ub3JnghpjcGNhbGVuZGFycy5hc2lhbmdyZWVuLm9yZ4IZ
+Y3Bjb250YWN0cy5hc2lhbmdyZWVuLm9yZ4ITbWFpbC5hc2lhbmdyZWVuLm9yZ4IW
+d2ViZGlzay5hc2lhbmdyZWVuLm9yZ4IWd2VibWFpbC5hc2lhbmdyZWVuLm9yZ4IS
+d3d3LmFzaWFuZ3JlZW4ub3JnMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBAgYKKwYBBAHWeQIEAgSB8wSB8ADuAHUAKXm+8J45OSHwVnOfY6V35b5XfZxg
+Cvj5TV0mXCVdx4QAAAF9cbJY5gAABAMARjBEAiBaGQT+3/QMTybIF1Xd7yqUuEip
+DYvm9Hm1bnT8RY9XQAIgYDQOwj0VgIcQE7LoCS/sObPw+JN08cvT7CZFqQCd/a4A
+dQBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG9gAAAX1xslr+AAAEAwBG
+MEQCIGmWtDxpnaBCTj6da3eEX4e4XKP1bsI4feUP661Sy51/AiBSRERkZywLdxO3
+xsQ1qjTMKkHcO23HME4pO9EsGNeZ5zANBgkqhkiG9w0BAQsFAAOCAQEADP9A9o1d
+8cHpqWKi3xsjbdfOBz1ljLjPpBBwa41XW/CMpjMm1Gw98jkcRpQIUBAOaRfAIrEO
+EmsRwqIDIy62uW+quh6Rw6rPKxvTkoW6ZTneVf2XKznsyrIF/8e+dUDFEEFV5WvM
+V+6f0xJKpdLuQg9RJFExgo3nrhOz2o+rDeqzU/0DsktcmW6WGVhhGHLIlm6ctj1m
+OW+2zpuVE4SzOFLioCJrEwFjcBqj0rIzbI3ay8nqoSu8XliBTD+Tv3avK/GOUDS8
+pvGs6acXcacyOFhaVBbopsWKCH7WGkCZdJwmEFCkneZ63rexF6E0fwIvGeePv5oq
+adLum3e6GNbxlA==
+-----END CERTIFICATE-----
+subject=CN = cpcalendars.asiangreen.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4754 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

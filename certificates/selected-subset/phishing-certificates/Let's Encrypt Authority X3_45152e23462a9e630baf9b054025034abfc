@@ -1,0 +1,97 @@
+http://secure.wellsfargo.com.onlinesecure.hobblecreekkettlecorn.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = secure.wellsfargo.com.onlinesecure.hobblecreekkettlecorn.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF9DCCBNygAwIBAgISBFFS4jRiqeYwuvmwVAJQNKv8MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMjEwNzM1NDVaFw0y
+MDAyMTkwNzM1NDVaMEcxRTBDBgNVBAMTPHNlY3VyZS53ZWxsc2ZhcmdvLmNvbS5v
+bmxpbmVzZWN1cmUuaG9iYmxlY3JlZWtrZXR0bGVjb3JuLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAM5sHpiMXWrMEPzSNCBcptu5eudGJFn1xW2A
+9XUGKwr9xi5OF6dU7RQ4hmy4up8TQIF+2vymckojwytPvwbB/lUsVAv3X5LA1tE0
+W4NIzgfFtaWHmd0hDltZ47VW34ljCJgawFIGCwnM6Mbs0jev8xfrcKAovTyDAajG
+gj4WqmFCjImUyGwTXOe/iCG4itmVlcrBOAJTMgItaN02jr3QdZLjWDx1O50jhFZu
+vnNqm2OA1fhyCXA1VcfncKTduK5eArlFKIrPSMhhWUW+NshDIq/viNLLH6PGDeqK
+Noy+FWM8MP/mlAOhIxUbcS+uuR1wa9VpWSqXcArgnnI9gKsSIH0CAwEAAaOCAtUw
+ggLRMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQURtXSCZdB+QGuFWozVe7D1x9YzKow
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzCBiwYDVR0RBIGDMIGAgjxzZWN1cmUud2VsbHNmYXJnby5jb20ub25saW5lc2Vj
+dXJlLmhvYmJsZWNyZWVra2V0dGxlY29ybi5jb22CQHd3dy5zZWN1cmUud2VsbHNm
+YXJnby5jb20ub25saW5lc2VjdXJlLmhvYmJsZWNyZWVra2V0dGxlY29ybi5jb20w
+TAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcC
+ARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0
+BIHxAO8AdQDwlaRZ8gDRgkAQLS+TiI6tS/4dR+OZ4dA0prCoqo6ycwAAAW6NGlxn
+AAAEAwBGMEQCIDDziLcd8MiI3OH3JdJoz+hu9TpbHV3UaoLc9C87gG6hAiACN6Ju
+DPk1UAtDuD7vRaMMN+Mnu7HAx09TALTB/uXw1wB2AAe3XBvlfWj/8bDGHSMVx7rm
+V3xXlLdq7rxhOhpp06IcAAABbo0aXJUAAAQDAEcwRQIhAPMkX6jRuhEliZDid7sw
+ehS7xhO75lVUPsfksxR6sxgxAiBzUcX6uBBqT2k6te/KId1HCyCYvKzDgAbCX1nt
+w8AsEDANBgkqhkiG9w0BAQsFAAOCAQEATAJXCAFUPVP2GPxg7vlNYHCWhgoG7YwJ
+Tu3kdwq4qP7c5cJU8MG1tt2ygkD6wffKUaKUnnzlbcNxxk2ubsgU67upDnKnwqI7
+NHxFeCL+0GzYHM4N/ewWKizbJJ1Vhe1+smDfxYdIRGAhFfJJqA3hwg6U9p7ShUDa
+SLyydnpmF7VwmBD+jUvJiJTTYStCJ3MBme6rtmD435+j8CSNtSSz5d6lj5XDKH4j
+G01k4WecK3qTJUxexOLyjlQN+2tncwG/T1qgLZ6ktW0rPuviRLWjnKOpkr21ZMyB
+PlJJTGLmobYQtjCksIkiASLpOzSrH5UNnV/iovgZ8TyAu2G7Bv4xIg==
+-----END CERTIFICATE-----
+subject=CN = secure.wellsfargo.com.onlinesecure.hobblecreekkettlecorn.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3459 bytes and written 498 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 67325FF1AD5337986C47FF2DEB52FDAAA46D702F779CF7FBC77FCC14BD09C126
+    Session-ID-ctx: 
+    Master-Key: 9D72F5EFE57E801690F8085CD16DC6B6F6C297D7274E2D3BB5DCEFE4CF261062E0F1118E237731A820D80DDB2EB97939
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 39 a7 15 6c f9 4c 92 e5-d9 50 76 0d 60 9b ef 90   9..l.L...Pv.`...
+    0010 - d3 0a f4 12 6c ef 63 e1-9f fe 88 d3 44 ba 45 9e   ....l.c.....D.E.
+    0020 - e6 2f 4d d1 1d 90 64 80-05 e3 af 12 cc 70 06 82   ./M...d......p..
+    0030 - 08 66 ad 81 09 2e 22 40-7b d7 86 d4 5a 99 ba 1d   .f...."@{...Z...
+    0040 - 8b 19 f7 fb fd 18 08 5c-3e b7 8b e9 dc 4c 3f a4   .......\>....L?.
+    0050 - d0 c9 c3 87 f6 c1 b8 fa-17 ab 3a 60 b5 c4 83 ff   ..........:`....
+    0060 - be ac 13 40 20 bb 36 ad-6c 46 cc 59 ed 86 0c 4d   ...@ .6.lF.Y...M
+    0070 - 40 6d 47 28 9a 48 78 56-71 36 24 05 7d 2b bb 24   @mG(.HxVq6$.}+.$
+    0080 - 2c 74 85 d4 48 37 31 62-91 12 5b 9a c4 24 af b9   ,t..H71b..[..$..
+    0090 - c5 40 a9 2e 80 41 c1 cb-7e 64 41 1e a0 83 c2 06   .@...A..~dA.....
+    00a0 - 48 cd 0b c6 b9 0c a4 fa-ad 53 91 f8 63 6e e4 c5   H........S..cn..
+    00b0 - b4 fc 8e 0b ee 32 a2 4e-67 e7 6b 0f b7 ef 57 64   .....2.Ng.k...Wd
+    00c0 - 0d ec bf a5 a7 2d 66 02-a1 a1 e6 53 21 ba ce 95   .....-f....S!...
+    00d0 - 7b c6 e0 91 e3 9f 39 79-87 a5 26 47 5c a5 73 40   {.....9y..&G\.s@
+    00e0 - 95 e7 aa 7f 81 73 28 73-76 5c 8b 3e 46 39 db a2   .....s(sv\.>F9..
+    00f0 - 43 84 dd 75 3b b5 97 9c-4a c4 fa c3 67 a0 a2 71   C..u;...J...g..q
+
+    Start Time: 1574604032
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

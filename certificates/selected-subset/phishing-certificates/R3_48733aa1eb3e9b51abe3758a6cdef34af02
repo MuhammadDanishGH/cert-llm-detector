@@ -1,0 +1,63 @@
+http://tmazki.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = tmazki.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFGzCCBAOgAwIBAgISBIczqh6z6bUavjdYps3vNK8CMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMDEyMDQyNDVaFw0yMTEyMzAyMDQyNDRaMBUxEzARBgNVBAMT
+CnRtYXpraS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC5TcRU
+oHpTs266d8u7KVE26tpVv+lvIUcM7RM9JlsJGVLApL/Sf/RvybFHyG8t4Z6We5xd
+m/Zfrwn+ie0OdCHjgCjWCEyYZUGviONUQ9xc2247VxE72hYi+aYkQ2Ki8ijCbHqI
+svKmuRuzi64GcezIGMa6qdJU1hAPSC0IE3+jsLgdbL5hiJCOXXj8MYPLciA0RaD1
+NNbW2jDbtfU4La+mJCokoQljp0XsT3JhperzbTHL5RpuC4kDE81XxI/BqwmKEiqS
+qqH//Gw1MuU0dmTYs4m7/0qcxXywooBwu9kE4aOorTTJZRJ+uyeGD90umW9mcCRz
+DJYGa5xZCX/7h8C3AgMBAAGjggJGMIICQjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FOxoNE40SaT9gWKu5w+2PMpGlxhPMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYf
+r52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8u
+bGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMBUG
+A1UdEQQOMAyCCnRtYXpraS5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYB
+BAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5v
+cmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgB9PvL4j/+IVWgkwsDKnlKJeSvF
+DngJfy5ql2iZfiLw1wAAAXw9z0KOAAAEAwBHMEUCIGGOwPjQ/KgIB1i8FC6N4aSR
+J0kWZ9OJHJHZcrWG1unQAiEA+OPnD1QIvyY3CLpYmGerwSYC50KHB4IdSYUYzCqH
+w/YAdwBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOWtbaBqAAAAXw9z0ReAAAE
+AwBIMEYCIQDWYpg5V+evJ+SdiGjUDi293RyiAJDjQlJ9Ekli81gfUQIhANT4ZFwM
+knEvUXpAYRrUW55fgUrJmypuTigmMCWLRlpeMA0GCSqGSIb3DQEBCwUAA4IBAQBM
+jvs5QJ8790zyg4Qo39CJN9lclof3pJGcis+LtMz9t2NhNfxH1LMptAQt82qC43UB
+tEfJ+DlRPdgwR7iHuiwK1vkDwdMnnZgxmcABEBnpl0gHQQ1yYBvxm7EZE2vXH9Cl
+PfsC+ZIuVPb9rSoiBOQWJgkOqV4vfYcA/+M/e/dstE0rg3ysu7mXrXtXaL3PeYOU
+c12ljN29zq/GP9LHRyGiSz+UfGBEUWgXbHaF/r3lOEmx7nK390SfuLFYIbLMobMd
+8SayutGKRN9EIv1H8FdnN6+W554D58mwXRO5x5x4HEUYvjEDV0NZNrKXm2PAjuOq
+vWN4raFpaYG6ODz2EWkZ
+-----END CERTIFICATE-----
+subject=CN = tmazki.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3182 bytes and written 384 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

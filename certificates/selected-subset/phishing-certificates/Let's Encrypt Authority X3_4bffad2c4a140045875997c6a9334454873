@@ -1,0 +1,91 @@
+https://proyde.org/components/com_k2/helpers/new/login/app/unusual_activity
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.proyde.org
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFWzCCBEOgAwIBAgISBL/60sShQARYdZl8apM0RUhzMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xODEyMjAwODUwMTBaFw0x
+OTAzMjAwODUwMTBaMBcxFTATBgNVBAMMDCoucHJveWRlLm9yZzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAMzc2ps2dvh0h6x2VfaoPMRELDliqQaZJX4s
+VmcHHPaD5hPn/qwNujpKF+Pk/I801rS4Lyd9zO29uiAnfIbpmmHsAlyn4TCYiqSC
+l3w0bPcCrCLpk9kvOn3u4/sQmv2DUI5dEr8c8mteVey46Dq8VgioWJbk0L7zNGAP
+TY4T0Cn3CafWhcQzLrjz3tzgSf+gh6fOv93jcgbGSVWP/4ribJSptJi66ufoQ7ZC
+oWp1DIC5BKBkR6fKE8O2eQ04l8LmCweYkc4yqMRnkWKQSDPk5cYvTafpR0UY3zAn
+vfMn5B/aJCUCiU/VtbKAt1RzTaKbmGAOPurTlt5HzXdyXiHrvhUCAwEAAaOCAmww
+ggJoMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUBavs6weIQa7qZTXwWtogCKJMPUcw
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzAjBgNVHREEHDAaggwqLnByb3lkZS5vcmeCCnByb3lkZS5vcmcwTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgB0
+ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWfLBb6yAAAEAwBHMEUC
+IARX9RksayuS90p1kk4eKRT8xBnvp3AXrKdSHP8jKptAAiEAy9lVjbEEVc6MlfNB
+BA0rWF71opYpA/9IyAAoHJVI+MQAdQBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4
+scdoVEvYjQAAAWfLBb6kAAAEAwBGMEQCIDYjMBQ4xWBmgjJrf5CvxCEC3TyzI9Uq
+XCMLc2SJuUlFAiABP4vVsUd5KdgLM3r/9DXYxovi+DZZ9VOPcar7cGo/mDANBgkq
+hkiG9w0BAQsFAAOCAQEAhbbtiZJidQh+NEujq/w5JUUe1iDTJmXxWID+11wW2+mY
+752UzUkMUodzdnGriwr3BE6gWytvQMPBqTxbot9hXrm238C3yTVFzK18hZci2do5
+riyCByV82CVndpsYUJxITi86QudC9/puy1iQ1tiams0kUogvxmfv7vDK2wGrqHka
+W0ev2YMYmUaeW4RKNiXPWo72BrkUvf82+IvuLr26EhjouH8h4mS2KlQlm9hTW8nH
+Ceys3bBgc5C6VWuRxzKkUiUMzIPnjXaeN8AuUqY/pHvZ4YsCCAZQO9+Lv4ZkCP6c
+h1+zF5lB41vTe3W0GVGrNWnuBMzT961yqek6USY1Sw==
+-----END CERTIFICATE-----
+subject=CN = *.proyde.org
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3221 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: AF4A2CC150DF7A38CF4DFE35E3CFE855C3A9DFDBDF3D574ED816078B94555C2A
+    Session-ID-ctx: 
+    Master-Key: 2E43522E7770540B3FCFA8B8A07304FC73053E731FAF93DD0E5CC990771245E3D1AA8C4694C9EA61CF69DE2DE4E5D22E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 86 c8 7a 47 b5 00 c9 c3-13 3f ba 1b 46 05 e0 be   ..zG.....?..F...
+    0010 - f8 09 31 6a 34 16 38 57-18 e6 2c d6 f4 ff a8 36   ..1j4.8W..,....6
+    0020 - 81 50 3d 8c 24 a3 0e ff-59 c8 90 d7 d7 f6 a8 e3   .P=.$...Y.......
+    0030 - 91 a5 54 c6 54 ce b7 d8-57 93 00 62 f8 ac 70 62   ..T.T...W..b..pb
+    0040 - a3 d1 e4 4b b7 c8 d4 38-b5 1a bb 03 b0 6f d7 01   ...K...8.....o..
+    0050 - 6f 71 ba ce 79 b1 de b5-f6 98 5a 19 cf 19 80 2d   oq..y.....Z....-
+    0060 - db a0 28 06 7a a5 47 fc-99 bd 8b aa 06 07 1e ee   ..(.z.G.........
+    0070 - a1 14 52 c0 b2 82 55 a6-a8 c9 e4 75 85 42 17 20   ..R...U....u.B. 
+    0080 - 31 68 e1 83 36 70 97 2f-df 29 fb 3b 8d 0e 78 32   1h..6p./.).;..x2
+    0090 - 90 dc 56 f0 16 35 56 16-89 2b 9a 2d 77 b2 42 d1   ..V..5V..+.-w.B.
+    00a0 - ca 0d f9 eb 34 9a 08 0b-e7 42 ca 11 fe 6e 7d 4e   ....4....B...n}N
+    00b0 - 2c 31 db 6c 03 e9 d4 07-0a 97 ff 6a 04 26 07 bb   ,1.l.......j.&..
+    00c0 - e6 e1 65 cb 5b ad 84 92-2b 05 84 07 0f 9f 30 35   ..e.[...+.....05
+
+    Start Time: 1550930415
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

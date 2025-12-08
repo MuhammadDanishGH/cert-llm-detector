@@ -1,0 +1,65 @@
+http://godanointedapparel.com/Wells%20Fargo/login/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = godanointedapparel.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMzCCBBugAwIBAgISA/wsmAbkc7iD/zznDrkfagcXMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTAyMTE5NTJaFw0yMjA0MTAyMTE5NTFaMCExHzAdBgNVBAMT
+FmdvZGFub2ludGVkYXBwYXJlbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDCkSv7NXqu1dKJC3E9Dhb14Me8sRGfrJsAVR4K4hrSvOHrBj2kgBHG
+3hYxDNr+sgSnH1Y31aUStusTH+1ooDmkNJepmD3YKFBGom10UOIAQCbxE60vhGkC
+k3Y8wkPBHklqX40sRLyK23PELcPWUG0MRgdxPpAKcOY0nT8lWKkNQm+OIUZ/ei3l
+9Q0EkoD6C/xt60yZwoVgqa2Rb+yFVDXw31rsEMCC3bxUJuBNvB7c2X3ECuqJ96uL
+sCrWPLuWXIh5KB6H+G5tUQBBHTeKZN8Or9YPVaWKNdJYYiumPQUQxFDWXcYIsqos
+HjiwMKiMWl1MSmhgg62Bcw0b7Ze9L8lXAgMBAAGjggJSMIICTjAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFCr1DpWdWJXo+/IfhvjQ9uQTfqmQMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMCEGA1UdEQQaMBiCFmdvZGFub2ludGVkYXBwYXJlbC5jb20wTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHz
+APEAdgDfpV6raIJPH2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAX5GE4nZAAAE
+AwBHMEUCIDUX6fuaTzgAWc4ArK0PQ4TN2qGnRFQkoB8NPzCx9+eFAiEAibnLSJzS
+P9xO2D1pBDn04B+iV8n9MsIZcMSiVxAizpcAdwApeb7wnjk5IfBWc59jpXflvld9
+nGAK+PlNXSZcJV3HhAAAAX5GE4nNAAAEAwBIMEYCIQCLd1pvB4iml7a43c+FijaD
+uWj3JUq5+MJK+TKyNGmFYAIhAM69gtfD55DO+lWSn9MQrYdkm7whb2SDbuFoPtLC
+zZbUMA0GCSqGSIb3DQEBCwUAA4IBAQBVfO2FEakgiedgGjziRdwmVKveFAWszl3g
+gbnZAuG5hXD4Y5d0ZAao8Jlpzy8tOj6NsnrdbdO0v+k0HonUf3P73+4jGvNcri5/
+0++5jyymBfkIebyxADAmsJyTrzO8z+ZVczbABfHqXxX27/vYyiwSp0GvvEZ3KPL5
+H13ohye55ur64oy96LJg+g9FzHXk74+3D+8sQS+/Ta5lSpFEMawCVK8+iT3jcnGK
+YsUysVWksXdVHBeMSxXzDyxGGre2AXDSu9MGkIEcVy8VBMde5jFkgQkNkmzmov+D
+OJ3Dna7S3JzwbfONhZKiptCUGRDTJSEBX3NnrwZIRL1AOSrkd1ww
+-----END CERTIFICATE-----
+subject=CN = godanointedapparel.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4591 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,66 @@
+https://poincaceswoep-api.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = poincaceswoep-api.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFSzCCBDOgAwIBAgISBGA5ByGvioz6phrCmApHIXHPMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDUwNzIyNTFaFw0yMjAyMDMwNzIyNTBaMCAxHjAcBgNVBAMT
+FXBvaW5jYWNlc3dvZXAtYXBpLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAM7nEVjM248OgzxPouxaXidS+QOnUtmKSQB53C5aMwrojcZCISRo7Etv
+9QmXUZOyw0BPibQAZTBuaHdwzc5a7t/RQwGRUvHIdcqTbN8jkZJnSDoe/sdM52hT
+fVgm7PTerHo12rOAWtvUj/AwDT6bTfYhL2islAxCPzqC2rS8N9AG0qY0+LOKTg+P
+hk+sx8HhG4VRlF0BkcaQn4WV2KA0D1nBWwy7xggGl5PlW3B8GWhTcWsWbcBAjdCm
+CJj1JPV2HbGwuidTqYGD/56Qdd99vCtpMI07el3PlNsGc3SGbclXtGDiAUNc4YZN
+0hijGu4SXhFkY6ihH7HftfcvFUChM3cCAwEAAaOCAmswggJnMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQU/TrsuCV8QqZtyGdRh/LrIR4nooQwHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wOwYDVR0RBDQwMoIVcG9pbmNhY2Vzd29lcC1hcGkuY29tghl3d3cu
+cG9pbmNhY2Vzd29lcC1hcGkuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysG
+AQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQu
+b3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAKXm+8J45OSHwVnOfY6V35b5X
+fZxgCvj5TV0mXCVdx4QAAAF87zGDSAAABAMARzBFAiAN8pIY/jdabjjPPy5fvEx0
+qtDXkOtrBhAiYKw/B7jfrQIhAJd2pQh/wjLVnhKspeesGzF+IiHUz+aT8kk5YRMV
+dAfCAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAF87zGDegAA
+BAMARzBFAiB554teKadhPBIZFjJae68Ezy1jOO8QV2BuhIB09XEG7gIhAJEQIxcH
+FETUfFGGm54SVPGH1pLKoBHLaXTnopUAUJr7MA0GCSqGSIb3DQEBCwUAA4IBAQBr
+PzvgKJwP0fp2RD3zFLjCpGCWlBWa3lH7BRjKe4muV6oLh19tkcqEvIkARUknH9pH
+XGqCf2FHuqOCw3eD4v05kLup0UC6vu7e/VPl/AUtnnlcUw2LxBsF9eUk02uLLPB2
+xThGOe8siq/Gbb9zdiuQpC+/vR/pa166v44rYe3I81Wn4czSLEG8jNhQHED1HpOz
+gvmTkHwXUp7WtPNJLlex9sFTfFxuy1Mm7jePjO5CF0U7ycEI+QhrmPHopnRZyhw1
+MGpxNa6kjUbYpYLATUICdLEMnNWb+BWINfbTRRLpil814eBsvZwTut9ybnqR+rdp
+ppgUdTpe2e72KeWxfFNv
+-----END CERTIFICATE-----
+subject=CN = poincaceswoep-api.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4599 bytes and written 379 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

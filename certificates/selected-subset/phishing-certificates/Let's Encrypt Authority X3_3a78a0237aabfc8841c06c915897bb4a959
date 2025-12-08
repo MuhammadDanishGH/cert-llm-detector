@@ -1,0 +1,97 @@
+https://www.khomecon.com/ba/pd/update/app/index
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = khomecon.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+dbU1Tg==
+-----END CERTIFICATE-----
+subject=CN = khomecon.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3775 bytes and written 454 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: E57ABCB27F6652023C47D7313DDDC8195BA17048C11815C0314A5B45E7D092ED
+    Session-ID-ctx: 
+    Master-Key: 336D19F895E968AFBC9A6DF4919ED0729C14E378BC7B2AB404A1BFD4E702662B0C79862F73FE247973929B20D1718089
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 2c e5 61 20 7d 3b ad a6-72 e7 7c 3a 89 08 bf 09   ,.a };..r.|:....
+    0010 - d0 67 87 d5 e0 44 9d 77-fa 4d 9a aa 23 e0 b9 4b   .g...D.w.M..#..K
+    0020 - 75 24 92 82 e1 12 ac 3d-48 63 80 ee a7 a4 a3 4d   u$.....=Hc.....M
+    0030 - 8e 8b be 9d 09 51 8d 01-91 a9 70 93 32 ad 5c 91   .....Q....p.2.\.
+    0040 - ef 59 57 cb b1 00 11 07-36 44 94 6a 5c e1 1b 8d   .YW.....6D.j\...
+    0050 - 5a 96 cd fb 4b 7d 57 48-76 70 6e b2 69 ff c8 6d   Z...K}WHvpn.i..m
+    0060 - d1 df 86 9e ef cf ab e7-ad 6f c7 f9 03 58 74 6c   .........o...Xtl
+    0070 - ad 87 a4 ec df 00 86 86-1b 7f dd f0 60 5b fb 4f   ............`[.O
+    0080 - 1a ed d7 20 88 8c c2 8b-89 d4 73 84 b4 ed 03 a2   ... ......s.....
+    0090 - d5 29 e4 fc f1 39 be b4-01 d0 60 8d 5c a5 e1 13   .)...9....`.\...
+    00a0 - db 9a db f2 8d 69 b5 35-f8 48 5b e7 a5 05 f8 cf   .....i.5.H[.....
+    00b0 - a6 8b 49 ff b7 bf 4f 1e-59 a5 d2 e0 9c 58 97 60   ..I...O.Y....X.`
+    00c0 - 05 24 ba 42 04 9d fd 03-52 4d 21 44 c6 eb 3c b0   .$.B....RM!D..<.
+
+    Start Time: 1573135251
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

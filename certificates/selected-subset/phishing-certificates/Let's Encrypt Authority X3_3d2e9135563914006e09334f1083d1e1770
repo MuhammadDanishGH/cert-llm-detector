@@ -1,0 +1,93 @@
+https://askpantip.com/wp-admin/n0luk/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = askpantip.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFvDCCBKSgAwIBAgISA9LpE1VjkUAG4JM08Qg9HhdwMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAyMTYwMTIwMDdaFw0x
+OTA1MTcwMTIwMDdaMBgxFjAUBgNVBAMTDWFza3BhbnRpcC5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDWG1D/8T9GAEHsY4bM0MEI3g7hyK7mZvZ7
+suFtht2lGoPlSTUAQLexqDEMmqPyu6uhxE45y3Ixc2FqZAOPQyjjqmE5hDF02o+f
+m9cvXxyhjlzNkJcQyjFbpEV+N5RNCjUk4M2ZlvIrKoE84OdXdB6o0OPqw7IdlO/y
+Fl7TObSnT8+eIsNpOw8UMhf0yJ3n3W4299gVhzO+vFJTA4zJGxzdw79DgnfKKRmF
+MyfsurJk4On8utUGZS8xVTwztxO8Tugvx1IWXKysfzmrKAVl+G8dZIn+HDF/ubEl
+eheFj5qBXEURhvXDWO3UMPKdg4AspFMOa/wkW1ZpSNUpYhOYSh3BAgMBAAGjggLM
+MIICyDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFJFY2BhdcFxlHj0dRNvFhBzuib5H
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wgYMGA1UdEQR8MHqCDWFza3BhbnRpcC5jb22CFGNwYW5lbC5hc2twYW50aXAu
+Y29tghJtYWlsLmFza3BhbnRpcC5jb22CFXdlYmRpc2suYXNrcGFudGlwLmNvbYIV
+d2VibWFpbC5hc2twYW50aXAuY29tghF3d3cuYXNrcGFudGlwLmNvbTBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1
+AOJpS64m6OlACeiGG7Y7g9Q+5/50iPukjyiTAZ3d8dv+AAABaPQakFwAAAQDAEYw
+RAIgMHI1bmKO9or/NU+V9tTv3KDn/pFrqTyRzeJMVbsHdmgCIG2LgwKHG6DUJR7X
+XmcMNioPE6km/WWjY8QxoDqLP52BAHUAKTxRllTIOWW6qlD8WAfUt2+/WHopctyk
+wwz05UVH9HgAAAFo9BqOpAAABAMARjBEAiBwGCsw3TT5IX8UBBA2YcISlUW+8tmw
+XPEYo6raqt8d9wIgSjF8qQZtn9aH1lS5MlLQ8G0C+0rwtuXQ2JD3xHm4qgswDQYJ
+KoZIhvcNAQELBQADggEBAEeOo2bBaRF+BLnUoRU6TYT3DxaNNwFi9fy1/CVJGzZN
+p2ju7G3bh9l89cUen6/qNo/vjHIH1W8ok4EKhpCeUNzgRCi5ofijM+2+x6Ef/3ph
+7BnDUNGhmIe3RTUAdfvXXDUTbuXw7uvOSMdMBmYCzSdPqAT4H7flMba0HKPLiMfL
+gu2LfD/Hg8Z3FHfahGpjSea/vGlV2mlKJ9gcMUUKbpwJHHMSgCyDqazNozgF4nXA
+R1oktbS7fHz5VaJSOmrpAY24zJOpN8P41OejycyXIWZGsv2E3iBfLiYvyrVmlfl/
+X6Fyxe8lt9C7J/zeGB+1qmPNNjlbNcrv3uLKOEIBTHU=
+-----END CERTIFICATE-----
+subject=CN = askpantip.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3355 bytes and written 451 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 57B729BE6E49DC84227D4C2778CE55A28AEF6F971A8BE4C669AFEB96AF09BA7E
+    Session-ID-ctx: 
+    Master-Key: BCF963D734E1B20915906700BBE9109FF989B06819E833F658030EB6CA0D7B61A205262D53468989E83415FB6C022964
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 39 46 98 ec 5e 4c db 9e-82 e5 6d 62 55 cd 8f c8   9F..^L....mbU...
+    0010 - 2f 7f 8d 2b 0b 4c c8 2e-31 0d 6a 6d d9 8b 5d 39   /..+.L..1.jm..]9
+    0020 - c7 32 2c 0e 74 5d cc 36-c7 dc 4f f2 b6 49 3d bf   .2,.t].6..O..I=.
+    0030 - 95 15 89 6d 9c 0d 6b 5d-5c a9 65 d9 3a dd c1 33   ...m..k]\.e.:..3
+    0040 - 99 64 4c 86 22 38 d2 5e-c8 8e 8e 9e 3d 2d 81 ac   .dL."8.^....=-..
+    0050 - db 16 1d 85 e8 33 94 61-13 25 97 6b 56 57 62 53   .....3.a.%.kVWbS
+    0060 - 37 68 d4 62 da 8c 8d 08-8b 48 d1 6f 5b 06 25 35   7h.b.....H.o[.%5
+    0070 - 96 f2 61 e5 8c 3d a8 33-9d ad 7e 1b f3 a3 d1 a2   ..a..=.3..~.....
+    0080 - eb 21 c3 c4 2c 91 09 9a-be 77 67 65 35 4d 77 de   .!..,....wge5Mw.
+    0090 - 7d 7e 13 9e 18 01 5e 23-78 9e 15 2d 90 91 e4 ca   }~....^#x..-....
+    00a0 - 01 65 1e 40 96 48 b9 63-63 54 b1 72 03 e2 66 d4   .e.@.H.ccT.r..f.
+    00b0 - d2 f6 1a de c6 2e 06 57-45 78 cb 24 75 fc 55 8d   .......WEx.$u.U.
+    00c0 - 65 cc 6d 5e 4d a8 12 54-4e 29 64 96 8a 99 9d bd   e.m^M..TN)d.....
+
+    Start Time: 1554210017
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

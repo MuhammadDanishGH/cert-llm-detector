@@ -1,0 +1,97 @@
+http://bokwei.net/wizard.com.sg/ftpadmin/verification
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bokwei.net
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGczCCBVugAwIBAgISAyuaDnZMjwRO9YF9xjlwj1ssMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MzExMDA5MzZaFw0x
+OTEwMjkxMDA5MzZaMBUxEzARBgNVBAMTCmJva3dlaS5uZXQwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDWX3LBctgpGQusoaS3yNOXGN7PtCzTGx1Pls62
+RRa8W6PyLEKaP0VMxBc/2CmBQvo71meIlZEXQcrOKXrR6rEwaMYQPHgQL1DeV3Wo
+lDTbydt0ODIdgymHJ7h9isjWTgCbxIkrksb6xAadMdLeWKIx9vpXhj4+hbEvbEfw
+90AIbPnMVpqQgV0R+etEf83rw2QHYVQI/hvTy5mqECTFr8MVQ3i2Docas6ZvIVTa
+r5yeDAyuAuHttmEFXqKlURxHEfceihzY/l4tSh0OMzVGlxWB6awLrOZErz3d3DSd
+gmRWT5aC5iuzf6NiAqo+AmGNt0hF3CtktGWXorH8Ab4fuH0/AgMBAAGjggOGMIID
+gjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFAS0kEqdkNorvkhDegjDEC1wgCWDMB8G
+A1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAu
+BggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAv
+BggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8w
+ggE5BgNVHREEggEwMIIBLIIXYXV0b2Rpc2NvdmVyLmJva3dlaS5jb22CF2F1dG9k
+aXNjb3Zlci5ib2t3ZWkubmV0ghFib2t3ZWkuYm9rd2VpLm5ldIIKYm9rd2VpLmNv
+bYIKYm9rd2VpLm5ldIIRY3BhbmVsLmJva3dlaS5jb22CEWNwYW5lbC5ib2t3ZWku
+bmV0gg9tYWlsLmJva3dlaS5jb22CD21haWwuYm9rd2VpLm5ldIISd2ViZGlzay5i
+b2t3ZWkuY29tghJ3ZWJkaXNrLmJva3dlaS5uZXSCEndlYm1haWwuYm9rd2VpLmNv
+bYISd2VibWFpbC5ib2t3ZWkubmV0ghV3d3cuYm9rd2VpLmJva3dlaS5uZXSCDnd3
+dy5ib2t3ZWkuY29tgg53d3cuYm9rd2VpLm5ldDBMBgNVHSAERTBDMAgGBmeBDAEC
+ATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNl
+bmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2AHR+2oMxrTMQkSGc
+ziVPQnDCv/1eQiAIxjc1eeYQe8xWAAABbEe4mo4AAAQDAEcwRQIgFjcH8jhXofto
+7JW20N+WBK/49lrRKh4pHw6TmaX+FdYCIQD9dd9gqd2Js6TWhEhl7YRWr3UkbYM5
+fAvnayp7wUNvXAB3AGPy283oO8wszwtyhCdXazOkjWF3j711pjixx2hUS9iNAAAB
+bEe4mn4AAAQDAEgwRgIhAMFO1gDYCcFvKsm3b82yjnKbnjc7dYG65gwoMo3ncGCw
+AiEA82kc3wmJjmlPEsTWHHkUILxxXYihvhc9N+bDOJuAb9YwDQYJKoZIhvcNAQEL
+BQADggEBADaFIlUlnKlScBepnl9oxx7sLpBDElt8FEeMC1vHN/73zlcuSGzBv2AH
+8a9v01jm68ocpwVEkTRpFbt2TZ2aN1n4tly1QAVtcahKje8zKcA7SPH/0D7fEvvp
+3AP72as4rw1QDJaT0Trjf3ZdjvAIEUA8Mj2sgUiFuDvs0C8wlC8UslHx7AljwiW1
+hgAKb7zoBPB81C7fc2nqLZfmYdwHRilQD4j5WFQwwt/epQ2prZ6X1CiBttJ2d7PO
+9y2utUdnc86iU6Uq63ed0od7lTw1EW3csRGxDagfFbG9WzzUltECLeD8wK5ZwCci
+dQZhrUrTZsR4WVgd4cEPeB89KhkG9rI=
+-----END CERTIFICATE-----
+subject=CN = bokwei.net
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3538 bytes and written 448 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DA0BCDB5EF0884B9120A42B5ABCC31757CE813BE0ACD363BF20B1237AFFFBF85
+    Session-ID-ctx: 
+    Master-Key: 54E98211AECBD7A197534DE609C2DC5F8CD37020319BC99DAF20F5C3E99A1532B12634D8BF4A88EED2D53039AA106595
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 39 4c a2 7a f9 a2 ea a8-23 6c 5e 6e 01 a1 4a d7   9L.z....#l^n..J.
+    0010 - 50 e9 da 10 cc 36 8e 38-b4 f3 82 d0 4a d4 1f 06   P....6.8....J...
+    0020 - af 51 47 64 b8 c8 68 c8-39 80 90 b3 c0 43 ec 7e   .QGd..h.9....C.~
+    0030 - 86 bf 94 08 2b 3c 0a 30-15 34 9c 24 77 2e b6 c3   ....+<.0.4.$w...
+    0040 - 12 48 35 1e bd a0 cd 4e-55 bf 65 40 30 6e c1 08   .H5....NU.e@0n..
+    0050 - d9 fd 70 5f 14 bb 8f 9a-79 33 b4 33 52 27 a4 e5   ..p_....y3.3R'..
+    0060 - 20 28 f0 d0 40 18 ad be-ce f8 89 c7 d6 48 c7 82    (..@........H..
+    0070 - d8 b1 55 fb 70 61 b4 05-0a 24 4a a2 88 8a 5e cb   ..U.pa...$J...^.
+    0080 - 13 a7 94 d1 a8 50 51 cc-99 2b 3a 23 ce ea 6d bb   .....PQ..+:#..m.
+    0090 - f5 06 77 a4 9f 16 c4 a1-80 f5 d1 0e 5a 71 1f 8a   ..w.........Zq..
+    00a0 - 86 a3 a6 24 3e af 0e 42-68 57 a2 ec 28 c6 96 92   ...$>..BhW..(...
+    00b0 - cb 85 e1 4f a0 b6 0e 01-8f 6a fb 9c e5 78 f1 55   ...O.....j...x.U
+    00c0 - 88 40 4b 27 e8 c9 38 92-a3 3a 31 e2 a1 59 2a 56   .@K'..8..:1..Y*V
+
+    Start Time: 1568379630
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

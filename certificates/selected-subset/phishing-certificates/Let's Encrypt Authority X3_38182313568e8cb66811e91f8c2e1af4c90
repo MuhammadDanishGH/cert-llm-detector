@@ -1,0 +1,93 @@
+https://dluk-uk.com/online.americanexpress.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = dluk-uk.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFrTCCBJWgAwIBAgISA4GCMTVo6MtmgR6R+MLhr0yQMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MDIwMDAxMjVaFw0x
+OTA5MzAwMDAxMjVaMBYxFDASBgNVBAMTC2RsdWstdWsuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2h0689atMEoTafNdmkIo1H34oK5nl6oEXLVk
+bK6n+8TIITM2akLz/JEx6/Epi35nbKlm+/CNgOYE/yXgoIvl3hJ80wXzlyJKLzBy
+fhcxRKQpJoyCBCS5PMAKSmctJvaYj5RPOZFSgfdzLuNkij/iX7SjF/Ho8o0u5Xvv
+NGEdtpJEcOo0phXxKWTEiCEYq+zrR0Z1gH2hDbrAP48opoltiYP5Y/BONQNo74Gu
+wRg4VlyWGCvYQSzyDh7eE9CGbtZ8mcw6JbhRP75WTGZpv7gKl7NhBpKwsy/9ERsn
+ltqVORclH0tD9Z/sakiCzbLt/xP42Weh7u+rcS+rgeTzr1DzAwIDAQABo4ICvzCC
+ArswDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBR3ZPGD98E2OopGgT9UwH8EGVaX2jAf
+BgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRjMGEw
+LgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5vcmcw
+LwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5vcmcv
+MHcGA1UdEQRwMG6CEmNwYW5lbC5kbHVrLXVrLmNvbYILZGx1ay11ay5jb22CEG1h
+aWwuZGx1ay11ay5jb22CE3dlYmRpc2suZGx1ay11ay5jb22CE3dlYm1haWwuZGx1
+ay11ay5jb22CD3d3dy5kbHVrLXVrLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3
+BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNy
+eXB0Lm9yZzCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1AOJpS64m6OlACeiGG7Y7
+g9Q+5/50iPukjyiTAZ3d8dv+AAABa7AzX5EAAAQDAEYwRAIgK7HMgyYQZZUiSyS7
+3ueRwkYZKIgNZbRZSHVnBu+efMgCIGkjyq7AD/S8QUV9g5YI8NA4uN3EPfh8Fdpl
+2tmTVai5AHUAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFrsDNf
+swAABAMARjBEAiBh8ZpmdcJdXwELlqSU6aUbUoeg9q96e29TXfMNNqGsqwIgdu8m
+6YBYS/SU9VQEL9bTojLKcdOeQpQhG4Tkk6UmlQswDQYJKoZIhvcNAQELBQADggEB
+AJUNC+XqTZcdora1yHppsuVVGC9aiKY9KtelMDGqlNpMcMguvIMowHN4d/MTIlj7
+03MmBKe1rj4ZXGtvDWu7zU7pPc8AwBPSMpE8rP3/rntMED1AUH/5+5uH1yTYwolv
+VhA9GntrEARUSb9bPClNyewaZekodWIvmkqHwwpFCyWb6vZJRoDDqlcvlhKb6zJl
+2s7QAq5rOIrpD4SX0rB3VHeO5AIK4qU0cFa4rAxm5PxwUJtvINYOLcThxmez6Yim
+fObnntA3uLfofyBiIV5baX2HmKfOqb+18TEc/G661fFU8/8smjE6LO0vgxMt+QEi
+1d5yg4kcio2BO9SMBYLkYow=
+-----END CERTIFICATE-----
+subject=CN = dluk-uk.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3340 bytes and written 449 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DB2A53BFDFD90D3A3C3561C2655F9D047BF722BA6633A5FE01B2D3D775B19549
+    Session-ID-ctx: 
+    Master-Key: 35B296CD57D48295B26BC44335E8497B5738B34F3BFDA336CB2178073442CBF98C9680E625541F74BE2B06FC10FFDB04
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 8a 46 11 c6 79 c4 19 c7-f4 df d9 d2 e7 1a 0a bb   .F..y...........
+    0010 - b4 42 04 a4 5a 1a 56 72-c5 88 11 4e 46 2b 24 5f   .B..Z.Vr...NF+$_
+    0020 - 0e c0 89 e0 5a 79 10 81-45 82 c2 0b 3c 3f 1c b1   ....Zy..E...<?..
+    0030 - b8 b1 d5 01 19 19 9b 79-db 8d f8 b9 96 eb 38 6a   .......y......8j
+    0040 - d1 ed 4e 57 20 3d 07 0b-3c a6 79 cc 56 ce d5 59   ..NW =..<.y.V..Y
+    0050 - c0 55 f9 b7 9c cd bd b3-f9 45 c3 8d f3 6c dc 61   .U.......E...l.a
+    0060 - 97 66 b0 fe 9e 5b ff f9-eb cc 45 2b 4d b0 d6 78   .f...[....E+M..x
+    0070 - 92 62 93 4c ff ee 5a 3b-08 bd bb 00 aa fa 8c 47   .b.L..Z;.......G
+    0080 - 14 06 ab 76 95 53 50 f2-37 95 96 c2 9d cf d6 64   ...v.SP.7......d
+    0090 - b3 84 d3 f5 eb 70 f3 0d-84 13 93 71 cb 20 15 31   .....p.....q. .1
+    00a0 - f8 49 fd 2a d5 17 72 d2-f5 20 46 09 90 a3 95 ef   .I.*..r.. F.....
+    00b0 - 36 14 63 ef 2c bb f8 ec-d2 07 d4 e7 7b 25 c0 da   6.c.,.......{%..
+    00c0 - fd 49 ba f2 e6 1d e8 0f-55 e3 96 9a d4 0d a0 5c   .I......U......\
+
+    Start Time: 1566910839
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

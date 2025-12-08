@@ -1,0 +1,74 @@
+http://moneyonlinearn.com/alfacgiapi/dhl/info.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = moneyonlinearn.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG5zCCBc+gAwIBAgIRAO98yxjx8TpvW5sGiQa6eiAwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA4MTIwMDAwMDBaFw0yMTExMTAyMzU5
+NTlaMB0xGzAZBgNVBAMTEm1vbmV5b25saW5lYXJuLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAKgaX85NLZsxdCtCIQR2WAB9F/Vimm+LV8FqDPdn
+bEaTmPmusJH/3XlklddKsJC3oFh5ml6jK50U6Fd/odYQWQVve0icE6qniUOMbK6b
+M96ocUduMQc23ggPh4Q/GC9GuTnAllGnDmzODnf1qENlEV0r7VgoL5Ti00dwLq8n
+I3L44Quvqiu1I4XbL+kp6sUIxdxKwLWbwKBfVvDrrGQMWFhxIr4W+4rmD6Q84yr8
+C6wzzqbzRn4INwnpy+jALSUW98DV410BDMBkHWneufzw3EwPLTN20jtWu6yeffeL
+8VRlNyM3EfwV58ZAV7bYpAkXb5SdScaEKduC06fpIWIpZF8CAwEAAaOCA8swggPH
+MB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBQtKrgf
+2ZD1VZmAnCrj3AYnl/oxCTAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEE
+AbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAI
+BgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5j
+b20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUH
+AQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFu
+ZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0
+cDovL29jc3AuY29tb2RvY2EuY29tMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA
+fT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7Oh0TBgAABAMARzBF
+AiEAmIt2iyOJ775qZwfsrEAf7KrgEMZoTrLjWmNfFmIUgIUCICuGrHp7Cn6OscTV
+EGVoi2PlYlBddZdEZ8za+YGMH59lAHYARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1
+P9MzlrW2gagAAAF7Oh0SyQAABAMARzBFAiA9Tu0XvJHg//mQvDeLXWhTEUjrm/TL
+3dA8dgDnXQywzAIhAJdGa0QO89UpKAqfPEhSQuHEUZgwxHxPW9oVIWjCAQR2MIIB
+JgYDVR0RBIIBHTCCARmCEm1vbmV5b25saW5lYXJuLmNvbYIZY3BhbmVsLm1vbmV5
+b25saW5lYXJuLmNvbYIeY3BjYWxlbmRhcnMubW9uZXlvbmxpbmVhcm4uY29tgh1j
+cGNvbnRhY3RzLm1vbmV5b25saW5lYXJuLmNvbYIXbWFpbC5tb25leW9ubGluZWFy
+bi5jb22CHW1vbmV5b25saW5lYXJuLmRhbmlzaGFsYW0uY29tghp3ZWJkaXNrLm1v
+bmV5b25saW5lYXJuLmNvbYIad2VibWFpbC5tb25leW9ubGluZWFybi5jb22CFnd3
+dy5tb25leW9ubGluZWFybi5jb22CIXd3dy5tb25leW9ubGluZWFybi5kYW5pc2hh
+bGFtLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEALox7nqMxXW7ny0nopTi9CsFHTg7S
+T1QHytO4c2LpJo9IFLMf9fmHDwoWcMkfiJR48iwnzy40goQBkQUhLvIKhtelYh51
+wKaxrvL6cWSafRT6+K7qnkzb3Ws2nOIanI7Z2acSjZw8+ciRkyJWkIN+mbHKdMtK
+XQC6v0bPyldSOJ1f0Rv5BKEdalQpomnl0ZjhcOezz9ltMwQXs5rZUtovs8b/K4zA
+Z4MoPcz34/UpfgXnFt3LJqRFcW8N2Y4e5CH8o6N/NwOUhLePzmIDGQ7PKbJzEME5
+JYX6p2G3yFBIBJ3HA6a3UH1cFaRzspgiaqHPsN6xqISFQGWb237drjd5yg==
+-----END CERTIFICATE-----
+subject=CN = moneyonlinearn.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5206 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

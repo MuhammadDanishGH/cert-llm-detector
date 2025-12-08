@@ -1,0 +1,92 @@
+https://secure-system.live/ca/cra/directing/www1.royalbank.com/cgi-bin/rbaccess/rbunxcgi/ClientSignin.htm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = secure-system.live
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdjCCBF6gAwIBAgISAyRJOjt1hF4U8TbJZR8DtlYsMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMTAwMzUwNDhaFw0y
+MDAzMDkwMzUwNDhaMB0xGzAZBgNVBAMTEnNlY3VyZS1zeXN0ZW0ubGl2ZTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJdWqyJGyLwTIpo8ecbag81wuf56
+mg6faUOuLBOfLuhqqty8V6H46O3A4ufaORQtAQY+Zeq0GfLLHLjrXCG955GHS8fC
+grRC8YEF5kWo7FBJqWq9120WeK2RygmbeGPzg8d9RzJrAcaSqvoSeJmovT5MPAgb
+NQ2fZA7zIJw7HaJ92aHvYe2GEoy7K/92VfB0aUVQCbhPrLclmNju1AjrWxzdDjlz
+wKRqcs0lSvn1/DU5vYic3HIcjDH20RXH3lMtXwBpYtoGAiRFzgLQJtLNdY3TpRGI
+fgCr7udbKfWpTVMXXKGxUtJmxdA1TaVn4ltL/obuCdE/CQxv+gFWNToxxGUCAwEA
+AaOCAoEwggJ9MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUHHCFMG67GJdgw11CV/F1
+PuoKu0EwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzA1BgNVHREELjAsghJzZWN1cmUtc3lzdGVtLmxpdmWCFnd3dy5zZWN1
+cmUtc3lzdGVtLmxpdmUwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMB
+AQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEG
+BgorBgEEAdZ5AgQCBIH3BIH0APIAdwDwlaRZ8gDRgkAQLS+TiI6tS/4dR+OZ4dA0
+prCoqo6ycwAAAW7uJT6qAAAEAwBIMEYCIQCYrAFrSthqlr0N/wTlh/GnClOIN7V5
+la1Ygqdeak+HqgIhAPPiqSSAb0gP+5wl9g59VL9VPKa9UKvfdh1UQOZrPJ1NAHcA
+sh4FzIuizYogTodm+Su5iiUgZ2va+nDnsklTLe+LkF4AAAFu7iU+pAAABAMASDBG
+AiEAjKrrhSdCYSQtwY5YnpoHlhedB/qjo5Yy3YXsfOUPAqYCIQCdc89/ZHrEC7L7
+ANiHZcdWc6Da7sm4tKAJJHx2/8N5PDANBgkqhkiG9w0BAQsFAAOCAQEAk/+/vUqg
+YE9+MY2HYoBgf5vXIA63s28eqoKwAFw9iQux1aFB4kPRwVyn25INbgrlN1d5Z3oe
+iiTfFhDfE7eYf54+7UOY5dbnYYE3QnA4F/gWMsC/B4uomMHzMlYK77Pz5bzpceWT
+6f+LooNAVUO2u/p9MSEn0GMmZTHmLDl77WK4XJM7nMXsLIvzcd3LOUxmciBKoWgD
+IPQ9IbYLa19pyfxhhMeR6t2hAhPJkdKltwqRwS2ns/vKsIwnIjx0/f5xs7UkomJU
+m7rTJwbMqZwHdrI8UKboF4gMslFV3Ht+Fm3BYTGLv8u5o5Ytqnu4pYcLgTywUXTW
+Z8e9peShw3x7dg==
+-----END CERTIFICATE-----
+subject=CN = secure-system.live
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3285 bytes and written 456 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 1C5292FFC4C82C489E2DB83EB38BC3C978074C6360E3816472289863C0E34E76
+    Session-ID-ctx: 
+    Master-Key: 4B17906AB8567940FC47A8F3A25D59FAC766259A7EA00E1B4667B1EFCA6A902401B49E8C0BF73F7275D545DA677CA1D8
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 61 b2 c4 67 8a 0d 28 54-9a 07 f6 e4 86 84 49 9f   a..g..(T......I.
+    0010 - 16 18 f9 7a f2 0f c6 27-98 82 0d 55 ec 5a ca 3d   ...z...'...U.Z.=
+    0020 - ca 34 a7 8f 04 45 21 5e-07 8f 81 cf 35 ac 16 5c   .4...E!^....5..\
+    0030 - e0 e5 11 48 66 c6 5d d9-a1 18 ce 90 6e 41 f3 97   ...Hf.].....nA..
+    0040 - 51 51 88 26 6c 5a 79 0d-48 a5 26 10 bb 1d bc 07   QQ.&lZy.H.&.....
+    0050 - f5 c6 d7 9c c2 ed 84 2f-9c d4 52 fc 26 91 a0 c1   ......./..R.&...
+    0060 - 29 1d 9f 80 6b aa f0 47-11 96 a6 43 7d e5 3d 25   )...k..G...C}.=%
+    0070 - 42 a5 21 f3 9c a3 1a b7-c5 05 0d 48 e6 46 2c cf   B.!........H.F,.
+    0080 - d3 ee e7 f2 28 cd 41 0c-a7 fe 0f 4a 6b c5 8a 80   ....(.A....Jk...
+    0090 - e0 65 81 8b 3f cb a8 93-77 48 e6 1c 39 7a 4c 33   .e..?...wH..9zL3
+    00a0 - d8 68 f9 7b d6 53 dd fe-1f c3 03 28 10 a9 4d 3a   .h.{.S.....(..M:
+    00b0 - 3f 26 bc f0 dc 8e bc d9-00 cd 97 4c c0 55 b2 cd   ?&.........L.U..
+    00c0 - 86 9e 3d ff c3 17 c9 f5-fd f2 19 74 49 8b f5 79   ..=........tI..y
+
+    Start Time: 1576072831
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

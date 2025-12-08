@@ -1,0 +1,65 @@
+https://cabinet-nadir.fr/me0d9th/docusign/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cabinet-nadir.fr
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPDCCBCSgAwIBAgISBJ0iH3x34ZBCIT4baJgDMJVOMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MDkyMzU4MjdaFw0yMTExMDcyMzU4MjVaMBsxGTAXBgNVBAMT
+EGNhYmluZXQtbmFkaXIuZnIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDGEm7sfkWJ4AV/XX2LCp0BHSx+Zj6gKCIiS++jQ3fYBidC+UrAK7H04jkz0IuP
+YchyhpQeAhSc2J3MYBCEIEXe1T46+vD34BjPMV6EmpZ8a4M5pFNUtFqNfE+9f8WQ
+eHBgVSQSVbmb+jPe2iiabekLJoJ8UKprSJyGq/sVbnVLyxvvBgDgFXDpDV7t6uTZ
++wxrsHGR94TiCUvNyE24yNo1MMQIRdb8PV4ilWjKOMk4TZBRIthOzUNc1n0JQSzF
+m/fht9XTRr1kUYY4uwxq1UQ7pwA3zMxtIZ3UfdLArdbAWqSAGI1BvTRHAKshqXc4
+LxUP2mRO4gYvn10NjMisiWzzAgMBAAGjggJhMIICXTAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFLUUydc45xloKb4TKMK2m7zlYBJlMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMDEGA1UdEQQqMCiCEGNhYmluZXQtbmFkaXIuZnKCFHd3dy5jYWJpbmV0LW5h
+ZGlyLmZyMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHW
+eQIEAgSB9QSB8gDwAHYAlCC8Ho7VjWyIcx+CiyIsDdHaTV5sT5Q9YdtOL1hNosIA
+AAF7LZFh8QAABAMARzBFAiEA2kMYbz9l/a+Jo9NGLhxpEStKPjlubfcKsaBnq9Wt
+l3ECIBk3khbHwLXbYIgds/DNfuwhCVL8FtmR5HDUytjc8kcXAHYA9lyUL9F3MCIU
+VBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF7LZFh3gAABAMARzBFAiEA+rLw+E4p
+DFdlZWwyR0tpYwmNLbwQ+gYQV0S0Y2V8RdwCIG978cMvwLslp541RAgml8+CXMw1
+Fz2FumnSOB7DLjp8MA0GCSqGSIb3DQEBCwUAA4IBAQBYZYo9FqXbMbIv70cCn3bk
+yp8I6VsOCG3/+4mb0WkegsQDShL/6ayonl0SM2sjmMDTd/xMTktez+PXGowAnJXK
+X74/zuEhkbKt44Ycm5tosSzO4I3DyXf5eeWEPCF6ntaUuQI6j6vojBrYPR+6nXIO
+YM9ckRvj7gtU11F+a+uKUuuC7PxiqE1lARoapkWV2ABWMz0pWwjPRg8ZzZ86wt9i
+DULbU4XYwIzpQsN0PNyvXEPOnSBK1n6VqhNVP0iwNpZ5hJGOWwDRP4J0+syrMvkD
+DqwvAHe1fLeu0guPP6rE2u+ip/MGcTBSYZz7GSKRHXanddefjBr8g2JcRx9NUa8p
+-----END CERTIFICATE-----
+subject=CN = cabinet-nadir.fr
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4600 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

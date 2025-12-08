@@ -1,0 +1,94 @@
+https://kedulces.com/directitor/US%20Bank/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:OU = Domain Control Validated, CN = www.kedulces.com
+   i:C = BE, O = GlobalSign nv-sa, CN = AlphaSSL CA - SHA256 - G2
+ 1 s:C = BE, O = GlobalSign nv-sa, CN = AlphaSSL CA - SHA256 - G2
+   i:C = BE, O = GlobalSign nv-sa, OU = Root CA, CN = GlobalSign Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF6DCCBNCgAwIBAgIMCIXo38BowXp5Hu/uMA0GCSqGSIb3DQEBCwUAMEwxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSIwIAYDVQQDExlB
+bHBoYVNTTCBDQSAtIFNIQTI1NiAtIEcyMB4XDTE5MTEyNzIwNTcxNFoXDTIwMTIy
+NzIwNTcxNFowPjEhMB8GA1UECxMYRG9tYWluIENvbnRyb2wgVmFsaWRhdGVkMRkw
+FwYDVQQDDBB3d3cua2VkdWxjZXMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAvDXWboTvgKAFeDjKr8glC7ocUSl03SLJRchAGU1BcMh9O2I0EZqy
+abjNNmJMdQyfvs8mYL+dNw7+oeYrl64146iojDcug+/3U6rTfN4Q31DKbKvIBZ6u
+e7dL0iGuKmrc/0j3wVI4xNB2JJOw/B+oZoyYZ9ifwQ8yJX9zplpjxZZk4hPbaRim
+adNuIOSxPpdtOyxlrIwCruwXzG84m3oj1O7MdBE+oQ55k9ahyg8ncKwVXOtSL4RV
+KL6haAsLvmyCzbUlItRo5hVTWb9+uU55Bm/N/X1sXiraiUZ7QrvxrCGpY4kzYwNh
+pf9edJ42bnz+GlVURu0wmZm8aeaogxROCQIDAQABo4IC1jCCAtIwDgYDVR0PAQH/
+BAQDAgWgMIGJBggrBgEFBQcBAQR9MHswQgYIKwYBBQUHMAKGNmh0dHA6Ly9zZWN1
+cmUyLmFscGhhc3NsLmNvbS9jYWNlcnQvZ3NhbHBoYXNoYTJnMnIxLmNydDA1Bggr
+BgEFBQcwAYYpaHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29tL2dzYWxwaGFzaGEy
+ZzIwVwYDVR0gBFAwTjBCBgorBgEEAaAyAQoKMDQwMgYIKwYBBQUHAgEWJmh0dHBz
+Oi8vd3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECATAJBgNV
+HRMEAjAAMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6Ly9jcmwyLmFscGhhc3NsLmNv
+bS9ncy9nc2FscGhhc2hhMmcyLmNybDApBgNVHREEIjAgghB3d3cua2VkdWxjZXMu
+Y29tggxrZWR1bGNlcy5jb20wHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MB8GA1UdIwQYMBaAFPXN1TwIUPlqTzq3l9pWg+Zp0mj3MB0GA1UdDgQWBBQLxYQf
+sLIlOyXieYH7OWuOR5KDlzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB1AG9Tdqwx
+8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABbq6nZncAAAQDAEYwRAIgDClv
+XbrQJ9fqQwFIpqMu9fCgrw2gRJfVMYlEdBvQplUCIHAS0iHs/MfOJ4DQa7s2FDt/
+Z0kzB7Mb7hEIz6Lf97u3AHcA7ku9t3XOYLrhQmkfq+GeZqMPfl+wctiDAMR7iXqo
+/csAAAFurqdmbgAABAMASDBGAiEAiLeJXb/87p3aAAGX5KhR8dVkZccbhNY2kD6h
+1Tj8N3MCIQCEDjAHIqPXDfLW3iBxOUOGAUM8z8NorOBvQnJzwU2ACzANBgkqhkiG
+9w0BAQsFAAOCAQEAAe/j7AEbr+Vj6jj46ZE0rJR43SfgQ/fxPN6A3VMSTeD28r3O
+nf/98MXY1mp+PhLHnNazM/W+i92vlrlrnYKaJpcLLJU3xD8Ka0wWeu/QbAD7DvBk
+XgTTAOgprCGyHN4fFXcW3uYjCDKAGTxTwd7D8L7pdxfti/3AVeC7JxVzaH3TJDtz
+QsrWfVmkfJoWQX6srVJRFkc19UekzwB1Q68EPhZbgKZAIo7SEI1w55QB4xCcQIWw
+9vQi6rZCw0eut+4aFMoVFP0sS/zRIDUYmPYz92fqC6vm6V3wVMLnjl2dgPauTXju
+5yifrOySC/Akb6FE4QCFGKfMQDvS/R0iQje/sg==
+-----END CERTIFICATE-----
+subject=OU = Domain Control Validated, CN = www.kedulces.com
+
+issuer=C = BE, O = GlobalSign nv-sa, CN = AlphaSSL CA - SHA256 - G2
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3330 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 7E8FF7CA7AE59C9A2FAB67E3933E3714CA60F9270E70E25B38428749095E8A8D
+    Session-ID-ctx: 
+    Master-Key: CEE07ACF7FD774DABD627B0920106A2C3D32A53F7A4004020714ADF6E585C8E0458605FAA502E5063FB3AACDD5259696
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 22 23 e6 75 a6 4f 86 a4-1c 1c 12 b7 a2 ed ff 90   "#.u.O..........
+    0010 - 75 9e 7e 66 0a 65 0f d6-48 ca 7f 69 08 d7 b0 c7   u.~f.e..H..i....
+    0020 - 56 6c e0 74 68 ee ea e2-92 15 cd 1a 40 10 c9 8f   Vl.th.......@...
+    0030 - 3a 17 83 fb 33 e4 32 08-45 f5 27 e4 e8 b6 35 43   :...3.2.E.'...5C
+    0040 - fa 71 bb a1 1d 8f 10 35-d1 70 28 1c 95 34 9c 4f   .q.....5.p(..4.O
+    0050 - b1 31 ab 82 61 83 fa 9c-1b 2f a6 3a 09 04 cc e3   .1..a..../.:....
+    0060 - e2 5b 87 7b ba f1 e9 15-fc 00 09 e1 62 d6 b6 46   .[.{........b..F
+    0070 - e3 0d e8 e3 93 f7 96 36-d1 89 89 a0 0d f7 c5 41   .......6.......A
+    0080 - ce 16 bb 1e 00 61 27 ea-75 05 01 43 d9 27 a8 ab   .....a'.u..C.'..
+    0090 - dd 03 a6 aa b4 18 ea 06-2f 7a fd a9 67 79 0f 02   ......../z..gy..
+    00a0 - 88 d0 67 d1 57 7b 07 d4-8e c4 39 6c 73 03 bc 36   ..g.W{....9ls..6
+    00b0 - e6 47 ed ea b5 ee 92 44-25 7b bc b4 5a 52 8b 66   .G.....D%{..ZR.f
+    00c0 - 73 c8 60 2b a0 ed f6 0f-72 27 e2 e3 57 e5 e3 cb   s.`+....r'..W...
+
+    Start Time: 1576245628
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

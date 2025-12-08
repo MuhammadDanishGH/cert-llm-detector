@@ -1,0 +1,72 @@
+http://claimskin-incubator137.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = claimskin-incubator137.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGhDCCBWygAwIBAgISBLaxWUp6dD8cmFShbW+bNhrGMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTgwNDM5MjJaFw0yMjA1MTkwNDM5MjFaMC0xKzApBgNVBAMT
+ImNsYWltc2tpbi1pbmN1YmF0b3IxMzcuZHVja2Rucy5vcmcwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDds7tUuLD3EhvmURKn+9rHovb0JIXrxiF7mU8v
+8WRaOinACXWxmAfzHKz/bwEKOK/mIXDYA9D2ErSNlT4TImVIqvecV5gcP8iWsBDF
+hj0s6qxE+y3iQsF8Z9p8P5Ak+ljc7cN1AaogTUHh6BMWrsV1hqW8QTIP870z3lV/
+RX5Uyi4blz5Uy1YzrVezJhcAt0Dxkwy4/Loj7hx39sZeOWhK5aOhSHoVPKg/TIuA
+aeP6HyG+8iZbc+j3J9K+3K3xZnrvkKL7+Bha52dnfudvC5EGr1v+Dz77MDoL4nH1
+Bq30gza5V/aWG/Qgcynd0ZbtfDOTFv0IUDdb7cgVEqNfbT0hAgMBAAGjggOXMIID
+kzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFJw8/x3N+JBbaMEPszOYy4X1djO7MB8G
+A1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAh
+BggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZo
+dHRwOi8vcjMuaS5sZW5jci5vcmcvMIIBZAYDVR0RBIIBWzCCAVeCImNsYWltc2tp
+bi1pbmN1YmF0b3IxMzcuZHVja2Rucy5vcmeCKWNwYW5lbC5jbGFpbXNraW4taW5j
+dWJhdG9yMTM3LmR1Y2tkbnMub3Jngi5jcGNhbGVuZGFycy5jbGFpbXNraW4taW5j
+dWJhdG9yMTM3LmR1Y2tkbnMub3Jngi1jcGNvbnRhY3RzLmNsYWltc2tpbi1pbmN1
+YmF0b3IxMzcuZHVja2Rucy5vcmeCJ21haWwuY2xhaW1za2luLWluY3ViYXRvcjEz
+Ny5kdWNrZG5zLm9yZ4Iqd2ViZGlzay5jbGFpbXNraW4taW5jdWJhdG9yMTM3LmR1
+Y2tkbnMub3Jngip3ZWJtYWlsLmNsYWltc2tpbi1pbmN1YmF0b3IxMzcuZHVja2Ru
+cy5vcmeCJnd3dy5jbGFpbXNraW4taW5jdWJhdG9yMTM3LmR1Y2tkbnMub3JnMEwG
+A1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEW
+Gmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB
+8wDxAHcA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF/C1eP5QAA
+BAMASDBGAiEAlVnF7NvuNukqr7ROnfjPgObvqSN6oan5+DcAOyZ0EOUCIQCubRxs
+tf4LMXN1GVm2a7pw9UzQ6dTtoSu0al33jOWIggB2AEalVet1+pEgMLWiiWn0830R
+LEF0vv1JuIWr8vxw/m1HAAABfwtXkAoAAAQDAEcwRQIhAJq4a/6p5ArufYLMHwOz
+g+FPDHipz3BOZ9NHE582bMIuAiBUN/5hd7Y0YLRGOGajlHTl3HudRSQ3Kk5ob6m8
+Dk1viTANBgkqhkiG9w0BAQsFAAOCAQEAXsAak6ywmsO3yxFCE2kAAwj16FKYo8Lg
+EgodyH0DYfzEdM54kyc7I71KckP1C+oWwUCtM85qPrDHiRuejUd6gx0ftcq0XDgP
+xqSC6saYSgHqUeWHtP4Y8rMQxipPmGG+jVme4yzupd2g1k1gvfdqq0Bz0JyO/zkq
+OePQDH9fPK5DMftD62XsrFIOCkiE0HlXZZWqfTlopEFDLPuRVkPMvJtYk7/bnlOi
+HAeh9cKFrEfwsh4BCadzJkGY70194hU80sKSZ0IJx8tWufuqjqmGb9g7mxWaWD3C
+gACXuuhWxD5nUOJsY1pFJqTj6n0n/RRNJGugBvNzae2UHYAe9CYMgg==
+-----END CERTIFICATE-----
+subject=CN = claimskin-incubator137.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4928 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

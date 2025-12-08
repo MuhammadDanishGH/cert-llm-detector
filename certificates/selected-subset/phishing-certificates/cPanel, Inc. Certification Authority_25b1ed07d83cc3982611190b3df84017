@@ -1,0 +1,73 @@
+http://epikadvisors.org/90/PDF/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = epikadvisors.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGkDCCBXigAwIBAgIQJbHtB9g8w5gmERkLPfhAFzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDgyNjAwMDAwMFoXDTIxMTEyNDIzNTk1
+OVowGzEZMBcGA1UEAxMQZXBpa2Fkdmlzb3JzLm9yZzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBANERpKVLZ6lRuHIbcY7ZdPewJKSNuqe2wVXHLJxq4oCV
+tK8DOLxvvR0qJk+34cPDSu9vFZDlq6v7HEmlMO5AaZVbv9vKQRXp/JhmIKnHnA69
+hYyupGfsxsmfrzaTUN15SVS9NYKtzNgtSFjjFAuf357BbYAV2qWjDqfRMPV8ZDDt
+u2WsYjc7QHm7yxQzzLeFRvILzjXb7gUaPqVE62+nrcKZUnQNovxN7Q+uHMUisBQf
+rOgvG42FuymAUefNrW2GebFCQxt9xXgZnNTR0GNtjizNwQEG/As2IJiWRfvg5kOw
+GEqMf0uD+zbnjDt4qCKKu7VDVUd2MTkT9DZEwM/kWcMCAwEAAaOCA3cwggNzMB8G
+A1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBSqbpp8K5xq
+BLkfqjyiaVv7PWfOFTAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIx
+AQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZn
+gQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEE
+cTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJ
+bmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDov
+L29jc3AuY29tb2RvY2EuY29tMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAfT7y
++I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7hIiq/gAABAMASDBGAiEA
+1CixlZZEX8gL5WBqw+ch+xEak16nljnOsiTyDnP6eO8CIQD1rSeWEm80WaQ4G3iE
+lIIDfhuT20SueSwHC09+wykxJAB2AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/T
+M5a1toGoAAABe4SIqsQAAAQDAEcwRQIhAOw2bWV1UFs463meMeIOG84R4iylCHng
+EgTNsW+h6JlqAiABZN6pedxBD7UWi7akqOZHgdXuDmKEnyJe7DRIQRZxaTCB0gYD
+VR0RBIHKMIHHghBlcGlrYWR2aXNvcnMub3JnghdjcGFuZWwuZXBpa2Fkdmlzb3Jz
+Lm9yZ4IcY3BjYWxlbmRhcnMuZXBpa2Fkdmlzb3JzLm9yZ4IbY3Bjb250YWN0cy5l
+cGlrYWR2aXNvcnMub3JnghVtYWlsLmVwaWthZHZpc29ycy5vcmeCGHdlYmRpc2su
+ZXBpa2Fkdmlzb3JzLm9yZ4IYd2VibWFpbC5lcGlrYWR2aXNvcnMub3JnghR3d3cu
+ZXBpa2Fkdmlzb3JzLm9yZzANBgkqhkiG9w0BAQsFAAOCAQEAYbXa6F+hwiDEiSBn
+KFu7Fo4WXMmuBwTlv6tYliPXgI4ho4oLLsdskYr0UBlipclQp7JCux2+MTrDmT5l
+EZXf/2c5SjK97kaqmdAU9Ru6+0WCHhCsFDtgkT7rmS+LDuRBFXkY4el0U7Swqfjd
+5Pc1cYWlCzy4WFvaDMqz4b3xSLlyI5AsZ23msSDK8FbeDqr8iHDsL1ZhhbyLLgVr
+bdzhU4c53OhES87lMYWp2HZGjQXvjJusREobqkcVFx+GEcfmtjhyahEop0CbTlwX
+SceTQdpF9QwrE+qJ15lgTn/JRpMbnk9gbk8wnwD4s295uHKcRSu41LH6W7s2YVEA
+hPq8xA==
+-----END CERTIFICATE-----
+subject=CN = epikadvisors.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5189 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,93 @@
+http://alvafreight.com/wp-includes/js/us/delta.com/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = alvafreight.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF7TCCBNWgAwIBAgISBBy8t+2fT8sO5EhaSpQez91zMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMjIxMTQ2MDRaFw0x
+OTA2MjAxMTQ2MDRaMBoxGDAWBgNVBAMTD2FsdmFmcmVpZ2h0LmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAKJNB957JaLxTgtnZlaAZIucdua23T7B
+vz/RJo225t7j6FezH7/Wbe2+GGU5HKdoWVzIjMHHHixZkLDv446avX7syiixnu+X
+SD2w4/8l4t9vliyCSno5I2DaHU3La2SIVvDnLaMqAdhDCcqcIS7GN0uAPh0zYTBX
+ML47idk2jf6Y3xx69IA4NnXQvXQSPf03n9aAWZq4mD0Dn2f1n/3MArFaMC0bN78l
+SBIOMViH7/HEwd4WNKYUIpsqpLNKbUs5vBoWlJl2FxVjuUk5E4tDJqWA4zzT2WSV
+wLowxDQPYZRFmtfrGWX9aic1ZwBil/TdKzzZXLmQHiQHHu84CFKomvkCAwEAAaOC
+AvswggL3MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUpvLL483oBOrnpfRSHf3VFwJb
+UQUwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnLzCBrwYDVR0RBIGnMIGkgg9hbHZhZnJlaWdodC5jb22CHGF1dG9kaXNjb3Zl
+ci5hbHZhZnJlaWdodC5jb22CFmNwYW5lbC5hbHZhZnJlaWdodC5jb22CFG1haWwu
+YWx2YWZyZWlnaHQuY29tghd3ZWJkaXNrLmFsdmFmcmVpZ2h0LmNvbYIXd2VibWFp
+bC5hbHZhZnJlaWdodC5jb22CE3d3dy5hbHZhZnJlaWdodC5jb20wTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgDi
+aUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWmlb9gvAAAEAwBHMEUC
+IGmEU15WHhFEhn66+pQp7emA3PNtgUwlXVy/6v5deZRZAiEAqO+ezsILuBAtKLXP
+lKIzAjdOqndrK9jX17H3K9vo6oUAdwBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4
+scdoVEvYjQAAAWmlb9ggAAAEAwBIMEYCIQD7IiaM9dmqCkf1fAnioBFxqOlJSMym
+XvkeZAblML3DWgIhAKXsFd12fmvEYl7mGBaC2buL3Opiv9nmdiNNtvrTF426MA0G
+CSqGSIb3DQEBCwUAA4IBAQBNJnQtNXt+0zKAWSyM7JCAKpMmNayXo4WQ4dx+S4eT
+Fe5EXP7ZuqLCMpbGuu2xzVMUrBGYcIjvZ/HevF4zpIqd+s4KcNeueqdEFevozRLz
+H3/2sCBSxIXM9vUXEN9vgIIF0abp0Lqdm3FxxTV+XR7q20ofNJ3NOIrJUHyMDmfg
+yZkII6rwxsZApeqQ/CtfX1VTiVHuiKOizgUnEXjufYWRezG+9ulGRRkkPkmfpiHr
+ngfdW8uk+XKphcdKH3M4YEzIg9knYB4KwmMNhu4K08KU3p8/3ZKczWSA3zcRtmzh
+CkCF+tTAiI86Lu34GmYc+EscvUP2z98Y82jxoD6aa3Ob
+-----END CERTIFICATE-----
+subject=CN = alvafreight.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3359 bytes and written 420 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 6B35B6269EEDBA0EFAE7C8BFDD8533EBB9B59538EBEB1C055862F266F8887AFE
+    Session-ID-ctx: 
+    Master-Key: 277C541210E462D6F1D7BC191E0EAE469E8822B12D68D399C8616BFBB7A38BF518B0C20B9EBF31A6F3A8E35BE997B97A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - b0 f2 3f fc 6a 18 64 0b-d5 94 c6 ec 80 8c 73 ba   ..?.j.d.......s.
+    0010 - 69 c4 0c e5 87 9f 5a 92-4d 28 d4 44 1f fb 37 63   i.....Z.M(.D..7c
+    0020 - cf 54 bd f3 27 f7 54 e5-63 c0 1c 78 34 4c e0 0f   .T..'.T.c..x4L..
+    0030 - d4 0a 44 10 ca 21 0c 7e-a7 c0 6b f3 59 13 c3 e7   ..D..!.~..k.Y...
+    0040 - b7 c9 39 ef 64 ce 01 fb-b8 cc a6 f4 ad 6e d8 4f   ..9.d........n.O
+    0050 - c3 38 4a e9 55 f3 eb ec-14 42 8a f2 43 73 79 a4   .8J.U....B..Csy.
+    0060 - d3 50 34 1a 30 25 7d b9-68 36 46 8f b6 4b 11 55   .P4.0%}.h6F..K.U
+    0070 - 4f 6a 2c 0a e3 0c a0 96-b8 1c e3 e5 1a 39 ec 0f   Oj,..........9..
+    0080 - 8f c3 5b 37 ff 2f 17 b3-c4 d6 c0 b9 c7 6f 58 da   ..[7./.......oX.
+    0090 - 3b a2 0a d7 06 5b 0a 95-2b 65 c3 e5 ea ff 41 87   ;....[..+e....A.
+    00a0 - a2 53 3b d2 ef af 7c 59-8b ec 08 27 66 3a c3 60   .S;...|Y...'f:.`
+    00b0 - e1 6b c5 f3 b2 4d e6 01-d3 e7 91 33 0a 47 fc 44   .k...M.....3.G.D
+
+    Start Time: 1558357224
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

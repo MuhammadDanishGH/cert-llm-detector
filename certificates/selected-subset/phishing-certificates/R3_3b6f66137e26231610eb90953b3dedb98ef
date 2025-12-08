@@ -1,0 +1,66 @@
+https://poczta-gbjs.pl-id82262587.xyz
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = poczta-gbjs.pl-id82262587.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYzCCBEugAwIBAgISA7b2YTfiYjFhDrkJU7Pe25jvMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMTkxNTM0NTZaFw0yMjAxMTcxNTM0NTVaMCgxJjAkBgNVBAMT
+HXBvY3p0YS1nYmpzLnBsLWlkODIyNjI1ODcueHl6MIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAlbM+ecvdHSPZ9g//ijsvHhFM0iNxCECBOzNcTup71mt0
+AbXt20XsYgq3Y9aQnJCiheUf2p/hvCudazczBQfvPfaLRd8ADgBhUi25qjWeoBzZ
+FF2Jn8u9yxfv6gXoS2wY+oCPdey70tvOzBqgqGDVC2MH7TnhoqFPskighdK36CzR
+/8c14lGxTLuy3kB6OrhQxo9HKiZbvIHHhArs6PDHOVCshBDnFlewanwA+f7zTHfi
+gfcQTL0h9N4699TlvY9tlpl5CvO5t4yNkusiJlmWwd9ByXUitU/nKJcPSzl/WhVZ
+Sf/WwkNcHlDrKAB8+x2EqIpZdGA+D0jdjwsJsBpotQIDAQABo4ICezCCAncwDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNV
+HRMBAf8EAjAAMB0GA1UdDgQWBBQwALxrRqWqS3GV+mfdXf+qxdh6UzAfBgNVHSME
+GDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYB
+BQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDov
+L3IzLmkubGVuY3Iub3JnLzBLBgNVHREERDBCgh1wb2N6dGEtZ2Jqcy5wbC1pZDgy
+MjYyNTg3Lnh5eoIhd3d3LnBvY3p0YS1nYmpzLnBsLWlkODIyNjI1ODcueHl6MEwG
+A1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEW
+Gmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB
+8gDwAHUARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF8mWfoVAAA
+BAMARjBEAiBvWKl/VPIM8r9EX30F7Q9HsYDKrZw1Tbzen42bBA5B4QIgePtOUMTb
+3f6qM+boQJsEM9qvmeysbrHP8GOT8ggRXQkAdwDfpV6raIJPH2yt7rhfTj5a6s2i
+EqRqXo47EsAgRFwqcwAAAXyZZ+oyAAAEAwBIMEYCIQD5qm5Z/B0zLy8uM5Fr6tGc
+nAY7J+63f+1gdL6Qt9kxPwIhALj5PF86SyKR5Zx71TlcjGlkBaL1TkgljOgdX6P1
+7SE2MA0GCSqGSIb3DQEBCwUAA4IBAQCXK/iVbxsTfQeoZgEXMcRLErR4MREOQ02z
+RA6xfDHaDh7RKFzGDm+tkmklaeOB/ves2HALzWZ469sbTYzbiHoHPyNXIM1deB3A
+KjBKthGMZhzLsTT/EmXM0O59TXLnSGaiRaqkOM09+lzL+nS7RDqrIpaZRnuS/Wgk
+wcjKkxSi2jDtmMuFvel7YpVz8r+UUDn7h/7RyRXbatVJOdPsj8uj/YZRF+qIKaxw
+0dByF50ozeler0D22bYsdZg4NSaLQtYseZlaSyf58zkEcvJpXG+Fj4a7qgbXgabE
+nAjMUXpvocDTvRlG9R288FeXWUXlfaun/ub3Ps6kk2BVgk8fIq9x
+-----END CERTIFICATE-----
+subject=CN = poczta-gbjs.pl-id82262587.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4623 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

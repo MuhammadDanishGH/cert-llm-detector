@@ -1,0 +1,90 @@
+https://planetntf.de/go.php?https://clck.ru/GCbvh
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = planetntf.de
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYzCCBEugAwIBAgISA2l8Tsyg4w4+oMZwlowpyJvXMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MDQwODUyMzdaFw0x
+OTA4MDIwODUyMzdaMBcxFTATBgNVBAMTDHBsYW5ldG50Zi5kZTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBALXXEHQv9P8gP9BsbWRYhNvFX4C+TPQBaOYm
+86CmVkq+tGBx6b0HmEF1oi3QYQC4SGh0DtiPPseUjhlL+CE7tMidFsgK/gUWh2/1
+fXGdvfMjVZplPcfQgRU7lKH9VVE5bFYB84GkmwlK7E3Tfah+CWkiAG9eIEtWt9N+
+pSFIog2aq6glsq9f2Mb4MHYc3fTYNIYHPwSzXABmtZkLbDbvQ6z1LQRDz/oKcG2l
++AawXy7SAadaHYGscBt1R92WWn0Tj3OooTj4+Bka0ERggPYTEKPyPILCRLpKVgTG
+LoYKh5ZHjaOh8wzb1diBFAXXinwf2brPc8ZuHeag90pZczId6M8CAwEAAaOCAnQw
+ggJwMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUm5KHs7xPp/V7eRJMM49/2MtrDH8w
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzApBgNVHREEIjAgggxwbGFuZXRudGYuZGWCEHd3dy5wbGFuZXRudGYuZGUwTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHz
+APEAdgDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWqCQoCsAAAE
+AwBHMEUCIDXnv46fmuGNqU6f3he5/5V1RAmdFIAJ+PyY7RtL/XyLAiEAxZAIKyBz
+HxF2mRyLJZk2bBTZtiWp4zBTFnras4pF/9oAdwApPFGWVMg5ZbqqUPxYB9S3b79Y
+eily3KTDDPTlRUf0eAAAAWqCQoDbAAAEAwBIMEYCIQCegO7uLacJE2UFrUOjUrZM
+aBGALq5AL8on8cMnKInBWwIhAKCZWlpwfgO3FplMXYRu58u/A2HU2CVi9fcnQeKK
+CkH3MA0GCSqGSIb3DQEBCwUAA4IBAQBwSbIsQDVJkObkzHjIyQtyCwqriJdqhIPK
+b2qCqHQcijs3Y+9MbQ0plqspzdUatYxOf2GzW5diAJ1tfs05/Cb7FyyDqiW+Oay5
+cDY3hdmuXOlZJLMVlBZC8eEIXkF4Ad1xpNKpWw8TiG3/ToFEfqZ8if6K9ex3H39A
+/7XBvEnvlckzTPnKDBSdFnf78k1XwvWXzfhT3x05FzKzVTf6I8+KQZasH5NzUb1W
+U/sDKfFSfREI+wia+AODusyaVZZo8jSgdXX//v/w8yQGxnCI0Gd1Xl4MwnRAQrvy
+SlbMWCIY86FUPXI43OC4rnW4gt4Ff4b+oWWr92vHJUfEkC9jNnB2
+-----END CERTIFICATE-----
+subject=CN = planetntf.de
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3250 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 0F562066684F243238B23BDCCFEA7CC52ADCEBEBDED02EFBC0B5B37D2CB3BE80
+    Session-ID-ctx: 
+    Master-Key: 9FFD9EAEF9EDD664BB04BA5E893053249A8F39D9F279E7E22CF6F823586F8D3F229F53FD6E9A107B741651BA38476F46
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 9c 4d e0 9d 99 5c 24 cf-09 81 bc 11 a0 86 5f a7   .M...\$......._.
+    0010 - d7 19 29 8f 78 26 10 ec-40 a5 0e 1f f3 6f 16 cf   ..).x&..@....o..
+    0020 - b3 d1 3c 4b dc bd 6e 66-ff e9 a3 24 02 45 6b 22   ..<K..nf...$.Ek"
+    0030 - 03 80 2b f7 0e 41 c8 d7-13 b7 75 59 41 08 30 eb   ..+..A....uYA.0.
+    0040 - 20 0d cd 6e 6b 05 63 b9-e6 18 c6 92 9c b4 c0 c9    ..nk.c.........
+    0050 - b9 8b 53 16 1e e2 83 35-8f 02 65 d7 5f 8b f4 0e   ..S....5..e._...
+    0060 - bd 53 ad 9f 91 49 36 91-64 54 3f 9c ea e0 33 ae   .S...I6.dT?...3.
+    0070 - 90 b0 9c c3 89 10 99 17-69 99 96 3a e5 30 6d 67   ........i..:.0mg
+    0080 - 80 95 86 cb 9d 92 14 d7-a7 56 18 7e 84 dc d4 f8   .........V.~....
+    0090 - e7 5f 0e 8b 94 42 da e1-18 59 c1 b1 ab 1a 8c 03   ._...B...Y......
+    00a0 - 8c 3e 13 90 95 98 b0 4b-44 fd 7b c6 2a 92 aa 6e   .>.....KD.{.*..n
+    00b0 - 6d bf 71 56 f3 55 86 9e-a8 8d ad d7 f3 91 0f 5a   m.qV.U.........Z
+
+    Start Time: 1558962020
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,69 @@
+http://resultleonz03.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpcalendars.resultleonz03.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF8zCCBNugAwIBAgISBNu7qtfwu8hOHziSsTh4JDhCMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MjUxMzI4MTlaFw0yMTEwMjMxMzI4MTdaMCgxJjAkBgNVBAMT
+HWNwY2FsZW5kYXJzLnJlc3VsdGxlb256MDMuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAzubHyLRabDjjg5ukXFzHnEJaqOE3CfJjZAoZmVUbvn+3
+mhKDJpz0u12LFIFT6dzQZLfb/S2lz5gwQyEfTUc3DE3Dbrw2rugfIQLVoV8u0+2Q
+PfGUJnsx2T5KlKmv1SbN6d8UdIpnACYE/fDq3ejmBPX2P/oup1H87KTLTHuqMY0c
+qLtEKIJ8Wlbx6Y7XcSBlxGBhlxu3WX9Pcc+F8TweO8EpD+vt9q1p6kIO9gI05nWQ
+Rf+T4TQKHnzywUczeKlWWDV/GW3ibRNfR/jc1wx217zujsYtiY37YLF+OcEpi1RC
+Uv+vavp5x7m0ri0NjcuqsVB4xnZLt1Gf0aDlk6mx5QIDAQABo4IDCzCCAwcwDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNV
+HRMBAf8EAjAAMB0GA1UdDgQWBBTHRBeNRi3C5OHbivj2P8Mbu6gUmzAfBgNVHSME
+GDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYB
+BQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDov
+L3IzLmkubGVuY3Iub3JnLzCB2gYDVR0RBIHSMIHPghhjcGFuZWwucmVzdWx0bGVv
+bnowMy5jb22CHWNwY2FsZW5kYXJzLnJlc3VsdGxlb256MDMuY29tghxjcGNvbnRh
+Y3RzLnJlc3VsdGxlb256MDMuY29tghZtYWlsLnJlc3VsdGxlb256MDMuY29tghFy
+ZXN1bHRsZW9uejAzLmNvbYIZd2ViZGlzay5yZXN1bHRsZW9uejAzLmNvbYIZd2Vi
+bWFpbC5yZXN1bHRsZW9uejAzLmNvbYIVd3d3LnJlc3VsdGxlb256MDMuY29tMEwG
+A1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEW
+Gmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB
+8gDwAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAF63hEXQwAA
+BAMARzBFAiEAp0ADtdxeQXkQb/GXCmVLo2Dyj0Xj/BYVUPg3xbld4H8CIA1Ol7zu
+oPNb/XFHLvoLeae/PhQUDw9dLV5oyZXOHG7DAHYAfT7y+I//iFVoJMLAyp5SiXkr
+xQ54CX8uapdomX4i8NcAAAF63hEXOQAABAMARzBFAiBQS2GzE17XTrmRoVcovgq2
+GrvjussUvFdltsM0GQUFIAIhAL5HMt/XYeuPfwgnp80XEVFAgEtyYLoOZGNXXNuc
+w9cPMA0GCSqGSIb3DQEBCwUAA4IBAQCY/OWX8ybFgu10wovqPAA9MA7bD8AeoW4m
+hhx7Hjtxf/z/ODXSvSTTYRsNfYwmQY5cBpoWr8oNeMHijh91LHgI/ChQeCQt9ttG
+4H7JcsNYabsczF4ZW8WkimfRff37RqMyY0s5F0YPgzd8CwqdldoYCj4p93mggELO
+jXxcjVeKvkfJ0vMM0EN9ID+arxgTkIeRPEmEpXSuaZh/eGPcCgesbPGizLn6gjJC
+JHy6v9FgZc9ArJNrmD2Q29aJxOWumiIrt+upIKEz+1IeWLhjx6UKpasHUUt4hvA2
+hYcN3bt+vC2zkWi5sipPTk9iUZNjTggDkBGjUZVmkhSNaFMwDrVS
+-----END CERTIFICATE-----
+subject=CN = cpcalendars.resultleonz03.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4783 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

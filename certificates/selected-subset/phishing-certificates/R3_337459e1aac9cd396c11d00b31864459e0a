@@ -1,0 +1,65 @@
+https://www.aeon-jap.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.aeon-jap.top
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJjCCBA6gAwIBAgISAzdFnhqsnNOWwR0AsxhkRZ4KMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDMxMTEwMjNaFw0yMjAyMDExMTEwMjJaMBsxGTAXBgNVBAMT
+EHd3dy5hZW9uLWphcC50b3AwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQClq2sj0EYRg2BarkMgW/ZfJIu5GTsa0A2dK2RTnik2IaetvWI2ZUd+qjpys31r
+E+vlvxx+j0OLV6d3134wy2iIJT0eyiB3bkCMbM0Wv3X6Ce/zmJXqEQufYh2Q4U+t
+1AKS9lvFjDrwb6T/BqkGP/7pqVexnKFD2Z9+sanY9qQw0uAdCyH5SiwbFLp92Vhb
+QiWxIv3coTKpJooUweR9k3dEuYT0tUUaVGhKY6SZSck2fQ4Z7kanOls6g2DSH4HY
+gpd0UOAY8X9Azu1ff8fYcWDINed/0JTj26ogBpLSZKaWxI80VRjOdVe7aueROZ5H
+uv+M9YYXGnDy9fG9lihaXx8HAgMBAAGjggJLMIICRzAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFIhVf+QGQ7jQG/SzMzfJEPPlQlVqMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMBsGA1UdEQQUMBKCEHd3dy5hZW9uLWphcC50b3AwTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBGpVXrdfqR
+IDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXzltRrZAAAEAwBHMEUCIQCu69Pn
+onONPhsn1emL8KFLgKyZxywWwV8hyqfI9Q+SlgIgZDMsHz2OabI1Cug1D3ZAIXC3
+Lx1OeXmm1VF8AS8aA0wAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZ
+EwAAAXzltRw9AAAEAwBHMEUCICkDGrgNxUe8oG0880fgu0TRO2n57EGPLHmXob9H
+phdEAiEA+FGcBSbMSDlUwy7WiKlbiJJD3uAj/olUan0TXhK3MoAwDQYJKoZIhvcN
+AQELBQADggEBAGyr4jLxfvJYJL4+NVhvD0l7Zu2nfZgrJL8laTmnRKffBRJejcbF
+w1fn7FiUXsAR+Gt4PKzHeqIZnI95SV41nxp5It6FXHitVPIou4nThE+q/DqAAfu1
+5Su0+tEq7itnbefOBLLKmJAgOUyBIAz31JOumc+cq3zHIVoUvQiR8EnELc5M3k+i
+VQpe9ZHpziDLVWOQyuSxTKAu5B60HvHiAd0hhHqdu+SBFxA0ygkz8FNUUdpZUTwT
+WLv6ILaEQEDAqP6JGt3/YNfh79Me1UzSYrapyj9hYjpPo7s3qORrOlIQHYLq/QpQ
+iNUrzrU8Q9DQSKP7s/wGRdHFOjqSEopt77Y=
+-----END CERTIFICATE-----
+subject=CN = www.aeon-jap.top
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4578 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

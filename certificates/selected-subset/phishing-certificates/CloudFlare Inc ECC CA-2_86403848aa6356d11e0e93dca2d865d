@@ -1,0 +1,62 @@
+http://www.xtrixtviptv.com/register-activation.html?token=MEUyMDlGOTRBRDMzNjA2NzM3NDdBMDE4RjA5MDIwNUUsc3RldmUuemFsYWxhc0BlcmVtZWEuY29tLmF1
+----------END URL----------
+CONNECTED(00000004)
+---
+Certificate chain
+ 0 s:C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = sni.cloudflaressl.com
+   i:C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = CloudFlare Inc ECC CA-2
+ 1 s:C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = CloudFlare Inc ECC CA-2
+   i:C = IE, O = Baltimore, OU = CyberTrust, CN = Baltimore CyberTrust Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE7TCCBJOgAwIBAgIQCGQDhIqmNW0R4Ok9yi2GXTAKBggqhkjOPQQDAjBvMQsw
+CQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDVNhbiBGcmFuY2lzY28x
+GTAXBgNVBAoTEENsb3VkRmxhcmUsIEluYy4xIDAeBgNVBAMTF0Nsb3VkRmxhcmUg
+SW5jIEVDQyBDQS0yMB4XDTE4MDkxODAwMDAwMFoXDTE5MDkxODEyMDAwMFowbTEL
+MAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1TYW4gRnJhbmNpc2Nv
+MRkwFwYDVQQKExBDbG91ZEZsYXJlLCBJbmMuMR4wHAYDVQQDExVzbmkuY2xvdWRm
+bGFyZXNzbC5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARfwVuSROB34E0K
+Bz2/p7LAvJWa5m0eZEUaR0RtKciG1gMrrdtoXJuqDSz4FAdCTZDm31v5rUhVhPKV
+TuukC/f+o4IDETCCAw0wHwYDVR0jBBgwFoAUPnQtH89FdQR+P8Cihz5MQ4NRE8Yw
+HQYDVR0OBBYEFPxZCho1EUEtzGgMqcE5j7XxwAg6MEQGA1UdEQQ9MDuCD3h0cml4
+dHZpcHR2LmNvbYIRKi54dHJpeHR2aXB0di5jb22CFXNuaS5jbG91ZGZsYXJlc3Ns
+LmNvbTAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMHkGA1UdHwRyMHAwNqA0oDKGMGh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9D
+bG91ZEZsYXJlSW5jRUNDQ0EyLmNybDA2oDSgMoYwaHR0cDovL2NybDQuZGlnaWNl
+cnQuY29tL0Nsb3VkRmxhcmVJbmNFQ0NDQTIuY3JsMEwGA1UdIARFMEMwNwYJYIZI
+AYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9D
+UFMwCAYGZ4EMAQICMHYGCCsGAQUFBwEBBGowaDAkBggrBgEFBQcwAYYYaHR0cDov
+L29jc3AuZGlnaWNlcnQuY29tMEAGCCsGAQUFBzAChjRodHRwOi8vY2FjZXJ0cy5k
+aWdpY2VydC5jb20vQ2xvdWRGbGFyZUluY0VDQ0NBLTIuY3J0MAwGA1UdEwEB/wQC
+MAAwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwCkuQmQtBhYFIe7E6LMZ3AKPDWY
+BPkb37jjd80OyA3cEAAAAWXrmQvIAAAEAwBIMEYCIQDri/x40PgRDheDsau1J/IH
+6RnJ665V+QkVQVg2BN5yPQIhAIVWo3+dwvuVCSqvpBL+9Ejcd3iNMDx9BuWl6aME
+G4n1AHYAdH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFl65kL6QAA
+BAMARzBFAiEApM6keQ9xlGY2JWOmzN6lIfqqs4Kj23f8bEYHZENWMHcCICABaS8T
+eUi6FXewbOER/uD76wZ5wlfymeB4s2qi7JB6MAoGCCqGSM49BAMCA0gAMEUCIQD7
+xraqPieufF2BgxCI7LRAArGB/RjF6F+zGaXBLNS4QwIgOg0GgHbW2v0Q9nWFTswu
+AO/wi/dD1KzLVGNlC2WJhXU=
+-----END CERTIFICATE-----
+subject=C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = sni.cloudflaressl.com
+
+issuer=C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = CloudFlare Inc ECC CA-2
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2510 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

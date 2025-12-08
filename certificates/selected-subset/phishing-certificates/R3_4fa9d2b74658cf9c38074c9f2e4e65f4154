@@ -1,0 +1,67 @@
+http://amazom.hrmxxc.shop/pc
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amazom.ocxgls.shop
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFkDCCBHigAwIBAgISBPqdK3RljPnDgHTJ8uTmX0FUMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MTUwOTUyMjBaFw0yMTExMTMwOTUyMThaMB0xGzAZBgNVBAMT
+EmFtYXpvbS5vY3hnbHMuc2hvcDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAJM6r8tgoTNpc4XvDJlldLsxp/WcFBJI+a6lMWtb0+lbZpmsv9dKWwiaijfB
+EVfgxX1O1e/xCNbUB6ZRMMRkngDzOzHte45XNPM8IcSrFNxNxKctq02z3gXo5UYw
+3VZMVudb7r1u9aoY/MCJfd71g/b40sUzcR3t5IefoMyuCh2+U5dWeCbZoFdzdaEp
+42kV2svdhatU6MeAkYTXbyytH/FlsoyDMv5M7xNX964Ac2mgy7tP3d3MaW018P0N
+mP/F/vbcDgm61PSZF1M1Io4IWx2YMEGtuXglmqMex+FqCxIIFMxJnMNqW74NL/hG
+rZu8a0psXT0DnQ8gKEhhvcuAMikCAwEAAaOCArMwggKvMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUtWUgYf+bUTzcKy4b5ADaA4e7BKYwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wgYEGA1UdEQR6MHiCEmFtYXpvbS5henJqbWwuc2hvcIISYW1hem9tLmhy
+bXh4Yy5zaG9wghJhbWF6b20ubm51cnF0LnNob3CCEmFtYXpvbS5uc2JocmEuc2hv
+cIISYW1hem9tLm9jeGdscy5zaG9wghJhbWF6b20ub2hqeGNvLnNob3AwTAYDVR0g
+BEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0
+cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEA
+dwB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXtJcOPtAAAEAwBI
+MEYCIQDbqc+2e7EfUTQA2qU71XPvXma+b9NB0pkdZyUaY5bAPwIhALS2DhZR0IIE
+YsJeaygLvs5UI883IDPq2nOyjso3Y5xBAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkC
+wQApBo2yCJo32RMAAAF7SXDkOgAABAMARzBFAiBlJnIqrbot/tthzZ7n48siN9zP
+lW9ZeAoKfhyEERQFwQIhAKfeeHiHXQ9Z3sovUkzZeU/RQPsBtyaaNsO5cqeFc89d
+MA0GCSqGSIb3DQEBCwUAA4IBAQClpO65u7rJUCD6wEcT6qLEsFyOSyr5n91DbjnJ
+w7OOG2+AwQHnz++vtgr95jLSeB1oRJSDmavYR3nv7kXWvdIuhm9wytSBZBW88Kvs
+iRL2PnzBgc3kIU1rRtW3w7UGeQajHeOOMpv+dpLTIG33s7sSGZ7sWMJD0rt6RRuu
+sciZQylIkVJDHeGoKi/B6ZQlxNSudhYCdAp5KPxS851JhPr5C/l1zSb+oGi8xWzF
+NjrKBemAH4RS8tzVaRVebc0tZnxZMQPLFm4sQ1tJm7diMboOnoysPjgMLhaJePQw
+shtB1t3MFiEgHw3ffKKgo+X0kr1idrzv7EwKwmfIWeK9BWgD
+-----END CERTIFICATE-----
+subject=CN = amazom.ocxgls.shop
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4684 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

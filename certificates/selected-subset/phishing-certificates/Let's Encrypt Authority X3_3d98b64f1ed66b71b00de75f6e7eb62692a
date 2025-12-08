@@ -1,0 +1,93 @@
+http://weintek.com.pk/001/2/?email=
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = weintek.com.pk
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF5DCCBMygAwIBAgISA9mLZPHtZrcbAN519ufrYmkqMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAxMjkyMjAzMDFaFw0x
+OTA0MjkyMjAzMDFaMBkxFzAVBgNVBAMTDndlaW50ZWsuY29tLnBrMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4R5n680cijb1Y0QnC0b2yW3r6+ReZ+1W
+wk/nbpQf2vDApwdit6ag0n15kn0pJY05IoU+UYLGykyZqLnouUu3P8iGzAQPi2jn
+Ss6qqy95cwJo32tg8AOfOEiyZGvPnxvmDw2/yh+ceMI4r9VaHazJqYYAKTOV1Mct
+L+2wfKSPcPgMbBtukQK/QZXHD89KLpEfLMwhoQrSu0kDLjJy5oRhApwnHcWtfprg
+qvT3YXqhNGJhouQgDfjwg9959ca5RSSgBy6pydAinahKNOQ3kPCDOglgaidQpqBr
+6kFZzYDhZZ+KnXwYK+wzZl/F6RmIjeN6aY23HYAh0/g/dLoc2lkLNQIDAQABo4IC
+8zCCAu8wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRsBCa16TlOfALl2fQAoMWqZdPm
+yDAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRj
+MGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5v
+cmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5v
+cmcvMIGoBgNVHREEgaAwgZ2CG2F1dG9kaXNjb3Zlci53ZWludGVrLmNvbS5wa4IV
+Y3BhbmVsLndlaW50ZWsuY29tLnBrghNtYWlsLndlaW50ZWsuY29tLnBrghZ3ZWJk
+aXNrLndlaW50ZWsuY29tLnBrghZ3ZWJtYWlsLndlaW50ZWsuY29tLnBrgg53ZWlu
+dGVrLmNvbS5wa4ISd3d3LndlaW50ZWsuY29tLnBrMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcAdH7agzGtMxCR
+IZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFom9oCNQAABAMASDBGAiEAvPeEAbu9
+nFwgZtmNg92XM7GcoCEGMzTbTc4nk+LmfUICIQDroX5qSgCnGOFVm0fTTYCXVvJe
+oZl51yC5o/FHgizDvAB1AGPy283oO8wszwtyhCdXazOkjWF3j711pjixx2hUS9iN
+AAABaJvaADsAAAQDAEYwRAIgIAgw8B8c1a52Od5kA74HNb33YngrdGz9kUN+qdeL
+PXYCIDQLWWO46KFG8bhBl+CWwF1KX1Q5W0+m8K5XoWBrKzWaMA0GCSqGSIb3DQEB
+CwUAA4IBAQBFcpUhyO0KOhNZBcPl/yJB3Dfts+/cX6AzzN6qVbzqwwkbMaF7DnNL
+wa157jNYBjs8NSzyjZQxQaDF/uUXGOLVj82JeG8f94iWvScS5fzyc1jYOcWygu15
+mJD5YYsdL1RcvnjtVCu47TaUg/mF2tMQykpbM7FCnTy6bb6/zC7hN/OLWSyOMmut
+l1R+F/N86cHzSJjaEZcyIaT3DFhr1nDgZZXHz5h9azwLY+wAxo19JyxesHNwsvDg
+7t9tr3iUHdaeMAe/ZQRTTwISXOHk5ERVd0Xxf7CdogeMh0sUI05/jjRRw6tP7zXI
+6mz6xm4RMRSzKhtODIKRjBOK2t1pFrp/
+-----END CERTIFICATE-----
+subject=CN = weintek.com.pk
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3350 bytes and written 419 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: A2C16FBCF3134D1DE0FA4B9ACD92A44872F155CD369B43E4C3EF238510623C3C
+    Session-ID-ctx: 
+    Master-Key: EC3342F1071E63D55AB9F2E3B0CE65627AAD7CD29DFF6C91086F14B61E4BE96A581438E3F5A39AADE651174CCD99F4CB
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 0c bb 5f a9 06 58 40 7f-0b 7e 98 aa bc 1f c4 3a   .._..X@..~.....:
+    0010 - ad d9 58 d6 a4 eb e7 77-43 04 92 fb cb 76 96 19   ..X....wC....v..
+    0020 - 94 3c 8f 36 4c fb 4a cb-0e 0b a2 33 0b 7f 34 d5   .<.6L.J....3..4.
+    0030 - 61 ee e6 2f 6a a1 9a 4b-f6 e2 ca b5 2b c5 11 94   a../j..K....+...
+    0040 - f4 0d 03 1e 53 68 ec b3-4d 40 64 60 e2 d3 3f 41   ....Sh..M@d`..?A
+    0050 - 50 16 ec ba 35 f6 90 59-da 2a cf e2 26 a7 59 71   P...5..Y.*..&.Yq
+    0060 - c4 d3 d9 fd 59 1e c5 12-a3 49 fc f0 48 e5 0b b0   ....Y....I..H...
+    0070 - 62 f8 62 69 fa 3c 27 16-30 18 af a2 27 e1 88 38   b.bi.<'.0...'..8
+    0080 - 1d 2b 61 60 fd aa 71 ac-84 5c 9c c6 5d cd e7 4f   .+a`..q..\..]..O
+    0090 - c3 31 62 e0 e1 aa e4 95-da 33 ea ec 63 7d 5e df   .1b......3..c}^.
+    00a0 - c6 90 33 8f 74 2f 00 b2-1a 8a d0 e8 d2 69 dc cf   ..3.t/.......i..
+    00b0 - d7 90 ff f8 89 88 7a 06-c1 8f 9a c7 d5 32 34 1c   ......z......24.
+
+    Start Time: 1551880816
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

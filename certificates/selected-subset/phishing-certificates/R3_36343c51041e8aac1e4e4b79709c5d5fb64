@@ -1,0 +1,65 @@
+https://captiveborders.com/C.0rxt-Rpo/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = autodiscover.captiveborders.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFiDCCBHCgAwIBAgISA2NDxRBB6KrB5OS3lwnF1ftkMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MDcwNTE4NTVaFw0yMTEyMDYwNTE4NTRaMCoxKDAmBgNVBAMT
+H2F1dG9kaXNjb3Zlci5jYXB0aXZlYm9yZGVycy5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDdrSrMeOMTBzJsFtTIQIuxQF9Nj/EXuA+DL3MNYkx0
+pRruvjv0j6Ysyp59D0EOUHqmKLOdg65/boauNo4wvMqR3LkaFIPf0Q9hwUqsyw4J
+gWUYMTmwVsbMeg0fssbubMfzqJt+FKb24k2B06kVKVoCRFS/N+7NFxRhwD23ep1u
+apLk7FUL7J50IA3tgGLak9Icmg/nyaumTFg4hozuS2MijWXZjYvPxvCYkOGZeP8B
+TBq60I9YPfXwEM5UZ89NVjMSQSt+fRarS6JkURBb67Mq7aenuR/HeJRGDw/4LAu6
+gmmzA5Od9/yi47mHZF54ox1xfpGj8SYvC6DEalo3xeo5AgMBAAGjggKeMIICmjAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwG
+A1UdEwEB/wQCMAAwHQYDVR0OBBYEFEB8ji1hywwN5ixbdlNBV2XQIjtiMB8GA1Ud
+IwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggr
+BgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRw
+Oi8vcjMuaS5sZW5jci5vcmcvMG8GA1UdEQRoMGaCH2F1dG9kaXNjb3Zlci5jYXB0
+aXZlYm9yZGVycy5jb22CEmNhcHRpdmVib3JkZXJzLmNvbYIXbWFpbC5jYXB0aXZl
+Ym9yZGVycy5jb22CFnd3dy5jYXB0aXZlYm9yZGVycy5jb20wTAYDVR0gBEUwQzAI
+BgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nw
+cy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQB9PvL4
+j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXu+6Nb1AAAEAwBGMEQCIDrE
+hSM57PqD5wbB3bKQBM1dgE/xGGg/akjgfvY0OAY+AiBKma/mA/3sSSlHtSO5CjrE
+1Jkjcd0WFAcA7vcaucrBkgB2AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgia
+N9kTAAABe77o1xAAAAQDAEcwRQIgNB2dO1d+eAYM0LfpN7cAgJEIGqSpMYXueER0
+uAaFvfkCIQDn0aAwOw50I9dMiKZDmJRZZkvPunlXWiRedHJx0Lj31TANBgkqhkiG
+9w0BAQsFAAOCAQEACOcnc1ccOyGwOz+aUiZpkLFSNl+HJRDWyW01t9i6BgBI1KxR
+ofsf1GRw+DEuf0xqYZyihMo+UUWYRO22CLVVLOB8zNeCIXzOrFv7rAwev1j4S6vG
+IWKJ1x4Oos9nKItCh5CDQDlfG5MeqwM21j+gXz9pKlhif6d/ThP4aPlebO1cOqTT
+TlbXHbY0ie5LYbmU4J0S6KhPhm351QaUHzqxxL5FJVq7B8rNJcBel/tQgZ1GXun6
+TuelSjdw8TnqeMmeAh2EfcD1a6gTtQwSJZbEVb1BS873T1mTJSmGJVp8G6geMVVw
+N1q5jbNIPIWGHeL5K40+AiAvUmxgHsTfGHZiKg==
+-----END CERTIFICATE-----
+subject=CN = autodiscover.captiveborders.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3291 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

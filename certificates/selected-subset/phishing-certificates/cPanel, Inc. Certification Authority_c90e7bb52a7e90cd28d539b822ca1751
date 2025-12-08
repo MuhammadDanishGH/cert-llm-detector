@@ -1,0 +1,70 @@
+http://restore-access.publicvm.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = restore-access.publicvm.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGETCCBPmgAwIBAgIRAMkOe7UqfpDNKNU5uCLKF1EwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMjAxMTkwMDAwMDBaFw0yMjA0MTkyMzU5
+NTlaMCYxJDAiBgNVBAMTG3Jlc3RvcmUtYWNjZXNzLnB1YmxpY3ZtLmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAPTnnrr+HwKqROw01YRdBvH8/prF
+uy/gBhVMpkHIOEj1NZSlbYjUs1RCAD6QXqR8D2skMRIQIKnIEJN2nSf4H2qsXdFL
+yFdOC/BjG2wS2trYQBZT939uxIuOi6WgZg3nwiPRt5ArTEWvPH72QUwyJbaF3rb5
+9837QjEmDkRMKh8qkl7AWU1Tzu5sk8ULsBA6mEkDnnJ0OraKgYnsWdvi52sQDEL1
+z+w4pyYhMUXAmZU5hqE9x8HHYPsL6okmB68u4DPIWPoWU/XBA+QIfDqjq7BKphpH
+39K/br10djg4hlOckMT/YmNBXW/ILF4JJUd4nZn0DBkTarUKb8eOFpG/fK0CAwEA
+AaOCAuwwggLoMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1Ud
+DgQWBBQwlaNUuU7DhQMywVKtngKkWBDSFTAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0T
+AQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIw
+QDA0BgsrBgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28u
+Y29tL0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5j
+b21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmww
+fQYIKwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2Nh
+LmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEF
+BQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBBgYKKwYBBAHWeQIEAgSB
+9wSB9ADyAHcARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF+c3FG
+oAAABAMASDBGAiEAuE4QxSnjukOnwcjIoN/Dld8AoEIXqkqHzyifbmjp2jICIQCb
+2ka6YcOw2Kr3uqZ6WdA5RoKPGeO/pWJ3dFLjFleSIAB3AEHIyrHfIkZKEMahOglC
+h15OMYsbA+vrS8do8JBilgb2AAABfnNxRmEAAAQDAEgwRgIhALhPXrGoA0PkVwsX
+khOmQ6n+gpRMqdRd+ArDzMSQod+JAiEA4TnC878/OzZ2FDKT6JITMYZ1gs3Aaj1p
+nPcy4u6FmSswRwYDVR0RBEAwPoIbcmVzdG9yZS1hY2Nlc3MucHVibGljdm0uY29t
+gh93d3cucmVzdG9yZS1hY2Nlc3MucHVibGljdm0uY29tMA0GCSqGSIb3DQEBCwUA
+A4IBAQBHrz9gMkKAsAVWFIId0uUgc8ISGsCd6CoUaCvqb8F6wZ/r7z57NhCLZXoI
+fop/OKjQ3EYMofrncR6UeC3GElXfCbtxX1fp0gheI9rMXGumzq3SHXtYRKqn973I
+hmsno5k57cHlQSx67rmX7D30eL6baJ8PU3hlfnGuHxazei7GKIe23QobZ5LZy0pz
+xW6CY6YYV+Q785DOk1oT32nxR+mmmIdn7UPLMDX6o5Ii+fPbAzkHijyLzESDq2g3
+blO6oX2ScAI4UpCnJ5pL3rrwqeOmwtM8dl0QV6u2TdcyE5ia7SKX+TCcIKRVTwPt
+gmSM6ZFrJ1Pn2wE0LeqCasafYXTn
+-----END CERTIFICATE-----
+subject=CN = restore-access.publicvm.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5062 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

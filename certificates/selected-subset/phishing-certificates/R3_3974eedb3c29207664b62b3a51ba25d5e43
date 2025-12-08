@@ -1,0 +1,67 @@
+http://elastic-raman.109-71-253-24.plesk.page/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = elastic-raman.109-71-253-24.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFgDCCBGigAwIBAgISA5dO7bPCkgdmS2KzpRuiXV5DMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDMwMjU4MjJaFw0yMjAyMDEwMjU4MjFaMDExLzAtBgNVBAMT
+JmVsYXN0aWMtcmFtYW4uMTA5LTcxLTI1My0yNC5wbGVzay5wYWdlMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtNxJIqk03YvRhx1Fu9YDAdsSEFp6HA8j
+rnH3QkohOfWfIuFgSLEzyJNb20zvHchKGzSkfQUDsXLOxR9lW7bUUIvyngQTP2kK
+t0MulcphSq7JrAV4SkxP5fmstvq6bKFrzaVlbT2pZ8RIIHEVOJLejwaLsgE+P/8f
+3yb2vr7hGLNJhcQyJBSKOWjD0yea4n9BdH00kroluD6QcEWrL9d3PhNPUt++ewZN
+o0wMe3cEg2M5Z4o1Ue1U08ENCVTvrhKA7RGgWWY3WCw/HTU7LcP7EiWmUT701/xH
+rflLjuQ/fJlqA86ABltVxGzu2ToUQSkIMFLMw9FvWFjfHdJ8VNpBMQIDAQABo4IC
+jzCCAoswDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRqLs8uvvIttyXqMlCsb9SOW1rq
+zTAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJ
+MEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcw
+AoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzBdBgNVHREEVjBUgiZlbGFzdGljLXJh
+bWFuLjEwOS03MS0yNTMtMjQucGxlc2sucGFnZYIqd3d3LmVsYXN0aWMtcmFtYW4u
+MTA5LTcxLTI1My0yNC5wbGVzay5wYWdlMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcG
+CysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5
+cHQub3JnMIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcA36Veq2iCTx9sre64X04+
+WurNohKkal6OOxLAIERcKnMAAAF84/KkEQAABAMASDBGAiEAmXXv6Q43+3Xl6mdI
+nkznn8XPcq2wYMtVy9nCWNT7+XICIQD+PHaJEqY/+Pb0VNpCF9TGxLW47wjqw6KW
+6HrMhtbeQQB3AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfOPy
+pDkAAAQDAEgwRgIhAL2x+q3BIWC2s2aw94m88FB1gzftvjD6Rm770jY+rWR2AiEA
++y9sqczS60d0oL2THmsawGB9qjZOHsXHDaKRhcX6uncwDQYJKoZIhvcNAQELBQAD
+ggEBAIn/Tvll7L+VPRY126VZjeScanRecFogzJ+RqkVxO9BCAiazSOWDVokNUYT9
+prEG2UI0PEbQYgnCZWg6A6utBHRPe+d6Z1gJemLSoawJoDaIO0Ll/fzO5O1E2l3O
+OwBjLGVgeos/E6YtA0NbbkOJgb0P1sMWqLPFvyRGRlANcKMPRCnEw1YBCveOK3Fu
+vtTr8jWOdc6YXs/hApIqpdTH2q60Q93cnTs0L6eC841qR1e0DrVEgu3j0qsmFXmw
+Hi8ukfKdDOzgzdbQ1Rr7GC8CJlGSsTG/CK1Qd7jWpNyswpPRZRUxmNxU68t+Onrr
+/jJ0gM9tASJbOWPhdABPvK1Cg7Q=
+-----END CERTIFICATE-----
+subject=CN = elastic-raman.109-71-253-24.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4668 bytes and written 412 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

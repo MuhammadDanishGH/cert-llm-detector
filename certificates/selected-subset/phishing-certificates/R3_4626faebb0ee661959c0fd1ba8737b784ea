@@ -1,0 +1,65 @@
+https://jp.mercari.minfant.xyz/?u=aHR0cHM6Ly9qcC5tZXJjYXJpLmFjY29sb29wLmxpdmUvcHJvZHVjdHMveXA4d3QuaHRtbA==
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = jp.mercari.minfant.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMDCCBBigAwIBAgISBGJvrrsO5mGVnA/Ruoc3t4TqMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjYwNjA3MDlaFw0yMjA0MjYwNjA3MDhaMCExHzAdBgNVBAMT
+FmpwLm1lcmNhcmkubWluZmFudC54eXowggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQCukGDl9XyDf9NfEESCezTZGQrWYFH2LnxcUqfC1phELBKLz9McgxzN
+HO/ROkia1eduE+4eUL2UC4YWU1RKU1bMR/VbuD+U6eAVtND6dRl5nOF3t3NjMFuu
+0lsrF2WPu33oMIl7EGrpU85UM9vvr2wnDvKNCWmMZWXMR/6S2E8i90CrYQyBvlII
+hofSGBThMWeVpdErjkoaIcrUyTA+fRUF4zhxdU0LcrHL2ia81SIXtoHaRvblqfai
+y5101aMqTj6RBjiSf2XDNjWqyjgODlZFIwAv3cRjIC2I0DQ044QJHGknPf1EQ/bM
+DLsCAwlKTKF5yTdqXbUlyzE8oxQFERoDAgMBAAGjggJPMIICSzAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFAg1JQ2z+o+qutYKdK9LfxmY5WR4MB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMCEGA1UdEQQaMBiCFmpwLm1lcmNhcmkubWluZmFudC54eXowTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggECBgorBgEEAdZ5AgQCBIHzBIHw
+AO4AdQDfpV6raIJPH2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAX6VNapGAAAE
+AwBGMEQCIAxb6iCalh1k/wrl/d42k8/7MNGB07tIjnw1H0XQyKRvAiAleZvZTOks
+GW4sQvXc+fM8lono+6DEtFvyF65sFPHkoQB1AEalVet1+pEgMLWiiWn0830RLEF0
+vv1JuIWr8vxw/m1HAAABfpU1qngAAAQDAEYwRAIgcT4MbH2Rv5dtmrIuLqfUXvBy
+TfeuArPLDs3JpadSvoQCIBIQT7rfjhkypGMiSspt+PCjxi6DSKck9TbzfIYMH0Ht
+MA0GCSqGSIb3DQEBCwUAA4IBAQBbhI+jUReXemVawbzzYKPvphGog0/+0Xi3vtQx
+zQhcPlu1Ff/1Q8UvZ5i6BiDTdQxRY0E8PCsedmeTXVutmMTJOVQaKJvtJK+IHXoU
+apoBbWGjo66DA1TXG2meNVvRi39L+rX3RZ1klMOwSiFOK9wa8eY+zZ8f8sxDyo2/
+4SOlKo3lkPAF1gTCSfJoJ14Y9z0mdbhG1SwFKMI76EIcmMw92A/F4+/CVdl3ytdU
+LbboOVC3iuZnrHvte4tIxTXsQH5j4lUReutlHYhDGXtANhk1cLM5J/aEHP1QfHgv
+AzLNYjijuqClyIyPzPPGZ/LvH7ml8my/fGpkHyCIsEgK+KLK
+-----END CERTIFICATE-----
+subject=CN = jp.mercari.minfant.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4588 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

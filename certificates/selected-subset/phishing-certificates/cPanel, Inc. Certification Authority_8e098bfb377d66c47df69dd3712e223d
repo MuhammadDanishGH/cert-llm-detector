@@ -1,0 +1,75 @@
+https://walletconnectdapps.net/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = walletconnectdapps.net
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHHDCCBgSgAwIBAgIRAI4Ji/s3fWbEffad03EuIj0wDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTEwMDUwMDAwMDBaFw0yMjAxMDMyMzU5
+NTlaMCExHzAdBgNVBAMTFndhbGxldGNvbm5lY3RkYXBwcy5uZXQwggIiMA0GCSqG
+SIb3DQEBAQUAA4ICDwAwggIKAoICAQDG3Fk77xevEFM0iWoE9yElRfF6hi8ZFJTk
+QcPaS0hv5STD/u4O0kQ93R9IlrdPE0KT1J3gTimZxNhrSllN8Ewd0TssGDllNSxb
+icFzCqEhfXy0lvaQ9IJ3hFCrkT5HMMVEpuPU6m1AH6aaHJwlNfs7N1Jn/qyDE4/6
+pP8rEakn3HXAXGS9Xm8ZEdeKeSWnatMg0vYCO1wYHc12Bi7t+JW/w0bjReScva1O
+fZXhQtJbcGtW2mgI3VS9/7qCjqFKW4LgYXFWVMxq1jyQjUSQ0IvVdOixu+0qYHDX
+5vuF+WVIkgak7rqZEKP7GJ9dgj1hQ54oHwAm1QidNf+rDvYyLP0NtTpBpVtISo0r
+oQDPfTzK/NYQ6cOteGlVGBvS28snB9zLojfS3bHlmlbY798eOWaMCG0aiMFm1DtL
+Hx4Fa6Z+N1FD2gvEabfG491HTYfm2Y9QzHrH/XuDVFuImAZ8Rcnx8qADtegB610S
+P46Y+RP+LzB9G/0xIuJivp5qlwLSpCyWsq3MODi2eHGCOuTFCtqwWt7hBL9Ii/Cx
+h3R6/FbDBkVHuXx2QDe4myGHzdz4h1ykNAkOHj8vP8cr7XvZuBe4xbpSLKX70h3G
+ikmv3NkXYwb+1AQzBSHwAqkdw84A6sa5B5s/t7fEbsrn92o6Hml5dO3ntu2UYAIW
+sHaIWESlbwIDAQABo4IC/DCCAvgwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOod
+jh1qx2UwHQYDVR0OBBYEFHOKe/frZw1NfT4llaO9SzYEPp2uMA4GA1UdDwEB/wQE
+AwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBz
+Oi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjto
+dHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0
+aG9yaXR5LmNybDB9BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9j
+cnQuY29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHku
+Y3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEDBgor
+BgEEAdZ5AgQCBIH0BIHxAO8AdQBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8
+cP5tRwAAAXxSO383AAAEAwBGMEQCIAMVB+i28ksAb17iJn5dAzCG7ZvPXgpMZ/H0
+kVC+45dKAiAgycoAIXXeUpPF+AdFRIqPxpA2+qgN+qX4UMG8QaBU9AB2AEHIyrHf
+IkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfFI7fvoAAAQDAEcwRQIgNNlm
+YfJ1RoShawb9F2iWigDcrC0s8JPQm5c7zIGcNA8CIQDvaEQMXbsYdLhcEAO1byfD
+RPZanp4ZwetrkFlFGq59NjBaBgNVHREEUzBRghZ3YWxsZXRjb25uZWN0ZGFwcHMu
+bmV0ghttYWlsLndhbGxldGNvbm5lY3RkYXBwcy5uZXSCGnd3dy53YWxsZXRjb25u
+ZWN0ZGFwcHMubmV0MA0GCSqGSIb3DQEBCwUAA4IBAQB2vH2cL2OLEZCyaQUIO+Zf
+imulou2AkqZl0YFYcxo5gB3P4M0lz2dMNQl+TA+iBffNxy0d+2NNVOmnic1GBYVF
+ElqADedU+/l4PyfZ/UuDXmKnxXSn5zX1/IZ6MM/Xt1qmZkQNHsD231qbeSTgcdT0
+nrsi4U2hHz6pYiN8fBZTIEeI0td67Vfj8FCjNy2mCdU0g7w/JYIvK8PeRNUE2SoR
+0lGshage8L1YfOD4a3wJrpR9b41GumAAwmMDACns/unEDqTCWzsyXu6ZkYwPaQY+
+ca/VYefT3TbZQ/BIyMWZ5VFOtY7pWashnYfaqxd3GydBKc10Se3QA1mEWEy0n2GG
+-----END CERTIFICATE-----
+subject=CN = walletconnectdapps.net
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5499 bytes and written 380 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_CHACHA20_POLY1305_SHA256
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

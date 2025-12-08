@@ -1,0 +1,75 @@
+https://numerosolutions.com.ng/wp-admin/54246453DHL/US/info.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = numerosolutions.com.ng
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG7jCCBdagAwIBAgIQfR+AiPdzrZksrS2LimdNDjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDgyMzAwMDAwMFoXDTIxMTEyMTIzNTk1
+OVowITEfMB0GA1UEAxMWbnVtZXJvc29sdXRpb25zLmNvbS5uZzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBANaWIJa7gbPSh7JP6eYKl9TS4L8tT1fzrRSK
+Rwvt8TTv1NWEgudMMX4jYm9zLs9iUSgr1vhR9OPkSOoULLb2hnRe32BtemGsXAli
+Qbtnp2d0IDhHjftaVaVFMQVnYnVdWyYPz5lLYVWoFRbyECkuFqdXqj/FiafzeJsk
+XpryhdKxAXbDDtwZQls6XFFsGm+yzq+clXGlvbmucKAL4cQyIlvgritjxRhJg/P9
+RUWHnEWa3V4R0ZmveoOQlH2qsD44aF5FXL+/e961LDvb5chZVJdlyKOL/Gc6pI2Q
+FO2I/UghUpa6JZVpjwTfp5j2BrwOpjMsXIJ3v6ZK7wCuSxO1MpMCAwEAAaOCA88w
+ggPLMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBS/
+QjU+8Pu4bYYz/Ospet8E4ku8RDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIw
+ADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0Bgsr
+BgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQ
+UzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYB
+BQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYY
+aHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDx
+AHcAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7cjuxgwAABAMA
+SDBGAiEA69Jre9YihYAPw3nTr73+4AocXNM+piubpnFh+UM05L8CIQDgwY7PN/Tq
+0LtLGeNvLq/OWCZmt+WnwF2/oP6TXbmzXgB2AESUZS6w7s6vxEAH2Kj+KMDa5oK+
+2MsxtT/TM5a1toGoAAABe3I7sVUAAAQDAEcwRQIhAOUYtOFu4BmGafk56a9PjS6r
+FdU46JcOchTCC0hg4GWmAiBtPrdbcH/YqIcD3PQrPOPhsxZL3zoRgUx83xBteQnE
+XjCCASkGA1UdEQSCASAwggEcghZudW1lcm9zb2x1dGlvbnMuY29tLm5ngiNhdXRv
+ZGlzY292ZXIubnVtZXJvc29sdXRpb25zLmNvbS5uZ4IdY3BhbmVsLm51bWVyb3Nv
+bHV0aW9ucy5jb20ubmeCImNwY2FsZW5kYXJzLm51bWVyb3NvbHV0aW9ucy5jb20u
+bmeCIWNwY29udGFjdHMubnVtZXJvc29sdXRpb25zLmNvbS5uZ4IbbWFpbC5udW1l
+cm9zb2x1dGlvbnMuY29tLm5ngh53ZWJkaXNrLm51bWVyb3NvbHV0aW9ucy5jb20u
+bmeCHndlYm1haWwubnVtZXJvc29sdXRpb25zLmNvbS5uZ4Iad3d3Lm51bWVyb3Nv
+bHV0aW9ucy5jb20ubmcwDQYJKoZIhvcNAQELBQADggEBADAa7EesBZ93vWa2TRkm
+2Msdj1ugJFjAYu4J7IYCrVw9R1OXIn6eT0ES9Vxogv2H3hMVhHMAXET3w9P+u4Oi
+YhIRrjtY/T09Z8nMSwnRtN2gouvPCkSz4hk5uagFwInrdYWS3FUfWxlNua3Dvln8
+Qj0fTOEyNz1KZluN69QosDEi8yqx356pJ/7o2b4nwcmtmucXzKw8R8e7ZVqIqRKp
+oePiaObnUSAqRBtYh4t0qHSm9s7UI1C91xYqVfZv5eVG+tm8o0BVQ01bUDIToGE5
+BZJVDPYYF3xJanuhLep1fWc5A1rK0eYkji1nl5LwWRRDy+KPEoQIBUBNxx/QSIDN
+5DE=
+-----END CERTIFICATE-----
+subject=CN = numerosolutions.com.ng
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5283 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

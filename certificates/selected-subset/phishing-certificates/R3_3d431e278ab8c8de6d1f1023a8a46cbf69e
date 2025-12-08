@@ -1,0 +1,96 @@
+http://www.bw-kso-online.bressler.info/so/94f8f2b1b47f85c/Secure.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.bw-kso-online.bressler.info
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:CN = www.bw-kso-online.bressler.info
+   i:C = US, O = Let's Encrypt, CN = R3
+ 2 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 3 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYzCCBEugAwIBAgISA9Qx4nirjI3m0fECOopGy/aeMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDExMzE4MzRaFw0yMjAxMzAxMzE4MzNaMCoxKDAmBgNVBAMT
+H3d3dy5idy1rc28tb25saW5lLmJyZXNzbGVyLmluZm8wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCb1JSi3HzXlDnPztWxmztehQuNEQ2mbvdiJh/bMcGE
+6bjRk218DSeXIEnHwl+xfe/NuWS6j9U4nlnbR667ZADtCVibruhAlnRRfX9hOEza
+BLRwYcXqg4c9rcJR9LKD2+lfwvxas/CkeKzfSh6v7VeRRIpFOdn2D96/nTPnEuIQ
+u6y6mhvq504iVJNB0oec87cvvbciM/vxDCF/3rtk79qoK1VxmOoSh/RsNJoSqMgz
+oyyWf6EdPS1xql657Ot/M4EvezTtqlGWq4P/kGPwXkX/ebnOe+Oh//glz5G+1rf9
+ZdbQgqBVr/DBpt1OAr+PMNAyHU0eYFVnOid/3tJPKjhrAgMBAAGjggJ5MIICdTAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwG
+A1UdEwEB/wQCMAAwHQYDVR0OBBYEFGn0vNiYx33QJiaiMJP4tCQwETkWMB8GA1Ud
+IwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggr
+BgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRw
+Oi8vcjMuaS5sZW5jci5vcmcvMEcGA1UdEQRAMD6CG2J3LWtzby1vbmxpbmUuYnJl
+c3NsZXIuaW5mb4Ifd3d3LmJ3LWtzby1vbmxpbmUuYnJlc3NsZXIuaW5mbzBMBgNV
+HSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpo
+dHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQYGCisGAQQB1nkCBAIEgfcEgfQA
+8gB3AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABfNvdvm8AAAQD
+AEgwRgIhAJTpPk2Zj04ziuiwR9pseEzZoHCbUUNHqFTesDlqvsd8AiEA9wMsZFk1
+C7hzZ4eMCsdk9n2YA1+43nZtvv6N6AJb4DQAdwBGpVXrdfqRIDC1oolp9PN9ESxB
+dL79SbiFq/L8cP5tRwAAAXzb3b6xAAAEAwBIMEYCIQCvNr3bcqVoaUGQnM7C38q9
+25Ug/cNHUjlD8XrUt56obQIhAJtIaYeZwX00XLa4vJGHRJMAKOPLSZbKk0kDGwOo
+WuPeMA0GCSqGSIb3DQEBCwUAA4IBAQAll8RgLvvi671xqH9X9m2x+BFPeMdqnGmL
+TIX84INwZyQyV+TGa4D5/wscWOfpXJpTPhAs8yDilQrgJA/ubNx5pKCuPd8UuJfO
+lDkPzMzKCGFq3LPT6h+5g9txMJaowMLFr9PCmcDDA0gnJGi3Xce1xw0T197jovhn
+KHpl788ktqmZowxdNJjwLimes73sgeSQWPMwjnLiglAqpsRU3coOiwR0pYNXtEck
+8/Dfiijg+A6t7diALf2lsKfjhqbmm0P3U3A8mOGo3/z+MD/7YqX4bzB99b/xozzP
+f/P91//zNTG/13/V8H//zJ+vRQNC/dyCdkeMVNKxFF7ECiKMFz2S
+-----END CERTIFICATE-----
+subject=CN = www.bw-kso-online.bressler.info
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 6183 bytes and written 451 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 4C631697D190CA9DABD73817702F00B52F31C70C10249923793202F0871CD4D0
+    Session-ID-ctx: 
+    Master-Key: 90EAC583B91E150EB7A32061012DDD3C5F0346F4E1DD601E8F078CABB1060BDB59810CAAD0F4AD996BA81C6143ADDED9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 47 5b f7 04 29 ac 6f eb-ef 9b 04 09 64 b1 31 93   G[..).o.....d.1.
+    0010 - 97 3b c4 b7 b7 80 e5 a7-8b e2 5f 80 66 3d 52 99   .;........_.f=R.
+    0020 - 26 ce f7 9b 1d 67 7b 94-29 fd c0 47 b0 e0 4c 05   &....g{.)..G..L.
+    0030 - 2b c1 a9 46 ba 4a a7 28-2c 42 41 c3 0e 9a d3 95   +..F.J.(,BA.....
+    0040 - 08 c6 58 ba b1 0a 0d bb-d0 55 de ae bf 6b 22 a7   ..X......U...k".
+    0050 - 76 93 ec 4b 92 a0 ae fa-c3 47 a7 01 9a 07 40 e9   v..K.....G....@.
+    0060 - f7 92 11 4b 42 6d 07 b1-9d 67 12 aa 0d dd 20 a0   ...KBm...g.... .
+    0070 - e8 c1 ac 09 f9 ac d6 ae-0d 19 bd f0 aa c6 3f ce   ..............?.
+    0080 - 8e 70 75 e4 0e 75 95 fe-ca c0 a5 dd 1c 38 8b 97   .pu..u.......8..
+    0090 - 39 6f 3a a7 53 2c 80 d1-15 f4 cb 25 cd 38 d7 7c   9o:.S,.....%.8.|
+    00a0 - bb 7e b3 52 74 58 c5 09-39 a1 13 be 78 a2 2d 23   .~.RtX..9...x.-#
+    00b0 - 4e 69 d5 ed f3 5d 94 fc-3d f5 b8 2a 01 da f0 c1   Ni...]..=..*....
+    00c0 - ca 3e 63 c6 d5 f1 d2 3f-98 c5 a1 8f af 6b 14 e4   .>c....?.....k..
+    00d0 - 7c d0 90 6b 58 e8 bc 14-f7 70 b9 0f 3f 6e b6 07   |..kX....p..?n..
+
+    Start Time: 1635802374
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

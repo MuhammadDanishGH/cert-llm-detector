@@ -1,0 +1,65 @@
+http://www.guybosser1.com/mazon/amazon/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.guybosser1.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNjCCBB6gAwIBAgISAxhyasOVYhFY8HvhrApmjD17MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MDYwODUzNDdaFw0yMTExMDQwODUzNDVaMBsxGTAXBgNVBAMM
+ECouZ3V5Ym9zc2VyMS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCvTdas/5EdRdELJUm2qfzrHtyv8Ss0jzqQo5HzWDNT8h+jzsaaSynBEg3nheUZ
+fjQ7LTZfpn15G0jVFukJhVo05s/FaKoWmUfaOanL1Pfx2BmZrS54d49UkRg15RD1
+Xvp/VjDYu9X7rsWB5EqGrI7Mk1kMyKRTsh8j1/MqrERc9xNwiVID3RvwT7Noyh6H
+ZEZV1oPmsD07q0Ht8tRYKLRgzjCDkURWfGJyzf8fbCPzVJvBSMNlZj+AQme8G/b1
+3hWLcal9AVkh7KDl8wK49/poeNQ549WaneUc6Axk43nVg/FVZ0WCBCa7yoanl401
+ooFj4lY+KVs4Wk9l8EsCrVOfAgMBAAGjggJbMIICVzAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFADSSqYIseLwaKY5XBRVc4qnZC1NMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMCsGA1UdEQQkMCKCECouZ3V5Ym9zc2VyMS5jb22CDmd1eWJvc3NlcjEuY29t
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB
+9QSB8gDwAHYAlCC8Ho7VjWyIcx+CiyIsDdHaTV5sT5Q9YdtOL1hNosIAAAF7GuIM
++wAABAMARzBFAiEAwo9ha8ppYRbHlWTU2cDuW1+sW+5UM/1nbRDYqueHHMoCIHdn
+XzvQrB5suyHNGS4IHISXNt9jL8Ljqw/koCJtcOKZAHYAfT7y+I//iFVoJMLAyp5S
+iXkrxQ54CX8uapdomX4i8NcAAAF7GuINJQAABAMARzBFAiEA3lo1jJv03z1bC3pD
+BospLPXk2lVc/isD91phSbggt1gCIB/UECt1JwulQnwg3oV8gkstGTushbvFp3ja
+dc/AqzZcMA0GCSqGSIb3DQEBCwUAA4IBAQAnlJwmNnHEReZpmOBjZOFmVI6teCUJ
+1jALVYM0vMgONmi2tA+JOz86Bu2pKzO/QwYZbemGCDUxxSwYG8c8/iQPi6pL4rUV
+hnpV47rq4QS1m4uu98wjv17uBKUa9d7bjL3bwgNZ6JH6Dgc1cr3dXU0+BMW7b5KC
+Rw5peVTBhW3G9Mk4iOZtKBrtYrrDSKQbBc+F7hupEzFoYe2oQ9D/q9U528qwKw2n
+qPHES/7sIWcS0iQT4dd5gwcQfKhFQClX/wEx6GRdXPpQ+EYUXByoZjc+WsEE8ext
+HwITfDCj2UDqYyAOeXiykALfnF5cEzk/hHv2rBjl6lcL86m5tWBHGjEO
+-----END CERTIFICATE-----
+subject=CN = *.guybosser1.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4594 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

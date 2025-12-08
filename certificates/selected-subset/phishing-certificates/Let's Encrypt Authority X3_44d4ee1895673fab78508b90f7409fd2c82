@@ -1,0 +1,64 @@
+http://www.admpochep.ru/components/com_foxcontact/pdf/adb
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = admpochep.ru
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYjCCBEqgAwIBAgISBE1O4YlWc/q3hQi5D3QJ/SyCMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MjYxMTAxNTNaFw0x
+OTExMjQxMTAxNTNaMBcxFTATBgNVBAMTDGFkbXBvY2hlcC5ydTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAKdFKo7aRUv5HDXijGPOzDuUWJh5xuiqw2ia
+bR7TqmrkXjlO/YqTDKs+lglV/m2kxjVMmcqFgX/x09v3yfsrlaizAuMS8o3xtlgB
+ZXd74vgaOBD8R0lMLbrTujHMvErFlqeSaFxxKNqpCvLkRJJa+UWZWP30B/SBw1aP
+YcDeapvWuQfq0iRZvLOSgovjRLP+3gXwamGl9F0p9GAOAkX1aC4WIs6qwToORnGU
+P8fg4my622v04LUKW/OxGwAot4noAHPvE74IeuimHm91XDD0k4kmEO+MjKYFj3AQ
+H0KYtLBJo8+etjhmvaAg3j3rHqRZB05Zup/alIZ5che7gliDJpECAwEAAaOCAnMw
+ggJvMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUtUBN4sPUfLWF53vNPYzs9bObZ2Aw
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzApBgNVHREEIjAgggxhZG1wb2NoZXAucnWCEHd3dy5hZG1wb2NoZXAucnUwTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHy
+APAAdwBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAWzNzdAoAAAE
+AwBIMEYCIQDMC13Xi4bz40IkIZSSe/jHTKERXxRWwiHwnOgvoyfbIgIhAKSry1nA
+V9dma/XFmf5hCHpn/MlrNNSo6+cgCpFugom6AHUAY/Lbzeg7zCzPC3KEJ1drM6SN
+YXePvXWmOLHHaFRL2I0AAAFszc3QBAAABAMARjBEAiBG3N+7WTPvjUihWrcJRaNY
+As48fD1kuKACAOnevcprtAIgXxwONRdK70yq20dbRpaeM2Mo0ynqT0cxYgbB+EF1
+0XIwDQYJKoZIhvcNAQELBQADggEBAAPBmGYQILbJU4g8r3Qf4tjkUlYKlGMtPNUZ
+bnGHc5gXvVrLj2H4UbPR2jtDpyMnl5QFZsr0fVfpS6LR+Ynsun9pk6GsjG38gOVR
+Ci/xUdPp9IrvPk7WK0iKUwEyu0WvJ2d8iFvL3CfI4fnP99/Tjf309dnulE8LsP7h
+iaEkrKGttDEjO/uJXZosuhHCo4ZgWysVXeAli3RdxSibgpkhLIE/hmx3l85vnguM
+KZ2OVbs8nbfSrT3GZGfcjgk958qxRARxaYQp9CAYPjchxhZykcEd17J/b9I4PUh5
+k7rRd8nxW1zqt2Lf+KH7ETiFNQulSRQlTyStltD95G6AWn++lkI=
+-----END CERTIFICATE-----
+subject=CN = admpochep.ru
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3121 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

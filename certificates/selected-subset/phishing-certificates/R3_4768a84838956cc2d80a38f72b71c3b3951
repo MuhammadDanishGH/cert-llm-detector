@@ -1,0 +1,66 @@
+https://jp-a.casa/r/C9EqPnJ
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amzo.win
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFZTCCBE2gAwIBAgISBHaKhIOJVswtgKOPcrccOzlRMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTcxNDQzMjhaFw0yMjAyMTUxNDQzMjdaMBMxETAPBgNVBAMT
+CGFtem8ud2luMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArPettvOH
+2EjvHccYUuUQyHylmxL6CHLB11JSOjrblfhsre6c61OtG0Nq2aZSVC3uynX40cJq
+5hb830nLgy705K2I2dlJOGPJGgXhNN6HtUE3kQH+q4zlhHJZC5dwX4LB68oaXFwL
+QfC1x9zg8byahYuMO/74j9SsG/DAv3aIMVxpXq1mk3DiCBxAc8ouP8JfJphXWYzG
+sJi4Jm45XLeCcQp33qit4h4OJL6l8yTT4MVVMOiE92jz0L9J4pZPnjxjxcSjham2
+KlzPNLAfEiGrVQqRWLoZ0wRCe4FclTQW1aDSPUpe2Tfb+ajLoHJhQHfaI/170jyX
+B2vaZhwY2ZcoEwIDAQABo4ICkjCCAo4wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTG
+hFl5q3sqNqUIFJGCSe/U3Av3ZjAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+d
+ixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxl
+bmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzBjBgNV
+HREEXDBagglhbXpvLmNhc2GCCGFtem8ud2lugglqcC1hLmNhc2GCCWpwLWEubGl2
+ZYIJanAtYW0ud2luggpqcC1rby5jbHViggtqcC11bmUuY2FzYYIJbWF6by5jYXNh
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB
+9ASB8QDvAHUAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF9LpE4
+DQAABAMARjBEAiAJ3FQU25OInRQymlc6yYJHhxohui6VZuH2t4YrCaRAOQIgYLop
+wBvf/FL4mjE6TRHmp89zpbs0bb427CvPrTEMgKsAdgBvU3asMfAxGdiZAKRRFf93
+FRwR2QLBACkGjbIImjfZEwAAAX0ukTqjAAAEAwBHMEUCIEWWxwLwThbjUgAjHt95
+x9/JWPaOZUKwK8GA0OhnniRHAiEAnPgq5Bl5qTliviNKotZFMxz74oZfay1xbnIH
+7QccxYkwDQYJKoZIhvcNAQELBQADggEBABA+ST55Qd2MlhxZetjEoUMvBhAwJ/eq
+u/6/q8R7LUqKuocXsHFQgCC7zu+0Yt5UeJVUWH2KpyE0MX1mrzWSY7UK9lkz82PA
+jCzhWLJi1yxOngH/roL+YezcxrVpc/U/fDqd5fxhtzMXfnWspFZ1CBfU/JbG6DER
+pu9VoJD+SgPcmwehcERtc/3fvrMdMlYRWBkHrW50giMWU4rfNSyK0Q85fbhO9B0/
+u+dxtTnETKrp4MFTDvR2y2y6pxExb5J5GiICBP4oit8Gff4jggglW1J7NW2walKm
+ahqZl3z+aVG6jOeVxDhNlc4HJl4OFbmQaiZC8RkzGerUAVufROsfdVU=
+-----END CERTIFICATE-----
+subject=CN = amzo.win
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4641 bytes and written 383 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

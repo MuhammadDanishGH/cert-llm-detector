@@ -1,0 +1,65 @@
+http://westonpb.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = westonpb.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLzCCBBegAwIBAgISA1vZ/olJjKy08c7VZI8ihKWGMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjYwMDE1MzRaFw0yMjA0MjYwMDE1MzNaMBcxFTATBgNVBAMT
+DHdlc3RvbnBiLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAN+Q
+Wz+oApQW+YZxtQHGv+Ju0dDm7lMrjEZtVGHWQPyi2hRQHSsj7R1yMFedtAxZpLmz
+ke2cwzm68ySWi5VFytMKkVoPZKr5Hr+98cz9HnmS19Fh6US/TuVjbVqAjCAVS89y
+5d/nwbmkGLmXGWDncDWDG+CYBbupRHiP21eemPjd8vW9j4q49dq8a9wPVuLP9TMb
+5dbyU9zg4uLFX3d+q5oMvzqi2lY7vDuJDUoR58m9wP7sPi80oEUlOi5+BRPgGyNc
+IQLavKZnadvQ46fvHsuae6gH3bKdMA3APtZPVEd538U+EfznQylv+wpMeAF/JLbR
+3WJ7qvn6pMCq+x5JajUCAwEAAaOCAlgwggJUMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQUgACLjRnZFin43CCcU+vm0m8s/gowHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA
+5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMu
+by5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8w
+JwYDVR0RBCAwHoIOKi53ZXN0b25wYi5jb22CDHdlc3RvbnBiLmNvbTBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3
+AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABfpPzyecAAAQDAEgw
+RgIhAN35LVKmlSUl17IfjUCdt1/9q1jVT4iu2KGcy1tQ7WJnAiEAimIffnB4weH7
+ahn7RO7SE8BjA2zhFjoOGWa71Hn4ZnQAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79
+SbiFq/L8cP5tRwAAAX6T88oQAAAEAwBHMEUCIQD6yAHdrtFfVXpPLZ9HSQH9d25I
+3IYVdouaYlSpZQxyKAIgDsTCL0l9rCg+ZF+SH5W8z3ASt+nZjqu6ujEjmkqKyWww
+DQYJKoZIhvcNAQELBQADggEBACVU3K8GfqBvhDlF5Rq4fj1D/eHYd1lsULvqUDGU
+zg39pPbTBXgtfA0zmvX/oiJ1Q6gU9vc17shRJbRkfw25tbSgtxfMtLIknoAY6ekG
+j1vWjCMdZJaqiw2wMao2dpsqeBimiDtTUoens2joVwmlecojXwmaaCp8TISwM3/I
+bYgSw3pgxHxYViG5CTYQWQi24b1eXDC8LWyvLflnsUt3LWqsonMzMXp8/I5PhMkh
+meISKeRf8tiTfyp2mOWAWop0/3Rtwm412Q0drOjHzAe6BHXT7+C+dkdUO1k3WxCt
+KpAkx8GqKFq3Y+tOj7/7NnWeBBryAaoYIMCB1UIjt/0rtJo=
+-----END CERTIFICATE-----
+subject=CN = westonpb.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4517 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,95 @@
+http://conservativebabylon.com/mnsa/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = conservativebabylon.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGBzCCBO+gAwIBAgISA+iQ2Ir9d0ODu//+xqUUyjeTMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAyMjIwMTQzMzhaFw0x
+OTA1MjMwMTQzMzhaMCIxIDAeBgNVBAMTF2NvbnNlcnZhdGl2ZWJhYnlsb24uY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxQHvPfwJDdxsu30Pq2mi
+lVEJR7Rpm4gWnqcj9ROn6T4B32CtNqBSTj0cgejAJr4mgnRAzPol1sJ9mn7PJpSA
+2zKHhkish3jI1nSqXcbdS08GQYkxRoqPLwF7ree7PFnPRb30icvHAkg8YkafNyHx
+EsvKTq22J4A4uuDCHA7kjHF9m+M4+PrC82tokb1XXh/tgRHQX5PXxbywPVbRklfC
+oU8c13jHFTpiYVJU9CwWKkbkg2ey3lhusQW1iL2CdlDwP4s8/jopqNUHdTBYXQ4D
+QRRxx7Kvps/57y8c0WyHGxBqC9HR2ZyQjdm48hpnEgPcqLd9d2TCwr3M7m/5LLbz
+oQIDAQABo4IDDTCCAwkwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTT15WxCFGqOwMq
+IbQSRgXVpsiI5DAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggr
+BgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRz
+ZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRz
+ZW5jcnlwdC5vcmcvMIHBBgNVHREEgbkwgbaCF2NvbnNlcnZhdGl2ZWJhYnlsb24u
+Y29tgh5jcGFuZWwuY29uc2VydmF0aXZlYmFieWxvbi5jb22CHG1haWwuY29uc2Vy
+dmF0aXZlYmFieWxvbi5jb22CH3dlYmRpc2suY29uc2VydmF0aXZlYmFieWxvbi5j
+b22CH3dlYm1haWwuY29uc2VydmF0aXZlYmFieWxvbi5jb22CG3d3dy5jb25zZXJ2
+YXRpdmViYWJ5bG9uLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLf
+EwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCC
+AQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAI
+xjc1eeYQe8xWAAABaRMWPvUAAAQDAEgwRgIhAIbXGk6w7wodO37iatPVWAQYVux5
+jfdEOFrPrGZatSRrAiEAozrYsSSnkhDMB32RdVlrJLgcXBNuhBKTEtqXChKcIPEA
+dgBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4scdoVEvYjQAAAWkTFj9GAAAEAwBH
+MEUCIQDLA3/YgGRLwQe1WkRIDXR2Kkzvm6gxRWGbn433JCE5EgIgNJUp3dMndZWf
+BtXVPW+V2EoreHe8xtUpvNdTYl0Xl9YwDQYJKoZIhvcNAQELBQADggEBAG8eNm1Q
+7+Zc/UoebuuXE49NR/xUcfpgt4s6raKAWFpdNyqDCl1QrLEiZyzPhQGeme06tpVr
+3h9D2SI7BSKMAEFiH8ZoTaJ83CYPWbFbslDXynB4z5KYneapIPg55JgmABl7rvUd
+BDC9IepulHSMS5vXjGyBCyF5Tc25tt2+D4jyng7RHOvsorlNqKcW4RO8PvnAkB99
+WccVB9V5Q7B0OfHJGpe79nZe3JMUlFATtQqqrIsPbX5Ksiqav0HBsqMLxvQMlVqu
+qvKc/LjL4DNRLcVmt2Fn5+O6igr61Fv66qFpCJNSSXiL9sxQPvZSZ8DmCmGNVk9Z
+9NQWNxsOYS9xAHQ=
+-----END CERTIFICATE-----
+subject=CN = conservativebabylon.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3430 bytes and written 461 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 427560C003AC32629F369CF755F281D9BAEDD23AACB86E0AF55A79C2AD046D95
+    Session-ID-ctx: 
+    Master-Key: 7D846DCC3F920B85A1771833D4805E44C48C571701E49F09B18607D8EC24A0F92BE30B73D432A5A92F0D36998E4052D7
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e4 97 35 c6 f1 b3 7e 39-f0 f2 59 26 7a fe 44 da   ..5...~9..Y&z.D.
+    0010 - 70 7f 3a 07 2e 97 0d 2c-7f d2 c2 1c 5c 70 9c 71   p.:....,....\p.q
+    0020 - 5c f8 48 c5 e6 e9 7e 88-bb b1 23 f1 ae 38 e7 38   \.H...~...#..8.8
+    0030 - a4 31 84 e7 48 b6 f0 a4-4d c0 dd 8c cd 0f f3 89   .1..H...M.......
+    0040 - f6 4b 55 ae 6e 40 bb 09-25 46 da db 2f 77 a5 5f   .KU.n@..%F../w._
+    0050 - 6a 27 54 75 4b 01 8f f0-1b 77 e9 39 f3 ff f2 f8   j'TuK....w.9....
+    0060 - d3 7f 83 50 91 5a 46 c6-31 b2 e7 eb a3 27 1d 9b   ...P.ZF.1....'..
+    0070 - 2c 3e f2 68 57 fd be 3f-3a 25 2b 86 f6 5c ab b7   ,>.hW..?:%+..\..
+    0080 - c6 b7 dd 0c 26 95 a3 8f-f9 12 25 28 d1 bc 21 08   ....&.....%(..!.
+    0090 - a4 54 19 81 73 cb 96 33-3d a1 01 90 54 fc 6c 9d   .T..s..3=...T.l.
+    00a0 - f5 66 05 82 d4 6e bd 45-37 64 ea 84 60 4f cf 56   .f...n.E7d..`O.V
+    00b0 - 08 e0 57 50 8e e3 74 26-2b 84 3f 02 17 79 0a 80   ..WP..t&+.?..y..
+    00c0 - 18 10 f4 67 96 b9 f3 52-50 64 fb 2c 69 bf 87 1a   ...g...RPd.,i...
+
+    Start Time: 1556370018
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

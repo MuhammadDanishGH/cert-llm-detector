@@ -1,0 +1,93 @@
+https://localgrowthmarketing.com/wp-includes/functionss/home/da10e94d7f5946329c277f04663b8c2b?cmd=login_submit&amp;id=technical-support-department/account/service
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = localgrowthmarketing.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFpTCCBI2gAwIBAgISA+w+sNMvimJNGzXw9dDiRTK6MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMjQwNTMwNDZaFw0y
+MDAxMjIwNTMwNDZaMCMxITAfBgNVBAMTGGxvY2FsZ3Jvd3RobWFya2V0aW5nLmNv
+bTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALqfPxkS2+gb+3mo6Ygr
+9xqjbghmck4l+cRh5CWXZB47wKcu1JDrAMIOEM0bq4q4+yRa3FP/Z0HYKaC/W0OG
+gAYf8gxhihWRTrq9qGqeh9KEAy52xTxk2P/h39wzW10KnqU9Bi9QoaVGcdm3TxWu
+V7GyfgSlzZsKGn+l1NTRD9xjwXIJl6OXUUNSiXkrfRbs3x35lzxIDSCDv6x1AJB0
+OsfKTZ7IsC4oa9P3HfedSii0/GNeJCrUNH5lS8LvtRoYNDXXClSW7lIA74Ozl5FC
+c1EtD9MoPrYmEOfxtKfIhyAMWrvgHO4slUw6scJIUOrtvdnXELALoNwc8vh8EQBW
+PF0CAwEAAaOCAqowggKmMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUV9LBdrBi4aYn
+BrSRIy2VwRQbZrswHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYI
+KwYBBQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0
+c2VuY3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0
+c2VuY3J5cHQub3JnLzBgBgNVHREEWTBXghhsb2NhbGdyb3d0aG1hcmtldGluZy5j
+b22CHW1haWwubG9jYWxncm93dGhtYXJrZXRpbmcuY29tghx3d3cubG9jYWxncm93
+dGhtYXJrZXRpbmcuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+BAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAB7dcG+V9aP/xsMYdIxXHuuZXfFeUt2ru
+vGE6GmnTohwAAAFt/HXg2QAABAMARzBFAiEA6xSmFzsl12EW/31JN3E2F+UzKS+J
+vTtzEkenpiOdfHQCIGCWv/nDEardJ6Y2+42dsR7yBtYuoFR7TV6ZkbnxkuBUAHYA
+Xqdz+d9WwOe1Nkh90EngMnqRmgyEoRIShBh1loFxRVgAAAFt/HXinAAABAMARzBF
+AiEA+yM1h0qyK3jiDJnbpb5Ydlev2OMytCMuZbo41olmVnsCIGXT9T9TkYpK/5dZ
+ej9Jt2ORfB5zFn+TsyMPaidbSt2/MA0GCSqGSIb3DQEBCwUAA4IBAQBFFqDHMnGr
+4ozlzTmXZdwHX7EcN2+gHXD/0w25w7FWqgUvytBUuxUUMLuBe6vGIfpHy6kSZ0he
+oiQyNE007BmTHsPHfA6jqsGCGuO3zl2vPXbGvECTysgJJ6DdBXmHLBNyBF8UUzOn
+vi0euuB5Ac47P3S67Z19LUsloXQUFIlELJeftkYoZneFcu+JEHQ3XZgyzwXWjFqr
+FuSTAghix+lUVZWBzD2K6u+sIl38HWJIBLnpPw99rtGZAr+6gzrT5bPi9CKvUm6M
+wcgxWKr26MU9xlisdUDZnOgd8ja5SZq+R31sli0xSG7cw8vtzUOMFC3kcXdwgNB/
+bSfqNlx083IR
+-----END CERTIFICATE-----
+subject=CN = localgrowthmarketing.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3303 bytes and written 429 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 39482B55550604EAD01380D5F6F3031529204BD460CD726D0B43C37DD3454E64
+    Session-ID-ctx: 
+    Master-Key: 7EB844D3EA035B1204C1F059B35575269B19398D5D92F5446CFC9015CBE108076D45FA75E0341E8C66B555C9E58BC2B0
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 63 88 70 7c 0e 28 a2 5a-b7 94 2e 83 76 4a 9a 1d   c.p|.(.Z....vJ..
+    0010 - 57 ec 0c a8 a3 49 d8 2a-50 4f ae f3 4c 42 bf 2e   W....I.*PO..LB..
+    0020 - 4c 5d eb 92 6b 92 b2 95-a5 8e 8f 5b fc 83 48 54   L]..k......[..HT
+    0030 - 17 54 61 fd d8 12 62 7b-79 90 fb ee 5b 88 26 2f   .Ta...b{y...[.&/
+    0040 - 30 08 fb e2 a5 26 ed 2d-42 f6 7b ee b1 b3 8f cc   0....&.-B.{.....
+    0050 - ed f0 13 34 1b c1 1a ff-35 c8 0c 0f 75 05 59 96   ...4....5...u.Y.
+    0060 - 17 d2 7b 18 77 e7 43 4e-18 df 3a dc 70 af f4 de   ..{.w.CN..:.p...
+    0070 - 20 f6 4f d3 8a cd c5 b8-6f 40 ed 36 39 26 af 05    .O.....o@.69&..
+    0080 - c7 54 3d f2 e2 dd 3c 60-2a a9 8c c6 c2 da 54 8e   .T=...<`*.....T.
+    0090 - f4 4a 86 3c e1 b0 73 36-18 36 ff 79 0f a7 f1 4b   .J.<..s6.6.y...K
+    00a0 - 9c e4 7c 74 e8 d5 e8 df-ad 2c ef b4 49 e8 25 b7   ..|t.....,..I.%.
+    00b0 - d7 60 71 e6 91 f9 df d9-9e 92 41 55 f4 b0 87 f9   .`q.......AU....
+    00c0 - 1c 83 f3 55 90 19 f3 96-0c 9d c7 2f 1a 0c 46 42   ...U......./..FB
+
+    Start Time: 1573480828
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

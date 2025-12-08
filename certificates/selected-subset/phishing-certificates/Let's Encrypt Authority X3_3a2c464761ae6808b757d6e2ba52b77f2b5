@@ -1,0 +1,91 @@
+https://flower-beds.cf/ourtime/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = flower-beds.cf
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFaDCCBFCgAwIBAgISA6LEZHYa5oCLdX1uK6Urd/K1MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAyMDUxNjIxMTlaFw0x
+OTA1MDYxNjIxMTlaMBkxFzAVBgNVBAMTDmZsb3dlci1iZWRzLmNmMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyZz7A9mqxL8iIRrnbwM9/CAQBgOfHB5H
+W0y/eJ2gIR807xqGIU6U24pTHBqnJKh/R+pHIanai7FzHm1a3ip8ReaRXocnjCOF
+bpn2fIAipUvkzxjCOTH1AxN3jtO8TYo7a9l7sMWdQyo+x30nVNs3W+gYbM5LvoEj
+sfMmvtYkvLSZN9FzvB8PRnkxQTBc7YbT0C5BLBC6PNn+lLVmNRTBX3IWd8YVx4rU
+B9La0ZaeB+8c8hkpTV+5gNfsP+dUprPCeVpeeL0j8xdj5QsLjqaYeoGUOx+8chJC
+cucaTW31GuoZKp15ai4FlKRWxpvorcBdcpIrKqouXP3U5ZJVdwMr/QIDAQABo4IC
+dzCCAnMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQ8VMV1ag10OxztOVjdlnRS1Mfb
+JzAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRj
+MGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5v
+cmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5v
+cmcvMC0GA1UdEQQmMCSCDmZsb3dlci1iZWRzLmNmghJ3d3cuZmxvd2VyLWJlZHMu
+Y2YwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEF
+BQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQC
+BIH1BIHyAPAAdgB0ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWi+
+ra5GAAAEAwBHMEUCIAfDAN0yzIyMtQRtUoDfwpkSrCXnCdXD0amyiMHVeAcdAiEA
+zL2db8SFFR97Nxx8cwZRUFy8u+e5IxIyeCq/Q9JBIDUAdgBj8tvN6DvMLM8LcoQn
+V2szpI1hd4+9daY4scdoVEvYjQAAAWi+ra5SAAAEAwBHMEUCIA6j9TdpW6UMAG9i
+N0Y4uB5Kz/Up6rETOEfUAnlniGH2AiEAlYlE5DXJXbk0t1u5yhLioSGw13qciysO
+TrRkgh6JpEkwDQYJKoZIhvcNAQELBQADggEBAGgAW3JFCPKGQb7VLEvvXXWkU4CA
+bykimzSyFYrHvf9uiRh/ahssetpwbrw5vJwxERBrbZyrn6sIHVW72fFL2iP8VOy3
+mJENCAaQMTb6wa5QrI+JxaSjk4yvTkgS2yYgZKmIBAS4kYrflYN4YWuqbO34Sqzt
+W3FJBNBHYE4Vte+XTOkjxLtAcxDyNngQECD+eZKV7sLCjC1lyhSj0MmCowdqYtPW
+jgY6oeCV13fW1NeiXGf+kjfndfNaV9IbEqSuTpyaKdJVmi2Qlw620NIycBg6UPSj
+t/xmp+y3I82clLsqy+vvKG54zH0xvtwL1Yb1VllQ0Zfqd7DiecmuQ/ZHLIk=
+-----END CERTIFICATE-----
+subject=CN = flower-beds.cf
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3271 bytes and written 452 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 11B4407BCC6FEEB7F79B1D1D8D7FBC0EC5D516980DD28B80970340EABBECC450
+    Session-ID-ctx: 
+    Master-Key: 29C075A6943F3F4B97A457D5E68656978124D644728384C5A75D085F1A52E652BD10576A5B3FDE95C79531CABAF28FF5
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 40 e0 80 88 1a 84 cf 1e-79 d1 f6 78 e6 81 d9 51   @.......y..x...Q
+    0010 - 5b 51 cc 89 9b 16 5b 43-bb 43 52 d1 c2 58 25 43   [Q....[C.CR..X%C
+    0020 - 27 d4 75 e7 82 93 7d da-ce e9 51 b7 62 ef a0 59   '.u...}...Q.b..Y
+    0030 - b5 f6 45 c5 ae 19 5f 06-7c bd 40 85 11 6f dd a2   ..E..._.|.@..o..
+    0040 - e7 c6 81 1b 60 9c a3 c3-8e 85 63 7d 78 97 eb 3e   ....`.....c}x..>
+    0050 - ed 75 44 49 fd fb c4 e5-f7 2f 71 ac 37 c2 ea c6   .uDI...../q.7...
+    0060 - bf 67 ff e6 dd 92 86 d2-ea 69 46 3e fb 54 24 19   .g.......iF>.T$.
+    0070 - 5e 12 78 48 18 47 95 32-48 c7 7d fe 04 94 e5 23   ^.xH.G.2H.}....#
+    0080 - 0f b0 da 11 03 91 51 f0-13 a4 42 22 10 77 86 81   ......Q...B".w..
+    0090 - eb 2f 04 08 09 07 f3 f5-f1 1c 45 91 2a 22 a6 95   ./........E.*"..
+    00a0 - 40 24 20 6e be d2 82 cb-bd 23 7c da 9c c6 aa 80   @$ n.....#|.....
+    00b0 - 9f 10 5f 50 5b 80 75 4e-0f 7a 5e 48 d9 47 1c c9   .._P[.uN.z^H.G..
+    00c0 - 06 19 a4 6c 1a 93 1c dc-e0 24 dd ec 96 ea ce 86   ...l.....$......
+
+    Start Time: 1549548017
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

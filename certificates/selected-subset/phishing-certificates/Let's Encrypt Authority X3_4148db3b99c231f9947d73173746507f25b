@@ -1,0 +1,94 @@
+https://missionmeena.com/cmxx/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = missionmeena.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF1jCCBL6gAwIBAgISBBSNs7mcIx+ZR9cxc3RlB/JbMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MDQyMjU1MTdaFw0x
+OTExMDIyMjU1MTdaMBsxGTAXBgNVBAMTEG1pc3Npb25tZWVuYS5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDYCqcvVMFRWvgpaaZ4aATmuYWt+M5c
+kDhWdqGFHtqVt68ny49USi3QPPTND8d2r1Hn0SIXdSAJJgPVLdwHrRYejk++m+BJ
+lIMQOPOA73Pa/oGpobRbrDQCJN0RoWTTlP5PzcKsm6NMLj8oiuG1L2gv00sfi+/i
+yxf77lrEHSswFDpl+7rEWUn1p/WrSXqhJ1XMY6A0MPNLJV2in1WCL4i0tVg86r2l
+0INKJNKdxKBboi5WkgtVa3bq0e/e4EP5+5pkuC8Gmq2Ccq2kyPs4EJH8G5rGleoK
+5c7DLvPO/cThITWx3/6juS+ytOIJEiRiX23bOMCNUtO97O384nUu6JBhAgMBAAGj
+ggLjMIIC3zAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFOOUADeRS8N7AZ9+C3enkba8
+OJ13MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEB
+BGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZy8wgZcGA1UdEQSBjzCBjIIXY3BhbmVsLm1pc3Npb25tZWVuYS5jb22CFW1h
+aWwubWlzc2lvbm1lZW5hLmNvbYIQbWlzc2lvbm1lZW5hLmNvbYIYd2ViZGlzay5t
+aXNzaW9ubWVlbmEuY29tghh3ZWJtYWlsLm1pc3Npb25tZWVuYS5jb22CFHd3dy5t
+aXNzaW9ubWVlbmEuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+BQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYA4mlLribo6UAJ6IYbtjuD1D7n/nSI+6SP
+KJMBnd3x2/4AAAFsXw8LBgAABAMARzBFAiEAhoxZ2a6jkVeB9gG4oqQYoudKQL0y
+L4cLbDI2qbbhZ8gCIHguul4Mh5xMamkZ9Ql4MTcc3g5KtDp0+cL+/YWUwiqAAHcA
+Y/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFsXw8LCwAABAMASDBG
+AiEA0i9DjrgBNUrepreHPum5tAROS8zW8NpVX4Q/ehCFXdgCIQDC2Jn5yRvwIEQb
+eY5bNKEpfI3a2Cjvc4vb/KU1KDbRlDANBgkqhkiG9w0BAQsFAAOCAQEALAiozR4i
+TOfsqUPEZHaTv1hp+XYviwjLQlWUqRpkCNaIW4Col4npvSMhXymOcUaeRD8GuSjb
+FSS0NRe1sVO6fDtZdTeTqcDA51x4rBAYu7Fd+Unh+wSsji8YKNYQrz3lq88ClOUE
+pC+HJU3hK6KpC5yyHAScPHmfC5o+ilyKnToo7F7ttGDUBCl+q84mVTinzxDDnqw4
+2/x20wXZUz81YnDgWwCEW0/BYS5iGDuUo8VVaImtRly81g1oz/N4PbunvY9PepKX
+ExqZUenzOh0YlIen5oFn9Jl5fzlB1GwqW1pojZUjYiW6jozJdmirBk8bopZAzTtf
+X5fWcCM73UbCAw==
+-----END CERTIFICATE-----
+subject=CN = missionmeena.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3381 bytes and written 454 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 34C9D04A8E22D1853B045464A1AD3EB93488065A773FF03E41AD10DE2E5C9F00
+    Session-ID-ctx: 
+    Master-Key: 4986D5EE0BBD68553AA249170F7323DF4CE4974AD16301CDBE60B8C886A591AC11ED1C6E659DC31889EA374249CFC5A4
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 99 4c bc 34 2e 8b a9 5b-3c ef 1c 0c 79 9f 42 3e   .L.4...[<...y.B>
+    0010 - b0 40 60 56 96 6c 29 86-74 17 75 f9 1d d6 ae 00   .@`V.l).t.u.....
+    0020 - 04 ac 3a 27 71 f0 99 6b-7f 24 2c 48 fc 4c 2a d7   ..:'q..k.$,H.L*.
+    0030 - c3 9a 2f d7 f4 96 de ed-65 16 3a 78 d9 34 06 d7   ../.....e.:x.4..
+    0040 - f9 cf 9f c0 43 32 b8 16-ce b0 96 a1 71 71 61 94   ....C2......qqa.
+    0050 - 4e aa 7d e0 40 80 33 83-76 ad 25 98 12 07 7b 17   N.}.@.3.v.%...{.
+    0060 - 17 1a c6 82 57 7d 4a 6b-dd 2e 93 0e 8e 40 a0 33   ....W}Jk.....@.3
+    0070 - fe 2f 0a 24 ee 87 c0 2b-0c 5c 3a 0b 71 f3 50 3d   ./.$...+.\:.q.P=
+    0080 - 56 c4 41 1f f5 e4 fa b5-13 e2 8c 6f 9c 62 1d 51   V.A........o.b.Q
+    0090 - 7b ba 2e a4 9a b4 1f ba-af 00 17 6a 33 48 16 a7   {..........j3H..
+    00a0 - 41 5e 9c d4 c4 29 ff 40-ca 57 6a 6b 63 8b a4 3c   A^...).@.Wjkc..<
+    00b0 - 49 a5 2e 0d 37 aa 64 9d-1c 55 68 48 e8 3d 7a 0c   I...7.d..UhH.=z.
+    00c0 - d3 be 9c 0e e2 18 5b 92-4f 3d 58 b9 b1 2c 09 24   ......[.O=X..,.$
+
+    Start Time: 1566824425
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

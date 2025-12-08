@@ -1,0 +1,93 @@
+https://amigasdenaomi.xyz/app/facebook.com/?lang=es&key=2X95xusjOk9xOuBy9nLxiaQeGCkE9IVlAbncpC8t5j1nsRqXj6e2kjakdCwsTh8pOWI97vWJ2ICBFQHZZwPQFeA5RywDNvyfXRp8Iuie1eQsqjfyJ5Sa79bsMPZr5YXcWlSVV1VbhsWe6geSPVAVvOvl0m9DZNAfrffkDRJOfGEziwL4OSTNusCFikhJy3ADRkbnal9z
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.amigasdenaomi.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPjCCBCagAwIBAgISA0GOtpAMeQN9iUhhcpTzJO8ZMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MTgyMTI3NTNaFw0yMTExMTYyMTI3NTFaMB4xHDAaBgNVBAMM
+EyouYW1pZ2FzZGVuYW9taS54eXowggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDl+t++ScI7rjgYNxlJVpk19ietRE09Rwy5jBOCPng+Z2Nsj8Dec3kOVk1u
+YeWs15rzx0GzehKHtD5ZqKX6xOhfNzb3wtJJzVPwREhW/rqJX8489xyi9P2A2OPY
+067aityupjXx0NzByTGcVZPr1+7CNVD0fRoKCDCA291Oxk9mbSfc/kFCntkIFIcn
+lsLnWlrW2SFkI4S7KqEj8TeSczSjySXKc+0y/ONdmVJBBgl60Xzz4VHuAWo2ucdW
+CPfNm9QcpBExADZmnXzi/k2dMhCVdhZMiT+YJ/ivta3xKrmgOXivZ5rZx8LpwlG/
+rNqPDDOTLICYK8R4nHQrH57LpF9VAgMBAAGjggJgMIICXDAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFHLp/Jcx4APP2tu0i418QKOl99UgMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMDEGA1UdEQQqMCiCEyouYW1pZ2FzZGVuYW9taS54eXqCEWFtaWdhc2Rl
+bmFvbWkueHl6MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgw
+JgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYB
+BAHWeQIEAgSB9ASB8QDvAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo3
+2RMAAAF7W2DFvwAABAMARzBFAiEAm8pzLztFnYdTGKG5NxxRb7TIGwaA3V+vUCLm
+rxxP+H4CIC2624B5F0MQzP/AVMGtdCK3hOjrVTpLZfBEw5weXeIhAHUAfT7y+I//
+iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7W2DGSAAABAMARjBEAiBhVVnu
+jf08fsBN2DDz+16faZVOtm4Z6HAKop4f2I8pNQIgb1Z7+R5qEeuHy8AtScrJcWOy
+jaQKMBkXbcZDlc6xZ3UwDQYJKoZIhvcNAQELBQADggEBAECpckKsIRGbhK6enSA4
+ZqP5NEUtLG6WKA6O75GumdkJ2hu/ich1nPjeKH1do95e42v3pJ5a/DgkBX1mnPwJ
+iHbeY/5DfTpJKzDVjF+aSP/gE6ymT+R0/zPfSWK+5C0si2kXclg41jNxv2rYtW9E
+WBOBO7pyByruJb12wpTkgnBPNUaG09lAWH0aPOibmzO37W9o5JTI8p6e+S+rTx7Q
+JgGVgTXpoaEon1cXmeinWnA4ZtoYacGJZXWYHsnfgPNp2hArmH6aNMpq3Jp/+hlk
+uG3hom5KfKld9SFxG73F6McTxrq9f+HcIVYFLLZ6t83bCtkyeNoNxebJg9rxl1Y2
+t5I=
+-----END CERTIFICATE-----
+subject=CN = *.amigasdenaomi.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4715 bytes and written 412 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 9802CE13CF0042A430FE25254D26FDB0BC2AA97B26E3A803BDB48CA7CDA976D2
+    Session-ID-ctx: 
+    Master-Key: C31964F26962DB4F7837E7816899D7B37AD6CDCA0852AF9D43A7632808E079D3C06AC5154768CB58D960750561445EDC
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e6 0d 8a 07 19 89 d3 97-60 19 f1 17 2a 8f d6 ba   ........`...*...
+    0010 - f0 ab f4 20 15 03 3f 6d-f5 6b b0 01 f0 bf d6 29   ... ..?m.k.....)
+    0020 - 39 43 02 d6 ae 6b 4a 90-02 61 70 1a ca e9 15 26   9C...kJ..ap....&
+    0030 - 99 ec 51 ed 8f a6 a4 30-75 34 de 57 1a 5f b8 f1   ..Q....0u4.W._..
+    0040 - e9 47 36 69 a1 52 36 38-1a 27 65 61 b3 07 0d 92   .G6i.R68.'ea....
+    0050 - 51 92 d9 b6 23 cd 0c b2-28 b8 48 95 cc bd 3c e9   Q...#...(.H...<.
+    0060 - a4 69 4e f1 a0 7e 4c 12-97 64 36 bf 14 dc 10 7a   .iN..~L..d6....z
+    0070 - 84 09 7a 73 a2 ff c6 05-a5 45 a1 bc d3 54 d4 f4   ..zs.....E...T..
+    0080 - 6c db bb f4 6a d7 2d a8-5a 81 f6 c8 4a e5 39 69   l...j.-.Z...J.9i
+    0090 - 24 c4 c3 87 ea e8 23 ba-36 40 48 93 9f 22 3c ef   $.....#.6@H.."<.
+    00a0 - db 37 da b3 4c ad a5 2e-14 1e 9f 2f c9 05 23 62   .7..L....../..#b
+    00b0 - 05 a4 f1 ec aa 4c 62 47-a7 fa 49 78 fa 90 c8 e9   .....LbG..Ix....
+    00c0 - e1 62 cc 1c a3 01 50 42-bb ed c4 a0 3e 27 95 d8   .b....PB....>'..
+
+    Start Time: 1629420177
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

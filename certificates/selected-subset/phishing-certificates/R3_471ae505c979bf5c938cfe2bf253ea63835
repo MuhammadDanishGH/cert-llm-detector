@@ -1,0 +1,95 @@
+https://cadetblueearnestscientists.upgrade7878.repl.co/#redacted@abuse.ionos.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = upgrade7878.repl.co
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFQjCCBCqgAwIBAgISBHGuUFyXm/XJOM/ivyU+pjg1MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MDgxNDE1MTRaFw0yMTExMDYxNDE1MTJaMB4xHDAaBgNVBAMT
+E3VwZ3JhZGU3ODc4LnJlcGwuY28wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQC/V9KuXmxlRmGy9v5KT29esX88gGTMuwoRww/dLLuoO+eXNyyr4XOepg8I
+ZMC6buojUFwF+e0xZJfkLh7sD20p2aGbVKR2VOBQiNi5OlnXvoNoMjnIcfAfRPF+
+rCfE2ySn/562JzQ1pl3z3W9/zRK+eTKYOM+oKPblx55OQDBPB6eXavyxP5PnlNA4
+yiP7cXNZksy9RflU4GCH4B/+HhhC5yz+XGKP8oLtIZ8lDUleaZWk4t/HfGB8vctk
+9drqCsYsMjFrbXNn69Cj+5lPduUbLekYYkL5YeSMIIIOLV6Zn+JvvwgDmbiwGhBP
+FNQTKwgNjwLlJqESEeNTmSQWUDgVAgMBAAGjggJkMIICYDAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFPxbwSk3xEd5MV4ug4vGpilXfPC1MB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMDUGA1UdEQQuMCyCFSoudXBncmFkZTc4NzgucmVwbC5jb4ITdXBncmFk
+ZTc4NzgucmVwbC5jbzBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEB
+ATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMG
+CisGAQQB1nkCBAIEgfQEgfEA7wB1AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/T
+M5a1toGoAAABeyZVE3EAAAQDAEYwRAIgMNVK6XVk6pAzM9aNKVRPz0vDSUo1Mmjz
+8wjkBQI8sOwCICS+eQYMvRuJjKZKECzbuCYYDsO6i6isJ8BCBLKrzWojAHYA9lyU
+L9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF7JlUTUwAABAMARzBFAiBu
+xqlwbEfRMdwpBRdoCNfDUU0z87jPvbokxU5VzulpjgIhAPyp4mMb76yyPvy7HLRZ
+If6tnGyxdhp4vaDIpETGBNtDMA0GCSqGSIb3DQEBCwUAA4IBAQCcisGhQ6i1udML
+OD2mppi+bdXAN/BL8bSMJTkB6sk0YnP5BKgJ8Qi4s2oTG5mqCx3+diMyXcnaRi+g
+6Yl7rgKGFax6b3mCzKStdCZi1/A/3m426wb6wN1/yJuwc/HVQuDXupTo9kqNVdG0
+6fOxEONrvccoY11AKx/klAdWL2+tv5s08yXYZvFPecdaxNT0ITJzmx7CbRbtJu5r
+g/pDvqCPLNMr/4FqtoPtZd2bhNLgsSmEZKRKRKGdPKTIJcphiTBtSV6or3EZ928x
+M1UJUohP3FXtVB+oiFrtDqrUu+UtTCGq+VeZIlWGJpC5WxQheo0z6LVjI1/QYhg5
+SenRKmy2
+-----END CERTIFICATE-----
+subject=CN = upgrade7878.repl.co
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4586 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: E2F32F7CD05BF5C2E73B8AB9951428201161298BAAF2141A685B44396DE5B133
+    Session-ID-ctx: 
+    Resumption PSK: 97D6E622777EF41F7FC7DCD50F1DF52E71AC7AD4B0084DC399F04A462046FCA6
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - f9 04 15 bf bd 65 99 f2-f5 b8 cc b6 29 2e 95 a7   .....e......)...
+    0010 - 1e 77 95 e3 f8 fa ff 2e-17 c7 a6 47 44 39 9f 08   .w.........GD9..
+    0020 - 87 5c 14 eb 42 5e 5e b2-27 21 fc 1e b9 82 5d 92   .\..B^^.'!....].
+    0030 - 19 d5 1a 47 0c 16 c0 0a-2d 30 32 82 8f 49 8c 3f   ...G....-02..I.?
+    0040 - d5 33 d5 bc 93 51 ab 01-12 f9 a7 47 c2 0f 29 49   .3...Q.....G..)I
+    0050 - 31 c4 1a d5 56 13 57 24-9c f5 0f 96 ad 37 c3 48   1...V.W$.....7.H
+    0060 - 94 3d 10 9c 86 38 34 d5-f9 c5 f7 ff 17 fe 88 f2   .=...84.........
+    0070 - 75                                                u
+
+    Start Time: 1632318253
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

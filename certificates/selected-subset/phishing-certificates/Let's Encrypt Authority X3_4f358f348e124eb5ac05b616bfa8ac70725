@@ -1,0 +1,91 @@
+http://cvbdert.cf/utgt/9ujh/outlook.live.com/account.microsoft.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cvbdert.cf
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTDCCBDSgAwIBAgISBPNY80jhJOtawFtha/qKxwclMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMTYxNDIwMjhaFw0y
+MDAxMTQxNDIwMjhaMBUxEzARBgNVBAMTCmN2YmRlcnQuY2YwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDojYRRw4xR+t6lGW9FQaGZKJyDDp57dEFK0Vc+
+hQ+RyLM0r6BJBRrrxxBluiOA3+e28IuJi8RUmbcUOVvjHmyg6yZB7prSFed6Sz2P
+oLwiChRXQKWB5uyDSFmctDXwoDhrK2rz4ep5ynPBASVX34TCMl6HQ2IQ+2+6GgQi
+N2BuH2zgYXLKj5G6eoNqXxfnEVdbYHVGbq27fxuqyjUMdgNQPSG0zaovl4MQfKu5
+PNJgfzC+VWHxrs99Dvy/ngqpSDFczGMlc7Ugtl/czVPwWyC73Z4XSuywgG+E8kRL
+1cGi3lqURdQ5Yfnzugm1cqEeJyPQr5YPKkAEBsnRgJg9Qi7vAgMBAAGjggJfMIIC
+WzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFJG6EqTJPQBo7ziDOqiHxaZYm4sYMB8G
+A1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAu
+BggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAv
+BggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8w
+FQYDVR0RBA4wDIIKY3ZiZGVydC5jZjBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB3AF6nc/nfVsDntTZIfdBJ4DJ6
+kZoMhKESEoQYdZaBcUVYAAABbdUn81IAAAQDAEgwRgIhAIstWyZEmKov7Em8frdZ
+amJPHHFNjd2Sy833CVKF84r3AiEAtfQvu8jO+nW9/Y5D+D+b5iF7avrfJWt4pglx
+EuVJQm8AdQApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAW3VJ/NE
+AAAEAwBGMEQCIBAkRZl7hpPOEC36QEIwswYHS674O0V2oxrbFZdnYh8bAiAidvQE
+seUPJqY9vtP9Ub2jPk77P5H9Uob5idNCX1HO0DANBgkqhkiG9w0BAQsFAAOCAQEA
+lV+LpkJu//glkUvowwkv5qOTPcZLoUEB6Z8bh3Ik5lXCtT8j0ySYEtGtwQSq9OIb
+McS2mIl6PSfYHr9AHf6eqAam6jgbxFEQGzVqI3oE9Hlbp7lAwH7p/yMehCFUyFgh
+DXmEWSevR/NbUR5bT71Cm8V1IpT47LEBPacF8zzFUdbN6EPmkf623oZ+tUi0wXPh
+pDD3V4l8gJqrXty4rKKAc/SjpxJ7aMS8suuDrpOhBmpM2mcDGxbJQWV1HiL0bnEB
+iK6pZPuz8RbiWXrkphhQWaUqzjv7muZnMNwVZexDa3SfHl5ivoEkXwM7RJ+m7oeX
+Mcmk2h7dWpkdrxLJeiuErw==
+-----END CERTIFICATE-----
+subject=CN = cvbdert.cf
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3243 bytes and written 448 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 00CECF2B0FAF5FC882906CB3AC206E4B46C17EB39841D926B0EBDAECB3F2E920
+    Session-ID-ctx: 
+    Master-Key: 2758125246145BC7CE86582DCC152A7DAF26C8BF80ABEBCB585DEC88EB8371E9F38E131B424EE186E253153C59A93B7E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - ec 2c 78 95 fc 9b aa f3-df 53 17 1b 8e 0f 87 41   .,x......S.....A
+    0010 - 96 e3 a5 c7 d7 80 f5 61-f3 6d 67 2e 5d 89 c9 bc   .......a.mg.]...
+    0020 - 5a 38 6d 91 5e b8 5c 0d-f0 e8 cc 51 fa d0 12 14   Z8m.^.\....Q....
+    0030 - 91 9b 92 c0 24 90 5b ac-af 68 b9 ae ba ff c1 5b   ....$.[..h.....[
+    0040 - de 5c 2e 7c c3 f7 9d 95-a6 e2 49 86 7e f8 05 7b   .\.|......I.~..{
+    0050 - e1 9e 17 5e 21 a9 51 9d-1c 53 67 ac cf 64 d8 6a   ...^!.Q..Sg..d.j
+    0060 - 61 95 cf be d6 61 52 bf-0a 59 0b 92 22 ea 2b 2a   a....aR..Y..".+*
+    0070 - 0f 67 0b 7d 5e ab c9 e4-e1 d9 69 92 71 6d 51 eb   .g.}^.....i.qmQ.
+    0080 - cf d4 a9 71 ec 4d 74 0d-35 f7 32 33 a3 0a d7 63   ...q.Mt.5.23...c
+    0090 - 9d 27 26 c8 63 43 97 ad-67 e9 e6 51 58 af 4d da   .'&.cC..g..QX.M.
+    00a0 - 27 7b 00 98 25 7c 55 07-55 54 1c 12 f6 c9 0d ba   '{..%|U.UT......
+    00b0 - 96 32 77 f1 d0 78 80 e1-aa 31 05 e9 e1 f5 3b e4   .2w..x...1....;.
+    00c0 - 05 85 a0 17 22 f2 d5 cb-03 31 a7 a9 70 f7 a2 b8   ...."....1..p...
+
+    Start Time: 1571490029
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

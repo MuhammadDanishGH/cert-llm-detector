@@ -1,0 +1,78 @@
+https://corta.ai/9J5B
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cortaai.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHfzCCBmegAwIBAgIQW8PHOeyrwMjOxf6DKcGVqDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTAxMjAwMDAwMFoXDTIyMDExMDIzNTk1
+OVowFjEUMBIGA1UEAxMLY29ydGFhaS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDDQQ4wOdsdWLawax4yfCyFffvdnicoVKPmMYgiTWqix1W/v1RU
+ZEAAbORo+qukCtGLUxH61U5RRHs3reuxAb/YcgLcvJ+gVJfAamKRZ5KY08xV7Zj/
+90W5GH18MlsByPFkfEMeRFbDYWq5/KHWia1mvaMt04vZVVHm/0RgpBY8W+LeTbjz
+CIO1kEl6jw5WkfsTnwd+lEf7kH3G0+dLInakE4wb/vNbNpd22TLXv/pdUq+a1UPd
+ywxBYxGFtlDQ2jgzdzLuZoQtXNbiZf2s4dIkFrAYpINUoBhqxnhoWfiSYSgZA/lT
+JAU8l40tOuOL5plsq7bqcV+7SkdJnIjmBqS/AgMBAAGjggRrMIIEZzAfBgNVHSME
+GDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUqjnabcGHH74gyWIz
+OB5dT49TmPIwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAjQw
+JTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIB
+MEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29tL2NQYW5l
+bEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEBBHEwbzBH
+BggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVsSW5jQ2Vy
+dGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3Nw
+LmNvbW9kb2NhLmNvbTCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AEalVet1+pEg
+MLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfHONl1kAAAQDAEgwRgIhAIehtEic
+h69lcyoB8Xxe1GObWzQCuDdzPUwO8dnHnOuJAiEAqPQs1V2T/Ap9CVAEiIhrYSBm
+1HeOHLMi7KKfMkJ70DcAdgBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG
+9gAAAXxzjZcTAAAEAwBHMEUCIEVRf69M3yf8FDXBvRyH0CviZaDHQIc/zpLhILbL
+7tCkAiEAobI04CqCm6Qi29dkrCYQw1oBLxXYDq6dU8KDmeDpKq4wggHFBgNVHREE
+ggG8MIIBuIILY29ydGFhaS5jb22CGGF1dG9kaXNjb3Zlci5jb3J0YWFpLmNvbYIF
+YmwucGWCCGNvcnRhLmFpgg5jb3J0YWFpLmNvbS5icoISY3BhbmVsLmNvcnRhYWku
+Y29tghdjcGNhbGVuZGFycy5jb3J0YWFpLmNvbYIWY3Bjb250YWN0cy5jb3J0YWFp
+LmNvbYIGY3R0LnB3ggptYWlsLmJsLnBlgg1tYWlsLmNvcnRhLmFpghBtYWlsLmNv
+cnRhYWkuY29tghNtYWlsLmNvcnRhYWkuY29tLmJyggttYWlsLmN0dC5wd4INbWFp
+bC5yZWR1ei5haYITbWFpbC5yZWR1emFpLmNvbS5icoIIcmVkdXouYWmCDnJlZHV6
+YWkuY29tLmJyghN3ZWJkaXNrLmNvcnRhYWkuY29tghN3ZWJtYWlsLmNvcnRhYWku
+Y29tggl3d3cuYmwucGWCDHd3dy5jb3J0YS5haYIPd3d3LmNvcnRhYWkuY29tghJ3
+d3cuY29ydGFhaS5jb20uYnKCCnd3dy5jdHQucHeCDHd3dy5yZWR1ei5haYISd3d3
+LnJlZHV6YWkuY29tLmJyMA0GCSqGSIb3DQEBCwUAA4IBAQBSJnXrvPZt4Vsncld6
+tKDO2tNcn/CF9LT4vpNwYV3MbJJkl2RIDJBJndtMF1g0yf39zMOPfMiWAflEsW/I
+jZgorXBy0VX7yzVK4q8JIzxJROuEYMa9vN0vppKGJ/64dPvK3/V4Y8Erd2qEhVfl
+O7g62fEi8oF1o8NwrJM3Xd7FRvhe/UmuGLbrH1JdJ3jpbDycDRiTUjQrYN8LfCbK
+DpuDaYMDZksP4Wyww0NKWnhujX9fa6Y19zLuYk4WhFp5beySNKq/aVda/LAdPhYq
+8a2Pl9eJEmctBckgxc7de9vppI1zDvGuiWaDC9kwG1WKcxIHZn0cf8DGfs9sGmRD
+JCf0
+-----END CERTIFICATE-----
+subject=CN = cortaai.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5428 bytes and written 382 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

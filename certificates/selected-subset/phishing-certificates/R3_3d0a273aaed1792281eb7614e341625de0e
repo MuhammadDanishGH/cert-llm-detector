@@ -1,0 +1,66 @@
+http://www.s.aneonoucunoso.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.s.aneonoucunaso.top
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTTCCBDWgAwIBAgISA9Cic6rtF5IoHrdhTjQWJd4OMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTkwNDE1NTJaFw0yMjA1MjAwNDE1NTFaMCIxIDAeBgNVBAMT
+F3d3dy5zLmFuZW9ub3VjdW5hc28udG9wMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAp6/wUEgx6snpLsvfQ9NITK+sUqbv1wz2P8eVzuSdX3rTyBI9yeej
+ecF9SncqY9gjMrfE6A6U6akMeLnQSzaZY0rwmuLY8xYZPtnwzX6LCbNUwPCF9JSd
+agU4C3WVnFBHLjk9Za5N7yJkyc4I/ZoGqB9qKjzpHqHxR1OWnu5gTNvMr+7h7nAd
+SXsORxqJQM5+gBcRnn5JESSd4rnSlHtFUoAvAB1cF3lNurBXctqnhVScBO2yOAEG
+HzFOYTMUX5ghqmmY2J2c3AsMabFqw+rgzkJ0iSPeW8vo8lGcK4W5EeX0cpREAD92
+0mW1d2XE0c3g2+g7yK5mnuFerg6UijSMEwIDAQABo4ICazCCAmcwDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8E
+AjAAMB0GA1UdDgQWBBQL4OH5PDAoh5osuowEFJbRhK9HVzAfBgNVHSMEGDAWgBQU
+LrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGG
+FWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmku
+bGVuY3Iub3JnLzA7BgNVHREENDAyghd3d3cucy5hbmVvbm91Y3VuYXNvLnRvcIIX
+d3d3LnMuYW5lb25vdWN1bm9zby50b3AwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYL
+KwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlw
+dC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBGpVXrdfqRIDC1oolp9PN9
+ESxBdL79SbiFq/L8cP5tRwAAAX8QaGe3AAAEAwBHMEUCIAJSr5R5YlFOfDuLIVKz
+1kDJxCYw7fYB6sFCbNrxAjtxAiEAi1tvOT2SN3tBwmmo0Ds6xArHotZrrcU7RkR2
+FStrGpkAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAX8QaGpY
+AAAEAwBHMEUCIBZaqA8bFdBJxY5KClbCdI/HT7tyW18bXljF6jgTTxS6AiEA1ANZ
+CljWUW1V0usmbetyGMGdh0tLG1rDJer2GGgwSmcwDQYJKoZIhvcNAQELBQADggEB
+AF3v9TTUvKSSxoMmw5fBbbGcXLxwkGs5LIWc906alLMTp0GNp2gSamahuW3ylNOS
+HWxT/bewzuu2hxOIEbhZIs/fAYtnsZTYpJMZqQLMChrWqv5vio0ypE+FyijDU+ZC
+aOyfRa5pONocRlkzerrsgw63rX0158eVfXL00DPl+FQPZGABrrSdHj2xsGZQ5nPF
+jVXd+hZnBpl2Z8Cj9wempcfF0cDUL+mB/Zx8b4Fyv2kgrnSRHQBTWm4WHgLBUYyn
+Brm2RHXyFKolO0KzFO6djjG2Jxn95oUjtrVcuM9Rz7f8w38bnEdW/XcpnAGCGhh3
+fPyRBrxH23Zx7ZLuUSVXVq8=
+-----END CERTIFICATE-----
+subject=CN = www.s.aneonoucunaso.top
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4617 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

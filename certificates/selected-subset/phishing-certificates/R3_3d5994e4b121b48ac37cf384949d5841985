@@ -1,0 +1,90 @@
+http://mycv.gssintl.in/cv/fblogin.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.mycv.gssintl.in
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPTCCBCWgAwIBAgISA9WZTksSG0isN884SUnVhBmFMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTkwMTQzMTVaFw0yMTEwMTcwMTQzMTNaMB4xHDAaBgNVBAMT
+E3d3dy5teWN2Lmdzc2ludGwuaW4wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDIXfZ6AIu+bb7tLMYW/S/Y25cKLuougrPWJknByAuargvfrC7opLUlvvy+
+OALtj35aUpFc1Soft+2KXEk7r48YdBYKmKKqqnuBGTMZjMRQFbRebYsKAozD2ng3
+NwnfYeL0jM6BVvA5YNKQACBDfBewZZ83HAj/TAOhGt16NqExkV8TczBQDGzWpdix
+KfNvrv7RJTlQTHPIkr2jmz3YJjMJr+koMK3XLXO1ZHvhtGSh6Vmjea6OfjcZZyKF
+SH/UuScBg/fiJzSopMJ8AaSr2zi36ZhdDNvTBn6skaOBPyZJ4MEBjUcyyieXNeB/
+ymYh/S1sO0BHVEdjustit7uUywfPAgMBAAGjggJfMIICWzAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFKKq9GfFFk/h8idQE0t8U2xa6f+GMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMC8GA1UdEQQoMCaCD215Y3YuZ3NzaW50bC5pboITd3d3Lm15Y3YuZ3Nz
+aW50bC5pbjBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYG
+CCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB
+1nkCBAIEgfUEgfIA8AB3AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kT
+AAABeryla7kAAAQDAEgwRgIhAJ8j/e+qk2b6WwzzyC7WFh7KrbcimAqGTzozDrd+
++FLQAiEA2jzHa9PfiaNRAx74x3nxRXABwxa9fGPYB9UOdJUAHXAAdQB9PvL4j/+I
+VWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXq8pWu5AAAEAwBGMEQCIC4CJGnJ
+yQFVqZWfBxlPpD7TOaR740Rg+pxA3lW9goFiAiAkWXUmfSelP2H2kYjLfHLIGcJ5
+0uX++eQIJl5B8LLg5DANBgkqhkiG9w0BAQsFAAOCAQEArZhDY2vBplhqMNzRItO6
+MfD8WmdET5+RQFEPkUyDSWavRTp43lOUGuHslbTmzpgBu7Je+fIPrW+3ZD63L0Sn
+UVTCh39NEWyCGam+mnRo2O0Jq8k31xFKaFMsBixUMmHZugyIm1Li2o4jjRK1XZOu
+ZtoSegTK6eASHjnrqRQcpAmxQQ15WwixEus9bsYPxcRqJQ9uCUczVE2C/YOgVktB
+6v4/5P0XHzNZp/n3cww0sszrTpsddE0JoglAOabe0dVwCLz4raGHDEIYz3RWUYBM
+YYM5/dYBoYh2y0OEmACw2xNkmE8bUooaDRSeddadOTyFR/OIMh1wgaxwoZAbQ9Yw
+8A==
+-----END CERTIFICATE-----
+subject=CN = www.mycv.gssintl.in
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4660 bytes and written 410 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 20783448D7B2563CFE652296B69B1BBBAF5E0229B9D2696E736859ECC2F14237
+    Session-ID-ctx: 
+    Master-Key: 0A3BD1E5DC976DE2A7AFC871C4327DA3945EEDBF85A153F5A6D30144955974908A0171E278D942D6A0E4096BC9EBE0FC
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 74 06 f0 47 53 74 91 ed-fe de e4 38 1c 9a a2 e2   t..GSt.....8....
+    0010 - c4 7b 41 bd ce 33 7a 5c-89 e6 f5 1d 14 28 bf b6   .{A..3z\.....(..
+    0020 - 00 9a 10 4a 84 96 a7 b4-79 05 a8 c9 55 aa 3b b3   ...J....y...U.;.
+    0030 - ad b5 71 38 a3 36 6d 92-5f e2 d7 e1 a2 3a 15 f5   ..q8.6m._....:..
+    0040 - b1 6a 9e 08 ed 22 4c 4f-1d ca 7a b2 69 cf 08 b1   .j..."LO..z.i...
+    0050 - 70 fe 97 53 f3 09 79 94-c0 58 5b d1 af 2d 8a 63   p..S..y..X[..-.c
+    0060 - 13 1a e0 36 c6 17 c2 88-61 e3 6e 72 ba 1d 3a fd   ...6....a.nr..:.
+    0070 - 6e bf 52 fc c7 33 61 4b-ab 3b 9d 19 43 c9 f1 e2   n.R..3aK.;..C...
+    0080 - 24 09 d3 8b 2f a7 ae 76-d3 b8 42 48 c9 49 a0 bd   $.../..v..BH.I..
+    0090 - 2f e7 ef 20 7d 94 07 44-48 a0 4c d5 14 01 2b f1   /.. }..DH.L...+.
+
+    Start Time: 1627821366
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

@@ -1,0 +1,94 @@
+https://paypalinc.social/login/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = paypalinc.social
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF8zCCBNugAwIBAgISBOJ5L2OV6ppmR+V1MdOg60piMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MjkwMjExMDFaFw0x
+OTA5MjcwMjExMDFaMBsxGTAXBgNVBAMTEHBheXBhbGluYy5zb2NpYWwwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDI1Q+aWr6Jt9M5Sx8pwsi4Owygaw5t
+o2sxCO5uJsBAX61C47H/mlPM3gX1TpX6G+f1XEFgLLRjmuk7EswQsqF6n++Guipm
+Kz+tEAs5GmTaoGZwRX+tjp+WEkSrbDWD7IUjpzcEUUox4DojAubzTNPDhPrtZkMD
+EEKi82umoPHdmMtOt0q5V2FXY2AwVGktM2P1yL6L1+fUSKSD8TB78g1GPuX+meep
+zwREVCbhsFgyK1Ha8NkSMEcwXvrfHtXeEnWbu83J0wK3EtkyC/UZ3u02DBRm/p9u
+ZWiMDeJ3GUiM2iwod8da2FDkO6DF5Xr6ATIVUMG0Zgdb+nkPQoFpXqRJAgMBAAGj
+ggMAMIIC/DAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFCJ7xV2M+Xflo+Mp9DJVLwWK
+Sg4aMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEB
+BGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZy8wgbYGA1UdEQSBrjCBq4IdYXV0b2Rpc2NvdmVyLnBheXBhbGluYy5zb2Np
+YWyCF2NwYW5lbC5wYXlwYWxpbmMuc29jaWFsghVtYWlsLnBheXBhbGluYy5zb2Np
+YWyCEHBheXBhbGluYy5zb2NpYWyCGHdlYmRpc2sucGF5cGFsaW5jLnNvY2lhbIIY
+d2VibWFpbC5wYXlwYWxpbmMuc29jaWFsghR3d3cucGF5cGFsaW5jLnNvY2lhbDBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQE
+gfEA7wB1AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABa6E28fcA
+AAQDAEYwRAIgYlSLHcLmEuwb6splHVWXJlv23i6/2GWzCn2Fvep3mlUCIHVc4yeU
+rgzPA5E3zlRpf+WRRAPctYq7POMgVy8ikRyGAHYAKTxRllTIOWW6qlD8WAfUt2+/
+WHopctykwwz05UVH9HgAAAFroTbxxAAABAMARzBFAiB8MCQ+K8O8Mi9a5wnf3eDK
+VsBPdluK7SmfIpCGybQ3SgIhAJuvfYJFywPDHo/yTZZMf3pamMQ7RiEDizIGqHyh
+f637MA0GCSqGSIb3DQEBCwUAA4IBAQAfp54ohqb8cPWlXQYpiF1KDS9IzrGYh1Pk
+XDxjse02gCSWzOxE/wnYTxsDX2gyb7fPlKleKGrt1LsgsfI26nN6XzfBG5w7Ba7q
+lg3Miypbo7syGM7ee7OzalW1SDOMvc4VVYxHaPcD2JzJNKVr6lsVJfrtMYcLkrqD
+YEijEQ6EILniviyEZ5688q8kDpEKp8ZV6UTFvRQ5A+Pxwxm1chmqI/xPryAs/gPc
+OMxg+j9CJsnub54XtsjTCbWTV8bXBaZNZnpK3uowEAYS6E3AbWsp8F5C4TePUySg
+A1WYltAP3vS/ATQaRKyURH6QYbJYQ6/eRW0Znx06zFKFctX+WgdH
+-----END CERTIFICATE-----
+subject=CN = paypalinc.social
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3410 bytes and written 454 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 30D69B459040F9B4919003AB8FEDF01F82A79E1B41FBF5049E72ECD28C8E4717
+    Session-ID-ctx: 
+    Master-Key: 9C6ED816F9E06B778B23997DAC2DA87DDAC3FCF55C82C295216CF8165CF0B903D1855E35FCC2AEADFA74149D3FC32F00
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c1 ec e4 f1 bb 26 0f d0-b4 6b d3 5a e3 12 34 3c   .....&...k.Z..4<
+    0010 - c7 ac 41 99 67 5f 2a 18-eb 81 39 de 81 7d 5a a1   ..A.g_*...9..}Z.
+    0020 - c2 cf de c7 3a 6e 78 d6-31 2b 09 d5 4f 3a ad a2   ....:nx.1+..O:..
+    0030 - 1a af d5 19 d5 b7 01 2e-c7 a2 bd ff 28 01 44 78   ............(.Dx
+    0040 - f2 98 4b 24 6c 3b 74 85-a7 c4 7d 90 74 cd 1e 9a   ..K$l;t...}.t...
+    0050 - d2 c9 5a e3 65 15 a6 2b-da cb 8e eb 1e 95 a1 38   ..Z.e..+.......8
+    0060 - 9b 67 97 24 ee 00 52 db-44 e4 5f f9 c1 34 86 e2   .g.$..R.D._..4..
+    0070 - 44 ac 46 32 78 87 71 68-cb 10 ea 40 1e 1c 51 7d   D.F2x.qh...@..Q}
+    0080 - f1 73 46 ac 69 94 32 77-30 9f 65 e8 99 74 11 17   .sF.i.2w0.e..t..
+    0090 - 7b 2f 4e 29 36 93 f6 cd-30 4d ca 56 ed bc 59 47   {/N)6...0M.V..YG
+    00a0 - 18 cf 65 6c 65 ee 5f 4b-6e 9f 19 39 fc 2b 76 57   ..ele._Kn..9.+vW
+    00b0 - b6 35 4a 30 a7 f3 22 73-41 ce ff fe 36 35 30 21   .5J0.."sA...650!
+    00c0 - 72 08 a2 8a 06 cd 60 2b-ea fc 50 43 dd 56 46 42   r.....`+..PC.VFB
+
+    Start Time: 1561813227
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,92 @@
+http://cupomdavez091.com/login/?cart=175743140
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cupomdavez091.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFczCCBFugAwIBAgISA6dGWKL+rYyxzTQv2fGZDwAAMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MjIwNjQ3MTRaFw0x
+OTA4MjAwNjQ3MTRaMBwxGjAYBgNVBAMTEWN1cG9tZGF2ZXowOTEuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwPniJDi2qGzFRFWofBClohNyL09s
+Fs7g6Wd+MYWSn0NAzvyMDTZuQhx9e5lKAf/EktVbfkmP3FY0MrB0crxS/1WYTtLp
+BlK6gdxkLl5thbzyRFG535k6B5u9oXRkf8bvP7B4cKYHzqY0M/TmvFkn4AYUqiFC
+11dI8CX2UER1/SyJKdcYi740BXVJq1bEbqMmd3/nuwfEe3bg5XdaPkP1t5TX4ZQY
+iM1Y6p/Ks34O3gchYYKV77TeQNclPFZ77Nalpb/wCvptoIAg055cqcvi5mvzaGDp
+Cqsg/8PjzhgoeGud42ity8BgYimY8uH3eomx1u+tNKRveXsCSvQ2URD3DwIDAQAB
+o4ICfzCCAnswDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSbFT30yZmnpd1+VFPhn6BX
+F7h3/zAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMDMGA1UdEQQsMCqCEWN1cG9tZGF2ZXowOTEuY29tghV3d3cuY3Vwb21k
+YXZlejA5MS5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEw
+KDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEGBgor
+BgEEAdZ5AgQCBIH3BIH0APIAdwDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd
+3fHb/gAAAWregi+NAAAEAwBIMEYCIQD183oDMSMDj0VmSpisjrcIZFpagViIczvm
+27USvIHFWQIhAIx/BqvRlWso6iasQXeAtRTp5g5AcCu4v/fcOVBnSm/FAHcAKTxR
+llTIOWW6qlD8WAfUt2+/WHopctykwwz05UVH9HgAAAFq3oItuQAABAMASDBGAiEA
+5h5r3rrdIZC4vOy3tk5T/5TnEOKoUIBjrzSUsoLKw1ICIQCToXHS2Ap3V+upPXfb
+ogCeGR0yhMMZLiPRHyFTGG0rmDANBgkqhkiG9w0BAQsFAAOCAQEAmn7rklw4krlq
+ZJiPrPXELGuGz0UgYUM2eJ47MkjwRh5LW2SdfW98c5nburbO2x4347+PLT/qmcoH
+ZCeVa/tJwpxy0RDArQ/5oJ7SH2GIU58+hBzBtf+0VKXFwkUNlpOMSTLF+uPaE0cC
+LbMF9ZP4sPH5dJgiBNOzAojiMaF83ixe9hTCDtfqE5u+3cUuA1HiMlfNfT0vtVcQ
+Q7mblmWEw542/2QqmAsBmminWR1p8816GgaMG6SVEdhaqxqoodrXJIgtBg/aEcDw
+8e7HMhjlkYdubE+kh6pNdaeArgUwgPCes0adKvxUsaOM6DaFQmp4w8gju+hukW2l
+h9FqF8Ou9A==
+-----END CERTIFICATE-----
+subject=CN = cupomdavez091.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3282 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: FA254B6050D97E985DF9B3DDD9FD2A663EBCCE96E97EAA4B656349D7FFDEB2E4
+    Session-ID-ctx: 
+    Master-Key: 640C0A9521822EE635FA48314CFD12BFBC4B348A532F49CEB9ECDC1D0B7C1B13902627C872CD496CFD09DBAC91B98269
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 02 cd f3 8f b3 4e 71 f9-20 8e 25 26 f5 dc ea f5   .....Nq. .%&....
+    0010 - 11 45 50 13 4a cf 64 5a-25 cd 60 1a 6f 3b 12 1c   .EP.J.dZ%.`.o;..
+    0020 - 4b 85 91 8e 54 64 1b b1-0e 48 71 88 f8 d3 f0 1a   K...Td...Hq.....
+    0030 - c6 56 bc 4f 20 7d 49 be-e2 22 68 ab f4 64 af be   .V.O }I.."h..d..
+    0040 - 4e dd a6 23 93 59 ad 6c-45 c0 d7 a3 f8 57 80 cc   N..#.Y.lE....W..
+    0050 - 54 02 fb e6 dc 76 3e 46-f2 e7 70 0f 48 a0 c5 33   T....v>F..p.H..3
+    0060 - 7b b4 03 72 df 7a 76 75-e5 3c 63 52 07 36 d3 e2   {..r.zvu.<cR.6..
+    0070 - ea 7e 1c db 99 53 d2 02-51 2c d3 fb 74 15 51 65   .~...S..Q,..t.Qe
+    0080 - 92 a3 b2 1e 23 b7 a6 80-95 74 97 a7 ae 2b 14 b1   ....#....t...+..
+    0090 - 6e be 3d 4d 3e c1 d1 97-e2 84 5c c2 39 dc f8 7e   n.=M>.....\.9..~
+    00a0 - df 7e a0 a7 ee 85 3e 5d-d4 12 6e 77 74 43 8c ab   .~....>]..nwtC..
+    00b0 - 35 a9 5c c2 1c f8 f1 ff-14 d6 19 22 48 a6 12 28   5.\........"H..(
+    00c0 - 70 62 ed e3 44 8b 5b e5-06 16 05 a6 5d b5 56 13   pb..D.[.....].V.
+
+    Start Time: 1558530032
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

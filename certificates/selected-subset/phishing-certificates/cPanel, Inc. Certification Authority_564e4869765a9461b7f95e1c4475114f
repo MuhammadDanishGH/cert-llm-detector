@@ -1,0 +1,74 @@
+https://lashibifuneralhomes.com/old/modules/mod_simplefileuploadv1.3/elements/mistaken/realwells/W3LLS/wells.htm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = lashibifuneralhomes.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGzzCCBbegAwIBAgIQVk5IaXZalGG3+V4cRHURTzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTAyMTAwMDAwMFoXDTIyMDExOTIzNTk1
+OVowIjEgMB4GA1UEAxMXbGFzaGliaWZ1bmVyYWxob21lcy5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCvpqBGTQ5xtsuAnJ/8KSvqoCtD0b6mA5s7
+xQB/Xye/8GBS25+5HJ/gTFn/Ozx0xegHkOt2N8BSygdrg9N3TPftCUUOgCaNjzkw
+yVq9+AWTVuzsjXn61X+XebMObotVZ7/ssL3qHvkZHEt7CeHAGTuEknQNyddcyU+W
+K7X5v4CjM/lcQOFXsJSDjTxbkV76y89onwWJZU+mOxXjlqJRpXg+gZQraVmfmicw
+YA89YMRtvoaprUVDWH5jUNL8SJ5oU1/sDEHvyXjTvCVNAaqqRuSO0lz1w30+ZfJ6
+qeZZ2J6TXDNUb208xrldUxky+Gcx6wPgFG0HSbk2mQo0YVyuIbkDAgMBAAGjggOv
+MIIDqzAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU
+I5wohWQ8QlB38Ld/q8CnA5HWHVcwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
+MAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYL
+KwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9D
+UFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2Rv
+Y2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsG
+AQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGG
+GGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQMGCisGAQQB1nkCBAIEgfQEgfEA
+7wB2AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfKFnyOgAAAQD
+AEcwRQIgUotbk5bxcvxa1GtDGxYzUayQFV42gkDEGWyZPCa5XhACIQDW8SHN/iVF
+FlDpryui376FhRqFcAyhh7CV9mFGX0c1+wB1AEHIyrHfIkZKEMahOglCh15OMYsb
+A+vrS8do8JBilgb2AAABfKFnyKwAAAQDAEYwRAIgKlerAvgw0BiDrJ4E4mhYtr0V
+w8gqaJI2QDrT5czovtoCIAleFvhORbRxUTy4wGPKwA/Wg68+Eqj//F6/ieyQeA7s
+MIIBCwYDVR0RBIIBAjCB/4IXbGFzaGliaWZ1bmVyYWxob21lcy5jb22CHmNwYW5l
+bC5sYXNoaWJpZnVuZXJhbGhvbWVzLmNvbYIjY3BjYWxlbmRhcnMubGFzaGliaWZ1
+bmVyYWxob21lcy5jb22CImNwY29udGFjdHMubGFzaGliaWZ1bmVyYWxob21lcy5j
+b22CHG1haWwubGFzaGliaWZ1bmVyYWxob21lcy5jb22CH3dlYmRpc2subGFzaGli
+aWZ1bmVyYWxob21lcy5jb22CH3dlYm1haWwubGFzaGliaWZ1bmVyYWxob21lcy5j
+b22CG3d3dy5sYXNoaWJpZnVuZXJhbGhvbWVzLmNvbTANBgkqhkiG9w0BAQsFAAOC
+AQEAB5RJNNSgyDOqpej5CNeT9ysFnsz1e8JeCyKQYNUfIg6csSSchXqhP7tUCnuG
+jw/SnFx4BzGnyPuQzCjWTf0/JfiBilh9tVuYd880rSN7WqHygnpN2bv/VGTUXFw8
+75RCbRcroxnqrmCENcFIq5PObSzdbdHoeRsqFpZ7pEURSlaknVKn6wu2kixWL9Ef
+BqZgGZdkcXOFrlOYA+kjKMqJ3X+E8pZAva1xDbIiY6H1BeuIUv5hSEYWjbZyGIOz
+6sN1I0ygiZuwKzabLU6KKj19xkwx17G/6iBu04oLKtTdOpjlrX5aKWhn9N0BhZif
+rI67E+jPADDnKJ1y1KNZlnjhIw==
+-----END CERTIFICATE-----
+subject=CN = lashibifuneralhomes.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5252 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,71 @@
+http://authmysants-mobile-app.com/Login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = authmysants-mobile-app.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGVzCCBT+gAwIBAgISA4uKMBwm9AF8kPZi7DJBX4h5MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjAxNDU1MDZaFw0yMjAzMjAxNDU1MDVaMCUxIzAhBgNVBAMT
+GmF1dGhteXNhbnRzLW1vYmlsZS1hcHAuY29tMIICIjANBgkqhkiG9w0BAQEFAAOC
+Ag8AMIICCgKCAgEApX357DER9d5kYtGtonNjVn9zqyxO7OkY+ouW8Rw1K6m8MMbt
+WySKiY7BZ+nI66h5EGS4pi4oXrVst+HphzjUrJIrycD4iUodOt1eJtjgTQiTnlns
+If92YGeXEBL663a9UYcfcSaubtc+M5Wjkh/aD3axECwhm9Ie79hpl+1wMMuKCwGL
+GRd/jKE0Q0pazLgWhXIL45yqj3mVcbgLd3M7OK6Lt7SKcbkrH/3aqCFrA9EzwKrw
+0U5RKrK/58Gk/sX84aeDom9f2WJ5LGPucFNGqV3PJSyFbU0606v7uyVabeq85IQm
+EQag1POSzgfguYi9Q+DhhXgDZDcW9zg5DGJ0C3pAAnIE+qWR9Duyffhd+y/JNM7X
+erVQdoesH1Fm0/7LhzMVRqr4IbEPt7D4gpHObuC0SX/LqhvFg4g63MbjX43VDRlr
+9H/KewxajTcv/3MM9qDM8jFW7hI8QEfBcvW9dcvpcIHxzBHNDJUGhi0X7zvFRjt2
+EqdF4BjZUHyBqxJ1h9K0WIIhw4qB9PBYgCt3nVN7p2WKGTSbnl6MFKWDbM6WZcy5
+9vjs2xfBcrXpK1I04UbEAVsjlP9UPriMgFZWo+C3LGmHRnz2hbZS1h/FzAe4MoCn
+mEnxQh/TSlIjV/C5bj5YSplt1KfrKu+O5vys3C+k5ghebhuKRCvVkDawwO0CAwEA
+AaOCAnIwggJuMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUnh+A215sCz6LodSW7zXk
+dx9WTc0wHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUH
+AQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYB
+BQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wQwYDVR0RBDwwOoIcKi5hdXRo
+bXlzYW50cy1tb2JpbGUtYXBwLmNvbYIaYXV0aG15c2FudHMtbW9iaWxlLWFwcC5j
+b20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEF
+BQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQC
+BIH0BIHxAO8AdQDfpV6raIJPH2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAX3Y
+jbujAAAEAwBGMEQCIDUlSwCBy4u7haxDyr868Ce22JhEqYHJ+luAJukauYPEAiBf
+27T+MT4uLxDrFcE/DPbgXFeJYGq3bwD15Sh7QIIfKwB2AEalVet1+pEgMLWiiWn0
+830RLEF0vv1JuIWr8vxw/m1HAAABfdiNu8sAAAQDAEcwRQIhAJXTEcvtNzWC5kFY
+uvLu615zXVzlZOnWmOKSDHGOOwxzAiBjoVGxGi2byDb407L5IIHFMV2RcWidWmak
+A3YsO8oPZjANBgkqhkiG9w0BAQsFAAOCAQEAcBzzFaq0JsBUJKob1ENVFuG0mb/6
+VRFrQsaA+Ea281989gTBHx3xwoUxbqPnypGoWFmSXkv3o4+jW9xP59OD6Nb8OpgS
+lV4wnPAg8x4qzRyS+RZ+8ndh1wTIfTyZGl01cgYtlfcv4M23cI8SEEbjRZr1Ilz+
+1TZHE8yRdRLcrwbnN51Yos3XwAcNKwYOyJFqrCg/1SmS12f7cG9C34TEkPxSQFP7
+L458ntqSIb3NulLfeZMbYzJU8I+n9K6j1bDSidDn9wTpKyllASwpipS98VoiZdpE
+5QHtNhxFV2QhakEOjL/fAMjJqOszGr5GF82YzYxD1TrYwasvBGuDHnjwqA==
+-----END CERTIFICATE-----
+subject=CN = authmysants-mobile-app.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5139 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

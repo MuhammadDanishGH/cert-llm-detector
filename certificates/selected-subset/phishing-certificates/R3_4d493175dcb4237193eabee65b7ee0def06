@@ -1,0 +1,70 @@
+https://fundacionlaboraldelmetal.es/bbdds/mkbbssl/6ea456ff82c1638e060aff79ba92c5e6
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.fundacionlaboraldelmetal.es
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGCzCCBPOgAwIBAgISBNSTF13LQjcZPqvuZbfuDe8GMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MDUyMDM1MTZaFw0yMTEwMDMyMDM1MTVaMCgxJjAkBgNVBAMM
+HSouZnVuZGFjaW9ubGFib3JhbGRlbG1ldGFsLmVzMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAvad/rvzQklmV8gjBGJeeZZQZxeFZiRGaFELnIhh2uMEG
+J+rwLjLjggom9M1t5L9IDVt77fqRU1sfIdYHJ9/9y+t/X3NgqmKqC7V6zwbwqxMI
+lWgxs7xspk4/o+SAkb1sWdL7HoMWQmL8oX2kCJvopTNbIHwhBo3VlmTLcG3xe5nH
+PYm4M9upqcMBO4H2Aca8g5DlimDyYSBhZwmN54bBx57iF/IbG4ePf0CAB+vfGaoc
+hnsqzUFE3NlORnYLROZU0aZHkYOohhJlqMjUUNBFp9ar64ad3NmTGpMP0yFy3Plz
+KxCK0hXgJyNGMXTx1281eOoizfCPaUkV0VxNRsydSwIDAQABo4IDIzCCAx8wDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNV
+HRMBAf8EAjAAMB0GA1UdDgQWBBQvX/6qCnBxFbCjV88UX05DouaYPzAfBgNVHSME
+GDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYB
+BQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDov
+L3IzLmkubGVuY3Iub3JnLzCB8QYDVR0RBIHpMIHmggoqLmZhYXNlLmVzgh4qLmZ1
+bmRhY2lvbmxhYm9yYWxkZWxtZXRhbC5jb22CHSouZnVuZGFjaW9ubGFib3JhbGRl
+bG1ldGFsLmVzgghmYWFzZS5lc4IcZnVuZGFjaW9ubGFib3JhbGRlbG1ldGFsLmNv
+bYIbZnVuZGFjaW9ubGFib3JhbGRlbG1ldGFsLmVzgiV3d3cuZmFhc2UuZnVuZGFj
+aW9ubGFib3JhbGRlbG1ldGFsLmVzgi13d3cuaW5zY3JpcGNpb25lcy5mdW5kYWNp
+b25sYWJvcmFsZGVsbWV0YWwuZXMwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYB
+BAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5v
+cmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgCUILwejtWNbIhzH4KLIiwN0dpN
+XmxPlD1h204vWE2iwgAAAXp4mMZzAAAEAwBHMEUCIQD6U3M+uWsM7GJifR7u5fTi
+uEr1yw1jqnafrfX/WO8sdgIgGRY4kRVwESkt9UtoAiRdPjfGc/yh2tZSqqnx8++n
+oswAdwB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXp4mMaZAAAE
+AwBIMEYCIQCd4H4Ftil190123CH/OO/9bY/kBSRECMtv6jS5Qd3aXwIhANiytEXQ
+gs0PhVmmlewq8dh/Eu765Xbtf3b/QbiBYXvgMA0GCSqGSIb3DQEBCwUAA4IBAQCn
+aDrZtS8Ny4VKXmlu/Aej7L1hClRsZXn40uELMMB3AzqERMfwO3LpwSY5cRZt1iXw
+j/C1msMeDF8b8S40X35+BJtqqALnzmJA4qSZGDVeh4dnC4oE9H1T0cXYE2pPMgXi
+8w9U0CzF426X5dfBiFW1vqE97vz9f9t/47gLhroochI1gUa24IpcVxzHFCNtImJt
+5s1Tj+tjKcdnc8vx/Xv3xkvMGU1d+aJs/RsDEvYT87yzRmlamOUESwp+AZavTMO6
+kDrGkawdjmsJ1T1ddrMnC/R7SlrgnFzziLXmBzo54K0+1SPpYQAGOpkqQQsioKEv
+Jr6V98YVifQsZo2/wjVm
+-----END CERTIFICATE-----
+subject=CN = *.fundacionlaboraldelmetal.es
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4737 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

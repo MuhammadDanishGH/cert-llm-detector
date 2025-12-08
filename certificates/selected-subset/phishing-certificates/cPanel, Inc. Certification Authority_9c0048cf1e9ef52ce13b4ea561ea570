@@ -1,0 +1,75 @@
+https://calderwoodjoinery.co.uk/New/lin
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = calderwoodjoinery.co.uk
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHFTCCBf2gAwIBAgIQCcAEjPHp71LOE7TqVh6lcDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDYyNjAwMDAwMFoXDTIxMDkyNDIzNTk1
+OVowIjEgMB4GA1UEAxMXY2FsZGVyd29vZGpvaW5lcnkuY28udWswggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC1UkbA/fNwscr3Mhai7SdcrKWr/jS+ZZ44
+JywwetlokPwUhlUv+Scls2KSl6+akNrEimExm8SNlnMTvAXqWNMDmZbMiJs+PsTk
+7vnatsptwCrtsH31mwtet/ilpp+/x2L3W45Lbh7gRCSqw3ApqNmd6PJ1LhkBDHlI
+wzR65eWhFQHa/G2z+0frxDBZjNe0TGNAYrzhKiiKQKb09HCC/YUxpkcHg7+/xPSB
+NwriPkgOjVY3Bb8Vs2zL+j91yrTNxoTrL7rrOHrR1fCwJm7Z5CvjqVaRIjZpj7lI
+lGcFhFQvfK9qIW6IeLXju8fZGufJsLEA67ruOP6HscprEYQHl8B5AgMBAAGjggP1
+MIID8TAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU
+6iMZpWued/dhAgwY0nzYBnZo91kwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
+MAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYL
+KwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9D
+UFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2Rv
+Y2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsG
+AQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGG
+GGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQUGCisGAQQB1nkCBAIEgfYEgfMA
+8QB3AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABekaMebQAAAQD
+AEgwRgIhALeE0JznTtxcYUXOAm8bzXb9MmXm1g6W9yBfG/kwypFgAiEAuEbDxRVl
+ntN+IU3gQXRmKhnp0Pto24cKjxh6opKz4C0AdgBElGUusO7Or8RAB9io/ijA2uaC
+vtjLMbU/0zOWtbaBqAAAAXpGjHlzAAAEAwBHMEUCICnQIV87CyjBCkZTLY5gqTN4
+XIiGXNhEQubi95ehwPbmAiEA4LiDaZbCDkhxi+0lFA7YrpBShJ2MDsI69pWraQid
+taIwggFPBgNVHREEggFGMIIBQoIXY2FsZGVyd29vZGpvaW5lcnkuY28udWuCJGF1
+dG9kaXNjb3Zlci5jYWxkZXJ3b29kam9pbmVyeS5jby51a4IeY3BhbmVsLmNhbGRl
+cndvb2Rqb2luZXJ5LmNvLnVrgiNjcGNhbGVuZGFycy5jYWxkZXJ3b29kam9pbmVy
+eS5jby51a4IiY3Bjb250YWN0cy5jYWxkZXJ3b29kam9pbmVyeS5jby51a4IcbWFp
+bC5jYWxkZXJ3b29kam9pbmVyeS5jby51a4Ifd2ViZGlzay5jYWxkZXJ3b29kam9p
+bmVyeS5jby51a4Ifd2VibWFpbC5jYWxkZXJ3b29kam9pbmVyeS5jby51a4Ibd2ht
+LmNhbGRlcndvb2Rqb2luZXJ5LmNvLnVrght3d3cuY2FsZGVyd29vZGpvaW5lcnku
+Y28udWswDQYJKoZIhvcNAQELBQADggEBACz1TWlSgU6CaR/xX83ZDZqP61UBcyuj
+XALqCSUJ6Hy1BhTU4TUI7mvaHib9NFtiLccECjJvZvV+mn82LhZic47zsi42QyjP
+yMqyUjkhgybZj0ZuBjrOQ95LFWYol8LubyaRzUc88ZpeYRriXlAlQPEFL+WFGX9h
+SnWSiv54bCJHJN3xfUXnOnl6fOaavE4QTU9mv21QLUfuKAssO7PLSLu1H4aMQv2c
+HPeOL1fjxwbRdPu9i07Y2ZDIUZweJ4N9HCpqgU2H8u7H1m7t/3JKP5ogS2u9uOGg
+fUBw/PbsqoEkgGVJ50Y1E4LSHBv6fMXKfd0wziz/L/fZayGFI/KJtL4=
+-----END CERTIFICATE-----
+subject=CN = calderwoodjoinery.co.uk
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5322 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

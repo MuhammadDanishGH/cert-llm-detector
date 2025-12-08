@@ -1,0 +1,94 @@
+http://listen.view03.repl.co/gzha-0d-w8ex-8phange-9aslb-9a-8p-0dm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = view03.repl.co
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNDCCBBygAwIBAgISA/UbPR5rorZXj6jcZOgodADkMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMjkwNjQwMzVaFw0yMjAxMjcwNjQwMzRaMBkxFzAVBgNVBAMT
+DnZpZXcwMy5yZXBsLmNvMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+vNfO7LEiNwJL9V0ricqEA6qS3sZ0S1QtxHb3j+F1y5GJ8RjvWUoJFKGaDIZLpWqL
+z8pzOy4o1NOQKumSNJF4T37TvdGa5ZLyeGDEEAmCyHVf/Vk5APc6oS90E4EmAzbC
+0oLAlyFCf/2MpWuoMqOCCfyFhlzV2I0EXae+piU9NQfvaZhv7P/X0LGHc7l5th0S
+tdyRlhUMioNDXF0Ms24AKTtOP2pDTSU0NkrcQxrbtgnEFpytnMyy7vCkmt7YWUPr
+w75WJJ7/ShDup6Ksh+6mXrxuDYcJyNBuvzQx5Gd2uGA3jweVEhRlUwQh0AtbraWE
+lzZ9DkmyzRzeFZWj0moqiwIDAQABo4ICWzCCAlcwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBT0SKG/X8aBY71GdkCm8B+kMRSakTAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzArBgNVHREEJDAighAqLnZpZXcwMy5yZXBsLmNvgg52aWV3MDMucmVwbC5jbzBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfMr+S00A
+AAQDAEcwRQIgRkmG/zdf2FAPdyRc7nm9FLGvkN05ZxvJNuZzrImm5mICIQDWwdvo
+KslF9A8WQeUPSramsavfsqjl5B6mSY2YQTaXXgB2AEalVet1+pEgMLWiiWn0830R
+LEF0vv1JuIWr8vxw/m1HAAABfMr+S3MAAAQDAEcwRQIgK3b2YiWaO78y2TAfztj1
+VOTwmF4BSFRpY91/t4Wc+x0CIQCZJvdPNCz199TE+smVFus34ABpvN8BMRqKmUn1
+mD+C9jANBgkqhkiG9w0BAQsFAAOCAQEAEJCTuvHY5xO0JvC24BhMsrbn6Yxp/vjk
+bVzRGhekDDMjyVUeJHo0gxe5Bs7ba2x2vBR3COQItG/wcHxmMNIleQLl77grF1w8
+FPkU9lHFtC4kwQDO+EN02l6qM7tbrbGphtF0poUFng44K6IXeK5pcwUO6q0M0Ejz
+P0Qsjh/LsXLYRkqFdRbSyPB00CFgJE1CXkbmYMfi1GhruIMQwkzyniul8kfHpYqT
+OkRRn8TweIcE7MdBBgS+d/GxFxTm5QK8Dt1cC8ffN1uXs0SULePxR4cVqve5W/41
+V9xGVSfEeF6YTBAarLFWoGvi/gpO3mNhsEg4Fhuhhkda0nA7/Vjkjg==
+-----END CERTIFICATE-----
+subject=CN = view03.repl.co
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4572 bytes and written 379 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 48F9BC13BAAB2C7DC76A47A90F82F2347555A5BB25FF581C86F2F4ECACACE848
+    Session-ID-ctx: 
+    Resumption PSK: E09EA40CECA916B5182697C4311833E7ABFBBC76352118E7FECE524B70D385BA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - 73 f0 fa 02 c6 44 a4 d6-32 66 41 1d de e1 d7 37   s....D..2fA....7
+    0010 - e7 ae db ca f4 f6 ce 3a-8f 65 11 58 88 f2 b0 6f   .......:.e.X...o
+    0020 - ee a2 6e e3 38 91 3c 99-ef 73 77 9e 81 37 11 0b   ..n.8.<..sw..7..
+    0030 - bd 4a d6 91 17 d0 f6 6d-d0 a9 69 33 8d 7a 9a 9a   .J.....m..i3.z..
+    0040 - 66 0c 15 d1 27 27 f4 2b-b4 a0 6f be 11 f6 73 47   f...''.+..o...sG
+    0050 - 58 e6 1c f9 ab da 7a 90-12 f4 8b 1b dc 86 90 47   X.....z........G
+    0060 - 45 6d df cf f2 4c 28 47-cf 88 2e 9a b1 c7 51 89   Em...L(G......Q.
+    0070 - 3b                                                ;
+
+    Start Time: 1635856743
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

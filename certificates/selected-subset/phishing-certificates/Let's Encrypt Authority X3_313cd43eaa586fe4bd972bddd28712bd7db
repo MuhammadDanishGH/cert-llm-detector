@@ -1,0 +1,94 @@
+http://renovasuacasa.com/index.php?produto=697810641
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = renovasuacasa.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF+zCCBOOgAwIBAgISAxPNQ+qlhv5L2XK93ShxK9fbMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAxMjYxNTQ4MjNaFw0x
+OTA0MjYxNTQ4MjNaMBwxGjAYBgNVBAMTEXJlbm92YXN1YWNhc2EuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3XrO05dRyOzN4dsZDzL4CUTVtfz4
+2HUDqgHE6ZViJfY/LC1KNYON+DAtgBScIsvXFn4aR4B2fDXjn/t/MS+bff6vauey
+rAgkBrRIW2bOXna/co5AY+RJhBWsTwgO8dynt4XlXWX2DgZIJmMdOQkD3N58RZyY
+xWyqdaqSJl/PORPpnTbTD+aJJTLQjWHCU8QmbVpiJLKli3hn4qR0xH0qb58Smoq3
+ypUDnU3WMteUpO/QS/SFrCzvWBF5MpvuIigrkQAXKfBlCh3rCCGfb2OZdHN/QD+h
+sz6ZWOSobxqKKMS3GWrR8M0p2JfqgXgwHDF3PpboW57gzgwzG/nDziU/kwIDAQAB
+o4IDBzCCAwMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRJXk9kIWXJw3/V43qgeyB/
+IvIMUzAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMIG9BgNVHREEgbUwgbKCHmF1dG9kaXNjb3Zlci5yZW5vdmFzdWFjYXNh
+LmNvbYIYY3BhbmVsLnJlbm92YXN1YWNhc2EuY29tghZtYWlsLnJlbm92YXN1YWNh
+c2EuY29tghFyZW5vdmFzdWFjYXNhLmNvbYIZd2ViZGlzay5yZW5vdmFzdWFjYXNh
+LmNvbYIZd2VibWFpbC5yZW5vdmFzdWFjYXNhLmNvbYIVd3d3LnJlbm92YXN1YWNh
+c2EuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHW
+eQIEAgSB9ASB8QDvAHUAdH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFYA
+AAFoiw/vVgAABAMARjBEAiAhV/2oPU0CqJvGPK/Xo76jBBwOHtxnei1MiN5qoKnB
+ugIgdo3j7jsjm0FvfCRjQl4hz3mRyJKb0axwJ2zeKAvHJFYAdgBj8tvN6DvMLM8L
+coQnV2szpI1hd4+9daY4scdoVEvYjQAAAWiLD+9/AAAEAwBHMEUCIQDgQ6/LdJRA
+XQzJS6PKAGN3RwO7dh/p4GWeznfyx7oLAQIgRviYJKq637XYc911L4U2jUgma5Cv
+B108w875u3kooWQwDQYJKoZIhvcNAQELBQADggEBAAXNKQyhy4XU5LUUe6Tp38w3
+ZAXFyehkhCX2cIcfApUtbNeUwftc2ourI8Qfme4AqBi8qMCMlgPMBlKAaB/K/ZLj
+i3pQcthblx7r88phpsdtKwWqYixplI5LEGpN4JpYYPbxe3JYMpWxqEe9h5vky0ab
+Te1vuk8C2GqJtu3dh3MpFxX0uMiEokcuHbsWUBJvslfnAwgMVlhUFScwYQJN5Sq0
+tAUKQ9Y/fCjpFjYjQYBc5yYmG2UDZztqsoVR/ZavsupdTeE4w0u43D3GSGyrLo/P
+6QMGAP+nkOMEytVdRGyv1grCZ3Poa816wkJ+dtzIce4xMiHbI2vvszGHjfGFloQ=
+-----END CERTIFICATE-----
+subject=CN = renovasuacasa.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3418 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: A1400A8892AFE2019141AA76354AF987D1F41CA8CEC173D3028A109634B8F3B2
+    Session-ID-ctx: 
+    Master-Key: 435980169182212766210C6923CC1AADACB53A975143C6A431F4AF6ABAD80AAE1B7BEA91A3FF4A123A874A1944673A9E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f2 f1 ac 8a 63 0a 68 a1-19 60 56 88 9e 72 68 c0   ....c.h..`V..rh.
+    0010 - f3 3e 93 0a 94 b1 b7 1b-4b 0d 7b 2a 39 dd d8 75   .>......K.{*9..u
+    0020 - 2d fa c2 c2 70 84 c6 5e-3c 03 29 0b 5a fa bb 2e   -...p..^<.).Z...
+    0030 - a0 6b d6 ea b6 3f e9 9c-36 70 07 4e 2f 38 f0 af   .k...?..6p.N/8..
+    0040 - 4a 72 06 c5 5d 41 e8 09-ea b1 ff 95 eb ec 92 1f   Jr..]A..........
+    0050 - ea 11 dc 8c 6b 79 b4 4a-72 f3 3b 99 64 7c be 39   ....ky.Jr.;.d|.9
+    0060 - dc 4d 95 0c a0 51 0a 06-a5 ba 3d 9b 9a 6e 68 e5   .M...Q....=..nh.
+    0070 - 93 30 57 b5 34 64 c5 65-5d ff 78 82 7e bf 1b 7c   .0W.4d.e].x.~..|
+    0080 - 7d e1 b3 9b 7c c4 20 c8-fd 4e 06 06 cd 82 a5 cd   }...|. ..N......
+    0090 - d2 00 fb 36 39 fe ba 61-69 ca 4e 7a 83 98 f7 6b   ...69..ai.Nz...k
+    00a0 - 77 fb 0b ed 41 06 9f 9e-16 b0 a2 dd 60 e9 0c 88   w...A.......`...
+    00b0 - bc eb e7 5a 31 e2 8f 7c-61 cf 4b 05 b2 38 0a 26   ...Z1..|a.K..8.&
+    00c0 - f2 ee 70 78 1d 1b a7 66-3a 24 44 49 ff 7d 54 9e   ..px...f:$DI.}T.
+
+    Start Time: 1548684037
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

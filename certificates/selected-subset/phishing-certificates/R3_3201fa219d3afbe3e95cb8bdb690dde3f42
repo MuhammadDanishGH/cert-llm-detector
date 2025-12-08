@@ -1,0 +1,66 @@
+http://appsuportempago.biz/gerenciamento/senha/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.appsuportempago.biz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRTCCBC2gAwIBAgISAyAfohnTr74+lcuL22kN3j9CMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjQwMTM1MjVaFw0yMjAyMjIwMTM1MjRaMCAxHjAcBgNVBAMM
+FSouYXBwc3Vwb3J0ZW1wYWdvLmJpejCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBANW//jcsp1dau0vC84X/iJbeKM5tZoLa2SHXZEanMiKKI3Q404WIqWbh
+mDBPahGG0N1K0myFZAIDYQgTZAqDQ70JyvGF4+QyjXQk1nYFumTPrGYj/Fycbcxf
+o+CsVX6lMwLQ1hgQpGdtvKml0E6HTx6T2MAfWj2qrNTAP4yiSaWvD91Tmauh+ljw
+bk77LyzhuD6YbBv85l6Q0lbwv2Bxap9Wq/ONiR/CB+olSXKlwht5GZAeSbZX1gLy
+qrzWdeWU1TssZyBx8yO/uLKpvyjz5UOxr20U7TuCTizzLGtk6Irz4K3kfnsAxKaR
+LGQ3enoIBmDn4o12qCMIXbE7zJknL00CAwEAAaOCAmUwggJhMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQUJHDB9SVujwDIJC9EzaYq/ThA0nEwHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wNQYDVR0RBC4wLIIVKi5hcHBzdXBvcnRlbXBhZ28uYml6ghNhcHBz
+dXBvcnRlbXBhZ28uYml6MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+BAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4
+havy/HD+bUcAAAF9T8xAKAAABAMARzBFAiAwF4bsU3cIB7qQ2dwF04o8+yfdxrbD
+zCcKpNMN7fdahwIhANwS3GDZD89RIywzCXszAwKSHRALwc48Ig2lJuyZPuH/AHYA
+36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF9T8xB8gAABAMARzBF
+AiBwxy6kOXQJiknXVPR7qr9Af8Gyf5UkXTU4OwjY6ACkJwIhAMZuAB4Kgvdg2BqQ
+SgT2KZ2d33yEzi/MRT6+TnxPs4ylMA0GCSqGSIb3DQEBCwUAA4IBAQBAxCR1YiU9
+pFHy+347dGYf99UpnXtqPxcm521efCQ2PS4m8+AaC77lFOpxpBixpFY+VwbELiId
+PVNMvEstQMxPR2sUDNDpyGNS7R8Tznk7045QIfvY+eIVhBgAKzdNq1iBLjTzX3NY
+ieXq/SjmySczy7ICIvQxUlUZLdXrb+E+VJHwjW34rRjUPA/rZkRXMFc+/y4uicLl
+pInUZwVij8VFUEcMBX2rlIlhtYlCWB4CttXzIDt3eCOIWdM8GQEW9DQgSLJOhzbO
+uL67AqBFD1ZWyV2eIRBmqVciD3iwixniDel3jLoIVgHN7I//Q+3S5TRVq17BqCSA
+UmNQnKTk6Q3s
+-----END CERTIFICATE-----
+subject=CN = *.appsuportempago.biz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4543 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

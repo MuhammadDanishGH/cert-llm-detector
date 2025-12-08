@@ -1,0 +1,71 @@
+https://versement-de-fond.acces-aps-lbc.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = versement-de-fond.acces-aps-lbc.com
+   i:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+ 1 s:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGljCCBH6gAwIBAgIRAIc4owUcWeUXA8+G+OwKdkIwDQYJKoZIhvcNAQEMBQAw
+SzELMAkGA1UEBhMCQVQxEDAOBgNVBAoTB1plcm9TU0wxKjAoBgNVBAMTIVplcm9T
+U0wgUlNBIERvbWFpbiBTZWN1cmUgU2l0ZSBDQTAeFw0yMTA5MjEwMDAwMDBaFw0y
+MTEyMjAyMzU5NTlaMC4xLDAqBgNVBAMTI3ZlcnNlbWVudC1kZS1mb25kLmFjY2Vz
+LWFwcy1sYmMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArdut
+pW1mKHxdc7ZeECA2oY0Zcc8NqgFdkJDPkAN0vjejup6hXXQ7Fio26PfwFElTdfzd
+3+AUVXxh+EH11n1VvmbHPRiXBuCdR0rc3CZBCtNN5HkRXTRTwviWp78hgUJExbjB
+P/tm3MB4DJXI+IoUaR8UZ9hGHDanyQFWSn2Fr77yMrXTOcqF2A7Y4KrcLtR4WpRl
+6s1Hvuj8lBqtsfYLTspBicO9e6zj2ZjOj8hMV0EkXGaIqMcB0zpLvBd+FbIfVN+x
+O9xY2zk6YK99jOWSN5+hNFFBfa8FsRDBgg5dCOFz7PXufLTdDq4NdeRE0qqGd/kE
+oUOD+v7v3PKnpJ56mQIDAQABo4ICkDCCAowwHwYDVR0jBBgwFoAUyNl4aKLZGWjV
+PXLeXwo+3LWGhqYwHQYDVR0OBBYEFCnPvVhgTCbsj7jvwGMmYW2CQiQvMA4GA1Ud
+DwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgJOMCUwIwYIKwYBBQUHAgEW
+F2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBiAYIKwYBBQUHAQEE
+fDB6MEsGCCsGAQUFBzAChj9odHRwOi8vemVyb3NzbC5jcnQuc2VjdGlnby5jb20v
+WmVyb1NTTFJTQURvbWFpblNlY3VyZVNpdGVDQS5jcnQwKwYIKwYBBQUHMAGGH2h0
+dHA6Ly96ZXJvc3NsLm9jc3Auc2VjdGlnby5jb20wggEFBgorBgEEAdZ5AgQCBIH2
+BIHzAPEAdwB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXwIiiTh
+AAAEAwBIMEYCIQCLhVvQyxRDTLiR2lSTiuAYE8guLnz2c+lWtJ9GcgR04gIhAJH+
+9JxzO1vdzrJRO5PiCGek3c38KRlp/kFLtVf0KcjOAHYARJRlLrDuzq/EQAfYqP4o
+wNrmgr7YyzG1P9MzlrW2gagAAAF8CIokpAAABAMARzBFAiEAtgN3SJIdbJs8J0qT
+8ukXy2EV6WCpqsSRDMLSgRE1dJUCIFuiDnbpFMogrr+sakbviRZH59g+7kVhtRNY
+XeZRRnZVMC4GA1UdEQQnMCWCI3ZlcnNlbWVudC1kZS1mb25kLmFjY2VzLWFwcy1s
+YmMuY29tMA0GCSqGSIb3DQEBDAUAA4ICAQBYPV774S1MSP743Nv3yblu+4lv6zxF
+vgATNaf4CEN1H8VlaFQ3HcRTaEvjZaU2mJ21CKlvuMEgPFLNx5QNs0q86aTGBf1N
+QXc2WD2dahxkGEJTEc/AIoVEIjFrKZ3qpWwuFeAnvjx9vBqEG1csBF1SSDR3LiW8
+BH1oLdd9FdC0qVzEeqx0sBJl1HmYzpOcE0WJncIeTEgmFX6ctuoqCDAGaHxMtuEf
+rCmWZ3qMglIsDApIPNw0EL6/cEpkJYu0k4lxn/HBohXj/manxGyjXOq1ivmqkNra
+96J7t0uE23l+/DC0KNig6mvoqDzv2wtPuW8ZJAq790kZmnnnY++6O99IY4GZX9AD
+i4m0ntFhMDyjYfYavritJQkoDztDc72j0q5Be/53oRqghMEAto5t5x73BZEP8ylA
+KD4XcEp4v3hxigyRMnU2gYhwkBOBDxbPn4JrPYPOLSmEWd/LFQc59cKHj3u5vupF
+zlF6S0r/MWaPZUg27z7GaE4eJBIbhUgHn2ccXCGG2heoIP7S7vJiQpAXhYVxGZV+
+/YxK0BDflc2WBue50BIfT0z4MB4prfNfFwPIkVTTZHI7MUSPlPkVffMW0fIZBLJn
+BfwGUlbjAvtd3gfQufL1M4fOoR8B121vEVZBC321eilBUnLTFeIGtd8El5YDpH51
+8Cqlpvzl+uKFQA==
+-----END CERTIFICATE-----
+subject=CN = versement-de-fond.acces-aps-lbc.com
+
+issuer=C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4008 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

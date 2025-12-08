@@ -1,0 +1,97 @@
+https://irs-gov.us-get-payment-submission.com/?verify
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.irs-gov.us-get-payment-submission.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFqzCCBJOgAwIBAgISBG04oXRMJymKntX/izG+QjQTMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTgxNTI3MTZaFw0yMjA0MTgxNTI3MTVaMDQxMjAwBgNVBAMT
+KXd3dy5pcnMtZ292LnVzLWdldC1wYXltZW50LXN1Ym1pc3Npb24uY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxcDJnSaEpo6iEyUK3o8XBPgCoJxl
+dLP68pz4tTVNOE3Gioc65BnCw03Snuep/GYC74grtlRXFMlmP+U3pucAdC/cyZ6G
+XYNn7vKeparO8ysXasqKqbmvfJdey2tRut3znEkuYCGbjR56lxWBuVJC46BSm+38
+kq0F5ZcvwrCg7sNaJvhaA0gFy1mLz/4Shg2IcmxD1dEgBavWTatNAOYGx7uFuECK
+xQbI0BABU5pdHrjFzkDLIFPbK/Weknc+Lb1RGZqSuUOjs4MaFFQlRf9LfQ/axlOX
+gNms1mVsCNYWdmVoIOw6DB+CYhWDBljViOyOxfD2GgB/kYSp99PWcWsJFwIDAQAB
+o4ICtzCCArMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQ5CnCl0cN/gCHGFhFnVa6d
+ES/J1DAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcB
+AQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEF
+BQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzCBiAYDVR0RBIGAMH6CJWlycy1n
+b3YudXMtZ2V0LXBheW1lbnQtc3VibWlzc2lvbi5jb22CKm1haWwuaXJzLWdvdi51
+cy1nZXQtcGF5bWVudC1zdWJtaXNzaW9uLmNvbYIpd3d3Lmlycy1nb3YudXMtZ2V0
+LXBheW1lbnQtc3VibWlzc2lvbi5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYL
+KwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlw
+dC5vcmcwggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQBGpVXrdfqRIDC1oolp9PN9
+ESxBdL79SbiFq/L8cP5tRwAAAX5uA5mDAAAEAwBGMEQCIGFU3RDQGhXB9K/VMnfw
+CLfPnNtuFxy4iQice8eA9ih6AiBIJ8HaWNHI7Li9RmY/mxi6zkI4gy5yl/zVPVmS
+LAGlTgB1AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABfm4DmbEA
+AAQDAEYwRAIgeHMm9E/c98K6jXvMjw+XbUOSUYc2pvLBnN+Y9i6mq1ACIBYhBdNs
+Yp4W+IqDfA+Cb5/XlOSJmtFi+1orlig8eYT/MA0GCSqGSIb3DQEBCwUAA4IBAQAU
+t95mjoTyXXr5IjE7b1Kw4g8m37NJjOrT6g4ouAXc71NquUPk878L8/D8u90GY1Ou
+iIDCGNJfo/IVpsAyVl0pF6tr5nRnnwmE15YaWiBdMV6hPhAW3kyN5Wo1rOlTlsfR
+n8EbbI40lYCrikERya+r6/bkmUKtcpV+hpdrN9LYzJbpJfUeX6Er2PmKSHXfft7Q
+RlXTG916/xlRq3HK1s6cQMixZ+lv28ggFn3hnSF0A7SCCsogfn6YXuNU1zNiKJRE
+zK/CgqAWVrDZ+V112JIMhtk+LlCUwGXXmpr12thd59SjSFDsH2QdGDcVxfugVmW3
+QLEWi/zMB0CY3e6DZurx
+-----END CERTIFICATE-----
+subject=CN = www.irs-gov.us-get-payment-submission.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4856 bytes and written 424 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: AB887F480F0BB631668CA5F358070C9F318E4424CFFE8CACE2270ECFAD631EA7
+    Session-ID-ctx: 
+    Master-Key: D6723F88949D6198266C0364FB09B564C7F9D31D5761676800A46C72A7885041D9EC14CCB4FC93892B9685ADDE0426FA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f6 f4 0f 70 48 1c a7 0f-65 9e f8 0b bf e3 56 ea   ...pH...e.....V.
+    0010 - f7 00 79 05 2f 84 f9 00-de 0c ea 3b 50 f8 47 c6   ..y./......;P.G.
+    0020 - 0b d6 8c c7 ad c6 34 ea-25 1e 72 52 45 b9 88 35   ......4.%.rRE..5
+    0030 - e7 4d 73 ab 62 13 0c 02-80 11 9c 93 92 64 fc ed   .Ms.b........d..
+    0040 - 46 c1 90 ef c0 53 dc 42-30 38 ed 5b 04 5e 92 fe   F....S.B08.[.^..
+    0050 - 9d fa fc 4f ba 4a ec 53-73 2c cb 50 21 9d 4e 87   ...O.J.Ss,.P!.N.
+    0060 - e8 65 69 dc 8b 3b 4e c0-a0 60 dd 98 a3 6a f3 5b   .ei..;N..`...j.[
+    0070 - e7 dd c9 83 46 aa a1 ee-e4 48 02 92 f8 0f 3b fe   ....F....H....;.
+    0080 - 2c 4d 57 fc fa 81 3e e9-e2 55 de 4d 50 9f f1 f9   ,MW...>..U.MP...
+    0090 - 96 b2 79 c6 6f 0b 71 33-6f ca f2 85 c0 ce fc c9   ..y.o.q3o.......
+    00a0 - 19 2e 89 d7 a4 86 83 fa-e8 1c a9 0e 15 be 6b c5   ..............k.
+    00b0 - 23 5e 2f f2 c8 e4 d4 da-9f 1e 5e aa 17 ec 45 c1   #^/.......^...E.
+    00c0 - 82 d5 69 2d a3 e1 00 d3-e9 0c 7b d9 db f1 6a f8   ..i-......{...j.
+    00d0 - 57 4a e7 0e 9c 4d f1 0e-27 40 c2 82 e9 53 3e 22   WJ...M..'@...S>"
+    00e0 - 08 92 38 08 d6 e9 ee 77-0d 96 c9 d0 37 92 8c ab   ..8....w....7...
+
+    Start Time: 1642552674
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

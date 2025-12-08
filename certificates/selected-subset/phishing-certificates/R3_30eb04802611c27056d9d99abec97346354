@@ -1,0 +1,77 @@
+https://services.runescape.rs-cx.xyz/m=weblogin/loginform.ws770,254,607,50870339,4,7042
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = services.runescape.rs-cx.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPzCCBCegAwIBAgISAw6wSAJhHCcFbZ2Zq+yXNGNUMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MjMwNzUyMThaFw0yMTEyMjIwNzUyMTdaMCcxJTAjBgNVBAMT
+HHNlcnZpY2VzLnJ1bmVzY2FwZS5ycy1jeC54eXowggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDFIdhP6TIA6xZSuP9cCrdKCNygRZcXHloN3mzqb2R0R3mC
+2gxULlVWASNCKcdXPbtbhUcqtydHDLo15+b5gKm8eSdVew1NoCvW9RimLWTpLeWV
+g9cQG0NmsXG4fFA/gBV3G+T64o0DgcuUVMp+ngR0QqaQsGvkn6bxzRaXr9bGrSTR
+NXudRHMDO8NnEGu2YDg9jVStAVg1ZL3k/Cc6p9pek0K2h4x7XgDssxBdZEsgnqBZ
+rh6f5j5OAvHa8DzaM+p0kog3bN9kbDZyTlVeLmP4SUCKOCqhAr1+iqJZDYF7PMCF
+DRfgc2+OvY/i6RG7SLwLCtB1NOF3RlSzMnVe1M3lAgMBAAGjggJYMIICVDAOBgNV
+HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1Ud
+EwEB/wQCMAAwHQYDVR0OBBYEFJkkqPmo6RzaJN9jzln0Ka0/j6UmMB8GA1UdIwQY
+MBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEF
+BQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8v
+cjMuaS5sZW5jci5vcmcvMCcGA1UdEQQgMB6CHHNlcnZpY2VzLnJ1bmVzY2FwZS5y
+cy1jeC54eXowTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAm
+BggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEE
+AdZ5AgQCBIH2BIHzAPEAdwCUILwejtWNbIhzH4KLIiwN0dpNXmxPlD1h204vWE2i
+wgAAAXwR2wR2AAAEAwBIMEYCIQD8wBiLGBVVFsVsSd4WrKMpcyQnV2LAbFVFAPtR
+HdoBbgIhALSFJ4kSLlvyhYxlrtpZpc7rWREFyGyUeldCud50ProMAHYAfT7y+I//
+iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF8EdsEngAABAMARzBFAiAWDgUQ
+ozgrc7aa7vsO/PY2vdLAAvumQzzZmohOVo8L+wIhAPWo9GCIykos7h8fuHCEmcb/
+yUkrC1zdeyKEsSnSo/rvMA0GCSqGSIb3DQEBCwUAA4IBAQBiFsOgNe/bez8EKxou
+mJIGjcf4uoEzZgMaTfjYxZ3jZSKyZc5GIJcpK1PST/erVd80Q6rZHQNj0fMDpsUQ
+weJAlA1Ni/57WTr/4g6ch1xT4hLeNazCZUXzXrrsuSUgPal03FRny8RZMgJXDyKA
+AlQqHOZQojF0LrNeC1onhKChlf7f3WBWWuKxyrmeKr1hdVn4pluJq3Lf3YF7mWsu
+iwYO6AQIac/zabvSZly9PvQPSMnKOfgbIB0vD41swHxfiM9+icwOCTn7LCyeUWJQ
+7r3nVadsm0MHsQkBoeWFgBTpRIvbw/D0zieCkCz/7x8hnoz32q39a0nQ31jB2Kg3
+X2HR
+-----END CERTIFICATE-----
+subject=CN = services.runescape.rs-cx.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4521 bytes and written 415 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 62D9182E443AD17137143CC7EF91FF0C4CA61E99C424538D69DA1B9CCA74E04B
+    Session-ID-ctx: 
+    Master-Key: 62DB0E312C55F1147833CE0A0CB2D7C78AB8856674B3CFC4EBFD2F1FA2E05EE4D4966CF4B9EF6A192530327E68F677FC
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1632425753
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

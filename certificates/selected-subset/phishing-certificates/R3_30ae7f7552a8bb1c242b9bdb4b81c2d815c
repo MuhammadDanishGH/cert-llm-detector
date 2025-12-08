@@ -1,0 +1,65 @@
+http://almarjantours.com/.well-known/pki-validation/macireadylatest/go/phone.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = almarjantours.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFjzCCBHegAwIBAgISAwrn91Uqi7HCQrm9tLgcLYFcMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMzAxNTQ3MzlaFw0yMjAyMjgxNTQ3MzhaMBwxGjAYBgNVBAMT
+EWFsbWFyamFudG91cnMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAtM2Ay7Vwhf2O+cgzrq9eU4I2p30mkt5sHMFv0EixysV3q68izxSWTJKXZdbw
+YQG/liTpwEZ/D1oqHPlDuB9Vn+FJEloiQPx0qBeGM57wC7tKUXGb4h+AJo2cXHrJ
+3M7YJedvo/oUgtoWNjOm1+rOta0/bLKQHd6HmJseuZ0V4ol07jgV/fssI2M1PUJm
+ramXBqZ/3RJXOXCQKOn9x78oSTlvdVVVpEz0DuFTEjKl5Z/o2sw5NK7vTznRKa9G
+GvIm0Cn5UVeueThneXHuVZWSAl4Y1txHOOJE2izJGwEg9raYl+7rT11W7/ORP3Nc
+Pieay5QcfQDxqn1U2HPc40riawIDAQABo4ICszCCAq8wDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBSabEDEeWRu1oEs075HHuJWX/Rv8DAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzCBgwYDVR0RBHwweoIRYWxtYXJqYW50b3Vycy5jb22CGGNwYW5lbC5hbG1h
+cmphbnRvdXJzLmNvbYIZd2ViZGlzay5hbG1hcmphbnRvdXJzLmNvbYIZd2VibWFp
+bC5hbG1hcmphbnRvdXJzLmNvbYIVd3d3LmFsbWFyamFudG91cnMuY29tMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDv
+AHUAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF9cb6miAAABAMA
+RjBEAiA8gD5j/niy4BgUKsasU2ELbVKUKszZ59hLa4556lKuQgIgZgzfPH6A7qao
+/bwuITDvggX3QeLId4th1IhOGC7M20MAdgApeb7wnjk5IfBWc59jpXflvld9nGAK
++PlNXSZcJV3HhAAAAX1xvqZrAAAEAwBHMEUCIF4M//+PlZCFKTHmz7Dg3STzdUFK
+RA23kjSRKDv9u9i4AiEA99eEiddzKHdu18Ec4mqlffhZ6zanoTV70ZKCOFNWhLkw
+DQYJKoZIhvcNAQELBQADggEBAETAGIjL9IH6yhFzpH67V9pMtmw/aMJC6U6E40Ao
+/7R6UO6p6JW5CFMHszUjuKnHxAhkrnya1MSmJhoxiBZ7Y/VwakuIdB1kNAh7XBWY
+T+MDsn+kKhbsUvyae9hGlnfxhYM+U9j4WXtH8GyFTtyivgXWAs+DKUAvbqE1pNKB
+BrkAbKv7p8Nby5K5mZ0N7azREkM1vlSqvDdgZKO5+etkE73ijl40Sm2BI26ezcvI
+UOq9z7mWrZt+UgJlWrb6wjxj34Peo89selcvWPWuJ3OL6NcNx2MFh7kJInXzw/h1
+wnLWZTYFHpHE7/5A0KGFJ+WIRnIDAwnMRXgS4dOV+0Anncw=
+-----END CERTIFICATE-----
+subject=CN = almarjantours.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3298 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

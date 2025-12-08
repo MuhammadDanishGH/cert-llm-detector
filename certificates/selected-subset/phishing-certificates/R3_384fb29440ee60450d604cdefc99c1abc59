@@ -1,0 +1,74 @@
+https://jainsamajnagpur.com/forms/09152021/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = autodiscover.jainsamajnagpur.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG1zCCBb+gAwIBAgISA4T7KUQO5gRQ1gTN78mcGrxZMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MDQxNDA3MjRaFw0yMTEyMDMxNDA3MjNaMCsxKTAnBgNVBAMT
+IGF1dG9kaXNjb3Zlci5qYWluc2FtYWpuYWdwdXIuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAlSqPL/+keym/1d0R9DCJZLDClmDDjVf0HEd1rKSi
+IgFQrlRJGoSQOzxHyomrbUHAay4Y1nutkZHn9j1+NG3VL/RN6G7gicS51/xW4PPN
+6KOYnVyVmcBDRcApYDl4aZIQDeOJ9YUVQCDLZJrXcrbgly0V1DF0ClwhSYUDqslg
+By9QNzFaZb93+QHbkLzuVhfGBVrXbqb05wIk/my4mroQwsZ6aqCPCb9oOdFryaMH
+Z2smzf7wJVFFn0IQ3hymKtpbL6CWfoWK7iIWgeU/BIJp7+aXnw4mombf6AlP9kPQ
+aWdrtMOmgcIbVrYGVkM6A9GYld3JA+qR4Atd3fIAY60gwQIDAQABo4ID7DCCA+gw
+DgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAM
+BgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSlOmhjJMarcaLrSxBxYKLogOZB3zAfBgNV
+HSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYI
+KwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0
+cDovL3IzLmkubGVuY3Iub3JnLzCCAbgGA1UdEQSCAa8wggGrgihhbG1pZ2h0eXRl
+Y2hwdnRsdGQuc29mdHBvaW50Y29tcHV0ZXIuY29tgiBhdXRvZGlzY292ZXIuamFp
+bnNhbWFqbmFncHVyLmNvbYIaY3BhbmVsLmphaW5zYW1ham5hZ3B1ci5jb22CH2Nw
+Y2FsZW5kYXJzLmphaW5zYW1ham5hZ3B1ci5jb22CHmNwY29udGFjdHMuamFpbnNh
+bWFqbmFncHVyLmNvbYITamFpbnNhbWFqbmFncHVyLmNvbYIlamFpbnNhbWFqbmFn
+cHVyLnNvZnRwb2ludGNvbXB1dGVyLmNvbYIYbWFpbC5qYWluc2FtYWpuYWdwdXIu
+Y29tght3ZWJkaXNrLmphaW5zYW1ham5hZ3B1ci5jb22CG3dlYm1haWwuamFpbnNh
+bWFqbmFncHVyLmNvbYIsd3d3LmFsbWlnaHR5dGVjaHB2dGx0ZC5zb2Z0cG9pbnRj
+b21wdXRlci5jb22CF3d3dy5qYWluc2FtYWpuYWdwdXIuY29tgil3d3cuamFpbnNh
+bWFqbmFncHVyLnNvZnRwb2ludGNvbXB1dGVyLmNvbTBMBgNVHSAERTBDMAgGBmeB
+DAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxl
+dHNlbmNyeXB0Lm9yZzCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AJQgvB6O1Y1s
+iHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABe7FZmPQAAAQDAEgwRgIhAMFE2zCj
+RsCW8mD4K/JB0jHSihOPek9lDNkW+Cv3248LAiEA/ve/wmxpXD3L4i9XoThtnZTB
+xY/vkSF9F7mg1iF0ODcAdwB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw
+1wAAAXuxWZknAAAEAwBIMEYCIQD5ML85mjwtce2aDxTO8yv1R/EoZYmP5TKlADN0
+F40qcwIhAPPrgW/05fOf55bWjrXPLajD57jz7YsL+4TR1zmzkDnHMA0GCSqGSIb3
+DQEBCwUAA4IBAQAIbbH69IsVv3YFtsso0B7IjHNqqIpotyfJGp/v4dxHPaddZ401
+h0B5K7RgEVbMzxHzl1e4qd22WDcavpyYCj2KX2FS+InWrsRPK9eo48jjhBVcFep7
+jCTtdHWEft28Jvy1koHkT4eJX0biMScnNbTco8JKhF1osu35Rj4fzbZZ2paim1nc
+cuygU2u7+LjBOKKy5mdQTSYpxtq/HTBIb68SV9+zcE+1A3UgCFTxcCOvPffazTfA
+Ae1b+n6dSOBwqrUmRmfQ0XJ5JuVaVSUcQOCInjmFjRw8ErKgLhtPrrkyDQthD7bG
+5MdCQ9bfhtUTOPN9ryV8H9Fh+lDORoAKnUP4
+-----END CERTIFICATE-----
+subject=CN = autodiscover.jainsamajnagpur.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5011 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

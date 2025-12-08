@@ -1,0 +1,75 @@
+https://www.ingingderict.es/g/app-login/?view=login&appIdKey=fcd00
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.ingingderict.es
+   i:C = IT, ST = Bergamo, L = Ponte San Pietro, O = Actalis S.p.A., CN = Actalis Domain Validation Server CA G3
+ 1 s:C = IT, ST = Bergamo, L = Ponte San Pietro, O = Actalis S.p.A., CN = Actalis Domain Validation Server CA G3
+   i:C = IT, L = Milan, O = Actalis S.p.A./03358520967, CN = Actalis Authentication Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHeTCCBWGgAwIBAgIQKDzvT9uOpSzgpOz3ApPl+jANBgkqhkiG9w0BAQsFADCB
+hDELMAkGA1UEBhMCSVQxEDAOBgNVBAgMB0JlcmdhbW8xGTAXBgNVBAcMEFBvbnRl
+IFNhbiBQaWV0cm8xFzAVBgNVBAoMDkFjdGFsaXMgUy5wLkEuMS8wLQYDVQQDDCZB
+Y3RhbGlzIERvbWFpbiBWYWxpZGF0aW9uIFNlcnZlciBDQSBHMzAeFw0yMTA4MDgx
+NTQwMzhaFw0yMjA4MDgxNTQwMzhaMBwxGjAYBgNVBAMMESouaW5naW5nZGVyaWN0
+LmVzMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqwuFyorOr3eeA8Jb
+e1TB2msk/6Zl7wQjsQvZ9jZCC6pioGQ1eaKQgi61imD2WvF9T4z7l/MuNQNaCoW8
+lbZ0vKKv6g4juEFeEdd/GSxu7RwopqFfd36G8qV+nCSZnhCwuA6C29hIh8F3iDeO
+qXK0BGRvsplQCSKuiqtqm0bWlQ+WTkjtOP3f/aDnIzJcpw9sKei4iBSDypMNV+M3
+HBLwHat/Z9X9QL9oO4q5VBYLJRVl66c9XXpkd2Wbm/gX/bPNYJgI+m/LxJPdhR3l
+0gwHkHr2Rxu9oggqWxvMgglLVc892WRhjWpJ2N838c2jkM78uYIvVSV2/iLhRPD1
+XXXEoQIDAQABo4IDTDCCA0gwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBRCg22A
+fAmEZ/2AV6vxJvV3yCKCcTB9BggrBgEFBQcBAQRxMG8wOgYIKwYBBQUHMAKGLmh0
+dHA6Ly9jYWNlcnQuYWN0YWxpcy5pdC9jZXJ0cy9hY3RhbGlzLWF1dGR2ZzMwMQYI
+KwYBBQUHMAGGJWh0dHA6Ly9vY3NwMDYuYWN0YWxpcy5pdC9WQS9BVVRIRFYtRzMw
+LQYDVR0RBCYwJIIRKi5pbmdpbmdkZXJpY3QuZXOCD2luZ2luZ2RlcmljdC5lczBR
+BgNVHSAESjBIMDwGBiuBHwEXATAyMDAGCCsGAQUFBwIBFiRodHRwczovL3d3dy5h
+Y3RhbGlzLml0L2FyZWEtZG93bmxvYWQwCAYGZ4EMAQIBMB0GA1UdJQQWMBQGCCsG
+AQUFBwMCBggrBgEFBQcDATBIBgNVHR8EQTA/MD2gO6A5hjdodHRwOi8vY3JsMDYu
+YWN0YWxpcy5pdC9SZXBvc2l0b3J5L0FVVEhEVi1HMy9nZXRMYXN0Q1JMMB0GA1Ud
+DgQWBBSxfuoyz6OW3peQ/Acox4X83701VDAOBgNVHQ8BAf8EBAMCBaAwggF8Bgor
+BgEEAdZ5AgQCBIIBbASCAWgBZgB1AFWB1MIWkDYBSuoLm1c8U/DA5Dh4cCUIFy+j
+qh0HE9MMAAABeyZ1fYwAAAQDAEYwRAIgQXgLUbX9AaFvhAqjIuWE/1dWlJazfbpX
+9LwcKMZr2I8CID2pumrOuXbfnB2GN5sQRY0V7bp1HA7zMTwAbWJvSA8ZAHUAb1N2
+rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAF7JnV9aAAABAMARjBEAiAJ
+BNEKQY16yyRAooS8VKRQdry+Qeba6t9u0fN8OCqz5AIgUej2nnyw4MQvAnVxS5m6
+C41rZtyM1IpeQetEIMtLHFoAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8
+cP5tRwAAAXsmdX1eAAAEAwBHMEUCIGfiCbgYR7pSfsIxWNwsIAbfyU5TFVZNOegK
+jl0M/3M9AiEA8TYLAe1k+VifXstgKVbA9+raf4WYPpk5AcoqygL6djswDQYJKoZI
+hvcNAQELBQADggIBAHgD2dyoHsetqtDCot934yRq+GndEppRiFXRSc1ZeWkhmFY5
+z/IgAq7aBukIQx2EQT6KZNtAqA1gTMc7uo9pszV8Ht3W85QVHYcgaYSZH4xSx2qL
+W6CJgYVnk+L2sqdx0EaQkzN7cXpJbotw+OUrOAb53j8mLuG1I9KZ/4RhkBEYwAwd
+IAV/ohjM/4gsoR0iFEVjdcaMqXEYdh30I8FnuAvpz3dd8oKPyO5TQdxDdEyKf0K6
+iPC5XFHtrzhADm52s67LSrKiFClrZV3wVClk20GY66dD02/EYY/4yhvUbvIMqUkd
+fv8xAuZenf6uO7+Zclb3+QX8fCT55JPy/o5Yp1wu7AcHKvMtUpfQSzWaUAbmCmR3
+eYeR6YHqG7+HK9Rwk849e8PfTJ4KwslQ5Mj0Ce9zBp9BPSz4yLVQ3zCJ/C2WAa0L
+skAT9MdonnbJiQmSusCyhMRC6lJM81Bytb8xpCltbNUx0ne+bIeGtCOIXzS/VVZS
+rNQcbLiMNqGREIE/0QJCgO2quX7j30AaWUlpNBcB9hheufOvkE86eWv2XmfpN7oP
+5om3TktQxHxSzxSzZ+uQj+pnlAzXwFb6aIAymzcAKwBkDXbDjkge4K2CjHjlDXsg
+liBk6GOQ0D+wDF1bglZLsWXqgqJ7IAUAXB1NcxUcjqXGbBDW3CB43JP46Qgq
+-----END CERTIFICATE-----
+subject=CN = *.ingingderict.es
+
+issuer=C = IT, ST = Bergamo, L = Ponte San Pietro, O = Actalis S.p.A., CN = Actalis Domain Validation Server CA G3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4390 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,66 @@
+https://www.bombcrygamerlogin.tk/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.bombcrygamerlogin.tk
+   i:C = US, O = Google Trust Services LLC, CN = GTS CA 1D4
+ 1 s:C = US, O = Google Trust Services LLC, CN = GTS CA 1D4
+   i:C = US, O = Google Trust Services LLC, CN = GTS Root R1
+ 2 s:C = US, O = Google Trust Services LLC, CN = GTS Root R1
+   i:C = BE, O = GlobalSign nv-sa, OU = Root CA, CN = GlobalSign Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFaDCCBFCgAwIBAgIRAMz6ivuCGblPCQAAAAEBnrgwDQYJKoZIhvcNAQELBQAw
+RjELMAkGA1UEBhMCVVMxIjAgBgNVBAoTGUdvb2dsZSBUcnVzdCBTZXJ2aWNlcyBM
+TEMxEzARBgNVBAMTCkdUUyBDQSAxRDQwHhcNMjIwMTI1MDk0MTQ3WhcNMjIwNDI1
+MDk0MTQ2WjAjMSEwHwYDVQQDExh3d3cuYm9tYmNyeWdhbWVybG9naW4udGswggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4gA25cZkZT2S96u6gGqnZgMlE
+R4VIXAPWR/J03GGLXecGQQcqZOMK8Dy0YaHw5varvUC/Z1hXj/Tq1c/rBGwOdXxT
+EPbfdJs/GpC5A5Syq2tFugdjsBZyJzOowvQneck5XX2Tq41kFvlfB99xd8c9DSRW
+QKOo42Vo+iOpCBf1vxYQ5FwAqChHN09nwMTuiHJprOef1ElJ9nYZaWvz8/3/e3jq
+PYh4S/qZypQEtBo4w+pR66Tu1rSV9SIcs6pjQeY5ob5Y4KxfTyLuT0xJq6d54EhW
+ziOK7vDawZeNTGRuWcOtjW66yHie8L3TvH0NT4xlyxRJjefGdhaf+ldZzC0HAgMB
+AAGjggJyMIICbjAOBgNVHQ8BAf8EBAMCBaAwEwYDVR0lBAwwCgYIKwYBBQUHAwEw
+DAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUy7z3nGt6+a/vDb5Tqm7l5ba0fTgwHwYD
+VR0jBBgwFoAUJeIYDrJXkZQq5dRdhpCD3lOzuJIwagYIKwYBBQUHAQEEXjBcMCcG
+CCsGAQUFBzABhhtodHRwOi8vb2NzcC5wa2kuZ29vZy9ndHMxZDQwMQYIKwYBBQUH
+MAKGJWh0dHA6Ly9wa2kuZ29vZy9yZXBvL2NlcnRzL2d0czFkNC5kZXIwIwYDVR0R
+BBwwGoIYd3d3LmJvbWJjcnlnYW1lcmxvZ2luLnRrMCEGA1UdIAQaMBgwCAYGZ4EM
+AQIBMAwGCisGAQQB1nkCBQMwPAYDVR0fBDUwMzAxoC+gLYYraHR0cDovL2NybHMu
+cGtpLmdvb2cvZ3RzMWQ0L1lPaktUNndwYTdzLmNybDCCAQUGCisGAQQB1nkCBAIE
+gfYEgfMA8QB3ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfpDd
+FC8AAAQDAEgwRgIhALgj/u5DvWfLgISynmEDDi84K4TkbXd+Yh/G3b2CQF4qAiEA
+l9lKxJnojRp4gzIB97MP8iIt6Kd5SvlmBTm9kX6jUlQAdgBByMqx3yJGShDGoToJ
+QodeTjGLGwPr60vHaPCQYpYG9gAAAX6Q3RRKAAAEAwBHMEUCIBa0x2MLzJovt6+8
+9tQ2SQBAt6hgkJ9BrEpYPNCNkHU0AiEAy7ViXetbm9ULoZIhTvLRMLMxfYIMx36W
+dFuNAw8Jj8MwDQYJKoZIhvcNAQELBQADggEBABwejziXORL1ZQxHVIxarKGDgF4V
+UO7SmVgIq80yrxwhso9LXcR02a3RhtVCMLseOw7yK+QiWHit6ljO8eC8rY0EtTKU
+fIAaJr5d6hsUdcrvCLMzy97dtkjC+OWJkb/3vOpF9YX8K+yBhdO1VyCF9c4EyKA3
+Lg6lKsE1IZ+BIH49sUa/cMszhnuLnrfEv4b9xQxAkKK5NwVGEGUIwU7hzG4Igx2Y
+FqD/9LRrAt2b/uRN+azJBgwj1XvrxY6NBZ/8bSoOn5hWBirU4yqjmvBjnX7QKmFV
+tgkoDAEHSJJyMgHvKWT7vjbhSmc54Ahvf8/5jQ7X3aUlM4JC8agCPSw8bEI=
+-----END CERTIFICATE-----
+subject=CN = www.bombcrygamerlogin.tk
+
+issuer=C = US, O = Google Trust Services LLC, CN = GTS CA 1D4
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4694 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

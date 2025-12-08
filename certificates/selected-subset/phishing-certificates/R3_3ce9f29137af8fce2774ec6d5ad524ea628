@@ -1,0 +1,69 @@
+https://vicelounges.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpcontacts.vicelounges.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF4TCCBMmgAwIBAgISA86fKRN6+Pzid07G1a1STqYoMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMjEwODE1MDhaFw0yMjA1MjIwODE1MDdaMCUxIzAhBgNVBAMT
+GmNwY29udGFjdHMudmljZWxvdW5nZXMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAtOLXAgUL5P0S8FJ8lsvWs+dZWwKGkcrva2AY8F/Hdxesvsvb
+6oTodb8oFNbvlJf3ZzWILkOWBL21VtFlkqmzXimwwE1Wp8SLPJcFOojN7cicZV2w
+uKc8PBp5rE44yg6o1mGQEjQwzFyTrJMuFoTi5UBivTVnBRZPwtMULfOcZd6OBGQh
+cKpoAU+tnORinkaR8TA4KCGD5B8+TpnxJC1kVgZmpvApNgi4XC+BWOKeDpr323Th
+/Lp9Pq3RNiITCMSws0/IFWkIM969gh2iWQNDMRCwXmDzP1f/WbwHEBTGAEalZYmJ
+v6If/g5afWQGuyyILLkyYNjCm1kSsXpBwb+M8QIDAQABo4IC/DCCAvgwDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBSfYGJA6Yrae5w19Mknl9M/G9ySQzAfBgNVHSMEGDAW
+gBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUH
+MAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3Iz
+LmkubGVuY3Iub3JnLzCBygYDVR0RBIHCMIG/ghZjcGFuZWwudmljZWxvdW5nZXMu
+Y29tghtjcGNhbGVuZGFycy52aWNlbG91bmdlcy5jb22CGmNwY29udGFjdHMudmlj
+ZWxvdW5nZXMuY29tghRtYWlsLnZpY2Vsb3VuZ2VzLmNvbYIPdmljZWxvdW5nZXMu
+Y29tghd3ZWJkaXNrLnZpY2Vsb3VuZ2VzLmNvbYIXd2VibWFpbC52aWNlbG91bmdl
+cy5jb22CE3d3dy52aWNlbG91bmdlcy5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEw
+NwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5j
+cnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgBGpVXrdfqRIDC1oolp
+9PN9ESxBdL79SbiFq/L8cP5tRwAAAX8bkDFOAAAEAwBHMEUCIDiTnhe+6FnMvS7t
+sQwqJ/xVwD98WggTcMBAdgYVgy99AiEA6jgjXI+9A1ZOw32FyrVZiJyvnocQiV/v
+xnmnvKj62RAAdwBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAX8b
+kDHvAAAEAwBIMEYCIQDFC507Kw/uhM+pKjys94euCQ+XRoptNQystQ9mxN+xxAIh
+AJfA+xxEPpDE4/B7nETdofWvtSIVjOoTB6Kp8QoRNnmrMA0GCSqGSIb3DQEBCwUA
+A4IBAQAzItQ1Qa87Yg9DJR0f+nJnlpfT2NrnCwwmfyvScCX1HXlNK2vjQnmWORaW
+XBZ9msX1tSJfMkIYJB9FbOGq1DvQ9QXcxDpA2M0MDCFgJm4zhC5F9UT/e6WzBxRz
+9VIkKLVCU7eL4EtCWPG9hClgIswAkZc0aZcQWZf/82YuFCvUqSxivGlxeh68FZIq
+wQ7XioxXIbE5Xp19l2nlZ78BZ8u6R3cR0YjFQb3I8Gg9bgaAolFg1Gv44p/JN3uA
+3MuiYvxDugVIehi0CEF8CO+A6kIsYJhWy7sCHizaGGHxwtopEQqBBKYXXyijtVmy
+1WOkT8AQ0euNSQlUQcCD/40GKITN
+-----END CERTIFICATE-----
+subject=CN = cpcontacts.vicelounges.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4765 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,66 @@
+https://www.voiceattachts.online/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.voiceattachts.online
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFSDCCBDCgAwIBAgISBK95EI7fjch6o9MTLNI1GOymMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMTgyMjExNTRaFw0yMjAxMTYyMjExNTNaMCExHzAdBgNVBAMM
+Fioudm9pY2VhdHRhY2h0cy5vbmxpbmUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDiQEpnvVbZs6i/hRIADUxmXQIiZt4B+JH7vsDcddX8/KrdVpXtNPg6
+yvy3n70YzHNgTg98MAidIZalAAQYO6P+keJM3vUkX0JQQgXxLQiJOGOQ8wJ8SZ9r
+gMeV7Xw9xekFeBkZaovVE8QpMT0AULkd2ebUO4TUGRmFkKWbobeLmki0ogi+ZYYI
+7DVpmr1AyvJXRoUlpF71qKHAwtIhzZ8zHlJNi8Tv1wy7y8v4IDPQDU0TvdH8KSvw
+4Mi8h1T/etLBnTjvYYfAioCK4zqiPK5Cc5uC2nQxX72WgNCdMRJaKURIi+NGXqYg
+nuVu71r55VvDb6+0rjD8wD88u92U51U3AgMBAAGjggJnMIICYzAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFLQ/czSDzExgxhTRLRb6wNBD55jrMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMDcGA1UdEQQwMC6CFioudm9pY2VhdHRhY2h0cy5vbmxpbmWCFHZv
+aWNlYXR0YWNodHMub25saW5lMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD
+6+tLx2jwkGKWBvYAAAF8laz76QAABAMARzBFAiAIrab87SgjnMd0DxWGRCqQMonN
+E6/MfUXD40+gBtpxLgIhANjnRtmTif2tGvyrLUOVC1S0B0or+KgkCp+aMmkXa7Fw
+AHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF8laz78wAABAMA
+RzBFAiEAqTx7l0NwdUJYf07hXJMgfhMRzYnY28WqFMxrgXFSbKQCIGH+ecBhfpX6
+c0+105aTFH8OLoeaYjGyfrayPKeAW5DXMA0GCSqGSIb3DQEBCwUAA4IBAQB8QBUS
+s3qmy8S6oA+vUfdY7CiEJtsa0RytF/VTaDlo3mdnc2ca9ShNFUftW9VnIBvRVjny
+KfXPvGMg8YPn5S8N3ASqgl7FyyWnNSUKCmgMCRurFAyJ2I8LINILivHh1Q0//Wgs
+3BnS3hQ0rdT8jH2InhZlf9uHgI/6sIt661oF5chgLMxhkuCf2pLuQXfsopGEPBzb
+DTOZIO1GrTYLTC3TmNvq2yBcj+yEYb4O1r2ykUdOpOGg12maplzEUJIPnWc2NT9U
+SQylZswnasVosEymKnAjhqkwci9LoHnYEvgDNjblNHpT90WFHKERtT0/vAqf6MbA
+mE1J9meVzUv8miNs
+-----END CERTIFICATE-----
+subject=CN = *.voiceattachts.online
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4546 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

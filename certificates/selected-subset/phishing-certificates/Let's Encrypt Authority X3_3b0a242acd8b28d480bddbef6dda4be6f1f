@@ -1,0 +1,94 @@
+http://www.happylegssa.com/chase/home/myaccount/vbv.php?websrc=e17ea285ad581008aac6b89b49ab879e&amp;dispatched=93&amp;id=8364403937
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = happylegssa.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF7TCCBNWgAwIBAgISA7CiQqzYso1IC92+9t2kvm8fMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MTMyMzI2NDBaFw0x
+OTA5MTEyMzI2NDBaMBoxGDAWBgNVBAMTD2hhcHB5bGVnc3NhLmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBALMwN7MYskExzVt7qik4xDVKIxhw9eAG
+tHDUr31jNk7hvqInWTvoRyX053EivmKwGgqk1wMY8Q9+5ozZdSPq1bytmLv0cIkK
+GQM7ap4yit7PzxVyYIqEVjhfFEQgeG7IQPuUE9LiNK0CWw03NxpiqGwTD4HH10Kn
+rQ8lDk7E1L22gYVM9j9j1Wg5uKuz1YErUQla/oZWqOkx4ZMYBVMvWzZm/BC2Phti
+5Z5mvs+G1lIrVE140gMGWwW/zmE7cEB9jLID0g3Qc3LR/wJUF/ohj4D9BA0f2UTt
+O2jF14YBlodSaxS9yhHROrH7xA/AE/IFZgeJR7pMD8gvkXLz6xLmEOsCAwEAAaOC
+AvswggL3MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUoiBRm0xXIDjoggzW0bNJQ4TR
+YUMwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnLzCBrwYDVR0RBIGnMIGkghxhdXRvZGlzY292ZXIuaGFwcHlsZWdzc2EuY29t
+ghZjcGFuZWwuaGFwcHlsZWdzc2EuY29tgg9oYXBweWxlZ3NzYS5jb22CFG1haWwu
+aGFwcHlsZWdzc2EuY29tghd3ZWJkaXNrLmhhcHB5bGVnc3NhLmNvbYIXd2VibWFp
+bC5oYXBweWxlZ3NzYS5jb22CE3d3dy5oYXBweWxlZ3NzYS5jb20wTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgBv
+U3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAWtTYRdWAAAEAwBHMEUC
+IF3BfFqHkrNJTf2TsAMJWKA7Yq4GRAOHBixFUexMjmPaAiEA2LVpMPCeL3M5M8ug
+NG1+ONFE9RRNOWeHPB9G41Y2flUAdwApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTD
+DPTlRUf0eAAAAWtTYRi4AAAEAwBIMEYCIQDyU+dFZ+6pvnjnhnWuUMYybyXCqHFf
+Qod9YQ/jCc5O9wIhALoHtkmpvAw6ZN8loJP+sHhaCtdp+2A8mfLl91rciyHfMA0G
+CSqGSIb3DQEBCwUAA4IBAQBJ4ts2Dk83xpsqF/79banjR1XthoBU/B9U1Zl8CCoL
+vWOylM0BM5TxHqMWq3XosmkpkEsCFME8418TfVzVKBOFyN2E8rdwRZK+gvnTeL+G
+rlS8SWhrVuSfWhUiGYda/tB8t2cvzkqG/1+Z9a18GY2SAthxZ3WUUqVUzgGwmc4k
+DRjT4wcjpvRbOEG5krOS+wzlm5EQFU0Fhi2k7PhixEbnrAw/OlWfnOTBxRooX8dV
+Y0ap6luG8fpTX1CtU6V6WCiw6B4OAdPLVqRsrEvREuTTpErHlkV4WccPqEgmimMP
+vVWNO6eX8hwTtc4rvG/EER8fGQ9snmBvXRGR4D8i+y5C
+-----END CERTIFICATE-----
+subject=CN = happylegssa.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3404 bytes and written 457 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 324BF7529EC43FE39A3634D95C564A0DE7A2A5BF90E06AA417CFB00574F75CF3
+    Session-ID-ctx: 
+    Master-Key: C33FBD70AB375B0492C19F46A6159FCF575DE2B0376F44414FA5308D72AAA1E21EFE8327A8BEE0A5FE3472F6DED8FF4D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c5 9f 65 2a fa 8b 68 06-a3 68 e4 e7 30 67 07 b3   ..e*..h..h..0g..
+    0010 - 0c 13 6f 99 92 0e af 22-94 40 4d 81 ba 94 93 3e   ..o....".@M....>
+    0020 - c9 b7 1c a3 2b bc 0f 5c-39 10 7d 93 36 0b 9e f1   ....+..\9.}.6...
+    0030 - b5 e8 6c 0c 16 e9 25 a6-e9 89 42 9c c8 38 64 eb   ..l...%...B..8d.
+    0040 - a3 cd 29 cf 22 5a 25 d8-51 80 d6 d1 0d aa 32 82   ..)."Z%.Q.....2.
+    0050 - 63 d3 5f 47 dd 61 cf 1f-b1 ed d7 41 65 7f 24 e4   c._G.a.....Ae.$.
+    0060 - 34 d2 64 c6 93 6c c8 1f-fe 91 55 87 77 00 7a 10   4.d..l....U.w.z.
+    0070 - db c6 a4 08 4b d9 1d 1d-d4 30 d9 74 0f 23 8d d6   ....K....0.t.#..
+    0080 - 3d 76 f0 af 25 a1 c3 87-8a c4 8e b6 64 7a 72 65   =v..%.......dzre
+    0090 - 5e 5d 76 36 0b cb 25 db-14 4b c4 5f 85 e7 a8 25   ^]v6..%..K._...%
+    00a0 - 19 fa ba fa 9e ad fd 96-b6 59 da 4e 2e 64 fb 29   .........Y.N.d.)
+    00b0 - ba 42 df 0b 20 dd 32 91-dc 7d 1f 17 ab ff 87 51   .B.. .2..}.....Q
+    00c0 - 14 84 80 59 a5 f6 57 d7-14 fb b4 92 f2 f9 2d c8   ...Y..W.......-.
+
+    Start Time: 1560690027
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

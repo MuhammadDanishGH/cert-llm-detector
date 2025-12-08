@@ -1,0 +1,96 @@
+https://bci.edu.bd/tbc/file/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:OU = Domain Control Validated, OU = PositiveSSL, CN = bci.edu.bd
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Domain Validation Secure Server CA
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGTDCCBTSgAwIBAgIRAP5Sjr9uvJNZB/a0Mth9UowwDQYJKoZIhvcNAQELBQAw
+gZAxCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGjAYBgNVBAoTEUNPTU9ETyBDQSBMaW1pdGVkMTYwNAYD
+VQQDEy1DT01PRE8gUlNBIERvbWFpbiBWYWxpZGF0aW9uIFNlY3VyZSBTZXJ2ZXIg
+Q0EwHhcNMTgxMDE0MDAwMDAwWhcNMTkxMDE0MjM1OTU5WjBOMSEwHwYDVQQLExhE
+b21haW4gQ29udHJvbCBWYWxpZGF0ZWQxFDASBgNVBAsTC1Bvc2l0aXZlU1NMMRMw
+EQYDVQQDEwpiY2kuZWR1LmJkMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEA7KY8qDa9Eau55a6O8JtVryI2nocj3vOAUn/30oow3BU8ccyWRcCu2HToq9rz
+SgeV/OVlH/TmDM725bMbsn/kG47VZ0k1CpPn2JGsjNMTlpRhdUvNRnS5S5nX3kFC
+wnnVZXJ6nJ0ZrNRrEpXmaXRy3NCHw8Ci5wC6/LOyxgv+XC1YHBEvGxHBLENv885h
+cPWSBFGYi7kEdTQM9SwrMgaVFpN0+vvTCbKPiqbQjkSOkuFiFRY4Fj0hvTxj20vg
+y3K7sB9FT/owY9XYtaOI1zYYtGpmuchI1XQoDc8CrsVLjPStstW/XluM/+Fz4k4h
+jpuHkzcCNd4kmiSSSvVvLCAkqQIDAQABo4IC4DCCAtwwHwYDVR0jBBgwFoAUkK9q
+OpRaC9iQ6hJWc99DtDoo2ucwHQYDVR0OBBYEFNlYLBiTWSfY3Y/PkEdiLEj0DrUb
+MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysGAQQBsjEBAgIHMCswKQYIKwYB
+BQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5jb20vQ1BTMAgGBmeBDAECATBU
+BgNVHR8ETTBLMEmgR6BFhkNodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9DT01PRE9S
+U0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3JsMIGFBggrBgEFBQcB
+AQR5MHcwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL0NPTU9E
+T1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTAlBgNVHREEHjAcggpiY2kuZWR1
+LmJkgg53d3cuYmNpLmVkdS5iZDCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AO5L
+vbd1zmC64UJpH6vhnmajD35fsHLYgwDEe4l6qP3LAAABZnGgWzgAAAQDAEgwRgIh
+AL/NOoQSnU0Wg8YalGn1oAwjQ27Mp/a6czcrxMmRqACPAiEAscwGORTfjGxkQ7U7
+QIoV2Sta4zE0mHaOhdUc/A1JCH4AdgB0ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3
+NXnmEHvMVgAAAWZxoFuAAAAEAwBHMEUCICsmMn4zBtjZBnT+O1JHddkW21vyQBQJ
+65mKzawFrwh6AiEAgYfgCQF+wBkOXpcH1bYuNUzFx00Se5ImTvdEEWc3nI4wDQYJ
+KoZIhvcNAQELBQADggEBAG9R1O0Zy972tzF1YI8syPn9AKDOmldMiKDkPPFiyZmB
+l8lgnf3HXWFkmW5JcfQKbKCTRSi9dRGmi8dZ9JxdfnxWYj8yqUQs//HL7q6ZP5dV
+v5XKeWi+VOMsbyFaW3y+zDpbctLGcSu4dbe51b0ybmUkO3YrtgksyP3+zivLnnbM
+nfgVXSwkJuhWNwr2PWmo9EBiXDsKQUq8o0BgaGFdrwqbIAtex3cjmfqWVufgWJhJ
+02GdbOdhSsoN0W4ATEFnfNGxKgfTCFVSaEBdP143Lrvow3fXik9bXSNUJQsXM1+f
+2PktS6Q+A+sbrtSaepZhMBpOqyeWCzIgzIEZzoGQxng=
+-----END CERTIFICATE-----
+subject=OU = Domain Control Validated, OU = PositiveSSL, CN = bci.edu.bd
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3873 bytes and written 448 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 0ADD6BBE6234C83784742D1F8BD8450E5E6D83F7B93B2AA233533896544BD9C0
+    Session-ID-ctx: 
+    Master-Key: 8CD55AED5BB72B5CC07D43D2386474E64BB8EC4CB87BC8A2665628436A78F63954004AA21233DDDFEA8453486F31A0D4
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e1 0b 91 7b e5 b7 19 8f-a5 a7 9e a7 12 e1 72 92   ...{..........r.
+    0010 - aa 40 f9 5c 49 5a 2a 01-bd dc fb 00 ce 10 e5 dd   .@.\IZ*.........
+    0020 - b2 4a da b7 90 a9 d7 78-98 af 5d 24 fd f3 b1 70   .J.....x..]$...p
+    0030 - 8a 60 16 3b e2 a3 d1 29-98 24 24 6a 43 6b f1 79   .`.;...).$$jCk.y
+    0040 - dc be e0 6a 97 a3 a0 2d-c8 ba 0a 43 08 80 a0 25   ...j...-...C...%
+    0050 - a2 47 f2 b3 42 32 d5 7d-0a 8d f3 2e 20 4c a8 13   .G..B2.}.... L..
+    0060 - ec 4a 35 fc 8a 95 27 e6-f9 10 38 9c e9 90 5e 9a   .J5...'...8...^.
+    0070 - ee 1c 33 30 37 b3 8b cd-2d 36 57 fb e7 56 f9 99   ..307...-6W..V..
+    0080 - 1d 35 ed ae 20 89 3f 1c-32 47 cf a2 9f a8 f0 d7   .5.. .?.2G......
+    0090 - ba 25 0c 00 ca bd 24 e2-06 31 8a 59 02 d0 22 04   .%....$..1.Y..".
+    00a0 - 47 29 17 1f 86 f9 ba d7-81 05 c2 4f da 42 34 67   G).........O.B4g
+    00b0 - 1d 76 59 67 26 54 24 ca-9b 43 01 a1 e6 06 41 ef   .vYg&T$..C....A.
+    00c0 - 6f 97 65 c2 6c bc 8d df-d2 16 f6 33 6c 72 36 b5   o.e.l......3lr6.
+
+    Start Time: 1562763622
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

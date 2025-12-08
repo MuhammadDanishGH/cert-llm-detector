@@ -1,0 +1,89 @@
+https://www.mormajorsilver.com/skin/A1/a1/AbsaOnline.htm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mormajorsilver.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFjTCCBHWgAwIBAgISAxP6hxe8Qxjq0ZbViuzZysnFMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MjcyMDQ3MDJaFw0x
+OTA4MjUyMDQ3MDJaMB0xGzAZBgNVBAMTEm1vcm1ham9yc2lsdmVyLmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAO32MTMEvQ9wxNyqaofPE9wnu9QJ
+pFLIOIt5sx4JSQWu9jmAOSolkWTYnW1WG/8f2Hd+4Z0ujjALTluuYEqwkyuw7aE/
+NUsOb8P+jOL7ae9O7pjnjbA+bwn5WU675GjN/HUp98Kk+E61w0AKZF2fPXi0uxrw
+ngBwxlo/K1b67syDIhripxW5j3c3PQdn+k9daL2ubuzSa0BLmdmS4c5y5JDZcIGT
+9rtichMisKpgN25AuZbTr/pkd2OHo5PkGjFvHeUiOqJKu4vM2GLmRX9xiOj6GRVh
+v2nAo3XBMuVXpuaU0dEMUxiCFGtS7/anBkAqnj5B2MIfJrKwdZICCFxwvokCAwEA
+AaOCApgwggKUMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU3awYWZNbFGuPzTsk5yHu
+StmEXH0wHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzBOBgNVHREERzBFghdtYWlsLm1vcm1ham9yc2lsdmVyLmNvbYISbW9y
+bWFqb3JzaWx2ZXIuY29tghZ3d3cubW9ybWFqb3JzaWx2ZXIuY29tMEwGA1UdIARF
+MEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6
+Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA
+dH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFq+0LUdgAABAMARzBF
+AiEAhuq471Q4HuF473Ho3dEFUm9IlYoGCTmG7HWo7RjgEs0CIAWtL3JS1vM3FgYh
+ww1txJKdbyQWuFkpkackDw8oQ4GVAHYAKTxRllTIOWW6qlD8WAfUt2+/WHopctyk
+wwz05UVH9HgAAAFq+0LUdAAABAMARzBFAiEAkafUYCnH4CdYx1lx4o7ZO9/9Vowp
+ZTh8GHjm25h0aKACIHqlryC2l/pejRlqGIVSdManl7BcwqNdkEftH2WvIgjRMA0G
+CSqGSIb3DQEBCwUAA4IBAQCBn9qWVwrr7fkZXnJjsYsPHAzbH8WplM2wb44raS64
+JJ+8ZfGLiNHLE48nFnIe3DQIhKGOie40khoa16dEMoVlgwaF7TacRf96d1k/FL9Z
+5WqEzoO1BIJPj1eOdO4zrRrhWX8ARkd62Y43W8lSAjPSkSwsEYSRn9z5bPWtBhJt
+GE2Z4Mc1uc7ynT2+sznsIXkQhKZpVYlvvirqqo9pw34rqsLSNOTeT4iomrn0SoGz
+xAdMAdCmcnl9xfdmwdThHa4EejkzZg5np2O88mAO6qFxvd7fMB8gjKfoBxF+4HpP
+ymzgwnWX5sW0832dIGM+35MaC6flvTbRP7N06XE/S55I
+-----END CERTIFICATE-----
+subject=CN = mormajorsilver.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3225 bytes and written 427 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 22E7E7064D66ACEC928613AADBE5721A2C9865810407BC5943C31EA134CECBEF
+    Session-ID-ctx: 
+    Master-Key: 05FD78FE3B8DB021D64F5BCBBCFE3DE0B6673DB5FD0D774D4D6DDF9CA02074447289740921F075B718A8B1E88DE61F80
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7199 (seconds)
+    TLS session ticket:
+    0000 - 83 0e da 2e 04 0c f2 0d-9e 05 43 f3 a6 be 2d 48   ..........C...-H
+    0010 - 4c b2 14 fd 4d 82 bb 14-9a 36 fc 0b 32 c5 28 0d   L...M....6..2.(.
+    0020 - 96 9e 0d 7c 8f 13 a8 b1-10 6a 9b 5c 8b d5 2e cd   ...|.....j.\....
+    0030 - 03 0b 38 f9 29 2d 0a 63-1e a2 e6 07 09 5a 0b ff   ..8.)-.c.....Z..
+    0040 - 47 b9 f0 a8 d5 25 02 4e-1d 02 0d a6 ca 27 a8 a3   G....%.N.....'..
+    0050 - ff e6 57 73 95 46 5a 63-74 da 2d e9 d5 35 8e 50   ..Ws.FZct.-..5.P
+    0060 - 5c 07 26 ac b2 6b 6e f9-50 69 e7 f7 b3 c2 ee a5   \.&..kn.Pi......
+    0070 - db 06 fa 9a b0 c0 7b df-59 64 7a 0a 11 23 07 bd   ......{.Ydz..#..
+    0080 - 36 9a 51 b1 a9 7d f1 4a-50 78 eb e0 f3 fe 37 8e   6.Q..}.JPx....7.
+    0090 - b4 3b be d7 59 4f 12 00-c8 fd 5a d8 f0 15 cd 80   .;..YO....Z.....
+
+    Start Time: 1559826036
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

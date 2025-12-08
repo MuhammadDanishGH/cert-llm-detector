@@ -1,0 +1,78 @@
+http://wedding.legalize.hol.es/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = homebasedbusiness.del.hol.es
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIATCCBumgAwIBAgISAxm40Az1kIXeC0DvXTDDI5ALMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MDMwODM0MTBaFw0x
+OTA4MDEwODM0MTBaMCcxJTAjBgNVBAMTHGhvbWViYXNlZGJ1c2luZXNzLmRlbC5o
+b2wuZXMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDS/fGEUAhZdpG
+nNzjYNnc2PP/3Hok0Zpgo+PndsLiDieA9wym4p0FXO3pqj/aEUMutp4rkixC73pa
+loubHizn/gk2p7rk9MmBMHy2dV8Xx2uexPhqE43PXo/bXg0i4Yrkk2U7xHxA9odI
+enXXY1TlnKhKnD/fLyHOBXShhxX2QUdIlUtAGXoxzqN0N5161MXaceJ4hLyWri8g
+a+CcQIkDz2A/JmWgWgbiLaLIWYyBObW9Gilggr5mrdzBW50UEvmuLei0N0/Uzd85
+LzktfCdkEaDoSkZPWipNXDgcFKiZ0iPxWvhUlns5G4OlpPo2WMgFsr142zLGAMnj
+4jt6LLqxAgMBAAGjggUCMIIE/jAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFBgAwpn1
+6Vokdtw+nwKY55ZPOvJoMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyh
+MG8GCCsGAQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgz
+LmxldHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgz
+LmxldHNlbmNyeXB0Lm9yZy8wggK2BgNVHREEggKtMIICqYIdYXR0b3JuZXkuYnVz
+aW5lc3NpZGVhcy5ob2wuZXOCGGF1dG9pbnN1cmFuY2UuYW9sLmhvbC5lc4IUYXV0
+b21vdGl2ZS5mci5ob2wuZXOCE2J1c2luZXNzLmFvbC5ob2wuZXOCFGNoZW1pY2Fs
+cy5iZHUuaG9sLmVzgiRjb25zdHJ1Y3Rpb24uYnVzaW5lc3NzZXJ2aWNlcy5ob2wu
+ZXOCH2Nvc21ldGljcy5mYXNoaW9uc3R5bGlzdC5ob2wuZXOCHGRyYXdpbmcuYnVz
+aW5lc3NpZGVhcy5ob2wuZXOCH2Zvb3R3ZWFyLmZhc2hpb25kZXNpZ25lci5ob2wu
+ZXOCHmZ1cm5pdHVyZS5lZHVjYXRpb25jaXR5LmhvbC5lc4IcaG9tZWJhc2VkYnVz
+aW5lc3MuZGVsLmhvbC5lc4IjaG9tZWJhc2VkYnVzc2luZXMucmVjcmVhdGlvbi5o
+b2wuZXOCGmhvbWVpbXByb3ZlbWVudHMubWUuaG9sLmVzghlodW1hbnJlc291cmNl
+cy5pcmEuaG9sLmVzgiNpbm5vdmF0aW9uLmZpbmFuY2lhbHNlcnZpY2VzLmhvbC5l
+c4IYbGF3LmJ1c2luZXNzaWRlYXMuaG9sLmVzghlsZWlzdXJlLnJlY3JlYXRpb24u
+aG9sLmVzgg5zZW8uc3RkLmhvbC5lc4Ibc2hvZXMuZmFzaGlvbnN0eWxpc3QuaG9s
+LmVzgiBzdW5nbGFzc2VzLmZhc2hpb25zdHlsaXN0LmhvbC5lc4IRdHJhdmVsLmNh
+ZC5ob2wuZXOCEXRyYXZlbC5waWQuaG9sLmVzgiV3ZWJkZXZlbG9wbWVudC50ZWNo
+bm9sb2d5ZmFjdHMuaG9sLmVzghd3ZWRkaW5nLmxlZ2FsaXplLmhvbC5lczBMBgNV
+HSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpo
+dHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA
+8AB2AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAIxjc1eeYQe8xWAAABan0LP50AAAQD
+AEcwRQIgFxuopSmc2ATBB7B335Vfjp24iPzNhYPxmFG4y6GqjDsCIQDycTKxm/6o
+sNGEQXpmVezAfk/CmOJ5aqetj3zAlAoPOQB2ACk8UZZUyDlluqpQ/FgH1Ldvv1h6
+KXLcpMMM9OVFR/R4AAABan0LP5oAAAQDAEcwRQIhAJtCVV3qPdw1Xcq/Wn6YZjr0
+Dz+miE8p874W69Kub1JrAiApDo7Bd11o3iBQ3chXkHmD2Ga159z/pnh75o6wH0xD
+DTANBgkqhkiG9w0BAQsFAAOCAQEAkh9ha1vaXA/ketK6QGmvDmUnpExA/aBb5foM
+ey8lHBHy9Oo14rix+VS86Gm8pJL2Zr62f7GI1r5dKQO4GIMUZOQ1hGtrMc/AqQwN
+aWEEiVwje2++DmTRPrlt0G1DPtE15hedlPmALiM8VwwUzsRIWk/gqYrnm4O8EgsB
+eJxf2IhV7/gX3hdQgvGyZl75FtjI08/eBlT90i40KLLJNh3KNC0yPHNnzUTjyzaa
+Qrg37U7PxLLS5eBtOAuucvG0lyRLHqJoGK22WestNEDNAz5OJGxSirK0eJcZeaqY
+iA42Otkgt5E/2Sc1VQtZG1JjmLIPJl4vazgNFYGCm7XcEDZxeg==
+-----END CERTIFICATE-----
+subject=CN = homebasedbusiness.del.hol.es
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3722 bytes and written 415 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

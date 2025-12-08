@@ -1,0 +1,63 @@
+https://pancakeswap.finance.alazegom.tk/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:C = US, ST = California, L = San Francisco, O = "Cloudflare, Inc.", CN = alazegom.tk
+   i:C = US, O = "Cloudflare, Inc.", CN = Cloudflare Inc ECC CA-3
+ 1 s:C = US, O = "Cloudflare, Inc.", CN = Cloudflare Inc ECC CA-3
+   i:C = IE, O = Baltimore, OU = CyberTrust, CN = Baltimore CyberTrust Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNjCCBNugAwIBAgIQDD48/0kVNP/6A+2khH+T1zAKBggqhkjOPQQDAjBKMQsw
+CQYDVQQGEwJVUzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEgMB4GA1UEAxMX
+Q2xvdWRmbGFyZSBJbmMgRUNDIENBLTMwHhcNMjExMTEwMDAwMDAwWhcNMjIxMTA5
+MjM1OTU5WjBrMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQG
+A1UEBxMNU2FuIEZyYW5jaXNjbzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEU
+MBIGA1UEAxMLYWxhemVnb20udGswWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARp
+3o531HxIHFiFJw6q0vj2EFRhSytfl4vkeqEczeumP4GocNZ4iyhidlXBoR4xnFWM
+huJ0eNJowZL92c0leULco4IDgDCCA3wwHwYDVR0jBBgwFoAUpc436uuwdQ6UZ4i0
+RfrZJBCHlh8wHQYDVR0OBBYEFJglsbIpoukD6stOmrSa6AddtbbFMEYGA1UdEQQ/
+MD2CH3BhbmNha2Vzd2FwLmZpbmFuY2UuYWxhemVnb20udGuCDSouYWxhemVnb20u
+dGuCC2FsYXplZ29tLnRrMA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwewYDVR0fBHQwcjA3oDWgM4YxaHR0cDovL2NybDMuZGln
+aWNlcnQuY29tL0Nsb3VkZmxhcmVJbmNFQ0NDQS0zLmNybDA3oDWgM4YxaHR0cDov
+L2NybDQuZGlnaWNlcnQuY29tL0Nsb3VkZmxhcmVJbmNFQ0NDQS0zLmNybDA+BgNV
+HSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2lj
+ZXJ0LmNvbS9DUFMwdgYIKwYBBQUHAQEEajBoMCQGCCsGAQUFBzABhhhodHRwOi8v
+b2NzcC5kaWdpY2VydC5jb20wQAYIKwYBBQUHMAKGNGh0dHA6Ly9jYWNlcnRzLmRp
+Z2ljZXJ0LmNvbS9DbG91ZGZsYXJlSW5jRUNDQ0EtMy5jcnQwDAYDVR0TAQH/BAIw
+ADCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHYAKXm+8J45OSHwVnOfY6V35b5X
+fZxgCvj5TV0mXCVdx4QAAAF9CVuKNwAABAMARzBFAiAoWYuZRu4au0/ZpNbfbp7f
+fGx9rUmQ5YVBtykA6Sd+NAIhAN44jzMtBjaUnUKfKbAegyHY8SdjOu7OK4BvQNcJ
+ywEDAHcAUaOw9f0BeZxWbbg3eI8MpHrMGyfL956IQpoN/tSLBeUAAAF9CVuKLAAA
+BAMASDBGAiEAoG45jgN45pDa541AIAU5bvYhJ8tbBwpr4LCGGIzFRCQCIQDn3xZG
+jARyuH9VtzCWW/QKIlSLryhri26kl9uVBe1TYQB1AEHIyrHfIkZKEMahOglCh15O
+MYsbA+vrS8do8JBilgb2AAABfQlbicQAAAQDAEYwRAIgC6llmDeURaTBgN0l2uOZ
+bcdRe9M9zDBP1skABvv2ZFkCIEnXwyebImNyAM7YExV3x30i2z6xrQGQpt3vEavE
+lSV8MAoGCCqGSM49BAMCA0kAMEYCIQDn1uUXQqOMmpbqPuCbk8b0oC7UKQoG5o3d
+brxFNn3cCwIhAKj7h6Ahykh34w0fOitmhtvdKu8QPTH40yCE+QsEULrX
+-----END CERTIFICATE-----
+subject=C = US, ST = California, L = San Francisco, O = "Cloudflare, Inc.", CN = alazegom.tk
+
+issuer=C = US, O = "Cloudflare, Inc.", CN = Cloudflare Inc ECC CA-3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2629 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

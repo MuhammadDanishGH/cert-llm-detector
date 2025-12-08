@@ -1,0 +1,72 @@
+http://www.jaredlevy.ca/Goal/ofc3/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = jaredlevy.ca
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGajCCBVKgAwIBAgIQeR11spvD6vawcx+oV5kAszANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIyMDEyMzAwMDAwMFoXDTIyMDQyMzIzNTk1
+OVowFzEVMBMGA1UEAxMMamFyZWRsZXZ5LmNhMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAshTQP/aPqY8vj8xr59mKr72fVEvf6OC6QI48IgDYg0SZgljL
+Z/8It6tfah9DZcc0kac9G3wmujdLH183OKn7dhOJ+bq0PGI/31qtVmIzK7V9yI4S
+H79vnuz2B5/ul2B8ca+8BWnBTisaEKWWzY37VvWNEMqMxIL8CzPJ6/DGU1h5xGG2
+CwOFRnDniCmZAu7TfQ0TO0zKHiDDT7Xf11F2K1BdHpl1h4uOs5thknWEk4SV/cSC
+djEe2GUxcuOzCgAbrFRL+NECV715ZvXyBr+AaHUgaOaJywU6fqYcoQpGCoi+lCYx
+fT99/yQSwYbHOCfsZKWGK3flPLF/OAbaM7KSiQIDAQABo4IDVTCCA1EwHwYDVR0j
+BBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFL9b2Dzh2/3Fl4T0
+AJgRXJotAj1AMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgI0
+MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAEC
+ATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9jUGFu
+ZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRxMG8w
+RwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbEluY0Nl
+cnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2Nz
+cC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgBGpVXrdfqR
+IDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX6GtHwOAAAEAwBHMEUCIQCWzYl0
+4HV46LOCzhKwh1KKlQAF/Vj0VjH5qtQMoy34UwIgWubmvxpuzg4Wgd9v3hVJcVKS
+TYSZBx+Yw5TQQIVTkV4AdQBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG
+9gAAAX6GtHvUAAAEAwBGMEQCIFw70OwcCAyhTTkFnksqblvCRTMTb+t39wHs7AYz
+MklRAiBURmdJ6u0vgaqHsx1dlP1q6YRROtOh1FE8RCZP/YWv3DCBsgYDVR0RBIGq
+MIGnggxqYXJlZGxldnkuY2GCE2NwYW5lbC5qYXJlZGxldnkuY2GCGGNwY2FsZW5k
+YXJzLmphcmVkbGV2eS5jYYIXY3Bjb250YWN0cy5qYXJlZGxldnkuY2GCEW1haWwu
+amFyZWRsZXZ5LmNhghR3ZWJkaXNrLmphcmVkbGV2eS5jYYIUd2VibWFpbC5qYXJl
+ZGxldnkuY2GCEHd3dy5qYXJlZGxldnkuY2EwDQYJKoZIhvcNAQELBQADggEBAFwG
+2J94S1uliaiu80NqHO0uim+5trl+3OH8UVzM03Miu7oJK1Esf9CZLCf4EbB213eX
+r0hUlNAr60gcw8LjVaSMHE/hy/Rmqp+4j8Pb/l56H0faBkbv+pwz6UvV1TXHR83q
+TzczIVvdZRh/3UNda/Z/sb0Qo6IIbv1xfE5aVlbt/hyZY2A4a2RfaejM1CDL22Q6
+K0oFrai9I151kky2a7+RuZSDVb/B9I7VHXT7Sq+V8DmZM6YGEoBRNOmQqFKuOI5p
+pt3Bo1aYHSg7LUZO2DunNQ4KA2s7V9WTdOCUGFL6sfk7k4IIed9m11cwzJx9/LFr
+gefY03JHBQNGhKsOgzo=
+-----END CERTIFICATE-----
+subject=CN = jaredlevy.ca
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5151 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

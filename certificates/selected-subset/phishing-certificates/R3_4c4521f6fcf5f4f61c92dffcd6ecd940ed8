@@ -1,0 +1,66 @@
+https://pancakasvvap-charge.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = pancakasvvap-charge.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUTCCBDmgAwIBAgISBMRSH2/PX09hyS3/zW7NlA7YMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDMxNzI5MTlaFw0yMjAyMDExNzI5MThaMCIxIDAeBgNVBAMT
+F3BhbmNha2FzdnZhcC1jaGFyZ2UuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEA7Ege3HWJHpRcUZ6MJceMHwZx7gV+Tu84kmB7d3hMDMaWng5pXneq
+o5lqRauMQDiNMr6GAm97kMNPiU7vw81iXlftcV2UfgLFDK3tVHb2F9L5Jjd77PrP
+6pS17sbzFmSDrClwEq1CVrf0n4cxkqjKb/ooT2mhcmgHNdOyuNxl7BfMYpx7wbOd
+//+jqBJZzwNd1P507Z8aS11difey30ijyIa3adLfxjPq8oZ7E85qODwEUgG9OnPA
+7xm1VZl9nOuDCU7kFVXN24QWsMK6ZIozPkKxbvkhwM/0VCdmJz1MvteMcBGGEwJJ
+p7qZeaxlmkHJHst9sggXf/fTuBfvDAL3cwIDAQABo4ICbzCCAmswDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8E
+AjAAMB0GA1UdDgQWBBQE/6OxQJDr4OoXG50IoIWtq0jVKzAfBgNVHSMEGDAWgBQU
+LrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGG
+FWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmku
+bGVuY3Iub3JnLzA/BgNVHREEODA2ghdwYW5jYWthc3Z2YXAtY2hhcmdlLmNvbYIb
+d3d3LnBhbmNha2FzdnZhcC1jaGFyZ2UuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIB
+MDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2Vu
+Y3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA36Veq2iCTx9sre64
+X04+WurNohKkal6OOxLAIERcKnMAAAF85xAFIwAABAMARzBFAiEA8aU1X5WBuktR
+RP/wFMldU/WlQLFZGdhUdf2X8659LwACIHrYj5H0P/RtwLxKeTxlGoGjNKInKJis
+7K0BS1RWIyJUAHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF8
+5xAFSQAABAMARzBFAiB8e6CPz6qG2clFHAkRuYnhklqnrweDWpRUIriiwUCDOQIh
+AJJVzJgdp9byzTMK77pYqd6u2zDX7WydJtB/XIRABtT5MA0GCSqGSIb3DQEBCwUA
+A4IBAQCxCncu8+OUK7ayw8qYyrEmIW1A9A2Tp+EzWrJeNhHMAnXwhCyVm+I+ce5Z
+dPJNnlhHrrIgAyuCb3ZPL06gsBddLS49HDzRcsoM2NnLTqIovwlNiOoQQ+onuCkg
+x5XCIyy+ClBo/hxZKJQNOXTqTIAPrFLqqY5ffC9QJXzNabBiAMVOGe5d8hVfWbEd
+x+yvYP78J+29jBvJTjd8IVCuwG3tJvmM4YSwONai40vai2xYxfVxM73xjb7Ej+Nn
+K5KHHu99wDli5yEuFMpEDjKaSI66eW0Ffsp0NHptAmdkTWlW83milXFiVPAyS+pS
+pvLpzB5ieK/BXjp7QdpH5M9iZUqr
+-----END CERTIFICATE-----
+subject=CN = pancakasvvap-charge.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4605 bytes and written 381 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

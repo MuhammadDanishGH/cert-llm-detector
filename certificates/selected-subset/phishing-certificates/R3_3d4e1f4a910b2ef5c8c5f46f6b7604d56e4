@@ -1,0 +1,61 @@
+http://reximane.cf/operation/fonts/?email=a@a.c
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = reximane.cf
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEUTCCAzmgAwIBAgISA9Th9KkQsu9cjF9G9rdgTVbkMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTMwMTAwMjhaFw0yMjA0MTMwMTAwMjdaMBYxFDASBgNVBAMT
+C3JleGltYW5lLmNmMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEkPpVWNQvl8L4
+DnNcqXXOroQupYW7fznO8vpq/Z0BTMikvLGJEIL9awuvQe698A8A/S2I1fU7UQgo
+MKEImCEEtaOCAkYwggJCMA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUngcsBvOqooLV
+Wi6yErj4yiMEwakwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYI
+KwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcw
+IgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wFgYDVR0RBA8wDYIL
+cmV4aW1hbmUuY2YwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEw
+KDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgor
+BgEEAdZ5AgQCBIH1BIHyAPAAdQApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZc
+JV3HhAAAAX5RKjfVAAAEAwBGMEQCIGU8RFVVV0zql7ERfVJESnRwHvUlpXwL/T8L
+J0WJkF2+AiADHvTfpAODrU0gpzjKbLf2d6tJcCxITzkeS7Y1lhpJDgB3AG9Tdqwx
+8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABflEqOZIAAAQDAEgwRgIhAMOv
+Nn1En/zvl8ZFwmcNCKqa+/N6iq91MI7j3Tr0u1khAiEA3VX2yT1oIKRRd5Fd1p6+
+MjpHytotPQZ6+0YQKaY5F3IwDQYJKoZIhvcNAQELBQADggEBAD7IgjpqkkPtiKAv
+BtjtRaKWB+ab+pNEtaDONJXVaKwA8s5MAlRipGJd00iGVTy329tB/CD2C6QqpTsZ
+sXCaB0fjICHNPFmQdej8Cf9JYrw0t4gcgx0vsatr8+oMcEQ4phaOdSDh5QAtJIoD
+Jnu7vYhVq/bkjFg15Ct5rvhN/IK5dNgCcJhHEeaMk6krm/3hcYkFLJOqt/DOSSIx
+t9HBpmuhDYFEfq6Wx3Uq0tOKvf4Y4VMl2dJXS+cP1vedd2g8DYj8Dkh060Fo51nf
+VPvjtpwqtzrb1cg5znDVCOQ9IBXPW25i6P+CkIqsRl58eCPKIvJwdbbNxMvobhUG
+k2Rf3/Q=
+-----END CERTIFICATE-----
+subject=CN = reximane.cf
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4111 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

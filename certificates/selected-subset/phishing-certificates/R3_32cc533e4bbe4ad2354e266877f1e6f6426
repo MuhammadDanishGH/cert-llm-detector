@@ -1,0 +1,66 @@
+https://2022.clientepremiumefect.xyz/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.clientepremiumefect.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUjCCBDqgAwIBAgISAyzFM+S75K0jVOJmh38eb2QmMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMDQyMzQzNTFaFw0yMjA0MDQyMzQzNTBaMCQxIjAgBgNVBAMM
+GSouY2xpZW50ZXByZW1pdW1lZmVjdC54eXowggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDVgwogvZ7DFIlg0dxBcKXoNHKpJ/c92sF0n0/Hd2rpFCnejjDY
+jEZptczjmeoKDvycS+Kvd2kSDoYU2f2XrwJ+b+uOehCb49X63ODigC5SZxH7M1LQ
+sGEWKRzWdJ6tVwot/gVy9NApUiCGqkQxB2ogcdIYwy9opZcl6HidLzHDrGbUtca6
+06h7w8Buk612z67UC/ktxPFFugdNQRvpffHFd3dn5v5qctOz8Wswy2N7JAA6V6KJ
+Wd2/2vy+bjn1QAmHKz5EEP84uGi7ghXjV3DRXRulpe8Pox8kkPMoSSouSnWv5Ak+
+aMehIijWeVX4bMZps4cXaYy9JyYTVdN/VtPbAgMBAAGjggJuMIICajAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFEBAjHyQ36zLha3cTmTT3/ci1dLLMB8GA1UdIwQYMBaA
+FBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcw
+AYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMu
+aS5sZW5jci5vcmcvMD0GA1UdEQQ2MDSCGSouY2xpZW50ZXByZW1pdW1lZmVjdC54
+eXqCF2NsaWVudGVwcmVtaXVtZWZlY3QueHl6MEwGA1UdIARFMEMwCAYGZ4EMAQIB
+MDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2Vu
+Y3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAKXm+8J45OSHwVnOf
+Y6V35b5XfZxgCvj5TV0mXCVdx4QAAAF+J7EzTwAABAMASDBGAiEA/CVO6tJZqOtd
+8C/rbJWNnjvibtjbIC6yqDfrJRxCSycCIQDnRilz2SvFtbrDvII42+MCrDJFtcaq
+eoXE9E62M44kuQB2AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAAB
+fiexNBMAAAQDAEcwRQIgYLhTb9UYJmnxmjGTXcOO48cPBG+KesqvGq0qYy7zgekC
+IQC92sQhPjaNdVtniAkfioAUAS96z5h/UruDpw/XJlCJYDANBgkqhkiG9w0BAQsF
+AAOCAQEAVhtcQeK57IFlZtXxUmy0l3pvAGr6uktfHjYFBN6oFYxH5cuyaGiO+vwT
+ArlD7XRFBz0QMK9uFOFcb6+6Yrl2MrmEnEFgJq2s2sNKLuXUza5JtpuxfGdNDpdu
+znAtUThK7zI5vFAI4il/cIVKuDnDTqlHZebwEVDVgKtYPS5K7HORT90Uc1eTRTcf
+h1t5jth/vsuMDR88Rq2FerXOR/hd15ypejK98C9UrPgG/qDQ45QINP3V0jxjsVgw
+MLEAh3lKKuai/khKjgVc1+/sEIz+iljQ9B1xm/ifxLaevF/9ta52WA79RzYB1FRU
+b3frqrR3aDtYMOppk3nwuhKUopUhdw==
+-----END CERTIFICATE-----
+subject=CN = *.clientepremiumefect.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4556 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

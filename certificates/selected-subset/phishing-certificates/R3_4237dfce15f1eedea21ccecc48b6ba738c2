@@ -1,0 +1,65 @@
+http://netfex.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = netfex.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKzCCBBOgAwIBAgISBCN9/OFfHu3qIczsxItrpzjCMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTUxNjM2MDVaFw0yMjA1MTYxNjM2MDRaMBUxEzARBgNVBAMT
+Cm5ldGZleC5vcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDiYTKn
+cTEGhDPg2d/C2kTL7MFoJax/K/f1d4BZJjrWgqiKP+2qQ4wNAyach3XVR4eGVNBX
+RHvtpVl+QfrhOGxBMA5ZXWweLBfaTZQ0oHvCz1UXLbSkNCzvckV/ueL6CzMzS+2j
+VwAjRGtXEW2AUCjPh/9aGLoWdcxm32yRIuqMawNJmZCZ4RN8jq6E34ee6sWgP/94
+CNaDbDl4DOjv1Vx8JJmhOOEag7F/kT65zuhZhdWdnzTvplYUWg/9iaT003vIOoZW
+ugbQQ+xkwXvjJLE5+6UW5qXS5TO0hLzqFdkwDD1s14p9iPo4OqwrWHkDLaM5OJrT
+N72/zXrXfMn8DGRXAgMBAAGjggJWMIICUjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FLIfqD3kbiF7eisAVl1WNg/b6MpRMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYf
+r52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8u
+bGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMCUG
+A1UdEQQeMByCCm5ldGZleC5vcmeCDnd3dy5uZXRmZXgub3JnMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYA36Ve
+q2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF+/nSqtQAABAMARzBFAiBo
+HTHhJ5RArM2yxF2qh8DQ+pWDsPbqr1DEB1aXMlldHQIhAOdyGpHQ+6+6fq6ONgAV
+xJgAmSJdJkKUjkwrgYw0fVuSAHcAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0m
+XCVdx4QAAAF+/nSqpAAABAMASDBGAiEAxy0mos7P8XtNAi9hXLGUIUgdMRKLWMUo
+l02jiUReIlwCIQDZPiQOfzSIYEG0wOzvQAtOv8JIdyL25ev/pfffwCBbATANBgkq
+hkiG9w0BAQsFAAOCAQEANt41axcWGKSRkIG8xm4JD991/nJ1eH1mkjL8OiNqm1tc
+Z8EYn2jXG6lxC2InyOu0qQzEpcFHILK/j2McZefslTMYtyqGACuf5QMfLjQ8AoeB
+sDM2Oxmj4A/EqBekPkuOIMxvRaDUi9rgVWD7TLCnPtKFd6w2ug1rwwmmFt4F1tgo
+i+0EhP1HE5IxFzuAqwo//CC+sT7DruqrqgWjsiCHSmTOCQR1AOWOSu/IPGyeldwn
+CgUhE7LWuz7rlk6N3vy0UU+fhVh5j2X0MeTf3CYU7uc5X5yYs5w3cXMbCeZC1Yo5
+1PwKBgZUMo81qnR0WZsd+vs3tCq39MlKaeC/on+kAg==
+-----END CERTIFICATE-----
+subject=CN = netfex.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4583 bytes and written 384 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

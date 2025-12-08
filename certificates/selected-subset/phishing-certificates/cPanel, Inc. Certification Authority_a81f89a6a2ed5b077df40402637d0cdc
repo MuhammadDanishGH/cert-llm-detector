@@ -1,0 +1,70 @@
+https://test1.cognizantdev.com/org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = test1.cognizantdev.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGATCCBOmgAwIBAgIRAKgfiaai7VsHffQEAmN9DNwwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA3MDYwMDAwMDBaFw0yMTEwMDQyMzU5
+NTlaMCExHzAdBgNVBAMTFnRlc3QxLmNvZ25pemFudGRldi5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC7Oojma29yf/zfWs3rqTLIKGmSB70HZ4hi
+hWDbnB7ayHU7iUgcC23rE2fYMXY2rhiL6XD01cbfKjmhPhIiF/l+F6qa4kdHY4Et
+kah2yAKp4HdOOGaWvYC7Arddq3KDryzUYzBkewjWprBVrvP51JCxC0kANRsucMss
+1fKRGVxSnFOlavDN/RVO9c5wb5cdXef99DZtIVEqK6vR30+jUYrv57IcMg6V8gqo
+xz+DBBp4ZcL+Tkl7DFG7y7e2Mv4Jpxh3Bb/jw3iR5dol33H6CbFKf5WU9dO8EZpo
+do32+so3bJipqkjC9A6z1EIyErlteZRWiW4lkuFhCzZrzwggf+LzAgMBAAGjggLh
+MIIC3TAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU
+oXsSEbiEHOulVIH+Kv8jKu8MJXUwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
+MAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYL
+KwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9D
+UFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2Rv
+Y2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsG
+AQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGG
+GGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQUGCisGAQQB1nkCBAIEgfYEgfMA
+8QB3AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABenllFTEAAAQD
+AEgwRgIhAKsX0ZouqJcJHPtq9gMkHqFZeHbtAEraYkPOwv8Rq977AiEAsztFtVIb
+X36eR3ndQOMZigVG94c9ainm6Jx4R9SdHA0AdgBElGUusO7Or8RAB9io/ijA2uaC
+vtjLMbU/0zOWtbaBqAAAAXp5ZRTvAAAEAwBHMEUCIQCKVRX2KCNzqJjhEgU7er2U
+VJKsedlSKLzLnMoAqOMbUQIgOms9jmdeA1HZvdFwH/02XQY4KU6w9aL8SP/WefMZ
+caEwPQYDVR0RBDYwNIIWdGVzdDEuY29nbml6YW50ZGV2LmNvbYIad3d3LnRlc3Qx
+LmNvZ25pemFudGRldi5jb20wDQYJKoZIhvcNAQELBQADggEBADpLJLBkmqAPbqOL
+knrZab2Ie2OHObfV291MMljuItIRszixZ3Vx4TRJkVCPFNuEC30ks33ogHsgVEc5
+61r4Cw9ZQF3i9xb1+yVN307m+vgMf2mUGV92oq7fk4NSVbq4SMaJg1r4TFMT2+5D
+Cg+fm/958VBDJyBPPffigCae7NfI+9jbCQUM+IW4yJ+udCErWNdmy8l7R2hPnqDJ
+XipYzcoxfaj/l/G+zqjU9D9O2AHDMZzQ3dSQrBzZtqFGeU3RL9XFtFJvmqfm30jd
+4YBEKdsiG9ARQq7Tc1f84Ed8YWNZCHjH2cySSd2g4Fan9XbdFxeNxkJTgUQolvE3
+vtK9xE8=
+-----END CERTIFICATE-----
+subject=CN = test1.cognizantdev.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5046 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

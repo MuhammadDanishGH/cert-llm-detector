@@ -1,0 +1,66 @@
+https://reinforcementdetail.co.uk/tr/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = reinforcementdetail.ckraftdesigns.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFtjCCBJ6gAwIBAgISA9EKC7q1ssOJh4KXKorlXnYZMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjkwOTE5MTRaFw0yMjAzMjkwOTE5MTNaMDAxLjAsBgNVBAMT
+JXJlaW5mb3JjZW1lbnRkZXRhaWwuY2tyYWZ0ZGVzaWducy5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC5pBn/9UMyli8LO06OJOuR4l3G7miiP/BQ
+qrHjoEWU1hlSXkVBKuqWQOMJpEtZ1R6Rp+/CT1yNl2DMqe00UEz0HGcmazcSK6Ei
+S+kluo017fzI7Kvvms0Y6GDjXfnUTkkjBPUKvsyBWxjf8PQiGufSuWEW05pNqqJi
+SRj3v2QPMe7HZSHP8bVEX+nzckkhr22Io3WH27DhAg2WyAeALUQ+W71j8NwsUW2k
+qdSgxzKr0CRcZW3KFKN7e81BeFIoe9TSl0xBM4Wmd4sEtGob+C9dOj4Fs79l7C3+
+uOKWBR/SlC1n7XZJuNMtcJJ5hC8QkWntxhvyQT4BJZCJ8OKDIluJAgMBAAGjggLG
+MIICwjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFHIlNeKNhXxFOEY+OsBH4J/571g3
+MB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkw
+RzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAC
+hhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMIGVBgNVHREEgY0wgYqCGyoucmVpbmZv
+cmNlbWVudGRldGFpbC5jby51a4IlcmVpbmZvcmNlbWVudGRldGFpbC5ja3JhZnRk
+ZXNpZ25zLmNvbYIZcmVpbmZvcmNlbWVudGRldGFpbC5jby51a4Ipd3d3LnJlaW5m
+b3JjZW1lbnRkZXRhaWwuY2tyYWZ0ZGVzaWducy5jb20wTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdwBGpVXrdfqR
+IDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX4Fs3UvAAAEAwBIMEYCIQDpO9eN
+UUZflVNL9ShvzPIcYkbHXNCBAJyXdg+I+05huAIhAK5uId+pMCRuHD722/mSPwOH
+TJSnNrrbk+Q6Iy0I/c+JAHUAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKW
+BvYAAAF+BbN29wAABAMARjBEAiAlws3WsIsvZxWlIYB5CMVyCkwwTN3xE7NefyyS
+FiBR9wIgSeA0bxrqvgA91pGQpY+uVE+huvg3qbnmmfc//5w4m20wDQYJKoZIhvcN
+AQELBQADggEBABraGyUEC70fJMUaEX4Gsxwn73G7kfiqhFjF/80itmGWQDv1fHxE
+fjBQeI5yLUkleezUG4WkiiRQyO7T6xM+JC6k2VJdpW9CZmcWUf6NuABsAUuHBn91
+SvUMZ0s5tMUwHpLYFOWB8J+Ax7HOsFCJhIx99+eQyybpnh7pCoVb/dK6cNpefgfn
+uHdQuy9WVWoa+sg4aTJOzRvx5S7w72B1NRXH6pL/TV1jY0f3nGTioiJsucisdmeG
+zmq7RZJX3Gc4iGRVirA/w0EWWIudjRZI+pUi9W1ociNYCXVFO8BnsvjI3yWt8KhD
+8K6b+OZurBhVNOtpbTA0onKdfE/m8ckn/6U=
+-----END CERTIFICATE-----
+subject=CN = reinforcementdetail.ckraftdesigns.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3337 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

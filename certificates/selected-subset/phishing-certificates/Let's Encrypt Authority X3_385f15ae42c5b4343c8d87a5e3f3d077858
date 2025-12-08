@@ -1,0 +1,92 @@
+https://michellegal.com/heidmanlaw/proposal/verificationAttempt.php?sf58gfd1s689sxd2sdf8angf264s9df23sd2f1n495K3L2C151645172991f1477dbd26917ef3822423f62e984a91f1477dbd26917ef3822423f62e984a91f1477dbd
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = michellegal.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFgTCCBGmgAwIBAgISA4XxWuQsW0NDyNh6Xj89B3hYMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMTMwNjQ0MjZaFw0x
+OTA2MTEwNjQ0MjZaMBoxGDAWBgNVBAMTD21pY2hlbGxlZ2FsLmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAKLVpH+6OhaHN0MGETh7kBvbDb7djW3D
+q17VwQO4+DEDtZJR0M2iSaRVOYZY/QduuRS15xzRGDmNafJ2bs6ktfm01M5gSloj
+FaMsMMDOYXriox2qd8CbLx40/LhJdSQjLpiotOceojUiSVmZD8R9tzEUFE50ph0m
+TqfsqKtVMbsBHl86QBFwObDr2cbIktn648gFWtEwM6uhi4wt5ENOl2ktkJuVJbIT
+4BnBTsg6CE197Tztv01yB9n9LnTjin/69o18GMDnsYX3f7uZtU5EPePWDizYTarp
+vNi/Z+9muh7lDWL23B01/6XzMvDpH4fT2EZ/7YHNysM3LYZmlQSmKf8CAwEAAaOC
+Ao8wggKLMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQULyzBtkFbFAYSTYQWElbhucNE
+ScowHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnLzBFBgNVHREEPjA8ghRtYWlsLm1pY2hlbGxlZ2FsLmNvbYIPbWljaGVsbGVn
+YWwuY29tghN3d3cubWljaGVsbGVnYWwuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIB
+MDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2Vu
+Y3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAdH7agzGtMxCRIZzO
+JU9CcMK//V5CIAjGNzV55hB7zFYAAAFpdgJ3jQAABAMARzBFAiANImg8eOrufaN9
+bfbTqLJp51Fa8Zv0BkWLhUOq7AIsrgIhALEcIKHi/JNtNu9384sMDoplhhM+iB2x
+u3qaytC2cWauAHYAKTxRllTIOWW6qlD8WAfUt2+/WHopctykwwz05UVH9HgAAAFp
+dgJ3uQAABAMARzBFAiEAqZq50tLgF7DCVmrus5GozkQSV70lVMS8yDaXQlJzUL0C
+IBEazFE3DqpK/qReAvtpeIa8zetbJo/RBXLBzXG4+wTUMA0GCSqGSIb3DQEBCwUA
+A4IBAQAgfJ6M3JMk68rfMOnkAANWQFD1BpiMrFqsIFWN/FE7aGtUvSpvM3J0Se+O
+p7BpzmGCGqpF83gyYlAiqM0gdhFDqptu5BRkZO6ZEK8cFmiKzySv2tzDckPK2fdn
+HSyEaHRR0RLkw3idHhLcbzkIk+i52GtVgfBMjnt0V9gt+oi4vc9F1f3fOJmr2/di
+faePaMPmMhPO6srfbeksKSphJVzk6wuRvcDAHRrZqvJqK9Q6oX9PeGCxVlsUGcVR
+xRM6DVadYi4otSemSh8ng7/WtkIhsa/FMbgEqbK2j5tyDCfs8wlazOqrzpQbcSLp
+l/g7ro/l9mG3rfa7A8xQFFncTfuq
+-----END CERTIFICATE-----
+subject=CN = michellegal.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3296 bytes and written 453 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: BDFAB00620660FF13CC79FB7A77B096DF7438C35987061667A6F79BFAD920EAA
+    Session-ID-ctx: 
+    Master-Key: 795819703D3E493FFE732650A05726E0A4272E8FBBC6077FEF2D9044BEB44D63DB0BB3DD78AACC4172AA77F9AF78CFFB
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 5a c5 eb 37 c6 44 6a 1e-32 c1 55 cb f1 e3 b1 c9   Z..7.Dj.2.U.....
+    0010 - c9 5c 1d 71 46 fd 68 d1-51 6e ea 13 5d 98 22 bb   .\.qF.h.Qn..].".
+    0020 - b0 19 52 6a fb 3f f7 f7-0e 97 31 40 d1 4e ba c8   ..Rj.?....1@.N..
+    0030 - 59 a9 d2 56 99 89 ac 4c-19 6d 0b 99 b8 0d ce ea   Y..V...L.m......
+    0040 - 5c 28 f6 92 c3 e2 4f 30-af 78 65 6b ae 3d 28 2a   \(....O0.xek.=(*
+    0050 - 67 91 1f 81 07 83 45 ec-9d 0b 6f 16 e5 95 65 f6   g.....E...o...e.
+    0060 - 58 52 e5 c9 a2 bf 7f 57-26 31 29 c0 81 83 b9 e3   XR.....W&1).....
+    0070 - c3 09 7a 2f 32 7b d9 bf-59 2d 9d a9 4c b6 76 a6   ..z/2{..Y-..L.v.
+    0080 - 8c f5 4c 6f 6d ed 3e 15-c3 a9 0f 40 e9 b3 8f d3   ..Lom.>....@....
+    0090 - b8 dd ac 35 9d 23 fd 39-8d bb 91 75 6b 34 70 60   ...5.#.9...uk4p`
+    00a0 - a2 cf 73 3f f5 39 77 05-47 29 10 f4 0e 88 dd 97   ..s?.9w.G)......
+    00b0 - 51 55 de 28 27 2a 34 75-c6 31 a8 66 46 fc 10 cb   QU.('*4u.1.fF...
+    00c0 - 30 7f a2 88 34 6e 66 1b-b0 f9 f8 f3 dd d6 b8 49   0...4nf........I
+
+    Start Time: 1555246817
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

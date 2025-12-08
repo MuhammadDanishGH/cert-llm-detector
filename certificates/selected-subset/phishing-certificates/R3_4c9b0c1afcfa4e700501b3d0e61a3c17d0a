@@ -1,0 +1,90 @@
+http://molliea.ml/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.molliea.ml
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLTCCBBWgAwIBAgISBMmwwa/PpOcAUBs9DmGjwX0KMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMDkwODIwMTNaFw0yMjA1MTAwODIwMTJaMBkxFzAVBgNVBAMT
+Dnd3dy5tb2xsaWVhLm1sMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+3Ww0Xmm8M7YwAUsb2BwiEvV2Y3vMIuy1NPdSIfwG0tgJgdWPura5hKhFVwsw6s+3
+GcxdKNy0rlBF+D56MTPovKMTQGLwbmipdl7nhW7EFLdAjIT4b9Xp91TQpeNSFp2g
+knE1qUc6TP6/vVK9ENt5IkIyK7bNrKQHEfSyQg0lUOJ9NEWTZp0Smy6TYESYjykd
+v33g31oD6RyAgKE858wTL8uxu9W1ISwb+HVuYlssRxzvBcD5f4fglal8/KjVuiej
+b5rfApaAEESNIVTPb3eTv0VRZx6dF+DJkCy4dpuuUjC24qjcrOk6wc2mfP6W3ibs
+bHPvPE4KeNoiGlPGtKrjMQIDAQABo4ICVDCCAlAwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBTt4q5lexoOYplfqPVsjV0uJXrusTAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzAlBgNVHREEHjAcggptb2xsaWVhLm1sgg53d3cubW9sbGllYS5tbDBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1
+AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABft3IhyEAAAQDAEYw
+RAIgAlfdVoS+QxOGlZ2+JU8UNm/ErghouXqoRQ6VS9manpACIHjTGEHnyC2M0IK1
+wAyjMDjn5uDsAeE+i98A2TU/Zxq8AHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4
+havy/HD+bUcAAAF+3ciHPQAABAMARzBFAiAOEvL1JrsqjSTzMxGNRzzuvgJQqLvF
+5vqnRWnQMe2/hwIhAIR9dcX1zso+ibIJfRw58nACZ2jF//kEKavp1uFCdYwOMA0G
+CSqGSIb3DQEBCwUAA4IBAQC6zaEX2laafd2IHvZrO52iRwB1VCeo5xhM5KyUO7J5
+3UYPdWXuvcGo2JwIRPoj1EWnWEs66d+Qyzr28mdDNrhCjMgJj4uFjGyw3x7GVVCv
+vEQphdPldgllF2M3d+LVD9qtXCr5VAhN/BCVayccwuMyPRr9i6jAG7gQjf4AMTnt
+AcnR3fJ+khOqnrYuA2hdJOOj4MnmGpueknfS5xkzNeu7ZBy181Kt9JT+dlw5mUwY
+YrzTXLC8o2LNOlZJTeUxf4ne5mJ6m8MZQ/DvUCWIHKa0VoInn9BJ4e3Nme7fmJtO
+xtskhLnIphYhAsWTwsw/lnSEGwKq6ioJti6W6FJDstl7
+-----END CERTIFICATE-----
+subject=CN = www.molliea.ml
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3315 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: BF4CFB72FEB4E1A6B202DE9D6ABD54276C1CC02223930C7DF969E92DAB40572B
+    Session-ID-ctx: 
+    Master-Key: 06DB1D0979AD5B0C38AFF0888798384A7FF0FC64BEA4830155DE1385247388BDC4386728D6C31B2B184CE9AEDB8C9F2E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - a7 39 f8 87 a8 84 80 ee-5c d7 b3 c0 cd a1 fc 39   .9......\......9
+    0010 - 78 b1 ee cc 78 8d 91 7b-60 fd ad d2 68 c8 3f 96   x...x..{`...h.?.
+    0020 - f9 47 b6 fb db 8c 37 b1-38 ce b0 d8 95 5b 42 cf   .G....7.8....[B.
+    0030 - 2e 6c ce 4c c7 b1 bb 99-cd c4 96 e0 97 15 bb 81   .l.L............
+    0040 - f2 dc a7 44 bf 5d a1 59-0e 13 f7 ab 6d 92 d4 50   ...D.].Y....m..P
+    0050 - ee 8b 6d f5 22 7c 5f 76-36 d7 c6 84 8b 75 ec 3c   ..m."|_v6....u.<
+    0060 - 22 22 a9 4f 66 b7 db 78-e2 29 0d 27 bd 79 d5 a3   "".Of..x.).'.y..
+    0070 - 72 80 9a 46 75 eb 41 68-46 af 75 e1 42 2b f4 8a   r..Fu.AhF.u.B+..
+    0080 - bc e6 90 d5 13 06 92 d9-e4 bb 35 4f 43 48 ce 56   ..........5OCH.V
+    0090 - 03 4f 24 73 f8 5a af 49-a7 c5 e2 b2 40 c4 c7 ae   .O$s.Z.I....@...
+    00a0 - d0 20 a3 bd 42 4e f0 8d-a8 fb 25 60 68 a0 94 ea   . ..BN....%`h...
+    00b0 - 04 4e 04 0b 00 b2 f3 8e-e1 47 33 e5 18 a8 c0 42   .N.......G3....B
+    00c0 - 0a 4d 45 0c 49 a0 cb 06-ee a1 73 a5 73 d9 39 db   .ME.I.....s.s.9.
+
+    Start Time: 1644756068
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

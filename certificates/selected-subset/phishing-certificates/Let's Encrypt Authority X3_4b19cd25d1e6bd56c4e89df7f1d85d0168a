@@ -1,0 +1,91 @@
+https://martverao.com/index.php?produto=303300679
+----------END URL----------
+CONNECTED(00000004)
+---
+Certificate chain
+ 0 s:CN = martverao.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFZTCCBE2gAwIBAgISBLGc0l0ea9VsTonffx2F0BaKMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAxMDUwNDA2NDNaFw0x
+OTA0MDUwNDA2NDNaMBgxFjAUBgNVBAMTDW1hcnR2ZXJhby5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDSMRUR1BSeRUw3HIFzleFDjOJa23XH7/E3
+UKNDOazk4WobPGyaLLM+AqVT2BN5J/L/69HtyD/kEA6nYcAmzwT4L+fPIMkd/aCs
+mL/w96NElOosmvCXpW4CCUFQKYDlp3Wcl7ExmtSvcfC/wQ7cU9/07cKwan4tMz4x
+iubh2NLmAM/BTcXhta8q/gz7X/6yqjUykSjePqnY93k7SUgKKsvF5+JXA5S5DG5F
+6dSTHvkcqumqATQXkZGoTKkb+qosP4+BjLx/roG3lOVnNa6ioVVb+MAgceT1Tyzr
+klePaT8Ryez3X5rIM/Tnf3TFj2lGzqPlQifvq2qt9xklOsk4zlqtAgMBAAGjggJ1
+MIICcTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFFZ3rox+dLb1e/5lBHyMAXuf+jqG
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wKwYDVR0RBCQwIoINbWFydHZlcmFvLmNvbYIRd3d3Lm1hcnR2ZXJhby5jb20w
+TAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcC
+ARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1
+BIHyAPAAdQDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWgcZ/ss
+AAAEAwBGMEQCIE7IKxSV+1hN2DIcLnL8RqId1zCwOJOx+SdM+A0ViB1YAiAsIZo9
+S8OOIcya9gic+S1nsL45b5oPbNFC49T/oqzG3gB3AGPy283oO8wszwtyhCdXazOk
+jWF3j711pjixx2hUS9iNAAABaBxn+ywAAAQDAEgwRgIhAND/asnC4mqIK0JZCsyX
+OZIxoeiAp3YuSDjh/LhQXwNAAiEAvb3fwme5z4C0s/MIE/Vhrx/JLcMMxRhPyESi
+NG7DIh0wDQYJKoZIhvcNAQELBQADggEBAD3gIpKczQAeU4zHb0xVnkleHebkemr5
+CP1E1ewWVOUk7P0kuSwMNu/G4hpy7K5r8L8OVJ7AnCaZRDeP2GdWHLck2Uh5MXNk
+fVtfj+nkh7bYzTQQHnhNvJRdGzGHAwsfIEOk8l4WQXuiUTn4lDPUOg5pOxuxBQ9c
+xGDV/zIzWn/9+qykPSmmRvMGm57SaFUnd8P4XudkFRYKplqCq+VwnWNtQdxP4jPk
+NAAYmEuY8pUNsneINHDXdqlQb9gi4vF8RK+jgsc0G8YA9mcKZKSc5PRXO4oUPM2U
+VHhxPa+Nat/ki9dLE32vXNoGx1++unaPtY7RrLa/H4LOcgb09jsYsz4=
+-----END CERTIFICATE-----
+subject=CN = martverao.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3268 bytes and written 451 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 82C4A0EBAFE3770CAFCD0971164892E5B196442F79362E872EA01EDA12BC8087
+    Session-ID-ctx: 
+    Master-Key: 6816006A073A2E9A76BFE8ADDA938A0A5A5F9F7632CBB1875D889F6416C3F6F307395EA2E8DFFEF3D042A543FC62A159
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 3a e9 32 9f 75 b4 b9 fe-fa 16 9a fa 4b 25 18 ca   :.2.u.......K%..
+    0010 - 14 b3 61 3b 5f 21 ef 65-e2 57 7e 49 8f f0 de cf   ..a;_!.e.W~I....
+    0020 - 02 c0 e2 9f c4 20 ab 33-61 38 de 0e fe 82 a0 48   ..... .3a8.....H
+    0030 - 21 87 9b e8 1e c5 ed db-6c b5 1f dc 2c c8 92 6b   !.......l...,..k
+    0040 - 79 b0 fe c5 0f 4e 5d 83-26 a7 e7 58 1d 59 f1 2f   y....N].&..X.Y./
+    0050 - 57 0c e0 65 cc cf 1c d8-60 18 e2 30 d8 1d 1e d6   W..e....`..0....
+    0060 - a7 8c 6b 9b dd 32 fe 54-d5 eb 91 1c e4 79 7d 78   ..k..2.T.....y}x
+    0070 - ee ea 8d 70 98 be 19 7a-a2 51 12 02 12 f3 24 c8   ...p...z.Q....$.
+    0080 - 53 a7 ee 42 a9 32 88 e1-07 52 37 c4 52 0c 0e c4   S..B.2...R7.R...
+    0090 - 5d f5 92 18 bc c9 50 b7-54 80 bf 43 bf 6f d7 54   ].....P.T..C.o.T
+    00a0 - 21 fb 50 0a 73 0b ce f0-95 45 59 ab 21 da b1 66   !.P.s....EY.!..f
+    00b0 - 4e 9d 48 bc 36 5b 44 56-c0 86 95 75 27 f4 09 be   N.H.6[DV...u'...
+    00c0 - 9d e3 63 77 2c 8d d0 7b-b1 36 b1 5b 8b 11 fd 6c   ..cw,..{.6.[...l
+
+    Start Time: 1547131409
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

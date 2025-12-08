@@ -1,0 +1,75 @@
+http://bpmonlineweb.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.bpmonlineweb.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPjCCBCagAwIBAgISBP0AN4cVkQQVevfsdtPTavslMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMjAxMjQ1MjZaFw0yMjAxMTgxMjQ1MjVaMB8xHTAbBgNVBAMT
+FHd3dy5icG1vbmxpbmV3ZWIuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAzmWNvPQkYTtK+UWI0nonWJ485OLtYV5+PkSbl80E6CXOkNwct0Q3Z1qG
+gzr9wgUyEtsLiRZyoAbJTlzNGooP8oQbCd2wMcTDOassxpo7rCxlza5w1ReMRxii
+0ZkiLOwoOjLj326BdoHtg5d6QHD3TfJY/P57wqq2gHzz4ZpNGg/jyc+J33lngxI/
+ZbFR62NbPGGKKK8s5B76tL9AzcCK5KTS+itwkfTQvQEcrWuBx+nKxRyRw9ify6il
+Xg8LrKxjGM1NHgsVtgzpMmaomuxYX63cVQpcDt9sq1Iv7NkNF3SCtSEbA4OzcFyr
+t96EDxiuzHpEGTm7F5/jJdzlaW1H+QIDAQABo4ICXzCCAlswDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBSYYMKKsJazsnqBp2KdPO8AO52wkjAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzAxBgNVHREEKjAoghBicG1vbmxpbmV3ZWIuY29tghR3d3cuYnBtb25s
+aW5ld2ViLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQIGCisG
+AQQB1nkCBAIEgfMEgfAA7gB1AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBE
+XCpzAAABfJ3zF/wAAAQDAEYwRAIgdo/TH5CRD2qW/aF09aRwbF4t5+Cdx2DQTYWP
+oSp+6FkCIHiE8cUJOrEwrLOCrjbVYEUVcHPm6urztgU5rsR0uhdtAHUAKXm+8J45
+OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF8nfMX/QAABAMARjBEAiAbmFVV
+NjNyIPylw1EKPfGg8qlJ7jaEBrwNPeBGd+R5fAIgEAPrSG4d6CRkgZfOHBOI0P1E
+FKBX5Kcd0mSvesXwkXIwDQYJKoZIhvcNAQELBQADggEBAEeuuWnVizmmfmnxILMI
+QjCY0Rrtn/KcoHh6q0dbl3PlvBiVX8whS4zkMyF5NiaEz0hejCPLFF6ysW+jrVXH
+5Kbk5d9Vf+Arrw8TGQom+WQnSGJh6954LA6+auQwmeP0OEdO6J134xKj9Hh4H/tr
+KYYs5tvPeUIaBA3nGgd9jb0L7oHYya2kmuFzKXvvOJnAwFeBKqiHHHhHNxiq6Nz+
+QpUGoIoEqfGl7nMIkj/4qPmIFqejt4T++pqiSpvdqs+iuY0iC68Gl8fy3Y3OY6IG
+zcJdB70FBwUBW0OMe8FofZyrh4p2lSZfBHIhKTWzBaNfC2SJpkWmh5/T+M96c0Bo
+0Yc=
+-----END CERTIFICATE-----
+subject=CN = www.bpmonlineweb.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3166 bytes and written 436 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 59061ACFD48AB95886CB1EADE1979275FC1CF8CC544EC0E69A18D750EFAFC7C6
+    Session-ID-ctx: 
+    Master-Key: 22BA417A2A6D1CD67EDD0B324B4574B0511B8CDBF497FB6E788426A35E03DE3624A12BDABEDD5B8E071EEB08B2685F69
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1634821087
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

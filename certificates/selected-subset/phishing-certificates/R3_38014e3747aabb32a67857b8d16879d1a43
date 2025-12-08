@@ -1,0 +1,61 @@
+https://skifi.com.ua/wp-content/themes/09/smbc.co.jp/2c276ef30cd027278d939e14b2e6f032/check.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ftp.skifi.com.ua
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE0TCCA7mgAwIBAgISA4AU43R6q7MqZ4V7jRaHnRpDMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMjgyMDM5MzZaFw0yMjAxMjYyMDM5MzVaMBsxGTAXBgNVBAMT
+EGZ0cC5za2lmaS5jb20udWEwdjAQBgcqhkjOPQIBBgUrgQQAIgNiAAQs7pc6d5TC
+SeEZVisi2At+ZijtmbplH52xI+raRiE2UngjZmOWuaH+gQPevRtXsbcYQPwo+0AD
+rCfzPXyPTmOavyoI6XAfYjdnQ2KJx9vZ4Q+miyjRu/AvuxY4QH61OKKjggKkMIIC
+oDAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFEpojjYr4W2eBhp4oNKTxKaviQR0MB8G
+A1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAh
+BggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZo
+dHRwOi8vcjMuaS5sZW5jci5vcmcvMHMGA1UdEQRsMGqCEGZ0cC5za2lmaS5jb20u
+dWGCEW1haWwuc2tpZmkuY29tLnVhghBwb3Auc2tpZmkuY29tLnVhggxza2lmaS5j
+b20udWGCEXNtdHAuc2tpZmkuY29tLnVhghB3d3cuc2tpZmkuY29tLnVhMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDx
+AHcAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF8yNgUhQAABAMA
+SDBGAiEAsMKCYIBiO8+CllBb6oB65z/dHswp+iKzC+8pHy9o3UkCIQDrxBAzW9uT
+Ms4De+SFUYogrjiV+ob6I2gFvGqlB5ptVQB2AEalVet1+pEgMLWiiWn0830RLEF0
+vv1JuIWr8vxw/m1HAAABfMjYFKoAAAQDAEcwRQIgLLT0Vv/L27AafAgxmWw4U6NX
+catA2Y8I/3IKqy+Q7aYCIQDuvwYe1xia0l4B76I19V869KAMMDwU5v5MVNVGhErf
+cDANBgkqhkiG9w0BAQsFAAOCAQEASJuZ1DehdTuYfYcHfgGaXZk9TjEvkQnJgvoI
+j+tpnigJyPRhaP6iVkZaElMwbi8j2/Eujc9m3I/Pk80d1bLFgTPoFBQS1xgfYaDs
+cTigIFo/XGTkMJSnwH+mA1ntJCqJy6MAqzkLihh4vM6H3xTwGP8mW5rTMlh7jvgP
+yPhxF4aRwYUnuFBuWzci8ukiQ6uNX02phe3R68Goo+bpp6EPn3DTfaeeTB2dIroy
+ihJ0ToIjTfYiqNA5zfHnU0C1ykxqZ1g3QWj/NIEh9ffxYdka8xYW6SCuQxXK8d5A
+tYm8i6x6uo64PW3GYEQtqlTEjVXz2RTe7UQ9WaDlze7x8NIalA==
+-----END CERTIFICATE-----
+subject=CN = ftp.skifi.com.ua
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA384
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2884 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 384 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

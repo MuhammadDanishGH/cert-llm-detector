@@ -1,0 +1,70 @@
+https://ldmsauth.appleld.verifyaccid.info/?zxZ55SVshWEfU7F6ouSkHUmD9pCcTv3g
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ldmsauth.appleld.verifyaccid.info
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGJzCCBQ+gAwIBAgISBODOHDjn/BajVz0Xof1H5g6BMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTIwNTQ5MjRaFw0yMjA1MTMwNTQ5MjNaMCwxKjAoBgNVBAMT
+IWxkbXNhdXRoLmFwcGxlbGQudmVyaWZ5YWNjaWQuaW5mbzCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBALmbfRyLAyyuBVZCEqbH40dT8o5Fdc5WHrRnxXc6
+SjL93einoOx1qBkXizdggISx3DKpF5cEfrNFr9pzcdIEP6W94akQBu/FWVoS1PHe
+/o9L7mmDxT1JPjxtCm2L1R8DuPuczsBnepBVPLWykxcXgk+5UfT6Net4kOzNX9v8
+9Z8/+yx3VEnXKlaMivZ/aK/nrVfmGfuoM0FzUWfHVpw74/rwP5dB8uSRK1isYqmE
+2+SUwWTb/3Ywez4l7bYeqfEE08fxulUrVIoJRWBnKsIYIlKZmUmJaDlKq6YV2NuJ
+vZJVYeSF1JL/RY3LrgJF6+NVBgxCF6LqYDJnmrK1347Ye3cCAwEAAaOCAzswggM3
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+DAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUE6FeXDtUDx5GfdOURtQJ1BIZJdcwHwYD
+VR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEG
+CCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0
+dHA6Ly9yMy5pLmxlbmNyLm9yZy8wggELBgNVHREEggECMIH/ghdjcGFuZWwudmVy
+aWZ5YWNjaWQuaW5mb4IcY3BjYWxlbmRhcnMudmVyaWZ5YWNjaWQuaW5mb4IbY3Bj
+b250YWN0cy52ZXJpZnlhY2NpZC5pbmZvgiFsZG1zYXV0aC5hcHBsZWxkLnZlcmlm
+eWFjY2lkLmluZm+CFW1haWwudmVyaWZ5YWNjaWQuaW5mb4IYd2ViZGlzay52ZXJp
+ZnlhY2NpZC5pbmZvghh3ZWJtYWlsLnZlcmlmeWFjY2lkLmluZm+CJXd3dy5sZG1z
+YXV0aC5hcHBsZWxkLnZlcmlmeWFjY2lkLmluZm+CFHd3dy52ZXJpZnlhY2NpZC5p
+bmZvMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYB
+BQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAgYKKwYBBAHWeQIE
+AgSB8wSB8ADuAHUAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF+
+7LGHmwAABAMARjBEAiAN5r45lKjGua3unipW2Cr3li13I8xTD2NqZqCbpXT93gIg
+D9zICjE46pDlQSwZpkvY+TeKu4zIdRGc3m1vnxzDFeUAdQBGpVXrdfqRIDC1oolp
+9PN9ESxBdL79SbiFq/L8cP5tRwAAAX7ssYe8AAAEAwBGMEQCIGjjMHi5q+WK+tY8
+NYGkgLXDmGGe1yAljI3ZEetC2WCGAiBktFRVWoWVaDkpXr9ZkXL6B5jq6S+tWJ41
+uz8SG0I11jANBgkqhkiG9w0BAQsFAAOCAQEADsLueC26Lf9Gp3y7V8JUefyQtgxh
+s2qfn9wl8lnWDNuVUve7QBd/oPdrLcVKKN8U6Rbc8FXJ2/uU/k3DaaFz+IEJT1mp
+Ipspi9QM7X8CcSWq9xKDHZcvoK6FKLnTh0404Y8HhPTfJBU+ehzWXev7PGmKIkti
+RbuSeFaeIBmji5N7/iANuy4KT/rl6Oxn4App7t/cmuldglNoJJd7dhM1/4CN6IwT
+/AmxxIszwer812e6Zq4IEshcqmmcG9uIQa1DpBLQg9bkjUalbN2Ct2lkT73LPsGN
+aEj3F6y22fzJ0x9wgbDv0QQMZOe037hPdvc6jSVOYVXZyH3i5Z41yYysqQ==
+-----END CERTIFICATE-----
+subject=CN = ldmsauth.appleld.verifyaccid.info
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4835 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

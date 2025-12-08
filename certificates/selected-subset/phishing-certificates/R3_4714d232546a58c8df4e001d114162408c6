@@ -1,0 +1,64 @@
+http://www.login.mirosoft-online.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = login.mirosoft-online.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFVTCCBD2gAwIBAgISBHFNIyVGpYyN9OAB0RQWJAjGMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTkwMzM2MjJaFw0yMjA0MTkwMzM2MjFaMCQxIjAgBgNVBAMT
+GWxvZ2luLm1pcm9zb2Z0LW9ubGluZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDSATRv52pF6GRF+YsRkmLDne+LDDF1tJ9eIDQT42n4nnvD5A6T
+2mQmgGFPxJyYxYdQNM4GsbPFcXAARs74oRape37PpobrRMfwkjs61alf9jAfHfNg
+nw9lePt+GmZx9GKCkvYbudpYZQImqriUoyIQmUPQyTMA3zs/ogNjmnxNeonSrnYp
+POwWR0niMAHZSDf9Xl1/cR20lSAcLd9t4cOEipWyDyOLnX/an6ObZy/1gwSHiRn6
+6+M9fQ9q5USFF3zNTozlSgEzeyhv0ZV+38xMGKEj5THQCzKSPYjfqaP5J+mJgi3O
+Eq8T0halEaQo+RA4jV1lFNcTRSDZEVZXcRLvAgMBAAGjggJxMIICbTAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFKFvjHHNy9qLFE0B+rLYcquY2QjzMB8GA1UdIwQYMBaA
+FBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcw
+AYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMu
+aS5sZW5jci5vcmcvMEMGA1UdEQQ8MDqCGWxvZ2luLm1pcm9zb2Z0LW9ubGluZS5j
+b22CHXd3dy5sb2dpbi5taXJvc29mdC1vbmxpbmUuY29tMEwGA1UdIARFMEMwCAYG
+Z4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMu
+bGV0c2VuY3J5cHQub3JnMIIBAgYKKwYBBAHWeQIEAgSB8wSB8ADuAHUAb1N2rDHw
+MRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAF+cJ8dEwAABAMARjBEAiA2qCOR
+3bGMWwF2KIXGP33+ftESpGu0Z1Gvxfhd9t1aDAIgC/2Gq3+W3pCFOo5UcHG7Axu7
+fsgIgl1fCgaDQuVflvcAdQApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3H
+hAAAAX5wnx0dAAAEAwBGMEQCIFbvIxgt8t0/O/Qs+u8ydc6LaRoA+Ya0J9+TfX54
+I+EAAiACj3mrDQX62oSsUnatrIZOM8oLUP28jJWEoRmQdpkb6TANBgkqhkiG9w0B
+AQsFAAOCAQEApGy6jzwesW/QQsFRgHRctr/7yiuHFlA7zNdUBKSq9gMq8klGi3RJ
+L5Ui9yZAsbBojjeuoe5lMIRHiEwtcJzo6aBgyROw+Se6MJm7rvuY5748yFgAumlh
+1spD9QYhXycEtSHPjflh6jSkBfwZY+wKaZca4iC77Xi0KuOcD9lk8UP+qNi6fslw
+zAy/3ElfY5iw6vUaVxtlBZOGB3wg62wanLlhodiP0kLAz16CqCw7NFUO9g6aB0f2
+Xe0361G1piWYyjoNOo7oWIlDn/hVVsEUZpJy+07t3v/rWNiLuxTSIXnYfy3q7XtC
+5jOv8AYU2lR4Qz4ET87t2r5N/OOQK2woZQ==
+-----END CERTIFICATE-----
+subject=CN = login.mirosoft-online.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3240 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

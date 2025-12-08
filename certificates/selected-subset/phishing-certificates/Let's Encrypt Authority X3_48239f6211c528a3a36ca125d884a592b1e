@@ -1,0 +1,96 @@
+https://abarbe.nl/wp-includes/login.php?cmd=login_submit&id=5ce4f564286c125563ae03f0553257725ce4f564286c125563ae03f055325772&session=5ce4f564286c125563ae03f0553257725ce4f564286c125563ae03f055325772
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = abarbe.nl
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGWzCCBUOgAwIBAgISBII59iEcUoo6NsoSXYhKWSseMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMTIxNzA4MDhaFw0y
+MDAyMTAxNzA4MDhaMBQxEjAQBgNVBAMTCWFiYXJiZS5ubDCCAiIwDQYJKoZIhvcN
+AQEBBQADggIPADCCAgoCggIBAJ7M3yuHzruX+hl/jaMPXgj+Rn/oRoBxnQIq63Qo
+nGkrvCI7gnKDG+MRdwVeGFO4ypzZ60y3vzFCavzT9aI9Ju4rzgGzv8Jo6TabvtAU
+RrSTsnKD6XpqSN97sP+P2lO1fQQEWzvvdUvw8c6dU3nMRtSC6IPt3gAPFQx6cwbo
+ZaRtmvwahZHeJyg7gzD3ZhOblmRQiX1dsw055M3vZ/nn+EH3nf6xCb34waTh/th+
+ejZ84L3APIS238wcZff4w6qzZ3zV7CiDeUnih+Q65sSssLD0dIfDouKBBUTQ8qEO
+6R4wC9z5ugwDdRRQRJwMhIG1f6rjDQj/qHJ4vYcx+jn9CuR5DLs7IScpX1mT6mMm
+wgg9UxWU4Zmq76+3pzg47yOZsS8tj4lp88fBwyVgn3KzX6yi/lTwzLiRqPEy2Ixt
+QyvczAc9XRP6oQ4NLW68EFXKUgsLOFSbPKfmeTjukyCL4kPUh836XyraGlgRz+H+
+vtfrqpdLM4QKNfNDpPrAVmw8KrcyUfUh0MQ7UhV7ZIjCoRQFv5GNDl2sxn1UE4dM
+HzszFf/jF2TI+8Q170mvLEsunnvf3dseaVDuP40toS0kTWh97fi5Zxh0TyrVhwFg
+ERf8Ek6cznazHBjAospa8wZ7riiWqwx9tGl3Yq7J87ZDK1rute4qTI2NW88zV1Vg
+OBZ7AgMBAAGjggJvMIICazAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFKAD2R8LE6Wu
+dQhxSuPvJh/4jsvKMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8G
+CCsGAQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxl
+dHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxl
+dHNlbmNyeXB0Lm9yZy8wIwYDVR0RBBwwGoIJYWJhcmJlLm5sgg13d3cuYWJhcmJl
+Lm5sMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYB
+BQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBgYKKwYBBAHWeQIE
+AgSB9wSB9ADyAHcAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAFu
+YM0ptQAABAMASDBGAiEAl6+tDQ17iGY2g6TyGQ6/cGHiYi7Zj1SwYfrly+J9G7IC
+IQCR7tW+RoOX/YEK7/WHLlNJMseXvCBKo2nR2S52sYzDAAB3AAe3XBvlfWj/8bDG
+HSMVx7rmV3xXlLdq7rxhOhpp06IcAAABbmDNKbcAAAQDAEgwRgIhAP04umf1sG8b
+YEjL41qNoMa2Luj2y6txFmeAZEKYD7qdAiEAyQX52ik4JedWlM/TNlZhKShHUunc
+cqpxj6ZFhA/PYzwwDQYJKoZIhvcNAQELBQADggEBADNuXUWnQNNIMW92zxxQUeRr
+OGKqd3OjWKvlx9yqjuqnoDepVZKCBzqKqxXlnBsg4ZV5WhQ1TxtK1vrhG0dnFSkD
+FhmJpLX6KvV0KqnObOmsXs/lidgFxZgjyK2G6rDa/EE82kWwFcGWAu5fF9AzuF4m
+b7Y2zVRJOKBsalzJ8HUG9ttvGSdQ1WMFr7Dq2HeySPW0EKDG3HivxN+FGPGQ1dU9
+MafuwlHiig0OsLB6tOqKF/UvpM+OxpnJiHzz9V2LfQUTGB4wkSLRk+S+X9iYfUZu
+zTSFKpUQe1x9PQ5/+bW92H3rL9QA7nSgvfHsjrkkk+HDJvewuscI5T335d+96Fw=
+-----END CERTIFICATE-----
+subject=CN = abarbe.nl
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: DH, 4096 bits
+---
+SSL handshake has read 4720 bytes and written 895 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is DHE-RSA-AES128-GCM-SHA256
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : DHE-RSA-AES128-GCM-SHA256
+    Session-ID: AE8FA840334AC845FA62F0549AA8C2321D8D2DC6ADB63FB4CDD5344044E8E75B
+    Session-ID-ctx: 
+    Master-Key: 801BD12F5629519332E26CD9CE4BA3E7C14B6A0E06E694880E3CDACFC1D4E0AF464EA9E4845664792659C0330872FC77
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 40 22 9a b4 d2 5d 64 da-67 d0 81 5b 77 03 a5 d5   @"...]d.g..[w...
+    0010 - c9 72 1b 7b 21 4f 89 89-0c cd 60 5c e6 87 de ce   .r.{!O....`\....
+    0020 - b9 66 99 a9 4d fc a7 21-38 79 8d 81 85 64 05 af   .f..M..!8y...d..
+    0030 - cf e0 12 dd 22 0d 1d d5-31 67 6e 64 98 70 c5 da   ...."...1gnd.p..
+    0040 - 46 81 70 39 17 97 58 fe-4e 2f 5b 06 d0 2f 24 cb   F.p9..X.N/[../$.
+    0050 - 58 f9 6d 93 98 95 61 2a-6c 93 ee da f5 a0 f5 7c   X.m...a*l......|
+    0060 - 40 2e 97 ca cb fa 29 f9-e0 1e 90 bb 1d f2 8a fb   @.....).........
+    0070 - 22 3a e1 84 49 80 f6 98-04 1b b2 ce d8 03 bc e5   ":..I...........
+    0080 - 2d 6b 63 37 da e4 19 d0-6b 4c be bc b8 58 ef 14   -kc7....kL...X..
+    0090 - 5e 40 26 89 27 6a 2c 09-9a 77 74 17 10 0d d7 d9   ^@&.'j,..wt.....
+    00a0 - e8 d1 bf 34 f2 de 9a c0-65 1d 21 ec 17 ef 70 45   ...4....e.!...pE
+    00b0 - bb 31 c5 44 06 6a 01 87-60 d5 39 e6 71 ea 97 de   .1.D.j..`.9.q...
+    00c0 - 65 6b b8 d0 76 ba b8 8c-e8 ce 53 84 75 c7 ad 50   ek..v.....S.u..P
+
+    Start Time: 1574085630
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

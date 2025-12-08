@@ -1,0 +1,65 @@
+https://amazon.jp.qwrkv.cn/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amazon.jp.qwrkv.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKzCCBBOgAwIBAgISBAi5Qv7qDpK3ULNtL/H2pVn+MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDExMDMxNDNaFw0yMjAxMzAxMDMxNDJaMB0xGzAZBgNVBAMT
+EmFtYXpvbi5qcC5xd3Jrdi5jbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAKd1Sdnf7jtZXkGPEiPYK1qvr0rQfzyth3NFN2LLO6KR2FcxG6VvQxihe949
+urWch/xdYzaUUuTk9JSaGGHdZ3FXbdvJfdkwvtR9ElMRUCT/Koi77xCCqTamKsS5
+gxucAnWKKOCQa5Knbk/I5tczqaSTDqHQP5iUNgRjiVHZl2OEDOZ616OenDf6kUpe
+bv/BZ3grUXfO3f6bsrinLuDuJAu3Fs0zmLK/rGblcbCfRRMWFA7Q6bpFuyaIfwie
+hLji8BVZtAfkWvxq+PfxPo7P/ilV+HVocG2bjYjTnR6MrWo+Q7FN5SSVGBTlGUni
+wOIsQBsritlUsuk/pBFVi+uUg60CAwEAAaOCAk4wggJKMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUCXY9h0xbA+wJa/vhxJxV+25RMAkwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wHQYDVR0RBBYwFIISYW1hem9uLmpwLnF3cmt2LmNuMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAKXm+
+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF820T73gAABAMARzBFAiA3
+1XUVRgPgktm3uwpFpy6Jx2qzj+EIIwS4/SmRK/j56wIhAK3Zl4rQkC4eWqsaj/3/
+/ENK+nXZYPUWbSyzwUHvbhhrAHcAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2y
+CJo32RMAAAF820T9yQAABAMASDBGAiEAniHCz/mA/qhxegVwFFxNra3unl7Oxnue
+OGfAdNyko3ICIQC34cy5pbT1VV/rhrgLOw0paO6BBZS2fTJxdy9pszHU7TANBgkq
+hkiG9w0BAQsFAAOCAQEAR1enrMPYt7QTRH5FaY/VZsLSfe5FA8G4ho7rOGNFEDD5
+clFR8Kv4eTtuZvP50mY31vXLhQmjZZ64GjtQcB/XkD5fbuhik1y9mBy3AUuMNiBO
+tl/JihOVmTZcyPdMYJeQjM2FfxI/2Dq3khjLJ3fEPnSHAV9DBSpVTVlafldh/ZpN
+c1FpRf6D4z24Rh8Qg81FAoTTWurdziQyk9Kayy3znxFjLkzquTSi3s/4YHpjwz/i
+t9uFSJmp9pe/1VrpqysLiPJKsAeH2DqNkqL5Tua0HOHYrzLUJzJE8CawgQetjxJx
+ATYuLP1bgXDLoqxzxyFSGswzJEx1wA88LaHxiESK+A==
+-----END CERTIFICATE-----
+subject=CN = amazon.jp.qwrkv.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4583 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

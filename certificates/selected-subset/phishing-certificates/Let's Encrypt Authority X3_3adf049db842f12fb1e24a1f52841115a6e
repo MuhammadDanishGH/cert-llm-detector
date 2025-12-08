@@ -1,0 +1,91 @@
+https://alert-onlinebaking.com/_
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = alert-onlinebaking.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYzCCBEugAwIBAgISA63wSduELxL7HiSh9ShBEVpuMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MjQxNDM1MTZaFw0x
+OTExMjIxNDM1MTZaMCExHzAdBgNVBAMTFmFsZXJ0LW9ubGluZWJha2luZy5jb20w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDAxY6T4NaAn5kpNS8McbCi
+BsIy3Hw9KQPDHPnpXO3V8U8s5ZHg3cgteLJU6tPnqtWMsBBbNc6vKFFxMTBjxYB3
+5x2YhaHLY6I/qyH5I8BNN8Nzls0JwRVKRpq/iCrbEkQvrhpD4DdCeoNEv/oQZNqK
+Il6aBWU6n48ThtRehs+fbMdWEnW4NTAW1f5/1ze8LZjeYOjclfQNOZJvIEhDXqhz
+hswcDh83dYUW4SCwJYNBgYtCngdwDSsbsSZ8Kh9oQ+NSZQijX5DNw4aDXIIONe/b
+TCkvCAq4ncwBCWyoOydYFoB2uZiiE160uAu9S/Y10ym/weHdgXLYz80VtEodNT1d
+AgMBAAGjggJqMIICZjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFIUws/eX7CcNuzfw
+k2gYadjrRklzMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsG
+AQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZy8wIQYDVR0RBBowGIIWYWxlcnQtb25saW5lYmFraW5nLmNvbTBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQE
+gfEA7wB2AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAIxjc1eeYQe8xWAAABbMREdCwA
+AAQDAEcwRQIhANMKdZiZ7aWM7r/K+B6d/uvfPk9spB2rOfcEhjYZvsBrAiBV+86V
+pyNuzupBaHJ8Pl5LfX9V4oYkZydeQCBdKhwaCgB1AGPy283oO8wszwtyhCdXazOk
+jWF3j711pjixx2hUS9iNAAABbMREdBkAAAQDAEYwRAIgU3DtYD3+I9ozQF7md4gz
+dXqKig1a8+FYtGXfcOx37IUCIEONfGUuTJ/2NMSE76N0+4aSTkWfAxrJ1yau8P8Z
++P6RMA0GCSqGSIb3DQEBCwUAA4IBAQA8eLRiIml9EDkJ6JewmP7VW2TQyA8NNs+T
+5/Jvzf29+0NnxuhtoBoSzVJzn4WKGDAzecuOcys7TBmiJmg5quaD9RW4AIbyUDlS
+BnM0yNq3mk62MALq872QSRjjIFDltqupS9VVrKodSsgmSGMjws/im/caJzBrKuLU
+Yn3FjsdcsUh146JMi3G3bH41fJgAgpU+9FEWciNl2iktiO79T6dUQn3GFzNkCcJC
+y8tuclSfoktLIM14s0DonrjjzYUOFgmG0HBE8+mt3jI4jZ7DzG1+/O2702P+iMAK
+qNI2QE+BbYOaGkJi18HAloRfcUZsThjTSRmAkloGnU1MibjEuu9I
+-----END CERTIFICATE-----
+subject=CN = alert-onlinebaking.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3266 bytes and written 460 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: F79E45659C6024EE6DB5C7014BF9C8BF664AD4159008159EF5C4A20E0D0D898B
+    Session-ID-ctx: 
+    Master-Key: 90B7A1A85D8BE26281DF6DC34A3B9FE8CEE3F3022AA7C2BEF98E164CEE0F11D8C3E870B265BA7DE94F145AE05E9274BF
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c8 08 bc 27 2a 12 d8 3a-06 57 7c a6 02 cf 87 44   ...'*..:.W|....D
+    0010 - 2c e2 15 49 66 84 b3 cb-b2 e0 f0 84 38 66 e7 43   ,..If.......8f.C
+    0020 - fc 17 a3 35 14 b8 39 fd-c0 c9 01 49 7a 73 d0 b7   ...5..9....Izs..
+    0030 - 08 50 ab 31 35 c4 ef 6e-a9 80 2d 12 90 67 34 3e   .P.15..n..-..g4>
+    0040 - 00 26 dd 07 3a 49 73 93-55 49 ac 88 c4 9c 5b 15   .&..:Is.UI....[.
+    0050 - f2 94 44 f1 44 d7 33 32-1b 51 b5 16 e6 ca 63 83   ..D.D.32.Q....c.
+    0060 - 41 23 b3 69 c2 31 86 94-61 da 69 ef 8b ab 7a f6   A#.i.1..a.i...z.
+    0070 - 13 2e 9f df 06 0b 86 25-46 40 a4 d2 9e c5 13 0a   .......%F@......
+    0080 - a5 1c 2f 97 b6 6d 2b 31-a1 95 57 ca b7 76 e7 1d   ../..m+1..W..v..
+    0090 - b2 77 56 d5 f1 04 f0 62-4d a7 b2 23 ad cb a3 81   .wV....bM..#....
+    00a0 - fb c3 e7 1e 14 15 4a 44-38 a9 ba 47 12 6e d6 2b   ......JD8..G.n.+
+    00b0 - 06 66 04 ee 9d 12 7d 8a-cb d2 a5 f7 3a 67 39 70   .f....}.....:g9p
+    00c0 - 52 c5 09 cc 0e ae 43 e4-bd 54 49 1b 99 5f 8d 00   R.....C..TI.._..
+
+    Start Time: 1566824427
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

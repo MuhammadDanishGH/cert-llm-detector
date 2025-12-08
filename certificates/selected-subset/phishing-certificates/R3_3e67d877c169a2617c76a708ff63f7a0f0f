@@ -1,0 +1,65 @@
+https://oktta.ru/wp-admin/elshadd/wordpdf.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = oktta.ru
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJDCCBAygAwIBAgISA+Z9h3wWmiYXx2pwj/Y/eg8PMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA1MjMwMDE0MzlaFw0yMTA4MjEwMDE0MzlaMBMxETAPBgNVBAMT
+CG9rdHRhLnJ1MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsz1gTesd
+xXpHorj836EUSCEAvfgA+tVPEvCWh9KMHmyaACSmTg90MYwEGee2nvebyk++zMUO
+u+vEpcATPGA76IihtNwyw0qiKD+lkEaVirRWUzhmtlMVS/nf5WW96fiPpBrnsRr2
+wo9hJOgbMfVgLQ0dlGcxQzz8KjlUJjPQp0JW96X0jBn/UywyvDDXvpWykyduBxMu
+CuzBHWExr5CCc7bR92rsMVlkhZOYbHLBM6/q124UNldlEFObjRqIXUDTqJonf6k5
+r6AlsQAFCb1+86ovK3EPRm6M23vSLC5EolWz1YtBMgqMDFJxE3dAUM+OZruOco29
+qjl83R5GEs+/YQIDAQABo4ICUTCCAk0wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSU
+1L2tK02hkzKKZ18DybZs6/CmcDAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+d
+ixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxl
+bmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzAhBgNV
+HREEGjAYgghva3R0YS5ydYIMd3d3Lm9rdHRhLnJ1MEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcAlCC8Ho7VjWyI
+cx+CiyIsDdHaTV5sT5Q9YdtOL1hNosIAAAF5lsnUTgAABAMASDBGAiEAqI/uMal/
+Z1kWLhWTPS12GxMBtCq+do8n1I3X39qbKuoCIQC8bvJKC+Ngv67EJs9jiyXuNmZJ
+cObsl/asO8LMpNM8DAB1AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDX
+AAABeZbJ1IgAAAQDAEYwRAIgIHo30hy+waHwA+Jiv32/FOXMLh1wCjj4aopd/YVf
+u9sCIHjRFnDpyaakHfmq2V4VwWsqbSd6nE61JJhKxvnknR3bMA0GCSqGSIb3DQEB
+CwUAA4IBAQA8n3S9+qTKvkzEfvCaSy9XqBaNKsNeryVNKPH1ujC2NbN1iFrT6pdA
+SoU2qRO9hMq6VuILsGY86OW0EWdl/QkeBy44yJxH77wnnK99AIprAK8QN893AmjS
+RlZxmzL/MeGKna87cZlySBiEMzn6D8BJjDs68iQHjtE4jLWvOABU3zPMgDHTn7/v
+43zkBRsHg2lS0QhMfREX4q5zTRkPQk9xeW0Q5mIXi9alYXkbqmcSjnfmElEIbi1i
+F2KXb6dgGELUZ+g0LO/G1/J4/1izEZT9Fe4ERgzDIYzBYMTNWuERnP8KAiM1bkLx
+/rLY5R9FIr7jW9cU79dZWZhZaL7kbLHo
+-----END CERTIFICATE-----
+subject=CN = oktta.ru
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4576 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

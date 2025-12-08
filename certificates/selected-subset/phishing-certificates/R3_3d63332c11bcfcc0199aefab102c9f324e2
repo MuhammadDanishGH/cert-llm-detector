@@ -1,0 +1,66 @@
+https://ansonlee.co/shared/on/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = tls.automattic.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFSTCCBDGgAwIBAgISA9YzMsEbz8wBma76sQLJ8yTiMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDkwODU0MzhaFw0yMjAzMDkwODU0MzdaMB0xGzAZBgNVBAMT
+EnRscy5hdXRvbWF0dGljLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAOttGbPikTK8aES3ApsEoBxmVx1GBgVIpJodCeCOC67cLURx0WjnlUfUEYT/
+L7KrYgTbVnvLslDuD7XOtxo2VCL6Fzsit2cbbWA1/maZG15qaEnuQZLLcXdvbzFw
+urWVKZbxd/TtmYxVcvkMWlHMeK+PXmnMRtDhvLo595qer5Iv4kCgmapV0E17yJtY
+o2zYAny21xeaAkS/ssbedP0kZhBAhrpO1OEI6BnrA5ggi/LylJlmMaHP2EPeklgP
+obFBHQH9DCtvUKyaLiqmRxjixxw2UDtXCIEH07bnQwCtQ3godJgRZMohsKaOTUvi
+J312gHu+lavOmxhKsJLwW4ksHYcCAwEAAaOCAmwwggJoMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUEETbIOlhnc71Yn0DE/Mww7TqbzIwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wOwYDVR0RBDQwMoILYW5zb25sZWUuY2+CEnRscy5hdXRvbWF0dGljLmNv
+bYIPd3d3LmFuc29ubGVlLmNvMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAKXm+8J45OSHwVnOfY6V35b5XfZxg
+Cvj5TV0mXCVdx4QAAAF9np3AgwAABAMASDBGAiEA8U/2EeCycCma48/7kT+IIziL
+z/LrLfcqdBOAejQdk5ICIQDvfLcRs3BCo18cbRLQxS9WEfjh2WKtUMynE6/IC/qN
+UwB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfZ6dwoIAAAQD
+AEcwRQIhAPiMbKx8/b8wxwrM+ms1cqef0s90Ae16SoRgFo80EflCAiAdpgpPA6MA
+W0eauNScAvEGqW8e+1Tbwn2CPTIbzNfI/zANBgkqhkiG9w0BAQsFAAOCAQEAS8tQ
+tklC4/pb/S6ZVgWs/Gd0i/zjl4sQ8PhS28CvIVMlGMZJrbtS/SpehrNINfRaPZe7
+pwA2ZCAGm4jtfA0rkXtbxNlt4MaMzWm2m1k6i6yMOBEmfsJFMwxkyKdRiWSOiEiS
+QXpXqCE6aLPt94P9swS2PQ8Ru5VUiCe4KqBd0keda+Cs+f7lauxUfQRFkISr5GAL
+QFNSLtZS1XtgF/0ADB1jAwIDG8XNW8JlWnzLGr9UlJtVNmiGFufdxKXCC5I4zG/o
+IfUoAbE12Bhipl99b50rt1SdiAeux7GQ3mJcpvgPdZTDXj4UUwJRXEBbkWmihk8y
+JkEv/1Mz6nbqRIgjdw==
+-----END CERTIFICATE-----
+subject=CN = tls.automattic.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4613 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

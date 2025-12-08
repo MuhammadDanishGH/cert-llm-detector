@@ -1,0 +1,91 @@
+https://www.icyte.com/system/snapshots/fs1/f/1/0/8/f10881fa769b1b69eb47747e7ac9b99177d3d4ea/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = icyte.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOTCCBCGgAwIBAgISAyHRe9VdTIhBUDHJAcSUE8Z8MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTUyMzQ5MTRaFw0yMTEyMTQyMzQ5MTNaMBQxEjAQBgNVBAMT
+CWljeXRlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAN05ohp3
+qZDIX0hY09wFP6cm+Ih0zE36fU91zw5j2m1EAQwWXBAJzj7tw0SL8RC8tR2QwrRb
+AnmSYX8ER5rPb3LKWQdP13ZZ+bBgrvBwqQXlJFawKg2QuykPpzsq2wdIvZNvL0OH
+oxq6ehc6HEYeQpgB/plVVqkARKFHTmHkXC0ik/BV3vkW2cuaD4Kt6kcA7iIdJiXI
+zMib34dtXVwZEieHzzelbxqXVL/T51nETn4Mqg7BwiNhq3z+ORa9j6z7wS+7cx4q
+fEvUXQdI2Ku6eY0hAtjG0d+Ufis8e/dtwTX+1/6on5s2qsT71jG/oKezWRGa/GIS
+nQlY06psLBEHTWsCAwEAAaOCAmUwggJhMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU
+ijnk+D6dL+8y5qeTK/4C7RmqJEgwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+v
+nYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5s
+ZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wNAYD
+VR0RBC0wK4IJaWN5dGUuY29tgg9wcm94eS5pY3l0ZS5jb22CDXd3dy5pY3l0ZS5j
+b20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEF
+BQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQC
+BIH2BIHzAPEAdwD2XJQv0XcwIhRUGAgwlFaO400TGTO/3wwvIAvMTvFk4wAAAXvs
+FD3cAAAEAwBIMEYCIQCTnEpi/GHZvLrIrsuyGkpVxa0r6eM3030Bo7CJF1uY/gIh
+AM95IwFATKl3e2rA91xqQue3cApzWE9H4B8Vok7ogUcNAHYAb1N2rDHwMRnYmQCk
+URX/dxUcEdkCwQApBo2yCJo32RMAAAF77BQ99gAABAMARzBFAiAbEWJ047UqFfTO
+icqgc73blDgbMsglPD4H+kR4lvQfLgIhAKYiiIKVZlv6R3lydO6XD+y89Pp8tvzu
+MyP+kQN9zAcXMA0GCSqGSIb3DQEBCwUAA4IBAQCkE2XoH0BmoVZD6X5indz9TZAg
+Z165wTP9Fy79EKHsv5rBiSDA5Fu0o59Q37NUBcPtNR4FoOQzHIQuc9sauzjl2KC6
+zEy1n2WEL3akXTzk3jVWWuyLAztqPdWZW68r/L8m8VjB173LmDDbiI6MZJ73INVt
+xb6lMm1FTeLAYGP9KTF1T0dJI2DYWb7N9Bjb8TQV36EdbpNOIHNGM4YjK5vrEJvC
+b9675x4DUcemAYdNuetQDmxJepdh40EQhLRwIa5iZQVcT94h5tkwyJl3kMEPC6+2
+3sSMRfBLbQp8XtTLqw3vuooHyN3zFFq1Y6VMrtSzAbl0gO9Ce9xh0sFqfs+N
+-----END CERTIFICATE-----
+subject=CN = icyte.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4694 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DB5998C03B6B41FEDAC8C56CE0E253C02CF948378982BE3C34E2F9FEC4CF80B7
+    Session-ID-ctx: 
+    Master-Key: 0F1D324ABC6BF695BC7F1AF52879377178D864E050959206507A5ED65D5D3CDB67F1561D126E804CBFD7A61BF00DAD38
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 8b e0 c9 92 6d c1 78 24-37 aa 5b 5f 73 44 41 de   ....m.x$7.[_sDA.
+    0010 - a9 32 a7 07 8f ad aa a0-18 58 44 a4 06 cf fa 78   .2.......XD....x
+    0020 - 1d a7 38 0b ea 5e 06 8d-6d b1 d9 45 e6 75 8e d0   ..8..^..m..E.u..
+    0030 - 7b 08 02 eb ec bf 85 bc-04 06 f6 86 f1 fb f2 e2   {...............
+    0040 - 83 cf 4d 63 e7 5f 84 67-1c 82 f8 36 26 d8 d1 db   ..Mc._.g...6&...
+    0050 - d8 02 08 33 5a 67 64 2e-b0 b7 2f fe f8 58 46 e8   ...3Zgd.../..XF.
+    0060 - 73 42 81 87 73 bb 13 b0-92 8d 9f 51 d2 c9 e7 a6   sB..s......Q....
+    0070 - bc 74 bb 6d 2b 00 26 1a-07 4b 7e b8 0c c4 32 97   .t.m+.&..K~...2.
+    0080 - ad 4f 33 e8 8b 50 48 ab-f7 01 2e 82 47 67 63 17   .O3..PH.....Ggc.
+    0090 - b5 11 c6 c5 58 59 c9 9e-1f b9 36 d3 72 b5 ed dc   ....XY....6.r...
+    00a0 - aa ba 4d 6f be b8 07 32-08 9f e9 08 26 0a e9 80   ..Mo...2....&...
+    00b0 - d0 59 5f 73 d9 19 15 4f-66 42 63 11 36 1b a0 11   .Y_s...OfBc.6...
+
+    Start Time: 1632001111
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

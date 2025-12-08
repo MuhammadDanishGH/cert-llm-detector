@@ -1,0 +1,65 @@
+https://vakif-zzbanklar.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = vakif-zzbanklar.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLTCCBBWgAwIBAgISBLAgsvTfiJRu3ARvVnytT4tPMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTQxMDIzMjRaFw0yMjAzMTQxMDIzMjNaMB4xHDAaBgNVBAMT
+E3Zha2lmLXp6YmFua2xhci5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQC3HtLuL4QJ6jhecw4PoMCR0R40KvAyk1RJqRUlUA10NcRgG9bJ+yLu1AKN
+Qzl1YwkRWyLjZO/Wr+j3StW5lidX7juaZlxQvYr4Vb1NEmZUXwMjkRP2w5goMB1V
+pqU8M+rHZF8EdImGwLjEHuqfKxM1uVZW08RICbw9J4Bx9sP49fjfedqMo9g28fJS
+NcyqS/JOx5K28cmAAMc2tndVGFA06BS6tBn7GL1rF0+B6iHD22cBW8FpLuQKv6Xc
+GNjeIpe1XVL1CB7xOv8msK5J7l4yLWYI2B8uwXrbBwRK9cS6Y9YtySykLc04GsmD
+t077LlO6xzmNFdJZYc5W5AwHH8g3AgMBAAGjggJPMIICSzAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFNMyNdevsZ1MncBa3vEH12HbcdTRMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMB4GA1UdEQQXMBWCE3Zha2lmLXp6YmFua2xhci5jb20wTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwBv
+U3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAX24rtJKAAAEAwBIMEYC
+IQCI5DqagCalWT/jnSQkTQZyNmDqaNPTVYXZiUHKga1DhgIhAP1c+M7ReR7+D1kX
+ZQX0q43hG7bCBQy/ksTdALzmz08iAHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4
+havy/HD+bUcAAAF9uK7SRwAABAMARzBFAiEAjqqI7V6lv2qZcMVPB50UwdK0Iidn
+wGF6GeB78xOAsZYCIHFaigbhWImoYpf65JVkG1NBMNX4gqGUEFmNieiDGE/9MA0G
+CSqGSIb3DQEBCwUAA4IBAQAh40gbxzzlJS21UyReEDh6bLUKGRClDpHt13OqBkTj
+oMgTxZLDYV/SYbn5dB1iZVudYrJoD63Z+nUpCDafACwIM9BjDolgmVfEVqzUPDWt
+8r7miywGdfIVn/+PMP9jGJ3jGGX7sjoq7rPBRrZs/0viwwMf2xtkp+nEL7QgF6xE
+6DMtb7r9cz651kiUxMvNz0ciQXdaILD8sR8EAiLc437G0WI5HkiYYynxEKRAiOkg
+rtFa1HOlHCy5oij+lcA3L+27JbFitOr1rCjBQX8kcv29/FY9iyalHetxBIkb9Kzy
+tWl/RZgkCtnG/SbcNNZ5nfLWFDnA53N5v5ucKAoUrpXu
+-----END CERTIFICATE-----
+subject=CN = vakif-zzbanklar.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4585 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,70 @@
+https://diemwallet.world/verify/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = diemwallet.world
+   i:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+ 1 s:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+subject=CN = diemwallet.world
+
+issuer=C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3989 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

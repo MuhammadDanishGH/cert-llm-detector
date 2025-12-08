@@ -1,0 +1,88 @@
+https://alchemybase.com/css/source/modules/sunrise/e-bill/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = alchemybase.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEijCCA3KgAwIBAgISBPfxuOba9wwfbtbM/iYTaczAMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA1MjYwMzA3MTNaFw0yMTA4MjQwMzA3MTNaMBoxGDAWBgNVBAMT
+D2FsY2hlbXliYXNlLmNvbTB2MBAGByqGSM49AgEGBSuBBAAiA2IABNQ0k0bglDuE
+1424SI/jAuBUlEe9reD6js4VEpuG/BgkjU34tQXnGmA2CjrhnppemZHnvPM56XMG
+So8hj1S2bjw2Lvdn3uv+q9iFmkoBrIS2eSkMXqJFeQnhFWEVSuqmK6OCAl4wggJa
+MA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+DAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU1MhTV9A88lBVmo7K+2Zyl0gYew4wHwYD
+VR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEG
+CCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0
+dHA6Ly9yMy5pLmxlbmNyLm9yZy8wLwYDVR0RBCgwJoIPYWxjaGVteWJhc2UuY29t
+ghN3d3cuYWxjaGVteWJhc2UuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysG
+AQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQu
+b3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYAlCC8Ho7VjWyIcx+CiyIsDdHa
+TV5sT5Q9YdtOL1hNosIAAAF5ptrjugAABAMARzBFAiAKORP1TPiHIB5/aVwPvIh1
+pmLDplaIPSIT1ymOA5onDQIhAME9wXIlL+g6K6sAmb/fLupb2BVtcRI4O3u0BzE5
+fNT2AHUA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF5ptrjrQAA
+BAMARjBEAiAhFGFcXrESkIqrly3gki7dsIlRvJs3Hf7e4O14al/WdwIgWWcfUAND
+upiggdiXak1O9SCrolVYJByngJMSQ29y5AMwDQYJKoZIhvcNAQELBQADggEBAEJp
+2Avem8xZV4+Fekg2uHA9DuV+n2AfLBUVK6lf3UUaP4kQKLjMlu9WDJNvANcKP04h
+dqp0UCoJMBo/oa1Q2uIGpC31f8G5k3e5E0Z2OxyL1ev6Kif80bdhWKdP6lwWoi0L
+KZ4RMN5Q/N84i4uC01Y7vS5LskUY0R+qRUD25PTukJcSsq1RhXnXIQkAcj4Zun4I
+U3QxXSuirY0p9wkyzmXIC5SKnE7KKO7bhJ0fasTS2O1GvmiDG5MG0Ep0lG2kd6k+
+O6xEZZryR9SFKlP7L3KpYog49P+4jq9zDc2yYTfPmXypYsisU4xNActD7JqRi9AX
+3iAmxnwg0/QMy7GxAzU=
+-----END CERTIFICATE-----
+subject=CN = alchemybase.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: ECDSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4394 bytes and written 443 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-AES256-GCM-SHA384
+Server public key is 384 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES256-GCM-SHA384
+    Session-ID: 573012367F990D348FE1C0FA27E2A6FDCBB8FA20B2DC9BADBF2562EA7565EA7F
+    Session-ID-ctx: 
+    Master-Key: AA062FECBD19ADDF6860C6735679C05175766DE237D559CE67370B78FF025800BAD531CA513B1047A04829D3AFE59CA9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - ba 92 30 29 d1 84 4d 08-db e7 cd 6a a8 58 8e 9b   ..0)..M....j.X..
+    0010 - ec f0 6c 9d c9 80 b6 1b-cf 52 f1 5c 55 13 92 01   ..l......R.\U...
+    0020 - ae 28 58 28 e6 30 42 39-6f 65 69 2f 49 0f 61 aa   .(X(.0B9oei/I.a.
+    0030 - d2 f6 eb 88 e2 11 4b b8-e0 f7 a5 64 53 61 1f fb   ......K....dSa..
+    0040 - 0e c6 bb cc e6 8f 84 bd-ea 03 21 45 80 14 46 36   ..........!E..F6
+    0050 - 2f 83 aa b4 0c a0 75 f1-7e da 71 d4 14 b3 08 fb   /.....u.~.q.....
+    0060 - ca b7 60 d8 b5 00 c0 9c-7d 8d 7b e1 4d fa c7 6e   ..`.....}.{.M..n
+    0070 - 89 93 9f 5b 93 97 aa a7-af f3 f7 93 46 c9 1c 20   ...[........F.. 
+    0080 - 11 f1 27 6f 07 30 a7 43-8a 62 60 6c ee d0 98 ef   ..'o.0.C.b`l....
+    0090 - 91 00 14 fe cb 83 8d e5-86 b9 26 d7 73 ca 65 bc   ..........&.s.e.
+    00a0 - 21 25 39 93 9e d0 f6 07-61 c6 9e 0f c3 70 3c a6   !%9.....a....p<.
+    00b0 - a9 3c 6b 53 1b 8f 72 6c-b1 df 44 ad 94 f6 6f cd   .<kS..rl..D...o.
+
+    Start Time: 1627692421
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

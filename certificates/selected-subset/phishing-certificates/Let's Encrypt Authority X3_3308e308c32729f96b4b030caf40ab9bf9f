@@ -1,0 +1,95 @@
+http://www.rjpinfotek.com/dhl-international/DHL/DHL/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = rjpinfotek.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGEzCCBPugAwIBAgISAzCOMIwycp+WtLAwyvQKub+fMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MjAyMzA1MzZaFw0x
+OTA4MTgyMzA1MzZaMBkxFzAVBgNVBAMTDnJqcGluZm90ZWsuY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLwWU1joXd/LblcWnlrG4BQuWdVBuZXT
+4fFfwP1GavPyHVwWer5ZdmnaBzGl1Wc4nx5K9xmCfcIFAGicRt4w7qNbY9hDk03R
+82SJ9TvOebOpRsFDjpUrD8Z1j66MUDn7iOFneHfGPefRFTJrAyFeQ8oCB079GQLp
+RG2mwRz5NXysacBVKOJFt8yYcabM6q2nwVtJVDrh8lAe6jGpeJDFkfpEFnNXk53g
+4J8/dpq2YeH0EqJsvrcELnONJfpoIRouExQwoHg5xgYOVLYWpgi2EtM8tLYpf78Q
+ywWfTg8k2n2KWnatjW0q5J1Wx7JTHbDfEX+22J03mpOJgENtkX/ESwIDAQABo4ID
+IjCCAx4wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRJdymKKfh1LJiofsMEk3DLEZa3
++zAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRj
+MGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5v
+cmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5v
+cmcvMIHWBgNVHREEgc4wgcuCE2FkZnMucmpwaW5mb3Rlay5jb22CG2F1dG9kaXNj
+b3Zlci5yanBpbmZvdGVrLmNvbYIVY3BhbmVsLnJqcGluZm90ZWsuY29tghNtYWls
+LnJqcGluZm90ZWsuY29tgg5yanBpbmZvdGVrLmNvbYIWd2ViZGlzay5yanBpbmZv
+dGVrLmNvbYIWd2VibWFpbC5yanBpbmZvdGVrLmNvbYIXd3d3LmFkZnMucmpwaW5m
+b3Rlay5jb22CEnd3dy5yanBpbmZvdGVrLmNvbTBMBgNVHSAERTBDMAgGBmeBDAEC
+ATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNl
+bmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2AOJpS64m6OlACeiG
+G7Y7g9Q+5/50iPukjyiTAZ3d8dv+AAABate1MJIAAAQDAEcwRQIgSyY0wnPG7Q46
++p6+dWXxvTVhc5gNXqNV7ymSrPQKqQsCIQCLD6X+KsRh7S7q49LRxTUrTmgcsA+K
+ZlcFAftjwAv8OQB3AGPy283oO8wszwtyhCdXazOkjWF3j711pjixx2hUS9iNAAAB
+ate1MFoAAAQDAEgwRgIhAMcpoYAyRsUEvNke776mHp8gcUobAPgjT7G50+OMfvo2
+AiEA53u/h1DA95Vv3jcfGYutirLthYODAj+L2vCWhcOnfXkwDQYJKoZIhvcNAQEL
+BQADggEBAEPFoIe8CCoTHG7uYvNROCwl8ON3IMe+xOvIxAj7DAqaDjJtVb34ML4P
+/K6ijJX8T66Qo0t8opYKZTJTPkuu3mObQ4IUwGwceNtfBqjri8Y5u3V43f5BNCR+
+2y4hocnRau3TpSTHn7Vh4+ubcVNoTo2fR6siZ7Pb1FUWC/joEsBkOnATx+y9FigW
+1Qh+wIrT/utlH3XC+nHVs3ztkCm8IRC9lFAbnjAYs3WuJIF7wvlEMX1I9oGcV6w2
+3dNDYe91YBvqt4GZeE/3YZfLZ2dBDsZ7eiNseaS/RMmP0zX4m+Lcg0dYH+VDO6PF
+nDUelXspB+pXZV4lKJy1irlH0UA3DFE=
+-----END CERTIFICATE-----
+subject=CN = rjpinfotek.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3413 bytes and written 423 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DA2A39E15FC326EB3EE6F1826252D629196C97A91F2B015B2ED86C9D1C3FCC6E
+    Session-ID-ctx: 
+    Master-Key: B0F5F75D5ADD17066195A6EEA8AD9785B9E9C6E63298E7D895C8C9275EF9387755621F52DCB022AED4F6E80608A00438
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 94 75 e8 d3 d9 4f 81 d2-a1 65 f8 76 d0 44 5f a6   .u...O...e.v.D_.
+    0010 - b4 af db 33 34 3c b9 fb-5b b4 b1 1a e3 44 6b 46   ...34<..[....DkF
+    0020 - 0d ec e2 d3 29 24 39 81-9e ab c4 b9 d9 5c 5b e0   ....)$9......\[.
+    0030 - 6c d1 94 97 7f 10 f3 ad-5c f9 9e 1e 38 47 5d 09   l.......\...8G].
+    0040 - 8b 68 c6 bf 82 29 3a ad-14 bc 0f ed 52 13 63 65   .h...):.....R.ce
+    0050 - 02 80 82 84 0b 58 96 67-dd 6d fb 6f 55 19 81 d3   .....X.g.m.oU...
+    0060 - 6b d4 7d 7c a2 d8 fa d1-b1 fd 2a ff 95 3d f2 06   k.}|......*..=..
+    0070 - 42 df 64 aa 57 c3 8b ff-c2 9d ae 61 d9 a6 06 89   B.d.W......a....
+    0080 - be a6 22 2b b7 85 d7 85-9c ab 27 ba 83 1d 8b 7f   .."+......'.....
+    0090 - 35 d8 1c d2 88 e8 c1 8d-5b bf 56 49 80 f8 f0 0f   5.......[.VI....
+    00a0 - 32 6f 23 5b e8 7b b2 11-fa 55 6d 77 7a 1b 2c ec   2o#[.{...Umwz.,.
+    00b0 - 8a fc b6 32 7e b3 66 ce-ff e4 1f eb 78 56 7c 57   ...2~.f.....xV|W
+    00c0 - 58 3a c8 e3 9e 86 91 03-70 ba db fb de bd aa fb   X:......p.......
+
+    Start Time: 1558443620
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

@@ -1,0 +1,89 @@
+http://rgkit.co/etryhtruyujrtyu
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = rgkit.co
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIESzCCAzOgAwIBAgISBApIVU0qqrHpNv15ufe7DYujMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTgwMDUzMTFaFw0yMTEwMTYwMDUzMDlaMBMxETAPBgNVBAMT
+CHJna2l0LmNvMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJnGnEJ1ryXOGtzCY
+QTM/ST8uSSvfqQXKZzhCwaTTivtFZrizKW/vdYW0utmob63TUtZDDZZ6I+nqA4NW
+ewrSXKOCAkMwggI/MA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUrygWqPI4mjH8yFdZ
+Im6udKBpZiAwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYB
+BQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYI
+KwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wEwYDVR0RBAwwCoIIcmdr
+aXQuY28wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggr
+BgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5
+AgQCBIH1BIHyAPAAdgCUILwejtWNbIhzH4KLIiwN0dpNXmxPlD1h204vWE2iwgAA
+AXq3UTktAAAEAwBHMEUCIGy7SzY1JQug0Oz5wNlcChiilmoZW4pCMnaFT5XLdyez
+AiEAkf0w0hLMbbYBuzxnjdp0XAbIHfRr1gY2lHVj3OdDLEoAdgD2XJQv0XcwIhRU
+GAgwlFaO400TGTO/3wwvIAvMTvFk4wAAAXq3UTksAAAEAwBHMEUCIAaxxl9/YMo9
+CA8DuQPs4ZkRWwYAH/XYepvruHAGHJ1vAiEAr0ireGjEdiGts/B5TnRsSdiio1TW
+edhqn3hAni8z92AwDQYJKoZIhvcNAQELBQADggEBACHi9EeqV+IQjxFittao6hYe
+gFol0ioFs33znvd6cFmMF+v2MGyCd6EtjwuDUis2eYpRXfDrcr1Cad1VouoD8nHT
+8pgFdvjJZoHNkfZX3Tyz1XF86DCWE+hmuUglJHp3adrEftDb0VuONWM0DOFVf9oz
+rgHfl3sn58OnIvnI0VjiGMahuPvyBz1YUX5Xj/nvb4spOO+QeBHGdXOl2SG7PjcK
+MFYAxr8HwAbUUBq7vsa2Y22y7npKD0emxEAQVznE7ox0vpXqphLfySTKHuiz/3y8
+5YugarRQoFWC925FCfd3WePe6aVIazPck7uFpl6ZnvV4OfTWAOp/X17gl+E4xZY=
+-----END CERTIFICATE-----
+subject=CN = rgkit.co
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4154 bytes and written 374 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_128_GCM_SHA256
+    Session-ID: 1D04E0F9696A064CE5873BB8911FF74A625356AC7D02330876407CC4890C8607
+    Session-ID-ctx: 
+    Resumption PSK: E986FC6DA00ED5EF9ED0863F7E883E6CC1AFC89E588DD164D76E806F36237BE1
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 604800 (seconds)
+    TLS session ticket:
+    0000 - 57 f3 35 b2 7a b8 4c 4e-9a 05 97 ab a6 86 12 09   W.5.z.LN........
+    0010 - 4d bc d2 63 cd 3c 7b cc-dc 60 fd 24 8a 17 2a 85   M..c.<{..`.$..*.
+    0020 - e2 32 a2 9f c1 10 29 d7-20 d5 c4 e1 4b ef f4 38   .2....). ...K..8
+    0030 - fb 36 3f 72 14 35 fa c3-00 7d 17 77 df 3d bb 14   .6?r.5...}.w.=..
+    0040 - ff 10 ce a8 16 27 b4 54-91 ce a5 17 25 ad d7 24   .....'.T....%..$
+    0050 - 9e d3 03 f5 b3 89 16 c1-b3 14 b3 bc b5 f1 26 6c   ..............&l
+    0060 - 54 bc 7f 5e c5 a5 0f 5b-04 2c fd 00 a6 a8 ab 79   T..^...[.,.....y
+    0070 - cc                                                .
+
+    Start Time: 1628296878
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK

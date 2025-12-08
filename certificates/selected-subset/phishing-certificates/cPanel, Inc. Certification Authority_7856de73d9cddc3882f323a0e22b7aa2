@@ -1,0 +1,76 @@
+https://18-130-109-28.cprapid.com/TVservicesonline
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = 18-130-109-28.cprapid.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHKTCCBhGgAwIBAgIQeFbec9nN3DiC8yOg4it6ojANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIyMDIwMjAwMDAwMFoXDTIyMDUwMzIzNTk1
+OVowJDEiMCAGA1UEAxMZMTgtMTMwLTEwOS0yOC5jcHJhcGlkLmNvbTCCAiIwDQYJ
+KoZIhvcNAQEBBQADggIPADCCAgoCggIBAPD3iVQV0X8IYsIf8wp04HWQ+aoWWmSr
+k4z8xYSCZX5p7egaRbw5O64f1xdgyPJjVvmzNnHBMTMP2LfMeymNlDNrs3l0L4UL
+IP5ZdgnNhsqjpdXsQa7znzCyag2pUlsPRTa2eqLrUSRY1GpMKEm4Nl0OmyXmJi5H
+p+GfE3TzXdpX7WAuTo2UkJPUnACBJhqmKtyzkHwuhWpgoorlqc+0k7sHI9cHu40P
+iEXghRJdKOe5oF6gktPMGrxexPTtw8SoOkAErh3pA/hp3xwxwtnP8BhIE1QDvvdN
+TROKKEuUrfVv8x7OFbLX6dGH7FCVSmY9aL6f/iiimwdCpLVf7qkFPw4WalAO3TzM
+TZGLL3t0yJ6u4uYBoLwGA7N9Pw/R7nZkp8Lwyvs7ovmCB0ze5ksFWoBmDy1ESOp0
+xOSN+wRBJQz/yHpU7z4TcSa0wi/28Gmpn2JDyKvpWvqCA7ip5e/IyAs3WgtZVvFS
+YRgNGK4oiCiNoqyDr9tr10vxVNrp/rv33vQYVmhx+O61RCHMExROE3oOgo1SllLW
+F9aUocjcbN2s3G+wSQSnL89nww0KBhGvmd00FOcdeffMKTwKxXKXRnOY9FF3Uzth
+XPEp0wbGHuc8pmVDNrbm9NTuH7tc9srvgUuHtUPF+t+IwPWn/zRj/zVZbqZbN9a9
+fVULe8g4N9N/AgMBAAGjggMHMIIDAzAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I
+6h2OHWrHZTAdBgNVHQ4EFgQUwY+SrHotJYpgGDZh6gevdlltcM0wDgYDVR0PAQH/
+BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0
+cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2G
+O2h0dHA6Ly9jcmwuY29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25B
+dXRob3JpdHkuY3JsMH0GCCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDov
+L2NydC5jb21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0
+eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQUG
+CisGAQQB1nkCBAIEgfYEgfMA8QB3AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr
+8vxw/m1HAAABfrvQnugAAAQDAEgwRgIhANqczfCS2giGLEziibmVDAciF4j5u4LX
+lq7F4zUE3z5tAiEAoSeu+mvD4mWrbPqxJWpWtALqZpndu7VbKrhd6h2wTEcAdgBB
+yMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG9gAAAX670J7nAAAEAwBHMEUC
+IQC8sbMSZVsaDFnriLapSHmm/A4Ox8p7YWHikzK8SNLPPwIgJLAyDaIG2k6Ur0kU
+DxZ5c38V60Mbs1YpR+0Hbh7uK4swYwYDVR0RBFwwWoIZMTgtMTMwLTEwOS0yOC5j
+cHJhcGlkLmNvbYIebWFpbC4xOC0xMzAtMTA5LTI4LmNwcmFwaWQuY29tgh13d3cu
+MTgtMTMwLTEwOS0yOC5jcHJhcGlkLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAPc6M
+NTsDtpw9x0spsmH9j3N1Y6LBta6+qyQKARldbOwrHqEXKb7JhQo15zoiWaeF2S03
+kWSh1n6TjSGAS8jpHqu3QODfNo1mHT2oZCQU95hB59DT3+ccl+c8HtOeXBu1YrTC
+W7mpmajYkzPITDdrf8QO58qeffXDLcHiThl5DrbwUzp++5BwlqijpcwIDVZiJw1Z
+T50v/KV5FdZa9Fd9dD3svaENcY4mli3bIChKXOSN9Tko347K6P7F/tI+yTUPxvoK
+A3VfZ5B04ci/pTH9nMO/o1Eim5O0gO0/gttI9I2Zd+qFl8bE8qa46hi46gIiM66t
+yAqrRRqVTVPshHpP9w==
+-----END CERTIFICATE-----
+subject=CN = 18-130-109-28.cprapid.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5598 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,74 @@
+https://irs-gov.usis-19gov.com/form/Credit_info
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = irs-gov.usis-19gov.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGxjCCBa6gAwIBAgIQcuVAjoR8D4a5x49C7ey0qDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDgwNTAwMDAwMFoXDTIxMTEwMzIzNTk1
+OVowITEfMB0GA1UEAxMWaXJzLWdvdi51c2lzLTE5Z292LmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAMesbak4zgK+0/fkYJ0L8utLvVVKidV8MkH4
+4Bh0UMGhotp1O41IYqbMn2pzWutvEDsUZ3ONkDcKe83wA7tIioWPDEx+cC1bHvKt
+59baeY68hp3cHALwIx33hVvZxj8LaXhY7bHJEbEuRyUhhbjT/LL072w+Z7FPnpdX
+brQtRZ/fuz7zn4xSsloRoktOW2zJ0cnfpschIWm7D1myqXvQN3qg0xfD3Q/s2B7w
+79+kcP+Nt2ySdU/89fkWSadjzPDgYYZPcM/lO7WZK90nNVeWhYF3YoUySRUrC1Zu
+wkcCVc4xoSltL77kRXoaaknSbKRULy6W9Puiq6O3zFupXTzAcJ0CAwEAAaOCA6cw
+ggOjMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBTp
+zcBv8d+Hzzo9GLYw9UPtKPYywDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIw
+ADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0Bgsr
+BgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQ
+UzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYB
+BQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYY
+aHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDw
+AHYAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7E7UMDwAABAMA
+RzBFAiB9pVkIlsnuOmQo6K0R3gsAkzb3xEKziqU2tw+SxmthWQIhAJdttnDraDJj
+HnfOpuAzLeeo5GXk6ZPFObcNGo4jCuriAHYARJRlLrDuzq/EQAfYqP4owNrmgr7Y
+yzG1P9MzlrW2gagAAAF7E7UMJwAABAMARzBFAiEAtHdFbbKq2FJZTM5qFTP1PA6r
+xx+rXdQvXioYr+grfIYCIHnGJXinjlSpcFjJ0aaxlK9THwH5syzchK0Xr/JdrxdO
+MIIBAgYDVR0RBIH6MIH3ghZpcnMtZ292LnVzaXMtMTlnb3YuY29tgh1jcGFuZWwu
+aXJzLWdvdi51c2lzLTE5Z292LmNvbYIiY3BjYWxlbmRhcnMuaXJzLWdvdi51c2lz
+LTE5Z292LmNvbYIhY3Bjb250YWN0cy5pcnMtZ292LnVzaXMtMTlnb3YuY29tghtt
+YWlsLmlycy1nb3YudXNpcy0xOWdvdi5jb22CHndlYmRpc2suaXJzLWdvdi51c2lz
+LTE5Z292LmNvbYIed2VibWFpbC5pcnMtZ292LnVzaXMtMTlnb3YuY29tghp3d3cu
+aXJzLWdvdi51c2lzLTE5Z292LmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAA1t0DUBb
+XGN+3p7SE4jl1EuH+T3IwDht5k1Ptm0EMgEHkDpXS+YnxOr8JPMTSWoPqcQO62UX
+kO81DklUAZEJJx1MQtBhdecA3Gs80JvwkVn6N9FG0e5kJHS1ZdUXc1gp0DvdRCAK
+OlnD5hcVFkG6fVa3b89XySCXzDiMuEtN7JnuO7ZISySpCKoyeBYLCXeND+0H8TVN
+h5zxuZzpW8+7RRRnhEiMNlYO6OqbNcT1Wv5p/nc8lH2gd8xxcIwbYT/g6LAJLC9/
+gMFC5vAuUz5w/4Tv8nOIF4kiSQn09sF+SlVDcf19Kd+wVjLNCWKopDVLb/7iNeop
+ORQNaioh7Uco+A==
+-----END CERTIFICATE-----
+subject=CN = irs-gov.usis-19gov.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5243 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

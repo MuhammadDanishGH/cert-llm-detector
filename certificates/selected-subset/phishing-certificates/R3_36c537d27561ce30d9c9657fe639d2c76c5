@@ -1,0 +1,65 @@
+http://get-joinayamjago.001www.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = get-joinayamjago.001www.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPDCCBCSgAwIBAgISA2xTfSdWHOMNnJZX/mOdLHbFMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMDIwNjQ2NTdaFw0yMjA0MDIwNjQ2NTZaMCYxJDAiBgNVBAMT
+G2dldC1qb2luYXlhbWphZ28uMDAxd3d3LmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAKkbU1W1iJNGcxc4UPrhIq+1Kn7Cp1ad/uLondsMzGUzByeZ
+6xh6HNGUkRmmVn4mEyy8vYsPVYYCgvaIT9ec7ICwGq+6MfEQrCcAuhu67EWMB8/G
+e0PWFqwj+8D1YVWYqWn6MUOD/td5RW/HDIGerJiv2rjYbwVnpEHIpcmrTUN3XOLW
+xoe+IuB0BCDRqrbW+neUeV6QqhosgMNFeB67iZ/sa1lv4LE++O4RjVmlmRAyJmwd
+YJbhbo3ferKdWlobiy9fqf1sso562kdKXtwaV3wUTAXJwgSN/Znmhij8l6aBQY5R
+WRICFkHf4lXnzZ7/7u5AiY1FQz8WSFijbZerj2kCAwEAAaOCAlYwggJSMA4GA1Ud
+DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0T
+AQH/BAIwADAdBgNVHQ4EFgQUKg5UZ/7znGUIrFWiArP3uAS9Bw4wHwYDVR0jBBgw
+FoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUF
+BzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9y
+My5pLmxlbmNyLm9yZy8wJgYDVR0RBB8wHYIbZ2V0LWpvaW5heWFtamFnby4wMDF3
+d3cuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHW
+eQIEAgSB9QSB8gDwAHYA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMA
+AAF+GcF6sAAABAMARzBFAiEApg0vU8NytfP1L0JiCkHKrE/Hnp9V8hm3BMUTg3vn
+X9UCIH16wJrYeq78o+CC8woGipTlPKcVt9M5J35l0GhhACdOAHYAKXm+8J45OSHw
+VnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF+GcF7LgAABAMARzBFAiBpbd7NRG1l
+1ELeeS45TdOYOq71+aCZKkGfICqJ9uu6ZwIhALzeKj7BnvvD/G4dOMC2To2fYnWY
+eMUVonImgB7kpoGLMA0GCSqGSIb3DQEBCwUAA4IBAQCSeZh4WaOU3Kiu96x6euCl
+F3TBMzjCe+/bLHtwZDiXAvv3wR+ueXP7r9VjNKztBPjRk0iqZdqAuXaLy7TUBRVy
+RhKqoGhnb7+3VfM7ZBDGy2xARt4xHSMmIrgYB6fSQ4wyL5t1iSSB67JOv4/ip7Ns
+eYifmDItw0SfPdf09r6ODzcL6rIbAFFfB2QresNY9uhC2XZvQsH+x62aq7EyzZBw
+pMbTIy43z7XhdG/1Y1nbwBlFeEr0aVf5feAZFYf1lrxN7jEhWOEjJH2XKGofRF63
+JtMVjK8u7jX4r0Uzcyp/ZRjor/sA1tyiYsuWdKvBbeJS9QFzgJICOPcW6oyxuzuq
+-----END CERTIFICATE-----
+subject=CN = get-joinayamjago.001www.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4600 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

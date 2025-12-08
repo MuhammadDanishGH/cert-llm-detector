@@ -1,0 +1,91 @@
+https://emo-co.ir/aa/live/another.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = emo-co.ir
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFWjCCBEKgAwIBAgISA0Gi21UlIy6BbwKstHK3v6jJMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMzExMDQwMThaFw0x
+OTA2MjkxMDQwMThaMBQxEjAQBgNVBAMTCWVtby1jby5pcjCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAL93YfSm4HLHfO9j1EelxlK2cQKuiICboxht6pws
+T2gDRviXys6TQGeLaS+fC8totwtk0bsGiPCc+I1HpJNi03ltA8KdvOi7TJe6pdqn
+7LbccfUn66Xfr4xWvPD8Py4yDQqvbo7OZluiFxEXHhL/rtF0jjTxGGeUiUuTaZmy
+uOQigRbP2YWmDI+BgQxGPKTzKj3seTACuhuBHucydBMAQsuf01JbimAXzGUqsiKK
+65bEe3f+WJPMw9EgWhSYyVfCZY7N2xa6QavhY7EsEU7A4XjonXUDVxZVSskxi6JJ
+lVE55uwQ04suwZ3GQu+PFuJoLMXZu/ZNngayhoLn4lFJE1sCAwEAAaOCAm4wggJq
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+DAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUgrmK8OA7zk5MC9/xpoMQzlldY7swHwYD
+VR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBhMC4G
+CCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3JnMC8G
+CCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3JnLzAj
+BgNVHREEHDAaggllbW8tY28uaXKCDXd3dy5lbW8tY28uaXIwTAYDVR0gBEUwQzAI
+BgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nw
+cy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwApPFGW
+VMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAWnTjN/CAAAEAwBIMEYCIQCp
+DGF34rqGQTz9QWUqR9GLbLR8Te25Z9fxV7GVSmlvlwIhAOhosVIcUyAZug92Fydi
+gwcTSjgwlZ+smzw24XheSULLAHYAdH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV5
+5hB7zFYAAAFp04zhrAAABAMARzBFAiEAuvY+/GF+NhLZibmjix1i5e/TBlU4eFo+
+88XNdF5BfacCIH7sW9QYO5rTWuHxwIwQEEcq1M5glag63ZPAODcPIrBrMA0GCSqG
+SIb3DQEBCwUAA4IBAQCQtiSuqoXOZ6vfExmFQXQEh007jNtqmNDx94QZNHvOrWjD
+FyZXErDbxTFU0dm75UH0ANmK73Tf18cndG6q8Z7SwVYICoPTNC6MU7aXY7b+88Uf
+1ov4t4drMexkVzU22Bhgkm6r1jOETlkhAf/DiXtHl4TQoR0uoohpWu885P4D3wr1
+kKGAk/JmGAwA5OzWwZ1JuLceH6gqKm5WNnCVxiguJN0l5NIA8CV4F5UPtnGHlfnz
+0/REi208st6n05dSyHK7wdX6afsckSIel3lmQ1LqJ17EHLETlWhjpgPlKMefe2EO
+Xyiu6ohaX8yQE9uVYGJGDwusK9Z6svbPsIuXYjYw
+-----END CERTIFICATE-----
+subject=CN = emo-co.ir
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3257 bytes and written 447 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 4327AD029B79391F94F4B2C7367F3585553A68CA9B67E14AFD669A5C9E69CAA5
+    Session-ID-ctx: 
+    Master-Key: 43194B5162E1EE674BD1176FCC7B9BC3F3FDA837FB19EDDD7575602D98FAA23483D94301A4619E05E2A2A3B3611CE9D3
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 6d 5e e8 d6 e9 b7 a1 79-3d 08 52 a2 c4 57 6b 11   m^.....y=.R..Wk.
+    0010 - 01 67 84 68 3f bd 8c d3-49 09 d3 92 93 77 a2 12   .g.h?...I....w..
+    0020 - c9 aa de 62 82 d8 ed 06-53 b2 b3 86 2d 28 71 40   ...b....S...-(q@
+    0030 - f7 7f 6a 7a 6e 05 72 3a-3f d2 78 3b 6f a0 9a 00   ..jzn.r:?.x;o...
+    0040 - 4a ad 9c fb 32 3a ed 69-e1 0d d2 c9 a5 62 51 26   J...2:.i.....bQ&
+    0050 - a6 35 a3 e5 8b c4 32 5c-56 f4 41 51 bd 60 b4 31   .5....2\V.AQ.`.1
+    0060 - 5b 69 30 1d d3 ba 50 51-0e fa e5 62 11 07 91 3e   [i0...PQ...b...>
+    0070 - 36 75 38 1c a7 49 82 d0-ea 5c 63 98 f7 c4 57 0e   6u8..I...\c...W.
+    0080 - ba f6 bd 2e c5 a7 fd 4c-dd 0d 18 04 94 13 cd 22   .......L......."
+    0090 - c2 96 6e 94 fd 93 7c 98-09 95 9d 47 98 88 5d 40   ..n...|....G..]@
+    00a0 - b7 48 a7 6c 58 ef 89 90-57 68 d8 44 eb 42 fa 18   .H.lX...Wh.D.B..
+    00b0 - 85 7b b8 80 6d 35 f4 3f-0c 27 9e a4 cb e3 3c fd   .{..m5.?.'....<.
+    00c0 - 58 6d 1d ad 30 e0 6a fb-25 d4 3e 39 73 fd 0b aa   Xm..0.j.%.>9s...
+
+    Start Time: 1554901217
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

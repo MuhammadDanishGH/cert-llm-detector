@@ -1,0 +1,75 @@
+https://tournamend.online.pubg.yyew.ml/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = tournamend.online.pubg.yyew.ml
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHETCCBfmgAwIBAgIRANowB/q+86Vy0nJdX2QTeDUwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA3MjUwMDAwMDBaFw0yMTEwMjMyMzU5
+NTlaMCkxJzAlBgNVBAMTHnRvdXJuYW1lbmQub25saW5lLnB1YmcueXlldy5tbDCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMh2SxM/2ZOqQijDOQcA4Fsf
+5UpCk/jf2fxxGYN03X1uW0eCt3JOMnGQ3esvsBWh2R5AzjV2vhTi67dt3lAss00V
+xYflbmHTBpv7IwFTpvGleKm0gZvNXwxrHdwlPQvXeRfGkZB1WFys5Ycx9X4yrs1F
+rRbjR2zpKhFB6P27p9mGFaj4yY/LTuWfuzcb9JskJxcEywMiWZwyAuLOjkFK03Qo
+muACeYl1P++X+gA+xFzI5fC4hf0ADMdVvYAA/YFRUDTy91uqqEZ1Y3C4HE3GLd2z
+ls0m8F1x92Bn+1I0qC4lfGfU7PzxdVsvw/YrZmxqDb6K0hQA/qb/MWRXHl3eATsC
+AwEAAaOCA+kwggPlMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0G
+A1UdDgQWBBSgR5qEim3FrJvume5Radk1USsEezAOBgNVHQ8BAf8EBAMCBaAwDAYD
+VR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0g
+BEIwQDA0BgsrBgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3Rp
+Z28uY29tL0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2Ny
+bC5jb21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5j
+cmwwfQYIKwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9k
+b2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggr
+BgEFBQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBBAYKKwYBBAHWeQIE
+AgSB9QSB8gDwAHYAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF6
+3DNaQgAABAMARzBFAiEAyR1FgyR6XCxNDcAJtxkUnMO6eY5ZzUhw5S6KlaefcSEC
+IGZkvafe4VILQKVNqbd9xgEi1KE9Z3ERFXUNiANfFQZbAHYARJRlLrDuzq/EQAfY
+qP4owNrmgr7YyzG1P9MzlrW2gagAAAF63DNaBAAABAMARzBFAiEA2kLwZXt6144Q
+vCTuGYQzQ79whyGl5Ef4JmemAbUkoHgCIFaBgFSGGTAvtA2+W8goKijwD2Y31Dhz
+M+XvWO5y4zuEMIIBRAYDVR0RBIIBOzCCATeCHnRvdXJuYW1lbmQub25saW5lLnB1
+YmcueXlldy5tbIIlY3BhbmVsLnRvdXJuYW1lbmQub25saW5lLnB1YmcueXlldy5t
+bIIqY3BjYWxlbmRhcnMudG91cm5hbWVuZC5vbmxpbmUucHViZy55eWV3Lm1sgilj
+cGNvbnRhY3RzLnRvdXJuYW1lbmQub25saW5lLnB1YmcueXlldy5tbIIjbWFpbC50
+b3VybmFtZW5kLm9ubGluZS5wdWJnLnl5ZXcubWyCJndlYmRpc2sudG91cm5hbWVu
+ZC5vbmxpbmUucHViZy55eWV3Lm1sgiZ3ZWJtYWlsLnRvdXJuYW1lbmQub25saW5l
+LnB1YmcueXlldy5tbIIid3d3LnRvdXJuYW1lbmQub25saW5lLnB1YmcueXlldy5t
+bDANBgkqhkiG9w0BAQsFAAOCAQEAJgxtjVsMXrfyDJF7jiW6Q0yF8jqZuAkWgDCd
+Y6cEpjHM9KruV54Stu+37EBWZZagAuRF+tHHrk7uYgraSrYvX7mgU0ECVb9wA20K
+6qZWIAJnH33yW0Y0lK5M5lmYeNAsFwo3fHD3FmyuG4CJMeyGU8RdlmgQfr10Q3bK
+rxtpPOPzfm+2P92r/miNoEGjsKWbAWPk1u9cZU6MubhGZIOUoznV4FpTreE7ZGbD
+ZXWP6igE+jq2DmTmKDtvhJSctO1j77YhDhYKfbkjtsO8NRaCq4OZoTN3MtmX4MB4
+QjrjO6Ch73VEUccfGcbsHAiFyZrkFmTMJiuNoWdRThN2eo7iXQ==
+-----END CERTIFICATE-----
+subject=CN = tournamend.online.pubg.yyew.ml
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5318 bytes and written 412 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

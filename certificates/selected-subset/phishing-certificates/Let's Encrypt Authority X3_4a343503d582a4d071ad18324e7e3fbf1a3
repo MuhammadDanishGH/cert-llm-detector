@@ -1,0 +1,97 @@
+http://vendasparavoceonline.com/Produto/identificacao.php?id=3
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = vendasparavoceonline.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGhjCCBW6gAwIBAgISBKNDUD1YKk0HGtGDJOfj+/GjMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA0MjAxMTA4MTRaFw0x
+OTA3MTkxMTA4MTRaMCMxITAfBgNVBAMTGHZlbmRhc3BhcmF2b2Nlb25saW5lLmNv
+bTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAMJ60E6rNXPQEIxMTbNo
+pW6wHwI4c2K1RvkwMxcmKSyEoYJyj/Yu51dkU9AB2fdqbjUO1UVxGrSkqvMcu4lC
+gDc+XKBEdp/1xpISdDiUtAL9Ia5kSIgP4S3gdMiAi/2uNnYrHUNwjQ6g4+128Pdd
+9XosDvXEZ0HLulvsrwjov4wqZx/ZCChIol6wuVDKIJPFHVe62+nLILhBTqVRf1B9
+4f/jjGRipPdxp3q+kBFXaKBUxws6t6FvPd8NjDY4+H1n6xGxYUntrfKmRsvgNYIk
+sLtuQnzd4QDq7aMgetllphD2nMhIs3j6Lrs6lZ7gFW9oWNDozbKqPkFI3gX/L6jK
+r4UrtnS57a1iE7SEtgjoH+VyMkFLdeBT6Ru5cMw8RFows+PnClhwWhSOe1yV3G5Q
+kkjfkeZPxUwXsKZemOAvnG09k2G2T/doCbvhThS3FSGcJ7N5uWTMkyCZuJ6wuwD1
+Uk2a9TfzX4U2j/g1RvD8SMuYBTyvXxHVpAaeaJAiKrxzsYllPb0idVbAPkt13FaJ
+2s8ZUW++Z0cwzx8tQEYFc3RNR5ipbw7n9q60rJr/lwPxQ6cV/XEWigCqUxhL0EdB
+yJwcQegOMpnxerp7XnGyVMhtBTvhIrtvdZNJkFhOHO//BqVmd2gg27zkEf4pklnW
+xHJ2ZQu1Zd78B7ynzsfBT2PBAgMBAAGjggKLMIIChzAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFGEiMSXmz88cPF5rEzFzYnrPb5QPMB8GA1UdIwQYMBaAFKhKamMEfd26
+5tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDov
+L29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDov
+L2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8wQQYDVR0RBDowOIIYdmVuZGFz
+cGFyYXZvY2VvbmxpbmUuY29tghx3d3cudmVuZGFzcGFyYXZvY2VvbmxpbmUuY29t
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB
+9QSB8gDwAHYAdH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFqOqWj
+nAAABAMARzBFAiBZOw0EtKBu4+Fpqs8hqkRgzV2dRFkITdqQFzjwaKhQVQIhANRH
+0QG67aVKav5JD5SCbbsA2pDGxDBnMQYZGWqAyEOfAHYAKTxRllTIOWW6qlD8WAfU
+t2+/WHopctykwwz05UVH9HgAAAFqOqWjnwAABAMARzBFAiA9l/+czrGdTW0MFj9B
+WAIh7zaEbkcfNA6F5Qa2wY8vDwIhAOwDI+xjkTigMz0wcUn9GvykMM6LE6ALYmHC
+9q6Ve2ACMA0GCSqGSIb3DQEBCwUAA4IBAQBy6Y1gMp+5GppvXYtu2IRaxjopdhbh
+IVDP5nquEPp4lxj8SethkWKMQzSPK4imHjwoFcLTuuUDH7yc3sx8wy2/UM6ONM8a
+CWM5J/y1GMwieUDJhLzTdXVhyPTfggoSjheAHPNCrEW325elR1/GqPeMhe/mP/lV
+kLB8LEBfmABcExjL6VoYb06BOrW83Gla+e1RJTWOpHEYK4XNrl4+Jzd+Hah7vOrh
+/QjFbcmnSNhLvQhXbVFswgcj57eueiQhI9rT1lvOsYeFIULOIkSf2aEvwzl7y+3o
+0U8L3vQLGuWeQjyZ3Hxu/dMhdOIZn1CO3C9pObDat11s3kFm0TYuOVcS
+-----END CERTIFICATE-----
+subject=CN = vendasparavoceonline.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3780 bytes and written 429 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 1E3F3BA757B161282087DA69672FD7FA8313EA9395CF31A063CD63F081B3D605
+    Session-ID-ctx: 
+    Master-Key: E1AC48B99E5B14AAB61BB4A3AFA9DA1D09744A754F344FF58501D4A2DA9C637F4ADDD41C06051E5363D07DB66F352CC3
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 72 81 32 ba 09 36 99 d2-e0 9f db 00 c6 fc 5b 76   r.2..6........[v
+    0010 - 42 e1 fa ba f7 31 b1 64-f0 d3 85 c2 fd 56 d4 7a   B....1.d.....V.z
+    0020 - 20 09 81 f2 29 34 0f 0e-b8 ac c3 65 da 1b 2d 0a    ...)4.....e..-.
+    0030 - 70 7a 87 a0 5e 04 17 83-91 74 c9 48 97 4e eb 60   pz..^....t.H.N.`
+    0040 - 31 9a 77 a8 8a b2 a7 c1-62 8c 2e 5c a5 c8 18 89   1.w.....b..\....
+    0050 - 4f 60 34 48 c7 47 d6 87-82 f8 52 3c b6 56 7c 7a   O`4H.G....R<.V|z
+    0060 - 1f 1a 0a c8 b9 7c 0e 2a-7b 9c 0b f8 b5 ce c7 e2   .....|.*{.......
+    0070 - 2e 3a 59 a6 c5 76 c5 c2-e4 8a 9a fc 20 09 da db   .:Y..v...... ...
+    0080 - 62 76 d5 07 37 fd b0 06-52 0c e3 c7 6c 90 7b 8c   bv..7...R...l.{.
+    0090 - 0e 6e 8b 6d aa cb 6f ed-8b 27 e0 e5 60 a1 d5 6a   .n.m..o..'..`..j
+    00a0 - 37 c7 1d 1d 0a 7e 81 6d-e1 a7 8b 52 d6 b8 97 50   7....~.m...R...P
+    00b0 - 76 f8 87 fe 2a cd 7e c6-a0 41 19 fc 06 49 23 a9   v...*.~..A...I#.
+    00c0 - b1 d1 42 71 5f 43 30 e4-9c 73 f0 67 5a 14 13 14   ..Bq_C0..s.gZ...
+
+    Start Time: 1555938019
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

@@ -1,0 +1,72 @@
+https://asiandrama.ge/.xfg/webmail-RD127/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = asiandrama.ge
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGdTCCBV2gAwIBAgIRAOZaMTXYGXaSRpwUbBVqAtcwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA4MDgwMDAwMDBaFw0yMTExMDYyMzU5
+NTlaMBgxFjAUBgNVBAMTDWFzaWFuZHJhbWEuZ2UwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDRPC3eVMdlsBsrAaY2GTdMhqMAf8LHSkZO1aVgIu7olusA
+rHOXZ4cHb5Fp9ud8jBzMbZ6/jppO+uVnYSZ/Y9pd3LUzGEuh0EyfolvKAJgU7IqY
+zFqY1AlqF6vr1rVx452bsIH1j5RClUhoC4lMvMBSZQ8vZ5WkdwQEdIlNH0X2bDO1
+MXeKriYSII3ltipuP/3EKekpUFWqwaZkERrf7wDnADNHlcpBMk8v7unxal5VafYN
+aOD+eOw0/CUCN1zD32SGmWFJ3t+aO89SgQSN+n9eKORH1z70WUtUdum6gmbqSsi9
+tzm+nOGIqCjZdh+Wr/HpUJkl53Kp0y4al2mHvjpdAgMBAAGjggNeMIIDWjAfBgNV
+HSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU9E/iirPv2PGE
+LwJirgUJ2ENvJnkwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQEC
+AjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EM
+AQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29tL2NQ
+YW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEBBHEw
+bzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVsSW5j
+Q2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9v
+Y3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AH0+8viP
+/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABeyNufpAAAAQDAEcwRQIgVqRI
+uRVNXf2P0g2Lsw4wMjnZZc3qKLS/JMcPydJhTewCIQDHrJfxPFp3rQa/ChSaGLYY
+431eFOLmfXu1VDjQblb+nAB2AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1
+toGoAAABeyNuflkAAAQDAEcwRQIhAOWrK9cqswfwvHy+8GVs0Ke83xf0j7kk5+y7
+qI0re7A6AiBdeM8AFVatcw/d+t8eLT2p+YIruQOYLo9/2nqlNwm7NDCBugYDVR0R
+BIGyMIGvgg1hc2lhbmRyYW1hLmdlghRjcGFuZWwuYXNpYW5kcmFtYS5nZYIZY3Bj
+YWxlbmRhcnMuYXNpYW5kcmFtYS5nZYIYY3Bjb250YWN0cy5hc2lhbmRyYW1hLmdl
+ghJtYWlsLmFzaWFuZHJhbWEuZ2WCFXdlYmRpc2suYXNpYW5kcmFtYS5nZYIVd2Vi
+bWFpbC5hc2lhbmRyYW1hLmdlghF3d3cuYXNpYW5kcmFtYS5nZTANBgkqhkiG9w0B
+AQsFAAOCAQEAAUmcBRSfaR2HUnXsiVFJbABzc5pzir39ZPeY1Wq+f2mG9n73ltby
+b75nJ+eOuSbHz7RKpUUxMtwqqkcra0mlK763HnXi9lbbCRtqeRgmFHlrR5zLS1WW
+X0OcByKZvIOcEn54fg8rw5hGqwnqdeJ8MDzQqqZ8mqgc0L8UzHYbaYwpZVOiLEf1
+zsPXMZyvgvYBf4enWOIPU3air4HfXDP0JfvLYpMTitLzSJpHXC6SCnrKXAoEGlf7
+uaP42ho17FMrgyhRp6y59G9XQ3xSRylIFfsMuobKkybTSDVH18FbEftTi9mEf8aP
+JkaHYgoszGS6ETYrGQMEhZSLf+v3E8o3OA==
+-----END CERTIFICATE-----
+subject=CN = asiandrama.ge
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5162 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

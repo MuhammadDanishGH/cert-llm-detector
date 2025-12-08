@@ -1,0 +1,65 @@
+http://makecustomgifts.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = makecustomgifts.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLDCCBBSgAwIBAgISBE15b06TvC0MSlr5Lz0kShLiMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTcwMDQyMThaFw0yMjAzMTcwMDQyMTdaMB4xHDAaBgNVBAMT
+E21ha2VjdXN0b21naWZ0cy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCjFfXLKR3UnDw2n+E1PNIw5chDetgryOxe3H9qI3NbqPMugCgRW4JCV0HF
+oMipzOMz2ejXB/xRqa3jkCVEB1ZzY5FsD4dtlecasHTLAlG9p5qV6wxfHUTvZWwC
+N8LHZ4TRBT67JzhkF+Jdo+WyyD6J5LnwUntAKWtuOS2rFZn5vTh+YGkM9GysuwXe
+C/IHxr1TToaZWKIongQLK8/cvShGS13iHyCpGkDacsSDpGpJupHZx9jw9jqYbKiJ
+feSj9bnQU9CSrapMT6YC/M2WH5a8heC37eSY5ef4jm7XOLicnONjU/rXXTTefxfR
+ebP53AdtPWDVZLb2wOw7kbas58mbAgMBAAGjggJOMIICSjAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFKis82Ek/RJF54p0ARLEPirPU7/9MB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMB4GA1UdEQQXMBWCE21ha2VjdXN0b21naWZ0cy5jb20wTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdQDf
+pV6raIJPH2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAX3GDeWIAAAEAwBGMEQC
+IFAVZLbak8naLWUshllcKbriOqmneHxfmrCbbxQ4RW4iAiAau7lhG5DjmdAr6lEd
+YfVZ+buIZMEObpbKd5TRa/FaOAB3AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr
+8vxw/m1HAAABfcYN5awAAAQDAEgwRgIhAK+0YwXX23J9LFn076dxSRGibLDdIdHY
+vmFubgI6TaNrAiEA0XnBJiMAvFtoxKB4pykWksa/DdOWRvu6JWPJnQgdLoEwDQYJ
+KoZIhvcNAQELBQADggEBAKVIsQf+RgsrRbpEYLaWozKlOFdlJRWwkme2muTwpIFa
+z68cMPxHQQGKx/sEE1QH6Ml1JNWTp6gs5fN0nR2SQOYckL2lqFcI7CwVmPXnXziy
+MJAdb0EKFku41kANQMVJdfhzmkejdJiophf/Bgoli/OV6B5OaZcEtcEW4uhwFiZK
+oH2jssxhdWDraTKG83KwmfKkykSmSiavG42DheTYbuoWDZsB7n7c+HGUYPXGTr+C
+/WQzPEwPSi+QS1iYIxekTu3b5s7mhZyS4CPJY/p5J5OVmmtC42+zchLBTbbp2lUK
+d3dw4wcrofrMPILv3ButaIhC/kkID1e6vy48DJ9PrIc=
+-----END CERTIFICATE-----
+subject=CN = makecustomgifts.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4518 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

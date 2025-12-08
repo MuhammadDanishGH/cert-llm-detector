@@ -1,0 +1,73 @@
+http://citynewsraipur.com/quarantine1
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = citynewsraipur.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGoTCCBYmgAwIBAgIQN7rHtUhphLjTMTg8VMLbGjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDkwODAwMDAwMFoXDTIxMTIwNzIzNTk1
+OVowHTEbMBkGA1UEAxMSY2l0eW5ld3NyYWlwdXIuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAuze7lCoSBenYBiu+scZTjqMbyEkyuMIZJ5DCbXTK
+GC364Ai7SxpOuqkghwMIUZBwR2hKM6JDkYxVUxOKv6YonGHV9rdpR0d1x2EZPicl
+pUM+mlEL3LqMtGNdhlDNNoUPSpnoloHjmMMJWgxkz0mClDdfmnVwwGOOejzjaoCr
+ZVOlVs5v1dtuMf5moqAtMX4sFDu8ILUFCPkJUqQRjvplB1iVg33wc79AUzVBhinQ
+40UQtmZpPauLMUpEpnjqnoUzzphwniS9eu2vJUrnCQMGYok95Uby5y/Y/XqA3+Lj
+wHZjVje018C7F7vLQhmEKw+TXETQUabssq5GxnVpysznRQIDAQABo4IDhjCCA4Iw
+HwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFOCAQiau
+J0wfu4kSWnqJgDVeXlFkMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQB
+sjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgG
+BmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNv
+bS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcB
+AQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5l
+bEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRw
+Oi8vb2NzcC5jb21vZG9jYS5jb20wggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgB9
+PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXvCxza/AAAEAwBHMEUC
+IQDEfWhaW99x2Cg+LuQX9CTXlcr14ylTrM5AHXUiCS6M1gIgL2TVORs+coRql7Gl
+rrxfOjXubtOgk9A74ZRUlfHvC1oAdgBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/
+0zOWtbaBqAAAAXvCxzZvAAAEAwBHMEUCIQCdFLPPsihGZa+cx6zNpYiSkpR7441T
+i7bjg6X7CDqZSwIgZNpnV1wSQigX2GtJ29C4HyuBdCJm50DpYwTPFbjqrYswgeIG
+A1UdEQSB2jCB14ISY2l0eW5ld3NyYWlwdXIuY29tghljcGFuZWwuY2l0eW5ld3Ny
+YWlwdXIuY29tgh5jcGNhbGVuZGFycy5jaXR5bmV3c3JhaXB1ci5jb22CHWNwY29u
+dGFjdHMuY2l0eW5ld3NyYWlwdXIuY29tghdtYWlsLmNpdHluZXdzcmFpcHVyLmNv
+bYIad2ViZGlzay5jaXR5bmV3c3JhaXB1ci5jb22CGndlYm1haWwuY2l0eW5ld3Ny
+YWlwdXIuY29tghZ3d3cuY2l0eW5ld3NyYWlwdXIuY29tMA0GCSqGSIb3DQEBCwUA
+A4IBAQBLZqT0YLXF5QQWpzMZOh/BqluExGuqsmXIhHJXNgBvBioOEN/UUnieAT3d
+Mc5wLr/kPst7rBmie6+aYZYxF/GfxcyoFvECr8KKDHXRiY4GdDaklnJYPVFa2CS6
+aL+lz5cEeue5RG6CD7mXkelizNTyI0N46Voh5ixP5BZHi7SUo2TBHrHP8UUUiVcp
+SIjHSGPeTsGblSXiSxZVyaRpms6eDUihc7V4C/ghM/1ckH0+b5XELY7gG73N1s7u
+tSql9ObpAlbl9Mg6H+Jm87So6hF2Y7MIGOBX9XVqGN5SZ32JhbFDvwdD+nd0UcHm
+HDHtki06a9niRjeHKYJwvNq/0Fr/
+-----END CERTIFICATE-----
+subject=CN = citynewsraipur.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5206 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

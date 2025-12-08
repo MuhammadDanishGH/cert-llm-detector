@@ -1,0 +1,65 @@
+http://mydent.de/.../spot1/metou.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mydent.de
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFGTCCBAGgAwIBAgISBIezqjjkEIOoaemT3i14eMN7MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTAxNzQ0MjVaFw0yMjA0MTAxNzQ0MjRaMBQxEjAQBgNVBAMT
+CW15ZGVudC5kZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMSkG/yY
+YKs7ncULsv2edQgodz8S/3MjTpWlk7aTq7psCbBU96MfQFEwaO5sEgBopb38rXE6
+FrDW1w+X+L4vMTfyLYMURcn5AeCyBQfKLrjx8Ee4GzfPkU/TeD1zrMxIPmeiQlB+
+m0Fbw60DQd0w74FXYmbk7utlDTpr9gFXLM/VQgF8nSR+dRGajjF/ldWhVqH0AB3v
+2fjZBuM9K30EsgxXv8O5eBAUR3cyWrVdIGNy52jhXZ87h40qCyuG8iOQw+60c9zm
+tO1jmKGli2uoliiQKGp7DSHdXs7ivOspl7/fGwpwJqtBIHHjOAoviA+c5/p0PFmi
+1FeS9sABPOZVO5ECAwEAAaOCAkUwggJBMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU
+YFMUn8anFT/NKuJHx8iRLC/VCHEwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+v
+nYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5s
+ZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wFAYD
+VR0RBA0wC4IJbXlkZW50LmRlMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYA36Veq2iCTx9sre64X04+WurNohKk
+al6OOxLAIERcKnMAAAF+RU5KzAAABAMARzBFAiAX6cSSksTqsm7t3ELi0+gkmc0D
+gspFNbPRpUEb8r1DagIhAL8pSrlmOP45JK/IIVD/Vb9K1dHJgr0sMOjMezgn4ZXN
+AHcARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF+RU5K8AAABAMA
+SDBGAiEAnUYTKY3GNtOJ8x8aQQ9v4cGw1ANSXKt3O3JhnH5jJt0CIQDDXHu7ANyg
+8QEFON96QvV4SKzHOdyMz7taluYr0iGBODANBgkqhkiG9w0BAQsFAAOCAQEABjud
+aC19cXgaeOvwwRsUn7A8ded8IjS7OJfUxhUJUV/D+6+x8yzQRy8J0nFNaTKGhVgH
+2gDHHmuKoOuCpAzj9jq5AaTdaSmT/ocX8Cz5p1FYDsMJ0YTaSZm7l/Wm/CVGM3G+
+rpd0T0q4nXMeYf3jz9R3duaN/IgzQ0Z+mtPQ1OTGdFNF0/M3MX1Gem2wx0DxRsCH
+doEom3yLHeeArzowuMGko5QmRn2MoFL6IiuBlK4aL6aXGxKal52GS3NxXhSftRDi
+slT4WQv1PWHVNATef1fllZVOe4UY35Hf3VaNIsj/WEMQIYqCN+3nQthJ4DrmL9Fi
+wgedvJEHSOIfCwkRbQ==
+-----END CERTIFICATE-----
+subject=CN = mydent.de
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4565 bytes and written 383 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

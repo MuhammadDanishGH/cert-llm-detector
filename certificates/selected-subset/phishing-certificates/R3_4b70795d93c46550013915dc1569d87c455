@@ -1,0 +1,64 @@
+https://blcsantiniketan.com/blcsantiniketan-21/blcsantiniketan-21/#c@yorku.ca
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = blcsantiniketan.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFQzCCBCugAwIBAgISBLcHldk8RlUAE5FdwVadh8RVMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTQwNjA0MjdaFw0yMTEyMTMwNjA0MjZaMB4xHDAaBgNVBAMT
+E2JsY3NhbnRpbmlrZXRhbi5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDEhh863LGX9OFRulG6BXYyNpm7hcbfIEO1/8AQ07PnBYasqHcR68S3kliq
+rcamrTOHZ/2NZW3/duw1acXlqrm8Ac1nFPx82YEV3nRnOqojvW9bDY7WFy0QbqYt
+/LSLvw3ajNQ2nnxW7R4d2CfGEeEK7/DK9gc2ktWUrsXa606XIt29PdkrjXgPpdre
+aC+FX3ow+o8fPi2X2bMhyF/XyZA7P5spoHuvmZonbliJiWJg/M67IYSf+29Kkps/
+dx02yyg/j4wm8lRRYo1imO0gaCPMweDq9DKCtBYDnhDVBlVCv84qpscWroXcW2ff
+FxgVkRAEM4q5KI5QIXihC5LEHaG5AgMBAAGjggJlMIICYTAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFORIKb7DC9AsktNBVPEI+nRZMTFLMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMDUGA1UdEQQuMCyCFSouYmxjc2FudGluaWtldGFuLmNvbYITYmxjc2Fu
+dGluaWtldGFuLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEB
+ATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQG
+CisGAQQB1nkCBAIEgfUEgfIA8AB3AJQgvB6O1Y1siHMfgosiLA3R2k1ebE+UPWHb
+Ti9YTaLCAAABe+MfDJUAAAQDAEgwRgIhALRM7INfYf3sZen6DbxkEljzxHAB5aO/
+pxj22WfbQBJ8AiEAq45IhOkaIcMTxfuOWbSCJOtwCnaEfngithOoKDoF39YAdQD2
+XJQv0XcwIhRUGAgwlFaO400TGTO/3wwvIAvMTvFk4wAAAXvjHwyRAAAEAwBGMEQC
+IAuAJWBJTozuibLv2QA0RZihH/7UFOSppNbJa2iw1QvwAiArpsdovu6VhVDkyUWI
+fZPm92T/EZAbhK+TtPHc1k4xzzANBgkqhkiG9w0BAQsFAAOCAQEAa09bY+bhRJO7
+bSmPlmrjJrlFUTzREBz9Bkngzc6fukmWaV4F3bR5gPEAqgHg2le+TU4ZVgcPOSve
+6LTtrYG9boQKX2L2vUcQDidO5zZLtB/T2Av+MvmStVyJ6TS2TIXP/XRWIfHPio/S
+rNCY/3xSxjxi1C7uJq8uKy5EjOwH1GvPf+R9DKmXRFhVFdqO6Bj2iYO0vqpe/sAh
+5Fl76KDGqm9+13ZvSSqQ3c1x1RB2jvIlnZS9LdCRNHu/i+8DyUS4rVy9p69HPdYS
+PnNffduuzvJtcyhPx1ydsHEtss/3I39mI7uyEqvKw9Sw6i6p5i5/RJ7Wu8yF1TUO
+d7l0PxcleA==
+-----END CERTIFICATE-----
+subject=CN = blcsantiniketan.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3222 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

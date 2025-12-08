@@ -1,0 +1,81 @@
+https://system-logs-spk.com/H6ZMZC1RCF
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = system-logs-spk.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGKzCCBROgAwIBAgISA0aRF9rgU5ofEZX7c5Q6lRf6MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDUxMDA4MTRaFw0yMjAyMDMxMDA4MTNaMB4xHDAaBgNVBAMT
+E3N5c3RlbS1sb2dzLXNway5jb20wggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIK
+AoICAQDLcwj79T0YrCGzaVxjmnM370S8JLKow404Gco9NJ0ZX6hPVAgOlkF2AbuN
+20YNM1GJOhWnbazaEyx2TsxGbP3+O/HDBjPfYZJ0/v6jB4rxi2yyYGJ+RfSX7OQP
+P9nlIUCojFSIHUdOWEA95Wn8bZlP1v7r4UktP2TDwOaIfKRt6p1w3M2MuBMYCl8h
+tyZJZGcR20xdX1fboWtc1dUCPv9XvpCghsYerH5GaRx/nPAF/mu7d0NFvoKA6i2W
+O69YpZHe/FBJ0r/hrdzJ834AAYc2kphgjET5Plh+uDn0FdD9IySrmq8UaE6thUM5
+0TJG5+YyxiNnh8IZVZCyjXJpjuvwaMuWv4zvN+zOtg3vyZWQuMgoZWZ6bDrTLbvh
+KyhKj4zrkUFDM10+Y05ImWFy9UaeIWmbZ/t6gdYaCrcG8u8hLmsduFd14ZdWwRdZ
+ly8V0XU4fzob4rPOh1130UMjTaDDDW16K+97ofSNCWgXZsEzK8VJxWOC1HXtXRkI
+ePMmYiRlSgYE8AIuZMP/Le/IXam2Ma70o7jSE5b6x4GXPiGx40IC2qlu3iPQNVuK
+/zQe92gfnqbQ+DUDML/L+IqZEbfC8cfrqJl+znbMIxjL4A0NmJoXIjTfZRIT9jmZ
++rlUQaJTMS38OBCsRU6f7dtb29sRDhp4vF4LqqJR9qLBc6LHZwIDAQABo4ICTTCC
+AkkwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRbpS6Uktsr9HZrpklyTCB7S2ggcDAf
+BgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcw
+IQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYW
+aHR0cDovL3IzLmkubGVuY3Iub3JnLzAeBgNVHREEFzAVghNzeXN0ZW0tbG9ncy1z
+cGsuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHW
+eQIEAgSB9ASB8QDvAHYA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMA
+AAF878jqrwAABAMARzBFAiEA0ny9fhck/9oKoTOfL8Basera5OrgERx/5yEITUBe
+Bh4CIBbxzkp+msJNEYV7pdZqbRQgj9vnqmmE21web0gG+UkhAHUARqVV63X6kSAw
+taKJafTzfREsQXS+/Um4havy/HD+bUcAAAF878jq5gAABAMARjBEAiAiAPpDtsqL
+ZDXwkBtmaQ7J4xbgoGFRHzzCbMz6G2LoTAIgLbTCZYiuTkjpyRKrq6BsmIKdJDrc
+Bo4A5W9nmHYRrG8wDQYJKoZIhvcNAQELBQADggEBAAUH+dHJRSOxIjul1i1jHvtN
+2R49Ksox+DJnidoio/vUcX67jQPZcFTHUjhe15f+M9CZ2mb8GPAvorBPKOuLGCJY
+674IoaxLS9uViI+GG4JB1GHPNSiwy7qTPLefCGsJKc+GKF/mU0VkZGMVDUtkgGTQ
+8RGKrKOnq968/K4LOjZve1T/G8/LV+O86MkCJopfAZoC0W52Okj/Ul3dHQ8CMaTu
+s7A4BmBZBtsC1/5a72uncSBOwUJKtbNWmSWIMw+HJ3v5UOXvXNXJhf6NwAZvELUO
+FWp3hlYu73ZwrEnhoGg8lSyXXOdXUO7yvFJLjtbEWwqKytaqM14OXs0QnrXdYas=
+-----END CERTIFICATE-----
+subject=CN = system-logs-spk.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5013 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: AE0B6BF3242EA42B4687938AE7741FFC7D44859F8902AFFE2451755D9E7918EE
+    Session-ID-ctx: 
+    Master-Key: 04011B69D9FBA3A0351617C68D5670BE2AEB594354D5B82A44585EE77C7FA5D653E9C4F7A2F6B1DC0318E2BD00F3DD5C
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1636382371
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

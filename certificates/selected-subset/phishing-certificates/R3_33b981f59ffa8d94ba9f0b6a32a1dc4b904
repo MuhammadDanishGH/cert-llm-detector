@@ -1,0 +1,65 @@
+http://kevind.nyc/login.php?online_id=714944613eed2ad0549af1ee2&country=&iso=
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = kevind.nyc
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKjCCBBKgAwIBAgISAzuYH1n/qNlLqfC2oyodxLkEMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTgyMjI5MTVaFw0yMjA0MTgyMjI5MTRaMBUxEzARBgNVBAMT
+CmtldmluZC5ueWMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDPPgLC
+UN5MaAHVwbXyTbw2sC+evgJZzH2o/vOPX1gxqtJjJK8SMAoiwbSTO913iz+7vtZQ
+B8edBzjXastP80E60BRkJA9xW2Kf0rEORuteGlhTYRf7mdbZ3hktN2XW5gucJ/9j
+sYiRXSdYilFnztZv6X1ro25aUa24NYdJFOhuR0qPxoOi/yYRDRdyKfffHcF2rgNN
+nnlS2uRqK79Qhh4U3X2jy7pyDgLDfNojgbjVaylZHRMq0FMJiGgxOkwt2ljNGAUA
+kymQgCKvNYkWsp0yZdmTYscfQZbuHduXUBYM9oTVfn7fZTqrUv6smBb7Itgo9Q9Q
+0plWeqVVSmzTunDnAgMBAAGjggJVMIICUTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FIC8dcxaJXXPs5T9qB1O1kM7SsADMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYf
+r52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8u
+bGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMCUG
+A1UdEQQeMByCCmtldmluZC5ueWOCDnd3dy5rZXZpbmQubnljMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHUAKXm+
+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF+b4XuvgAABAMARjBEAiB+
++eZqE1hfFt7Wolm36p2zVrHrLKprLS6yJ6ZUvKoEDgIgUdlDdcQijVFBz4auribb
+3NVcy3ICXaK1TZXtBr0zqbUAdwBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQ
+YpYG9gAAAX5vhe8+AAAEAwBIMEYCIQCCkOwUH0X02Ivevw4xXBrG0meW2K0QWOEf
+DfALqIC0vQIhAL6kbHY1vmAf7+7i2nnWMG44455F3cZU+RO+3isiQZk4MA0GCSqG
+SIb3DQEBCwUAA4IBAQBuAO1T5MtjywDQMCv+P5mX13EU/EHw9MkNz0wYzYh5EuNS
+ZzzDUQrcog89dlFsjUrXJlfWWpyD8Tr6DSF26greUGBLP5eECvXBjh89ueVyYZHW
+YwGSG6xs/OL/FW4HNdfuhHA48ZciAaYwyWGNHc+9pY79GD9OI1h/HEkAFjA/NSB6
+2YWKY9CxaRp82rdjkhdjCXBs533x2QZHFVI3UczM1imPblS0mq7IXYudORjFuKTA
+rSoAp+pxIc3eto8jlkmXkIK8ERzY+rAPo4y8brwbG1OisOjqdv5uz+d9sp+64evt
+bnp4ILgtZIPQJ9/DoPEIEOhXANxxn4JP8WKZm5CM
+-----END CERTIFICATE-----
+subject=CN = kevind.nyc
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4582 bytes and written 384 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

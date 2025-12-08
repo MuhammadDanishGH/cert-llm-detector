@@ -1,0 +1,66 @@
+https://xn--empresas-intrlbnlk-pe-o0b4p.com/login/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = xn--empresas-intrlbnlk-pe-o0b4p.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFSzCCBDOgAwIBAgISA4kL7jHDuQrySymHyxE/kab8MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjYxNDAxNTdaFw0yMjAyMjQxNDAxNTZaMC4xLDAqBgNVBAMT
+I3huLS1lbXByZXNhcy1pbnRybGJubGstcGUtbzBiNHAuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw53fyDk865MtMcyvtwNhmCPd1ABqmsqeidKD
+ij2OuS0nzfnx4nfukxszMj3t4dB/6evaxnHuf7BycydKK8AzJUZrkNpInlAClKQL
+49D04snWg3u9l4U+YhWDv41Q6szP5UJrAJN4vLJWlqMpepp4gh8GFT7NRYu/IOZf
+nwqv3Ejvzmv6uhxmXhvmgdCpSW4gtI0vJHL67/GUcM7AlRMzohnYoc0OEQ0CjNNK
+iMgHit1JPB3Ek39uVKvKS3KHJiI0AWHfD5yPgKL1/h5e0yfC1zQsMZLViXyePrDf
+efR3Ea1W+N2oKggwTbfSukDQtgjwwK5WROt4rPjZ5BKCdXUfAwIDAQABo4ICXTCC
+AlkwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSYYmpVIj25RqauYtL9PEdisN7hkTAf
+BgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcw
+IQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYW
+aHR0cDovL3IzLmkubGVuY3Iub3JnLzAuBgNVHREEJzAlgiN4bi0tZW1wcmVzYXMt
+aW50cmxibmxrLXBlLW8wYjRwLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AN+lXqtogk8fbK3uuF9OPlrq
+zaISpGpejjsSwCBEXCpzAAABfVzEbz0AAAQDAEcwRQIhANYhVhYDEXjqJ5G2gxDq
+s0SSa1XB6D6KdcXaxrzjc1c6AiAZMqzeTHG1T3riCc2g9PAS2VL3ivhOB58L27ta
+e6QZ5gB1ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfVzEbzEA
+AAQDAEYwRAIgSfdbQiaiWWRvXMnN9TwPxiFSICHgzfeCCdwSKD/JTxICIESOBHWX
+W2DtMgT+mstLhdzAPL5fV2+cV+yVPmMcCYpJMA0GCSqGSIb3DQEBCwUAA4IBAQCq
+FUcO+rHC9Tet4woxxgrqOops5bCyli8CTAx/3KpniAzMgER37V6sJe0nugVvjrZM
+QoSpIDTe0i0IOTkbIeCamy7X/sTS2ZVd7cBW/TXyph/CJtJVT2FPrVbVj4pbG5WB
+ioZhkioEHCZ3JXsFtK6Rt0m+Al3a2zx+TmM3ZkfRpOOL+9c3/Tvt9itfrv82Xwbu
+tGnnipptm2ENYC+786jU8Jlsy9ZkLZ7OhApZWnrtWw9e5dbSWkDo3niZGZcW75NG
+FjTQSdMmccGg8hcVsnSdj2LIlG0aKcPWoQmTv3tpFLTwRN4+BE1/2m1PCifvji7Z
+8eViA9yuddVpqGaJtmv6
+-----END CERTIFICATE-----
+subject=CN = xn--empresas-intrlbnlk-pe-o0b4p.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4615 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

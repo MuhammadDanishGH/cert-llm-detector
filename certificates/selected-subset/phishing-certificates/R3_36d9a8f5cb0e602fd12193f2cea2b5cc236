@@ -1,0 +1,66 @@
+https://booking.pl-id59219245.xyz
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = booking.pl-id59219245.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFVzCCBD+gAwIBAgISA22aj1yw5gL9Ehk/LOorXMI2MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MzEwNTIyMjZaFw0yMTExMjkwNTIyMjVaMCQxIjAgBgNVBAMT
+GWJvb2tpbmcucGwtaWQ1OTIxOTI0NS54eXowggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDBoorLj7PxvISRLolp4+Q8NuAP+IGzWNXGJZD2RWGFGCOQ5OKJ
+muTaX7vSne2rfs2FBqjyj3Sjc9f9pavhcSZgTyWQ+fGT14W6ussdpvmZ9uvaPaO4
+V+SRuEDcEFhpUvmyf8rsSmcWNq2uLRYgZaPKP/j0K1SrabV4sLw464vdDyBfA508
+yvt8Rvg03rMkB6rf3+nmYLlYRDEKtWEcuyN0mDdA9zfEIb6RZ0BAfeGSNE0h1S1d
+yTMUtvFea7pkThF4wQSc+P+YJ3HAVOCLQS7+bks/gg7+kwZ0h6QUX49de/QoTgT4
+l+S/TCXjs+fAYEpYy5I1Of4TfeXm2a6QCWllAgMBAAGjggJzMIICbzAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFKXUDqdSJ/RV+sABVnzWh6NkmM3KMB8GA1UdIwQYMBaA
+FBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcw
+AYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMu
+aS5sZW5jci5vcmcvMEMGA1UdEQQ8MDqCGWJvb2tpbmcucGwtaWQ1OTIxOTI0NS54
+eXqCHXd3dy5ib29raW5nLnBsLWlkNTkyMTkyNDUueHl6MEwGA1UdIARFMEMwCAYG
+Z4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMu
+bGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA9lyUL9F3
+MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF7mt+MoQAABAMARzBFAiEA94/4
+cdVTT2k+th+mWMZHHSUYU//rZuUQDKnH7avcc70CIFgdfsnRBJU48MPegPjf/Xkz
+xJGcGUJ3FtY+iZ+k8mHNAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo3
+2RMAAAF7mt+M2wAABAMARzBFAiEA8T/Neqk6Wvn7GCx49LPpmD1ztD5g9lZUdRuC
+5xlPRZICICPzZdWtS3rqffmJ+EeLr3qn9+v8foneEOU345dxMnxwMA0GCSqGSIb3
+DQEBCwUAA4IBAQCIaQdJA0RJr/yK1Mp7wibSf9fn26WixrK2EuInnfBjiGETpeuT
+N5M+k74Iwltf2tAAJGkBGqvg4VNokRzlI0Yvu7jO1L32At2PAnR+1YQXFUgQdoi3
+mGJTo72MZ6GKGeqqRnRg0LCbaRzNbhDFIdP6VkdGS5fpGjNJ+MIL6G6P5ijvCJaJ
+/zAVnCg+DjPa2QJa78WoCTMO3ZXAfHngHO1N/YyqVD2ZSPLDjZw0qqCEkIt1ulf7
+GdzXOy5j9wcrcAQJF/V38i6dyrL7SDrLV7WYjz9GTVu5m22cVY54TRywAWhu1YBQ
+Htnkk41s/mfXHqSOYgAKTTmcPCdZVMNdbXBq
+-----END CERTIFICATE-----
+subject=CN = booking.pl-id59219245.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4611 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

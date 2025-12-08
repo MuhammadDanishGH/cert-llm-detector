@@ -1,0 +1,65 @@
+http://catchystore.co.in/7ge490/wellsfargo/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = catchystore.co.in
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFijCCBHKgAwIBAgISA4U7sXyElMuHiQcp9Dy7bKdvMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MTUyMzE5MTJaFw0x
+OTEyMTQyMzE5MTJaMBwxGjAYBgNVBAMTEWNhdGNoeXN0b3JlLmNvLmluMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsHVbufJIWhC4/xnLzYjTVwjzdvP7
+u9xNOHMBqLh8gFqV6m9fqq7KmS3OFzIFaeh8NAwPAmTjkXAfh0APhHQ46u+/hU3E
+eGRW31bvxDFvjTmqRX7yDXMXmEu3cBiwk72q1mKJ5TprLFppJK1yDvR73HfEMxSC
+vIlZQ3w2V7uDqOMrT2jy1W1WTrk+FfrTpEM2QbKsGeBPmYpkpFyq8uH3svdVbQCD
+l7cTXdyrjQSdidgT8GM7tHzAbOnHFchsaiTHNuAmL3P/EC/L/1t0wrU3S/3smWSt
+STKUZJU0r/aI8Q+K426BSbkB7vSqjNZqfArrSn+0ApdPZndlDpNk7gaOFwIDAQAB
+o4ICljCCApIwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTvp5uZq5oA949tI3UYTiOv
+13A8PTAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMEsGA1UdEQREMEKCEWNhdGNoeXN0b3JlLmNvLmlughZtYWlsLmNhdGNo
+eXN0b3JlLmNvLmlughV3d3cuY2F0Y2h5c3RvcmUuY28uaW4wTAYDVR0gBEUwQzAI
+BgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nw
+cy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgDiaUuu
+JujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAW03cAxTAAAEAwBHMEUCIDtO
+PZiEmyz7M9SPzYr5QEXPKY9kwsSbNcwpCJFiLterAiEAoJM5LnlpGMN1jIuVOaDn
+O+FXvXshfprZUx0N62NJt/IAdwBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4scdo
+VEvYjQAAAW03cAp7AAAEAwBIMEYCIQD1Aka6Gp+JLhS02rKFBBIE9UHZS5+qMlbY
+LQy5xRn2ywIhAKY4ONhMP5E1HXrYBo25UbimLkJXtS9z9+mNY3Tn72QCMA0GCSqG
+SIb3DQEBCwUAA4IBAQCTIQ7azlB3/wobI7OJ8tTDEhxZ+M1c3Avb3Y0fVkOb6Np0
+BKQ4bl/Ei445bx/waUpg/xAYfPpo2CvldZe4Av/V0ewMyD9eZunamVuMpHEPgywJ
+EU7Y0EG5VRMwA+SWT1jQSRKx7Gl/qpNrcdIrUZWVcI4/hjLuL9icRPnor/FUx7Zr
+OcAd3dKS4yW8ZgHE0k2Zr0rj/TmVpVuFN8phazdQY1s6TyE83X6wBIs2WSmPAOqJ
+p9crGeBE2U4xFi4hq04PQVqIfScWFb365z+eJ5X5t/+Der4p48Aksrip+P8vVD2N
+jg90nF8Lf/wo8hCbv2JQhTIQgkMk1VtDv73NwFvc
+-----END CERTIFICATE-----
+subject=CN = catchystore.co.in
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3091 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

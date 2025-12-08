@@ -1,0 +1,73 @@
+https://wallet-connectt.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = wallet-connectt.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGqTCCBZGgAwIBAgIRANbse19hy28hhGRPV+2sO60wDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA4MzEwMDAwMDBaFw0yMTExMjkyMzU5
+NTlaMB4xHDAaBgNVBAMTE3dhbGxldC1jb25uZWN0dC5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDcY1cMnQ9zuux9Q+MA9pkrR9OFZOcm2RdYPI1y
+a7GBO1M9MU+Iq2D3x//bsvtjEguJ0sVJBJ5r0rC+8Ly+5uuWzuIakHvHx409GGgv
+Y7tVyptdEGZJzXltAWTA2eotaD1wnHNOrWydF4nBcavYd5XOQ6VLIwWyQT8zI4Ba
+E0fqRON4Yenu5GxDlKm0m67AEYNYtseLOXW5E4uyoOa2yfqhpaX1ry2fqCvwulvW
+a1wotj5QQ3OZy/NGeEOIPRiNxAZDhER+N9XVfhEA5gKnz6fzQUmFWIraQ2g5n5bp
+PRK1pqCPlcj9xIXniOZJAXnGVFpzUwUh9wKKZMgy1KSSWF8JAgMBAAGjggOMMIID
+iDAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUzMr2
+8BHozR0MQQc0dUiQ4RR0qCMwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYB
+BAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMw
+CAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUF
+BwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1Bh
+bmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1
+AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABe52wjAMAAAQDAEYw
+RAIgd3rK7C/4ngjIbvSc1GcvAr6GfcvLs4wIDJkvAEkZeDACIAEy4bCbv3zLpTaO
+jUsVWIi7s+eEfdcCZjLxXwxkf7h3AHUARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1
+P9MzlrW2gagAAAF7nbCLxgAABAMARjBEAiAziK+Q1ffVLJInK1iZsBd0oWKvNs/f
+mm08JiLmCKG2WwIgK/OiPt/V6oIP7pd2zUuDj4M/5dr9VD3HeuNMj5WUrYAwgeoG
+A1UdEQSB4jCB34ITd2FsbGV0LWNvbm5lY3R0LmNvbYIaY3BhbmVsLndhbGxldC1j
+b25uZWN0dC5jb22CH2NwY2FsZW5kYXJzLndhbGxldC1jb25uZWN0dC5jb22CHmNw
+Y29udGFjdHMud2FsbGV0LWNvbm5lY3R0LmNvbYIYbWFpbC53YWxsZXQtY29ubmVj
+dHQuY29tght3ZWJkaXNrLndhbGxldC1jb25uZWN0dC5jb22CG3dlYm1haWwud2Fs
+bGV0LWNvbm5lY3R0LmNvbYIXd3d3LndhbGxldC1jb25uZWN0dC5jb20wDQYJKoZI
+hvcNAQELBQADggEBAA54glx3otWtZjRBA7Ozbolb+e5DT9PYBtAalZO7is74w3Oe
+0xZowfWqMGJrh6ZuhyPd52Dg8W6J6mvIBuAYw/EKdNFx00V6KpCJf7Esb2sAN/sC
+qwPP3j1RtiSH7NQAMzUE6IJbavL/AhAk+pDXRbXWiAyfeLLNpojEtM22deWgVXse
+vXKQ+CmgzkbtPR+XlfnkW07EX2LrXrkCtposLpz3m6i5N3E64ysgt6d7OKhyMRVy
+/CsApSlZSIDXJk65Rnwb9WOXQI0HEm8thtl1QUWRETB3CAn7DBYtLDPTxKLacYE7
+qLJ4woRlMir6xmW534MuDHbdY2QZf4RajbHqsxw=
+-----END CERTIFICATE-----
+subject=CN = wallet-connectt.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5144 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

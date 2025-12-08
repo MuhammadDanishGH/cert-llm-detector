@@ -1,0 +1,91 @@
+http://domains-google.quentinengland.de/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = quentinengland.de
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPTCCBCWgAwIBAgISBO5D+78jkSGzX7Lfu6hUeZ3zMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMDYwMjI0NTVaFw0yMjA0MDYwMjI0NTRaMBwxGjAYBgNVBAMT
+EXF1ZW50aW5lbmdsYW5kLmRlMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEA4tUQGL2s9F9qJPUg/NnnZMX0QN3SI9c04XfcoX5efpFYWoEIIT8UztouLBxy
+TMlNzMcS4GaSpQsqkKoiffy3fLHPxPvZmrm+cRdpBSvucjyZbDMuyCOTo/2WauNU
+7+JssxPuMZk0fkntNqBSYqFlDc5cWXxC4GH4aiouVxLTvbq3LlyQXgae0C1BaJ2U
++lO+jFWnwC0CZibe77uHyHJx+hnL3Qd39M0/zwElv6mxiNNbFDc25iBV6m88EbWD
+ReTic+QvfbSA9IBOecPYseq6rim4TqA/SDOAZBjSRBEkE8ag9zO/KmBcrOK8wh1l
+duXrRY2zAElE/aG1F2f5tonYmQIDAQABo4ICYTCCAl0wDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBQipBxOunEcMQL3FlirUMKs/AFQhDAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzAxBgNVHREEKjAoghMqLnF1ZW50aW5lbmdsYW5kLmRlghFxdWVudGluZW5n
+bGFuZC5kZTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYG
+CCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB
+1nkCBAIEgfUEgfIA8AB1AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2
+AAABfi1rB/YAAAQDAEYwRAIga0lzr1ayE1BfknUhv+ScN0yt5eenpGdoMVAGexBK
+XIsCICRU3Dk4EXlKykshyD0AttCttnuorsSkAbR1HdJC4ucgAHcAKXm+8J45OSHw
+VnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF+LWsICwAABAMASDBGAiEAimYcpDIR
+M36P/20hJ0XlM05qajO/aA64BSCrE+FqqFsCIQCOAwxT/EE9ylzRll6mSx+DcIrI
+mcMecRlC3DWeuHuFYTANBgkqhkiG9w0BAQsFAAOCAQEAccsLG8fjkj/R90vkWuZE
+I8Cyeqduf6lSV8+9fWE4Qf3mJOcZK9cXv96l9pTua4JBxc71gPHYGKkB2+v2KkHa
+vMFpocwF2RfA3nPKN4rhZwlX7rVrrT36cHNzWizyaATT84pwwjfIzIeRXarn9CbY
+wDo9MzVoLUXI38qQyxYC8jgLNY+gcqFCkoY7ExpUYjVyCuowPU3zsi8zTfJTBZib
+ZNvvEwIBHXQ23BW2Vb/5S0GXYaMeSw4WZYuryyKRQEojHswkzr09DDApcfa28YLA
+vhj3tvJbq2Rt3+X1zi+rafyuA+2c/v309flR7uw21bNmByTHiAxBRA9gTWsS5mS8
+yw==
+-----END CERTIFICATE-----
+subject=CN = quentinengland.de
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3364 bytes and written 452 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 2CF78AA36676839D3E732B32881652E49D36B55BDBAC8414EAF00AADBA696FF4
+    Session-ID-ctx: 
+    Master-Key: F3B3A731C3A55FC7CF978C3564F533FB083D00E848822D7146CBF60D7D2B319F10254B72DB520C017D4918C58A80872A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 36 0d 54 83 d1 6a 9c 2d-9e 2c 44 9c d3 3d 7e fa   6.T..j.-.,D..=~.
+    0010 - 3e 37 db bb 46 c9 a5 f1-72 cd 79 31 1a dd 26 e2   >7..F...r.y1..&.
+    0020 - 17 21 a0 22 0a a6 b5 a0-f1 24 d3 4b 03 44 a8 e7   .!.".....$.K.D..
+    0030 - a0 82 8f 53 25 6c db 59-c1 ad cd f3 1f c7 40 0b   ...S%l.Y......@.
+    0040 - 3b 12 74 9e 0a ce ec ed-61 f8 e7 54 97 45 0b 69   ;.t.....a..T.E.i
+    0050 - 66 30 c1 03 63 04 fa 12-cc 13 77 1f 10 70 49 98   f0..c.....w..pI.
+    0060 - 63 36 eb 97 f8 90 43 c7-65 d4 b9 b5 07 36 0b c6   c6....C.e....6..
+    0070 - 86 29 9e 8a 02 c2 de 3a-85 3e 20 f1 e9 98 c7 6a   .).....:.> ....j
+    0080 - ab 7e b9 16 e8 33 da ac-d5 ff e4 10 26 46 a4 a6   .~...3......&F..
+    0090 - ad 83 ef 5f 7a e9 c9 26-a6 3d c6 cc f4 3e b9 0a   ..._z..&.=...>..
+    00a0 - 54 b8 1f 57 24 10 93 22-18 0a 14 fe aa 56 a4 05   T..W$..".....V..
+    00b0 - 9c c6 85 9e c4 3a 78 8d-57 76 99 f7 11 96 0f 92   .....:x.Wv......
+    00c0 - 95 80 ac d4 8d 69 10 6e-5a 41 97 45 c8 0f fd c7   .....i.nZA.E....
+
+    Start Time: 1641544382
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

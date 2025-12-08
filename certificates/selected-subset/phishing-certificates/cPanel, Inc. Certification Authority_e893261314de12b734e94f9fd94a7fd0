@@ -1,0 +1,69 @@
+http://mail.ukrsibb.com.ua/en/personal/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ukrsibb.com.ua
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF/DCCBOSgAwIBAgIRAOiTJhMU3hK3NOlPn9lKf9AwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA3MDEwMDAwMDBaFw0yMTA5MjkyMzU5
+NTlaMBkxFzAVBgNVBAMTDnVrcnNpYmIuY29tLnVhMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAu7B0fGyoIjzxKnbUTj4kHI5GrLar9MHGXnHcBxr1yMqK
+2MhEeuBNmJaLvR8WfF+O/TYdQ7JV8/IDYYEe8FjQUgwDbCq973gTs58Fl39RuKFH
+4VJip8KMk8Xh9mTC9XhjHYUwt9MiT3WWNaI+L1IWKvkD6rpgC46a9j6gMLhSA9l4
+lVwIhoPXkO26zxtrT2tEVXlJPXL4RQQniJeLSU8Kark6Oh/NjZpklkXsSrKFCJEo
+sSYdJyZP55ILc6Pq77m8L9elrG9qm19Fm3DsjoEMjLOTuKlE2jHknm/5Sd1fk3F7
+/o3nQAsKKXKDCTEvAjyt4u3LrxdbLlejy2PLiJDd1wIDAQABo4IC5DCCAuAwHwYD
+VR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFANshySsBbZi
+3nvjl0cFqN7PEHpiMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEB
+AgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeB
+DAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRx
+MG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbElu
+Y0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8v
+b2NzcC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQB9PvL4
+j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXpjBM4mAAAEAwBGMEQCIAok
+AHrmVt0o5iMwa5aAB4ShcrlsfaEpe7ehgvl9OrUvAiA53mHkX7RIiiurF/ooAEqk
+2r+w1t0jHQDxs81F6bt8kwB2AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1
+toGoAAABemMEzeIAAAQDAEcwRQIgFLJeKDlxwv5MgsiU53U49DCfwChRJs6RLC20
+hO1OX+QCIQCoUYzjD4Bd9RokPjbxTpMPVrzQ2CxUqB0HbykmJsv6bTBCBgNVHREE
+OzA5gg51a3JzaWJiLmNvbS51YYITbWFpbC51a3JzaWJiLmNvbS51YYISd3d3LnVr
+cnNpYmIuY29tLnVhMA0GCSqGSIb3DQEBCwUAA4IBAQA+L/id57e0DbLbxG+1Dv2n
+QX3bqylaQptj9bhSVQapUTQ9kLRCF13e9Rx9lnd0+cMNx9NcD/ZR2errVq1AT2Sh
+QGXGSbebckNdUsPwGIGrkhmuyKmplmHC1m6qupCPMLYV9V9gLIzUustAeo2ElAB0
+rTnJuUY5dLS33XgzPo0J2UKD+abOplHk6wzcVOeiHoioPR7+SLdLUg0DaT7ym3qk
+awkjn4Pt5PIxPIoW26g2Xau9dpGwl2ae5a9CQF3W70+9Ct5iEpE2EBdbFawcdghD
+RFIf0xkfuXpNKg96hkc2MKbNTJGNl8pciwi/MtW+NOShzaC9RtbKEoPXioTJb0pG
+-----END CERTIFICATE-----
+subject=CN = ukrsibb.com.ua
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4971 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

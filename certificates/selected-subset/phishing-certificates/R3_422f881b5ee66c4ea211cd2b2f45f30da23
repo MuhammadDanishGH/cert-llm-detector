@@ -1,0 +1,66 @@
+https://facebookhelpssecure.gq/higgs-domino/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = facebookhelpssecure.gq
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTjCCBDagAwIBAgISBCL4gbXuZsTqIRzSsvRfMNojMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTYxMzA4MzRaFw0yMjAzMTYxMzA4MzNaMCExHzAdBgNVBAMT
+FmZhY2Vib29raGVscHNzZWN1cmUuZ3EwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDYMiaKDTNlvzaXYywmB177T6xE/VxzTeHfNOIsGgSKARsjX23Pj4Bo
+I+p4zQSHe5ngIhhr2qgm9ims1sL0QjQarGvERfQxupyfXwMZGPGT0bJrhVYUT/LA
+J9xMpntXI9D8bDO5vWhPcIB1ycHni0mk1VikpcVAg2UwkcKCIAVmupZpsZ+Gi6eg
+lLq1jxe43/wi4G0KlbAEFS7nQ524wdIPigzwEppbhc3kRhmp4bIeuZ3hCbF2gHtV
+dFupfD5zMmmXAAYWVqeYjSTL6JFbKv1lGrPNjv4jyi7dQPIGV8gnSyuka/lZE2TS
+xN8DFsTkRLjp5EZwPE+Q9V0jcZS7gJ0rAgMBAAGjggJtMIICaTAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFMnd8uYL6vRZ3pS5ju97VQY3HhylMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMDsGA1UdEQQ0MDKCGCouZmFjZWJvb2toZWxwc3NlY3VyZS5ncYIW
+ZmFjZWJvb2toZWxwc3NlY3VyZS5ncTBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AEHIyrHfIkZKEMahOglCh15O
+MYsbA+vrS8do8JBilgb2AAABfcOSwV0AAAQDAEgwRgIhAK4dqMnxl4HzKvy3eU0s
+NmrOqoU2+37vI3QMhSo+54PyAiEAzyeYTX1CzSDhf8oIUXPT5wWGAMoGIbrTB1DK
+MGG/ITQAdwBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX3DksFp
+AAAEAwBIMEYCIQCgDilUYl1I3m7DZd43T1TrZKFMpNnXaYEsAqLD/cUyZAIhAOHP
+tsP91eGSxSC69WiAZTJazn6h/C5D44O5KMx8210MMA0GCSqGSIb3DQEBCwUAA4IB
+AQA5jIfFMQ/FteDcghnA9cPScCSWzvKGcpwQtadNFORuZbBiue0FUcnKQgY5DHDT
+/IFATNbZl+TfcVW/rA5MADMDJeurU0KS3qnR0X/OLBPiXMUDUS3uXP9E71cHRbmn
+9VlKWo8DdQ79bwGvQDZ05wb05xgC/dYuKzSr6NLKH5irwMGprnC8YMUSZWzT6711
+zyXQO9Ib5i+PoW62jHRH8MKxQvWH4/HSnFfdfYcq1w9OEWJlTQIRS1JBBSoByLYj
+woOs2njjVBUat0FymiJV6HH1cvQCsYRvc/LyCV1TJ/+XVk5FSHJW+4lchvOb9IPj
+SmHxe7hgyGZBjXhv4wWr2Ffa
+-----END CERTIFICATE-----
+subject=CN = facebookhelpssecure.gq
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4548 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

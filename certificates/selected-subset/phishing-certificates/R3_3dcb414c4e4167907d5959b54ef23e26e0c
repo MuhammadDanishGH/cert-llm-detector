@@ -1,0 +1,91 @@
+https://backend.alcpmkgw.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = backend.alcpmkgw.top
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLjCCBBagAwIBAgISA9y0FMTkFnkH1ZWbVO8j4m4MMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTcwNjQ0MjlaFw0yMjA1MTgwNjQ0MjhaMB8xHTAbBgNVBAMT
+FGJhY2tlbmQuYWxjcG1rZ3cudG9wMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAywveqwesPjaU+sT9h7/3gPK6KsY6ZjrZ1aY/QUcNcJiScqRdx5LVijCR
+eX3nvejVM8aTHazog2JHDoMdlIG8Euy5SQ0NBpttqSGWmuELbVtc4mHMSXpdc175
+ChOcLoGXxTLgyBXeKFgKomvE9tls3vSibweddeMqxSQJjI7cv8QuXO/X/Wvuiq93
+8yhzgP8UUXfJ1/HUasrpIwMSWXAv4SIw55ET9XNfM6wRdE9A2asGF9s3/kCiSbIX
+z4rXKnykHZNH9/KtOjGuUDFss/Af8Bq9kxufqP8E3mzQJARTPUxS7uAbXlaIK3iI
+W3pR12Pgns2Upa7PbjS1fXV2sg4k2QIDAQABo4ICTzCCAkswDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBRo/49VKYKjHlToL+pNYVTmZ6HrijAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzAfBgNVHREEGDAWghRiYWNrZW5kLmFsY3Bta2d3LnRvcDBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB1
+ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfwajwkAAAAQDAEYw
+RAIgOVAcZWycIMCpbF25y3omMyb983TaiM2FhzuOM3nOZqkCIHpBke5Qfz6bFUgm
+C6mnPUn71W6/5NbVMTpNu5XOREtdAHcAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQAp
+Bo2yCJo32RMAAAF/BqPDtwAABAMASDBGAiEAiS7plbEaXJvBkQ0esd77WI+YhF2U
+euAphFiYOCkVz0cCIQCsqznZuOI17bBmR3Q12mjJQ5VudqALYS0G2qm90T4HBDAN
+BgkqhkiG9w0BAQsFAAOCAQEABI/mA8kxD4c4oTM3NTvMcXbmcEdrT/Ubb0XoN5Ad
+ceVUTvSHSZvWNqi23bvkS8Sq0KdYYm6qXL5fuEysnaYhTWu6c+urNdyuo3IBXP5x
+ranyh8XqqATmPsUY0zGD+4cAHgY/kgze/2SP+ghMCsPNCoTn2MLuSYHX1q6/pIvs
+3V7zHxDxsZCn+6M31qzBm3FcgDZrrNbpyHuBFNGpZksDCQxUTP0IrQX64gw10j0c
+YguStzjc0amj9VCavrNeQHg8mhlzhCSbez/pOec/1oOappyCUHRq0Td5R7e2N0MG
+LIsqz6BzwnYcP7toMGw9QcW1TjBs1avJW0BPQuMIW3Ln8A==
+-----END CERTIFICATE-----
+subject=CN = backend.alcpmkgw.top
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4712 bytes and written 440 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 66A4661C9F33ADF6475F2DD9CD8AF12A1385A7D9ED4AE6AA915EE392D5FDC797
+    Session-ID-ctx: 
+    Master-Key: 9084FE858C7D91C09CE01BB32DBDFF934DE886B6B10ABB1E7432B26E05F5F18FB115212D6F3F85953A3602C4851A784C
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f1 db 40 c7 96 bd 6d e1-fc 52 31 ef 2e 7c 15 47   ..@...m..R1..|.G
+    0010 - d4 b0 97 49 bb 6a 76 86-cb e0 18 a6 93 29 c9 fc   ...I.jv......)..
+    0020 - b7 f0 db 59 81 21 54 e3-8e cf c5 10 1d 28 50 b0   ...Y.!T......(P.
+    0030 - 72 19 b6 02 20 0e c1 46-a7 c2 fe bd d3 19 7b b7   r... ..F......{.
+    0040 - 38 3b f4 3c 12 6f bf ec-63 fc 93 43 71 3a 6a 4d   8;.<.o..c..Cq:jM
+    0050 - 39 7a 28 74 f8 59 65 84-de d3 e7 1f 0c a0 14 fd   9z(t.Ye.........
+    0060 - 79 bc b9 bd 79 ab 7e d5-47 45 78 8f fb 10 eb e9   y...y.~.GEx.....
+    0070 - 13 78 3a 2c c1 90 44 cd-06 14 a9 51 7a 41 04 b2   .x:,..D....QzA..
+    0080 - aa 5a 8d 23 3e 83 b0 f8-e2 79 83 14 59 d6 51 f3   .Z.#>....y..Y.Q.
+    0090 - 23 e4 25 96 f0 87 e8 b4-fc 5b ee ff ad b5 a1 47   #.%......[.....G
+    00a0 - ef 91 6a a3 8e ab 23 0f-de 98 8d 90 ce 6a a2 8e   ..j...#......j..
+    00b0 - e6 9a 3a 35 c6 f6 91 36-6f 0e 73 9a 09 12 48 d9   ..:5...6o.s...H.
+
+    Start Time: 1645314056
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,92 @@
+https://www.mouzie.com/wp-admin/network/uu/inbox.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mouzie.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFwzCCBKugAwIBAgISA4pI7CIn8Dvs+fcDLvbMPwYAMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xODEyMjcwMDI5MDFaFw0x
+OTAzMjcwMDI5MDFaMBUxEzARBgNVBAMTCm1vdXppZS5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQC3cfjIBJPukRmmnD23xlE2r7Hy1lS9fCQzU1S7
+SMs8uux1CuJQxCZbUJ7nez8qBgOT1fp8rCd+ZHqriC6EX7EoCkF5RP19D72vqZmR
+AA7VDqoqO8l0kLvjN76LHhCAPGChFUaK+y+dqEn3fKAGdDWeNloTZrLeIVN13Kzu
+AGVo9L3pBe96abD1oBfuVpUhlhyHvMpyZb562Mxh4Sw+ridyScasKSShCaehgIIt
+u4Sl0ybSx8CMy857oJiy4NKvUz5/oSuTdyFFnulTKEeL+44uoRJHMG6hID8CcT7A
+d0ZCM45crn/1CRfD5YD+oNOc2BWVVxJ2WUPsyu0ZGbWs2XCpAgMBAAGjggLWMIIC
+0jAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFBCvy/0rcriyPaNjiD1hBZwsBk8UMB8G
+A1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAu
+BggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAv
+BggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8w
+gYwGA1UdEQSBhDCBgYIXYXV0b2Rpc2NvdmVyLm1vdXppZS5jb22CEWNwYW5lbC5t
+b3V6aWUuY29tgg9tYWlsLm1vdXppZS5jb22CCm1vdXppZS5jb22CEndlYmRpc2su
+bW91emllLmNvbYISd2VibWFpbC5tb3V6aWUuY29tgg53d3cubW91emllLmNvbTBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQE
+gfEA7wB1AOJpS64m6OlACeiGG7Y7g9Q+5/50iPukjyiTAZ3d8dv+AAABZ+1Hb4EA
+AAQDAEYwRAIgZ6FSkLFfKF7iaTA3UjlorQpsU65hGtYqeQu+auTFZfICIFWVG32F
+rNeLYNib9LjiDaf8VeAIgAtsRIOEuENvgjzHAHYAY/Lbzeg7zCzPC3KEJ1drM6SN
+YXePvXWmOLHHaFRL2I0AAAFn7UdvggAABAMARzBFAiEAheCav0mL8ix/acGenYtz
+NAluQJqzqtMnkseiWhMx5I8CIEPWQPBv9IITHTlwqEvLhjVF7WB2F+VTVJzJWYEi
+XezmMA0GCSqGSIb3DQEBCwUAA4IBAQCSXQrj/7BPb2rbrq5A/MVWmR6nZJKQoog3
+gyZSI91m3+vUDFc+fGNIgeyjvX/0+jqCLkvotF4LGR0ATKKZiZzJHQNh4cd1NsWm
+PDLwpGBj1H8ge9QrW0WRXOrYzi+gDjZRxnP51nPWqN9YQcJFphrayHOM+F1bnyKe
+YmSNwOBOriZ3bHLfQOKQeCiyIj6UIFci7CJ6Une4TsEmncH5EHLBFxdJHwdmPlff
+g4MxWGle3jntae62w+aVhbkLovDwjPg5PpqWZnPYTF0cULgWhhpLkvtqhqVue3kE
++o1Y7w57BeNtbhUx8AzeZH8C/WSDxiqDp6BIO1izjx+noOz4BgNS
+-----END CERTIFICATE-----
+subject=CN = mouzie.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3317 bytes and written 419 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 118158A334AECB32EEC2AE7F85AF49BA853DD379FB6FCCA8F7035EB646881C82
+    Session-ID-ctx: 
+    Master-Key: 4EA5764DA916E98C117D4633B0808D363AF23F7CEEBF900D01FE48952429C998F61B70D504AAF5C5D2F1A964143F3059
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 9a f1 68 93 4c f1 7b f6-ad d6 12 04 eb 7c 8f 72   ..h.L.{......|.r
+    0010 - 2e 29 9b f9 6e 57 8e ab-72 12 ea 34 03 5c 8c c1   .)..nW..r..4.\..
+    0020 - af 5b fc 73 f2 65 00 67-e8 b4 c8 11 5e b2 ff 0f   .[.s.e.g....^...
+    0030 - 53 f7 dc 57 f5 87 cd 3f-8f 43 57 88 57 a3 cb 69   S..W...?.CW.W..i
+    0040 - 83 c9 18 b1 58 f5 e9 8a-33 08 a4 3b 40 c1 b8 ea   ....X...3..;@...
+    0050 - e1 d1 e4 b1 59 45 ba 5c-ed 94 57 07 71 7a 9b ac   ....YE.\..W.qz..
+    0060 - 61 cc f7 15 9b e7 80 2f-3b e3 76 c5 7b b2 d5 4c   a....../;.v.{..L
+    0070 - 62 4d 8f b9 b0 55 19 70-28 40 76 2c 14 6d 89 7a   bM...U.p(@v,.m.z
+    0080 - 4e ba 31 60 3c a5 ac 27-a9 1e f0 b0 c2 30 c9 1e   N.1`<..'.....0..
+    0090 - a6 32 9d f4 1c 07 c5 8f-cd dc 3c 43 f8 da 0b d4   .2........<C....
+    00a0 - 9d 70 95 3f 24 04 6b 5f-0e 96 a6 69 d4 64 b9 68   .p.?$.k_...i.d.h
+    00b0 - 55 cb 1d a0 a4 0d fd d1-72 0f 82 2f 39 5d ca db   U.......r../9]..
+
+    Start Time: 1549893617
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

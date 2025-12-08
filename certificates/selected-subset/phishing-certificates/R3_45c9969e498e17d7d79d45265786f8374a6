@@ -1,0 +1,66 @@
+https://crcxlab.ru/BANCO-CHILE
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = crcxlab.ru
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPTCCBCWgAwIBAgISBFyZaeSY4X19edRSZXhvg3SmMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTYxNTI2MTNaFw0yMjAzMTYxNTI2MTJaMBUxEzARBgNVBAMT
+CmNyY3hsYWIucnUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCemBQj
+vw7Zi2KB42sBzK5QSlZKlW5BFXHQR0Jz1gLK52VDpd8qQMwneeO71VYpnOYCUKjZ
+Unqg4ENbcD2G0RWorfQekec7bvLie+aHKIqxLm8AkGl1gza7JxRy/ceYrz1pEw1/
+4K0ZtiD8rIFRDJ+chdHP97A/DmNoueJ5gdLfwUGmo3CdWk/2GnT2aAzlX9xOjA/O
+co/OBUv3etY6AZypD618wSbd3UePDQqKB1SmI9xY3FHfDLNSREs4Ga0hv/htqMYl
+ChK8XuRLlToYUZ9R4zZwcZzT/rczQhM9aLAZM1oLdxpXmSym0Gk5A9woDGjYUPgO
+H0LwcltlBHZQnYmXAgMBAAGjggJoMIICZDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FKJedpzqB0Brc/QZRYjYk3xzoIVrMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYf
+r52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8u
+bGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMDYG
+A1UdEQQvMC2CCmNyY3hsYWIucnWCD21haWwuY3JjeGxhYi5ydYIOd3d3LmNyY3hs
+YWIucnUwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggr
+BgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEGBgorBgEEAdZ5
+AgQCBIH3BIH0APIAdwApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAA
+AX3EEMYvAAAEAwBIMEYCIQDjc0rbi3zogYPNXyz5tLxwnIMpPVCvD8EJR95USY+K
+hQIhAPWgQ/NDVo6cFM7gp7mT87uHVCdQ1aIcQWfKcSlcnZWDAHcAQcjKsd8iRkoQ
+xqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF9xBDGYgAABAMASDBGAiEA/Xis+657
+rZcnjNKS1C5gnzeQAkEHtLNAz6bAjm/+hZICIQDz9i5fNFrrBq8T2ig9bUWK7Iow
+i/7XBgCepj3Bx8uhqzANBgkqhkiG9w0BAQsFAAOCAQEALQ8b79aPh7mmi5nKiSEq
+KtMz5HodBKgxLYruFw8lwHiCl3ah1oVyJuYIo/1nPJ/4dvMAHXpcefIta9BCG3lb
+k1zx8gt3mtSbDRRxEy8Ead2kQvJPbh5E963GCck9Dc4oVzZYrmK8+VbWQyod6ZiW
+9WvCVxv5dNHnrlj04cZoh+8zKAS+CDhdAEq5f/QM2Sddc2d+U6fEt0dyZ9fKf916
+YZHlIhfuVQtWI8fNxkG/dMItYixM6JFUniZqc0ipYQxAwDbqLy76n+gNDkJpin8q
+h2phsjNRx6PtGfcQagBSS7RgjP0CBGsyotWyom8X4FR++YLWmaE6oX1JpD3dcoYc
+IA==
+-----END CERTIFICATE-----
+subject=CN = crcxlab.ru
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4531 bytes and written 384 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

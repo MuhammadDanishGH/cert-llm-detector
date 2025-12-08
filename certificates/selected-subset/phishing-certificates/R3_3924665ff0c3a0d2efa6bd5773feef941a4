@@ -1,0 +1,65 @@
+https://www.co.jp.sijnhno.cn/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.co.jp.sijnhno.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLTCCBBWgAwIBAgISA5JGZf8MOg0u+mvVdz/u+UGkMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTUxMjUwMTdaFw0yMjA1MTYxMjUwMTZaMB8xHTAbBgNVBAMT
+FHd3dy5jby5qcC5zaWpuaG5vLmNuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAxrMJPlsJj4PG3Z+Nty6iwzSxjRWIPML/FE2wEAnkbz9jAX0iaQQ1zR2d
+gy7u4IGhymNw9MnQJwAcxmRtYVAFvuCay7ylm4J2GZ1UyEVe7R5z87x1BUH8QEA6
+mDOv6yvtIinfIYCx4qt3339jeJBdxMW47iXTYxO63KmcV0ak3c0wTMoHM2A14tHn
+uMDX/kMWOKeLcbXRH1RY/vJTH4+dhDy6lQUSWl1tg8qmFVvCt34xqLfmN0taP1xi
+G3TQZyU+6rqSN+obgjowRmsis16HJ+myTANaf3xJB4QXk5BaDfJ8iZHqFYzUwdWb
+KXR/vLb27tAcYK4SL/C31D2Jyep5nwIDAQABo4ICTjCCAkowDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBSoYOKSRu1P93o3LM7abls1K6dpizAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzAfBgNVHREEGDAWghR3d3cuY28uanAuc2lqbmhuby5jbjBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1
+AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfv2l8CoAAAQDAEYw
+RAIgdVLfDIMjEvu5UagIOXKqFRh0BXgkt1exlJ18bDqyK0ACIGbdkbWoF8u3T0TW
+UAclczi64kbUPfAZSCjURSmUgCdcAHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4
+havy/HD+bUcAAAF+/aXwTAAABAMARzBFAiBrvlA9/i5O/i5e32q6qvePrBAZpcqH
+JiWe0c7HdB22JAIhAKFpDX918O+3nC7Liqq+fTlKqJf7J4Vv3I3ZGDAW7v0jMA0G
+CSqGSIb3DQEBCwUAA4IBAQCLtZoUnzdvKpUNE2dgvIOn1qzy7ewoBzx+FBEmy0DS
+3Z8LF69l4d2rCE/XelovBH1XVKpKrWnVGUOmO3/W+qok9WmtdS7a5d+IrFuGGwvH
+QUiq6ue4TklpNdXPqMqQefXBEJgSdDqdepLovnIpGJTqc/E5L66e/JgW2wEWQRDX
+zd059QiCsJ6txRv9caGoUYHt1yqq2NmssA+CKMQy0U3pFbVA2MK/ZWv98L2mGTUM
+gLCoR/2PBlHHJbIXQAXV7/uCfIEfCgRMVNZz5dYbhaVh7pkas2x16H+eHMfi7IaE
+wb0xMp379997qzCdd4ITDklt8i1552ltcNhY2VhE05Tq
+-----END CERTIFICATE-----
+subject=CN = www.co.jp.sijnhno.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4585 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

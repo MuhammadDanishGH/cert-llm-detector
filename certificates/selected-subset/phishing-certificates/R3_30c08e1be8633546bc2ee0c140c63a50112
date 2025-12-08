@@ -1,0 +1,67 @@
+http://stupefied-goldberg.178-128-236-13.plesk.page/0774/china/index.php?login=jahangir.pasha@matrixlabsindia.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = stupefied-goldberg.178-128-236-13.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFjzCCBHegAwIBAgISAwwI4b6GM1Rrwu4MFAxjpQESMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTMyMzMyMTVaFw0yMjAzMTMyMzMyMTRaMDcxNTAzBgNVBAMT
+LHN0dXBlZmllZC1nb2xkYmVyZy4xNzgtMTI4LTIzNi0xMy5wbGVzay5wYWdlMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4rN1bSXAI58mFcHyOMPh7owu
+nIl2h5GdUvm2h6qEzSJFCAXn9ksOzf5C4pILGJrdKLuK+ZrmjLmbz+SiqQhkRHD1
+5xwQCY71B5PZRq+FS3ML8qjLaLh+FT/PCbV/ZaMBtKeZOBUd2CA+XhkmDXnZeQL7
+L2oyVwvO9F6RTJnPbIdB/ofkozev8KOUJSr1JLqn9eln8HqOzPAfN+UeaCxLYUxi
+UzK2PcLY1biGv5eHZi2gVUkS7hwfHqQzo2HCUJxIVX6xrN/HcT+UhHjVIb+UxM4z
+VzC+T7d18uEGF7oD3VzDpICEkTZUSKR/OjljjXKzPYkK1lYai9PY1ZPflq0ZgwID
+AQABo4ICmDCCApQwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSLfoSVxwEL5/eERRUF
+32wV5/OGgTAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEF
+BQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggr
+BgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzBpBgNVHREEYjBggixzdHVw
+ZWZpZWQtZ29sZGJlcmcuMTc4LTEyOC0yMzYtMTMucGxlc2sucGFnZYIwd3d3LnN0
+dXBlZmllZC1nb2xkYmVyZy4xNzgtMTI4LTIzNi0xMy5wbGVzay5wYWdlMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDv
+AHUAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF9tlqtbQAABAMA
+RjBEAiB4Z3oHhzTqFBjbzhQcD+1n+xwdysgW7+bkQRFo4iahdgIgTIoFiDzJEAKp
+VzWATLyaY8mh9OixCuSVI7PlGtNUE+cAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79
+SbiFq/L8cP5tRwAAAX22Wq2RAAAEAwBHMEUCIQCMEm1xlv7BFiIIVbiI89AE68vi
+pFOeDZegDO1c6eJnmAIgadnaFcq+uLNRWYWLIxQqLFRdAGCSi6rMcdyJFciN8oEw
+DQYJKoZIhvcNAQELBQADggEBAFKGuDAJ/y7F3CVQxiAFayi//Baf/+cYQIDsSozp
+O5poesmDHEKtY0J0wugd2Jz2bwQ7Ub60RNpeqWgcVaIUkmQ2Od6vS4oL+oHXKXPc
+n7W51/UomoWdPotxN2h6cHrpASQRDaJakGcqT/8puwGbL/MUP7PsLHtFRs0ej8hX
+JG09AfxjXHbzDhDHMwkEtAAGm75YnvRCzEWERYIvWjXNSZMVZUuyA5PaqTpJ+eJ4
+VvT3qer4SCK/NQdoEs5+hMxP4kZRULN8JCSqB5xoe3sJawbFuVnhR37hSzesOWzj
+yMAZDzVPMj1PrV0cJkZIO1GNCQ+WJukgQL/G5GyCfZ6P5qw=
+-----END CERTIFICATE-----
+subject=CN = stupefied-goldberg.178-128-236-13.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4683 bytes and written 418 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

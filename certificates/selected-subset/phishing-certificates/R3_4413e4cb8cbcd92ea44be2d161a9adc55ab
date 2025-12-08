@@ -1,0 +1,65 @@
+https://sncb-caed.com.hghjnr.cn/smbc/smbcupdatebill.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = sncb-caed.com.hghjnr.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNDCCBBygAwIBAgISBEE+TLjLzZLqRL4tFhqa3FWrMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MDkxNDA4MDJaFw0yMTEwMDcxNDA4MDFaMCIxIDAeBgNVBAMT
+F3NuY2ItY2FlZC5jb20uaGdoam5yLmNuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEA0me1GcGn+V2hwEOUAswsChAO+XbMIBxabB9XJG9GfFvPwrFqQy3i
+cfMPbadiwDoGsnxL+nyLc6MaNGOxvjKqLo3gCV8DioChInywiMeAMiuUfLPdRRWn
+P8SdGYDFlATxcv0I2h1O61J4YhcuLSnwOV+LI9XHrGeA1Ui8kkU56Z8z1BKI6BA5
+dgiphlnuOxe4v5k6QrRnqUm3fcsTA/JqhS0K3mSUHAV+ggWtpSjv7R5mN0yYEV3x
+m7JLLwiP/KoNmeg9SNAINTVoe+k/rfipHeXMn+FzK92ukhNOeclUyaNs1/gMDb96
+gU69fRzPe3qwyypNY6jJN0jz0vLPLJQfWQIDAQABo4ICUjCCAk4wDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8E
+AjAAMB0GA1UdDgQWBBQvpI0/7Bjft2upiZqREish9nfPNTAfBgNVHSMEGDAWgBQU
+LrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGG
+FWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmku
+bGVuY3Iub3JnLzAiBgNVHREEGzAZghdzbmNiLWNhZWQuY29tLmhnaGpuci5jbjBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB2AJQgvB6O1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABeovPsYAA
+AAQDAEcwRQIhAPQl0DbozzIc1pYsylLJ6csCN7lhdxAYtROzZN3gCyNyAiAEzw3c
+ntov8w1twMYWl79uYtaKWp3BoYGljXwyKuwI2wB2AH0+8viP/4hVaCTCwMqeUol5
+K8UOeAl/LmqXaJl+IvDXAAABeovPsaYAAAQDAEcwRQIhALZ2TjzcBvAUHsWAvsge
+tR02cXmkUPLzkTvC+RqZOHIkAiBFbAMwSj7NZ8knCLnKP+UzxwoH4ONyqk2/grbu
+HmwrwTANBgkqhkiG9w0BAQsFAAOCAQEArYLQia6XfKonDduk5aX4VNMZqsJ+22Gn
+yZYcbxa5zLjuoM+CWX5hEiLgGIByNmQp0yb0VjJp5VZIg8GzMno3od5KxPWURvEB
+R8lgsDct4VInwWeJEMu/TBBdOdJOHnTo5dLGpg1lP/qNLHoL+mnsheJwOKIN4oM9
+tiMLV0fsqqdNxr2dLBn+Nu6WZBL5BgU6MNo8vy3NhDPIPtp0cxliSfb2MtrFifx6
+IZOHYfO3C8DsQX2BOU0irHvvLB2oB7qJpuWrILqMLMpftXNrV7/RD7AVLRNja5CA
+IVFmWDxwCHIMD3LqOgC9QXUd/A1aXJPyM3+kD9AyPUSVNuKYix1h7g==
+-----END CERTIFICATE-----
+subject=CN = sncb-caed.com.hghjnr.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4592 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

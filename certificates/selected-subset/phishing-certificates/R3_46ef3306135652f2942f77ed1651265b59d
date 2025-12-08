@@ -1,0 +1,65 @@
+http://metamask-extension.com.hsurge.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.metamask-extension.com.hsurge.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFjDCCBHSgAwIBAgISBG7zMGE1ZS8pQvd+0WUSZbWdMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMDIyMTM1NTRaFw0yMTEyMzEyMTM1NTNaMDAxLjAsBgNVBAMT
+JXd3dy5tZXRhbWFzay1leHRlbnNpb24uY29tLmhzdXJnZS5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCicIlOa4K4JXxVHqC9N+TYMgmBETAMOS/D
+WpHkX/RHAE7QdwCFGYPZrqPxaYg7iG5vNdH0/kxuaBdAqXuAVlsU1gbzZkFEmhbT
+Gh9bD7oL/OCqyffgCey7QkTO8LW7AgjRXhSRLoHLJa5Ip04XKxk6G5VsH2r+z+An
+y+rhNTR/BRoKuHN73jgBrCCrrcLzFcdtHh48nT+cD0d/+TXszQaEvdxo8ATE9HWy
+DKrbXxOW3CrucrB/xjFOZCL/VnJCSkn5FMEkEXdnEltb6cJTErL+gth7gspnyXSn
+p3mDuKtpABlmPjwzRRlXNOXEn89cqNRAGrpR++EjP1v0ZFE2wJGtAgMBAAGjggKc
+MIICmDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFLfa2sAy0I3fnYIg715xGq2J37Dw
+MB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkw
+RzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAC
+hhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMG0GA1UdEQRmMGSCDCouaHN1cmdlLmNv
+bYIKaHN1cmdlLmNvbYIhbWV0YW1hc2stZXh0ZW5zaW9uLmNvbS5oc3VyZ2UuY29t
+giV3d3cubWV0YW1hc2stZXh0ZW5zaW9uLmNvbS5oc3VyZ2UuY29tMEwGA1UdIARF
+MEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6
+Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYA
+lCC8Ho7VjWyIcx+CiyIsDdHaTV5sT5Q9YdtOL1hNosIAAAF8QyZITwAABAMARzBF
+AiApVsH5IrEWyKRJ/dFHXvTx692OvlGLyw8XtJBKd5sf3gIhAMHezHw4kKByMkDF
+UcCWILvqmqfa3YwvTUnriQEKQbHXAHUA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98M
+LyALzE7xZOMAAAF8QyZIPwAABAMARjBEAiAS7VUSDFb5zUtnL9S9Cr1lxwHO37BW
+/vChLUS9P3EtngIgNJVA1YPL4LDJh97wOaSY8NwCRuiCmV15L8vV/r7KAnUwDQYJ
+KoZIhvcNAQELBQADggEBACTHwO4qVzqt+FhTn03JviUvfzCGe+xT/wwC+8xD7mgJ
+ajTRqDjx5vmneVf+3n7EzYZ3c43Cz5eI1Yu7QIqMB8z8dbU6j8NUqbZ2m3dLRlXr
+FPaojDfLgMUGm9mR7Xlv/XVru5NmukbyHyCyOBA05rHGPVYy3x/D/mxOctuL4nBw
+cjzyWKvM3Of0cMfxytAXYQLzsxvJ3IbNZrzCrmHRjEwdU1IlXUwPxRQn7sOtXgNd
+0cRtT57TPRwXJgUCPGVjKDyV+oVwoX5dR8CYUUv1vw/tlLUg6OmyGQwLRaWO0haW
+yLfjtFVHDhGqdf4fqBQfIUsKQmh3vcD+Z14rJwsDd7w=
+-----END CERTIFICATE-----
+subject=CN = www.metamask-extension.com.hsurge.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3279 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

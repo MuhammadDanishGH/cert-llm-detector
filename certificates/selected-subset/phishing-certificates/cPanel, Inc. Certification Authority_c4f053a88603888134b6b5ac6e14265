@@ -1,0 +1,75 @@
+http://grupwhatsap-tante.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = grupwhatsap-tante.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHBzCCBe+gAwIBAgIQDE8FOohgOIgTS2taxuFCZTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTIxOTAwMDAwMFoXDTIyMDMxOTIzNTk1
+OVowKDEmMCQGA1UEAxMdZ3J1cHdoYXRzYXAtdGFudGUuZHVja2Rucy5vcmcwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDe7nekdyKC0sm2od7w+6Eqvhkr
+0sWR7yVjV/HIUQOgfawPsY5fgJUl72ODi91+ySKpaNN2dmcw2gCOsP5jQhstJVM0
+M2z1pxZlgpO3P46mK0Zox2JY1DTSKI1W+QTD+CyFv+DhE/Npxq2OxO0mJEj1PckP
+70bUEWaxa59xSSFfVFfGcV+tipW5iFeikbLZGEo7NeHds3BvKzL7f4tueWZuwdNY
+2V+6LNlAm7afDt5WPGpj/aZ1HwhkaDNld9N8Rvj1MCzOmTuPVAbz+7AduZ3yMIOT
+kl0uUOYQ16eNLmYWflgFQM6cNWHHf8D6IznCTXpRdHZnsxexhPrASEtpwrXlAgMB
+AAGjggPhMIID3TAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNV
+HQ4EFgQU4tpwdDZ4KkkjajTVCPpj8PBqZkgwDgYDVR0PAQH/BAQDAgWgMAwGA1Ud
+EwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARC
+MEAwNAYLKwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdv
+LmNvbS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwu
+Y29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3Js
+MH0GCCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYB
+BQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIE
+gfUEgfIA8AB1AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfdGQ
+CnYAAAQDAEYwRAIgRCCeq/VQarjanXTS1qO4/VTyGYryN6phYPBgtqcQqSkCIGZQ
+Sh6R/2IM/XDgJE6Q4Slo0MP+xXDxMDOUJ8iVQIhRAHcAQcjKsd8iRkoQxqE6CUKH
+Xk4xixsD6+tLx2jwkGKWBvYAAAF90ZAKRAAABAMASDBGAiEAk1R/ou1hPPKiYPgI
+aPLxp8dVca1n39agelKDKtltxZ8CIQCc9vYknBp8rdVxZsANDNg1Z2NXnBQ1Dg4B
+bQ7Lh7ekfDCCATwGA1UdEQSCATMwggEvgh1ncnVwd2hhdHNhcC10YW50ZS5kdWNr
+ZG5zLm9yZ4IkY3BhbmVsLmdydXB3aGF0c2FwLXRhbnRlLmR1Y2tkbnMub3Jngilj
+cGNhbGVuZGFycy5ncnVwd2hhdHNhcC10YW50ZS5kdWNrZG5zLm9yZ4IoY3Bjb250
+YWN0cy5ncnVwd2hhdHNhcC10YW50ZS5kdWNrZG5zLm9yZ4IibWFpbC5ncnVwd2hh
+dHNhcC10YW50ZS5kdWNrZG5zLm9yZ4Ild2ViZGlzay5ncnVwd2hhdHNhcC10YW50
+ZS5kdWNrZG5zLm9yZ4Ild2VibWFpbC5ncnVwd2hhdHNhcC10YW50ZS5kdWNrZG5z
+Lm9yZ4Ihd3d3LmdydXB3aGF0c2FwLXRhbnRlLmR1Y2tkbnMub3JnMA0GCSqGSIb3
+DQEBCwUAA4IBAQA6MMlvv2KSzktPzzQCOLWLyycZhrRGE3kIxzlFQ3y5g1Ys1IG8
+LSg8Dx6Sd+NBw6rp5usuLc4fizAeSJU3E4CuTSbSoTuWXK2yH9iUAwT5aecliwkg
+ug+g2bO48PVYJ4DCLhHwjSWhhzl730ruAWyFqYDTTO1I7uXLXteupyT5Ux23HJrW
+WcIIGQ8XcEN3nv+a4cVsLee6Jht/rQgE87KallSzJVboCCAWishA83uMa4ZBcOFJ
+R0PxnJNLpkrxk08vrXQ5aWBqb0Gj57m5g9G2cCFhHmr/AxLPKJpEOPFWviMsBFZd
+CUGVDSMnq6fz/UIO761tTKn8aJFv2VV83p2c
+-----END CERTIFICATE-----
+subject=CN = grupwhatsap-tante.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5238 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

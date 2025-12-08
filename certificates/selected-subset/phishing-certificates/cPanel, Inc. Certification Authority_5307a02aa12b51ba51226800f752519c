@@ -1,0 +1,72 @@
+https://verticecr.com/jstuart4u/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = verticecr.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGdTCCBV2gAwIBAgIQUwegKqErUbpRImgA91JRnDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDQyOTAwMDAwMFoXDTIxMDcyODIzNTk1
+OVowGDEWMBQGA1UEAxMNdmVydGljZWNyLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAK0in8h/2IkfAuLUreZ3OhWFTmn5x8uPKen/iDLdzrcsYHzx
+jCIu22M1K3noslXybQZ4Dawx9OhmSz3Cr7h3vrz4hEwxBWboeSJK2Ox+oaYVNgy3
+MKhnJQBUn4qqcx0XEYOyE6HLs8t2KDDrjCyRF59/MAZaAhwfzSfLzfMTgUa6VFRt
+TfjboGMUW+AyCcsgDelpiOFAGI4COGRpN4GgnXJHRtrLR/5iKR5sGYVFSmLxguO3
+lK6wgcPDgCXz3bB7+ZqMb/D3KLth4/8sWa1Dpl4aA8VTKqEYMu2BWRPu7oXBsVUo
+J23Co3S2T7oyWSaVmY8plymyG9HAEdwuCIC1QS8CAwEAAaOCA18wggNbMB8GA1Ud
+IwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBQp+rXS3gcfqBT6
+QNJnI9t0yiT2UzAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQIC
+NDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwB
+AgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20vY1Bh
+bmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEEcTBv
+MEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJbmND
+ZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDovL29j
+c3AuY29tb2RvY2EuY29tMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAfT7y+I//
+iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF5HUhkJgAABAMASDBGAiEAvbhK
+7nAzvvnou+axTyBkz4W/opDYdWDrxePE1rx1xwQCIQDqrtnYDt1aUcONgavF/8tF
+qg7t3hspE7NfpmCUD6MGwgB2AJQgvB6O1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9Y
+TaLCAAABeR1IY94AAAQDAEcwRQIhAMR5FRPAaD9uUxjhY0Z4S1ZOrRzP3NCImkC9
+IBuyX8x8AiAr+3mIfCDz5BZSEhjRx37RKjnqQch3hxpca0DpcflTdjCBugYDVR0R
+BIGyMIGvgg12ZXJ0aWNlY3IuY29tghRjcGFuZWwudmVydGljZWNyLmNvbYIZY3Bj
+YWxlbmRhcnMudmVydGljZWNyLmNvbYIYY3Bjb250YWN0cy52ZXJ0aWNlY3IuY29t
+ghJtYWlsLnZlcnRpY2Vjci5jb22CFXdlYmRpc2sudmVydGljZWNyLmNvbYIVd2Vi
+bWFpbC52ZXJ0aWNlY3IuY29tghF3d3cudmVydGljZWNyLmNvbTANBgkqhkiG9w0B
+AQsFAAOCAQEARIl42DvN339M66zFpxBR9H8ZE06aa70BaXLvYEgMhZJMZkXqu5Z6
+bKMSovlduSL/Jxm5IEcX3lbrRCix1O/RFDwhpsftgX19MLwPoToTc6ajbw29fwGM
+vLE+WLeAlE4QmBl3eqRuuxPH2md7yqlojtPVZTGuEa1AkNtYoljAfV8FtkhaTFOx
+aMh/8cmaJ360VFJY5eRYV+ICLG+0IKFs7JLAXLU0fFh2Mje1vGfQ/rNTNzUYP1EB
+bDYnd/FRSpak82OpADds7lldcn6+2znexqNk5GkCfIYbx5g5g2n8pDgusOADAp4H
+N49L1LoXgXl7uyWFUulGqE9H+CY15aAkWg==
+-----END CERTIFICATE-----
+subject=CN = verticecr.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5162 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

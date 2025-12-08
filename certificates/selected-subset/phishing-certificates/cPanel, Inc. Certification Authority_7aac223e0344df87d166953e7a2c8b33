@@ -1,0 +1,74 @@
+http://ca-gov-edd.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ca-gov-edd.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG4zCCBcugAwIBAgIQeqwiPgNE34fRZpU+eiyLMzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDkwMTAwMDAwMFoXDTIxMTEzMDIzNTk1
+OVowITEfMB0GA1UEAxMWY2EtZ292LWVkZC5kdWNrZG5zLm9yZzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBANuhv1ubQtkyM/UlPdPOC4U/yC9c1M3/UjtE
+OUZRJ4hdE5ND1mt3rRKKKhE0AOY++CwrODd2FNkNR7x6sTPlMdAmVSJ4OwvsjjOX
+u4xwQa7WWEww/WdnIX+GsfjKvZcrfIDpKUsSX4tHYhrZGalsTHLBYPIB8egPgDce
+cuHHNVsIknNzK6snY8VfFrcuytCMQDSV8CBQyv+xtSy7te/mJFPDJp+MvegRYpYb
+TZE4SQEjEBE5ql0JbmY7opP1HmrXxm/okn3SxKZUaq10AUsB/Pxr2pq1AxYDzJbk
+moi88rkNcetlC+dVyicsy62JcyQ5A/QxG/q10VkZFlXQ6AdnJn8CAwEAAaOCA8Qw
+ggPAMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBRi
+OvEyNJTPpA49gXWt1tCTdM3JXTAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIw
+ADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0Bgsr
+BgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQ
+UzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYB
+BQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYY
+aHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDv
+AHUAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7o5WrvwAABAMA
+RjBEAiAj0KryplfVQao1GqNCMBK6WV6xuqo1Ohr3ONx9/+IR2QIgRARS2tXxaxd1
+lopOCUuLX+kFVlqo/8xZsnaAoiOIm7gAdgBElGUusO7Or8RAB9io/ijA2uaCvtjL
+MbU/0zOWtbaBqAAAAXujlat+AAAEAwBHMEUCIQC1PI1IKs+3FZPqcN0LYyfndZb3
+i2iIXzTfw01xSJDa9wIgYnSsQ+y+PxuisOswkbhtQ+YA0PLo3XDpW0kwv1Vr9fsw
+ggEgBgNVHREEggEXMIIBE4IWY2EtZ292LWVkZC5kdWNrZG5zLm9yZ4IdY3BhbmVs
+LmNhLWdvdi1lZGQuZHVja2Rucy5vcmeCImNwY2FsZW5kYXJzLmNhLWdvdi1lZGQu
+ZHVja2Rucy5vcmeCIWNwY29udGFjdHMuY2EtZ292LWVkZC5kdWNrZG5zLm9yZ4Ib
+bWFpbC5jYS1nb3YtZWRkLmR1Y2tkbnMub3Jngh53ZWJkaXNrLmNhLWdvdi1lZGQu
+ZHVja2Rucy5vcmeCHndlYm1haWwuY2EtZ292LWVkZC5kdWNrZG5zLm9yZ4Iad2ht
+LmNhLWdvdi1lZGQuZHVja2Rucy5vcmeCGnd3dy5jYS1nb3YtZWRkLmR1Y2tkbnMu
+b3JnMA0GCSqGSIb3DQEBCwUAA4IBAQB1760/0MtwrNClIFXrJ+uiLPUDu4PNCxWj
+JxHhd/os2bEFlbJDfQSu6E5eFIdN74KK9O7oQ2jZKgT9vC2jlL1V+B1MmmPCQGRl
+TpYkCGJjjnXrtplkqN5BVvZa0Rb7tHC8VihyF3j5ej2rhiMbxMl5NWKYrK+I1z2u
+JHGlyASc+5dU09RJjT9/1wmdDCzyZg/9xyyYwcxxG/7K03ugC8dwnC7wv7wRd2X2
+o1Vx8ccXtxWUwZqSSnHzGyYo3CkzECUh9k9CV9ld4g4SUVThTI0s5oTb9hTr99qH
+klJK1lhwwMBlciJwLIcNA4l2aOA+kWxmsj1uJh9u645nLU5EaQWv
+-----END CERTIFICATE-----
+subject=CN = ca-gov-edd.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5272 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

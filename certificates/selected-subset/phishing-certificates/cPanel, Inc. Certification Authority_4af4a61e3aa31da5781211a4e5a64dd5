@@ -1,0 +1,70 @@
+https://vldnetflx09auth2.serveusers.com/auth/update.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = vldnetflx09auth2.serveusers.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGGjCCBQKgAwIBAgIQSvSmHjqjHaV4EhGk5aZN1TANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTIxMjAwMDAwMFoXDTIyMDMxMjIzNTk1
+OVowKjEoMCYGA1UEAxMfdmxkbmV0Zmx4MDlhdXRoMi5zZXJ2ZXVzZXJzLmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANE3sTBMEC7RYhchumwzjECW
+HK8zh1oWmDvVCeLksGDTHI8L0AOFX5u6RTaNnMXkJfsk4wUS1yUuv88aRbVZirRK
+5CPWkLYtEmbOIuYk3kbFY7prG7nv8hAytgLNyRlqO/j0ddfa3VvgJ7IbQhcAXIpN
+3dIG71IpuDDiyIGBmiE2jy7RZoJzONkifPnvBxoJiNoYA/YC5LQ66TbrrIE6MIFE
+x5yE3v9AFg6+DLzFlwTbnArIjtQfZh+GvafjtrNdUUwrRZWy4afFt3fch/84E1QR
+5QxN6rxQIdhgOqFzfYFBy6mqj6Z/mZd5Is02Tbbw5pp6rf5oy6OkvSWsTN5LsisC
+AwEAAaOCAvIwggLuMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0G
+A1UdDgQWBBSw9qqjIKivTk8GNi1KseKBgaXwUDAOBgNVHQ8BAf8EBAMCBaAwDAYD
+VR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0g
+BEIwQDA0BgsrBgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3Rp
+Z28uY29tL0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2Ny
+bC5jb21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5j
+cmwwfQYIKwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9k
+b2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggr
+BgEFBQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBBAYKKwYBBAHWeQIE
+AgSB9QSB8gDwAHcARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9
+rprlAQAABAMASDBGAiEAsQ39M93Zs8V+fazhLNyZpW+o4h7zNFgXOi911d97VcwC
+IQDjgWYAxtcEw6RG0Ixz19ayMIFCHk/oukgNXI3qyhcIzwB1AEHIyrHfIkZKEMah
+OglCh15OMYsbA+vrS8do8JBilgb2AAABfa6a5QYAAAQDAEYwRAIgJ54obnRToz9D
+PbRffwCQ+wVRy1vz2pbjc1IMpM5MxYMCIHPdXT78Pw6pfynL60bnArfGUO9fBDOG
+Akh5YoNMyhT7ME8GA1UdEQRIMEaCH3ZsZG5ldGZseDA5YXV0aDIuc2VydmV1c2Vy
+cy5jb22CI3d3dy52bGRuZXRmbHgwOWF1dGgyLnNlcnZldXNlcnMuY29tMA0GCSqG
+SIb3DQEBCwUAA4IBAQAurAgZczrQSAwyj+gtnCeAaHBJKeMTdHQer7k66s5Cftp2
+LbleSH+nPQTe8stUVAGAedrWlmaq4vcJLOtORoVNdGmq27CraulVefKbbzGZdUmw
+eWnDgVAlOlc6+U0ZtR3UAbit43B0kTm2tkxzsDeXXP78i3nwFnATO1d29zZ2desO
+bz2daDN8BLpy9K/PE/nfaWQDbhL15gN5tgKs7e1ZuqVsEQsCjFGKs/DR5UADMFro
+XuEt0Tf5I7z9OBIC4pjsOw3ZJO2/5eQ5Kv+nBKHDBr78GDXNd37U+yhFOmwTDTjb
+JRovqGVKonedti+U4sVBK3sNR+U+gNYPkpvkf/n5
+-----END CERTIFICATE-----
+subject=CN = vldnetflx09auth2.serveusers.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5071 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

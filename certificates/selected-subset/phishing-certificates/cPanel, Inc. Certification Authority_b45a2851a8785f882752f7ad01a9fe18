@@ -1,0 +1,76 @@
+https://www.agroexportavocados.com/sale/sign-in/www.globalsources.com/GlobalSource.com/GlobalSource.com/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = agroexportavocados.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHPDCCBiSgAwIBAgIRALRaKFGoeF+IJ1L3rQGp/hgwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTEyMTcwMDAwMDBaFw0yMjAzMTcyMzU5
+NTlaMCExHzAdBgNVBAMTFmFncm9leHBvcnRhdm9jYWRvcy5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDg3dKTrkb0V6Mbwjc2QC61xdRqn055UckW
+JugPbP6DDN/EoOzVv2qz6SdEyUh8UrYcF1sn/j0M1oAfm24ClZJDFwheQn2Dih7c
+0zNq97GZfpdMSptr6wY4ZEzbn3yKOYUdTbd13RQgQBiWP4TPDUqBUcO3NmT0UF8u
++MDgxDu04ZLhZIUGVChvXSTagwUGnKINtetirdasElXK4JqIs59KVFl1QcdZOX5o
+WSoxRI2y49Fl9uP3L+gb71Wwl1KH7301P4j8XP7hZ5cR8lzGDdlieMY7GZLMfkC8
+vIzNxTJxYwXso31o68YMRHiX/1ANRVhee2uQkKJhAXfLfQJUNKDfAgMBAAGjggQc
+MIIEGDAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU
+kvwixloKuZqK4NvQ5eG3QjPuMl4wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
+MAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYL
+KwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9D
+UFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2Rv
+Y2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsG
+AQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGG
+GGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUEgfIA
+8AB2AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfco8ozkAAAQD
+AEcwRQIhANiiRThEJUjkuwE3iYX4n10j4sjuFJkKLjbcZU/lkWYLAiA2z+wIR+6b
+ocPbkjCf+RQDD9X2Yx7SmU0CnYmcIdr0hwB2AEHIyrHfIkZKEMahOglCh15OMYsb
+A+vrS8do8JBilgb2AAABfco8owYAAAQDAEcwRQIhAOkSEcyV41uOatTCVxow6WUt
+giRUEoWbhmJTMoeFmb51AiB+c7GWASMnGrZOtp+2roLbYExjsulE9+wdAVGJF4XN
+hzCCAXcGA1UdEQSCAW4wggFqghZhZ3JvZXhwb3J0YXZvY2Fkb3MuY29tgiNhZ3Jv
+ZXhwb3J0YXZvY2Fkb3MudmlsbGl0YWZyZXNoLmNvbYIjYXV0b2Rpc2NvdmVyLmFn
+cm9leHBvcnRhdm9jYWRvcy5jb22CHWNwYW5lbC5hZ3JvZXhwb3J0YXZvY2Fkb3Mu
+Y29tgiJjcGNhbGVuZGFycy5hZ3JvZXhwb3J0YXZvY2Fkb3MuY29tgiFjcGNvbnRh
+Y3RzLmFncm9leHBvcnRhdm9jYWRvcy5jb22CG21haWwuYWdyb2V4cG9ydGF2b2Nh
+ZG9zLmNvbYIed2ViZGlzay5hZ3JvZXhwb3J0YXZvY2Fkb3MuY29tgh53ZWJtYWls
+LmFncm9leHBvcnRhdm9jYWRvcy5jb22CGnd3dy5hZ3JvZXhwb3J0YXZvY2Fkb3Mu
+Y29tgid3d3cuYWdyb2V4cG9ydGF2b2NhZG9zLnZpbGxpdGFmcmVzaC5jb20wDQYJ
+KoZIhvcNAQELBQADggEBAD0sqxKR4AvstjzIujn+ozqJC4DeOcEEMhzjrDv3PXmt
+Qmo1n2SXZ/YxE2EIELBeAACtXZVcd1BjUbP/WHAecsMvePUiTmkul7+hbNhuGYCC
+OOwwnsGD3Y6LmlVrK8fhzLWQrDg06eDGZ4GLkobAw1iC58s00d+GnVPKlvNRZ8U5
+kOMLR9ch+O8AOtZDsNK0lkWuhv2ZeIsHpH/6cVtXRpZpEnhndZ/XphfEb5LyCcPZ
+prxZCc1bchrljvZxSx+68w1drpvL5R9jdG70u/gAEWowDysiiomQvAo6MIPqHPxX
+GWBLcvtN86OGuG8bpRx5bN/F+32PgJGe5xpk9OrVBGU=
+-----END CERTIFICATE-----
+subject=CN = agroexportavocados.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5361 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

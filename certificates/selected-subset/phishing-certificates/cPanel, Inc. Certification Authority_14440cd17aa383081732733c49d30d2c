@@ -1,0 +1,96 @@
+http://bestkitchenette.com/uk/pay/pal/home/Paypal/signin/myaccount/websc_login/?country.x=&amp;locale.x=en_
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bestkitchenette.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF/DCCBOSgAwIBAgIQFEQM0XqjgwgXMnM8SdMNLDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTE5MDYyNDAwMDAwMFoXDTE5MDkyMjIzNTk1
+OVowHjEcMBoGA1UEAxMTYmVzdGtpdGNoZW5ldHRlLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBANNgzUlyr/X+vEMcmY4h3CDGVTa8FxCW4FffncV4
+2UVwvwpIaU4sILv3weDP3sKcEF4UGDgKk4cSEktts2aUnGqXkAxbh9bNvd62RxAO
+FC/ckn9RRLjMtAcOZTGs5NMGPwNgLdERF+xPj5YtwAU9LmJ8AZ6fKvi69+fzKtbY
+yt0vsZY76oY6amIiqpBxK0Mx7Ii37tbX1OT+O1Qu7Q4iMk6AEKkW17r0p6nABNFV
+rDSGsotz6eJlc7bYoS/NOIqk5xX1dN0DJSRUgXCoZeyIvell0MEZq8k9rLjlhste
+rE8MgegsQQPukM7nQU8O09J4on5e8hb9G/39VPLiLPx6rZsCAwEAAaOCAuAwggLc
+MB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBSYvJLd
+ZKGxmCKzH4iSU9BjuSGb2DAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwTwYDVR0gBEgwRjA6BgsrBgEE
+AbIxAQICNDArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8uY29t
+L0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21v
+ZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYI
+KwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNv
+bS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcw
+AYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMDcGA1UdEQQwMC6CE2Jlc3RraXRj
+aGVuZXR0ZS5jb22CF3d3dy5iZXN0a2l0Y2hlbmV0dGUuY29tMIIBBAYKKwYBBAHW
+eQIEAgSB9QSB8gDwAHYAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUA
+AAFriBQLBQAABAMARzBFAiBj6jKGCZHlpq9KArkFm1HDUUe0hcS9Meof0YiYoO7b
+IgIhAN6Z/IoWSbUiwD4TNz6uaUdfwnNYA2A05j02hQtL0MdNAHYAdH7agzGtMxCR
+IZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFriBQLJAAABAMARzBFAiBOWzfZNjOn
+37wDWYgZ4fuXGDIl9QjXQxblM8O0fLuwZQIhAMZS5RYQh8i0a+zuUZZ4T76QZhfv
+EiMG9G3g4CJVhBXtMA0GCSqGSIb3DQEBCwUAA4IBAQAypp5YYIDF4m3Bzxd03xYz
+qw1PFwwLHr2rXTtAMPS6AMxbwB9KARDkceSzQKhJJ/mjb81wv/v+y5uOICmqSiTy
+dHbAqvfW0znpHX2WpWg5Ujr/ZXU4S7co6mwHSGRa5EP68ojGjxRMoXagsPAPtWJc
+oWtPPTxX+5VGdXzZgmazCxvfxqDdFIYPyHNfnhOX/dvsLbdoX68xKr65Pd4r9tva
+Ad3QxoTbc/y/LbPLx2N8KysreGQLVhvcQMRSGB8EYYG37h9TK1A+Q6kn4cUd0oxn
+Wm0lLrjAadhgEkOufB8NfE+Uqcq3yrnwV0Pg85djS8Y3a9FR+N0CC6iM12Q1O4Uy
+-----END CERTIFICATE-----
+subject=CN = bestkitchenette.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5173 bytes and written 457 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 21FDBAEBFCB8215F34548ADD7EDBA87D96C01ADAD84DD88046E16BEAD34645F5
+    Session-ID-ctx: 
+    Master-Key: C6DEA199455A07F9FC0820559E36E8D9D1DD6F4D861C4BC6F38572E230138C739347AC42FB06090D8EED58AAA3B3E1B0
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 62 3d 56 d9 d3 83 67 f8-d4 15 a5 84 d0 10 cf f1   b=V...g.........
+    0010 - 0b a9 36 64 d2 5f 07 35-07 dd b0 36 8d bc a8 be   ..6d._.5...6....
+    0020 - ff 83 5c b5 01 75 8b 80-c1 4a 65 aa d7 4d b2 0e   ..\..u...Je..M..
+    0030 - 52 64 2e bb 00 0d 8e af-60 21 7c 18 9c cd ce fa   Rd......`!|.....
+    0040 - ca be 3c d2 0b 02 99 6e-4d bd 03 71 49 be 5c 93   ..<....nM..qI.\.
+    0050 - 8f 08 4e ae 41 99 e7 ec-2a 54 97 f8 94 31 3a e1   ..N.A...*T...1:.
+    0060 - 8b 81 c2 18 bc 7e c2 39-f0 d2 49 20 ee 8a f9 78   .....~.9..I ...x
+    0070 - d3 29 ec eb a4 37 4c e7-c6 80 77 2b aa cf e7 d5   .)...7L...w+....
+    0080 - 3b 05 28 34 50 8b ce e6-36 1f 89 30 fb 0a ae d3   ;.(4P...6..0....
+    0090 - 6a db b4 a0 c6 9c 57 a5-78 40 f0 f1 5c eb de 6d   j.....W.x@..\..m
+    00a0 - 96 a3 f5 38 8f 45 19 ce-01 e6 d3 cc 01 af ad 13   ...8.E..........
+    00b0 - 86 73 49 b5 d2 d8 f9 92-38 4f 60 f7 c0 e6 88 37   .sI.....8O`....7
+    00c0 - 9d c2 d1 a7 c3 d2 9d 3a-0c 29 30 05 d3 ec 40 2a   .......:.)0...@*
+
+    Start Time: 1566219626
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,70 @@
+https://www.paypay-login.jp/login
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = paypay-login.jp
+   i:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+ 1 s:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGfzCCBGegAwIBAgIQAediz6EgBQ3mdT81PBfWSjANBgkqhkiG9w0BAQwFADBL
+MQswCQYDVQQGEwJBVDEQMA4GA1UEChMHWmVyb1NTTDEqMCgGA1UEAxMhWmVyb1NT
+TCBSU0EgRG9tYWluIFNlY3VyZSBTaXRlIENBMB4XDTIxMDkyNTAwMDAwMFoXDTIx
+MTIyNDIzNTk1OVowGjEYMBYGA1UEAxMPcGF5cGF5LWxvZ2luLmpwMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqBk0tqqV1/oPimGRX4dGYrOCIqhJHCeI
+pyVncSB2eXmgBCeoZaZtd8IHCyzYfYRzoEHBNT63VNjLgaXPdwmGX7GoDIYs21VR
+qH7uN+d+aRtiJdlqL9aQ0juKE6D2zu6j3RtknJ9WWc4ZdBzfvaOZ2u51VnpTMNM/
+WUE8Zhb6OMQWQm8FIq9PGkj96XalfJRN+oy2eaZIHrMUDD/d7Kc3LaWx2ZfJHSy2
+7H/VeZ2uemy5AUUrQsWCXbdFDVBff65OKRlqxDeEBOrtuH1kPdQ4XQ8fm9M05gC2
+AGgvsXG4TZhqw8AQCiVLTRvcL+xvmz90mU/R5fAmbgUu4nXoER51uwIDAQABo4IC
+jjCCAoowHwYDVR0jBBgwFoAUyNl4aKLZGWjVPXLeXwo+3LWGhqYwHQYDVR0OBBYE
+FOmWe6+Iidva2Q38hNhZtX44VxF3MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8E
+AjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQG
+CysGAQQBsjEBAgJOMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20v
+Q1BTMAgGBmeBDAECATCBiAYIKwYBBQUHAQEEfDB6MEsGCCsGAQUFBzAChj9odHRw
+Oi8vemVyb3NzbC5jcnQuc2VjdGlnby5jb20vWmVyb1NTTFJTQURvbWFpblNlY3Vy
+ZVNpdGVDQS5jcnQwKwYIKwYBBQUHMAGGH2h0dHA6Ly96ZXJvc3NsLm9jc3Auc2Vj
+dGlnby5jb20wggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQB9PvL4j/+IVWgkwsDK
+nlKJeSvFDngJfy5ql2iZfiLw1wAAAXwcDuVHAAAEAwBGMEQCIFacJLFVcMy+hMxF
+nQ6nQdUCO+GMhI1nR18t91BuGb+LAiAYbM8ltO5/YIwNY+56AUfYX2W3A4Gzy/6V
+ExL2pmYFkAB1AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABfBwO
+5VAAAAQDAEYwRAIgS9PNWxewAty2PMBtQtZry7Rcg8kgqwr3vIqMaeihnLcCICEK
+QJegOc8CkdRjXmEwqwVeTKGboCnb2rGMMwJDV4BQMC8GA1UdEQQoMCaCD3BheXBh
+eS1sb2dpbi5qcIITd3d3LnBheXBheS1sb2dpbi5qcDANBgkqhkiG9w0BAQwFAAOC
+AgEAGa7wMwK788gLd8vsd382w12yYE/CLm7Nlpn8CBMrdgrW6S53heeviyo/oNKH
+zgpHJwz8Wn6sFbPnNkwOp2wbY1BXrYH+MB43ZkYj0sw4NWcHj6pU+irCyKPNp/FX
+rDOfxyONkeBs/OS4VIn1vvittAv4Yva2sAEl9M0X3ssNBtjQikAFrB6oRZpDNx46
+30e36CFeW65/+uKE/3aG7/Ef600TVxAhtJuVlCXe/X4r9Wd5gDttYC3J+VaelBF9
+R9F/4LNRwUc8SAQ00RNFi6P3QanneR9dXzFO2N5G7UrJRrjROZAc2nZoc7UkUYnr
+C1J7R/lzeuqHLK9McQWSYzUzzlyVPciObpBdl20IHujspMrhBVVn9SazVRfs2tcu
+ODauqfg2cSzs7CwVmQmpp8bnnmD8N5FaBS3/gIFb2zrIZldff42oZvLLLGXTMT7O
+vx8nuxOqhIKjc+XqLP76Kubi9LcRTCAiafVS/FTsN1lnQFUn81OSfe0xRFACyrKc
+gIxjAbh0dBMLrbN1fayuOG/CkgO7uXKr9spV5PThGyUzpmJsRsvB2mefOUqim8fy
+6LFPXINjpoLSp1ZuSla/A9zlHJeUeS6ipiFZgWMyoNpH0b2xIzhuJLqO8TJG5wri
+1O8xnBKQenYMa91cPuFZ5XTz4TZzqOqKi3HH6YulPUpO5EE=
+-----END CERTIFICATE-----
+subject=CN = paypay-login.jp
+
+issuer=C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3985 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

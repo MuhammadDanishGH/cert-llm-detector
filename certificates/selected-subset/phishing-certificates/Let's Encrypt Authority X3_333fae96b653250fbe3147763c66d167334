@@ -1,0 +1,93 @@
+https://osomobi.com/wp-includes/js/sk.eng/index.php?email=username@domain.tld
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = osomobi.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFyzCCBLOgAwIBAgISAzP66WtlMlD74xR3Y8ZtFnM0MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MDQxNzU0MDJaFw0x
+OTExMDIxNzU0MDJaMBYxFDASBgNVBAMTC29zb21vYmkuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEA61wpa+Zg4gz18T7ZmfkW5ajSyVvdu4j+IZny
+MRcItD+qhYwHAKIG1wavbR6GhfXxlw25futRq4cD5E/1bAra61wvYeyXe5SiqeLw
+l58TBkJszm58M+YPUSsYPosIJaLv3zXaZy6H55szRj6jg5MYWS7AJPN/loHVvnPC
+1DMGPC1EqUiPlz+S+fwZumWaArhxzBQ1b9s20fP5MDSY6kXWcHGG/I4d5m7RGDQt
+sDD6pOTz+Ivz5hJAvPpOH5p7/M9I33He1VQ5sPXt9LKy1Ro3wYY7wZFpTb2dx8cP
+bHxdeuAJxvbgKI9jldt8UO6LXSbsFGV9J+GMzRsGkrwC5O28mQIDAQABo4IC3TCC
+AtkwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRzZIidn0Zjot7kNRuUDXi3CvjGyjAf
+BgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRjMGEw
+LgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5vcmcw
+LwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5vcmcv
+MIGTBgNVHREEgYswgYiCGGF1dG9kaXNjb3Zlci5vc29tb2JpLmNvbYISY3BhbmVs
+Lm9zb21vYmkuY29tghBtYWlsLm9zb21vYmkuY29tggtvc29tb2JpLmNvbYITd2Vi
+ZGlzay5vc29tb2JpLmNvbYITd2VibWFpbC5vc29tb2JpLmNvbYIPd3d3Lm9zb21v
+YmkuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHW
+eQIEAgSB9ASB8QDvAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMA
+AAFsXfs/JAAABAMARzBFAiEAztbMBokzrI2nMckH2x9oAJQucKZDPyKAqABZX0Tk
+VHICIALy2qRhiP+d19hRM6iwp1KFrZmCKmTJPXk+3F3oZwExAHUAY/Lbzeg7zCzP
+C3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFsXfs+8AAABAMARjBEAiB+MXIxEuaJ
+52TG0AO7bz0tRpEgRMxYyng6rq4OqkcrLgIgBgPDGrkx6RVDfJ2lYgskNZCoBMui
+MJg1qI594AcSdyUwDQYJKoZIhvcNAQELBQADggEBAE9Wz09+ar6DaG7Nh1Ak9BGG
+C4u/bGHKk+S3WOY57P4qYCkADK11U3pdxwzY75x9MWZZMKsQdPrugjcZij2kYflF
+6Q55SPn/5x//lTUrH02UCPTtpQI3H5+e+oUHTjbaO/XCcr35BB4mra3QfmLGP4p3
+1rqePtmZe8Sb4CARE9ng0yY96X2VTrXUepwymG15KHVfDW512rD46sRlPF7q84cU
+ax7UkSD6P+gDvF3IvU3WCo/9YQ8uOi49Wjv7g8f0UhMvEZqnwnioHJKI1Of8E3nz
+U2QXnP3ltlm7eBnebr2kzMt1s5N1iepJgFsy8/u4WOXFldGLR+7+z3C3AST70jA=
+-----END CERTIFICATE-----
+subject=CN = osomobi.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3370 bytes and written 449 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 5850BB28047E9267720D658B0970EBFBBAC05A8F60167DFCE86B2A193E08F67F
+    Session-ID-ctx: 
+    Master-Key: 77551C693B3D39971693806F8A88DDE51C47BDD3959A89C386F856FB6742A86AED3458DF45DA8E30EBD9E3DFED9F4A28
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - d7 97 62 89 f0 5f c3 0f-71 7c 5d 76 7e 62 b0 7c   ..b.._..q|]v~b.|
+    0010 - 0f 7d 07 0c 11 f0 73 30-25 96 0e f4 f3 64 52 14   .}....s0%....dR.
+    0020 - ca bc 21 8f d8 bf 74 6c-da 16 81 56 79 92 e6 8a   ..!...tl...Vy...
+    0030 - f6 35 2e 56 b7 ac 85 48-62 65 cf dc dc 82 c4 02   .5.V...Hbe......
+    0040 - 62 9d 01 4e 92 15 2c 81-50 6f 2d 45 80 b3 eb 9e   b..N..,.Po-E....
+    0050 - 37 ef 1f ac 04 2d ca ef-d1 73 6b 1d 7b 41 56 de   7....-...sk.{AV.
+    0060 - 95 3e b2 55 85 8a 18 88-2e 55 8a 89 dc 84 ad cc   .>.U.....U......
+    0070 - 1a 80 bf 9e c5 9e 7a 87-8c 40 ab dd 16 33 0f d9   ......z..@...3..
+    0080 - f2 a5 8f 4a 4c c6 d0 84-33 74 38 0e ba 30 0b d6   ...JL...3t8..0..
+    0090 - bb 7f ab e3 78 99 29 48-b1 c3 e3 9e 04 08 37 de   ....x.)H......7.
+    00a0 - 4b c5 45 90 c6 f7 99 a5-55 7c e9 43 81 1d df 64   K.E.....U|.C...d
+    00b0 - 94 10 c7 c5 48 18 74 3f-e8 86 d6 fa 22 3b 94 a3   ....H.t?....";..
+    00c0 - 5a 75 c7 37 a7 9b 9a b2-14 d8 52 0f dd 2f 54 3f   Zu.7......R../T?
+
+    Start Time: 1568120427
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

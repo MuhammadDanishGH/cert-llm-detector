@@ -1,0 +1,82 @@
+https://www.app.find.hcese.cn/ios1
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.app.find.hcese.cn
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGRjCCBS6gAwIBAgIQI06NNn2L0X8kUDsyNqDjFjANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTIxMTIyNzAwMDAwMFoXDTIyMTIyNzIzNTk1OVowIDEeMBwGA1UEAxMVd3d3
+LmFwcC5maW5kLmhjZXNlLmNuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEA1RZlngfBGQrnD5QUlJSmrz0Aoq6pI1euIdXsgf+oWXIhVJoQrWpngnL0F90H
+hgCVoaV1GgZk1GT0x1EwEggZAivHi+R4OJIJUKw9kIRwp5PmsawU8gtC1YtF5jtB
+pUGDWC0wOsY6yVe5BqjdgzPctc8vnGz8s4HER+fB2EqczxRN9Fbg8cninx2dCp86
+DsM+RguWcrY9cTujSkylo9vCi5jL9dHjcn9ZcpgDsQUWGCK5/DuFIdaPlr1e64wS
+y5/Y0oQ/zs6hQx6c/Lyln0epqf/mctYfN+W3c5midQ/w5IEb5HJigtWK0N58ckJE
+DW35ndoSt7TrJPdoSrJHypjvOwIDAQABo4IDCjCCAwYwHwYDVR0jBBgwFoAUjYxe
+xFStiuF36Zv5mwXhuAGNYeEwHQYDVR0OBBYEFCBUg1EhCJUTvHm78O42nL8nHMma
+MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYB
+BQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYB
+BQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1Nl
+Y3RpZ29SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsG
+AQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTAzBgNVHREELDAqghV3d3cu
+YXBwLmZpbmQuaGNlc2UuY26CEWFwcC5maW5kLmhjZXNlLmNuMIIBfgYKKwYBBAHW
+eQIEAgSCAW4EggFqAWgAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5t
+RwAAAX360KrzAAAEAwBHMEUCIGouqrn+1f02939Ajf/q/qzpBBmR1c78YA3DoFBU
+Fe8SAiEAic7XIxcBh+vXnfIjHfZKtC0p0UDsAL6GRbUKTkILyg0AdgBByMqx3yJG
+ShDGoToJQodeTjGLGwPr60vHaPCQYpYG9gAAAX360KqyAAAEAwBHMEUCIQC6o4R/
+Qkr23i26OA6vVXSptG0+QTicOUIlTFXTFykerwIgF5Iau7oiR9T9bbzlUKEbbrjT
+KjUgVg/IsqHMlBq/hLYAdgApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3H
+hAAAAX360KqMAAAEAwBHMEUCICYBYnT7RidhVXMIu9JoXmlh2bIR9iSyP0OPRRkf
+p/hRAiEAw4wQszCls6Vu4gN3DylyeX9eNsbiyXlbfXxFWv4s+hAwDQYJKoZIhvcN
+AQELBQADggEBALbgiT0Rd7yvXZYJB931Iqb2868lcNs3fYQYtytiw6NcfA4JoOmx
+JfuGlta/zjo2egliqzUlZuk7N7T8s/UkYIPgVCOdJ4SL3c37O343cnm1rroPYMtl
+s0+BFTDJ0KSVya5b7fKmf3SZB3rFYhkT+BG9XD81DCkeaMm7wsXNUs9Ys47dtkU+
+DeJvksFOw0qcCXEs5msoTn6JPE5Pqc12FlIKbo2PZnngii9iu7fj5IvnYZ/gW0fN
+7Yom2+n8rkNSjt0VV2mWvpNiuclwK5J587d2t6WwSfEC/Blyo1j5JzUVN+TH6XFG
+mrT4ZgZqZugD03HzGJAdQA8YMR/BF6bGD98=
+-----END CERTIFICATE-----
+subject=CN = www.app.find.hcese.cn
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5116 bytes and written 481 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-SHA256
+    Session-ID: A5340000637FCB9EC5B1B19398ED2C02DC81D40773223B8F4C8A54E53B4BA880
+    Session-ID-ctx: 
+    Master-Key: 70D5F31CC719AECF3FBAE8FBD02F7246E6DD164464E8F342437E4A60421BE0BD32AC750482FDD5F68B86DAFB02B1430A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1640694969
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

@@ -1,0 +1,71 @@
+https://lntr.modis-per.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = lntr.modis-per.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGRjCCBS6gAwIBAgIRAM2i0JHmjtFQd0EguiRFcrUwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMTExMTcwMDAwMDBaFw0yMjExMTcyMzU5NTlaMB0xGzAZBgNVBAMTEmxu
+dHIubW9kaXMtcGVyLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AL/PxYnjZkf7HkCD4TRkOt24T2QHqZA1+Z6D80dDfZ9jPecTTMJUMBzNf3zkeOlK
+i/iB6+JIlNwiOsy3ewIaMa5UUXBGBrRJzH+plhDofRAUhGfToS6U0gHG4YeztGVi
+/22Uc62/MLh6RZR+is6IY6X0UkrayJGFtOgg6rGLjFgPRv5/Qx414BovmaXp8JNT
+fykKu1Jldr5il5UD0NHxhQi+d6H2tCRTma+wS+8rIgNpPVuzF0j27yiHF9BOel3F
+fFOHl805iEQcCd7+WR/AMV+P7U2x59TkvtJh4h/x19rCEjmObh3PlUGZlNjy1D5B
+tcgB6OG5wDR803+lvx+Q6fMCAwEAAaOCAwwwggMIMB8GA1UdIwQYMBaAFI2MXsRU
+rYrhd+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBQYUfKyUPjYiQ/GS0G8QJTs+eK35jAO
+BgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUF
+BwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsGAQUF
+BwEBBHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0
+aWdvUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEF
+BQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wNQYDVR0RBC4wLIISbG50ci5t
+b2Rpcy1wZXIuY29tghZ3d3cubG50ci5tb2Rpcy1wZXIuY29tMIIBfgYKKwYBBAHW
+eQIEAgSCAW4EggFqAWgAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5t
+RwAAAX0viB1OAAAEAwBHMEUCIDH7J26UjG7ZiAp9Ch8P52nFShdpiGjm6OC9WoaY
+dznKAiEA7SDgtC77KNh4psbNHPUBoTNzxkFVfuUAzCmUx45mt5EAdgBByMqx3yJG
+ShDGoToJQodeTjGLGwPr60vHaPCQYpYG9gAAAX0viB0JAAAEAwBHMEUCIGARkOKw
+IKunJq7gjeCUDvtb18qmlRgiPDlfKfE544LkAiEA5cOqgqelRRUIHRAM5DscZ83a
+RAbnygihvfBRl9u+TvEAdgApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3H
+hAAAAX0viBzeAAAEAwBHMEUCIQCj84qU2rt9XhQ59wmRCVgRFq5qia82MGx52sv1
+cr3XvQIgNwFNtycktFZq3z258g+mv8lViIHG49JyIvcFBcaTRMMwDQYJKoZIhvcN
+AQELBQADggEBAF553TQ+BY8nJKhHDPMRO5vtXRTuWh600xhYF4gioHrztR+5R+bB
+qwe5gPmJmKAu861412F2jiqBBZV+l5pSrqKR8l5jbuursmeX6E7oTw08pXrZ0N1f
+JTKFy4Vi+boJ1tU4QSWbR2lESUTXgDvycX+sr6ofHNtKF/15pbi2UtluOGE9EwBv
+lWiK75bG9391DiKaZk5oxvXGh4g7v0AvNMk4N6wTZmhDOCs43oPdiM0GhB/FpFXc
+sJLf9O1uXMcPHFfwuSOp8yT8M7/zD1ZFt/g31L+Igb0/5RQK6M/ucZ6d2QeHqUk3
+dj9S/WwLBFK/7INvHxotkv11vxHm5xRZ1B4=
+-----END CERTIFICATE-----
+subject=CN = lntr.modis-per.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5152 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

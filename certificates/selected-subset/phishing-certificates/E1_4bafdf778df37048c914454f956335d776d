@@ -1,0 +1,60 @@
+https://smbc-account.xyz
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.smbc-account.xyz
+   i:C = US, O = Let's Encrypt, CN = E1
+ 1 s:C = US, O = Let's Encrypt, CN = E1
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X2
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X2
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 3 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID0DCCA1WgAwIBAgISBLr993jfNwSMkURU+VYzXXdtMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+MTAeFw0yMjAyMTYwNzQ2MjRaFw0yMjA1MTcwNzQ2MjNaMB0xGzAZBgNVBAMMEiou
+c21iYy1hY2NvdW50Lnh5ejBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABPRdo+Jr
+6q5fCUTCWoJH3ZwwlTVsfFodogcwf3SyPosiQ1KLCVZ80USxbmikWIxjVpf5qiVM
+2ODz5pIDAffGdxSjggJeMIICWjAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFPF3e517
+LHrIdvLj5jU17NoO7yOZMB8GA1UdIwQYMBaAFFrz7Sv8NsI3eblSMOpUb89Vyy6s
+MFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL2UxLm8ubGVuY3Iu
+b3JnMCIGCCsGAQUFBzAChhZodHRwOi8vZTEuaS5sZW5jci5vcmcvMC8GA1UdEQQo
+MCaCEiouc21iYy1hY2NvdW50Lnh5eoIQc21iYy1hY2NvdW50Lnh5ejBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1
+ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfwG2FfUAAAQDAEYw
+RAIgcjuKzLIBGBSQ/IMVFbPXne9yLFeDG3GW4FmY9v+oq/kCIDdFPtA+Vd5TI4W/
+TWGvRFBxlf4YMR9x9XYmzWW0En8hAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQAp
+Bo2yCJo32RMAAAF/AbYWKgAABAMARzBFAiEA1kP4EM/RZTNNl7QbN4tPI0R9ywoc
+9I8mOl804gXDtDACIE9co4AT13Qk2xvmBftrgU2cEGYmVUcJu6jouKTlrWVfMAoG
+CCqGSM49BAMDA2kAMGYCMQCpTRIITEg/67UrK5pZzJZNRf2S/gIoSyRUFvCN4m2z
+zbr+PB8gzw/wm7AAjL8DyfoCMQCdEAki7sxbrcmqHhZFM2tNYFsUP3MP5/cZ8f4r
+edRqnlma74J5nednSofoe3W/ZGo=
+-----END CERTIFICATE-----
+subject=CN = *.smbc-account.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = E1
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4522 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

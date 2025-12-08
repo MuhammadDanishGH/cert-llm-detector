@@ -1,0 +1,73 @@
+https://thefaithpage.com/scsc/ofc1/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = thefaithpage.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGkjCCBXqgAwIBAgIRALCo/QDj+MZ63XLw0NYhA7UwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA3MjUwMDAwMDBaFw0yMTEwMjMyMzU5
+NTlaMBsxGTAXBgNVBAMTEHRoZWZhaXRocGFnZS5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQC86YFrt8MnBaJRCdKRcXuJTLCWygQ+BL3HavOxiz6G
+3jT6b+uB1WCxZSGCDqXxCECaKcpUQ2sBGSX8K6F1iQKgmmoeib88rBQ3mZWWOa5A
+hjnXLwhHX3wuZjhOqUv2YB9SpCl9ZmTBqfPyj7ifVDAzltO3qsPoZojGM6ewXvy1
+rYqRLviHskNuCpXUtV4xZSixT6UemoW7xyQGDS5Qwu1CXuQAhMC+MiGaoocfRnzj
+AKAGWcMrFh6oqO9+Yxtelnaws/i/T4tbXcgKsBdwug7xsqf5elPQHfj7tn3dsn+U
+JdUZW17Z1A5PuuStelOb9dbwGQC5nP1MpigAlgWomhf5AgMBAAGjggN4MIIDdDAf
+BgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUIe8di6M2
+DMpwuRgPJkh7glpjjxgwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGy
+MQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYG
+Z4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEB
+BHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVs
+SW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AH0+
+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABetyOqlAAAAQDAEgwRgIh
+AI9OLKMQoTO6jsTI74OJj9Bmn0q9YTaEQA/SuJq3ox7hAiEAg8s9WVBtSoQOO2IS
+G+0KL8WJl6W2WqH+NiEbxFo/nLEAdwBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/
+0zOWtbaBqAAAAXrcjqoUAAAEAwBIMEYCIQCb9rSvhBqdSY1XLgHqh0bsDiWJ+8Rc
+0hF/2m+vdX8E0wIhAPc96dmsuTNnAftfnHv7LNtoofdxxfi/PVNIofFmUu0ZMIHS
+BgNVHREEgcowgceCEHRoZWZhaXRocGFnZS5jb22CF2NwYW5lbC50aGVmYWl0aHBh
+Z2UuY29tghxjcGNhbGVuZGFycy50aGVmYWl0aHBhZ2UuY29tghtjcGNvbnRhY3Rz
+LnRoZWZhaXRocGFnZS5jb22CFW1haWwudGhlZmFpdGhwYWdlLmNvbYIYd2ViZGlz
+ay50aGVmYWl0aHBhZ2UuY29tghh3ZWJtYWlsLnRoZWZhaXRocGFnZS5jb22CFHd3
+dy50aGVmYWl0aHBhZ2UuY29tMA0GCSqGSIb3DQEBCwUAA4IBAQArs54RRlsK7a33
+3SuYFqNgM3N0/XWYAJR9gdca5iNr7Tagv2Si25r+OOOn3XDBYYTaHf19sGXIy40G
+ferj3VNNDyFsLkHWNex631QgjFkLXuBQw1lwBDcExZ2u2bhVspC7bp8/KfqyAdXk
+4F8h/wiIor5EfHTzZ3SilE2JWRJM7t/FIJ2EKshzMgZjP1lEbFx7zSuyJ96w1Brs
+ThavYJ8ZQO9ORvXsGP7dauRV2sZzAj+TZb67D33+4w1hIb50+ZaMh7u+hExjOENS
+lZbTBgyBWwuTif8awFEYgYJz5OWAEtyqsKfjXGa1j2c7sHFahdoTtCJVmOW24pZy
+9irDfr2Z
+-----END CERTIFICATE-----
+subject=CN = thefaithpage.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5191 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

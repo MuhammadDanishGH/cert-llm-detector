@@ -1,0 +1,77 @@
+https://www.amacojp.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:OU = Domain Control Validated, OU = PositiveSSL, CN = www.amacojp.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF8zCCBNugAwIBAgIQPdI5Bm3Q2VxqJbXIIwmrjjANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTE5MDYxMjAwMDAwMFoXDTIwMDYxMTIzNTk1OVowUzEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMRQwEgYDVQQLEwtQb3NpdGl2ZVNTTDEYMBYG
+A1UEAxMPd3d3LmFtYWNvanAuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA0Ev2BqcHhkDOF5BmiMVfxmeLAvNm0DTBOK+7OwqzUNZ77lbTA18L89fs
+lcJHOKa2Rb9Xjl/m4Je/3qZI9iuMSeFiqrlDEqLoOBSmanK17X4RdCvSlOdYPGIy
+HEVOHOJQSDMKP/C6gbtfLlF4XWN8LlQ3EzPxxeQkF163HG9GgLy8EH3mAl2Oo3wt
+6peVuGvWje5Sy1fT3CytIfAIjmQnuQJqPeKCcvjWZSGcAFu3g8HYjDmiBh7L6ZU6
+FjtnFCaOcpXXQfKDok2uhFIzzRfvtXp1PFrWcuRSBEoF7u8vDFBT6OE6iOXVxH1G
+RcMjVgmvyblLoKFGbeiyPiFnr29MRQIDAQABo4IChDCCAoAwHwYDVR0jBBgwFoAU
+jYxexFStiuF36Zv5mwXhuAGNYeEwHQYDVR0OBBYEFIWGmurqroPZ6nXrC1kt1Dxk
+yfPaMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYI
+KwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYI
+KwYBBQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29t
+L1NlY3RpZ29SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMG
+CCsGAQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTAnBgNVHREEIDAegg93
+d3cuYW1hY29qcC5jb22CC2FtYWNvanAuY29tMIIBBAYKKwYBBAHWeQIEAgSB9QSB
+8gDwAHYAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUAAAFrSz8TKQAA
+BAMARzBFAiEArvT8vVNfCFr/19OMGkYDTQAk/PhdvkrZeGgwAQUOI0ICIBOTUOUY
+FXlhayaFgsT0TbN4xkhRBYwoxWpzQAeo4NaBAHYAXqdz+d9WwOe1Nkh90EngMnqR
+mgyEoRIShBh1loFxRVgAAAFrSz8TTwAABAMARzBFAiB81OLNK8MLuYk5tR/CymVJ
+7AT0AIbqVGJ8x5kiuR3S5AIhAO26AChzZuJ/pcTkYNl9vp8VEiYEFTUlkTLELN2P
+msyHMA0GCSqGSIb3DQEBCwUAA4IBAQBZSENzIGjADK72CNAFNXjVyuk0L9ai5B96
+tfHdcXq3HrW2XIBGJ4HOPWy0NloIxLVW0cUcFrmxMCLykb+OnJS3QshuxdMrEB7C
+zSycLlvazsTJwJrqUzMJ8NZ/yKmyHr0lvpGOhxA2lvi7CXQSVxa4i2GWBvLmX75m
+O+OXB733TSjFfj9TT8WvlrcB7XpKUldBSEQ3b2XlaeAHcT+DN7vnklMD5AXn66WN
+13HxPdYIiTgXeJrYCtdJixIdJmdx9wfb73wUjAz7PaXDnQntp6yUhR5r4zoY8bNO
+Vzwwl1CnQHr22n7uLRBneI1oCmylZzQr0JL5rc7+i72Bxb0FI8zi
+-----END CERTIFICATE-----
+subject=OU = Domain Control Validated, OU = PositiveSSL, CN = www.amacojp.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+---
+SSL handshake has read 4658 bytes and written 653 bytes
+Verification: OK
+---
+New, SSLv3, Cipher is AES128-SHA
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : AES128-SHA
+    Session-ID: 1B170000B1628785D4FB9DB4FDE3065BEF4E07076F5D44F113C003FF934C5252
+    Session-ID-ctx: 
+    Master-Key: 4D3DC437F1FF362E2A402BB17033EB34CD9B5AF5B783D1A945D0B7809A25906648589CED15E5EBACEC312CAAB5B51814
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1560862824
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

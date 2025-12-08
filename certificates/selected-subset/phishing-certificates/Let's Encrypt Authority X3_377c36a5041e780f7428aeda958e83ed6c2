@@ -1,0 +1,64 @@
+https://slim-down.xyz/wx/true/manual/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = slim-down.xyz
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUjCCBDqgAwIBAgISA3fDalBB54D3QortqVjoPtbCMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA0MTExOTU3NTNaFw0x
+OTA3MTAxOTU3NTNaMBgxFjAUBgNVBAMTDXNsaW0tZG93bi54eXowggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDd0mH+BKKdb4UDLg//ho0cnP5Y392SyOne
+oyxFGbz423i9Wy3ShseQ6792+GAzwap8cnflxXUdVF45ZZSvg+NYlabo+WT6Uqro
+B39ySXfEKtOIv4AgVaEwG+GgJ7c88x3AS55vPMPY2tAUJjaZvOgfhqxi2xrtMrbC
+FDXm5tI4E22IY35lhoSFqQ/Y+3K0Ba/XrXsZ7Yv1a8k+YjxoK3hd37FvqJ+Ht6Qt
+LVtCwJL0gCZ6hn7T5Z+um/MA2c/uyvpuGIfDi6OgnBSZEcCftMh9P1UXxoOO/AGg
+MH1+DCoaMaoR2cNmz1nfv7cinlpj76uYwgCkFVW6CqGzUILhd8JVAgMBAAGjggJi
+MIICXjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFFozyy9GjkBGW7q2pl1eSQxHopPT
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wGAYDVR0RBBEwD4INc2xpbS1kb3duLnh5ejBMBgNVHSAERTBDMAgGBmeBDAEC
+ATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNl
+bmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB3AHR+2oMxrTMQkSGc
+ziVPQnDCv/1eQiAIxjc1eeYQe8xWAAABag4xTwUAAAQDAEgwRgIhALm7i26IdBow
+XcfNcbfivDb/w0H3Mia7rAWXX3iQ2PR1AiEA4D9yzWL10hsLDlgUomyxPDBb6QfC
+1oyBwm9P0sOCn2MAdQApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAA
+AWoOMU90AAAEAwBGMEQCIArE6gG2Tf0C67uXauUFUKm4Pnd8BCBhZtvuxcPRdbKf
+AiA1R/FYIujXbaf6jUqAl1fLBha5u1P4kZmON2vCPYgceDANBgkqhkiG9w0BAQsF
+AAOCAQEANVWV5Vq7sXuYgraWvP67z9NYoTPNll4Wur1/QbzyW6Ntl4HPp2cngGsQ
+v0BcjP8g/6ws1bDuOEglAp7pqM+vcKeePqThFmRorc8OKsd1sjhEQuhrrfAtRpjt
+VWnKp3/LOi8dRKvV6AV4O4TrLHB2hVGO0qKR3Z8kKfQbUyDQ6W12/27J7r1IOIxQ
+bwUOXVdB1KR3IdviNK6jFmgPf7XltrKKGHzp/nOc3pgmyb5GBRvmjA9uJC2rAs0B
+4WkbUlJPj7DOGdDG9RwZJXAlyF3q9Wt9aSOwq4HeuHT6m6QH++6VDlg++cFFaI+Z
++14kMquEZrB76hv3irQ978JkDEzk6A==
+-----END CERTIFICATE-----
+subject=CN = slim-down.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3105 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

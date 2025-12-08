@@ -1,0 +1,93 @@
+https://marcosinacio.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = marcosinacio.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFxDCCBKygAwIBAgIRAMfGQSCy9AmvJAUePw3ZkZYwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0xOTA2MTYwMDAwMDBaFw0xOTA5MTQyMzU5NTlaMBsxGTAXBgNVBAMTEG1h
+cmNvc2luYWNpby5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC/
+4vcNh5cg1SDujFPgtePxng14IBgUFdPU/wz+Sk+vPJtLmJd1dAomhOSwwGF+a8Z9
+AtaIgMv0Xm2oQH9DxD5yYPJTupo7vJQAenYtugmbDq/UXnVBvJdSIu2quxVFSz1g
+0WyyBvfET06wYhhzflrono6BBD1zMfzUunPpNe66Mt85xwNwX4g/wmvB7ERytetF
+/E2YSpprU4R6Pg15LXdQGR5PomLQMR7QUvfEoayc+C+euflRhfentnuOeiE+czqF
+1H2N9kpHioBzGstt2+rE+n11zFT3JqOQCFrkTm3HyPLlyeZSbKN24Kc1bZrnFhvQ
+FT6n75r5WD2UYAv+fg+dAgMBAAGjggKMMIICiDAfBgNVHSMEGDAWgBSNjF7EVK2K
+4Xfpm/mbBeG4AY1h4TAdBgNVHQ4EFgQUCHxi6KKytklrVX2dKphkl9S7ZacwDgYD
+VR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAjBggrBgEFBQcC
+ARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGEBggrBgEFBQcB
+AQR4MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2VjdGln
+b1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYBBQUH
+MAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMDEGA1UdEQQqMCiCEG1hcmNvc2lu
+YWNpby5jb22CFHd3dy5tYXJjb3NpbmFjaW8uY29tMIIBAgYKKwYBBAHWeQIEAgSB
+8wSB8ADuAHUAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUAAAFrXnxL
+qgAABAMARjBEAiAT9x3vp5deyKbmErsTivC8CcF3mnbrvwCNH7LnbkDmuAIgOkGn
+EFHk/PmwrNUQRd1YfvBaOM6zDuVuxxa9gwMsEA4AdQB0ftqDMa0zEJEhnM4lT0Jw
+wr/9XkIgCMY3NXnmEHvMVgAAAWtefEvIAAAEAwBGMEQCIFZ6AtXh3ASTieAzY/xq
+uiM77mr449I+zoruf+WVFyg3AiAhax042/AF+zGVVxrohLhskiZfQXIhxePqO74X
+Rs5jFjANBgkqhkiG9w0BAQsFAAOCAQEAnI3QRECWJ/KvYDEGq7pjpiPiGaiuWVjl
+l4tTwkpetaoj5StzhX56G9p/Utjj+Td2GlDx6Pzb7YcGWw6c0DOzG2jNMgjmgmht
+6XKsY/HpiEJU7BAqc2TxnVlf/bH4xoZfDuBBNKp6OBcXcNK/6Nq0+g6jGtldn+z1
+1jcgF7cQOT239rZcUFBOdKJD6qoZ9DZNCSFx3n36Lde/DctczaeG63+jdzCja0fO
+hc6eHwLNlFCef+jNKxni6R7v86PtSvuVJxH6db25B19sdwrhvcvlEz8GptlbP4Mf
+ZT/6X+LJZVFq2zBLIKrcu2KMwLoPsgVm0RAEF2vrgjdtDCAxMwyq9A==
+-----END CERTIFICATE-----
+subject=CN = marcosinacio.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3748 bytes and written 454 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 2AEBA30DB088F97BC29B96E36CF02CE15536B764467CE8DCDF53C9AD1DDD1197
+    Session-ID-ctx: 
+    Master-Key: FFD1D01281716C5BB41CC725BC7FF2068EF0652F849B1DF9E51C1633FEAEC03D5087663D41D1D11ECD10678373D32A09
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - d9 21 fd 8c e3 71 6b 22-18 42 e4 eb 8b af cd ff   .!...qk".B......
+    0010 - 3e 12 bf 12 86 f9 06 64-58 b2 af 96 ac 66 d8 3e   >......dX....f.>
+    0020 - b6 f4 11 97 1c 00 c7 76-9e 9a bb a4 1e fa 0d ba   .......v........
+    0030 - 22 f2 16 97 a4 51 8e 0c-92 ea 2b 86 23 bf 69 4a   "....Q....+.#.iJ
+    0040 - c0 01 d1 61 34 bc 6a 66-84 72 b8 07 f1 52 e3 9a   ...a4.jf.r...R..
+    0050 - 8d 5e 45 90 05 e2 3a 6a-2c 2b 4d 2d ed 3a 0b 8c   .^E...:j,+M-.:..
+    0060 - ec 1d 63 90 af 74 e9 cb-90 7e 3f 6b 95 5f 3c ec   ..c..t...~?k._<.
+    0070 - 49 b7 82 d6 e8 31 b9 b1-57 bc d0 48 8c 47 12 da   I....1..W..H.G..
+    0080 - fa 3a f9 de ea c9 4d 11-27 5d 58 ac 10 a1 66 c1   .:....M.']X...f.
+    0090 - 22 e6 0e 53 e6 8e 5f 0f-0c 29 fd da cf 72 5b 9d   "..S.._..)...r[.
+    00a0 - 96 17 b8 3f c9 ad 63 8f-1d 3a f6 ca 1f 52 52 23   ...?..c..:...RR#
+    00b0 - e6 3c 39 c0 9a 41 64 46-10 74 73 c1 f1 5e 26 6a   .<9..AdF.ts..^&j
+    00c0 - 04 23 e3 c4 83 00 98 db-6a b8 b0 ae a0 22 66 8a   .#......j...."f.
+
+    Start Time: 1560690024
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

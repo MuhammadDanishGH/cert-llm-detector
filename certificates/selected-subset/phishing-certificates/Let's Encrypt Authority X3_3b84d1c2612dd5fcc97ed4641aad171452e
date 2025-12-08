@@ -1,0 +1,67 @@
+http://indothaitv.com/wp-includes/images/WEST/wstpc/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = indothaitv.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF5DCCBMygAwIBAgISA7hNHCYS3V/Ml+1GQarRcUUuMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAxMTgxODMwMjBaFw0x
+OTA0MTgxODMwMjBaMBkxFzAVBgNVBAMTDmluZG90aGFpdHYuY29tMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3cI5bG/kj9K0zAXKrs9mepTQZzx6KUch
+E5aZSSxGss2WJAjsWP/JahccTHc91mNzwjPP8XQTHbyIh0OwzXriPHnqUYSzxbJa
+psMUQQHkr+WBvoHXfbm6rK9gu9NGxl0rh9iGNfEt1esmAmsU0+HarWSuFrFYsEHb
+RW6ARi0/9ABzo3u5wmO4XWXWcwCwXCvjFo8mrksdBV1zqHxp3UyZe7UMREUTifkG
+BVIpnylVlLpOvw6PVdhol+IhmwFUdufJs8Dldnrtd2FGiGXghZQBglKgB3w/1zXy
+FLVjEpNDd/b+EhtsqgYZ+3qVTY6GFh6FZvKn5bs5JM/LfUdh+21VpwIDAQABo4IC
+8zCCAu8wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSNtTiivl/YMCrBPclI7VeXPsEs
+OTAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRj
+MGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5v
+cmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5v
+cmcvMIGoBgNVHREEgaAwgZ2CG2F1dG9kaXNjb3Zlci5pbmRvdGhhaXR2LmNvbYIV
+Y3BhbmVsLmluZG90aGFpdHYuY29tgg5pbmRvdGhhaXR2LmNvbYITbWFpbC5pbmRv
+dGhhaXR2LmNvbYIWd2ViZGlzay5pbmRvdGhhaXR2LmNvbYIWd2VibWFpbC5pbmRv
+dGhhaXR2LmNvbYISd3d3LmluZG90aGFpdHYuY29tMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA4mlLribo6UAJ
+6IYbtjuD1D7n/nSI+6SPKJMBnd3x2/4AAAFoYnFSQQAABAMARzBFAiA5yCzBeFmv
+bW2EDbf+c8SnSC9AQZPpkIvfPyn15PE//AIhAJmTWenUBQTyTIi2yNbD7PdU4vaG
+B0mMZIX6K2WkeOBnAHYAKTxRllTIOWW6qlD8WAfUt2+/WHopctykwwz05UVH9HgA
+AAFoYnFUOgAABAMARzBFAiEA8N+hD3Wx9/gku4U15W5xmfA9ppmNNMgXXIb43GVx
+s8ICIDXrIrLiKO5CHreQsJ8+wcy4TtACEHEAq88ED6NhDjY2MA0GCSqGSIb3DQEB
+CwUAA4IBAQCWbLIfjF/us9NvdVqs9ujBI+OP8nDlDwwm7p4v54rJ4D33o3/M4smy
+e0uvw3T93yM/hZxWoirR0GU5Bpf5JlCroSZZP1cPq08D/DbTNZjuqhysqQuPf9Mb
+3jAIFQv+lxWQn6FO0iS4M4cOrhQMuRRrf83Hbt+NHAhNrsJWcNfeRsLmNF8pdfE3
+8N2CeXsFh9wL+RJph9EZVGqYDj2izAsQeP36DrkOi6gZYDDkIOGqOxRjP32Eh8lb
+KvAgPn2gbHZ685QhaJ6uxRVSehvwOs+j4jXjqFtedWe3Wpvp15Lrx2PRUPnPbs16
+U1WB30mQZ1rgV5+uo2uqsz9b413aXNle
+-----END CERTIFICATE-----
+subject=CN = indothaitv.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3165 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_CHACHA20_POLY1305_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

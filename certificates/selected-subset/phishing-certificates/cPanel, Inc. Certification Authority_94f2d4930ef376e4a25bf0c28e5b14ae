@@ -1,0 +1,72 @@
+https://sylvanconsulting.com/direway/libourw2/newjanupdateboadietext/
+----------END URL----------
+CONNECTED(00000004)
+---
+Certificate chain
+ 0 s:CN = sylvanconsulting.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGdjCCBV6gAwIBAgIRAJTy1JMO83bkolvwwo5bFK4wDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0xOTAxMTQwMDAwMDBaFw0xOTA0MTQyMzU5
+NTlaMB8xHTAbBgNVBAMTFHN5bHZhbmNvbnN1bHRpbmcuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwQWzFJw5Wfgb1LKZz72RLHTjcLrFPIKHaw8p
+yKJyYkGU43OjzxkDHtKywPs6hqJwWB8+ayEZUC+uUitTHLgrQbVQgxLpbLz5W+45
+e0b2SPxR+/iJUlKP7rVAX4EaekqMqmaCRuNHe53jix2dL1VQ0kVWGlSmlUS+/0L2
+WHP5bH+CzXLLj6j3qS5650hCfIavtc2UDbdnjRJb3SdYwx4Jib0Mh79tcZp0YdTS
+RYP9+TmVEw/z8oG8Ou2l4jWZM7fMMHcQwfsybGH10ydBLpLhlYqVMhuT4wCEufjV
+RuBxsJCpYaA9VjgZFeK3MeinQtglpBmG6fhE0bPmOqJMQ61P8QIDAQABo4IDWDCC
+A1QwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFOo7
+AMnE2orSU1UlINnyI5obhF2iMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAA
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysG
+AQQBsjEBAgI0MCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5j
+b20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNv
+bW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9
+BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUF
+BzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wga8GA1UdEQSBpzCBpIIUc3ls
+dmFuY29uc3VsdGluZy5jb22CG2NwYW5lbC5zeWx2YW5jb25zdWx0aW5nLmNvbYIZ
+bWFpbC5zeWx2YW5jb25zdWx0aW5nLmNvbYIcd2ViZGlzay5zeWx2YW5jb25zdWx0
+aW5nLmNvbYIcd2VibWFpbC5zeWx2YW5jb25zdWx0aW5nLmNvbYIYd3d3LnN5bHZh
+bmNvbnN1bHRpbmcuY29tMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYAu9nfvB+K
+cbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUAAAFoSjcXUgAABAMARzBFAiEAgZUV
+sQsnrYeuhWEoB2o2qtIIIYm4JFOpBTpUkjrYEtgCICaKKH63aXn6HDrd8rJlrVTH
+yxPXU/JQLcWfGuAnP/QwAHUAdH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7
+zFYAAAFoSjcXhAAABAMARjBEAiBa56n8lOQP7yIuoMj2pkw0cdSRm0xLq5OtroCT
+T94bnwIgaEyrxSP+kXNusGlfXcl5cBzuwi+0FQhUStNnzlSeEyUwDQYJKoZIhvcN
+AQELBQADggEBAF7SFPq6fITGA2BXED7Sg4wIRarNeMrcJmIQE56/dzm12r5++ZE+
+R0jnwpWNKYgEiV/pO/X7U61gkNgqJ7MKovdAh37NM8QtKD/E12tLr1LQV5Mkrn3Q
+vyuq0XRPb4CsNiLr7WLYXTHYv6m51pqtfAHIbR86RTlLWVCgYTIHWz5jTF7ofzN6
+umKUMcf4ssXLJyvP+hBwhvTlZIHDJ/bBPYYYlaFoTTHv/P4GKuVgoz61ezeQm4Gv
+HFoTqcqRfoOzOKpvga4gnaRVPFldb8SGNYJJob/IkM9swSuwGNDRbA0b8B2nXYNw
+hR67dZ6bWypBEQxQcx1cNtlsYVz0N2xpo1Y=
+-----END CERTIFICATE-----
+subject=CN = sylvanconsulting.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5083 bytes and written 412 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

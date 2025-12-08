@@ -1,0 +1,91 @@
+https://ing5clientes.org/R9234092340892EF/L230498230489234T/N3240823402938409R/G239478203489T/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ing5clientes.org
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFbjCCBFagAwIBAgISA1PKfx+OoPVQfph2ylzQ+XUVMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAyMDcxMTQyNTFaFw0x
+OTA1MDgxMTQyNTFaMBsxGTAXBgNVBAMTEGluZzVjbGllbnRlcy5vcmcwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCyNQS99w1SXLzvpBv6ZchP+AvUh4mk
+P7tUeKBzYXBnLZTuDnDesAIdeqWup2QHP+NKeMNhDHYglV8XL0C83F05PqoAcJNu
+LFPWyW9tPx5R11H4aY2tMIjyY/BnO+kajJAzxhOS52wbNGSSFtGopJFGJZVzShnF
+VeIXrLcAWDwRqyokfmxtDLVoEjQaRkH/lVlNo3+YpLhiR5rw1JA5eL4/PPsdHduk
+YA3Sw4xzaIUgcsT3NOth5sErf211Aky0eHwbf2G1oVlA8ynYJSdyI+PM95yBcrv9
+rrgNPQ00nMuHendxfgPcUSMiWX/6O4CN7MNO/wC71GpNX9AlTociKUddAgMBAAGj
+ggJ7MIICdzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFH37MpcA3nprUlAevOlfLAiH
+8RBgMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEB
+BGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZy8wMQYDVR0RBCowKIIQaW5nNWNsaWVudGVzLm9yZ4IUd3d3LmluZzVjbGll
+bnRlcy5vcmcwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAm
+BggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEE
+AdZ5AgQCBIH1BIHyAPAAdgDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb
+/gAAAWjH+3NtAAAEAwBHMEUCIHbXErCSqeZi5vPXYzWloHpSZXGodZ+M2HAPBtqc
+lbxpAiEA3QykWb8X1lwFTdtj3ZV0OLPKcaftp6u3EYa7Kiq7ruIAdgApPFGWVMg5
+ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAWjH+3NsAAAEAwBHMEUCIGnB0yVq
+9KTDtyYQ6hbkghc4z4kDh93YxE2s/TE+JnVmAiEA01m9Cf+ahp3STSNOZohRjlYQ
+4DojajEupOGQTqUzJ0EwDQYJKoZIhvcNAQELBQADggEBAHsL4r/PbSzbr/hyTsFU
+8f82ASzRdHmWEImcATs/TE1BvIVYRgSqD461FF/sPQH8IWaCwpEOYhWwt1+wx4bv
+Ex9wjelqV1sYgUQZCmIezxCKb5iRtMnGB2LAi34sbvMCPKhK153DmFifJ5o6GtND
+46Zwm/VoO2inxjpfbEnNHe8Z23ZDMrLxEgKc24+bZboYya+FHPed3zUJ9E1QwS1H
+qJaP+HNtvIV5jhya0NIqbrbMQroTRmB4CRE1K8lkzD/i6DgVj285R2G/jyVN3uxs
+TFjct4PW9N/39nIYFfVcbs843U3Lozf87Ep5ARFQixYxFKhjpn3wAWho/KpZswQB
+ISo=
+-----END CERTIFICATE-----
+subject=CN = ing5clientes.org
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3261 bytes and written 454 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: CEA6069832AAFBCB9C48AC3C4E85BA0210F2456CC45F19B0A033019A77C8DB58
+    Session-ID-ctx: 
+    Master-Key: CC31F444E5FB75AE19691DDA7D1D01027772B32E3CFF1EE9726FA219DFF739703CAA0E333D798680E9F4FBCA1BEEDFD9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - d3 d5 1c 7d cf 31 a1 e6-13 d3 8d c6 1c 21 52 a0   ...}.1.......!R.
+    0010 - 72 07 e0 2f 7b ce 55 61-89 2b eb 58 21 38 88 30   r../{.Ua.+.X!8.0
+    0020 - 93 d3 7a f7 3e 21 d8 36-f7 7e ab 59 32 e8 a4 7e   ..z.>!.6.~.Y2..~
+    0030 - 0e 0c f2 e7 75 60 c4 52-25 24 a4 d3 d1 d5 d9 36   ....u`.R%$.....6
+    0040 - f6 5f eb 23 fd 37 08 87-d6 4b 2e ae 75 5a 40 93   ._.#.7...K..uZ@.
+    0050 - 95 b2 f9 54 a1 f5 d5 92-f3 5f 56 90 e8 a7 c2 61   ...T....._V....a
+    0060 - 61 09 ff b9 4b 8f ce 8a-09 d4 23 5a 4b 67 38 67   a...K.....#ZKg8g
+    0070 - d5 ce 8d c3 10 08 5f 5b-1f e0 46 33 e3 bf a8 9a   ......_[..F3....
+    0080 - ae 7e 54 3b 4b bc cb 29-8c 1f 55 12 1d ae 4e 32   .~T;K..)..U...N2
+    0090 - 24 11 8e 28 73 03 5d 02-1f 93 9b 70 ac b1 1d af   $..(s.]....p....
+    00a0 - 98 31 5b 7e f0 61 93 64-6a 13 d0 c8 f7 7d 95 3f   .1[~.a.dj....}.?
+    00b0 - fb eb 49 df b5 82 c5 6b-26 67 8c f5 f9 63 9b 07   ..I....k&g...c..
+
+    Start Time: 1549720816
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

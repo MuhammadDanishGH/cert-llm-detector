@@ -1,0 +1,76 @@
+http://blue-hornet.us/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:OU = Domain Control Validated, OU = PositiveSSL Multi-Domain, CN = sni307563.cloudflaressl.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Domain Validation Secure Server CA 2
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Domain Validation Secure Server CA 2
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHPzCCBuWgAwIBAgIQeVLUC+VVDFT9xra8DdlhjDAKBggqhkjOPQQDAjCBkjEL
+MAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4GA1UE
+BxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxODA2BgNVBAMT
+L0NPTU9ETyBFQ0MgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBDQSAy
+MB4XDTE5MDUyODAwMDAwMFoXDTE5MTIwNDIzNTk1OVowbDEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMSEwHwYDVQQLExhQb3NpdGl2ZVNTTCBNdWx0
+aS1Eb21haW4xJDAiBgNVBAMTG3NuaTMwNzU2My5jbG91ZGZsYXJlc3NsLmNvbTBZ
+MBMGByqGSM49AgEGCCqGSM49AwEHA0IABO5z3UXNxUCBAGUEEEfaMA1sZZl6lR8A
+Rcn+1MBwS5piPF3axl9I9GASXdiwW6m5Dp6a53ia6ssL2tIYMpW7d6ajggVAMIIF
+PDAfBgNVHSMEGDAWgBRACWFn8LyDcU/eEggsb9TUK3Y9ljAdBgNVHQ4EFgQUPqsN
+CGf4B+AvDazdw1M9SSuGxbQwDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYB
+BAGyMQECAgcwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNv
+bS9DUFMwCAYGZ4EMAQIBMFYGA1UdHwRPME0wS6BJoEeGRWh0dHA6Ly9jcmwuY29t
+b2RvY2E0LmNvbS9DT01PRE9FQ0NEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVy
+Q0EyLmNybDCBiAYIKwYBBQUHAQEEfDB6MFEGCCsGAQUFBzAChkVodHRwOi8vY3J0
+LmNvbW9kb2NhNC5jb20vQ09NT0RPRUNDRG9tYWluVmFsaWRhdGlvblNlY3VyZVNl
+cnZlckNBMi5jcnQwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLmNvbW9kb2NhNC5j
+b20wggJ+BgNVHREEggJ1MIICcYIbc25pMzA3NTYzLmNsb3VkZmxhcmVzc2wuY29t
+ggkqLmF0cnYuaW6CECouYmx1ZS1ob3JuZXQudXOCDiouYm9zanViaXRpLnRrgg4q
+LmJzcGhhcm1hLmNvbYISKi5jb2dnYXN0dHVhdmVyLnRrghIqLmRpZ2l0YWxzaS5j
+b20uYXWCDiouZWJzZWJvb2tmLm1sggoqLmZ5amdwLmNmgg4qLmltY3ltZXBlci50
+a4ISKi5sLWxpYnJhcnltb3ZlLmNmghEqLmx1Z29yZXZpZXdzZC5jZoIQKi5uZWlw
+cmVjaWxnaS50a4ITKi5vdXRncmVlZGlsY2hhbi50a4IOKi5wb2xhYnBvc3UudGuC
+DCoucHluZy5jby5pboIRKi52b2ljaGV0aHVudmUudGuCFSoudnZlc2J1bGx3aXRj
+aG1hYy50a4ITKi53ZXJzdGFuZHJvc2Jpby50a4IHYXRydi5pboIOYmx1ZS1ob3Ju
+ZXQudXOCDGJvc2p1Yml0aS50a4IMYnNwaGFybWEuY29tghBjb2dnYXN0dHVhdmVy
+LnRrghBkaWdpdGFsc2kuY29tLmF1ggxlYnNlYm9va2YubWyCCGZ5amdwLmNmggxp
+bWN5bWVwZXIudGuCEGwtbGlicmFyeW1vdmUuY2aCD2x1Z29yZXZpZXdzZC5jZoIO
+bmVpcHJlY2lsZ2kudGuCEW91dGdyZWVkaWxjaGFuLnRrggxwb2xhYnBvc3UudGuC
+CnB5bmcuY28uaW6CD3ZvaWNoZXRodW52ZS50a4ITdnZlc2J1bGx3aXRjaG1hYy50
+a4IRd2Vyc3RhbmRyb3NiaW8udGswggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwC7
+2d+8H4pxtZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAAAWr8UDFKAAAEAwBIMEYC
+IQCmoteJRYhKQ7/t5gBUFtF4UIEIw8Cw5u+BaM/K2hVT3AIhAMFUn3KVNMM2opTQ
+R60LWKxQRyTLWdPScPStR9SOlZFWAHYAdH7agzGtMxCRIZzOJU9CcMK//V5CIAjG
+NzV55hB7zFYAAAFq/FAxiQAABAMARzBFAiEA1X1mPqPyO3XJ/QwR+/a5V3/YbjSg
+jXQ7QuzgEAhqDskCICdF6NULTqnHCsRMjgaqhhi4y2Oc9v9vM+4K1qrX/RQnMAoG
+CCqGSM49BAMCA0gAMEUCIQCtElPeL+QyB21eYm5svwxbyodik+djleEZogHukiN4
+YAIgIGmuhHJwj0CnOqd8pZocFbGtW+LpG2KyIsrZoEDLzkA=
+-----END CERTIFICATE-----
+subject=OU = Domain Control Validated, OU = PositiveSSL Multi-Domain, CN = sni307563.cloudflaressl.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Domain Validation Secure Server CA 2
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4085 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,65 @@
+https://corp-email.ru/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = corp-email.ru
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFIjCCBAqgAwIBAgISA8Ex3qo0ozd+uLJDOd9hWosDMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjQxMTU5NDRaFw0yMjAzMjQxMTU5NDNaMBgxFjAUBgNVBAMT
+DWNvcnAtZW1haWwucnUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC2
+o4QWeOo7mbfcBakrIJFpH2g8jh+5iTYWkTumvdaNNxUFuczPJ3kKXDvFa993ylOr
+tZaDHFUPIfIZqHkshdagXpQyoMUKpwkbsYHpAPBgj7PeY9j1+6iLomYiSZaabhTS
+3xILwiidETqLpDBjL6wRuTcEKFD4i9K88b3rfVNAreZ7uqGJZ/2rFjyIIIdSXjUF
+ssVKnIpXdYr/eqBvJxMvDwfcwK28zx+9ecJDTsnMxQYZcVu2k795J9FZmZdb9G2x
+LnkN+HP8xb1fyAOAiwNsG/d3NWkF7FYOiCHGE1+LmQgrDg6mpfS3jPrV4NuyeFGS
+MRVJsUnZ1H8abFRqXipfAgMBAAGjggJKMIICRjAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFJposEVMMhVLEyEjfDD5CxSBE8a3MB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJ
+QOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3Iz
+Lm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcv
+MBgGA1UdEQQRMA+CDWNvcnAtZW1haWwucnUwTAYDVR0gBEUwQzAIBgZngQwBAgEw
+NwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5j
+cnlwdC5vcmcwggEGBgorBgEEAdZ5AgQCBIH3BIH0APIAdwBByMqx3yJGShDGoToJ
+QodeTjGLGwPr60vHaPCQYpYG9gAAAX3shpuWAAAEAwBIMEYCIQC/zQ7eHY1qM1gY
+gDIz1dV5ofa5p+jIovxw5Ogn6nMDcQIhALAoFc2VosDtOxT8DQwQV4J0YmFvsDrt
+Cz8BqvHpOhR9AHcARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9
+7IabwgAABAMASDBGAiEAgA+SPB9ktutVo/OTyi1g6SJT5ATm24MD0TpkbtieqGoC
+IQDFrbLsJdMUJ2sgLT9aFiVn/sbQ1JTtFtoAnW2YmgFCQTANBgkqhkiG9w0BAQsF
+AAOCAQEAW9EiHDwfONJyzxUzoXcMbAGnnD70/4O7M3YQFsZLUTNfugHaleBF4o0u
+iSYQwh1dEXh5qw3qnOf9A/ptrkRu2e8ViGil2w06vHL2soKQRoRXtl5g/n/rpRuU
+aEi5ur3UxaVc1oq587Jnl6VwdxtOQ4Xx5ijuH5PEnn7DCB9X2Q9npHVi+khsURfF
+ky8439DrpfhUdDSSnS2ixXInj5l+1zt05TDGGnrZvfczKBa3q/JRpT9sKc1vi8Nr
+NG0TbBUTAg53c5md9B6NakQjOj1RR7k41VUx/GDnU7DBB/O16EUnSU7hwD/QdYVr
+RvE5qWXJvILBx+2E4atdoj7HpKJdtw==
+-----END CERTIFICATE-----
+subject=CN = corp-email.ru
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4574 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

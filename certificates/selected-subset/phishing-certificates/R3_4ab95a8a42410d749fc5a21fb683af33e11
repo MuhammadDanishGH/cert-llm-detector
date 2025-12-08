@@ -1,0 +1,65 @@
+https://etisalat.ae-operaor.dactyloteam.fr/x/last/x/?utm_source=getresponse&utm_medium=email&utm_campaign=cp02wsn&utm_content=Etisalat%20sent%20you%20304%20AED
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = etisalat.ae-operaor.dactyloteam.fr
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFcDCCBFigAwIBAgISBKuVqKQkENdJ/Foh+2g68z4RMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMDEwNzA3MDVaFw0yMTEyMzAwNzA3MDRaMC0xKzApBgNVBAMT
+ImV0aXNhbGF0LmFlLW9wZXJhb3IuZGFjdHlsb3RlYW0uZnIwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDhkayx0OKU6J2/+9CUfZnTw7cnOqCa2/59OGLF
+OmWObpT6HJNt9PzjJ/nPlu8N1V5WOOi7pEpyXbi1P7FBm1UjmsQriy57PLzCHFYL
+twyppVNFrYktYfaDi+R4aF3ZJSM3+AkPymT7ZYhFS8jiXunElRUiKes+JHHRMzLP
+YUrcky/D1jRnYbHmeEqrnmzr4syZjajGSKf8NjCop3+Cadb11BmANbfCSKFOlPT7
+lFvXez+8/ryq+9kulUdovLjLYyehco2XDv7ucr5WvFGcVbHHhojf6kJINpL4k1wi
+AGJITfpqLSp/RzHN1D//VCHAwLIrnZ9ws9pTXzznCUBXNVyFAgMBAAGjggKDMIIC
+fzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFK8afY9kl8q6Zt7X2hJ0G6F6ccwKMB8G
+A1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAh
+BggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZo
+dHRwOi8vcjMuaS5sZW5jci5vcmcvMFUGA1UdEQROMEyCImV0aXNhbGF0LmFlLW9w
+ZXJhb3IuZGFjdHlsb3RlYW0uZnKCJnd3dy5ldGlzYWxhdC5hZS1vcGVyYW9yLmRh
+Y3R5bG90ZWFtLmZyMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEB
+MCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAgYK
+KwYBBAHWeQIEAgSB8wSB8ADuAHUARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9Mz
+lrW2gagAAAF8OuR/LwAABAMARjBEAiApyrdfkWFyg+rYh7GuVEUdzmF6/8S8ebyM
+Oy3nPI+CkwIgXO4cj7GdSeJJDVSIVLnDQJ1g5VW7II2tKmj3yJ3XMyoAdQD2XJQv
+0XcwIhRUGAgwlFaO400TGTO/3wwvIAvMTvFk4wAAAXw65H8dAAAEAwBGMEQCIDSE
+vM9O5la/7JqNFgmb1QxdRmIMlYemDg2R9ZfKk3yCAiBF40jE9j+XKKpr72DmTwNC
+ssWwxOzq8ocySksg5hJmCDANBgkqhkiG9w0BAQsFAAOCAQEAugsvPSxagxfvU6TS
+O33kusdrgNh0E9GnIa4rCgb5XDEqbTnBLqukDFYQ0cwVOw3W2YNJWkUt1NHtDF9A
+mret1GEQAB0Q8YpYHvsOc2pEJrGeLy/3tA6Jvkq1pu8Ag2bc3VFrarXkaD/eZW4j
+v+YIyk3MhrnG+rRnfyneUCQbBDTtDQQ6vzLdAkAom5C2VESSCS1RGoX6NKh/PDFl
+1IHN1n81/pp6/YdTn3t3D7w5cMh0KV+N036wk+NY0CdrRY1ngaQgKaXUYxIHC/c8
+DelfBrXeiJJFeI2oqWGb2SPWq8PTBsb0d/UK2tRfLYKVqro30IkkWCWaN3wSUEm7
+XNNM/w==
+-----END CERTIFICATE-----
+subject=CN = etisalat.ae-operaor.dactyloteam.fr
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3267 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

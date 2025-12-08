@@ -1,0 +1,71 @@
+http://bankofireland-verification.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bankofireland-verification.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+QfG0U4VF8PzIzvBMyoMOC+5eMfg=
+-----END CERTIFICATE-----
+subject=CN = bankofireland-verification.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5116 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

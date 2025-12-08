@@ -1,0 +1,74 @@
+https://www.gtwa-vip89.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = gtwa-vip89.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGxTCCBa2gAwIBAgIRAMX53gLV37TOA86KOj3CJzgwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTExMDgwMDAwMDBaFw0yMjAyMDYyMzU5
+NTlaMCExHzAdBgNVBAMTFmd0d2EtdmlwODkuZHVja2Rucy5vcmcwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC/apldRqhtHgDOia6EVaQxE3M3ULfbB7hT
+5OCkHISuWRE2ImkjszsTN+dHr89Fh4P/tzV3ydPpXoc0HPeKuwEPYulPC2SLdMWN
+jBCB3jOi4ysv9i/SRqt8MMPj0Eor4A0XMOsn9IAC7iHvN3xqXJIfBiElWDMWtzs8
+4NmqdzaFVcx3pzgEe1aRrdVzEWb6YcLda7FfLi9dzrofV9OjLWxKX4jaS/4a2reV
+enPpyEaqS39JyU0Dkh7gOI/7OLwskKiv2FNt2qgv3V6Mh1r3jnSNjobViFlp2dkg
+q4/94mOMtLAH+ilzkZLYGxtNbCw1awjkUAA2/8QGK6436uAQLcAHAgMBAAGjggOl
+MIIDoTAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU
+wDXB2Y7+ZkPy9sCmiEJJvXwwoC4wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
+MAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYL
+KwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9D
+UFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2Rv
+Y2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsG
+AQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGG
+GGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQIGCisGAQQB1nkCBAIEgfMEgfAA
+7gB1AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfP5Z6WMAAAQD
+AEYwRAIgPklzNGAjlMCAQg9cn8nzRiKOeK7UJT+Eyb5ATq/QqusCIDBlRjpy036y
+T/RmTR/Rj3oqhzk6P3EA4CsRqNbNLHzZAHUAQcjKsd8iRkoQxqE6CUKHXk4xixsD
+6+tLx2jwkGKWBvYAAAF8/lnphgAABAMARjBEAiBiUacLD4S+d1lily0opyFlDy2Q
+M36NPxK9e/pteppfcAIgN4+/JSLA/APjjpsWe9u08QyYBoo3Ip4Aag7kIYPG17kw
+ggECBgNVHREEgfowgfeCFmd0d2EtdmlwODkuZHVja2Rucy5vcmeCHWNwYW5lbC5n
+dHdhLXZpcDg5LmR1Y2tkbnMub3JngiJjcGNhbGVuZGFycy5ndHdhLXZpcDg5LmR1
+Y2tkbnMub3JngiFjcGNvbnRhY3RzLmd0d2EtdmlwODkuZHVja2Rucy5vcmeCG21h
+aWwuZ3R3YS12aXA4OS5kdWNrZG5zLm9yZ4Ied2ViZGlzay5ndHdhLXZpcDg5LmR1
+Y2tkbnMub3Jngh53ZWJtYWlsLmd0d2EtdmlwODkuZHVja2Rucy5vcmeCGnd3dy5n
+dHdhLXZpcDg5LmR1Y2tkbnMub3JnMA0GCSqGSIb3DQEBCwUAA4IBAQAimZis3mHw
++TamOBVSBQvZEMX1AEO6jD9LMoQXF69/j8CfPYhh8IoSUIn+IBQfDgGQDVevFHev
+y/B0gI0m5kx+iKuRjJuBpmTEZTUeA3VM63CMQJIIG9ciBBXj4cCjrKiyApGKjr1f
+awxZtzTxF4sWISIM2OsTNta4DE4uoWFx1/PG4yhLCTOyuNvvxcpoVcdjk2Co5vaK
+W52ueBeDog0OABR1VqLI0i9D8Q9/8huS6rb9jpggPwLRhKRENJnU/JxhHl6ryMoL
+09/XJY8ag7EPmChblxDuu4FH3235t413nFcdxbwVv3w/gF8ie+mmjL66Ou/uB7XV
+DYTvEUcMZGNz
+-----END CERTIFICATE-----
+subject=CN = gtwa-vip89.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5242 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

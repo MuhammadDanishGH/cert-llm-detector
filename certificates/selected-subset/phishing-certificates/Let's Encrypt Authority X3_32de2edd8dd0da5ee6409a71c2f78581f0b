@@ -1,0 +1,90 @@
+https://recompensesbonus.com/?42ac6ebabacfad5b1d81ac77a6202191
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = recompensesbonus.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYTCCBEmgAwIBAgISAy3i7djdDaXuZAmnHC94WB8LMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MzAxNjAyNDlaFw0x
+OTA4MjgxNjAyNDlaMB8xHTAbBgNVBAMTFHJlY29tcGVuc2VzYm9udXMuY29tMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnSaE4QKUpM6gxKDu/iTBVjm3
+CS/XbRRCyOgELPmW+BdgXnKefNfF3IwpBIrI2fnOvYoVDjaRtS2hDuWTeFKVkBRA
+ooDzxMF5EqCPzziL+IGlU7cgDQtwPeBsiib5lfJgdyT5ulwjgNtftj9KdA7Ncbyp
+bJgc2jyA24NBRTXvTSNt6kZ7KewGds0VlgEfQvFdVd8nLIt2Xeg99DkF7wQiYSgv
+CQsA5nzAAej1XZOWV0yYaM1ev48J2OAlCCahTmejM0pRzEIs/GmSQOUX32JLKddE
+sBZgmgCqtHjlI86D0SoVKkR0qAg8xK5yCkTMj+oxCGFtg47GewiGGXwMCYg09QID
+AQABo4ICajCCAmYwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTd07PeUl5Mm2LViC+e
+CSlg/TUWWjAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEF
+BQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5j
+cnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5j
+cnlwdC5vcmcvMB8GA1UdEQQYMBaCFHJlY29tcGVuc2VzYm9udXMuY29tMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDx
+AHYAdH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFrCbG4bAAABAMA
+RzBFAiEAjMut9iLJdb5st5j3Wo1/AXE9Q4SeRh6nlfZHNq4beRICIDmc8Lhis5LZ
+5R0HAr8wjyFsNomJFmAfTGh6Y9V340quAHcAKTxRllTIOWW6qlD8WAfUt2+/WHop
+ctykwwz05UVH9HgAAAFrCbG2lgAABAMASDBGAiEA4mnYlrXnLCNL6M1XrG/04+Ns
+5OH0bAT0NJ9pBGCKlhwCIQDCsH1egScfSUVNyA/dxJo8OsyR/SQufhdRKiOIcYen
+ezANBgkqhkiG9w0BAQsFAAOCAQEACLS1+lt1tZTevs1GpZ2h50kBy8Fq7cJyngSA
+DWIOBVmw7MU5mNLZP+coDvP0IadaauDEe2KoeknwKwtR2Z4CxkpzpRcFpA6Fc7+w
+EX3RJT72jlWkvF42iZ1/eDQ3rOdx/UGVWUAiR6gv/OmlLqRILt3BeZT3Mc1g7/po
+Tr/fCdaZ/Qa2uLgX4duyysLXWt2c50N4S0U9xkpAooDZ8K2D0bKIWvB9R7E+K3r+
+Zd2WgAP+i2jLkx+lp62FB3XkWpoAEYPpyzCdqAjjne91IT+gZfARaVD3PD1rPWkH
+LlCP/YWtlGn6WQANNXuQ3d4yeB9TrU3DLC84P4734ptxZgQ9CA==
+-----END CERTIFICATE-----
+subject=CN = recompensesbonus.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3248 bytes and written 458 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 484BF506B67FE40B0BD4B696C185558DEA538A8B27368E48BAADD2AC04D9CADD
+    Session-ID-ctx: 
+    Master-Key: E95CB99BE27A1E777043BEE4AC2537670145396A49C136CDDE0BF66BDB994036EB5D98BE67911EFC6CAFB0CAD3B75A78
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 71 1c 88 9f 0b 53 56 b2-df ac ef 44 25 98 a4 c1   q....SV....D%...
+    0010 - 7d 6e 62 91 24 49 ba 02-ed c1 cf c4 78 45 1b 32   }nb.$I......xE.2
+    0020 - de a3 6c c0 d2 21 3f ad-21 9d 11 94 e0 88 ed 8a   ..l..!?.!.......
+    0030 - 5a 26 67 9b 37 33 5f 2c-14 38 e2 a2 e5 53 90 43   Z&g.73_,.8...S.C
+    0040 - 19 3d 82 6e 21 85 65 4f-ce 92 a5 eb 1e 0b 29 1d   .=.n!.eO......).
+    0050 - 08 3c cb 75 0d 20 d8 a2-ff 3f d1 f1 59 cd c3 ce   .<.u. ...?..Y...
+    0060 - 2e 36 10 8c b3 72 c9 b7-2f 3f 0b 9b 62 ac ef 84   .6...r../?..b...
+    0070 - 9c bf 16 af f2 3f 28 04-4c 6c e4 cf 4a 77 37 cd   .....?(.Ll..Jw7.
+    0080 - 83 26 2f f6 20 3f 21 5c-4d 56 52 81 58 19 02 64   .&/. ?!\MVR.X..d
+    0090 - 07 22 41 a4 9c ae 51 ac-17 7c 73 b0 9b 8b d3 2f   ."A...Q..|s..../
+    00a0 - d0 f4 e6 48 2e f4 5a bb-7c 2b 08 53 b0 87 d6 00   ...H..Z.|+.S....
+    00b0 - d2 58 3e 00 15 b7 e6 ea-74 29 3a be 43 07 06 3f   .X>.....t):.C..?
+
+    Start Time: 1560949225
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

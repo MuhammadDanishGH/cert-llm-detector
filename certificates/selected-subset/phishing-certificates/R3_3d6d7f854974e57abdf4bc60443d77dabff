@@ -1,0 +1,98 @@
+https://verwalten-sparkasse.com/sparkasse/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = verwalten-sparkasse.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+/BcyChHfFQ1r
+-----END CERTIFICATE-----
+subject=CN = verwalten-sparkasse.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5247 bytes and written 443 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 31650329E39C4F814CAB0E9635BA73F9B6904C02219204EF2023C4ADC5DBCA3D
+    Session-ID-ctx: 
+    Master-Key: 09F6425556D9F2EBDAF744C1064F1CB79B812DBF865C9BC1F8FF89E8AF7387C21E995A4BEC843D7237274FF5E6158734
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 86400 (seconds)
+    TLS session ticket:
+    0000 - 0e f9 ed da ef 07 b8 fc-b8 55 91 c0 c8 71 b4 e6   .........U...q..
+    0010 - cc 7a 86 d0 de 21 c0 9b-40 74 2d fc a6 ee 47 77   .z...!..@t-...Gw
+    0020 - 31 e1 f5 6d 26 c9 45 e7-ce 71 2f 0b a9 3c 85 f3   1..m&.E..q/..<..
+    0030 - 37 bc 21 3b f7 24 ff 99-08 3d 7e 9d 42 f8 4d 4d   7.!;.$...=~.B.MM
+    0040 - 14 b8 c4 90 cd a7 80 9e-f5 19 39 24 15 d3 51 5a   ..........9$..QZ
+    0050 - 74 c3 ed 98 17 bb c5 b3-4c 4e 7e 4d d2 fd 53 15   t.......LN~M..S.
+    0060 - cf 48 e3 4a cd 0e 48 e7-c1 5d b6 96 a0 a0 cb 17   .H.J..H..]......
+    0070 - 44 5b 53 c6 a6 d8 b2 50-32 f1 16 25 0b 21 5d 01   D[S....P2..%.!].
+    0080 - 83 89 f7 32 cc 3a 6a 3f-7d 7f 0a af 57 c2 c3 04   ...2.:j?}...W...
+    0090 - 96 8d 7f 4a c9 e9 98 70-36 af c4 5d 6d 07 e2 5c   ...J...p6..]m..\
+    00a0 - 32 d3 d8 7f eb 44 5d 95-14 67 59 f4 78 1b 78 8b   2....D]..gY.x.x.
+    00b0 - eb 7b 19 49 3d 4e 18 e1-df 95 8a a9 54 53 4d ad   .{.I=N......TSM.
+    00c0 - 10 f3 45 ce a9 4b da c2-cd eb 6a 4b ae d1 74 7e   ..E..K....jK..t~
+
+    Start Time: 1637365410
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

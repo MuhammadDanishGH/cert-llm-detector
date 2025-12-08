@@ -1,0 +1,65 @@
+http://poseidon-s21.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = poseidon-s21.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJTCCBA2gAwIBAgISA5nEczjfpbFUQNkBOFW6pawmMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MzAxNDM0NTNaFw0yMTEyMjkxNDM0NTJaMBsxGTAXBgNVBAMT
+EHBvc2VpZG9uLXMyMS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDr8GqNAu7aWcV206UhUleV1fP4l3396r/lc+os5cUi1k2etlO3O2x/O3aj19zq
+98P8XcFTpYqBPYPShgYcC9hvHBHh7ku9ttXWg8oX0HWHTZVmVC6gFsV2yFyvDO4d
+4EIJeh1RwtGqWb/zRu8tAb7Gtu9RCSJXQ9DZursDoTvGL0tCodcb+0pjTkngsz4B
+SQIRHfmvYoQG89NbhwFQG2OUvVwd7VQPf/vM1tIYAEisq3xZKdEgcC1tyq+KGfb2
+KFAdXbLlHuIlEpL5r9DKo98uI/7irDriDDvs5/5n33vyqxRhVNLTthGyhyeH4NAl
+2qh3B23cweeh5xutzSUtzd2lAgMBAAGjggJKMIICRjAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFGI7Z/gjG3MZ2aWAjADH7+OLpYCoMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMBsGA1UdEQQUMBKCEHBvc2VpZG9uLXMyMS5jb20wTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgD2XJQv0Xcw
+IhRUGAgwlFaO400TGTO/3wwvIAvMTvFk4wAAAXw3WBzEAAAEAwBHMEUCIC5/yxZz
+aeZTaax6UkbfmvJpgI/mGalFJE8auTgQbrsjAiEAg+WPKM8eSS0QgHtUQe7J43+y
+aAex46Ydp3gC+5mZeDkAdQBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOWtbaB
+qAAAAXw3WB0FAAAEAwBGMEQCIEuqphU5pnjAVf2bXutxLUIRU8kKHGSbyWuSwM8t
+XbigAiBZjV1HRxeZVMRLWKVInDPd2y8S/e/H1CRe37rujDkVszANBgkqhkiG9w0B
+AQsFAAOCAQEAdcL/T9Po8GCoyCCqtMwBisC4ulJAIrO+bT37xV2RALe8BzayEMG8
+01E3SStwcOY04NcfMNr/5MNiFFZWuvPmnBEALQk47CviqAT8IF2G9Rp1jkYmSD8m
+MDAzXlqtE0bhLBif6xtI1nXBDFNe6mwceWONJF4N3+5hY5F5S3WXiZWRVZda4ovI
+nwTcZWDctf0i2BkHzJYJeWb2aGpk2g02+9h7i4E9hw13/lGUCR9hr8sML9EQeje/
+E+Z/dLsW/LfTsNnGT6Pc2eM790jYJdwzznwgNonIgLetNnobSezrLKSCEaP4+idt
+9NjH1IPUnxjDc4R5xY7Tqkb1YWCbZNHCRw==
+-----END CERTIFICATE-----
+subject=CN = poseidon-s21.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4577 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

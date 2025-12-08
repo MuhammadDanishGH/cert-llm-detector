@@ -1,0 +1,91 @@
+https://icloudid.ru/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = icloudid.ru
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTTCCBDWgAwIBAgISA7MgiqwrTlDtvYcOZCi+r1ZSMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MDkxMjM4MDRaFw0x
+OTExMDcxMjM4MDRaMBYxFDASBgNVBAMTC2ljbG91ZGlkLnJ1MIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxkcdTuAq6YwCxfyt/AhWYb14iZnuIWzMLkmu
+fYNVakRZFnsCphHiZnCiP4lvjU1ZtzBGVp341b65zF2EpZ2QOKZMBG557MOtemvT
++AcsUw7Cc7B54JT6Ywev2FAWCN51SDA2LPszJvanOR3iNAujFVu18qnLh/av4doZ
+Zz45GFtMmvrd2XaG6uzv3wC71d/P6fhDal1AKSLl7XImJ2ioQIir9wEQ3yOd/Omv
+tdAenLEh3MjvMuUxqhQnP9KMLpFgnMVxIn58cALDAQ9PF6nliKVb8uOlBuyHAyMf
+xwlZQj0BkLPIvo1Wp/BQVtFYULZQ2ZxYOUBh0OhtAgGzZIIu+wIDAQABo4ICXzCC
+AlswDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTitPD3KcjweVfqO/UwtXfmH1eP+jAf
+BgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRjMGEw
+LgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5vcmcw
+LwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5vcmcv
+MBYGA1UdEQQPMA2CC2ljbG91ZGlkLnJ1MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcG
+CysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5
+cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYAdH7agzGtMxCRIZzOJU9C
+cMK//V5CIAjGNzV55hB7zFYAAAFsdpnEEAAABAMARzBFAiEA2Na1ATHJFn2v4fjj
+/FZezoPBFQtCx+SuJO2TvcupBiwCICxjU+1nCKYyACqt6O4rRL29q0ekHb/3pmPG
+p0cv2WkyAHUAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFsdpnE
+EwAABAMARjBEAiAzL8csMCBbZdDg5O1fzavKtgbHDkBetlNjim/Sqjj8MAIgdm7I
+mq+sm6Mq0HV/+4Zl9jb2m2jl2Dwg+oouBf77dFwwDQYJKoZIhvcNAQELBQADggEB
+AIZrpq1HLhJb5CH7cH0YoexuXQJroCLmwc4HQUtBCjTnjPsB288ANoe9W/cfkw9I
+1OUakDIp37P0AQPJHHTFGjsur/Rao4tegv3WBrKgLC6rf2Y82O/xa5w/yeI1+5ap
+fk+QoyY2lx2owV0w/Wii8zsdJApH1ka4XMX3xPiGkpuyC5tKK3aVaC/g73zwiqFj
+UMkec/YYdHb0mxkl2EFujHys1auWq7K0Bun38PZQ8zr+wWl+MGZl6esXdlKr8Vet
+ja9mBuV6acV9tU+lC+M7sp0LW2gWYWigd28IAbLm5Hq9A5GPUi8LdmFRmMRMLuxo
+Mr4e8MSthdHDlyOtfg5sw2A=
+-----END CERTIFICATE-----
+subject=CN = icloudid.ru
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3207 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: CCF79A6F006FCF998D3A63C39DC763F11D391B469A5989E78818795D8DA867E7
+    Session-ID-ctx: 
+    Master-Key: CC787103AA1458657C72428008A760898F73467FC5D875BDF22BE12A4F4DEB48358215D92C72B48DF9745D9BFEE09F6E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 54 6e 67 b2 e1 5f cf 54-d3 03 5c 2c 38 9f 3b 86   Tng.._.T..\,8.;.
+    0010 - 09 15 4d 37 46 30 5b 7d-56 9c c7 ea 97 78 97 a6   ..M7F0[}V....x..
+    0020 - df db 24 75 bf a7 fe fa-5a eb 9c c6 c6 0f d8 d2   ..$u....Z.......
+    0030 - b0 03 40 bd 8f bf 73 1a-38 cf f5 71 15 59 22 58   ..@...s.8..q.Y"X
+    0040 - 6c ca 6e 9b 0a 4e 85 2e-e1 c4 14 7a da bd da 92   l.n..N.....z....
+    0050 - dd 7d b7 e9 3f 3f b1 c2-09 76 cf cf 6a f5 51 67   .}..??...v..j.Qg
+    0060 - fc 6c 5a 39 a8 00 ac 54-23 d7 b9 ca a6 1c 3e c3   .lZ9...T#.....>.
+    0070 - b4 cf d6 ac a4 2d 66 48-d7 18 c2 35 40 ad ca e3   .....-fH...5@...
+    0080 - ed 6b 98 fd 99 11 2c 85-2c 78 f5 39 2d 3e 74 b1   .k....,.,x.9->t.
+    0090 - f1 8c 1a 0e b7 75 1f d0-74 da 5f a8 4d c7 1d 91   .....u..t._.M...
+    00a0 - 5e d9 90 68 c3 1e 5e 64-c9 f5 b2 a6 9a 3f f7 69   ^..h..^d.....?.i
+    00b0 - 68 3c 65 da 98 d8 24 f7-b6 f5 04 af b1 24 0b fe   h<e...$......$..
+    00c0 - 50 93 86 b1 f1 ca ba 85-08 48 3f ec 76 e8 62 8d   P........H?.v.b.
+
+    Start Time: 1565528424
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

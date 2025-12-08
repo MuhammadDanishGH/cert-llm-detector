@@ -1,0 +1,59 @@
+http://rvvojhblf.emqeghb.cn/instagram-me
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.emqeghb.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEXTCCA0WgAwIBAgISA4YCNsAll3CjL/FnC5cpVjzqMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA2MzAwNTE2MDNaFw0yMTA5MjgwNTE2MDJaMBcxFTATBgNVBAMM
+DCouZW1xZWdoYi5jbjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABDYfY5WbGgcl
+MzZjF8Yyz8ha8Cgkcnql540NWKgoNb7iuq+vn3snihOHZeV8W3+/HkbxqXcUVUjL
+woZjpxIFOOijggJRMIICTTAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFOznOzZbxWfW
+rdMRMNj5A8wmK4ZEMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUG
+CCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3Jn
+MCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMCMGA1UdEQQcMBqC
+DCouZW1xZWdoYi5jboIKZW1xZWdoYi5jbjBMBgNVHSAERTBDMAgGBmeBDAECATA3
+BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNy
+eXB0Lm9yZzCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1AJQgvB6O1Y1siHMfgosi
+LA3R2k1ebE+UPWHbTi9YTaLCAAABeluPbL8AAAQDAEYwRAIgGA2Hk2u8ivuVe0OY
+ZtaaUFYsATot242i3qNYTRGKhYUCIFTX1aO7yQjyz4OP/sVp/SxBBGGIYAFPxBLK
+jTP8ks78AHUA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF6W49s
+vAAABAMARjBEAiBFmixYufmD7WNuAjp+2JhcfGZAF1+bZkAzkJNcd6rOYwIgEdoV
+8sMsXGXTyzM5jWgNIBD4o0rri45mCna7sEEedKkwDQYJKoZIhvcNAQELBQADggEB
+AAbLZ7r2oTxBUcJm56KqnAUK0AU3f/aP1rmEPSlF8wWXLkLRo7qvG7aZdorIW/+z
+RoI2pUvmNr+vtM3J/6lJE9OrJbGjdTZeIHDpooFHF9t5x6wqRqoI6Bb932/71ZCU
+8xt+2JyPaIqkR7vJoEQ4wWMwL72pJoIRfDp08/K+E3ImvlD9DZcHp0EVCGkuOjAi
+QHitNMljHx4jojXcQhHruTifogqeYciNs5OZS+bOexeUCpKorqyqe9WlyeaZy7AG
+W2TXZNWpleGoOvuU3bLzEjQav2oMo980zM1KTxy32Uybm6TT402ONc/BtjJqSOD/
+X2wJfDkXuVdFYdn6/1Abols=
+-----END CERTIFICATE-----
+subject=CN = *.emqeghb.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2564 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,96 @@
+http://bverify.insightmag.net/Bank%20of%20America%202018.1/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bverify.insightmag.net
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGATCCBOmgAwIBAgIRAJV0MI2BxxYYNjyIAwd4f6AwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTExMTcwMDAwMDBaFw0yMjAyMTUyMzU5
+NTlaMCExHzAdBgNVBAMTFmJ2ZXJpZnkuaW5zaWdodG1hZy5uZXQwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCoWlHm82IO8yqzD9d5YUJWW9MDjEl7kA7O
+gh+os7Kjy22Vyo5zJ+S+3APUHT2RrxUtyLbDhdGzYo4Onrbsh9c0cjtcc1dsk66+
+dUPQmAhlCFc7oIBIycG9RA2EgasWUal4znI7MYsvSa9vh/qVo4ue9caveWgTSpgN
+T7km8f5z4unuPj4DZ3XikRnWQxraWuAl8fJGDKvTi/vxYND9zPNrwLzLPqfEPV7s
+qnD6DQ0JWP/zO8ZitHNPGYgZ+E54Qx593V+vNusqm4TWR/x4f9Ig5sEKIEu4EAbH
+zWpRmbXBL3yVvxDCQLVh9HK0uVYkpeXrD6FriXkQ5LWkwEXjnJNdAgMBAAGjggLh
+MIIC3TAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU
+ICjf3bVdf6FjfMjxp3/RRehQQUswDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
+MAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYL
+KwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9D
+UFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2Rv
+Y2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsG
+AQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGG
+GGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQUGCisGAQQB1nkCBAIEgfYEgfMA
+8QB2AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfS+JomcAAAQD
+AEcwRQIgckbcnBqt/y1DE+cgnqSnGfwU4LpIAPWwaQ3HRgjLrBwCIQCyhThTPd1p
+F4Ts/t6l8MTcqaU2PJ1Hl4ZJU3MGtUtzlgB3AEHIyrHfIkZKEMahOglCh15OMYsb
+A+vrS8do8JBilgb2AAABfS+JoiwAAAQDAEgwRgIhAODinztSQnbqTgU/bIWMQjJh
+awzGBnOUFXnuAzE4vDkKAiEAg/FD9CPVCOYrvFvEDqGcjqmgZZZ5uvseU4MYPfUZ
+hncwPQYDVR0RBDYwNIIWYnZlcmlmeS5pbnNpZ2h0bWFnLm5ldIIad3d3LmJ2ZXJp
+ZnkuaW5zaWdodG1hZy5uZXQwDQYJKoZIhvcNAQELBQADggEBABF4bhg6YEjl3y5r
+e5kRj667MPOfVSWuBZjNjOSsHt8b+WXWmBhQfa2jtz7JXL+rrEjc4jSaVFuM5agb
+MI9E8UUDuTg8gl/6LJMcRvRvCrEvu/T0JxinlmtPLhpUW9wp2YA2J/VDpRFNtrVS
+Rd1ankggcm/ghMyR3uFYDxuk0I7xVZ8NEgR4y1euG0vrprhoyIqJ/Swr7KieKvSL
+Ws2uCdelPwwdTl2WDQvm9swQL3IC8KsAId8FWJ09VBT8+3IK1+ZwPkHvkz/uBsG5
+tnr2KQLx+PSM44tilBp+rRfjULT09RbWKRDl20JkGY1owcftq+zRm4tkbjEfj3NC
+P4+6eXQ=
+-----END CERTIFICATE-----
+subject=CN = bverify.insightmag.net
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5137 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 166A448FBD2F6AFB41295189745F2BEF2439BEF1247E1D15CF3D14DD1C56263A
+    Session-ID-ctx: 
+    Master-Key: 69F86636C55B62C3521CCEA1C6F9B6E9B871992FFFFF3DF041415D879DDA70F4116686D2F7C6A3B0B12BEEFA85C22038
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 28 79 a5 19 b1 43 1c fe-01 6b 1f da c4 93 70 42   (y...C...k....pB
+    0010 - 1e 7e 04 e9 7a 3f c9 04-fa fd 4e 7d 71 35 56 bd   .~..z?....N}q5V.
+    0020 - df 51 5f 12 e4 12 a9 5a-f1 8c 84 68 43 57 ef fb   .Q_....Z...hCW..
+    0030 - 55 7a 67 9e 8b 13 7b fb-c2 8d f5 d5 3f 0f bb 84   Uzg...{.....?...
+    0040 - 3d b8 f3 4b 0a a2 99 60-50 93 e5 2e dd e3 29 d8   =..K...`P.....).
+    0050 - ff b5 1e ac 96 fa fe fd-22 8f 98 15 80 c6 44 9c   ........".....D.
+    0060 - 55 08 8b a9 e0 ff b9 bd-ac ba 10 8e 14 cc b5 28   U..............(
+    0070 - ca aa 43 91 16 59 c2 a1-22 7c 56 ca 7a 7a db fc   ..C..Y.."|V.zz..
+    0080 - 1b c2 72 9a 24 73 b9 84-67 3a 84 ed cc c3 02 91   ..r.$s..g:......
+    0090 - 37 ec cf a2 40 37 19 37-cb 16 d3 57 3e 85 92 18   7...@7.7...W>...
+    00a0 - 68 db 75 24 0c 5a 26 80-73 72 29 dd 84 6f 79 c0   h.u$.Z&.sr)..oy.
+    00b0 - 8c 8c 43 3f 13 62 66 79-5b 69 0b 9e c3 43 e9 a9   ..C?.bfy[i...C..
+
+    Start Time: 1638492259
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

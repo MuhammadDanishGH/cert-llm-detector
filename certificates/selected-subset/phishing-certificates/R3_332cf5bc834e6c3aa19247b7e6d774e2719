@@ -1,0 +1,91 @@
+https://www.hiflyk04504.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.hiflyk04504.top
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLDCCBBSgAwIBAgISAzLPW8g05sOqGSR7fm13TicZMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTcwNjQ4MTRaFw0yMjA1MTgwNjQ4MTNaMB4xHDAaBgNVBAMT
+E3d3dy5oaWZseWswNDUwNC50b3AwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCuXmt0GUNd6VsKgVGdXwP+P6OaFQDRi7gDe9n2brmbQ9UjqHXYTdHqNH7H
+dVgMd7JNRLYg+ZRCmOBOrNa5EDeKqj+TtUnARlfcYJp3fWYwgPL52lzYs/xb+O1h
+hLfLOsIo+BPUOsojeKSONj3c9UFDdBN71xTqGqFfY6DRVdPMITOXbLkk6q84SQoO
+qODE740eXLnHS1LGDTvZS70qKD6AIuRMT2+nmcFEMDKvtFoNMjm3C5RM+VkC+j3e
+ckN6IvKxDG4repikAEnw2RGvfpZMJR6fi4OB3RbsQnWXy5XyhYGKkWXHwGr/EmO+
+lhzCrd1RJtMVE84PJEwQg42Fb/rBAgMBAAGjggJOMIICSjAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFBDOXmlI87k+AkeNwsEaEOQOl61QMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMB4GA1UdEQQXMBWCE3d3dy5oaWZseWswNDUwNC50b3AwTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBB
+yMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG9gAAAX8GpzGIAAAEAwBHMEUC
+ICq9nPparfd1kOKXFiODtnWOK2XPQcQF1xepOcr6Cj60AiEA9SBmi9EbEstgG8k7
+fdeJBbSDBKHfrOsGGWUPiiXXOBcAdgApeb7wnjk5IfBWc59jpXflvld9nGAK+PlN
+XSZcJV3HhAAAAX8GpzFzAAAEAwBHMEUCIQDAGoZ7qAPw3j3xu0oargtPjEenEyDm
+48+VE9yxfPZU2AIgSIe9ASidahYbgVxxmvkCCMAiFndj0RhDxfPmA4P/3cEwDQYJ
+KoZIhvcNAQELBQADggEBADqorKR4VuReb/zw8W/R+izLv2pqmIbyIRXF8gnZ/i+D
+/K9YppNET2XAGqc8bnHHru9IyanBNMmsgXKp1Zc6b1TB6+zRbJsSjQpVUcdOIVhn
+7PEt7BAhu4b/53cDl01+RWqkJrHac+PzcAtcMBJFsKzo/BgiCfixA9BtnbQQUZgf
+GxtXXUFPUU3MdvsSZu7432hyHYgpbs+MBWDLMtWkaX95h++pBZO3E80F/XKYKkp+
+t2YgPLvmCNPeHMVm0euI80xP/k1An90cIkg3sJzRdHsRsOM74JXEc0LoF0VXjkNq
+VUSC1sXVK3wsPfsnA2mQWThYtMIcPckCTB0nX5KRpTw=
+-----END CERTIFICATE-----
+subject=CN = www.hiflyk04504.top
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4710 bytes and written 439 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: A1B9183A177CF8A8754C42CD644F8B830D878C8DF46B3CC54A8FC7C6BA8363F8
+    Session-ID-ctx: 
+    Master-Key: 94D9F0930C428457BE4942949CC9E65350826137307DC783276C1331FFE288D3A6F45C0EE2867BC3530FB0E9AB84E1FA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 7b 3b e1 ec 3b cb 02 d8-33 8f d0 58 5a 38 ae 12   {;..;...3..XZ8..
+    0010 - 9a c1 a5 1a b5 c5 a7 08-a4 fc 01 75 c1 61 05 34   ...........u.a.4
+    0020 - 1a 2d fd 88 01 ea 8d 4f-64 d0 ef 2d 9d bf 20 40   .-.....Od..-.. @
+    0030 - c9 d0 a9 45 ce 6b da 53-c3 c7 85 b5 a6 f3 33 22   ...E.k.S......3"
+    0040 - 9d 83 09 41 ee 88 ae cb-9c 69 fd 8f 2a 33 00 7c   ...A.....i..*3.|
+    0050 - 74 80 37 d5 d7 70 cd 68-07 25 6c dc 5d 72 1d 71   t.7..p.h.%l.]r.q
+    0060 - e7 ab 2a 85 1f 9c 8f 55-19 2c 63 48 04 32 15 c6   ..*....U.,cH.2..
+    0070 - b3 10 f0 de 6a b9 d3 b6-ec 89 4f f2 f6 ec c4 1e   ....j.....O.....
+    0080 - 47 98 44 b0 f4 fa f6 ac-c5 39 4a ce 0e 53 92 25   G.D......9J..S.%
+    0090 - 07 78 6d 9f 03 cc 0b d9-0b 5e 4b f3 1f 84 c7 9c   .xm......^K.....
+    00a0 - a0 5e 97 4e 28 75 6e da-ab 4d 9f 6c 20 75 85 ea   .^.N(un..M.l u..
+    00b0 - 3e 5f 1a 67 46 f3 6f fb-62 17 2a a8 e0 32 42 2c   >_.gF.o.b.*..2B,
+
+    Start Time: 1645677092
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

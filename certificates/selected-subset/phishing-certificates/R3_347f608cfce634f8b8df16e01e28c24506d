@@ -1,0 +1,60 @@
+http://garena-freefire-vn.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.garena-freefire-vn.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEhDCCA2ygAwIBAgISA0f2CM/OY0+LjfFuAeKMJFBtMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTYxNDMwMTBaFw0yMTEwMTQxNDMwMDhaMCMxITAfBgNVBAMM
+GCouZ2FyZW5hLWZyZWVmaXJlLXZuLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEH
+A0IABBNB4PXLndlVMujA+OQIlYrWjgE7f2w06VCaJW763p2hwq18tcdqttq4TdwF
+b1lm9sNigu7gb+etpKfDo5LEc72jggJsMIICaDAOBgNVHQ8BAf8EBAMCB4AwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFJaVXB27Lq8OBVHdHUMwwCYY4mePMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJ
+QOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3Iz
+Lm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcv
+MDsGA1UdEQQ0MDKCGCouZ2FyZW5hLWZyZWVmaXJlLXZuLmNvbYIWZ2FyZW5hLWZy
+ZWVmaXJlLXZuLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEB
+ATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUG
+CisGAQQB1nkCBAIEgfYEgfMA8QB3AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaN
+sgiaN9kTAAABeq/we80AAAQDAEgwRgIhAMTfPnLIc0WNQuNmIrWT2xoE+X1QoO47
+KlRij7aa9EHJAiEAiLO/BrM8moROLl8laIAGggfMfpMS8gZWy5OxG0+yTiYAdgB9
+PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXqv8HvPAAAEAwBHMEUC
+IANsj6NWeQU7sHU6nSc/Si0i//DnIqXJMGn5iBQ5ZTImAiEA7rfXHfNSNUKW05bW
+OBIkFshN6sagGckmiBCLyMO9wKYwDQYJKoZIhvcNAQELBQADggEBAKZY4IHXKPO5
+7qjoKTja0dMJFuqEeg8ZAPzNPnaT6g+ACck2wb5HBJ1LsBQtjIP7BjO30gTnbZiz
+sln8LLpz0MEmt7UVoxnz6+5DHihX0J3o297QtAHyHU8xbcdd7NznAF2wXTObfxjM
+9jCKLjsSHDZ/0m6Q8Ob/bZjlk1WANRe8GQUbWCT7Zd/H/zcPQhXEsRvwrw4EpGms
+q0r/orjLqq2ktwZOI8dVwBr7Jwyx7PgsB1f1kXh93RuCuTcu6CARjAWQumK4nSmc
+dAgBaaS20IytuoKbueMLDG6JNUxgtQ3xB0lOJUWSMHf1GbVPM1kUCO+A3q5oGT2l
+6B2LVdD4Ypo=
+-----END CERTIFICATE-----
+subject=CN = *.garena-freefire-vn.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2602 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

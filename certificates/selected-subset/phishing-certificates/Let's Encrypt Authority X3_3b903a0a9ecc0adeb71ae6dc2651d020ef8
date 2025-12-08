@@ -1,0 +1,65 @@
+https://www.car-myjcb-mail.top/index/login/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.car-myjcb-mail.top
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdzCCBF+gAwIBAgISA7kDoKnswK3rca5twmUdAg74MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMDkxMzU4MzNaFw0y
+MDAyMDcxMzU4MzNaMCExHzAdBgNVBAMTFnd3dy5jYXItbXlqY2ItbWFpbC50b3Aw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCaHNCRypUChrVAuZU3Qdxx
+XCjXoSN3AYlePHqslLglvXL13Re94FXFWc+jp/93Apr9Knzhu+1mc1qRZ9DkC35b
+aH1BJ1r+8ve3sLSEhrC85hPIt9lwfvNntCDD6nokoqREH6qWtWz85YObVm7zV3YJ
+3raq5JsPAboxtsLGUXZwgk4FP+zWJatsox0WWCq+kgX+/8ltmVvvNo1/dDWr/yfX
++0q8G89/LkFbau5fSwCjK6zSmdLiFxkGBVli4ZqyqQYyKlDxiWOAfm1DPF1ZupiE
+qO1XASUhOTx9XcZHvilGYFYP6b14qZboU4Zry6kgkuQVbTT2aDz3vKnrBzGrEKXZ
+AgMBAAGjggJ+MIICejAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFG2+rM5sb6bF3N6j
+kL1uKT/TEqLrMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsG
+AQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZy8wNQYDVR0RBC4wLIISY2FyLW15amNiLW1haWwudG9wghZ3d3cu
+Y2FyLW15amNiLW1haWwudG9wMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUA8JWkWfIA0YJAEC0vk4iOrUv+HUfj
+meHQNKawqKqOsnMAAAFuUKyEtgAABAMARjBEAiAzj9zBNutKZs4tQ8HXIHexvZMZ
+b2Bh0/vXRh+qGdTllwIgQQSh5DFsL/4/R7AUnzuHq7M+bZBkc53ndJdRNo/3jL0A
+dgCyHgXMi6LNiiBOh2b5K7mKJSBna9r6cOeySVMt74uQXgAAAW5QrISnAAAEAwBH
+MEUCICEPr5DS2kOanusbKoM6JogvDc907O0O5FlCDIcNeQ0JAiEAob1KrQ6CJPYs
+ExSsXHxAyz9jLLw0i6aEjFaT5itZyH0wDQYJKoZIhvcNAQELBQADggEBAD9PhLpI
+LKS8qiNtbxe/U0ZgytI/xAWGoNGnxpUzyGvJQk4/xRx/NKmEyC35iYjlYME7dorI
+EozFiZXeOuGMhXh5VVyITtdD+5rsYICbh7EGRUULz40lYX7Yz9vgf3mbBRbsyxkK
+3a1/w4tDQEaiM4oTtI5rg3VxjK3sukgLZzP+jX4S2O+p6IFi7ErN/xOp8wtMG/Zg
+OnXcx1teHsnLDn32ylTZvcO2huHrHa5m8L/gdocY0+5b9SjxolMKRrRYRuJGOZWt
+LM4CEdxoptOpizHaO7O/hOK9BnCVTPxzJJ53r/vyCEk0HIWsTBjE0bX3q8uNKDF7
+bDkoF6489c03qdc=
+-----END CERTIFICATE-----
+subject=CN = www.car-myjcb-mail.top
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3142 bytes and written 414 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

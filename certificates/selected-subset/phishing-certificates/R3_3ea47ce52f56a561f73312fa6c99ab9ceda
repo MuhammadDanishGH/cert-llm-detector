@@ -1,0 +1,65 @@
+http://liquidamais.net/z-589622140058/789520l/product.php?sku=4858932
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = liquidamais.net
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFIzCCBAugAwIBAgISA+pHzlL1alYfczEvpsmauc7aMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMDMyMzI3MTRaFw0yMjA1MDQyMzI3MTNaMBoxGDAWBgNVBAMT
+D2xpcXVpZGFtYWlzLm5ldDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AOVLHf8Pn7wytGX0wdfTTREvscXy6xcidF+VSjReYbtlJX2II+nvT7vxRJwjcUqd
+xf2Y30Ug0rGhafS2UPNPMBQSFDjBVyUgSHEA0pJfckwP/bE8HLPwK12fWAwKx1wb
+ie5XhVMhkn2yEPy+SLF/Fxy8CftIz79+2HOdx1EyU9coGk4sAWzyfABQnHffBOy0
+DVr1LmckVO5B0gG7lmbshIn3HphHVgC/YcuwgzlmxbvnreeLBziesTy7TmBhAxPw
+FgBUzJu8gULNrptH42xPRrAbBtrlipeA23G6UNDUvmJq5MsIl9itMQWD974N+siM
+fLmife89jvBvYtKBwS3kONkCAwEAAaOCAkkwggJFMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQU9dsstzdDWNSXy+DaZaTeBW9hhiAwHwYDVR0jBBgwFoAUFC6zF7dYVsuu
+UAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8v
+cjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9y
+Zy8wGgYDVR0RBBMwEYIPbGlxdWlkYW1haXMubmV0MEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUA36Veq2iCTx9s
+re64X04+WurNohKkal6OOxLAIERcKnMAAAF+wiDFMwAABAMARjBEAiADtCh+E1Sy
+Zl2uCat+RrqaTcR8n0hX8UvXh82X0AnjSwIgHmUgRs+LsDU1RKBZWE0VCqdFfcD/
+tv41IQhXUlstDvkAdgApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAA
+AX7CIMUsAAAEAwBHMEUCIQCiHbKLLPWCE3b7QUBDOnIsTDbzcRe7G1TSwUrT455I
+MQIgN8m8VPiS19XxoLVSW3jwH0j4PebJwR+yW4DHKLOTbfQwDQYJKoZIhvcNAQEL
+BQADggEBALDGQZDKpE03qasjnOdkDC9XvD9Ri+wMGEKd/ur1x5rLLvmg8qAbrmwM
+qMOstLLp1vz0gcD2233/XBdPmf/JtVUfT4d28xBPgd9M1SpKieRBqBYOQDHlFvAB
+AX57KFLxiUkBst26YeZy9XCemHvGLEcsiSM2ka2Y+H9lD+A5KiwLQXy0mtCQNTXO
++PTboSUwKubT/IbrX1LBJlbEGCuy+HYET/yR5RJXWwT2upJ7XNfxd8vQPFJxK9Ap
+mWVr5LeAyINArF0GeRUFUAFNhrsBSd9w3rFWhyjtVLH0624r2pCw86GSy1pu4J2J
+kicMJxJodmmQaIqetxeu2bUEtKwJr4Y=
+-----END CERTIFICATE-----
+subject=CN = liquidamais.net
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4575 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

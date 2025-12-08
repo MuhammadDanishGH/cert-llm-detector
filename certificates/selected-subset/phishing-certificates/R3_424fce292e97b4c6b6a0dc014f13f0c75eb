@@ -1,0 +1,66 @@
+https://admin-myjcq-cc-ja.tomylove.xyz/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = admin-myjcq-cc-ja.tomylove.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFQjCCBCqgAwIBAgISBCT84pLpe0xrag3AFPE/DHXrMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTAwMjQxMzJaFw0yMTEyMDkwMjQxMzFaMCkxJzAlBgNVBAMT
+HmFkbWluLW15amNxLWNjLWphLnRvbXlsb3ZlLnh5ejCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBANNPrdMkaYlsqSuqxGIHWc8agM2mwF2CnwoyLWWHD5y9
+iiCaPR6tuaaQP6eJoxDcdX/8m3gbBK0CMmYmSR2mMgIWN7joeV2SrI1OGmVx8VV+
+XI/9VLvpThuyKtpsSHdY6WCKLwCn/zMbhLg+SWZi2XwqwcZLK8pdFDLbjo468TTK
+JYPMawUCcalJSOuZyEii+aS8QLf0fQQQEv3YeZkX0gkW+nP6JSwReb5OZ0VVhDyR
+YO37bzyJFrIsFHwCXulWHOfo2a0k6lZjhE1WR1R4bUpxLrmeL6Pp+VJkTzuOGt04
+0EZwNbmMkgngMwujPIXQScfORMjwxKJbsVYzsUshWT8CAwEAAaOCAlkwggJVMA4G
+A1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYD
+VR0TAQH/BAIwADAdBgNVHQ4EFgQUkfmU8U+1yvWO0eOZVyzazBxishMwHwYDVR0j
+BBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsG
+AQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6
+Ly9yMy5pLmxlbmNyLm9yZy8wKQYDVR0RBCIwIIIeYWRtaW4tbXlqY3EtY2MtamEu
+dG9teWxvdmUueHl6MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEB
+MCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYK
+KwYBBAHWeQIEAgSB9QSB8gDwAHcAXNxDkv7mq0VEsV6a1FbmEDf71fpH3KFzlLJe
+5vbHDsoAAAF7zcvVxQAABAMASDBGAiEAj+hDeowJdKNAOIx7QLcN6X4HIWiZtFhh
+2ynfyISIBWwCIQDrRPIoyq+JotOr7/ewA2IzrtV3l1RJ9MvSlTbFJ6RNCAB1APZc
+lC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTjAAABe83L1dwAAAQDAEYwRAIg
+axCyT4rTQ/9guflDHFIl4xfMC4Q1JfQK7qOUC+IDmgkCIAKFsYf/M9eLIoEIhoJ9
+eJ0Y1cZTAfzXsHa5el62K0O4MA0GCSqGSIb3DQEBCwUAA4IBAQAykFcfckTZwt/4
+6ocgGQer5NDAYcbKD/6zFpMb75vgu4FOYYPQY+aIEHhxhQkCiDuXHDY0X8wXuDIM
+pAXnNsh/hy+moYKeDMcS/Gl9TtSwweBbceTJdAS+FEQy+3280nPKBBmS0dK/dAW6
+8wmDJ3Nqr2tQCpUW5BmRRo6T5mOsHeQewBxA5mL/63cJ3ELVHHSHydLUm2EdwZhf
+pbTi4/Ixo205/Asau6mKQ0LN+4Vb9LX5v7Bm2S32HYhfyjRgEBe8/0Z/TUP+/mhA
+5OTHfPqcGwxSKCORPzlvV4DLGw5MK5R44GhI9ueqNdx/fuA8iEgFhnGGhUZHpsTk
+S0rS2rw1
+-----END CERTIFICATE-----
+subject=CN = admin-myjcq-cc-ja.tomylove.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4606 bytes and written 412 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

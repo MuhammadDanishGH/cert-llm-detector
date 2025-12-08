@@ -1,0 +1,73 @@
+https://depotassist-track.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = depotassist-track.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGvDCCBaSgAwIBAgIQFtbvrdJCn+1vj3I3kFrPZTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIyMDEyMzAwMDAwMFoXDTIyMDQyMzIzNTk1
+OVowIDEeMBwGA1UEAxMVZGVwb3Rhc3Npc3QtdHJhY2suY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsDv74JzDE4L+DPWuv5FP4QY0SDGpfdiX1dtc
+j5WDhom5uKDx3kwHhG0wsgywUICGfRj/V8aQMFB5ETXoAdv5XUOaRFDcnJWVwKkN
+mj6n0hLccXbzYGKFQcNyYG8OVvF7Fjhrp0z2f4FNrweYxBJAoDnXrFHaxfIVJfCc
+nFqt+RI72LS7Xpf4W6MH4fgHv4LbaOLHHi3BKqYrvpBM/HrJatqYgSW3qwMx+GZi
+XNL4vf7ZKZLu8AFW8xmAAdb9e8DZ3m+5E2SSnWqz29ligQ2snzk74zWKJd0tPScM
+wqPEeWnQ8cJ1u4DBB8zEud7zWA8cfwvet7dvy8xJk0gZJ1rzKwIDAQABo4IDnjCC
+A5owHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFJWN
+ewbNX4MZyOo3Dl5qfI6fo4sGMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAA
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysG
+AQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BT
+MAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2Nh
+LmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEF
+BQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQ
+YW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhho
+dHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAA
+dQBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX6HlxnPAAAEAwBG
+MEQCIA7oVJIxQkZy7c0+yNAbvmhenS3+Dm26cEGJZwX7Twb+AiAorYkLraK7UWar
+wQ6SQeSubwTTdrBKrIviYladfWdpBQB3AEHIyrHfIkZKEMahOglCh15OMYsbA+vr
+S8do8JBilgb2AAABfoeXGZEAAAQDAEgwRgIhAObSPzq8yhwsg0r5LPWlhhI40A/4
+WARJOEKxh92BqYhlAiEA9l1DBjosdfOms3GPs0OqDCU+1/0cgaZiZTXTajZn14cw
+gfoGA1UdEQSB8jCB74IVZGVwb3Rhc3Npc3QtdHJhY2suY29tghxjcGFuZWwuZGVw
+b3Rhc3Npc3QtdHJhY2suY29tgiFjcGNhbGVuZGFycy5kZXBvdGFzc2lzdC10cmFj
+ay5jb22CIGNwY29udGFjdHMuZGVwb3Rhc3Npc3QtdHJhY2suY29tghptYWlsLmRl
+cG90YXNzaXN0LXRyYWNrLmNvbYIdd2ViZGlzay5kZXBvdGFzc2lzdC10cmFjay5j
+b22CHXdlYm1haWwuZGVwb3Rhc3Npc3QtdHJhY2suY29tghl3d3cuZGVwb3Rhc3Np
+c3QtdHJhY2suY29tMA0GCSqGSIb3DQEBCwUAA4IBAQBQiRzrm/bEjYXl48AO6YWt
+6FPXVBTKdKfSS6NfXZ1DXv0YaKccZZjD3H+rwxQqWIIyqFDzDNuaPWWFvw7UAahp
+Y8brzc/UKCo9LrJV0u4ldNxxlUg6wnYlTsgqfjAN5S7QtlL1Dm/xwetXW+1lEhUU
+bP4VkB2n97wfdhPIIQJ5x1o1RnZ1ywSF16SYMSc/gi62FO3NF7ugGbyoXP5Uislx
+e8Pw9mAR4Rl/SxucZ7wLoC70FbNdbr0GiBsvs1Bm/lK+j8yu1mXTlf3EOj8IxuWE
+r7xm2+4nWYii+FPm985QhvHj8Gxo0WeF1dfOB1mLIgrvhMDeG+R5bnoWy73XIDXR
+-----END CERTIFICATE-----
+subject=CN = depotassist-track.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5233 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

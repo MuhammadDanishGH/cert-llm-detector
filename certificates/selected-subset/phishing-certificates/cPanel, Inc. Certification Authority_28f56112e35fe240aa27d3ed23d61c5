@@ -1,0 +1,75 @@
+http://video-viral-pink.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = video-viral-pink.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG/zCCBeegAwIBAgIQAo9WES41/iQKon0+0j1hxTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIyMDIwNTAwMDAwMFoXDTIyMDUwNjIzNTk1
+OVowJzElMCMGA1UEAxMcdmlkZW8tdmlyYWwtcGluay5kdWNrZG5zLm9yZzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKLCPfQNE/IwDO0bTgqL2svzQFbF
+rWMNh2keUbBAnLU+/ahpONhEi1CpNPDERC8B49U4o7aWHNYkWg08Vn2QN3zIFfko
+bkMPHYUbYFNSSN0ssiCIyuBm/UscVdn7MF5xTS+WLUoeBmWWucC6kQ6HQzvXwIWk
+lrEh+4NEmmXofxBSBvzdcAG4q2pz9k64M5KhQUCrg+4zNEsyQBmv93fyeiEmg5FL
+XhgWTigO5o47aswc7IZRnl46vIEoR3X0Wlk8et9sggc8NjOXUtEMTz9l4dapov0W
+2AbbR31vxIuKh3s9IL+3nBMlhmWcxtbp0wR/5lA5rQXd2Ylp8P0Ef9ch6oECAwEA
+AaOCA9owggPWMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1Ud
+DgQWBBQzTJfiSQsH28+mYrrbd4lWi/AIajAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0T
+AQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIw
+QDA0BgsrBgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28u
+Y29tL0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5j
+b21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmww
+fQYIKwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2Nh
+LmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEF
+BQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBBQYKKwYBBAHWeQIEAgSB
+9gSB8wDxAHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF+yi3j
+kgAABAMARzBFAiBmj/XMkAN+c5loY5eiLXq1ZXq1nWto6cEzs4LjNwO7HgIhAJoU
+XWy5M79J8Rp7KcUG4t5zAIZXWhDFr4AEMHOYKPnMAHcAQcjKsd8iRkoQxqE6CUKH
+Xk4xixsD6+tLx2jwkGKWBvYAAAF+yi3jkgAABAMASDBGAiEAg8yzcZKG61AthDBa
+dq/BnF7UL2dp6j/ESd/kvyHzdXsCIQDI/6+u6cqM3LCpEr+bLapTFg/yrpBqAfcq
+//Kotzq6TzCCATQGA1UdEQSCASswggEnghx2aWRlby12aXJhbC1waW5rLmR1Y2tk
+bnMub3JngiNjcGFuZWwudmlkZW8tdmlyYWwtcGluay5kdWNrZG5zLm9yZ4IoY3Bj
+YWxlbmRhcnMudmlkZW8tdmlyYWwtcGluay5kdWNrZG5zLm9yZ4InY3Bjb250YWN0
+cy52aWRlby12aXJhbC1waW5rLmR1Y2tkbnMub3JngiFtYWlsLnZpZGVvLXZpcmFs
+LXBpbmsuZHVja2Rucy5vcmeCJHdlYmRpc2sudmlkZW8tdmlyYWwtcGluay5kdWNr
+ZG5zLm9yZ4Ikd2VibWFpbC52aWRlby12aXJhbC1waW5rLmR1Y2tkbnMub3JngiB3
+d3cudmlkZW8tdmlyYWwtcGluay5kdWNrZG5zLm9yZzANBgkqhkiG9w0BAQsFAAOC
+AQEAbty1cFKjn0eVgYmAbgxgmXVfhpd+cf4KbSaWUW1pRUeoY0m2LO2D078Q+uZM
+qbEXF0AyXLvVakT4HF0v7dgRoPJIHjlWywKSf+A8xf19yuHtXVK+Qm2IhwMo50gn
+Ai/aWzRHRfW+tqSAv9HqEOty+8X8c236ti9x4kO0q4mo5Qg8bB5lTCUowzad+bxM
+VDklWO621Xq6WVXVKWLFypdGRcS0zckZcapOeeBa/gCsZmxEBBjgSrU5xzwZyC3f
+xTcsPkZNHUZzZCgMEE88X3bTFBsbKZYLnggDezFFzOafqZSv4WRmrxHlemjJJJgB
+7ePep41cMBDVCjF4ar6uWvErQA==
+-----END CERTIFICATE-----
+subject=CN = video-viral-pink.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5300 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

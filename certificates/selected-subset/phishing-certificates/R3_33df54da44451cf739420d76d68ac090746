@@ -1,0 +1,65 @@
+https://amazon.kmhsyp.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amazon.kmhsyp.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKTCCBBGgAwIBAgISAz31TaREUc9zlCDXbWisCQdGMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDUxNzE3NTBaFw0yMjAzMDUxNzE3NDlaMBwxGjAYBgNVBAMT
+EWFtYXpvbi5rbWhzeXAuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAsbrzEqBSg41aNVa0yRLtioN3qKlYpE+5AIvBBVUBUjn/mpbOholt+u/JUbYE
+sJjTg0yaMcFzHHadeb3U8ICGKnnRgG2kVwppMcOtngJS2O/ksCO63PfpnnDQMHID
+6JNEyDJR2AeYDFxn+6VPAqWhjsz1lV/M63ZYuc458tMXEpCkEHu90PH+An/0Yr0B
+lYq8SWOwH194Uo3ET0HDiJSKC9Q5hvxRxN72uQYSnD7FXDe8v3UqNS4dnaEFUDWZ
+qU07hQZms5yIB0rN2IzzfzwhWFi+Lau+ewn2x5P2FEiwwlEx0H0JZ2zqN06lCB64
+508xGdjcIcsDBKzXFxprsN5J0QIDAQABo4ICTTCCAkkwDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBQJwWBnuKDx0UEOr97hk+kGQQmc+jAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzAcBgNVHREEFTATghFhbWF6b24ua21oc3lwLmNvbTBMBgNVHSAERTBDMAgG
+BmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3Bz
+LmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AEalVet1
++pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfYvRAW0AAAQDAEgwRgIhAMZV
+wJ6amJq+tIu4dIP4TyrrHuUGQKxSphn8uNn99uS8AiEAjuyLXNRDXsGClmuqCr+6
+eW3daUwuowr+CI3Kk8oZdOIAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbII
+mjfZEwAAAX2L0QIMAAAEAwBHMEUCIEcXKQuRspoN0EJ8PZU3eL7Dl/wIzojgU5CT
+VpGQnOoUAiEA2rsbliJ1tXnzsWu2dfv68Fqvtm0ceZyK+725CSoLcl4wDQYJKoZI
+hvcNAQELBQADggEBADQkkHhSX3398XAGgrbefYTcIBjfUvrAecTlEz6oM5iAhAhT
+OVTXNjpyl7xe3+YEOemPkcxrcN9AI6SxUGVMyHjK3C2bnkj/t4mIROFmvYyN28Jg
+OnkAkA/aK2ZOe1gdPCYm0AMamSBLCcgOeY4K+VvqFZxhQczzVX/a/8s106BoZntX
+9FGB/PKcNDIL5QNd9xjB4mj3oTO1YmijPx2AFOiP+mbOqtlWx6EiU9jtAVZPAc9n
+QgWJhejPCk1fMoPBwZRj8duYKeiLOjaNIkQkPd/kqbhwUt/IdyDOB79wpbAFOXhZ
+E1XKHMMuh8M/Kk7nskQVc6iwMjDzN+rZS2MGsq8=
+-----END CERTIFICATE-----
+subject=CN = amazon.kmhsyp.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4581 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

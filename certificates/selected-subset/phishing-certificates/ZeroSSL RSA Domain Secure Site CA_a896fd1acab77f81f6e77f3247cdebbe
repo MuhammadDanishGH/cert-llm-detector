@@ -1,0 +1,78 @@
+http://pancakespotter.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = pancakespotter.com
+   i:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+ 1 s:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHizCCBXOgAwIBAgIRAKiW/RrKt3+B9ud/MkfN674wDQYJKoZIhvcNAQEMBQAw
+SzELMAkGA1UEBhMCQVQxEDAOBgNVBAoTB1plcm9TU0wxKjAoBgNVBAMTIVplcm9T
+U0wgUlNBIERvbWFpbiBTZWN1cmUgU2l0ZSBDQTAeFw0yMTEwMDQwMDAwMDBaFw0y
+MjAxMDIyMzU5NTlaMB0xGzAZBgNVBAMTEnBhbmNha2VzcG90dGVyLmNvbTCCAiIw
+DQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAM8EQOpFUfRbNb0wvfxd7ersqH2g
+5fkXDTL5szytY9ZUDvq8c0OBl/ZVRG9K4Aw1sIfEcpDPMizC2VeUK+SedUnB1Qci
+AWDZ/F3/U5SajWooeTycBt1z71NoSvBVzMqKUBetPASYYQT4aehRjDG1mQ/GvCbN
+zx4PpVMGdJux3W1MHHrj20of5DiRyWOfvnVyOYZy4POyJXaCQilfVfcDZlA8MC2z
+IzAHGTt29LxckkVELbXFrVUaDJSIM8cE2BC3W4pcahJlfX3FG+mqZPkOnY3SZ6zn
+qqBZD8jqcN/sPqnF2KVoFVAcFLC2LJZvXikuUubogwtO2yeAuKO7+fPKg4GmGE1y
+Yl/w4GQweVDx4USoMoWG+uS+ydyDM3reT192DCFmwmdMyWhfVs2QAeiAj9vLdash
+yQXhD8b0qa9ng4t2N8qnq2YzBNgUqZQQUuU1aw9m9eHH8K/yoAu8MSU8oKoTuvez
+7F0B03zXQlx3SOJD04XNEXq4gLRqJsZRiinnZx5nBGRCHLjvaMK3xXjTFsAj9b0O
+Etw280HZG00HZkgetl13Re7tWn8gIMsFoRAyE3cLQVoJAkTuS+R3Lh34m9VD27x5
+J53JZs8YTOFHwqxJCYcuqXuNRYk09TwHMZ4qUuhHO2AdlmoKuLEIRIuEY57qQNyH
++5KWpJfAbQ6k5U79AgMBAAGjggKWMIICkjAfBgNVHSMEGDAWgBTI2XhootkZaNU9
+ct5fCj7ctYaGpjAdBgNVHQ4EFgQUgudAb2FU0XuD87Ikeqf2VbLSrgYwDgYDVR0P
+AQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAk4wJTAjBggrBgEFBQcCARYX
+aHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGIBggrBgEFBQcBAQR8
+MHowSwYIKwYBBQUHMAKGP2h0dHA6Ly96ZXJvc3NsLmNydC5zZWN0aWdvLmNvbS9a
+ZXJvU1NMUlNBRG9tYWluU2VjdXJlU2l0ZUNBLmNydDArBggrBgEFBQcwAYYfaHR0
+cDovL3plcm9zc2wub2NzcC5zZWN0aWdvLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB2AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfEz0SvgA
+AAQDAEcwRQIgd9+ytHxuAKfxwmg1yZeO0jnkzVnQiF92VYKDTRLxSJcCIQCuqg78
+BqrolrdUbGOXTvJ2qQtEIroCmWgR8tejuPFR3AB2AEHIyrHfIkZKEMahOglCh15O
+MYsbA+vrS8do8JBilgb2AAABfEz0StIAAAQDAEcwRQIgfdxs2/vUDURjmRq5s2M4
+5ni2HZ/CXUd6CoPoOdyAk9ECIQC6RS+/HQcLZ5jR2zPh4Hl8YU75W5ZZmEpeD1NE
+ki0EeDA1BgNVHREELjAsghJwYW5jYWtlc3BvdHRlci5jb22CFnd3dy5wYW5jYWtl
+c3BvdHRlci5jb20wDQYJKoZIhvcNAQEMBQADggIBAEfXFjRcmUo076JuZw0GlZ8L
+AH2RxxtWSALttVnZFhmxUAqqxKYK1oWil0twi/31WpQkRvOtZTxmsv7wXkZ5rHE6
+L3Jqii723bMd0wv6Cizrw9AiapaY6yMoXd3Tt6vBM2iXEhCvVa6ZeDkEQjCDIFyy
+VFnEhtUnCmGRtgJRxhCN862kRR3p616R1GNbLvAyoE45NUVc8cMt6eL+QRWQrV6s
+EBeZKqTK2CivK+c+UzfUfQXc0/HzmQ6j55czt5MZPe9WFEF0ajIooJV4Nq3PvfMO
+XmBjMN3miHhMnSAhLiaTA2STSNpPZRnOAcmwZMZg686uNmRjZus1NIDkUPZtPLDh
+LNhTy+Ee4S9fMxNZFIBOER5GR9J445obbb5yaHTNKsKoNxWDphkgzMIJJB/g83Hp
+iWaPXvcdst90o+Du75SdEIas0tIFYkrgG4tN2qtFm33Mdapf8vrZ9bLhVNbO966n
+L8NJkqVSzYcBEBv8rhXR3TFIT7Ab6AQ9XBg24DufzkscQjNvuLWNjUjvzLxRO8+B
+B/QIf3s+3fFmuY9o3PXP7GkVaKGKdoowf5mystVochctxILPt5oL7My1d+pTYIpd
+VAsc0rG+41FCA0j6JZ7l9cJWIr7f5yFsPUPo6CZkIITxdnARgCWVi227sPcJ7gQ3
+ax8s7VE9pjnv6oYCvldL
+-----END CERTIFICATE-----
+subject=CN = pancakespotter.com
+
+issuer=C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5857 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

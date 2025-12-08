@@ -1,0 +1,67 @@
+https://bold-shtern.109-71-253-24.plesk.page/left/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bold-shtern.109-71-253-24.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFeTCCBGGgAwIBAgISBA9eV9ziD4FVq5ei7UQSiFfUMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjgwOTEwMTdaFw0yMjAzMjgwOTEwMTZaMC8xLTArBgNVBAMT
+JGJvbGQtc2h0ZXJuLjEwOS03MS0yNTMtMjQucGxlc2sucGFnZTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBALuVxKeRnF5uYOaw+EYrMhRx46aLTT79e91t
+8mIUwCqiLtOkZ/f5VAYTkTMl9UfWPeE4LWR27B+KvtiTsjdohBRGfxGmQLFtYyiH
+xjQtK2vL2RrQejYdJRfD6Z8jHtrMLcyPjtnnzm4gH9TPVLPxy385u2mr8+JiCzL8
+YOIavzAO7a5ztd5VilmrraZtjo7BSWqjLj5Imw2sVCDUoXVtZblECY27SjsmDF9f
+f/8EjkP9h0o3apqXtDteFQ6/fuNABsTUR/yjvrvjExVzbXqL7AAb+ivGto+2Pyvz
+Xdrm6WyhO4cl1binCoxrvPT6hmaH35+6nnIlJrVWO6F6AqchqIECAwEAAaOCAoow
+ggKGMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQURa78ij5jNK3vCORORh/oK4BHPMEw
+HwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBH
+MCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKG
+Fmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wWQYDVR0RBFIwUIIkYm9sZC1zaHRlcm4u
+MTA5LTcxLTI1My0yNC5wbGVzay5wYWdlgih3d3cuYm9sZC1zaHRlcm4uMTA5LTcx
+LTI1My0yNC5wbGVzay5wYWdlMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYA36Veq2iCTx9sre64X04+WurNohKk
+al6OOxLAIERcKnMAAAF+AITqxwAABAMARzBFAiA5XvY1jhHUdQ3GVOzWQ3yyFZrF
+rJ5KBEuOUq06snvZFQIhALVzrsXKA8E/2e2vqL8Zrja8bCRcR740kvHZLqejHweO
+AHcARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF+AITq6wAABAMA
+SDBGAiEA7PhRA/qeW4Z6+cYitIxr9CQ4MU2YiTY+assCfUeArxECIQCFYEV7ZflY
+04rLcaO+8a5O/XLMcBpfSqXzPxvAY3lDODANBgkqhkiG9w0BAQsFAAOCAQEAtgQQ
+SztdxyhpGChFUTH1fgzLx4Q/lKD2NwzdtyfWT/j2EN8wbS0KipZjDLE9cbsXWNTT
+UsVXZorb2JmjQpNPAAwp0Sfiz0BBWxmpGLmPt/vKHV0lDqIriaCp7eLWxtnn3lsF
+UyYniBlz8Lxdm7EHmd84ZktfNTzx0wccmEmg1EyRoO3qrLd/kf1gcJWLTAmqewDp
+zEbBS7lcY/+EYu0akUpTR3nED/uaZXl1VTAz71ksQsRmc0iFerjkqaIyld39D4lB
+CzwuQEb/f5AyeYMr+926Wsq/j1vX+cctKzh0g/CZxoL5llTn726akRppdSxm++Rv
+/FOnTbXDrVEjGxE3iA==
+-----END CERTIFICATE-----
+subject=CN = bold-shtern.109-71-253-24.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4661 bytes and written 410 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,74 @@
+http://chat-whatsapppneew-com-janda.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpanel.chat-whatsapppneew-com-janda.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGvzCCBaegAwIBAgISA+T/nLARu0FVpS+rrYyZfeuRMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMDMwNjIxNDFaFw0yMjA1MDQwNjIxNDBaMDoxODA2BgNVBAMT
+L2NwYW5lbC5jaGF0LXdoYXRzYXBwcG5lZXctY29tLWphbmRhLmR1Y2tkbnMub3Jn
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvZnS5sllD/o/iccDtMio
+bhS7D9H3SVv/q+AQgMdtFUzsr5MWMZ1k16CM4qkiHB3caoinHKHKMSQj64h4vGBo
+NBPiiPUk8ZIffhMr5iobY/BTKt9BYSOlgb2vMoN2VGqDlLj1bnNKxeLjEKXd5m33
+UbsIlDd7dhz9NHERGUlOsdu/DSzob125fxwWB9QitpYvrd5VZmuylUXApSH8dFcc
+zdR+8cCzQeCsO6+SZubSNhmWNh0wzw43qUMOROBv5KStis40TTFgt3oEo9xug7Mh
+HBTgxm9vUSpB8y8e/fPpunT9j15bg3zW5+WR04+lQrx+4jvRkGoOAFzXOrg2pwId
+GQIDAQABo4IDxTCCA8EwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRXot8eLOLHoUch
+87oOp2n/VHNhZzAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggr
+BgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAi
+BggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzCCAZQGA1UdEQSCAYsw
+ggGHgihjaGF0LXdoYXRzYXBwcG5lZXctY29tLWphbmRhLmR1Y2tkbnMub3Jngi9j
+cGFuZWwuY2hhdC13aGF0c2FwcHBuZWV3LWNvbS1qYW5kYS5kdWNrZG5zLm9yZ4I0
+Y3BjYWxlbmRhcnMuY2hhdC13aGF0c2FwcHBuZWV3LWNvbS1qYW5kYS5kdWNrZG5z
+Lm9yZ4IzY3Bjb250YWN0cy5jaGF0LXdoYXRzYXBwcG5lZXctY29tLWphbmRhLmR1
+Y2tkbnMub3Jngi1tYWlsLmNoYXQtd2hhdHNhcHBwbmVldy1jb20tamFuZGEuZHVj
+a2Rucy5vcmeCMHdlYmRpc2suY2hhdC13aGF0c2FwcHBuZWV3LWNvbS1qYW5kYS5k
+dWNrZG5zLm9yZ4Iwd2VibWFpbC5jaGF0LXdoYXRzYXBwcG5lZXctY29tLWphbmRh
+LmR1Y2tkbnMub3Jngix3d3cuY2hhdC13aGF0c2FwcHBuZWV3LWNvbS1qYW5kYS5k
+dWNrZG5zLm9yZzBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisG
+AQQB1nkCBAIEgfQEgfEA7wB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBi
+lgb2AAABfr512yEAAAQDAEcwRQIhAKnAy0EIHmrh6vUC4WnQHCGid15JsZbXHwLr
+SmSyv5PnAiA2TI3v2JC7ieFAUDA5WxZU1P8tLmARo2yLdpdNfwIHpgB1AEalVet1
++pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfr5122AAAAQDAEYwRAIgH8PE
+PqI9Wrdy6gZsIIHdIf8ZHisWJEZoVDIuvkDtuXkCIHACB5LnLYnqIQchj2YrAYVi
+q4OS9BvEwGBnKhD85w3CMA0GCSqGSIb3DQEBCwUAA4IBAQAHhyz+mglMNn3CqZd4
+jH3++6Sq69UuUDfOu4xUYPOYn0QLxwyFEGCGSntiWX8ci64scYSG7psvzXkcOBr3
+MMzvjkhsfnkOjSR6feYd9TNS+7TMnADOkBC8zOXtsvJy5dtHlzwSDG+E2Bh2iqwO
+KiDipZnJkEwF1yEpqfKrzGfd8jGWXOyGNSTHYH+DiBXHO9wEAACh2HgB1jXlp2Aa
+wR/Njtok5CFrZfLV69NDMWOpmvml80PrE34rqTalcgoiARuUP3dFG9A0wvibLVqA
+62TU3fquallhPlEbsOxPzCK/neNXmYj7Vf4GkWFYQVGrVu7TZDPI49SKHUG0dG9c
+zig1
+-----END CERTIFICATE-----
+subject=CN = cpanel.chat-whatsapppneew-com-janda.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4987 bytes and written 414 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

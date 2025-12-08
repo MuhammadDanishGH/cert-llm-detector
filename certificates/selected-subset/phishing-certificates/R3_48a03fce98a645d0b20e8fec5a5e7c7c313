@@ -1,0 +1,65 @@
+https://amacn.rdcc.net/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = rdcc.net
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJzCCBA+gAwIBAgISBIoD/OmKZF0LIOj+xaXnx8MTMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MDIxODE4MTBaFw0yMTEwMzExODE4MDhaMBMxETAPBgNVBAMT
+CHJkY2MubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwWAuTxsB
+VHvuvzzFYKOpabD/rEVDQEDMBUDEiSLwq1IFBKcamz2e7p8lYyqq7wEnpDriiPM+
+8CE/Vvyn8qRDtbnBdvUUELclRrzZSjnAk9+WZ4p1Sqv/p8hLJO70ptK4fKgWA3Um
+kOzZB7+kNUAVPf3fIa8ElPRob/kJH4t5YTp7TUZHN/g2sal5Hh4a7QKsyanyxxGP
+yoxzuRPITpJ1Orp945aTHGzhNPYJUhMYqA9SjPaRtZMMTTbuCwOBZdBx/L0Nqkfk
+1iWBuk4ecedxH08sxXA9048JdyRkVIIdsGoik5PdgdVFQQiqfy9Ilh0FvOxW/0+C
+1Io3Hr4PeBZUQQIDAQABo4ICVDCCAlAwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRa
+26bFmPEXGPS9IaFDV0jHJBYUiDAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+d
+ixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxl
+bmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzAjBgNV
+HREEHDAagg5hbWFjbi5yZGNjLm5ldIIIcmRjYy5uZXQwTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwBElGUusO7O
+r8RAB9io/ijA2uaCvtjLMbU/0zOWtbaBqAAAAXsITVV9AAAEAwBIMEYCIQDJyMZu
+U013b8cyNAlJqoeqZQUAs9bcz5HEsbLFUrbRGwIhAJLl5+oGcFmiH9oQXwdAR+yA
+UybX6nCglsPoZon4pcyHAHYA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7x
+ZOMAAAF7CE1VWgAABAMARzBFAiBYm0K5GtybsLai+xKR7fd21tkM47vR7yjjCmBV
+n8pnVgIhAIfaML2X6nRwbCQSN3F1gxoG3CGPfK36gwNX2XBzWQMPMA0GCSqGSIb3
+DQEBCwUAA4IBAQC5IP4nixSs/+zX/NPqaFu0porjvOf4ovqWI+CVCjwIHCuc1YWs
+n14c6b5azJb6nSdKM1A/990wBRVrgl2anCwL6Fjl4yvWlSnZxfVy4u7kzeH7ooOH
+tSnT9jEmsLj+ANwWpyjjQGQG/72ykjjgxLLlK9t0s9+R4BeO5+02u8dQNEt4Esnl
+Bsp3fdfD4Ur59KTm/3H7ha1Gwkx/iUhXjYZWm1N1IWx6mDKIXnCAUmCiJMg8zamR
+ieDDvs3GyTAnp9nXXP8YiGDACx5tP1WDXfCuKGQ4GEIUaDaML4jI+iek6Yi0qZ9X
+HjoUZPOJnk1S8i7S7N86w8UU8LEykwE5BxuX
+-----END CERTIFICATE-----
+subject=CN = rdcc.net
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4579 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

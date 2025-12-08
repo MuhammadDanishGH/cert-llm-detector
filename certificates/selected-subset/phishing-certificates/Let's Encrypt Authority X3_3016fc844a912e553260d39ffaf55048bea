@@ -1,0 +1,91 @@
+https://planatek.net/xemail.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = planatek.net
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYTCCBEmgAwIBAgISAwFvyESpEuVTJg05/69VBIvqMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMjMwOTM0MDRaFw0y
+MDAyMjEwOTM0MDRaMBcxFTATBgNVBAMTDHBsYW5hdGVrLm5ldDCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBALPy44CdQBYYIKzp5zVaj6yRW/EpqfDcT504
+IqXQU0pUlRx0Kc9kWjRBY61e7KY/zp1Jykr8ZEPJrCSza+Nrz01e9H3d9FEMfd79
+0l1UiJmD6U/Ue3Y35iEIUW/dyqRhY0zlRFdEtyNO0zLZBp6cxvS93N+Oy0QR6qtA
+CIjGoDKOHHYtU2dbIQU6ZAFNqIzk9Z5pcccMLSjp2f3Ek0ycfQg/4q6GBKIaJ8vD
+h1EoYBQZM5/vz1uVuzEltdiF/wJIe1se3+y3Rm7vXqwWrHlkrclUYHzWorNCE0z7
+XwuXYyqU7/sQh813RNYkpfUoj67g+63al64KTVLxIXx7U2Ubn90CAwEAAaOCAnIw
+ggJuMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUe0v8DlsDh3I/GhJUg7VVlSDnZjYw
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzApBgNVHREEIjAgggxwbGFuYXRlay5uZXSCEHd3dy5wbGFuYXRlay5uZXQwTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHx
+AO8AdQDwlaRZ8gDRgkAQLS+TiI6tS/4dR+OZ4dA0prCoqo6ycwAAAW6X02aHAAAE
+AwBGMEQCIF2Oe1HeSnmTC1TyRmH6Lmt+skiz6gUP0vDDC11SiQP1AiAWgIO3pDvl
+ujIbY4I5pGp9evh5xdz0cKfkghkuUeXspAB2ALIeBcyLos2KIE6HZvkruYolIGdr
+2vpw57JJUy3vi5BeAAABbpfTaHUAAAQDAEcwRQIhAIJKW/jTZwLhw7+5tj7QsysP
+CbBtuQukZRHz5i7tIg1mAiAJFl05He2KyW41wmWaloESFfe1OAby9AOJBLDpasHV
+JTANBgkqhkiG9w0BAQsFAAOCAQEAbNG/hlOYpQHvjvmxCbtyXH66QWEHtFatvl2/
+l+kV/FwRau8HgBvnhrpZ5b4np3dETmwEQ2kcBuseni7KGE/DxTRWand8AcGs+4lp
+WYdYKROJuqza35S3O7lje3AUxH9vRGb0nhD/lMrcVmEEpqB3DMmaYR9SNOtkcakg
+vDl0u30aDZAMBGPACpUGMrjQN943kBI2T/qWyVFMFg34ah9lGfHRHlKPeiqkhPdG
+kxJj9VxgV1ihbteAThBrl2wqQZlxytCo420V7bKZ8sxh3EhBWVf8/ZdvIh5X/jxZ
+3DH2KTXPH7kswvqfhuKgfkA390GDTy0wJCQXANp9KnGMuX9lvA==
+-----END CERTIFICATE-----
+subject=CN = planatek.net
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3264 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: FCAA260067390B187B6899EA6FD8594011F032E0D6517CC1A313EA739D0B9150
+    Session-ID-ctx: 
+    Master-Key: 47AACB586DE06F755B61274AA2DCD89AAEC55AC0A8FBE9197B8DC0D3DA5F66EEAD6241E2B19253BB26C043527FEBAD07
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c7 3a 57 cf 99 cd 4d 2e-90 92 1f 1a 45 70 f3 d2   .:W...M.....Ep..
+    0010 - 67 4d 6e d1 e7 f5 0d 94-61 25 0c f6 60 2e 0b d6   gMn.....a%..`...
+    0020 - 1d 6e 9e e1 09 14 9f 88-e9 f8 83 12 2a ff 20 8e   .n..........*. .
+    0030 - fa f8 b7 52 ca 1e d1 cb-45 14 b6 a6 6b 89 2c 2d   ...R....E...k.,-
+    0040 - 7e 63 1a 37 d7 ff 99 81-73 7e cb 2c 30 29 f7 12   ~c.7....s~.,0)..
+    0050 - 18 61 47 cc 1e 2e c9 66-1b 59 72 5e 8d 5b 14 f9   .aG....f.Yr^.[..
+    0060 - 2d 63 f7 59 69 58 a9 41-61 15 81 d9 c6 d3 23 14   -c.YiX.Aa.....#.
+    0070 - 25 ed 8f d3 e2 d0 c1 b9-c1 7d 1c f2 77 c7 31 71   %........}..w.1q
+    0080 - 59 98 8e 68 d5 57 69 2d-2f 95 4b bb 75 ba 32 ed   Y..h.Wi-/.K.u.2.
+    0090 - 53 92 ff 48 01 e6 bd 2a-2b 5c 4f 0a 37 1a 1c 81   S..H...*+\O.7...
+    00a0 - 94 57 91 03 0e 24 12 78-fa 7e a3 9a a6 98 26 39   .W...$.x.~....&9
+    00b0 - 63 6a 7a 1d b7 76 b1 f4-24 9f 75 a7 ae 05 2d 71   cjz..v..$.u...-q
+    00c0 - f6 d9 06 8c fc 34 ec fe-e2 6a 80 e8 0a 0e db 96   .....4...j......
+
+    Start Time: 1574604030
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

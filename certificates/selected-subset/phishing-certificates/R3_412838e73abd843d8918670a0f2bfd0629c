@@ -1,0 +1,66 @@
+https://annzon-cvsyg-co-jp.tkcng.buzz/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = annzon-cvsyg-co-jp.tkcng.buzz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFQDCCBCigAwIBAgISBBKDjnOr2EPYkYZwoPK/0GKcMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MTcxMTM1MTBaFw0yMTExMTUxMTM1MDhaMCgxJjAkBgNVBAMT
+HWFubnpvbi1jdnN5Zy1jby1qcC50a2NuZy5idXp6MIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEApKS8DU6gRiAmnZWBggy1GYrjmaeyi7leJRVBtTSW/w5H
+xh8YbuxctWgunDi3rUk+ttTN+2xflVoecHw/zRc3iV3Zk8wpXR9klB9Ae7dhZ89H
+2HR67w9PvXddYtvUGF02xtx82u1q5/NGbNbARzgHvZRF78c1nJMiry6RsQ04touh
+sams9NRe8isCdhfUryNCI8mLuLtUs0N5047z14OU25bq/8X0i7YcW9uNUm1tMqBU
+fKYatjBZTyxN980GG++9/5HrlVVvuivYwodmMlPm0ck/h+j+HYQSVrPC5xV2k6Nz
+MNilaiPCNFzB4omn8/73Ij/AvtFWUTDDkCI/Osv2AQIDAQABo4ICWDCCAlQwDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNV
+HRMBAf8EAjAAMB0GA1UdDgQWBBSGn9tlINtRq/njobB6UuR1KIQLrDAfBgNVHSME
+GDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYB
+BQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDov
+L3IzLmkubGVuY3Iub3JnLzAoBgNVHREEITAfgh1hbm56b24tY3ZzeWctY28tanAu
+dGtjbmcuYnV6ejBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisG
+AQQB1nkCBAIEgfUEgfIA8AB2AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1
+toGoAAABe1QbxPwAAAQDAEcwRQIhALqY3hPxRGs1Zql1AoICtIYr7uPTro7vSn66
+LPg50rdTAiAR/Rd+w0WsRcRLs4vkwQkS/9uewiFp5jdu4uGdy8LjXgB2AH0+8viP
+/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABe1QbxQkAAAQDAEcwRQIgNMXp
+Zsef53a5TrPqPVypdNM2tp1srWzyGRj0VacJYO8CIQCX2sL9otVNYa0VNCQTipxb
+D9hHreDkSVVhIi8cnnaJRTANBgkqhkiG9w0BAQsFAAOCAQEAMC0aOFGR1NxizoiI
+n37lDtRWwXiHuiaFMy+Hq9cxRs9cvHMZkXHx3PQnKYIfNlQoQin3pw6c3Vw+394M
+NCH4m1aPU970w1l7OTtKzO5un4Ltz/FGzcfATgHM4WvlnqGQ2OfzFBo0uSuHbpob
+7YZDF4CYXpOKayFbqiig0BtuHI8wc3yA1mQLSfa3w8YfAd+ijMcp5w+bkqcw8bBU
+3AOXFX7YGCXFHE6hiEQnuSQfVkgJEbZW0kGkvtAOWoOwmoAl8avHLIeqkIE9CdsG
+XU5wF4BMrOtjGjA1A9BxA8F43FBbQCsH8mAClv20wAtD+JxbbqZoGCugu4qsW0va
+WbPnjg==
+-----END CERTIFICATE-----
+subject=CN = annzon-cvsyg-co-jp.tkcng.buzz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4604 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

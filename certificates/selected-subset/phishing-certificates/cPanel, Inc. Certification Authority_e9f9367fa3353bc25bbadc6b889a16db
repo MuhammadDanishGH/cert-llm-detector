@@ -1,0 +1,72 @@
+https://neverbroke.life/zeh
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = neverbroke.life
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGhzCCBW+gAwIBAgIRAOn5Nn+jNTvCW7rca4iaFtswDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMjAxMTYwMDAwMDBaFw0yMjA0MTYyMzU5
+NTlaMBoxGDAWBgNVBAMTD25ldmVyYnJva2UubGlmZTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBANBiP/v4LCi6nHTCco44I4Ab3Z9XtHOZxob89LBxKHhC
+P2VWLoy4UZnzgxjt3vgC0W16l+rH1hNoV7ELgAvs7TzLCxKAxzbK0ZG5WJO4ZOk0
+vXfq+QgwoxEszaGE9XlgwOE/DZ2v+97noI6b3XDnLU9+8iNleCMPYHHF4zz1x6kT
+CsbotvtkMj7Bq+X98gDKNMFEw3WXJfEe2mLfeKtBi7quopVyQzJHqDNTQCcoAQcK
+a05yuNrhLTFgJXP8XfW6v2iLto7SzZdeTAIYHvU8UFdHYxcR9wPG7gKukcGzqdN1
+RYfHLqE1m0uEzrri7FZTWwMTIwokITOW0n7R0EQDJDsCAwEAAaOCA24wggNqMB8G
+A1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBQU/6wnx3Fd
+Cyi3NRIB4B1LxX3zPDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIx
+AQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZn
+gQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEE
+cTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJ
+bmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDov
+L29jc3AuY29tb2RvY2EuY29tMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYARqVV
+63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF+YPHvBQAABAMARzBFAiBQ
+cdUujmzDtZ1zZrKaMJZ2B2Hk0FgYOFis6mo3Jg7u9gIhAMO/mX7KO+PKHo3h8aGJ
+CprXGQN063NifxBf0YqWaBbBAHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jw
+kGKWBvYAAAF+YPHvhgAABAMARzBFAiA091IMuIKL4ScqSnmjGpAJGyHwsFySAUAm
+PO3N8NwDWQIhAJ+X/mg4tm/gpkHzX9DO1yZBM9V0GS0QG32GsAIRxQcWMIHKBgNV
+HREEgcIwgb+CD25ldmVyYnJva2UubGlmZYIWY3BhbmVsLm5ldmVyYnJva2UubGlm
+ZYIbY3BjYWxlbmRhcnMubmV2ZXJicm9rZS5saWZlghpjcGNvbnRhY3RzLm5ldmVy
+YnJva2UubGlmZYIUbWFpbC5uZXZlcmJyb2tlLmxpZmWCF3dlYmRpc2submV2ZXJi
+cm9rZS5saWZlghd3ZWJtYWlsLm5ldmVyYnJva2UubGlmZYITd3d3Lm5ldmVyYnJv
+a2UubGlmZTANBgkqhkiG9w0BAQsFAAOCAQEAUcVk+DU1JGWPKEkj2Jf5kPaAYk+r
+pWEHbySv3f9/JccPOIGJDwHI1sdvHpG/jWs9MC9hsHkh0oLHOpOe/foB4vYnSOul
+44oCvG5gTNgX+N5FE1DHHGlLYcd27gLHO675uwfc1ODj40A7sgMkELkehRDGPTet
+8zhgWc7X+UfejxcMi+EnFTk/0nIKE1bLZ92Bp2AU4oPAqLhOVKEpCRJibwEJv210
+6yGcZ4KNB78JXnE3eHDfOYNjyiPUsxx11MPOtINTEf23l3VnPjAHk0CxnfOjtLzD
+Ou65t2+HhtfmaJ4NT1byTZUk6CSUASwCBVHU3YmtELJcnlr+g3aJegrQsA==
+-----END CERTIFICATE-----
+subject=CN = neverbroke.life
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5180 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

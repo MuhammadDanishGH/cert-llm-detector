@@ -1,0 +1,72 @@
+https://97newstv.com/Huntington_secure/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = 97newstv.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGazCCBVOgAwIBAgIRAI3fZvvMsQv3aCAo7JVyy/MwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTExMjEwMDAwMDBaFw0yMjAyMTkyMzU5
+NTlaMBcxFTATBgNVBAMTDDk3bmV3c3R2LmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBALM2xB7qlkXANEttRjmx2jMVWk3Bxwlu8BbNgJygQVZi3CFu
+hrmbKoUFkWRL5Kv3bkeX1p9A955yZBElmxI8xA0D2B6+9C/qgY6KvY0JJH9D2leC
+DNuf1BIIWaLwXriS6PKRaY7XftFV525MBJ6Y3Xg71pmIFfFMayxTTRyj7DbdaUV/
+2y0HBoDU+Exe4mngi6ocWYxXkm8PrtZdbkdu0SjbnMLUipH+gvUoti6FLFFkLM9Z
+w1naSAD8yHvyB65XJ2AlFHL0zYR/QE9bcSCv/LfVLmysFUNtrmoEUYV0C59q1LQO
+nduSR2jGrqbQQht2ZoJH69iUEzteEe7Gcjx5teMCAwEAAaOCA1UwggNRMB8GA1Ud
+IwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBSqGgLRJp+GqiUP
+jfSOT7u3Ib8OJDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQIC
+NDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwB
+AgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20vY1Bh
+bmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEEcTBv
+MEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJbmND
+ZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDovL29j
+c3AuY29tb2RvY2EuY29tMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUARqVV63X6
+kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9RENBygAABAMARjBEAiAd0eHh
+a/2DN7J9x8gw3tv5V6I/Al2srzMi+l1LfrT33wIgX610EK01a8sfLeEUKQtJYMSh
+wI0fvRC7nKirbWt9KEUAdgBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG
+9gAAAX1EQ0GOAAAEAwBHMEUCIFozrc7uvm3oCjoXwX4lEI8yF61fYB8Bf9rUQzyO
+5X0MAiEA1/MffNjo5X3BCQytpD/yveiXyy22wXe5D/6k61ugjCMwgbIGA1UdEQSB
+qjCBp4IMOTduZXdzdHYuY29tghNjcGFuZWwuOTduZXdzdHYuY29tghhjcGNhbGVu
+ZGFycy45N25ld3N0di5jb22CF2NwY29udGFjdHMuOTduZXdzdHYuY29tghFtYWls
+Ljk3bmV3c3R2LmNvbYIUd2ViZGlzay45N25ld3N0di5jb22CFHdlYm1haWwuOTdu
+ZXdzdHYuY29tghB3d3cuOTduZXdzdHYuY29tMA0GCSqGSIb3DQEBCwUAA4IBAQB+
+QxPFcYJYc1PXDXDIN7bZH06+7MysktDOENpVS3fajxnV2S1Wk8VV/pC7pgZX6296
+Fbd9FHa1uAtzSeShj6+LmdGue6Ih7KdRuPq9/bp4kXEE/Y72eLz8SrYJxjsZXXDp
+8lRUGhp7mq2NEK/JUAg5y7qxqmZNP8RRQIP9QMj8fU3xy5DmvdNHjZyyPXAilUra
+R8Et6+uPtebtR1e2yowyc3aoagqI7UCAuwwjCcLlbM4l7p1BFetpFjKDlR6y4ci+
+dHGT6MJaEbj/CqVg7dMWygaw6jXBZU53FOdQKjSQrLeTtXxCx7VsSAvYw3soi1vS
+6G3UwcC/U9IhcGXxELok
+-----END CERTIFICATE-----
+subject=CN = 97newstv.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5152 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

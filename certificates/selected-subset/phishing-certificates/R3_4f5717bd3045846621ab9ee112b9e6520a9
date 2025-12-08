@@ -1,0 +1,66 @@
+http://walletverification.info
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.walletverification.info
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUDCCBDigAwIBAgISBPVxe9MEWEZiGrnuESueZSCpMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTMxNjE5MzBaFw0yMjAzMTMxNjE5MjlaMCQxIjAgBgNVBAMM
+GSoud2FsbGV0dmVyaWZpY2F0aW9uLmluZm8wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDcnJW36DxubIOzRXaGngZxTpN4RBSEJ10dOwR0ohD9yGXvg+Sj
+rtvEUViLNBG2AElTSLIxv8OTsuahK2WVmCYOYOKYT8wPIB3CC0erKGAdQh7vFF19
+mpi1dl1XYJDca2oHkVYGbQYYs4sAiT2Aov4ZXSczZyXDPzsKrvqz4K3uuygxG9oD
+GEitTwXkhjjvTj1a2kSOZSlK4AcneBX9pT08w6WFl2pWEOojKnVjJldrq2qnTnZ5
+fu/z+P+GSRv+FR/BE9psVWv+ATGD9vSisXuGAgyby636OPZg6zMdq6XvUZH4se8z
+WLy+jAWaiecy6mMXhv4sOHmGPr7PVdvtdZGxAgMBAAGjggJsMIICaDAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFEKInLiejGoqoFtU0TT1vnHvx7A6MB8GA1UdIwQYMBaA
+FBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcw
+AYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMu
+aS5sZW5jci5vcmcvMD0GA1UdEQQ2MDSCGSoud2FsbGV0dmVyaWZpY2F0aW9uLmlu
+Zm+CF3dhbGxldHZlcmlmaWNhdGlvbi5pbmZvMEwGA1UdIARFMEMwCAYGZ4EMAQIB
+MDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2Vu
+Y3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYA36Veq2iCTx9sre64
+X04+WurNohKkal6OOxLAIERcKnMAAAF9tM56oAAABAMARzBFAiBz+p0oUkk83l1W
+ij7QZm2rzzRgpHxleOuRv3SDezihwgIhAO4WxEDsBPspWUEkz+Co3oahGn/GKFq/
+43rS+qDLsLNxAHUARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9
+tM56xAAABAMARjBEAiA1CwdPCM5J8lIAV/9apG5kncFsJvfzqdTDSY5bZVooGgIg
+Q+Ej+CR/fIbhdLftSRAs4mh1Ie9i9xqeliPFCvbC+5kwDQYJKoZIhvcNAQELBQAD
+ggEBALOf5ROouBl7kqdl7K5qytIYEvCCI0hBeD8NZTw/zeLC+Knh5+hjPV+/2x6e
+J7qnAFc/KFmEi8aGa+YaA4DEFxCsHal5jUFsIIlT1nOoHB7cZgDbLOcWF+eEj7NX
+J8gx0ixyh4c229mUgn/ryFffPCX7inpHzFmRAy4AbBzwuoyVM6J7338ACiy2+sXS
+ZceZTY0Vz2bji+9B6b0GRr/qrXX0wjO30In+LkHxmNUGn5+PjsTHmth5IxOn7Zpm
+YTeYhW5/fbIvXz/JO5/E2cntluz+zKsFEBoXIGwyh5SaHwUbjoYcvd0dWRwNI77O
+1gSMRfW6s8E5LMLF6fz6NuGtrDc=
+-----END CERTIFICATE-----
+subject=CN = *.walletverification.info
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4550 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

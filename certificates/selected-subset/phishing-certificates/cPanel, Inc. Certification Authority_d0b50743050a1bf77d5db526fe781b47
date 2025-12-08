@@ -1,0 +1,72 @@
+http://liongear.com/sos/Docusign%20Global%20Standard%20For%20E%20signature/Docusign%20Global%20Standard%20For%20E%20signature/Profit-maximization/Profit-maximization-2018/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = liongear.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGbDCCBVSgAwIBAgIRANC1B0MFChv3fV21Jv54G0cwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMjAxMTQwMDAwMDBaFw0yMjA0MTQyMzU5
+NTlaMBcxFTATBgNVBAMTDGxpb25nZWFyLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAPis4r9MCuUda7Tp8izwOPioHkwdtAnOMV4xtw6x6nE9pS2B
+Be50mScCNGEoThAGqzfg7XL4aviSK27O7lL1zs66J5mWpeXYvq5vvPJuGoNSq0hB
+7M0JQwFFuBT8LtxSRZSRufE0lLpt4tcsa3Fx0kTm/Wfy3XbrqwrYhRRaAIpE7PlX
+FlgY3N+1qTW01vorotwqpj5sE6blB8DUXU8kGsGxvBe2Ba7Wo8jZ20OnBZSW7rks
+DnpXqFODgfquai5t9iu1Hci/IJ2acoeoZ6BDOC2QQotly07SZmZrGhw8areXFtSk
+gcrewtYYu2ol+rK9+VWW8JgIRs32Qa1SUnJNamECAwEAAaOCA1YwggNSMB8GA1Ud
+IwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBQY7DTdEzgePZ22
+5AtwO7jjjc6pjTAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQIC
+NDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwB
+AgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20vY1Bh
+bmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEEcTBv
+MEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJbmND
+ZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDovL29j
+c3AuY29tb2RvY2EuY29tMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcARqVV63X6
+kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF+VovDwAAABAMASDBGAiEAkUck
+RkWqSk/RjPccQXiGuWMnzo8xv/xkmGnosSDrpvACIQC5+BKBF50ZHJ7hCdMUJ2Hl
+gQDf7FM98CUFpTYjeUpwcAB1AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBi
+lgb2AAABflaLw4UAAAQDAEYwRAIgUQr2AN8wPkKzpFdIVoGXJVB/0Q6/G9k9+DBa
+RkAVOCUCIAtmKvFIKlhpXYZRSO6VzRfjpaH1iIxY1VuI3huKzfIDMIGyBgNVHREE
+gaowgaeCDGxpb25nZWFyLmNvbYITY3BhbmVsLmxpb25nZWFyLmNvbYIYY3BjYWxl
+bmRhcnMubGlvbmdlYXIuY29tghdjcGNvbnRhY3RzLmxpb25nZWFyLmNvbYIRbWFp
+bC5saW9uZ2Vhci5jb22CFHdlYmRpc2subGlvbmdlYXIuY29tghR3ZWJtYWlsLmxp
+b25nZWFyLmNvbYIQd3d3Lmxpb25nZWFyLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEA
+NN2iCbZVixO0CWWGrdHGrXw7gsvzrEbgb0G9c30xg4gm+L7duVGOr+epkNAYjVkc
+X39FxVZY/FRra2Lk1P7NuhxjdwREP8ToXUQrN0EBeP4Q3/Gi5SdlkwnF8Epnmu6C
+PZOrN4v/bb1sxqx5pkl2tMqxTSmcOZXU1Ok8cN1LIRO5MnfScbQKfPT9Clb3wjDZ
+5HATDpUVDpJYkhiKXqHAkwQ3blpoUjx3iypOVutgZKQ4z/JzDc3yQfVLzYFN8DK6
+c3HhLSJeqqz9xXW/ayYE/I82lw661256AbtpN9fIu9Uefh1cI01Xu4IKa6vH9L4e
+hu8V+QsLXhBUMvZpynn6gA==
+-----END CERTIFICATE-----
+subject=CN = liongear.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5153 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

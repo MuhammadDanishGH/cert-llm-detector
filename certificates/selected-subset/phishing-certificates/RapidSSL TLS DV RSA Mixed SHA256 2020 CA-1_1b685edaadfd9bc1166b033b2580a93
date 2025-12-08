@@ -1,0 +1,95 @@
+http://www.tru.ac.th/class/online.unionbank/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.tru.ac.th
+   i:C = US, O = DigiCert Inc, CN = RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1
+ 1 s:C = US, O = DigiCert Inc, CN = RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGDTCCBPWgAwIBAgIQAbaF7arf2bwRZrAzslgKkzANBgkqhkiG9w0BAQsFADBZ
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypS
+YXBpZFNTTCBUTFMgRFYgUlNBIE1peGVkIFNIQTI1NiAyMDIwIENBLTEwHhcNMjAw
+ODMxMDAwMDAwWhcNMjExMDAyMDAwMDAwWjAWMRQwEgYDVQQDDAsqLnRydS5hYy50
+aDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL8wtSqVDyOyX//WMxs7
+Y+CrQQmxa4I6xX4QQdkmoXey3c2wXgahWTI12CtCIAqXCfp/5tUytBBcvN6K/Wqe
+rqu3nmBHzQ/F7uhSo/b/aGW8PocPuqba0BMvUxClWjGwUJcLaM0pW0NRPkGVIGMy
+aDLjv9nkcQfbaeIY3JSsyHFkiRUJQf+KrPQYsLBmNI/GMR9hWXtgn4OkQXqhwj8p
+QrMtprrbyNWa49Qpyi4ZUQHlIDM+ovu8ecSvftMTYyesimfGW+hJ8TXmVLobLS5A
+Ywa6I6OYCD+rXNdtfWPLDOwAo1klv/n6fkcJH66DWi+LSAkRIvYp9PZ3fyCtZgmg
+C90CAwEAAaOCAxIwggMOMB8GA1UdIwQYMBaAFKSN5b58eeRwI20uKTStI1jc9TF/
+MB0GA1UdDgQWBBRDrUbJwv0gqAcbUoo4hozYWTdJSTAWBgNVHREEDzANggsqLnRy
+dS5hYy50aDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMIGbBgNVHR8EgZMwgZAwRqBEoEKGQGh0dHA6Ly9jcmwzLmRpZ2ljZXJ0
+LmNvbS9SYXBpZFNTTFRMU0RWUlNBTWl4ZWRTSEEyNTYyMDIwQ0EtMS5jcmwwRqBE
+oEKGQGh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9SYXBpZFNTTFRMU0RWUlNBTWl4
+ZWRTSEEyNTYyMDIwQ0EtMS5jcmwwTAYDVR0gBEUwQzA3BglghkgBhv1sAQIwKjAo
+BggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAIBgZngQwB
+AgEwgYUGCCsGAQUFBwEBBHkwdzAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGln
+aWNlcnQuY29tME8GCCsGAQUFBzAChkNodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5j
+b20vUmFwaWRTU0xUTFNEVlJTQU1peGVkU0hBMjU2MjAyMENBLTEuY3J0MAkGA1Ud
+EwQCMAAwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgD2XJQv0XcwIhRUGAgwlFaO
+400TGTO/3wwvIAvMTvFk4wAAAXRCei59AAAEAwBHMEUCIQD0l4GF7OiwcA5rcmJQ
+7dYAiSglyvOJiC2p6Qrww9LrVAIgcOWxHT6ZYu9c4Peoh6W90g+RUWP6iONV3LwV
+J2qg+nAAdgBc3EOS/uarRUSxXprUVuYQN/vV+kfcoXOUsl7m9scOygAAAXRCei63
+AAAEAwBHMEUCIQDxhS1fYwqJ2ZgPvJZzg/rT2hu2RlfBs+Y4KZJ20slk0wIgYxR8
+K3/EiIXDR8ceo6s4Ga284ZHhWIs64DkvutA1ZT8wDQYJKoZIhvcNAQELBQADggEB
+AIOuKeONsnSsOL/9Jri71E6/eLOlt+bHgMKXU5yYs3N1Xbjzkhcw2mNQEGsatS7+
+xznor35n2lZ/g3MUNppG7hONZlJc2rJ0Qp1U92QetIouryoip6uFq5qsrPPAhACi
+Jkjq2KG9/py3hj+ML2Xpvp6DwF/m+NvKVJ6W0rusERVXoHoHxQaFt4ane7fMzyHQ
+nP5ZO0hPMV9sbq1FJDg7KvGJp+h+LEB/C777PvnZF5m45whjDwaggY1dd2l/ZHk1
+qmVPoBnBhaBCvJbGTo2i3X8fQUCcPbIBam/kBGgbUFKhjBnwF0Y9O5cuw+AzjmLQ
+gGVX4dr4+NusWuV6jRw+Uws=
+-----END CERTIFICATE-----
+subject=CN = *.tru.ac.th
+
+issuer=C = US, O = DigiCert Inc, CN = RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3627 bytes and written 441 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 4550457C1E17B4D1C9E9729C576E0F9A7B922DB0942B396829A35A45062387FD
+    Session-ID-ctx: 
+    Master-Key: C0AAC6DAD21F21642D626C987CA39E7F003B5D589F78146FE35EBD4A5663C735ED7A4CC6280832C11D0FCD9E8BBFCD51
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - de a2 40 4c 91 0d 3f af-46 6e 0f e8 57 42 f7 6a   ..@L..?.Fn..WB.j
+    0010 - 8d 15 af df b3 81 7c 73-ab 95 45 db 52 dc 72 70   ......|s..E.R.rp
+    0020 - 91 ca 13 d0 41 30 fc 11-9d 36 62 9c 18 43 22 6d   ....A0...6b..C"m
+    0030 - df 67 4f b8 d0 04 e6 74-24 ee fe 44 3d ee 85 34   .gO....t$..D=..4
+    0040 - e8 5e d2 51 59 9d ce 67-bf be d4 46 da 74 42 a2   .^.QY..g...F.tB.
+    0050 - 5a ce 5a 2b bf b0 9c 2a-e5 51 c5 b3 b0 5a 68 cc   Z.Z+...*.Q...Zh.
+    0060 - b4 db d4 9b a6 76 92 03-37 5c 92 47 d4 c8 fa 15   .....v..7\.G....
+    0070 - cc 91 e5 f1 95 35 56 1e-67 ec 58 83 3b 6c 1a 4e   .....5V.g.X.;l.N
+    0080 - e4 b6 52 bd 09 7a 11 d2-b8 06 b4 f8 96 52 c6 07   ..R..z.......R..
+    0090 - 56 7d 3e 24 91 fb 84 05-3c 5d 00 6e ff af 8b 26   V}>$....<].n...&
+    00a0 - 3c 51 f4 94 cf 87 75 6c-6f f2 bf 57 66 cc a3 d3   <Q....ulo..Wf...
+    00b0 - 9d be f6 34 7e 53 ee db-a5 d4 cb a7 99 66 a7 08   ...4~S.......f..
+    00c0 - a2 d0 21 fd 28 6f 23 ad-a1 05 62 2f e5 00 0a 72   ..!.(o#...b/...r
+
+    Start Time: 1626269735
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

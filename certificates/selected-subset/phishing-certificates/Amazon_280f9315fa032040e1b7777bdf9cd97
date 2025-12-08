@@ -1,0 +1,71 @@
+https://themembersrewards.shop/sp/uk/ss21/ee/index1.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = themembersrewards.shop
+   i:C = US, O = Amazon, OU = Server CA 1B, CN = Amazon
+ 1 s:C = US, O = Amazon, OU = Server CA 1B, CN = Amazon
+   i:C = US, O = Amazon, CN = Amazon Root CA 1
+ 2 s:C = US, O = Amazon, CN = Amazon Root CA 1
+   i:C = US, ST = Arizona, L = Scottsdale, O = "Starfield Technologies, Inc.", CN = Starfield Services Root Certificate Authority - G2
+ 3 s:C = US, ST = Arizona, L = Scottsdale, O = "Starfield Technologies, Inc.", CN = Starfield Services Root Certificate Authority - G2
+   i:C = US, O = "Starfield Technologies, Inc.", OU = Starfield Class 2 Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF4zCCBMugAwIBAgIQAoD5MV+gMgQOG3d3vfnNlzANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEPMA0GA1UEChMGQW1hem9uMRUwEwYDVQQLEwxTZXJ2ZXIg
+Q0EgMUIxDzANBgNVBAMTBkFtYXpvbjAeFw0yMTA3MjcwMDAwMDBaFw0yMjA4MjUy
+MzU5NTlaMCExHzAdBgNVBAMTFnRoZW1lbWJlcnNyZXdhcmRzLnNob3AwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC7CUm6LgN68SnLCpM4Nkulsfr2vYDU
+rROIYT7YHgzWqi+8w3TQ3H6eZV9M/0R6H5qgb2NfiV+KrPRwehTpSbREZDPoPkye
+yY4v0HYEvb7LkVuRd+wKi8ywg6lL+eZZST6J5HuD+lyTL2FwzTv7DBpiGtWbiNFn
+2og15FSGq85gyfxWN2mtUecRe1Zt+1GuLCVl87z87DjgxjZEIhZc+Yq5a+lzz/T9
+9sJQiVZzsjdQiZXHjy2nzdpeh1R3v+FmVsjHzDC3vYkw/WaqZcXVvwMHHKaVYRXY
+M9rxWZfWp+B7Yo8gCnWpsvkhfJqfJqIlSlAIUXq2z6orUl0BSIeInkdHAgMBAAGj
+ggLwMIIC7DAfBgNVHSMEGDAWgBRZpGYGUqB7lZI8o5QHJ5Z0W/k90DAdBgNVHQ4E
+FgQUfsuXQdxbup057uqvmuTLktiOa3UwIQYDVR0RBBowGIIWdGhlbWVtYmVyc3Jl
+d2FyZHMuc2hvcDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMDsGA1UdHwQ0MDIwMKAuoCyGKmh0dHA6Ly9jcmwuc2NhMWIuYW1h
+em9udHJ1c3QuY29tL3NjYTFiLmNybDATBgNVHSAEDDAKMAgGBmeBDAECATB1Bggr
+BgEFBQcBAQRpMGcwLQYIKwYBBQUHMAGGIWh0dHA6Ly9vY3NwLnNjYTFiLmFtYXpv
+bnRydXN0LmNvbTA2BggrBgEFBQcwAoYqaHR0cDovL2NydC5zY2ExYi5hbWF6b250
+cnVzdC5jb20vc2NhMWIuY3J0MAwGA1UdEwEB/wQCMAAwggF/BgorBgEEAdZ5AgQC
+BIIBbwSCAWsBaQB3AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAAB
+euX46F8AAAQDAEgwRgIhALVYl/QBmOBSUoUWY/Do2L1kmeSQrYH0bmMHTEhdjwPo
+AiEAxZKaQfCHJgoKkgMk/3HQuFGnEyr+r4n4w2CAasC81rcAdQBByMqx3yJGShDG
+oToJQodeTjGLGwPr60vHaPCQYpYG9gAAAXrl+OgoAAAEAwBGMEQCIGIbEHnsPn/b
+E0bV+B82Ub/HbLYqdKMXjBMhEfyrUvR/AiBnlgDgM12fUFLzW62hek9Y/qWnUXmp
+igkm7WFT/oxFHQB3AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAAB
+euX46F4AAAQDAEgwRgIhAKETYB6+YCDTOTEFtpTVcaW9QTGw/2jGqn/ElB4d3/2o
+AiEA+aTjG62R9+aHn4F5EmYSzs9FTCvVXKrTK6SdA149VsgwDQYJKoZIhvcNAQEL
+BQADggEBAIZoqi5xEwUddHopQi3ZpxxfTFfwhunC1WAeHYJbU2CTvxIppVJ0OYvk
+ChwRy9aOl9prfnw9k/uhZZ0Bw676iXZuhIP80fW0x5zu23iyfd8zIT4+09OSvopi
+qcGCsJf+AUSg6F+xVvOM74Det5z1ob9CVxSyavyMd8N69m6iOx/ZBgYMIX0Va9FG
+qHaFZDPT8S752XmwJlLrOGeGEW40x6Q2+BqNQWZYwP1wwabazyAKiqMW8QRXtL3/
+m5dZcRbOVl0U1VOwbS/BSeeVC8jWdq4kerAlmVtQIKHOon1DsoB6QPJpWEMKX+a9
+7ysDVUGqejOxO6uMTnd7NOmMcHJxsHQ=
+-----END CERTIFICATE-----
+subject=CN = themembersrewards.shop
+
+issuer=C = US, O = Amazon, OU = Server CA 1B, CN = Amazon
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5490 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

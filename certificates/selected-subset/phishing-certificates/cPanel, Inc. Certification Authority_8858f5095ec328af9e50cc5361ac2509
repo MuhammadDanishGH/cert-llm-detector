@@ -1,0 +1,72 @@
+http://jeck.hopto.org/chase/firstlog.php?public/enroll/identifyuser-aspx-lob=rbglogon=otg3ndqwmtk=otg3ndqwmtk=&session=otg3ndqwmtk=otg3ndqwmtk=
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = jeck.hopto.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGfTCCBWWgAwIBAgIRAIhY9QlewyivnlDMU2GsJQkwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTEwMDgwMDAwMDBaFw0yMjAxMDYyMzU5
+NTlaMBkxFzAVBgNVBAMTDmplY2suaG9wdG8ub3JnMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAtz7eO9hNp1HKZUm5Iw6WcmkdtZ0t/hIKe6bEH8fRpOPC
+IUSOpydRCA26vOKAKIeje0DQ11LdF+jksGX4CEv8iNYbU8vbJeNjs13CdbIYQbJW
+eNKbnK18OwpYiMBjG1YVfWX6eO3dpiKLihyrdfkH1QEvOBS9VHmtHwp7JhHU3o9C
+nbryido5fg25Mco0z3A3tly26G3NrwWOixsb67K6ehvFNxvimgN+d+aOUGj7yD0g
+EZWG1nhvCNJKb+UQtJrrJF7ugT5xhL5vQ+R0AU2hdlDnsyxuIoHqzZZWVIvKgaD1
+s1DfA5gNFqNn50qKahkzBAGVrZDIcVKaCgW8HiAWnQIDAQABo4IDZTCCA2EwHwYD
+VR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFFTAVegdZery
+JZgtGk7BTX27NLJcMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEB
+AgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeB
+DAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRx
+MG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbElu
+Y0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8v
+b2NzcC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgBGpVXr
+dfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXxh9RMQAAAEAwBHMEUCIEJQ
+/UHjBKjWucLb39SLSTRdlpttOTS+dyvHNAiairIsAiEA9BKE9Z5kmpKx67+8yv/1
+2n5tVcTqyc1LknaUidyCj84AdQBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQ
+YpYG9gAAAXxh9RLNAAAEAwBGMEQCIChZwx8Jap4EOS14pj+mS0Scs3XO0ZggPhPh
+FJlTcaeAAiBGU0NgcRjGxiRSrukYjFW/IQVnIKYGbAxw8dkg8F8aqDCBwgYDVR0R
+BIG6MIG3gg5qZWNrLmhvcHRvLm9yZ4IVY3BhbmVsLmplY2suaG9wdG8ub3Jnghpj
+cGNhbGVuZGFycy5qZWNrLmhvcHRvLm9yZ4IZY3Bjb250YWN0cy5qZWNrLmhvcHRv
+Lm9yZ4ITbWFpbC5qZWNrLmhvcHRvLm9yZ4IWd2ViZGlzay5qZWNrLmhvcHRvLm9y
+Z4IWd2VibWFpbC5qZWNrLmhvcHRvLm9yZ4ISd3d3LmplY2suaG9wdG8ub3JnMA0G
+CSqGSIb3DQEBCwUAA4IBAQAf8vx0v4tXs9np5FOop0gTeKT9aEJ1pYBJl/zFFqjf
+UcBV84gCA3/5jgFxV3bERskGICzn07FQXPhN1YxsJCTyCej5wRVKordSode0kBvS
+QgqDgK/t/N9g5iJDAEVhEzgLvROy+H17EmZ6lrJ8m5aRKQGFPrUQYTRJSfy4zDsw
+dOjkMnWZLvtd7xCN9CgHpgbVXecC6YjmJOiwvmgz5j/gcLoJevlCh5C06r26CDZF
+3fEYpxljIkZ86OBggk4WHlxcahqXYjYv7NazqqWQ0qi5b2pKsC7T3RbwcTyUenYF
+GI6PO8cpzxREANN1FWsbIaA+HjkMme5KXYE+c80i52nQ
+-----END CERTIFICATE-----
+subject=CN = jeck.hopto.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5170 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

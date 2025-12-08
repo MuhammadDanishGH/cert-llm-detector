@@ -1,0 +1,96 @@
+http://dropboxstatic.com.admin-mcas-gov.ms/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:C = US, ST = WA, L = Redmond, O = Microsoft Corporation, CN = *.mcas-gov.ms
+   i:C = US, O = Microsoft Corporation, CN = Microsoft Azure TLS Issuing CA 02
+ 1 s:C = US, O = Microsoft Corporation, CN = Microsoft Azure TLS Issuing CA 02
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G2
+ 2 s:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G2
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G2
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIII/DCCBuSgAwIBAgITMwAXn4jL9OZPa6HfggAAABefiDANBgkqhkiG9w0BAQwF
+ADBZMQswCQYDVQQGEwJVUzEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9u
+MSowKAYDVQQDEyFNaWNyb3NvZnQgQXp1cmUgVExTIElzc3VpbmcgQ0EgMDIwHhcN
+MjEwNzEzMDQyNDU3WhcNMjIwNzA4MDQyNDU3WjBkMQswCQYDVQQGEwJVUzELMAkG
+A1UECBMCV0ExEDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoTFU1pY3Jvc29mdCBD
+b3Jwb3JhdGlvbjEWMBQGA1UEAwwNKi5tY2FzLWdvdi5tczCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAN5CC5HqMuJPuoMgeomu+ugKjdb9K9QibeyCfUNf
+qmoO3bEj7B8ETgd5/evDlQpgANqVE/vyo2MB0eT2eFfaM5ao5+HZxlaZICLRHpN0
+a6XQbjIPOa4GHLb9aDsnQuiHUbHMytD9vcQvZluRyTpqepo+lFilDK5WbW0ovPi9
+oNJ0IAEO9nyYhpzPY/aCjzpkltg8OBqMMrOGUyxEzp1LmG4cb0Z9ZaqZ4pKYMaw/
+a62HKNi6vhy/vjAohXzaJQy1wbI7zvOTLSuhX/Gn9NwE0yrTfAXqX8tZSuCes5FW
+Aa8aEq8Ewr+a669Zlzov8x3dgTFpr8OBZ0b5tHSTG2eal7kCAwEAAaOCBLAwggSs
+MIIB9QYKKwYBBAHWeQIEAgSCAeUEggHhAd8AdgDuS723dc5guuFCaR+r4Z5mow9+
+X7By2IMAxHuJeqj9ywAAAXqeJYo0AAAEAwBHMEUCIQCRlU03GJS3KJhsqZeLaHmD
+0d2W4uU7x/yzAFyTyEWvMQIgG4MLITQ56CDatRPP5RX79kcCTTekj2Z/8s0WxKcv
+dvYAdQApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAXqeJYngAAAE
+AwBGMEQCIHfqARrUzk3RsbZ9iECz/3aGFqUkV7FQ3AgC+ElVOeg2AiA9PvfpXe7A
+0TeOjcLwepwIo55YauR7acK2Yk5OEn6tKQB3AEHIyrHfIkZKEMahOglCh15OMYsb
+A+vrS8do8JBilgb2AAABep4lifMAAAQDAEgwRgIhAMpOSuetGdnJj2Wk97OvCzxv
+hNmrOWnjVQcihIiifm4IAiEA2ujN49lWIWlIKxSNWCoOvEjd+M3mDAdpVc0nm76G
+DtAAdQBRo7D1/QF5nFZtuDd4jwykeswbJ8v3nohCmg3+1IsF5QAAAXqeJYpkAAAE
+AwBGMEQCIAvHklvVdVdOz6sAVLd0GE9QGmS8ArCpD+3FuFTPBbUWAiBxawGrTwhS
+YCAdB8CobMhQL5Y/Zyh3KK9vLh8hEhe1iTAnBgkrBgEEAYI3FQoEGjAYMAoGCCsG
+AQUFBwMCMAoGCCsGAQUFBwMBMDwGCSsGAQQBgjcVBwQvMC0GJSsGAQQBgjcVCIe9
+1xuB5+tGgoGdLo7QDIfw2h1dgoTlaYLzpz4CAWQCASMwga4GCCsGAQUFBwEBBIGh
+MIGeMG0GCCsGAQUFBzAChmFodHRwOi8vd3d3Lm1pY3Jvc29mdC5jb20vcGtpb3Bz
+L2NlcnRzL01pY3Jvc29mdCUyMEF6dXJlJTIwVExTJTIwSXNzdWluZyUyMENBJTIw
+MDIlMjAtJTIweHNpZ24uY3J0MC0GCCsGAQUFBzABhiFodHRwOi8vb25lb2NzcC5t
+aWNyb3NvZnQuY29tL29jc3AwHQYDVR0OBBYEFB7ZIrqB5UByXylUpdKZbTmJ+O1p
+MA4GA1UdDwEB/wQEAwIEsDBcBgNVHREEVTBTgiNkcm9wYm94c3RhdGljLmNvbS5h
+ZG1pbi1tY2FzLWdvdi5tc4IdZHJvcGJveHN0YXRpYy5jb20ubWNhcy1nb3YubXOC
+DSoubWNhcy1nb3YubXMwZAYDVR0fBF0wWzBZoFegVYZTaHR0cDovL3d3dy5taWNy
+b3NvZnQuY29tL3BraW9wcy9jcmwvTWljcm9zb2Z0JTIwQXp1cmUlMjBUTFMlMjBJ
+c3N1aW5nJTIwQ0ElMjAwMi5jcmwwZgYDVR0gBF8wXTBRBgwrBgEEAYI3TIN9AQEw
+QTA/BggrBgEFBQcCARYzaHR0cDovL3d3dy5taWNyb3NvZnQuY29tL3BraW9wcy9E
+b2NzL1JlcG9zaXRvcnkuaHRtMAgGBmeBDAECAjAfBgNVHSMEGDAWgBQAq5H8IWIm
+l5qoeRthQZBgqWJn/TAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwEwDQYJ
+KoZIhvcNAQEMBQADggIBAIaucOWr6FmtXXzqGaH5Q4iP6YG5MdUHezKtXwJdwtnX
+FWZ+5bwloMP37j9r82Vp0lfwSJvxhkBlHJwdsGbTccrPMk+oujQRz05F34QV+zPL
+/W7t+3Car2BYl9bBqFvr0Y4RtOGsM9f+7x5+anr4LbKt3aQoK/h5OFIjl9Ho8goh
+P64VGZ2b/OymmqeJZY1exix0ltIZkhSq8KEl0H0Jn/F//g7ZU2Ox/iUgqlZ6I55g
+/tNskfkRc3RxjuX2/m9TWZKUw+A51IbAa1frZbTakRReKa3Y47pQlNatQoN7Xv6P
+SC3bIlXEmPuJUEu/sVhMKUxJZ9lausMfw44nb/XyKQZF7MKvvzacKALy0THOlqXF
+Y9NHSfFQs/YqTdsw0amv84VTY56X2Jx1uQYHREf2DhIWoZRQzaBZ5u/5eyPlyYML
+pgA5yNuL13h6Z3BSgFWVe7i1EowqQpFLviYzGH43bHljJMQF7LO7pgBElAfG7TrZ
+/oRf0HvXYBu8ZRQA+/ZuXmnP2efcrjtZSBkL7mYPoxT9HdSBIj4VaZThkVzXt9LE
+Y9aoFT/6sm3jDdSiIzW3Wct1JdSgMES4k3VSvMt7ElhUD8SsBkmo/22GRLeU7g6c
+OYjXoeYMGtMvZHva+irLKMsPG1zbQmWARSOV1MtoppbLnyP9uBkfuqEdLEYAkbgP
+-----END CERTIFICATE-----
+subject=C = US, ST = WA, L = Redmond, O = Microsoft Corporation, CN = *.mcas-gov.ms
+
+issuer=C = US, O = Microsoft Corporation, CN = Microsoft Azure TLS Issuing CA 02
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5233 bytes and written 430 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: BFB85AACEA2FD5911E37D712A3F0F53D10130E63CDBB4DB6107C0EDEEEDC67F3
+    Session-ID-ctx: 
+    Master-Key: D54924B567603A8FE502AFD2E553A789303B712312BCB6A7EBC6DF194B4FCC0113EB11815DCC71818AB20B7775DEE63E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1626180163
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

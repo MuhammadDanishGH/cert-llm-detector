@@ -1,0 +1,78 @@
+https://grandcaymanfoodie.com/user2/linkedin/linknewin/LINKEDIN/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpcontacts.insightresumes.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIH+DCCBuCgAwIBAgISA8OGd2zzVknsGEcWHU7aAF0MMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTUyMTM3MDNaFw0yMTEwMTMyMTM3MDFaMCgxJjAkBgNVBAMT
+HWNwY29udGFjdHMuaW5zaWdodHJlc3VtZXMuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAp6Mu6wRDgp/usPTpbrtEAJbNin8nNlb5FpCCOCazc/v7
+MubIr0PMTQEDsP714z4ny384yMLQC+cgq6Z4ZVlNXVEcbcGUAM0kfqrkrgoVfrHQ
+/3FTMBgCcnW76grr+0wQe/q7Y3FJJdUsd4QaUsNZujICjp0btR5AKtfM5fRFDLUa
+0NswDGAz/P36d6UtXjrPjVLZvigc4VZ+vtXh3vGGojvf/PCBHMSL/3vNw4dMjIuX
+uuNsmSTwp+q9PhGifCypCh1zrrcy/+H/rYewVQElr5X0QE1fqRHqnHBXAiI1Coao
+61xAvOY0yDGkGkfrtgAIKa81YTqKNGjz6pBLtFNXhwIDAQABo4IFEDCCBQwwDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNV
+HRMBAf8EAjAAMB0GA1UdDgQWBBT2T7KJuGb/CQcWekzPz7WYHQTL7TAfBgNVHSME
+GDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYB
+BQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDov
+L3IzLmkubGVuY3Iub3JnLzCCAt4GA1UdEQSCAtUwggLRgiJhdXRvZGlzY292ZXIu
+Z3JhbmRjYXltYW5mb29kaWUuY29tgh9hdXRvZGlzY292ZXIuaW5zaWdodHJlc3Vt
+ZXMuY29tghxjcGFuZWwuZ3JhbmRjYXltYW5mb29kaWUuY29tghljcGFuZWwuaW5z
+aWdodHJlc3VtZXMuY29tgiFjcGNhbGVuZGFycy5ncmFuZGNheW1hbmZvb2RpZS5j
+b22CHmNwY2FsZW5kYXJzLmluc2lnaHRyZXN1bWVzLmNvbYIgY3Bjb250YWN0cy5n
+cmFuZGNheW1hbmZvb2RpZS5jb22CHWNwY29udGFjdHMuaW5zaWdodHJlc3VtZXMu
+Y29tgi9ncmFuZGNheW1hbmZvb2RpZS5jYXltYW5pc2xhbmRzaG90ZWxyZXZpZXdz
+LmNvbYIVZ3JhbmRjYXltYW5mb29kaWUuY29tgixpbnNpZ2h0cmVzdW1lcy5jYXlt
+YW5pc2xhbmRzaG90ZWxyZXZpZXdzLmNvbYISaW5zaWdodHJlc3VtZXMuY29tghpt
+YWlsLmdyYW5kY2F5bWFuZm9vZGllLmNvbYIXbWFpbC5pbnNpZ2h0cmVzdW1lcy5j
+b22CHXdlYmRpc2suZ3JhbmRjYXltYW5mb29kaWUuY29tghp3ZWJkaXNrLmluc2ln
+aHRyZXN1bWVzLmNvbYIdd2VibWFpbC5ncmFuZGNheW1hbmZvb2RpZS5jb22CGndl
+Ym1haWwuaW5zaWdodHJlc3VtZXMuY29tgjN3d3cuZ3JhbmRjYXltYW5mb29kaWUu
+Y2F5bWFuaXNsYW5kc2hvdGVscmV2aWV3cy5jb22CGXd3dy5ncmFuZGNheW1hbmZv
+b2RpZS5jb22CMHd3dy5pbnNpZ2h0cmVzdW1lcy5jYXltYW5pc2xhbmRzaG90ZWxy
+ZXZpZXdzLmNvbYIWd3d3Lmluc2lnaHRyZXN1bWVzLmNvbTBMBgNVHSAERTBDMAgG
+BmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3Bz
+LmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB3AJQgvB6O
+1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABeqxQ8TQAAAQDAEgwRgIhAINf
++3IsQUElO2JPNcSZgo1qsyaSRdomWk3Tv4t74CIBAiEAgmxZT788Aa4lfmOvRyNV
+vQokeHaClmor1ZRF8BDiNTEAdQB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZ
+fiLw1wAAAXqsUPFgAAAEAwBGMEQCIG+bUsGHRm9SlqRKWy4HktziEIHKo1IP3PCR
+MSzJDpZqAiAq/XJUjmZ2Mw1sXJovYUM21Nw8OgYesqb+FUkjoRDNUTANBgkqhkiG
+9w0BAQsFAAOCAQEARQhHhC/6aMR6kogjnDMJ89vDlGLBkT3RU0alQtZrorON90gR
+eqmTesZK3HUvssXBhxjpTbzl4RczUsLWOq8hl9EOogVP81O7M0QDPreJeT89NDnf
+lPzZNKVICFrZQwicbJCggNoOYdzB4mTmdG0GnzXcDNDL9J+khQPjLlaKJhTwUT5a
+MuWdgnA42N8vJaetneLaMbo+wwecvW9z1SNd8QorxmkQ9OOTyPEU8Pcmo1u9Xwb/
+ZpLbPuHxX4tADcJDV61g0KgdHvr2OvSToTsBZtjHt3UaGYMBLWFPnvTlIol+zzEZ
+hHCocBtta4+XZnr7qgVBZ+wyhWkZv9Hx5+yWsw==
+-----END CERTIFICATE-----
+subject=CN = cpcontacts.insightresumes.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3672 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

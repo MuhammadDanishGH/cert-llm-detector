@@ -1,0 +1,71 @@
+https://www-banc0falabella-cl.apspayroll.com.au/login
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www-banc0falabella-cl.apspayroll.com.au
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGMTCCBRmgAwIBAgIRAIzxTM/dHdp76LfYG8ovbM4wDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMjAyMDkwMDAwMDBaFw0yMjA1MTAyMzU5
+NTlaMDIxMDAuBgNVBAMTJ3d3dy1iYW5jMGZhbGFiZWxsYS1jbC5hcHNwYXlyb2xs
+LmNvbS5hdTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAK6dkuyAt7vc
+lCiLBx2PPzLq3ybtJFnQD8PCICFdT73Ijlzit/15rqWUB+wXSCgQsgiaJm5L88wW
+zGY2sQffF0nDMybfosPaaRFfHwGCx5J8phrsf7isf7LQLjoVRn1Vt1enP1b/kESx
+L5ynFAXgT9+aEMldWEiPcGJprSpVPWGkjVGw0jAAfBt21YtyBHRhJQAZ6Gk9iqBI
+ZBwYYG1flHXnvU7GLAa+FfjRAV3YR99J5sChR8rOZoUIY0+SnclaiB+PiiOVvaqx
+R+9QFPbl846aBPvKxCz9r55obmgUZ6FIQazW3QI+xhJLS4fiKo3NF9mZCTGBGzhh
+/qphd64AJVECAwEAAaOCAwAwggL8MB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjq
+HY4dasdlMB0GA1UdDgQWBBRfDVf/yFwxVxcJEF+plwOklMAl6jAOBgNVHQ8BAf8E
+BAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRw
+czovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7
+aHR0cDovL2NybC5jb21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1
+dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8v
+Y3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5
+LmNydDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBAgYK
+KwYBBAHWeQIEAgSB8wSB8ADuAHUARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy
+/HD+bUcAAAF+3LbiuAAABAMARjBEAiAXNa9wdCdkwrcXv2ueEUc5R+i5+0x8Rnpp
+fnAbSgMjqwIgL1vD7Mcwns5yBCVvpIoZmrwg6OeH4b9rz/+K4+xL/YQAdQBByMqx
+3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG9gAAAX7ctuJ4AAAEAwBGMEQCIEiT
+8mhaEI3RWWCN+mWJKL9ZCW7GNQBHyjNkh8/5SVJSAiAB7XwCbr2ipUCwFYw7tYYE
+2GaH7KkJ+L6v1+6PDHFUNjBfBgNVHREEWDBWgid3d3ctYmFuYzBmYWxhYmVsbGEt
+Y2wuYXBzcGF5cm9sbC5jb20uYXWCK3d3dy53d3ctYmFuYzBmYWxhYmVsbGEtY2wu
+YXBzcGF5cm9sbC5jb20uYXUwDQYJKoZIhvcNAQELBQADggEBAHVqNdW37Ex0nqoc
+mAzfy+kS/ipkd+d0p/6pRHdOAGBPtgkdM3rxz/QNWZ3o06uXPTa6MJRz5Ynkw4ea
+ouliVJqp7pZE+mLM9GBCsdJrk7IZ+cnmpD45N6WHbocTbNCa8nw+ZVz+bV8Gtm9A
+1a0fUNrRnu6Zh61DW2GGjGdx7osQ6i3s9El0vByLzOrKPMfq4BGXHGiqED/5Suzz
+8PAQY9z6+3UKbwE9/LPxNdwhWImRCBYW8JaHv6w+bNF5hNYtXawz/OF2fOBxF5Cc
+ahNLlKwBQOO8BbW6FRaRbyqPqWqSoyKx4XzG82Adm1moDP8LacLPWhP5U48uFwLh
+MLvrlis=
+-----END CERTIFICATE-----
+subject=CN = www-banc0falabella-cl.apspayroll.com.au
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5094 bytes and written 413 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

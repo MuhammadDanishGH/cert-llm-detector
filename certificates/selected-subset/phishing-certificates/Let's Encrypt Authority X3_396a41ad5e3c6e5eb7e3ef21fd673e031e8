@@ -1,0 +1,94 @@
+https://mail-paymentpolicy52067.namunbilakumulaisadar.com/_
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mail-paymentpolicy52067.namunbilakumulaisadar.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFmTCCBIGgAwIBAgISA5akGtXjxuXrfj7yH9Zz4DHoMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA0MTUxOTExNTlaFw0x
+OTA3MTQxOTExNTlaMDwxOjA4BgNVBAMTMW1haWwtcGF5bWVudHBvbGljeTUyMDY3
+Lm5hbXVuYmlsYWt1bXVsYWlzYWRhci5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCeHV9A+RHfe+xAT2Z/my1qiIzHcYvspdvkDx5/KtnO+KwQne3f
+q6AOF0SkTJvDfGZWbj5Gq1Psdu1Gk6LVZG1p91IkGJd0VYnixIWptRua716T19AO
+L4rn3TJR2mMmBY61Rv6sW9RbdU3uhZUGTyOjwfZBG+iXnyli5XrQuxEtoK70Aqx1
+dpPWa1otlBA//mwTZwRoW5qufsk03TCvY4Mz4bxsYt5eMLAXoHTxlwC+rLZXskJc
+OqxPkmpOAdYIb366BUrSZYjb9BPYkWsOMXbFNYZtxGVs6fVGTOqeB5Xs1zOh1lB3
+B+8ZGsvCrsVkM3j56SGsr4rUO7r1jSleW7x9AgMBAAGjggKFMIICgTAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFKN3HNeSILVAfRn5gja427lpKBnxMB8GA1UdIwQYMBaA
+FKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAuBggrBgEFBQcw
+AYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcw
+AoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8wPAYDVR0RBDUw
+M4IxbWFpbC1wYXltZW50cG9saWN5NTIwNjcubmFtdW5iaWxha3VtdWxhaXNhZGFy
+LmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsG
+AQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkC
+BAIEgfQEgfEA7wB2AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAIxjc1eeYQe8xWAAAB
+aiKguTcAAAQDAEcwRQIhALl4OvxkdM1qmlNFAAN5M9pRxf+k3Yt6pmkROROZ0Rgw
+AiB6SGNp7zPL4nYG2DYDbQ519HNU6Dsgt1QgQO7JXlb4yQB1AGPy283oO8wszwty
+hCdXazOkjWF3j711pjixx2hUS9iNAAABaiKgubAAAAQDAEYwRAIgb+jBrL/Da/x/
+nZlV+X1KxRXzHTq/Y4pdVNbeQpnOeCwCIEzgrvI8nHUaYXZ1LPhEun9jG3U3jPko
+HIXHiq4DMAeZMA0GCSqGSIb3DQEBCwUAA4IBAQBJwC2LgWOm2x3zhc10KHcIL14r
+6Q23x9RI/7CIyqBiAd1Fi+p11Ek8uHIOHM18Twr6bplx4p7Mg2+/SY+44yPFadDW
+RXBLclUdYzIigpPUZv3q60yYWeur8XgUN+t76sulO6LSlg5fBHSfKlssVmpNKZJr
+0tp81kAGQ1CYNk/Jx8290yHPzlmCarUc2abQPj8f/LVpezy5fCiGeK5ZHK6WarF9
+dKtJfs79q+QnlsGdKKujJNKdWbby9ihAUTnDXYyZcMlpijkORuyAx+AwEB4Ectch
+xdNMesWk6Vzo2cEvWRhu98mVtCKaUHpNS0Hd6vTFbesOjv+Cj0NgevbwJtDw
+-----END CERTIFICATE-----
+subject=CN = mail-paymentpolicy52067.namunbilakumulaisadar.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3352 bytes and written 487 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 0E52A59DB579187BD71B9B82CE52779571BFD971804131188928A0D50C77F21F
+    Session-ID-ctx: 
+    Master-Key: 3B5F9F7944334F02B18A47074B0135B9F86CE824FFA15C2B351AF77FFE65A562D7016A10A5634E5C4807331336E849E9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 6b 4d 57 a7 6e b9 1e 83-d0 19 74 72 05 54 90 2c   kMW.n.....tr.T.,
+    0010 - 11 88 7f 54 3b fa 16 16-53 e0 ea ec 7e 4b 90 62   ...T;...S...~K.b
+    0020 - a4 d9 9a 3c 7a ee 61 64-6e c9 44 27 f8 43 aa 63   ...<z.adn.D'.C.c
+    0030 - 1e 44 e9 b6 57 be 67 74-ee 61 ca 40 7d f4 00 9c   .D..W.gt.a.@}...
+    0040 - 42 05 ac b8 40 c0 07 d0-51 97 df 70 15 bb 1f 84   B...@...Q..p....
+    0050 - 69 d0 d7 97 f4 fe 0a f2-72 eb 9e 20 2a 74 82 f2   i.......r.. *t..
+    0060 - 66 53 99 63 b7 ba c9 bb-e4 00 b8 e5 c7 8f db f0   fS.c............
+    0070 - da 7f 15 c6 ff b0 08 36-2d 23 99 17 1c 60 6e d8   .......6-#...`n.
+    0080 - 16 6d 08 8b 97 10 f4 26-ea 66 53 7e c5 35 46 a8   .m.....&.fS~.5F.
+    0090 - 21 ea ea d7 ad 11 2b 38-1e a6 22 5f c0 1d 69 f2   !.....+8.."_..i.
+    00a0 - d7 19 3f 7d 14 e0 b7 5d-c2 88 b3 5e ec df a5 d7   ..?}...]...^....
+    00b0 - a9 e5 7e 9c 6b e6 98 a2-38 8d 9c 55 27 98 dd 68   ..~.k...8..U'..h
+    00c0 - eb 80 36 1f 3c fa d4 a6-a4 55 80 7c 60 c5 a8 73   ..6.<....U.|`..s
+    00d0 - ac a9 b5 ff f8 19 9d bd-be 9a d9 cd 72 34 90 5f   ............r4._
+    00e0 - c3 ce 8c d6 0a 65 d1 2b-a0 b4 da 9a 8c c2 10 0f   .....e.+........
+
+    Start Time: 1555419635
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

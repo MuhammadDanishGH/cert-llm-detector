@@ -1,0 +1,87 @@
+https://www.olux.is
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:OU = Domain Control Validated, OU = PositiveSSL Multi-Domain, CN = sni251626.cloudflaressl.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Domain Validation Secure Server CA 2
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Domain Validation Secure Server CA 2
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJLTCCCNSgAwIBAgIQYbegsuyZBvzUUJ/X943XzjAKBggqhkjOPQQDAjCBkjEL
+MAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4GA1UE
+BxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxODA2BgNVBAMT
+L0NPTU9ETyBFQ0MgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBDQSAy
+MB4XDTE5MDMxOTAwMDAwMFoXDTE5MDkyNTIzNTk1OVowbDEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMSEwHwYDVQQLExhQb3NpdGl2ZVNTTCBNdWx0
+aS1Eb21haW4xJDAiBgNVBAMTG3NuaTI1MTYyNi5jbG91ZGZsYXJlc3NsLmNvbTBZ
+MBMGByqGSM49AgEGCCqGSM49AwEHA0IABN4JvtjzJvgMW2aT5skLamA9zp9eGMqS
+LPl3H2M9SJhbyTRUJSwyoPY1zIVtP20TI1ZGMzTFTXfEA+0+zNJr4jGjggcvMIIH
+KzAfBgNVHSMEGDAWgBRACWFn8LyDcU/eEggsb9TUK3Y9ljAdBgNVHQ4EFgQUZiR3
+SjwKAEyaXCLoaRpWBrPKcnMwDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYB
+BAGyMQECAgcwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNv
+bS9DUFMwCAYGZ4EMAQIBMFYGA1UdHwRPME0wS6BJoEeGRWh0dHA6Ly9jcmwuY29t
+b2RvY2E0LmNvbS9DT01PRE9FQ0NEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVy
+Q0EyLmNybDCBiAYIKwYBBQUHAQEEfDB6MFEGCCsGAQUFBzAChkVodHRwOi8vY3J0
+LmNvbW9kb2NhNC5jb20vQ09NT0RPRUNDRG9tYWluVmFsaWRhdGlvblNlY3VyZVNl
+cnZlckNBMi5jcnQwJQYIKwYBBQUHMAGGGWh0dHA6Ly9vY3NwLmNvbW9kb2NhNC5j
+b20wggRuBgNVHREEggRlMIIEYYIbc25pMjUxNjI2LmNsb3VkZmxhcmVzc2wuY29t
+ggsqLjQxYWFzLmNvbYIMKi5iMmItaXQubmV0ghYqLmJpdGNvaW5wcmljZWluLmNv
+LnVrghkqLmJpdGNvaW5yZWd1bGF0aW9uLndvcmxkghAqLmNvaW50cmFja2EuY29t
+gg4qLmNvb2xmaWxlcy5ncYIMKi5mbG93bGFiLm5vggkqLmdkMTMucHeCDCouZ2l2
+aW5neC50a4IPKi5sZWFmbWFpbGVyLnB3ggkqLmxlZjgucHeCEioubGlicmlobWJp
+dGFseS5ncYIRKi5saW5nc2VuYmlwaXguZ2GCECoubWlsbGlvbnMzNS5jb22CDyou
+bXVxYW11bWFuYS5jZoIRKi5ub25lLXBheW1lbnQuY2aCCSoub2x1eC5pb4IJKi5v
+bHV4LmlzggkqLm9sdXgucHeCCSoub2x1eC50b4IPKi5vdG9weGVuaXNxLmdhghAq
+LnJpY2h0b25pbm4uY29tgg8qLnNlcnZpcHJlc3QubWyCESouc2lzdGVtYW0uY29t
+LmJyggsqLnN5MTA0Lnh5eoILKi5zeTExMy54eXqCEyoudGVhY2hlcm9uZS5jb20u
+YnKCDioudWhhcHB5NTYuY29tgg4qLnVoYXBweTYyLmNvbYIOKi51aGFwcHk3MS5j
+b22CDioudWhhcHB5NzYuY29tgg4qLnVoYXBweTgxLmNvbYIOKi51aGFwcHk4Ny5j
+b22CDSoudWhhcHB5OS5jb22CDSoudWhiYWJ5LmNsdWKCFCoueWVjaWNpbnliZWtl
+em90LnRrggk0MWFhcy5jb22CCmIyYi1pdC5uZXSCFGJpdGNvaW5wcmljZWluLmNv
+LnVrghdiaXRjb2lucmVndWxhdGlvbi53b3JsZIIOY29pbnRyYWNrYS5jb22CDGNv
+b2xmaWxlcy5ncYIKZmxvd2xhYi5ub4IHZ2QxMy5wd4IKZ2l2aW5neC50a4INbGVh
+Zm1haWxlci5wd4IHbGVmOC5wd4IQbGlicmlobWJpdGFseS5ncYIPbGluZ3NlbmJp
+cGl4Lmdhgg5taWxsaW9uczM1LmNvbYINbXVxYW11bWFuYS5jZoIPbm9uZS1wYXlt
+ZW50LmNmggdvbHV4LmlvggdvbHV4LmlzggdvbHV4LnB3ggdvbHV4LnRvgg1vdG9w
+eGVuaXNxLmdhgg5yaWNodG9uaW5uLmNvbYINc2VydmlwcmVzdC5tbIIPc2lzdGVt
+YW0uY29tLmJygglzeTEwNC54eXqCCXN5MTEzLnh5eoIRdGVhY2hlcm9uZS5jb20u
+YnKCDHVoYXBweTU2LmNvbYIMdWhhcHB5NjIuY29tggx1aGFwcHk3MS5jb22CDHVo
+YXBweTc2LmNvbYIMdWhhcHB5ODEuY29tggx1aGFwcHk4Ny5jb22CC3VoYXBweTku
+Y29tggt1aGJhYnkuY2x1YoISeWVjaWNpbnliZWtlem90LnRrMIIBBAYKKwYBBAHW
+eQIEAgSB9QSB8gDwAHcAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUA
+AAFpk/Pl1wAABAMASDBGAiEAyPE0PvDbVNodnTKekRRy4jORFK4XEYNFIFc6SDDd
+ohICIQD3RwuPuxo10LpNAYEPYaTrGhFWRBXXTlWKx/f/+k409wB1AHR+2oMxrTMQ
+kSGcziVPQnDCv/1eQiAIxjc1eeYQe8xWAAABaZPz5isAAAQDAEYwRAIgBrvuB0qy
+h8LjfyEDfuvrOQCLxHY+lI9ix2HbgALeoZUCIH2rY1qiKmx+XuU1SZ21qz6No0XR
+klou76EG37N2ZE91MAoGCCqGSM49BAMCA0cAMEQCIE333ftf8IASweV6jKS8KnA2
+0FV9vppDhkfMhnLjnogOAiBIaOJC5HVFQ51csCOZnlXK28k4huWmQaDedTNC4Cd/
+DQ==
+-----END CERTIFICATE-----
+subject=OU = Domain Control Validated, OU = PositiveSSL Multi-Domain, CN = sni251626.cloudflaressl.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Domain Validation Secure Server CA 2
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4579 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

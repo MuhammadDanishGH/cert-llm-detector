@@ -1,0 +1,66 @@
+http://hikaheal.com/US/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = hikaheal.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFujCCBKKgAwIBAgISBOYzrMljmjK9GFosH25WDqVPMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDYxNzM0NTBaFw0yMjAyMDQxNzM0NDlaMBcxFTATBgNVBAMT
+DGhpa2FoZWFsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJNe
+xPGyK6VMlhfDx4Fxya2erzAYcxsRVZfmZRwa/yL9HkhfBAqc+4zaHqepWttXJKmn
+y6HFqkkINMrbpwFFIcu4o1vJCincPvJDvwt2vcL5PCxUcLO00xysIvJQ16Vjfv3t
+V2hMS4UxYet0+z/PHQfh4AwrzTyvE2C14e6ExsORMlss64cYNYmAyo+HqsOwFZsE
+eMGhO6crgqyCEe+MksYodrNS++k09ZVwuazQnG9I/HJn3lo4rSkqQYALM0jeYd2+
+3VwwDfAC/ZyTo1qExffamkjPJ0HJevYNWHHh/6cm3Z4tQDsd28DI+ZOFdPrC6lo5
+fP1nmtDV6PTrIkfb5OMCAwEAAaOCAuMwggLfMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQUEKmUiZunXPB2nDwGUJlqx3wRvGQwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA
+5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMu
+by5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8w
+gbAGA1UdEQSBqDCBpYIbKi5jb20uZGVzaWdubmFtYWFjYWRlbXkuY29tghcqLmRl
+c2lnbm5hbWFhY2FkZW15LmNvbYIOKi5oaWthaGVhbC5jb22CDGhpa2FoZWFsLmNv
+bYIid3d3Lmhpa2FoZWFsLmRlc2lnbm5hbWFhY2FkZW15LmNvbYIrd3d3LmprZXhw
+cmVzc25ld3MuY29tLmRlc2lnbm5hbWFhY2FkZW15LmNvbTBMBgNVHSAERTBDMAgG
+BmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3Bz
+LmxldHNlbmNyeXB0Lm9yZzCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AN+lXqto
+gk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABfPaIJ1EAAAQDAEgwRgIhAP6a
+w9thr1Kf0Dd0vxY6spZtRn9HPHb5DOuTUQfDrGESAiEAi9Rh7PVxDMxC9+TB9MN3
+deSgx505ERD686xeryPP6w4AdwBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8
+cP5tRwAAAXz2iCeDAAAEAwBIMEYCIQD4jWwo9N8BnoVTgUknuB3TYPUtWdV0fwoB
+M7TG2+hLMAIhAM8W6oJaDRq2g/j9wpcocb3GsLCMKnXCq8L4ayd6mb0mMA0GCSqG
+SIb3DQEBCwUAA4IBAQBmPHWOOdUSSW/zp5SMg17YsNfmbobgI59YYdutCyu3j7E8
+F4rGPshmkv6k1nWEIoZ7qGppNzjYdqMiuk6WHAlWNqJUPZ0veJKqLg/KLwzMA4nU
+lxXMCfqk0TdKJfyeEW40gLFyO1H586jhPuC99mmGJWQALjK1b6pVFiTxUZSvTm/J
+MBGwxX5aUwSUheBuj/ziUThSNXD9ACIfZZIinQlaJfqouiYB8g0QdM4i4N5F0zw8
+OERPl3QQzJDf3ymai7XFvSUBEy3Dde5PlpPOZc+ntPEyq4VHS0iEf1oHiQTFlZrz
+Gz/KLVgans7FW5RNr5d+XQmnw1YSwjoAmHOQ+Bkd
+-----END CERTIFICATE-----
+subject=CN = hikaheal.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3341 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

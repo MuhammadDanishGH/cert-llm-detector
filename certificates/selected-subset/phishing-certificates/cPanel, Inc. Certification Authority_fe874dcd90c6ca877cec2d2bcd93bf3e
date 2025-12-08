@@ -1,0 +1,73 @@
+http://anamnousbarn.com/secure/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = anamnousbarn.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGjzCCBXegAwIBAgIRAP6HTc2QxsqHfOwtK82Tvz4wDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA3MjgwMDAwMDBaFw0yMTEwMjYyMzU5
+NTlaMBsxGTAXBgNVBAMTEGFuYW1ub3VzYmFybi5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCt788+hKbmNaSiL895qvKY1TpRJFsGe9MC4rAhxxFL
+qIEtAKsdMtDRxpxEOCPwSCbzMyQK56acB5yj1YY5KC8phjyX1z0nYt2b/W8n+4bs
+hvHjMmrNXFCqXLJAliRprMcW2MzjAgeH+BuCxZOI/cH4vN+myQQGEX62CNBgEymq
+Auj96GuM/UdohnbF8TVb8HQgdjV3tG13if6cMFfxRCPSeV3ZMY+I/hvz3uR12A9v
+A6pWckJ7CjP9WO9E94oNMY/cGXB0zONiWkAxEqcbfp3t5nhPgP+mGuMbxvS7Fbwr
+OJ3ZG1FuT+LHx3dRAMdyAn/EMgpocccuh57rQC1TNY5tAgMBAAGjggN1MIIDcTAf
+BgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUyKoKFdRA
+hgpVvEB2X/gFmPRKOhMwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGy
+MQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYG
+Z4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEB
+BHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVs
+SW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AH0+
+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABeuytZaQAAAQDAEcwRQIg
+XC4Nkb0xNPXZt4RnrXQifyFNMNCBNpQ1D/higbLUjfECIQDMRZX6Q0j+C8mCbjQf
+2pzrc+B2UQrQrXWSE+oQYtD6RwB1AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/T
+M5a1toGoAAABeuytZXQAAAQDAEYwRAIgPuQWWcUp4dJh8fJxcHwIowszmkM5m5Tk
+zsVsYSmVbroCIFFw0W2g5p2VNWBLXZ5Xonv+BVJvbGXe8vtYzvL+bI2NMIHSBgNV
+HREEgcowgceCEGFuYW1ub3VzYmFybi5jb22CF2NwYW5lbC5hbmFtbm91c2Jhcm4u
+Y29tghxjcGNhbGVuZGFycy5hbmFtbm91c2Jhcm4uY29tghtjcGNvbnRhY3RzLmFu
+YW1ub3VzYmFybi5jb22CFW1haWwuYW5hbW5vdXNiYXJuLmNvbYIYd2ViZGlzay5h
+bmFtbm91c2Jhcm4uY29tghh3ZWJtYWlsLmFuYW1ub3VzYmFybi5jb22CFHd3dy5h
+bmFtbm91c2Jhcm4uY29tMA0GCSqGSIb3DQEBCwUAA4IBAQALc6uFGxACGq/C7GaJ
+QdftMmNQaqD8RcoLzoAoG7QQLb4tCZg+nS1w8rRbf1wUcqyeMymmfCItuMDbACrc
+gwLUlMEqW7FIGaL5BNtFbUQMWwYMOYMBndK/HjUZSagEqwLFR9XnYWkrR1r3sPQ4
+drAvsusCi6v5I9dYeMgLoHHR3fT0mBhvYNEs4eYJOCXDL84v4XOd1ijZZBia9ifr
+Z6SF9YUW+8eDHtLn8W58bpy58WtvM5nnfvTd8Go9rusDuhkplRNqKzeCeY3cAg0v
+zK5HggEEGr/nYaWzRR5+oZHYvfQVcK5UthdBFA88e6r9dR6VwEdo/NiFTrA34v6S
+4Xva
+-----END CERTIFICATE-----
+subject=CN = anamnousbarn.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5188 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

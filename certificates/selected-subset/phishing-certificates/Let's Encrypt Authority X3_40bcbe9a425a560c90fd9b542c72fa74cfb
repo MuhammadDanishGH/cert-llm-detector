@@ -1,0 +1,93 @@
+http://sudame.org/images/q/f9e4f65e33a0e98a1286fc53bdf31d6b/eb147b1693a4ba5a1aabaf664467cbf9M2RhZjExODkzYjgxZWExMTkzZDYwMGE3NzhmMWU1ODY=/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = sudame.org
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFwzCCBKugAwIBAgISBAvL6aQlpWDJD9m1Qscvp0z7MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAyMTUwMDA3MzJaFw0x
+OTA1MTYwMDA3MzJaMBUxEzARBgNVBAMTCnN1ZGFtZS5vcmcwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQC6g+xP/PvKzEer1WqMss9rUADIkl5ekABFGk8I
+AXDT5RfnwVlcakYEERMjmIpH1f2lA6eHM5nx7a0ZrW9M6UbXlfKwo0s19Gj3ZZaP
+3zQonI7eqLoCY+jeogeHxQ2K6Bxt2L1enBvlYq1JJJnhvjRTsB9HQJQUwIBqMl4J
+fuEYvxZvkQ5QuTSKj2nCISRltMG61iZelb8pokG5ZvJ9fsVAHDwHukKEx2Od1GV4
+gaLQhXJZsw3WuDIhTm4pNitvaRo+cC7vB/U8PMkLMizvrGHAlLnyLRsMFaUmn918
+PMex31pyWWZeOUAWdCAPfT8VMzxsTjE6/NWWc3wvI3OXzczdAgMBAAGjggLWMIIC
+0jAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFP/yQzDsOe2y5++vWvgoud3Oc9gYMB8G
+A1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAu
+BggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAv
+BggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8w
+gYwGA1UdEQSBhDCBgYIXYXV0b2Rpc2NvdmVyLnN1ZGFtZS5vcmeCEWNwYW5lbC5z
+dWRhbWUub3Jngg9tYWlsLnN1ZGFtZS5vcmeCCnN1ZGFtZS5vcmeCEndlYmRpc2su
+c3VkYW1lLm9yZ4ISd2VibWFpbC5zdWRhbWUub3Jngg53d3cuc3VkYW1lLm9yZzBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQE
+gfEA7wB2AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAIxjc1eeYQe8xWAAABaO6xv9IA
+AAQDAEcwRQIhAM85g2kEdb+WktNtJZGqlAPMJOQzUFbFexHktXvnzow/AiAz7JRK
+MXjMBou/O9hxDJarnqEvaJe6Hvw+zX+m2yCP/AB1ACk8UZZUyDlluqpQ/FgH1Ldv
+v1h6KXLcpMMM9OVFR/R4AAABaO6xv98AAAQDAEYwRAIgC/dDKd5PMpzGTVjFimhr
+vHxQOjO8/DAMKGFwT550VwUCIHhYJJiHarnRD5qVS7yZqj7qBjyOBUYiuoeQTEXb
+TIbyMA0GCSqGSIb3DQEBCwUAA4IBAQA7DMYqpZyZiTwTcq1+1DMuOZLnFfZYweu+
+Ca7p6MoS6vjYDBvHOlH6T6UGsejiKB+wxZfU8pl66LoWdEswNq6PwNYilHzM8P/C
+Y9qa2WeoR8ZHEllkl5bPXhol4XjTS7V1PbXcjYWg6FlsNebjW9end3y4ec8ltiN5
+mcjWKn52um45/A6Q/gvQNe/ewJi0FcWDP2F5Bvm3FBn0c1XMHe6il4LNzmMoE/1p
+TspeA3FbAC963MUmSQsYJ+HBLKnNTG+jOemefjcwtfwyz0zLZ9/8LlqUjdN43/qC
+9HoU3wCDism0g1VFrakNTm9+L5LuoTkHU5CcXoMQEKWPpRJ5/LOm
+-----END CERTIFICATE-----
+subject=CN = sudame.org
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3362 bytes and written 448 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: FF278D5D9A673AD2F173F667BB44B059522130BF8827D6CB2B589559134F9A29
+    Session-ID-ctx: 
+    Master-Key: 1F83B254C75ABECD35F546DD769018D1AF84ED72554A9B160162113CED8778AB916E6C86CDF0731639F80EF1ACB4608D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 56 65 b7 8a 94 18 3b ed-51 42 0d 0d 24 e5 fa 2b   Ve....;.QB..$..+
+    0010 - 32 c0 42 f5 70 01 e0 28-a5 21 2c 88 48 2e 14 71   2.B.p..(.!,.H..q
+    0020 - f1 58 b3 d2 7a b7 9c 25-5b ef 23 15 78 b2 d1 be   .X..z..%[.#.x...
+    0030 - 26 d3 7e de a3 cd 6a d4-3b 27 44 d7 e3 3a 65 b4   &.~...j.;'D..:e.
+    0040 - ce 87 15 5a c0 86 7b 19-83 27 1c 75 de 7c b4 91   ...Z..{..'.u.|..
+    0050 - 02 95 b8 f3 ab fa ea aa-76 7e 33 c4 0e ff e2 d8   ........v~3.....
+    0060 - 3b bd 7a 4a 74 b9 83 4d-f1 74 1a 77 8d 9b 92 eb   ;.zJt..M.t.w....
+    0070 - bc df d4 de fa 2e 29 26-46 87 80 d1 52 91 5c d9   ......)&F...R.\.
+    0080 - 07 a7 a5 a6 74 f1 14 e6-87 27 16 17 f5 e4 aa e5   ....t....'......
+    0090 - d3 7c 04 7a f4 a4 e9 2a-fc fe 3c 55 42 ea 87 6f   .|.z...*..<UB..o
+    00a0 - d3 77 1c 5c dc 25 35 b1-22 e1 96 48 06 ec 46 19   .w.\.%5."..H..F.
+    00b0 - ee d9 fe bf fe 19 e5 79-e3 d0 55 7b 69 26 0d d7   .......y..U{i&..
+    00c0 - 7d 86 85 fa 8c ea fa 61-c7 3d ed a3 05 b7 d4 2b   }......a.=.....+
+
+    Start Time: 1554210016
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

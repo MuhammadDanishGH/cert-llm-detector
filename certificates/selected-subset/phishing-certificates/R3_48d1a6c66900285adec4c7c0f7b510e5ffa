@@ -1,0 +1,66 @@
+https://clever-bouman.165-22-177-166.plesk.page/mail/en/view_as_usr/login.html#anthonymoore@legalshield.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = clever-bouman.165-22-177-166.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFVDCCBDygAwIBAgISBI0abGaQAoWt7Ex8D3tRDl/6MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA2MjkxMTAyMjZaFw0yMTA5MjcxMTAyMjVaMDIxMDAuBgNVBAMT
+J2NsZXZlci1ib3VtYW4uMTY1LTIyLTE3Ny0xNjYucGxlc2sucGFnZTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAMVgPaq9PsJM9X/W3gnY6SFI7iF0Ecru
+G9X5N0k7sZ6TPXqjc6LH0NNcT5shUqFTltbdJ/7uZNFdVX4WHclgI/8tBnwYQlBD
+XejRIG4GDWmBr1HSsDXMSLehTR0oXrPyfnKsjj8PwJC7JMx2grYtt0J5uHd8hXqm
+RL4bYOW/stZcvVx/+OswvB/o7kOwC2ROMMZfr/kgJ/F9Wr3w4RBsKQu+HAKEfxbd
+FCqgD/3/vsZJTHxjnaTp6+sL0caOWtdGuyTeSFs2y6lB9oHZ+XvtcWtVsYtWFTE7
+/ZZZwYeNCAEniwqjMDdWp92RCK3FukiVB8HdxU0ev9eccz4ol7xlyNkCAwEAAaOC
+AmIwggJeMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU+hyNaSG9K1XjKv6PITc7SVqv
+vbMwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEE
+STBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUH
+MAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wMgYDVR0RBCswKYInY2xldmVyLWJv
+dW1hbi4xNjUtMjItMTc3LTE2Ni5wbGVzay5wYWdlMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAlCC8Ho7VjWyI
+cx+CiyIsDdHaTV5sT5Q9YdtOL1hNosIAAAF6V6YtlwAABAMARzBFAiBrpC4mHcA7
+I1fas1DS8wEr+8khRqQhUtcqs2yp4wPf9wIhALlZeY1wrhHqlLKGqH4DAQcszBnK
+st3ndOXaSeZrXLZjAHYA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMA
+AAF6V6YtiAAABAMARzBFAiEAqHtMN7/BH7liVe5ntxzAZlCWGPIi69qdaclDUYe2
+Vt8CIFkEFQoXSrhgAWQzsmRhCefYK0Lpg2FHTElhtqcWA5CBMA0GCSqGSIb3DQEB
+CwUAA4IBAQAFCyHosCgwJpAZdXO3d1GNuvP6O6bdswHx7P6WaQNsc4aWF5dYhu3S
+hvTz4u1MxrCbIKkix6jMnpZe5Mj5y5uROK9fu+Pie7oWyTKBLQeGNKR1IRQ+/jEK
+5MNW9xMQQoZhI+9/MNHh07K771BQA9JOxDTXu8EXZQx8fPXejqjNSVU0fjSVqFDU
+yeIb+nAfIa1e4GxFURvp5QCbm9WH3LK1CiT3zLV5zMSIXV217BZ4s/bMgOQZ2h5n
+KkWPeBtdjBl8UdNyL/BRFpsP29rDkQ6LEFqSgpHPkLpzHBs5aj7MvVJ2Mot+eZKH
+X+tJzypK3fc08mq3n81S6Ob/UhATmoAv
+-----END CERTIFICATE-----
+subject=CN = clever-bouman.165-22-177-166.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4624 bytes and written 421 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,63 @@
+https://www.rkt-tun.su8o.co/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.rkt-tun.su8o.co
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLDCCBBSgAwIBAgISA7Su3RrwmGQ7TCXbiavmZV/RMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMDIxNTI2NDVaFw0yMjA0MDIxNTI2NDRaMB4xHDAaBgNVBAMT
+E3d3dy5ya3QtdHVuLnN1OG8uY28wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDbWELdbNsCMIwKoJNWkRbLl+ZTCj+AjBpeMJYGFyx7S2r0pftuTOHK32KF
+UsN124bAgEh24jvHuGoHHiadUyR0ZCfwH1+Mv80dUEglNArlpG7oFVOyqVbNXCBH
+ZImOtTsjkjEJxJM9OxPMZsXYFwnGbef6ZSM3nHqsUMAjOOVFiLV++x8ZQQ0UwZUh
+qx5iC5HrTS4Rtti5Hqv4/T0PqU9Vht2+2V2lPVQPHalXX7UNYVWoRz99WwivLnD5
+cOI50FfKIhUbnuS4aCTPQu6r7YzztrQPX5Ku7M2UAOHXPl+QM/sK/rGBJvA9um7L
+rJHNMa65pB7e7J82WtI0EefhQunTAgMBAAGjggJOMIICSjAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFIhgJoWQVTM5MtkQYbZ3bJ4iiPKaMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMB4GA1UdEQQXMBWCE3d3dy5ya3QtdHVuLnN1OG8uY28wTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBv
+U3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAX4bnV5GAAAEAwBHMEUC
+IQCng6vMKndsTXypLanbKvXs4Zrb0w0gupSmAVpVXsYidwIgYNnqDqcprC+QEihw
+x7saAFk08NbpZ4hgIbFaXubbpVcAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiF
+q/L8cP5tRwAAAX4bnV5HAAAEAwBHMEUCIQC7sISQjnIZhW92JGRTl88G6hO8wYNw
+L5Ju0yShMaYGWwIgTpWP5cwUmoYxYJsqIWzH0v+yRU1Fba6G+V7oQMt9BIEwDQYJ
+KoZIhvcNAQELBQADggEBALezRxYU/XVSoqfWGXHMeQUHSDJ9fY5pk2Dxg6Zpv7Bm
+12/G5YpGSjwOQZ4byHajWTstER8mj4sUgY5W1Ohr9lSg/IIlwlvq+q91CcLa0Dsw
+AT7sWr7/zC9G1CljXtPTQv2XfUyl6uOBos8/zmf0HL/s6azPsZJqOd8q8BWF2SNp
+d0p2JlmCgb5GZX/RPQBeEGi562A/WcybTKlvbh9caSxMwI4j5uEyY9uKgheHMEDI
+4Q60yee278paNxOPczPyHbfhGXEwrNjt8YuTqLLudQIsoaEKMJaaTZdS7rNbmvQp
+N+zhibD0eTUfStRNMM2VyjVSMv58XaA4rDoIeF4Hdxc=
+-----END CERTIFICATE-----
+subject=CN = www.rkt-tun.su8o.co
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3199 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

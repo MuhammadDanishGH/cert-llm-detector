@@ -1,0 +1,76 @@
+http://70desconto.com.br/54a4a1Dhbv_sas47PP/index.php?o-de-panelas-tramontina-antiaderente-preto-10-pecas-turim/p/222404400/ud/panl/?utm_source=googleutm_medium=plau&amp;id=1
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = 70desconto.com.br
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFbzCCBFegAwIBAgISA589HCis5tXRwN4T6N5ga29KMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MjUxMzMxNDJaFw0x
+OTEyMjQxMzMxNDJaMBwxGjAYBgNVBAMTETcwZGVzY29udG8uY29tLmJyMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyT/jkFiozgXtMA/ewKXL+67UUQ/k
+2W/qXR1/wHEA66L64bumYMuufkfw4m+Nj+ihe7xtTMH1Z8V5Vuo56unLor4S0cAu
+RUGQEt7/czj0noZ+AKTdixMwsCTC550gihH+GSCFuk7eyCjyTz2K+q08ajejZ/ou
+3p4XtOWesf+8nUJy4p2Gpx/4q3lilz7VMkiw2JZ/5+yL9mgTbAEf3HkzxY+GYVKT
+i+Bn21JYOMzMwuaFdGH/I3LwhSq/rODe/vNL9M6m0IQiTQam4CSex63sYcld59kb
+P17yQWbSYy1cwVV+lzhvdA6gFDXrkqidzCnlDTMSI1dZTiOk6R3ZiaGnwQIDAQAB
+o4ICezCCAncwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSKucUsNn9QiEWQ9DwAxL0I
+GUWWejAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMDEGA1UdEQQqMCiCEyouNzBkZXNjb250by5jb20uYnKCETcwZGVzY29u
+dG8uY29tLmJyMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgw
+JgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYB
+BAHWeQIEAgSB9QSB8gDwAHYAdH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7
+zFYAAAFtaNXFmQAABAMARzBFAiEAreSY/w44DHWDTIb6GUxdTfIfVI8KC6UQgl6n
+yXUMo7ICIGh5mdtMfLNU8+oGQ5d2X2pvVoc5IiBPDzgFaPQgEWEOAHYAY/Lbzeg7
+zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFtaNXDwgAABAMARzBFAiEA1AgW
+CZoioci81RQXMST8FmDrUGPcJwIXp7oZ4Aaz3cgCIBBDlwTc7pPOyEJfhBt8zKel
+qcQlpUKhRTmkHF0uqtK9MA0GCSqGSIb3DQEBCwUAA4IBAQBdS+7ZE5H2NnRbYW0v
+ebZkytkbpzjREdQzYmxjiSf1xunv1/NaZXQV8zQpFagU+k4jDK0rDCmiffmW6zqN
+IntCdkfD9dUzg26f1BftwAT1YoAgxyPc3tsie4pzkVHwJ0MqgUej5lkFf1qDFgT3
+hIh0ubH6guT/8HbKvjUToJxBxQfm5ta0THbj2VJmZ7Rul5vtRtgqCipeYCURgoAO
+I0vuVmc4sTNFaH2ItMFc5KTV4KnirgvNipnDyh94mokLBpoNaWgkGXVGBYrp5tvX
+NTa1JFF4AZ5BNRz53BFSIKU4AQ7YM3brfykRBvMBqQP6sEjB5CQF9Ht5APzT56hd
+0S8v
+-----END CERTIFICATE-----
+subject=CN = 70desconto.com.br
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3083 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 13DD0B63378ABEB2A61AFD5012B6872B259D2F2BEE40956E8CCBDD7E3236ECD8
+    Session-ID-ctx: 
+    Master-Key: B9B6F8BBB133C152F4B29A956B4905CA4A5BE94DE36C00BC2B130257169D71441C06B1E3196FB55540B40A11CDCAB80F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1570280427
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

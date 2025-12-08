@@ -1,0 +1,74 @@
+https://drmarciovaleriano.com.br/wp-content/languages/plugins/DE-de/meine/0q9QtbSeeBawLOkpr/meine.Anmelden.php?cgi_auth=VkEKR9hsClAsRxK1r6LeYgnyc8YfNOaUi0mKCMxdSR7FqJPjegxXMoz3hKtywyMnpAsvgWAtCdtfKANnesVupHNZQyMBlzUDWoRbGbZKfJTBIkG16ql
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = drmarciovaleriano.com.br
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG2zCCBcOgAwIBAgIRAImrrVjezhPmCGDNm2cbnngwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTEwMDEwMDAwMDBaFw0yMTEyMzAyMzU5
+NTlaMCMxITAfBgNVBAMTGGRybWFyY2lvdmFsZXJpYW5vLmNvbS5icjCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBANfdKafWS8lm1I5/j/a9WKPz0IyIBBnS
+o3hlfGoMukh3kGUf8+6yU1FrxL3Io7eIU1D5CwtX9eqCMf7uCvQwnA6sDxOQGH1L
+scFu7SZUXrmHavl3oeKAiRG+qJd/MeCnhGnsAkpqWAz4Clu/stWD+vxYsjhBQbli
+WvzaNNk+tdIWJwJCffEAJPRD1Cg2gTdyV9824WRs8XCs3y/ehTRMZ/n33tD2M8hE
+oiCChZr9dketVDTX/jO2w7DLp+DbS/ZPtK9zjvhEwb0SaJzB7L4gN+HaEX9537eA
+6NUQZ8+9UpZGsymr8kFEW95T/q3z72sysO9qpIhMnW6JHm5iI5X2OYECAwEAAaOC
+A7kwggO1MB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQW
+BBTvEQjGsDcHbhlnFvnER7Z+WRzMwjAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/
+BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0
+BgsrBgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29t
+L0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21v
+ZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYI
+KwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNv
+bS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcw
+AYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBBAYKKwYBBAHWeQIEAgSB9QSB
+8gDwAHcAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF8OUj99wAA
+BAMASDBGAiEA97aORVDC8NE57YeI0X44SNqqTMcT6t3dxt60FgtgtCUCIQDeeaWG
+2IU3aKqgjZ9+ReB+8iz6+tWDhpgdhIb51U4cFwB1AESUZS6w7s6vxEAH2Kj+KMDa
+5oK+2MsxtT/TM5a1toGoAAABfDlI/bEAAAQDAEYwRAIgBIbnikwXlFskJuUOODzi
+Hz/m1S3B6xYiO0XEMJbsI7ICIFokUHQRmoXKV4QG0OjElYqLlot+fs+FeDVYGclE
+G2jkMIIBFAYDVR0RBIIBCzCCAQeCGGRybWFyY2lvdmFsZXJpYW5vLmNvbS5icoIf
+Y3BhbmVsLmRybWFyY2lvdmFsZXJpYW5vLmNvbS5icoIkY3BjYWxlbmRhcnMuZHJt
+YXJjaW92YWxlcmlhbm8uY29tLmJygiNjcGNvbnRhY3RzLmRybWFyY2lvdmFsZXJp
+YW5vLmNvbS5icoIdbWFpbC5kcm1hcmNpb3ZhbGVyaWFuby5jb20uYnKCIHdlYmRp
+c2suZHJtYXJjaW92YWxlcmlhbm8uY29tLmJygiB3ZWJtYWlsLmRybWFyY2lvdmFs
+ZXJpYW5vLmNvbS5icoIcd3d3LmRybWFyY2lvdmFsZXJpYW5vLmNvbS5icjANBgkq
+hkiG9w0BAQsFAAOCAQEATgSC09s3FgjS7zV1Paq70/T10mEM6Zf53xxleJZ+5DUk
+Z/zM6QubAjR5cBX5+WsINqaTvzZXN28EqOwB1MgRC1Gbic7XT+94oYDtq8+phJTl
+vs7p5uFuJZBanf/K4ENdtUIhH7NLwmeW5oTgegfF/h569gNZRGQ54963U4qGTafx
+dM2Tnm5MLm7JA0iNx6o9D5Xc7Fn8KobSAEHgEYJGQQH/trwpAllNSveoHoIx/xri
+w8rpvZ9k31sFrBERgfz73QvAua+738amByy2nqrry8Ty0cbFxWBqDs2I5VunQr3p
+1ntj6RHTOYuyN+60harqn87cno9wPGW/I2wLACWwNQ==
+-----END CERTIFICATE-----
+subject=CN = drmarciovaleriano.com.br
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5194 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

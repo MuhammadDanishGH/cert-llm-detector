@@ -1,0 +1,70 @@
+https://hermes.tracking-item-unpaid-fee.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = hermes.tracking-item-unpaid-fee.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGKDCCBRCgAwIBAgIRAKD+uNnPaAJsQb3WPxPnQpQwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA5MDIwMDAwMDBaFw0yMTEyMDEyMzU5
+NTlaMC4xLDAqBgNVBAMTI2hlcm1lcy50cmFja2luZy1pdGVtLXVucGFpZC1mZWUu
+Y29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu6E3YSa7xovpvXsw
+zj4a5oVf4meTj+w2sICGTB5+3sbEzCk+BrPErGEljiJmCwaAV7Vl8GFEyM0NoTpK
+SKODbyalR5k17Y4gCYGHph9pqtDvi8TclFuRs5xA9/wlfC5nf+kt0SB9Q7Y/VrYW
+DGqh5g4tOkcM0QXjtkbooyMvtZaCYiG93LHdKEK7g4TyHbfk7JZO1QajQbwKyQCU
+p1SzsQqa+Qj0z5/+36PDUYceDNgCyeCqQD7uqGFOS1Wy4fs2sZaFZONzgMHyHqZ4
+uX0zVnFMpc+LFK8tK/HE3g+MPTUmDX7u0jV/319mhzMPpZWfEQOTrhXb3q+BYNJs
+acw/LQIDAQABo4IC+zCCAvcwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1q
+x2UwHQYDVR0OBBYEFJlue6v4pvM4UVmX2Sgi5CeTF2JjMA4GA1UdDwEB/wQEAwIF
+oDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJ
+BgNVHSAEQjBAMDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8v
+c2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRw
+Oi8vY3JsLmNvbW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9y
+aXR5LmNybDB9BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQu
+Y29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0
+MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEFBgorBgEE
+AdZ5AgQCBIH2BIHzAPEAdwB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw
+1wAAAXum4VpNAAAEAwBIMEYCIQDK3Pqa8g4c2dBNWbr4FyGTxy/YCFhQutVF7bLj
+BF7vfAIhAPSkQRKdWKmQjyFTrFRwA4NBr5fJKhcAjhFW58/+n6btAHYARJRlLrDu
+zq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAF7puFaVwAABAMARzBFAiEAh9nQ
+rynLsbCsNz0t7fVo8gJ5G7Qyzq+zsE+VZ+IHK1kCICBJQ3Go8bNbW1xf9mhrrmjd
+cBs+MUb9nG+127G2aWWBMFcGA1UdEQRQME6CI2hlcm1lcy50cmFja2luZy1pdGVt
+LXVucGFpZC1mZWUuY29tgid3d3cuaGVybWVzLnRyYWNraW5nLWl0ZW0tdW5wYWlk
+LWZlZS5jb20wDQYJKoZIhvcNAQELBQADggEBAIUmf0BTWYd+ow01QnS7iLnNTnPm
+P3S1eI8OlO6MOFtCMoqXhw0m+Dv3K1K0mSem5JcZttL11t3+TW6Ov0L4WMwNwNZp
+s/aGskNuAoRRVtxIUhxG5vZTAytoKAho8klIBUfGgpjSVCrdYtLE3vvP/QNjbu4w
+BktJMefc8gcv2uY0tPAdKn+TRw5mBbRj/LnUdAcb06c6Z1yy18xkFJyIixNy3w48
+FW+sblfXcogox0NkzEDyx2KcjPYWOIUmyqUPq6+Q7oavt+hAp7rCNZYbV+RNHMVE
+SVludy27/IUUh96jpJYvP7VhVS7kcGuUTfzgkbHr8ic1xZK4fRu+roMbvf8=
+-----END CERTIFICATE-----
+subject=CN = hermes.tracking-item-unpaid-fee.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5015 bytes and written 417 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

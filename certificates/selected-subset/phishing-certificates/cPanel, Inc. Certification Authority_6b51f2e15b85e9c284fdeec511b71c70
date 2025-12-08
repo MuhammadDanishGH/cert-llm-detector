@@ -1,0 +1,69 @@
+https://i-safe.app
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = i-safe.app
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF9DCCBNygAwIBAgIQa1Hy4VuF6cKE/e7FEbcccDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTE5MDgyODAwMDAwMFoXDTE5MTEyNjIzNTk1
+OVowFTETMBEGA1UEAxMKaS1zYWZlLmFwcDCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBALJXyDBhqKG/yCr3JLB3HE/c9M+dQX5Dy4WpqyPMSilyt2GzWxx9
+P4u7Bwh/D64DD3b0tXdOWeUkpvBqZTI+YFOBPQSyu4k5IA7ZmHJXtn/ARS34d5ah
+FlqwcDCiXZTXaWYvc49kMsUukqCdLodMrNwYC5/jEaiGVFD7lf5F3g1/vsT/mfxI
+GSt89kMBTOjHlZWX/+HJCFSAxiTomaCyGvFNI1rCBWlDNffD/00/RsnbqXhvLsG1
+aZCiQWSos+wJ8rImW2A/EzHmdGUqyIvyxMIjO/GEGa5EL5L8Zq5toG5xa8NFKpIp
+8WKOlGTd53oCC1ufVPTrOgVRZxdwYMw2vL0CAwEAAaOCAuEwggLdMB8GA1UdIwQY
+MBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBQdqyDv/qTSRtRaBgwT
+Ee8iIiYhXDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwTwYDVR0gBEgwRjA6BgsrBgEEAbIxAQICNDAr
+MCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8uY29tL0NQUzAIBgZn
+gQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEE
+cTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJ
+bmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDov
+L29jc3AuY29tb2RvY2EuY29tMDYGA1UdEQQvMC2CCmktc2FmZS5hcHCCD21haWwu
+aS1zYWZlLmFwcIIOd3d3Lmktc2FmZS5hcHAwggEGBgorBgEEAdZ5AgQCBIH3BIH0
+APIAdwBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4scdoVEvYjQAAAWzZjCBuAAAE
+AwBIMEYCIQDrv4b5jvw+IJIiEPgx2N2okrwOH8jYc93kUqi1ggNRdQIhAJ420f27
+Wq91iYprZQzbXP9EVl5QLITdGp4S+L1nExVbAHcAdH7agzGtMxCRIZzOJU9CcMK/
+/V5CIAjGNzV55hB7zFYAAAFs2Ywg1AAABAMASDBGAiEApsjvmPecbzoWn8JShcoW
+9ohEs4vZNv5AZH1iQ7n5QZECIQD6KFVcKgHGRHh7lNwkOD8e9kGOSjbD3URKlvAk
+JDF36TANBgkqhkiG9w0BAQsFAAOCAQEAFxZMEg53amCillB2KBTmQ4PjP6QDkw7d
+trcysKVTOUusmzcLRFCTH+4D7KL3VQbC21/gzVdXrcs4y+qClI/+O94z+a5+AeUx
+cL2V7TaXr0ApScIuPYA54VXlowvYlPZVFL+feROeGQxayJ1q55VbQQYiTi/FpSSX
+9bvE+E4z6kYU7hpFYXf4Huh9SemqgPLPjFlq3vUndSepIgGjw5JaIWyxTh+fXPQC
+RXeAYXueGe9VxnF8HjYpW7h0NB/sXVnv6IBSDV+xtfI5aU0q7g6pY/b3MRLiREaL
+9w88UYhKY7cbu+nwGSqr3AZ9w8OG78zft+VqR/duzDJctFJse6Xx5w==
+-----END CERTIFICATE-----
+subject=CN = i-safe.app
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4953 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

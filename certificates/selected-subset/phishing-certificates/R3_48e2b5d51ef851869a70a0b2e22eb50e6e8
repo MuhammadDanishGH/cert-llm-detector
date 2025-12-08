@@ -1,0 +1,65 @@
+https://amazom.wdswan.xyz/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amazom.wdswan.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKTCCBBGgAwIBAgISBI4rXVHvhRhppwoLLiLrUOboMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTcxMTI1MzRaFw0yMjA1MTgxMTI1MzNaMBwxGjAYBgNVBAMT
+EWFtYXpvbS53ZHN3YW4ueHl6MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEA3l5+lPQ2+48B8Gr/Fui8OPkyf73IByQJa7yhoJE5qwcEWSs4Dce0BGcPC6/G
+b2DkOQQGnmXNplqT210jEQ+fcGmeQ3ILJqrrMTgNP94s47bgll2tCutON7RdViW6
+0Z9URewUaXiQdO8LYt6D8VRbb9M/y8RDwoiSssRtsHEDsvGrFibpiY3JAErRF2fM
+ke+xr9N6vKBYq6YhpZXHa5hhPOyzqzbWPSDlmefqRHiGmr3uKgKuTOcHJHCSUNKC
+AMw1EcAhKGxZQX9y/eRJ4IdUAtfk8b8n0k1cUtFeaQhH6ZFX4ECmkjz4qsMIh0Fw
+spbcYf8NQ4mYIu320bNvh6SNlQIDAQABo4ICTTCCAkkwDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBQwNZW5tukEFzJD2k7of/g4epWCQzAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzAcBgNVHREEFTATghFhbWF6b20ud2Rzd2FuLnh5ejBMBgNVHSAERTBDMAgG
+BmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3Bz
+LmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2AEHIyrHf
+IkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfwelGEkAAAQDAEcwRQIgBAlt
+fjqlcKoINIVc89VQX50Q23zF8ix/eBzeiefei/YCIQC02kJjw4SZABMtB+q/vUPa
+COFb4m99R+hzYzlCeLB/WgB3ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwl
+XceEAAABfwelGDUAAAQDAEgwRgIhANBt+BUjfPxtejgRgCuCapeseIM59WR2Cl3m
+zJamF4EnAiEA1ztYp5ngg80PZq3JtPQfb/zxs8DEvlBQYvEwEikFgacwDQYJKoZI
+hvcNAQELBQADggEBADsAeORsY+rXmmH8Ihj4exllbM5v+3L8JypqsR0qAsPWQQjv
+EqX6NKoXPakP/dynGpkPU2111m15sc36O7xrNA23yvDH/ssnMOG0q2i1MHX1/Yvu
+OuTs3on8a8UpAQ3f/2nDBuJazBKCg/2zi+u0sySV7ILwyb3I8PmKg4hKOp/WB+CJ
+TpG7zR9g0cexXou1A6wzMUWQ6Fswdb6KKIVL2CJ7xj0IvMchFvUC9dpLemBabjsM
+9mzHXirCj/CwildFgby5eYfT3WrZ0kOs48zZoLZA9ZDAtnNkDgn/k5eaSiNcf4nO
+HrFJQFouXZYyjXceZFUnbrCidSC5QX2I1u8fjmA=
+-----END CERTIFICATE-----
+subject=CN = amazom.wdswan.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4581 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

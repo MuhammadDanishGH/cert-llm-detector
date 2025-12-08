@@ -1,0 +1,74 @@
+https://arosarealestate.com/memlllgs/login.html?cmd=_login-submit&dispatch=93f595459dc08a1f72873490bf7a97526f55b1bf2103ef2c91d08f57b56b3472e53a27d3
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = arosarealestate.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGqTCCBZGgAwIBAgIQVwc9FWAcMW/KetxW1Nf6ODANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIyMDExNDAwMDAwMFoXDTIyMDQxNDIzNTk1
+OVowHjEcMBoGA1UEAxMTYXJvc2FyZWFsZXN0YXRlLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAL1umWw2q/B4zgCii539fifu/s7osTOmYDlw4h4Y
+QwKbUwYCZ9DOhxspbI+pENLJvfc/HIHw20Nqla0XWcA+xpJpNshycj59Ehs55iEr
+rKTkcYJ73bgslKzz/RCuHP/yrQYg3MKXVf/3d2kM1OdHSVOY5RahzwbRmkinOquj
+TjhWBqDmLdMT3D7UVmtVXGWg3et8mNLfROHuxNwBffw6Tqv53phXniZihgMXVeI8
+Ll1VBd1+DRG5o6sIl57EHxP0ioP4N29+RNK8TTOpkS/Vwuk4Pw/Zt2oMECyhr+KK
+5OZnCQvwI100e5XoguKooNLZMh90RVHSO9TjYqjcyP0A210CAwEAAaOCA40wggOJ
+MB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBQAY9ib
+Fggkgq25xL5T9fL1BblE6DAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEE
+AbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAI
+BgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5j
+b20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUH
+AQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFu
+ZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0
+cDovL29jc3AuY29tb2RvY2EuY29tMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUA
+RqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF+VfsxAQAABAMARjBE
+AiBmxUmAWedxNcmHZwkBaVV4csXYf0hSouNbU8eWW71h+AIgNZNPdseKOu+x4iu4
+0mo5L1wLPNjhdCyvTgz/+I9TRpUAdgBByMqx3yJGShDGoToJQodeTjGLGwPr60vH
+aPCQYpYG9gAAAX5V+zfbAAAEAwBHMEUCIQCrPlQ5kg7Kaeys8OuyNp1UlGe9T0x7
+YbYB+rNGHm/mXQIgJ6aiVQm4Y/4RVNjrD00EsJlZhPFTJ6pb9uUbjdwwpJIwgeoG
+A1UdEQSB4jCB34ITYXJvc2FyZWFsZXN0YXRlLmNvbYIaY3BhbmVsLmFyb3NhcmVh
+bGVzdGF0ZS5jb22CH2NwY2FsZW5kYXJzLmFyb3NhcmVhbGVzdGF0ZS5jb22CHmNw
+Y29udGFjdHMuYXJvc2FyZWFsZXN0YXRlLmNvbYIYbWFpbC5hcm9zYXJlYWxlc3Rh
+dGUuY29tght3ZWJkaXNrLmFyb3NhcmVhbGVzdGF0ZS5jb22CG3dlYm1haWwuYXJv
+c2FyZWFsZXN0YXRlLmNvbYIXd3d3LmFyb3NhcmVhbGVzdGF0ZS5jb20wDQYJKoZI
+hvcNAQELBQADggEBAE/iUnfkHm5GZ0/ArWvr5OhDaswFAY2XzyoBEexhRPjoDwQL
+R40fD7qgv0EuTGlukeAmtXuauKddyxAqkCuNdG1GdO2VavLJGJ5mstjk1Pn1Toqz
+1cGo45NtTYN804jo+GtNDjbX8chDeQmkURvt4z4Mrzv3a+scFYf4xrY2frdryKq6
+VDqAEYqZVKV1HfLxawi5OZO/sS4ozW6moSR2li3es31GffHvZFTw0ZuAY2zZjRtx
+0FZmR2kIyz2aOs01xR222ep8MP8us27dDBcMeDt5Zb+D+rlnspmypU0gwmIjmfrs
+kj3jmd+V8LT5Rtfy1fKK4IhpuTzNO0yTw7TEDds=
+-----END CERTIFICATE-----
+subject=CN = arosarealestate.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5214 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+

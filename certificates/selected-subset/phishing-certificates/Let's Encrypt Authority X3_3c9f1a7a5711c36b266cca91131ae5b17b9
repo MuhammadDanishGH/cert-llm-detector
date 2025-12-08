@@ -1,0 +1,95 @@
+http://americanmodeldevelopment.com/.well-known/acme-challenge/ib/update.html?response_type=code&amp;client_id=tb5SFf3cRxEyspDN
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = americanmodeldevelopment.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGDjCCBPagAwIBAgISA8nxp6VxHDayZsypETGuWxe5MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MTIwMjIzMDZaFw0x
+OTA4MTAwMjIzMDZaMCcxJTAjBgNVBAMTHGFtZXJpY2FubW9kZWxkZXZlbG9wbWVu
+dC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQClvoUlZjRpYzXw
+z4AciSuqJtiIV1M4LUaAnGOjc8wAGQFPhuqpdKUT489Udnx+ujBteUCzv/sR+TZL
+PS6DYjpwoigu/4FISoRJlKvNWLeFWa51KdbKslo7G8N1n79RTLt1kQTXFBuiNYUD
+p1fL6Hb6n9qyJS7EuLzQkUmmO+Bg1S7Jiw8gGO8wE/PJMwSk3k9UmDFwTf2IhQfu
+h8ulqxlr1th0PgS7bQWFr4biTrVjnaEDGXkTMJcqIEUM9gyy0elA61I/Q9ypS9/S
+LgjhskUwEvf/o5OJUpTVco6TTQiPrcEIbgnXb7kjn9XcUdSuveMvX5RvEnnxDbha
+OFWEyrOVAgMBAAGjggMPMIIDCzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFFph6hVw
+mvYpDYzQR4QF2xxhJHEeMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyh
+MG8GCCsGAQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgz
+LmxldHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgz
+LmxldHNlbmNyeXB0Lm9yZy8wgcQGA1UdEQSBvDCBuYInYW1lcmljYW5tb2RlbGRl
+dmVsb3BtZW50LjI5MWFydGlzdHMuY29tghxhbWVyaWNhbm1vZGVsZGV2ZWxvcG1l
+bnQuY29tgiFtYWlsLmFtZXJpY2FubW9kZWxkZXZlbG9wbWVudC5jb22CK3d3dy5h
+bWVyaWNhbm1vZGVsZGV2ZWxvcG1lbnQuMjkxYXJ0aXN0cy5jb22CIHd3dy5hbWVy
+aWNhbm1vZGVsZGV2ZWxvcG1lbnQuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcG
+CysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5
+cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA4mlLribo6UAJ6IYbtjuD
+1D7n/nSI+6SPKJMBnd3x2/4AAAFqqhDFNAAABAMARzBFAiEAr708f/lVyFtj88JB
+Xi1s2xS4Pc6tqVEciWkdwe+qZjwCIGZSg6Gy41BMzq5Jo452Jr+Mv+S5UCnIqToW
+h5twi//YAHYAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFqqhDF
+VgAABAMARzBFAiEAphkW6TkiGc+eX0Bowcr3vVhD3FYbf4nIOLKWJglUCLQCIFPO
+pLkCEjxNSJZquIGhtBOoXimJGkgWhbAUL1pPoKp6MA0GCSqGSIb3DQEBCwUAA4IB
+AQCWFsV/g0oyufFoDyapB8vzotxrvHGK5tih3NmDuEGdGirewr1kIJ93DBW18odY
+/VFVLvHYmeO1aPfN7ApMh0bonQAizlumU7R+7R8G0SxGp+i+YXBrhwf/o+XIJVz3
+9r8XirKIfF0RjdFSLi1T7UWaE/0s0ApRbXQaXb8+UpK9c7GMUkn6h0s2ae39F6Fc
+ve3MC/IiXQAdISyov/mExMkpdPnRFDEeUtbWnAGUpe//vMosrX1me8260XShCVts
+dAo8RLRm+Ry2yeXj/fZI8z4IH5Nl9vffZ+YsbUCNafAinO0k0Q5EQ6qvfM45+/Xu
+eon8HMxRudQoQewrKi8XLZkK
+-----END CERTIFICATE-----
+subject=CN = americanmodeldevelopment.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3408 bytes and written 433 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 3F0402CFAE1CF8E31E0EA11B85D4AD8E2FEB0014D82ACB497C23D85BB9EEC2A7
+    Session-ID-ctx: 
+    Master-Key: 88A37BB36CEBB0018D3FAB9DE2B946DEE6DDDF1F69C043E3EE46DB754B276404D8A1FBE2CBA89BC2F2E76C30F242B579
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - b0 87 84 f3 99 9a 5a 6a-2c 06 ab 51 71 80 06 d5   ......Zj,..Qq...
+    0010 - 62 92 d3 27 d4 13 88 56-f6 3a d2 af d1 ac 0a a1   b..'...V.:......
+    0020 - 83 b1 99 8a 1f 1a 01 77-94 a6 5c 64 9f fc ee fe   .......w..\d....
+    0030 - f5 97 de 21 d1 5e fb 79-d3 1c ac bc 44 f3 eb 89   ...!.^.y....D...
+    0040 - d0 e4 a5 46 6c 30 c2 09-da 6f e8 37 0f e0 31 f3   ...Fl0...o.7..1.
+    0050 - a2 da 50 d6 d8 c7 47 f5-a8 ee 76 b9 0d dd 7c f1   ..P...G...v...|.
+    0060 - 1a 3b 29 6c ea de b9 e5-19 11 51 0b b2 33 10 96   .;)l......Q..3..
+    0070 - cf 95 e5 2a c9 2f bd 5b-ea 11 06 45 85 f1 01 08   ...*./.[...E....
+    0080 - 96 c3 e5 0c c2 af cd 8c-87 11 d7 1d f4 11 d1 23   ...............#
+    0090 - ab 03 d7 08 22 f8 57 e5-1c 8b db 7e 6b 70 b5 7d   ....".W....~kp.}
+    00a0 - 42 9e 94 b8 a6 38 13 4c-d0 d8 83 98 78 1c d3 ef   B....8.L....x...
+    00b0 - a4 cc 17 44 dc 1d 95 b4-b8 f5 1d ca 8c 5f 9f b1   ...D........._..
+    00c0 - 11 e2 7b 52 11 49 75 99-b6 45 3a ed e2 f6 9a e8   ..{R.Iu..E:.....
+
+    Start Time: 1558702831
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

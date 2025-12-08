@@ -1,0 +1,68 @@
+https://kiwifizz.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mail.kiwifizz.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFwDCCBKigAwIBAgISA3C5hwsw1fxfEA4Sia2NWqdeMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMzAxODM0NThaFw0yMjAyMjgxODM0NTdaMBwxGjAYBgNVBAMT
+EW1haWwua2l3aWZpenouY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAyOm3jMjlSpvBDm13hCKK6Y/4H8BDP7yDpCttedZaZ8kkD2eoGuAVVu5V2yP0
+35+sCeNWIpIwbJ5ArQBMfIba3J0z+aMMclJ1V4bIPscnGutvgj920xXwA5kGVrqd
+8BOJV6ETJhGiJRGddvTbSdAV0s/sR35oklKSO3upTvpzlIq4n/foFhxUgNT6jisc
+gqfoLviqHQK4gerAjAY47XpVqjOaA+ix/18LYbJQYXOTnEIOLcYkqr8joJQpulIY
+yozT20QYPwULV776IPCs+4gs3nlVTK1diXNwLo5gTkMxLAb8bvmlvf8RSEhlLxK/
+6Jd5NBWdfnI1cfk4vbP2TyemRQIDAQABo4IC5DCCAuAwDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBQJURsFpChaBrT8dx5Y88IqloEygTAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzCBsgYDVR0RBIGqMIGnghNjcGFuZWwua2l3aWZpenouY29tghhjcGNhbGVu
+ZGFycy5raXdpZml6ei5jb22CF2NwY29udGFjdHMua2l3aWZpenouY29tggxraXdp
+Zml6ei5jb22CEW1haWwua2l3aWZpenouY29tghR3ZWJkaXNrLmtpd2lmaXp6LmNv
+bYIUd2VibWFpbC5raXdpZml6ei5jb22CEHd3dy5raXdpZml6ei5jb20wTAYDVR0g
+BEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0
+cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEA
+dgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX1yV9Y7AAAEAwBH
+MEUCIQCzFMxiCZec1X5IE/yeZwPupTR+VrUFJs3XvFkbcgLkAwIgbWV6WDn+0JXB
+qFnJ1qSLdKnvodYRoZqzCnDrn5pAKakAdwBByMqx3yJGShDGoToJQodeTjGLGwPr
+60vHaPCQYpYG9gAAAX1yV9htAAAEAwBIMEYCIQClZViJw4+p/idlORQemLSoP+Vb
+duc/Sr1T3wesdTGRJgIhAIE20+VS/2j8vGJb8XuPCnwpmwKOTSxORMeEoz6nCW4b
+MA0GCSqGSIb3DQEBCwUAA4IBAQCmo12S/nWmmyUwHeT1+35sWN8QN9/0t+SSM4UK
+k0eHbyfcLNIH7fiS6gIEJoK1wCR6xvw8xGLvJRfmncX0vAWWrnnnBo+N5fD4Mc/s
+oeJp8h8YWTjY13HQl+cIbxNWb9NxLOv4ZTVDjuLAQmH70tYPaZZTnpPpamxxacIT
+2+vO+AwExpB22MoWYljeyDClWDenIR27CyACELEuP4U6SaYaszbxQiCjRr1eZyAP
+dfiPK2Gy5oA1dqMSDxkmR4WpSe6je4s1HgDh6vO/cAa1p+OUB8ZyQZ7QG2sqfgMy
+yvncfEu0XiJoDLrKMYv/LbB1fjKxYU8cA/rARHMF1AyJiW+v
+-----END CERTIFICATE-----
+subject=CN = mail.kiwifizz.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4732 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

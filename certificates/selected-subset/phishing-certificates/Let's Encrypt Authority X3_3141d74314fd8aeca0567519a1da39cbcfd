@@ -1,0 +1,98 @@
+https://www.outrageous1364taigahamlet.com/bunkmate/emeritus/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.blomquistiberia.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGdzCCBV+gAwIBAgISAxQddDFP2K7KBWdRmh2jnLz9MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MjMwNDM5NTFaFw0x
+OTExMjEwNDM5NTFaMCIxIDAeBgNVBAMTF3d3dy5ibG9tcXVpc3RpYmVyaWEuY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8VCxAFTQWKQ0NgJDy5ct
+fBzwHqDeGp0XdkiKtWSvs1bTZeQM0UzuXlIlUgq2+cpOB7uILapJV59yV7T6Pbws
+7J/mIpuQJhhG5rqSj2h+TgQfNjLjsLzNTYN2ddt0EBeBO2G2dZhOOjNz60fNfw91
+EsPYpEEcX3Wk0UXEz6rvyeEF8YaU0EI9p9SmLz6wlqW0D0zMReFtXZJrDUd/ZCDA
+4EBjvX797BbZQ8e6gnAhY7Q8xK9cmcyS7GAqNOyC9wrBbK4otrLOolwmXTTRftfH
+/bH2mhk55SJ0mnpg4O9kwpWHO9y/iKN+lUzEaLxUaQpJjm+Rcg7YFAiNgq5vxoQB
+mQIDAQABo4IDfTCCA3kwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQ0cG3cItxyLYIt
+cIdAxXfJR5LmajAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggr
+BgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRz
+ZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRz
+ZW5jcnlwdC5vcmcvMIIBMAYDVR0RBIIBJzCCASOCEWVsbGlvdHJpY2UyMDcuY29t
+ghRob21lc3B1bmNvcm9uYXRlLmNvbYISanVyYXNzaWNidXRhbmUuY29tghNsaXZl
+c3RvY2tjcmltZWEuY29tghJzZW1pdGljLXdpbnRyeS5jb22CF3d3dy5ibG9tcXVp
+c3RpYmVyaWEuY29tgh53d3cuY2FzdHJvLXJvamFzY29uY2lsaWF0ZS5jb22CIHd3
+dy5nb256YWxlei1kb3VnbGFzZ2x1dGFtaWMuY29tgiF3d3cub3V0cmFnZW91czEz
+NjR0YWlnYWhhbWxldC5jb22CGXd3dy5wdGFib29uZWNoZXJ5bDg2Mi5jb22CInd3
+dy5zZXJhZ2xpb3N5bmVyZ2lzbWFudGlxdWFyeS5jb20wTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgBvU3asMfAx
+GdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAWy8/PnkAAAEAwBHMEUCIH7ABZFm
+ajeNsavcIzL8+W8gZv8a+/5Oxno0bj5vqHHMAiEAk0KBCz1tZYDEKjWP2WEbLVSf
+OdD5wfpTNEZuR458JxwAdwApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0
+eAAAAWy8/PvVAAAEAwBIMEYCIQDnveSZzgPFBqtDsPDoChYfioaCrKM7+0LAsa+/
+eL2KZwIhAK85OunhryUn15dnBmh6eLZbxbYJzr76QselC+4FMOMJMA0GCSqGSIb3
+DQEBCwUAA4IBAQAHM8g+Peb26r7HEybPEc42TlJBD1DE0voWIyu7kSomomGi2tIG
+MVKNDGGzoU5nkzwe+Dkird27eBL8TuKy7at9cxk2CfndI/w8/hKZgMObOHmOi1HP
+xSGIjp+SWA7oYbaPH+D1Ly05goDLqBdOYsDdoIBi5nwsQbV8B1gSci5UyYapFFmC
+8WgcAuhnAhJsgpYvXiZFikTw2rmhd1XoG3+sJsa6+pQGdsZE/UdTA7l4HDrCmjm7
+pfvfpjWYIKhrBWijjaJjAjffUU08Iw4tbf8vRBmsZW3vmXGWJ+NVPWr1Go0M50Nw
+QVhsq2Bpms5mrdjMV9IDWsUy1dsNkBzk1ooc
+-----END CERTIFICATE-----
+subject=CN = www.blomquistiberia.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3521 bytes and written 430 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 782009601BB92E49A4E5C1A09D312151974D041EFB9EB9ED57F0971F5319E120
+    Session-ID-ctx: 
+    Master-Key: 11879EC0BC032C0AF5965E9786587C56F8172BB4D3DEAC62C3A021244B9C237F5B2986E272BB2A5A3DACFAF6872921BE
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - cf 64 6e 7d 02 5c 9d 6f-02 ab 18 2c cf ac 1c 37   .dn}.\.o...,...7
+    0010 - c8 f6 4a 2d 58 11 4c 13-1e 93 c6 26 87 fc 09 35   ..J-X.L....&...5
+    0020 - 4a 97 08 22 d3 65 1c 1d-cf d9 9b e6 4c f6 0d 48   J..".e......L..H
+    0030 - 60 72 84 b7 39 fc d0 6b-83 fd 6b aa 7d b2 4b a0   `r..9..k..k.}.K.
+    0040 - a8 98 f3 42 bc e3 a9 85-ed 5d 1a a5 71 bc 69 5a   ...B.....]..q.iZ
+    0050 - f5 9c 93 01 31 90 8a 21-bd 29 dc 38 60 bd cf 45   ....1..!.).8`..E
+    0060 - 68 d3 c5 84 da 55 39 b7-cb 75 aa 08 ad 05 ba cb   h....U9..u......
+    0070 - a9 22 08 76 df 44 37 59-75 c0 e5 7c 8e d3 66 da   .".v.D7Yu..|..f.
+    0080 - b6 c3 b2 83 cb 9a 7a 92-42 1c 07 7a ba 1a 55 81   ......z.B..z..U.
+    0090 - cd 5c b2 fb ce e4 b0 46-ef f0 a2 9e 94 b1 b0 2a   .\.....F.......*
+    00a0 - b0 b7 d8 b1 0d a6 8a 89-12 b1 50 93 5c 37 97 e3   ..........P.\7..
+    00b0 - 52 da eb 63 25 bf 7a ba-12 1b 30 a0 22 8e d1 16   R..c%.z...0."...
+    00c0 - fa 7a 84 81 0d df 3e fc-72 93 9f f4 71 32 42 06   .z....>.r...q2B.
+    00d0 - ea f4 d2 2f 93 49 05 17-4f d4 93 10 12 62 22 6c   .../.I..O....b"l
+
+    Start Time: 1568984432
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

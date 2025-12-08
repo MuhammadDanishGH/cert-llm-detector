@@ -1,0 +1,94 @@
+https://wtdusaonline.com/1https/34.237.113.1137102/sucursalpersonas.transaccionesbancolombia.com/mua/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = wtdusaonline.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF9DCCBNygAwIBAgISA/Lp+GIWQyn4VovCrqg/ZDIgMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMjYxMTI5MTBaFw0y
+MDAxMjQxMTI5MTBaMBsxGTAXBgNVBAMTEHd0ZHVzYW9ubGluZS5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDGu33Vtu5Rv8rP0sWKkpk3uGTR5gRm
+De0qwkkxMUTKWL3Vk1Y7R3rO0fZ0Jlm4x7fpKZc8fVGZaqSJgV9tVJybgJUfZUMu
+zzjuy1Fg99lvFZs2dmkg8x4Cbumu3zV6Lv3lhWV+zl5lviy9x1ZeOZfo2QaNrwmW
+YZfZYfTljFF0en0tjOwHYH1Y1rjkFP9DJOoLrfYjxV7YbhGbNJHwuVlVghOekmpG
+HyDeQTYxRrYv1Prj3tWHDn03lJhW1U4TKmpBASdkvFJokyOrwdwa+7B4inuVMVJ5
+U383CnIExlqlzs+uAu2riZECkhl1eSfXB5YiZte8LjFxN185PW+slKjbAgMBAAGj
+ggMBMIIC/TAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFIx36ugbk8dktR0KxIivcai8
+5FEaMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEB
+BGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZy8wgbYGA1UdEQSBrjCBq4IdYXV0b2Rpc2NvdmVyLnd0ZHVzYW9ubGluZS5j
+b22CF2NwYW5lbC53dGR1c2FvbmxpbmUuY29tghVtYWlsLnd0ZHVzYW9ubGluZS5j
+b22CGHdlYmRpc2sud3RkdXNhb25saW5lLmNvbYIYd2VibWFpbC53dGR1c2Fvbmxp
+bmUuY29tghB3dGR1c2FvbmxpbmUuY29tghR3d3cud3RkdXNhb25saW5lLmNvbTBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB2APCVpFnyANGCQBAtL5OIjq1L/h1H45nh0DSmsKiqjrJzAAABbggKtpcA
+AAQDAEcwRQIgUOFNSbMkL3KBbDoIkrZbM0OXmtXzW0e2ogxen0bnrUgCIQCtrd9U
+zLKp7iGIu6gOEJ9kw7GpFaJWQO5lBCAwBn5WvwB2AAe3XBvlfWj/8bDGHSMVx7rm
+V3xXlLdq7rxhOhpp06IcAAABbggKtsEAAAQDAEcwRQIhAOQ4YXq/trbwY2ULZHy9
+7bzNiQRcRDoNwflnJunZc7b6AiBCYYQa3QSPvakWkavgp7u3xzbo+NB89NE8h3bN
+Ats0zTANBgkqhkiG9w0BAQsFAAOCAQEAHaW3BrN/KXO/C/2oxo/kfVzfQzyzj+cQ
+FE0DkOTI1FHtHeKGVEWuxM6+0Ypndzu6e78og+9qxgyduIRyVsG/EMUdnT/ojRDf
+xwg9bLLX+0lbjRd8SJzonAZGhOGxIz4UAkhBG9EFWNRUhYq0oUIG4ahRa6wuGUJ+
+DKIbdrhTbjY6psN7Y/PikFegRdDsyqaBOVaEuAZJnLE/AFEwuR/PeKa0bil4ulVf
+BDW4IBmw+SWG8nqWBC0rPN+TAPpQi8/FvP8p6DRz48P8VDarULwUVOswzn9ZZv2J
+cpRIVXz4c38ak3ywesFjEjArHzK15tGw3WZhGj/gsTFHhq9LUBLhqA==
+-----END CERTIFICATE-----
+subject=CN = wtdusaonline.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3411 bytes and written 454 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: F43151254E86EC6E89E9E70B486D843528AD8CF264CCAEB4182AFCE6B1D123FC
+    Session-ID-ctx: 
+    Master-Key: 72CE3A2DB1B4BD341CD75B8B3C2343965B9958E5EE9A20D862BBFCD2676585392BEF93711778FEEF59EB5EA26FB06BD8
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e8 f8 df d8 b6 a3 fc 13-d0 c9 c4 20 2e 22 a2 f9   ........... ."..
+    0010 - 2d 2a 92 8b e3 7f 84 ae-27 07 7f 12 9f 6a 9c cd   -*......'....j..
+    0020 - 1f 0d 67 f4 96 42 48 f9-b8 8a 9d 2e 1a 27 c8 71   ..g..BH......'.q
+    0030 - f7 86 0d ae 6a 93 08 6c-36 62 c9 c7 3e 39 80 58   ....j..l6b..>9.X
+    0040 - 08 76 6e 8f a8 95 19 7d-d3 13 1e 19 9f f2 28 50   .vn....}......(P
+    0050 - 6a 97 6a 8d e6 48 a8 0c-5b 64 c2 51 ce 47 79 48   j.j..H..[d.Q.GyH
+    0060 - cd 39 c6 54 fa f1 c4 74-12 6d 66 75 6e 16 b8 28   .9.T...t.mfun..(
+    0070 - 77 e2 65 e9 97 23 2f 75-44 f1 e5 22 ee 36 80 f4   w.e..#/uD..".6..
+    0080 - c8 d9 33 52 c3 af ea 7e-94 8f 7c ba 09 4e 72 54   ..3R...~..|..NrT
+    0090 - b7 5d d7 80 bb 8b 64 4a-6f fa ba aa 12 e7 c6 db   .]....dJo.......
+    00a0 - ac 02 84 2f 75 f5 5d f6-af 8f 01 e5 38 00 61 c5   .../u.].....8.a.
+    00b0 - 12 62 2d e1 52 2e a5 4b-c0 cf c8 06 6e cb 52 33   .b-.R..K....n.R3
+    00c0 - af a6 2e 2b 32 7c 36 66-92 4c 5e 0b 8a 7c d1 65   ...+2|6f.L^..|.e
+
+    Start Time: 1573221630
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

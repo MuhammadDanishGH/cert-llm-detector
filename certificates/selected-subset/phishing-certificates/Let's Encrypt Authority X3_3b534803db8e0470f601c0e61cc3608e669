@@ -1,0 +1,94 @@
+http://paradanoticiosa.cl/EsferaPessoaJuridicaResgate/0CmiEU6iq8TEbeQdcPcm/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = paradanoticiosa.cl
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF5DCCBMygAwIBAgISA7U0gD244EcPYBwOYcw2COZpMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMjgwMDAxMjNaFw0y
+MDAxMjYwMDAxMjNaMB0xGzAZBgNVBAMTEnBhcmFkYW5vdGljaW9zYS5jbDCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALxOrXgGHra8O47o6yrW4jl9BPwI
+gwuCZZD6JuqN7vP0BAVIl1BK9wEp4tMAwShgdTlBNzvmyPOOx5CPpShTrSOya9sA
++AB69sIZ2NX0Cgyfx91Gy8byRx62JKFUb0lh1er7gqnWsAfaLtWsmioorRrrGPJR
+1ixvURP6SeOijFSVTwoWaji6/mSxog5piegKWDuQ9nurMsV76KIzZ4NJb4KN5wvc
+xrghkbYCxlRvL62ZwoDmZIEFGzzGsqAKv8It0442LRACZEz13+qWg51/45ruSZfZ
+Gw5pEB1oR+M4JdrDX2IblT1SMRQkxibIKmKyADOvXIlhL+bAmn2CsTROEE0CAwEA
+AaOCAu8wggLrMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU4E5pBUxm84hI56y7brPz
+3uRtKCcwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzCBowYDVR0RBIGbMIGYghljcGFuZWwucGFyYWRhbm90aWNpb3NhLmNs
+ghdtYWlsLnBhcmFkYW5vdGljaW9zYS5jbIIScGFyYWRhbm90aWNpb3NhLmNsghp3
+ZWJkaXNrLnBhcmFkYW5vdGljaW9zYS5jbIIad2VibWFpbC5wYXJhZGFub3RpY2lv
+c2EuY2yCFnd3dy5wYXJhZGFub3RpY2lvc2EuY2wwTAYDVR0gBEUwQzAIBgZngQwB
+AgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRz
+ZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwBep3P531bA57U2
+SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAW4P4cKUAAAEAwBIMEYCIQDY5159NbK4
+MQl0r1mmSf1R+vhg1IXmhoi3wyCmPxNrzwIhAJOWB4b8BgrPkBaSpl/NuyZEOU0p
+NC3fZ242nXcphJDYAHYAB7dcG+V9aP/xsMYdIxXHuuZXfFeUt2ruvGE6GmnTohwA
+AAFuD+HCsQAABAMARzBFAiEAgL1j7BN5E0rsLpDtVMEndkA+Es/S/QbZW5cuyiOo
+BdgCIC+9XA82S+6KwxgYuPb7VvsQ11037FNUH2IrRKeJhCrfMA0GCSqGSIb3DQEB
+CwUAA4IBAQCE2sC6dtHmk4qkYGMnPcvK9o1gQ3Sr1snCJy79SJmWhPt0zW0Pt8fa
+gxGZGTri3jFU4IizejFCEVGBSzJbHwZGK4JPt8qUqWS8CqNhIDfJ5mlvRiOusdeF
+7uUhEzOXq3bt3uy53qDNys1+OK2iG8G9QT7ix+nT7PYiXw88vRu12IIO5gJ4p8jr
+YAVG3LCu9Bh9ttiOnu87As7/m3xG2sZPTen1PKFVRHrWkYTiNOwr91a+ns/GkM8u
+mhF41fuporea/1oBLId6tXgUdikTi7biCNUlqU1UIxiCmX0EKZ4wV54T7+FKLDaX
+KAzlKc5uhgySxqlC0GOv5Wa4g81/1vfC
+-----END CERTIFICATE-----
+subject=CN = paradanoticiosa.cl
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3395 bytes and written 456 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 07047B255252FAEFF38E48A29A618CB00DD5E4517B4960007D9D88ACCDD205C8
+    Session-ID-ctx: 
+    Master-Key: DFC35BB9BFC6AD3B2D8DBE356430A356055EFF813D648968B444717761EB587F3ABF7C41513CFF73AF2D4E420AEF1748
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 3c 26 cc e4 da e5 b9 51-61 2e 04 15 a6 dd 26 59   <&.....Qa.....&Y
+    0010 - a3 87 ae 1b 2e db b9 4a-7e 6f 72 ee 11 b1 b1 27   .......J~or....'
+    0020 - e4 86 a4 3f 32 c8 e4 42-13 9d 9a 6a 18 55 fd 20   ...?2..B...j.U. 
+    0030 - 47 bd f7 fe 70 30 50 4f-f2 0f ff 95 be b3 e7 d1   G...p0PO........
+    0040 - 93 e2 33 07 32 f9 00 5c-c2 0e a4 24 4f da d1 b5   ..3.2..\...$O...
+    0050 - 74 f7 dd 33 91 d7 cd 03-50 40 21 e0 17 d6 cf 09   t..3....P@!.....
+    0060 - d6 ec 0b 40 b7 fe 03 27-a0 55 36 6e 85 f8 a7 84   ...@...'.U6n....
+    0070 - 33 3e 2f 6e 50 00 d6 46-9b 17 13 65 3b e1 54 d9   3>/nP..F...e;.T.
+    0080 - 0f 05 c1 1f 2c 3e a5 96-79 21 85 85 5b d5 24 3e   ....,>..y!..[.$>
+    0090 - 16 a7 4c d5 e2 3b 7b f0-bd 83 5c 57 09 57 4e 3a   ..L..;{...\W.WN:
+    00a0 - e8 69 07 45 94 98 cb 02-47 1a c0 f6 df 47 95 70   .i.E....G....G.p
+    00b0 - 60 72 d7 e8 73 50 72 17-1c db dc c5 df fc 26 ba   `r..sPr.......&.
+    00c0 - ec bc 99 73 90 4b d0 3c-32 c3 cb 75 fb 14 b4 8c   ...s.K.<2..u....
+
+    Start Time: 1574863234
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

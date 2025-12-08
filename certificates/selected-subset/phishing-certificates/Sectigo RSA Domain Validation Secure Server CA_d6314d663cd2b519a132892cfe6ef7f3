@@ -1,0 +1,81 @@
+https://poloniex.com.2fa-en.xyz/login
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:OU = Domain Control Validated, OU = PositiveSSL, CN = poloniex.com.2fa-en.xyz
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGEzCCBPugAwIBAgIRANYxTWY80rUZoTKJLP5u9/MwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0xOTEwMjUwMDAwMDBaFw0yMDEwMjQyMzU5NTlaMFsxITAfBgNVBAsTGERv
+bWFpbiBDb250cm9sIFZhbGlkYXRlZDEUMBIGA1UECxMLUG9zaXRpdmVTU0wxIDAe
+BgNVBAMTF3BvbG9uaWV4LmNvbS4yZmEtZW4ueHl6MIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA+NQ/mPJoYRIOcKqhJUxJ8bgrY98ez76GeB2lNRwCBXJG
+ZB7pceQnX988wJyOE8B48C23pmCisJtzzcr+e70dRKU5CddFI85YyWVCJxd0DmLJ
+VLOcvV3Do7r3aeN6WNxRXadZL9HexalRoQbnyTA6L4m6iC40/n2d15xw4Bknvrdr
+PYDu2su+AubEyjcC59GDPWmcB07wH5MrzgiLT9rKk9yrRcgLsFmC46USSW0yyqZu
+k3hAO/acKbN7lwz7OzJy8jij87f7yWbkN/yNxvkyajMF+9EWOEnhjetQblKgEds9
+wVGSd0CEQkDsXtIv+T1rv3eIc8EJwYi9N1uimOrV5QIDAQABo4ICmzCCApcwHwYD
+VR0jBBgwFoAUjYxexFStiuF36Zv5mwXhuAGNYeEwHQYDVR0OBBYEFMy15X0VC7eg
+g0RN56xShBY2Y2IrMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEB
+AgIHMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeB
+DAECATCBhAYIKwYBBQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNl
+Y3RpZ28uY29tL1NlY3RpZ29SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVy
+Q0EuY3J0MCMGCCsGAQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTA/BgNV
+HREEODA2ghdwb2xvbmlleC5jb20uMmZhLWVuLnh5eoIbd3d3LnBvbG9uaWV4LmNv
+bS4yZmEtZW4ueHl6MIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYAB7dcG+V9aP/x
+sMYdIxXHuuZXfFeUt2ruvGE6GmnTohwAAAFuAXn5eQAABAMARzBFAiEA8rnr1IKL
+jYDEWi5rMvpyz8Je/ohu0eCOV2tv1wErpHACIFIXL1i04sOLwN83deosLhJQt5xT
+C+YSae4xDz7PK4xCAHUAXqdz+d9WwOe1Nkh90EngMnqRmgyEoRIShBh1loFxRVgA
+AAFuAXn5XwAABAMARjBEAiBw+1l3z04cFQSmrPRplcnm70N59QbOi8ln0Oc7anUd
+lwIgVv1lGjXE8Jycj+fNeCO5xFHQuVR+WBOSLcgiQEm+mDUwDQYJKoZIhvcNAQEL
+BQADggEBAF2s71iLGNHvjfnSx5C9Pcs7/iHpParL5N9uC6XTmqB5OSR+pdJYvFBE
+XZNXOJYOfKI4bhJt4q4xrxkKYWTS8tofRHGDIHec3py/6X5J4DXa1nJTLcb54tgB
+UlZqkSFXaXeq2oVGRzAF3X0JMpUzCn/HBW60SoptPgbwpolUtcN78kTBOgBp0TpL
+t12cR/REXLMgdziQ/Do9lvEbFJTyJYbgL6UWrsXV9jJZkWtdBhgj4aU/OPKOIct4
+yEX3FUfK9JEZHgPqnDI74oQPTAFBclOOPVirzNVGW/6pKhwoXx4wumkFQTlZ1igL
+W1opHUmM3mhg0fmwGcM5uWTfPzWuGR0=
+-----END CERTIFICATE-----
+subject=OU = Domain Control Validated, OU = PositiveSSL, CN = poloniex.com.2fa-en.xyz
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5038 bytes and written 461 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: F0A4205B2B5750A7FBD245EF51049139B4070AF1C45DC42A8B74623457BB70D4
+    Session-ID-ctx: 
+    Master-Key: CD2B955574BF3CAE15EC5033E531FF7B26F5B36809ED75796246A4EBFBEA442489AF3D87F4906A413C4CD4CD7A1ADA12
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1572184829
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

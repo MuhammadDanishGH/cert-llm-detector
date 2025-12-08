@@ -1,0 +1,73 @@
+https://quayinvest.co.uk/doc/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = quayinvest.co.uk
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGjjCCBXagAwIBAgIRAPuhfgsv4Vfn8SnVQOzhJHEwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA5MDEwMDAwMDBaFw0yMTExMzAyMzU5
+NTlaMBsxGTAXBgNVBAMTEHF1YXlpbnZlc3QuY28udWswggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCbkVPA5AUtxDEwGLwqYedpx9WmN1rfCwaodkXpBSGe
+ADE6apEt+sKDBstSVYk6nWlYpSb0StPSySJYQWP/X9Hv8L8QN8fe8E4QK0QibWjr
+4cYIpyxQrNQU7aGkpBdI91gWMzEAAz7r2kYVCl7YTsWUIM1nseWAHzWJP3OOO89+
+bXUxSHdhKcWp7qADtxvuQ2MtMiR/OTY2DqtZFGWcHs3KBi3IxYAz5LfGOwaX2X44
+vVLRU/TasMRnmJXPtDpDZBXk+M3FDl+s7MJOTOQoA4ROU86uKJFlXMN47ciCjH2Q
+29TqxlFX2gFj9UV+IMTyuP4uJuLLhA7QLHO1gn1hWxbzAgMBAAGjggN0MIIDcDAf
+BgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU68NZMlyH
+XZCf1qfw5lMnW1o53awwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGy
+MQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYG
+Z4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEB
+BHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVs
+SW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1AH0+
+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABe6I0sQ4AAAQDAEYwRAIg
+D2Cu2iwAahIw8HkPdGHBhYKJdUPu2VH7TkHkxjWbkM8CIGL0cmcUvPv56lTewbqX
+R3Hfs9dbyrVH4LmqG2ACc6n3AHUARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9Mz
+lrW2gagAAAF7ojSw0AAABAMARjBEAiBFQqK67+PLRHHZ7ZnVhjuNbZRAqv7EwTlb
+RFPFDIX+tQIgb7c1e2Q27E2G3bP6ZReLCWgIqic2ZM5+5KyfbpPdcc8wgdIGA1Ud
+EQSByjCBx4IQcXVheWludmVzdC5jby51a4IXY3BhbmVsLnF1YXlpbnZlc3QuY28u
+dWuCHGNwY2FsZW5kYXJzLnF1YXlpbnZlc3QuY28udWuCG2NwY29udGFjdHMucXVh
+eWludmVzdC5jby51a4IVbWFpbC5xdWF5aW52ZXN0LmNvLnVrghh3ZWJkaXNrLnF1
+YXlpbnZlc3QuY28udWuCGHdlYm1haWwucXVheWludmVzdC5jby51a4IUd3d3LnF1
+YXlpbnZlc3QuY28udWswDQYJKoZIhvcNAQELBQADggEBACA2dhAKX85Ql8aOMWyi
+JbZy/dBKTNu2IW7HfmKks8B0jDyMMfqgN3hXcdbz22dQtGP3wpgm/83+UtqPUZne
+uf1aOgd1/D6OdiqeA4IrxpbBtaU7DrLWWqBPIwQ9uWJn0TMn3j9daZ91+/UDFJj9
+zuK3HLK0Yzs5dxl/LS07AumSS+Vfhnlo5o2YjDHQDSnOm5ma3ouhek0TPotmgTOi
+52PpLjJWZIpm79OhYQPu4Cp5Ps1EaSX1iamJ+nU1xjMUgY+flVolgVZ7SX4DuHqz
+9fekLDQHOOAab9khLtCxlpnjnieMuekpqJwS7isnlF799+PSBMaEKPkV0dsykUNM
+2Ns=
+-----END CERTIFICATE-----
+subject=CN = quayinvest.co.uk
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5187 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

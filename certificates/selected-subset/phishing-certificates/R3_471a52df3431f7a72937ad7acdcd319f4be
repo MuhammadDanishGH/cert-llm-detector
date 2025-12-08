@@ -1,0 +1,65 @@
+https://cxasd.qgnukjh.cn
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cxasd.qgnukjh.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJzCCBA+gAwIBAgISBHGlLfNDH3pyk3rXrNzTGfS+MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMjIwNDI2MjFaFw0yMjA1MjMwNDI2MjBaMBsxGTAXBgNVBAMT
+EGN4YXNkLnFnbnVramguY24wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDwaRQ99ma/IWd9HWeMI8qrV5DE6cGn/9V1Rozdgiu3b6J8fu4FcjAHfxpyLH3I
+JKe6HjMDdfbqc/Im4adZYLec8gkIjqlCNx0eOd+ZLAkXeOjwO8b3OU1wMDW1294y
+pLbCLAUqKFX+g5GGhVToC45SFuoOOjdE6azkf1+pRhC/A9Z1/dB85i06BphTNuoh
+RX/x5aOSJioz8fPC48CGGrBMCRdQTgUIVFFXKU9wm0RhCLtr8xe94RZwjB9vgynk
+MXM0g+b3hEPaIzwVh3Pf34ngwk+/EuSJJ5xHZNv+DL/NcEvt864xWXyzK281hvJ+
+0BaPYlCdftJ1K/RnHnk5FTtRAgMBAAGjggJMMIICSDAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFKil28/sST0KgwtO9Kp0ea0zm1LSMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMBsGA1UdEQQUMBKCEGN4YXNkLnFnbnVramguY24wTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwDfpV6raIJP
+H2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAX8f5RY/AAAEAwBIMEYCIQDOzA3m
+5xsy5JMeVJ1eSIxAUtX+4mmE475l2kCp9j7swwIhAIQqzw/OfLfCj/7z17VWcmHL
+fgPeKydaz8tvNEIbejp3AHYAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVd
+x4QAAAF/H+UWMAAABAMARzBFAiA7ZMFexTUbESHKaPtH4yk87xgZ59j2N4dlL1bs
+VuG3kAIhAJ5TGMCLPaqxN4jNqlrnEpAmShAyMgF2vNLgPEW4QytOMA0GCSqGSIb3
+DQEBCwUAA4IBAQAjvH/xqg+ilaC+QgFFR0+2HEzHebmJhkbxnZ1TGKJAiNsu09Wf
+LpP78Yo68fJ6eofwugxVBmYG/qpTq6PaZap/AxO7D2efSsdG43f+Fvu6ezNfIwg/
+r9XJoV3gYVjAVreswEKIp7IVmKl8sZtkT6pl4x4On7beC5Pf+gmnjsXzpJnxsjH8
+RnkxjrgWUBiXzQb86tRJQpojNE8ScvTKTkPOamlm98zsgY7P7C00Vr18UtclgRnI
+TsgttGmjqKML4jNUfjsKEhmP229NnjXzpVwDf7m0yM4SMpalWueELCNuPHZIYMcf
+cSEGeXchDSdPtxzWAHwoJkGDODCePFZVRZjb
+-----END CERTIFICATE-----
+subject=CN = cxasd.qgnukjh.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4579 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

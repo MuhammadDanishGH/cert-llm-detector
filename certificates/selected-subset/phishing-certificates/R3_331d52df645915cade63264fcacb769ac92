@@ -1,0 +1,95 @@
+https://mountainaddiction.com/chase/chasenew22/login.php?Lp8AP42viIdZ0h8psSMxEr7cYFgP6HlUkmvRf0bWTNCMRDRDpiBxpWWXtKlfrCtGDolqODW8CK8JIVqYWys8MvjKaxnFI3LKicgIrFJPDAXFQz0Ytd7YKfuzv3AJnIU074T5pSIBR9lo4ciNdf0xMoG5KIW2dx5VeDeFHX5uLseRJhbquoFYHFFX5ByTGJHPGXxKMCT5=
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = webmail.mountainaddiction.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFsDCCBJigAwIBAgISAzHVLfZFkVyt5jJk/Ky3aaySMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA1MjkxMjE2NDhaFw0yMTA4MjcxMjE2NDhaMCgxJjAkBgNVBAMT
+HXdlYm1haWwubW91bnRhaW5hZGRpY3Rpb24uY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA7r3nuR9EnhNJup0kUJBcUaUN+4P+vMG8ALmpERiV1jsr
+MZqz2P7dyh4Jotud9ppGAqHQaYTw9/75isNslC/tjAtYI5W/bLskEvwtCl+Ru6Fh
+a7sLAvkXYKk2tjPqGzqIrQeJttr6t/4QntR+T242U9CV8z4N/jc35LqEreydgAR9
+/8QeBckS0EvuCcFw+L4SfMfnfTGJrXDjM3FKtxVPcg8OI3tkguUH6ed1ApW6HYQs
+LaD4mIdfOOgSqVRbGEnrfv9Jqnp9bQsN54lFFCthYoumyRsimEq+78wBWJ/N6j93
+5AiAc9308GFekrBPu3KvDDfZpC5ANbzFvzQeMPx2dwIDAQABo4ICyDCCAsQwDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNV
+HRMBAf8EAjAAMB0GA1UdDgQWBBSHXzTMME+0jhM5+WojKlUS9zZq0TAfBgNVHSME
+GDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYB
+BQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDov
+L3IzLmkubGVuY3Iub3JnLzCBmQYDVR0RBIGRMIGOghxjcGFuZWwubW91bnRhaW5h
+ZGRpY3Rpb24uY29tghVtb3VudGFpbmFkZGljdGlvbi5jb22CHXdlYmRpc2subW91
+bnRhaW5hZGRpY3Rpb24uY29tgh13ZWJtYWlsLm1vdW50YWluYWRkaWN0aW9uLmNv
+bYIZd3d3Lm1vdW50YWluYWRkaWN0aW9uLmNvbTBMBgNVHSAERTBDMAgGBmeBDAEC
+ATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNl
+bmNyeXB0Lm9yZzCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1AFzcQ5L+5qtFRLFe
+mtRW5hA3+9X6R9yhc5SyXub2xw7KAAABebhFIbkAAAQDAEYwRAIgTYGHf1rTvwSl
+3IhUB6khaYIiKiD8Wxx2wmEOmSv9vw8CIB5iWWHgvDGh/jU8zijcLos0RQgf+4Q6
+WpyiyM3xnCxDAHUA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF5
+uEUhxwAABAMARjBEAiBnxk/Ok5bd183ccHzwLBQxxaySzDJgzfBc4pgjsLMtLgIg
+Rt40bMd2/0oMeS1yMprwXj1atrsHF8+SIWVpDnwrFa0wDQYJKoZIhvcNAQELBQAD
+ggEBAA/wiZPVYDN5qqXKHiAir5cpRBcx/qmFlkOFQlGrGB7rL6ONepwB0Y2djwBZ
+4Y0MDvZncySu7ALYIKY5EirAYEBMqLtZSsEIdhJtob1bH70sg43tjXNJi7UtiH53
+UxbDnn/zt5EH6zMLguim3I8jzx63EdDeS/g1DoMnU+4XrtyJ3vzxGryjIFj16cRl
+uyc2bK23X/kk1Nqnywihi8hjQX/wxFjof9NFUJwumGmvRTNvtw5gt7tRO2zUT16R
+F9ElW6Oe0K23F4UM6FRTqusqaY4Hce/GXs4mI5lgnEi1ni3tHGJMVzDv62KutKCx
+zFU4ya7CtWBnWMZR5MPJbXBrAr8=
+-----END CERTIFICATE-----
+subject=CN = webmail.mountainaddiction.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-384, 384 bits
+---
+SSL handshake has read 4890 bytes and written 481 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: C680B3A6E6E87656C4E44E45D3109F69C021530F45165EB038A056790F1F0BEB
+    Session-ID-ctx: 
+    Master-Key: 3211774025CAF5883D7C4A5B8578AABAFE23CEC7736BE6D692D8D5BEA46AFCA9721C79742DEBC2F74417F427A9D1CE59
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 95 69 93 d9 55 5a f1 3a-11 4f 27 72 2b 13 1e c8   .i..UZ.:.O'r+...
+    0010 - 6d 90 fe 92 0c dd 1e f7-ef a0 1f e3 5c fd 57 03   m...........\.W.
+    0020 - 07 bf 72 3d ec 54 82 a9-7b 17 39 67 0e e2 2e 08   ..r=.T..{.9g....
+    0030 - b6 ae 03 75 16 81 45 46-15 4f 2e 79 3b 16 a7 4c   ...u..EF.O.y;..L
+    0040 - cc a5 35 f5 7d ac bd 1d-7f ac ce 82 de b4 33 5d   ..5.}.........3]
+    0050 - ec 43 aa e0 9e 58 b2 bf-5f 37 03 f7 83 3d 77 d9   .C...X.._7...=w.
+    0060 - 49 2a bd bf bf 96 db be-b9 a0 3f 64 e2 cb a5 a3   I*........?d....
+    0070 - 80 1f 01 be a2 89 ce 3b-fe 57 73 03 fd 7a eb cc   .......;.Ws..z..
+    0080 - d2 d1 c3 d7 07 f9 5e 90-2d 0a 48 39 6d 6b f9 3d   ......^.-.H9mk.=
+    0090 - 91 7c e2 94 a8 af db 6d-2a 43 10 07 24 ad dd 2f   .|.....m*C..$../
+    00a0 - e9 74 d8 e1 38 33 26 70-8e 23 81 a8 99 2d d0 17   .t..83&p.#...-..
+    00b0 - 37 c7 ac fa 1f 4f fb d2-7f 5b 10 56 0d d0 fb 9c   7....O...[.V....
+    00c0 - b2 ad be 87 45 9d 6c b9-c5 dd 8a d6 97 ae f9 2c   ....E.l........,
+
+    Start Time: 1626223604
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

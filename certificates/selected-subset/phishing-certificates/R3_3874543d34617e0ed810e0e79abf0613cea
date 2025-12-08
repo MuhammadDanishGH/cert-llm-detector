@@ -1,0 +1,66 @@
+https://micacd.piereng.com/one.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = micacd.piereng.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOzCCBCOgAwIBAgISA4dFQ9NGF+DtgQ4OeavwYTzqMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjIyMzQzMTBaFw0yMjAyMjAyMzQzMDlaMB0xGzAZBgNVBAMT
+Em1pY2FjZC5waWVyZW5nLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAKSsXmh1GlJWVaqoY77LWkXRmIEoxzIJ76SYXx26mqUF+h1AKwdkq0QhTQqN
+jdkUc5NfIrjwn8bLNWzQ8ljU3Xui9Cg15FZ8GLdAp6NuznlxT0iFs8uWt8LbInCv
+veWKXi5GemKJ5Zsiu9hZGJdcuCM0Xh3eUAI1K08rKsC9n/vhuBoVLPrGQoASQAzC
+Q1w2tf5D0jQi3Suf+uB7wxGJUnE1MFrAhwUkm4D/auuSz4442gfONv817tO2aUQC
+mL+5lQLqeKHSSQAV97ero38uxmwgG6Uzs0EioZFIwc3ZhFksD29VYWheNP6LHp2h
+qGgr7ciRXetiyywutVxsEZWB0ckCAwEAAaOCAl4wggJaMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUq042zVoxDnQSQO3ZnsClwZXhdzEwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wLwYDVR0RBCgwJoIQbWljYWNkLmpkZmNsLmNvbYISbWljYWNkLnBpZXJl
+bmcuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHW
+eQIEAgSB9ASB8QDvAHUAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QA
+AAF9Sj8eOQAABAMARjBEAiA0JQu8JZmFtqL3VZmnN9SiTIq/LsO80nqRC4e1c9Rr
+IgIgT7mwni/RbOnbQ7rF+OAhW+Z+RBLlDb79sxE6jEyPGHQAdgDfpV6raIJPH2yt
+7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAX1KPyJCAAAEAwBHMEUCICAP8YDt5EY1
+zKcfAAVyHp877AxQSdC02WDwQcty7I7LAiEA6yVTkkndKxTBn3js8MuVYz/BUe5l
+IOoKZv28lVn0xHIwDQYJKoZIhvcNAQELBQADggEBABE4+qpN5AemUmZrfmOGNMaZ
+WuQ8nfacUanyqC2epo8fbi8gFKsLwC8cXGDkHNCO/gLyjxkWHiK8FV2urCV009xW
+XmlJO+dz1rFtx41eGx6hwNXUB0mCWETAuoXq7lTmw8Jst1HKsfL03Nf3iTQl7TDi
+qCm7/zvehNeDAnGfbLGI6uJIs8tn58vk5RRPma/MEtT2RSXjqldLz5RRi6Mw8hCt
+7hf3QE7sIXzKTT8zcXfxPzxf2wbVUsOQvoR3OwIvA7O4h+Tv0Zbj9ZyDT8Ok2Rk+
+tZ/JGi6Q6WfdlNgjiEhbgPyNLFoPpTqNP+IB2f3Z/bPFyZCKfJAq/cR0mr51Q2s=
+-----END CERTIFICATE-----
+subject=CN = micacd.piereng.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4599 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+-

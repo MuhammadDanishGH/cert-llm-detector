@@ -1,0 +1,71 @@
+https://elwakeel.net/ws/LUNO
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.elwakeel.net
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGNjCCBR6gAwIBAgIQX573RFC7qCrEt1T450+J1DANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTIxMTAwOTAwMDAwMFoXDTIyMTAwOTIzNTk1OVowGzEZMBcGA1UEAxMQd3d3
+LmVsd2FrZWVsLm5ldDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAORu
+Jd4BHNcoL/0KGr3L6xkgdECfYAk/Ror9zVlRW/ogikNVwo6/ykOXuqIIy3XetFS3
+3ukl1w4OkN3PXHZlReLwQ3nAD4FR06tBRhYy6F7is6sNHmm6MrfL7+NaiTz2yS4O
+rhGXY7bFPK6pwWeZberLsZPB77AORgOp59T8nblHZ1EbouB0WlaCAV4WfENl/7ld
+W7UuNIuW6TsuklpJ9OE1SWr4DWKac9c1BwGUWj4K3LedBtp/qtZVwP3HkURcRYcM
+IQnCSR9Y/hXQFzvttyh8XBoromLGUnZ1aG4jdS46ixG38aqpnVXDP2UEZJoBgQO6
+YFAm1CXBDg2i+zj5Hj0CAwEAAaOCAv8wggL7MB8GA1UdIwQYMBaAFI2MXsRUrYrh
+d+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBQnVZu9eUQaLfTGHsm5GCNQZ1RJ+zAOBgNV
+HQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUFBwIB
+FhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsGAQUFBwEB
+BHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdv
+UlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEFBQcw
+AYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wKQYDVR0RBCIwIIIQd3d3LmVsd2Fr
+ZWVsLm5ldIIMZWx3YWtlZWwubmV0MIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcA
+dgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXxmmWgSAAAEAwBH
+MEUCIQDP2mpFFt7SoKIW5TXEHALqS/ZDsRBx8s2sWGDj1lCH3QIgIv4cLVOH0kvB
+EIx/31AE4dAPPYs5QsgUY7Jz/E2u8bwAdgBByMqx3yJGShDGoToJQodeTjGLGwPr
+60vHaPCQYpYG9gAAAXxmmWfRAAAEAwBHMEUCIQDIfiwkyhMI0PYzqmwsYA3xjq60
+3kaHdf68+97kYh+0cwIgUcneu5OTdNt98glgIdZTM9yaeQNGvrIKXp2Hy1U8RpMA
+dQApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAXxmmWeoAAAEAwBG
+MEQCIHNfRptzDagzPywIQlTGxcTRWe5JDyZwNvLGd3hCGaGUAiBG6jQVEUyUI0+A
+OjGaxQrWhQm6G7sFN6V6dahDD5nwRzANBgkqhkiG9w0BAQsFAAOCAQEAfBRiaR9P
+XlU/UUfJf26FdDX4BlZUhFV8BBhCrkmKV5iEUnI07Ya4dGuemeD9d3zIPKlPg8O+
+bA5b8iZ54+KHRaMfdK+hmlVMjaDHQfztRoMG+fh5VjAgBpHkVn9o0jTGdrST4kqV
+YHK3MSjjI6idH1AoYgJRku1QofuZMlnxi1Y7t7RqufTTBBSIzSNf9pyc+6SLKJE2
+NeuXw/lkPCCEviJkInNhwwmfnKBV80bWLor/o597t1eiex9V21lzOWzJk+CsUUPF
+RG8W3iO9C+scM9a5uvebd+W6lEkzf0wm1Qhz2H6eHAgAGMwmb30FLVspnZzrrQ3h
+cf4nymPVDXKiFA==
+-----END CERTIFICATE-----
+subject=CN = www.elwakeel.net
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5136 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

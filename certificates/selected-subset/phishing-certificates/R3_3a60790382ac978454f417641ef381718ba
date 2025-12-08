@@ -1,0 +1,95 @@
+https://webmail-seguro.viewdns.net/?ref=Y29udGF0b0Bsb3VyZW56ZW0uY29tLmJy
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = webmail-seguro.viewdns.net
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:CN = webmail-seguro.viewdns.net
+   i:C = US, O = Let's Encrypt, CN = R3
+ 2 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 3 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFODCCBCCgAwIBAgISA6YHkDgqyXhFT0F2Qe84Fxi6MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTYwNjUzMzdaFw0yMTEyMTUwNjUzMzZaMCUxIzAhBgNVBAMT
+GndlYm1haWwtc2VndXJvLnZpZXdkbnMubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEApztstifRytIPByd1TIPQI8JzVyiWPEF9PRGhIJhNjLwPepdN
+UsgfMxXclbjR1eoAzVreT02/7dz8IgwAcD9B4a7sJWQ99+dcgnmeVrjwchX8MRZj
+iErk2lC83d6nc6h23niIcIjsjknQ/sfss14MKGe+eR9aJpyAhr4f+Rb8hKkaCi7D
+o9xolv/WZcI/KyFpNDrRWczDEQNsiHGSfGLGx8fvMW6G6lehx1wUd+h4ul4I/Mck
+Ynb2SASOpag5SS1i+9bFVBkFIPWUJHkC5+2nkqjpbHNyHYM8f8vwZvYDVsHXmG7x
+AtDG5lKJ22foPTTl4ZgoCTG7TYt5AvfWPK8J/wIDAQABo4ICUzCCAk8wDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBT9c7iuz67n8kwa3V44BH8iad4ubTAfBgNVHSMEGDAW
+gBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUH
+MAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3Iz
+LmkubGVuY3Iub3JnLzAlBgNVHREEHjAcghp3ZWJtYWlsLXNlZ3Vyby52aWV3ZG5z
+Lm5ldDBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsG
+AQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQIGCisGAQQB1nkC
+BAIEgfMEgfAA7gB1AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAAB
+e+2YxYMAAAQDAEYwRAIgbT3E2vLKFIsa+4pXvA9HvQ0gUGXNpK+2ifBzFBBjiFYC
+IDu3D5VyxRfc/3RccIqTlteP0wxVgAXDtnfcm+K/G9iGAHUAfT7y+I//iFVoJMLA
+yp5SiXkrxQ54CX8uapdomX4i8NcAAAF77ZjFpwAABAMARjBEAiBvxzIL33YT8lGl
+1C/XrtrpPoicO6iLRyE/4fNm7BlB+wIgWtqCK0wlJSkAfBLMoFF+pUH5CUX4d1PJ
+RAzekIBQn/cwDQYJKoZIhvcNAQELBQADggEBAB23hZzZCmcGSCzR1+WuN2meYRhT
+tF9VAzKO2UjrmxmLluV5PTIbd2GUuVS7tZyQb5e8/u7RqxB9RSjj/QPVMJ8R+jEe
+ZAIVWdzEHc82VkYsb6Za6Kf5+MbhPp+RF7iag7aM0HOkXnbN076jsiSiqTjvBXp6
+yaHvNOMxqe4nUJsrAvdyCbiP/Sl4MAfSmwr63dGroj7mKbGiYNZtQBsXRCIog31L
+pRC678WEuR0dTgNp9R7kOmbqdeEf5/6KuAsX0h8qQHoST+DlBck8cK/GC6WvdQuV
+DpFPqyWQp/WC8Vkq/MMYXP1JKQ2i58eH1rN6XOpDVa/8tTSrqNKd6dDSsdk=
+-----END CERTIFICATE-----
+subject=CN = webmail-seguro.viewdns.net
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 6097 bytes and written 454 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 0E4EF5EE297C469BF3A1AE32158745E94922C85536AC24F71286A959DFB094D2
+    Session-ID-ctx: 
+    Master-Key: 3E8A51ABA4CF13668901A2ED7145C63FEA459E86FEC69C768BA33E89FD364608F82081FFEC192CF82F6A10912528E58F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e4 6b 8b ea ce 92 bb de-00 1d 09 19 c9 44 b4 8e   .k...........D..
+    0010 - 9e cb 62 59 f4 46 db 06-27 5f 22 d1 ed 32 70 27   ..bY.F..'_"..2p'
+    0020 - 0c fa 8b 52 30 a4 fe 37-0e 63 dd 9f d2 e0 1b 22   ...R0..7.c....."
+    0030 - 24 72 64 68 b8 88 24 c1-5a b4 4a 73 35 0f 01 1e   $rdh..$.Z.Js5...
+    0040 - 89 c0 2b 74 ea 52 ef 09-eb c2 71 de ce a0 a4 ed   ..+t.R....q.....
+    0050 - 0d 9e 88 f1 e6 2c 0b 4b-8a dc 96 41 8c a2 77 53   .....,.K...A..wS
+    0060 - 0f 2f 27 66 28 82 5e ed-69 70 6f 93 80 3f 0a 52   ./'f(.^.ipo..?.R
+    0070 - cd dc db 21 c9 b9 a5 d2-67 b2 99 67 ed db e4 59   ...!....g..g...Y
+    0080 - 68 34 fe 8a 55 fb 1a c4-35 15 61 a5 4f d2 ae e7   h4..U...5.a.O...
+    0090 - 92 ef ab 1e 42 ce 04 79-13 88 e8 ec a1 79 c7 e9   ....B..y.....y..
+    00a0 - e1 cb 91 9e 55 98 4b 07-a4 a5 4c 26 fa f3 1b 36   ....U.K...L&...6
+    00b0 - 25 19 99 aa 2b 3e 15 09-35 2b 15 f0 dc 59 b6 1b   %...+>..5+...Y..
+    00c0 - 99 93 71 ae 95 26 18 aa-3a 06 ad a9 f2 bf 80 84   ..q..&..:.......
+    00d0 - 4c 28 45 68 98 78 50 da-b6 8b 5c ee 89 f8 2b 02   L(Eh.xP...\...+.
+
+    Start Time: 1631881306
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

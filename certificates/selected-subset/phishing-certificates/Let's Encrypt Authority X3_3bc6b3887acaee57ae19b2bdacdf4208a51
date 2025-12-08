@@ -1,0 +1,99 @@
+https://breakthroughatthebeach.com/wp/customer_center/customer-IDPP00C765/myaccount/signin/?country.x=US&amp;locale.x=en_US
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = breakthroughatthebeach.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG4DCCBcigAwIBAgISA7xrOIesruV64Zsr2s30IIpRMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA0MTgwOTA1NDdaFw0x
+OTA3MTcwOTA1NDdaMCUxIzAhBgNVBAMTGmJyZWFrdGhyb3VnaGF0dGhlYmVhY2gu
+Y29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2L9ugayjBvdDX3cA
+IrqvPDMG7DmB0GxfjAiMgVTKY+LvwBGhBO+pBtds/T5jzQLSssW2rTHXnN4+8Ixg
+0Jiuc4S1xS+P/YTpm/jFc3CIlMuGD7OXJ96j4F9zf5ptZKaFwEkj1SnwW6ZgwiBS
+IhKoZ34+0+zaYmspdy7HSMvQy3AudrrsdRbfMDqUpA3fAynJUn4n/rK45V72b2pk
+gUsl+nJCBVBeqHSeslcQksDcbYjX8vAsymmu6+F9x5nCDglCPZ+v53XR+4Lz4Mhr
+un7/tCTJwiY9M7/kxdQTk/0gL0PXIgb2jt0dCh94T46B6LnipmIXZpaKgrtHTDkN
+Up8hLwIDAQABo4ID4zCCA98wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTPb6xDOeCE
+FFNDZhAey+SRj6JsmDAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBv
+BggrBgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5s
+ZXRzZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5s
+ZXRzZW5jcnlwdC5vcmcvMIIBmAYDVR0RBIIBjzCCAYuCJ2F1dG9kaXNjb3Zlci5i
+cmVha3Rocm91Z2hhdHRoZWJlYWNoLmNvbYIaYnJlYWt0aHJvdWdoYXR0aGViZWFj
+aC5jb22CIWNwYW5lbC5icmVha3Rocm91Z2hhdHRoZWJlYWNoLmNvbYIkaW50ZXJ2
+aWV3LmJyZWFrdGhyb3VnaGF0dGhlYmVhY2guY29tgh9tYWlsLmJyZWFrdGhyb3Vn
+aGF0dGhlYmVhY2guY29tgiF2aWRlb3MuYnJlYWt0aHJvdWdoYXR0aGViZWFjaC5j
+b22CIndlYmRpc2suYnJlYWt0aHJvdWdoYXR0aGViZWFjaC5jb22CIndlYm1haWwu
+YnJlYWt0aHJvdWdoYXR0aGViZWFjaC5jb22CHnd3dy5icmVha3Rocm91Z2hhdHRo
+ZWJlYWNoLmNvbYIod3d3LmludGVydmlldy5icmVha3Rocm91Z2hhdHRoZWJlYWNo
+LmNvbYIld3d3LnZpZGVvcy5icmVha3Rocm91Z2hhdHRoZWJlYWNoLmNvbTBMBgNV
+HSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpo
+dHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA
+7wB1AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAIxjc1eeYQe8xWAAABai/ozLIAAAQD
+AEYwRAIgP17DpUKnBJflddWfOB5bYcgwvUthn1qy+uE/c1PRz5sCIG5H5AgHaFFB
+kfKkCSDi92Y2SW0gHQVfTtdvTTRvl/7wAHYAKTxRllTIOWW6qlD8WAfUt2+/WHop
+ctykwwz05UVH9HgAAAFqL+jNJwAABAMARzBFAiEAk3yHFBBCel0ycqlJqvGdD+rx
+ctMhLRkNsHi08oKEBTUCIFLrGfQ02BmhtLd5f6gdmj/Hrd2pjrPSlAs+b+MFdYmz
+MA0GCSqGSIb3DQEBCwUAA4IBAQBNeZsBvJMJz4SO8FuMw5Df8T+9nCYTUMXawYIo
+kHVVFVt0F5Af4/QT36tFpKKyxYLIjB+/ODtHCaXSrzysMUXP0MNDTeE49Hjv08EV
+73lOJQkL0QSMBc0Z9dS8RLfq7WTE8MMmjfEclmmacuGS7Zi4dQeijo7CQN27JcdY
+KDC+B4LZhHx+ISiS/wpGJCqbsmbdYflsyT3J8X3JONxJLSWEioiqEm3BQyFheF8U
+VH9/z36Zd+3tggiyd+V1reoDh+LqRO7TCbkfwTGGpuecLaDmEGBhL0efiSfy2qtO
+/GxpJ0gMSxqlOMWbJ6B3tiWNPrqLhmXVnM53zEsc6mki1scz
+-----END CERTIFICATE-----
+subject=CN = breakthroughatthebeach.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3618 bytes and written 431 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 1D88D17BC5FD3A1B0C8C0F50BB540D0BB9E0B7C1D3FCA8A866508962AE2AFC2A
+    Session-ID-ctx: 
+    Master-Key: 535D7569EC90E2989E0B0B9B579DD777DE53C9A6A1AAC14DA6B6B04703EF53685BEA582AB49D77627FAE7EC4E2B3470E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 1b 86 b9 35 fd 34 95 7d-76 fa 26 d5 f2 ef e1 c3   ...5.4.}v.&.....
+    0010 - 3d 16 a1 11 f8 a9 38 99-2c 57 20 e5 0b a7 ed ec   =.....8.,W .....
+    0020 - 29 3e ae 1c 35 5d ba f7-90 af 55 3f ad e3 73 f7   )>..5]....U?..s.
+    0030 - 03 71 1b 52 c2 b3 04 04-9b 13 b4 71 40 8c ec da   .q.R.......q@...
+    0040 - bf 44 9f 76 9a b8 82 9b-2e f6 da 8f de 6b b7 0d   .D.v.........k..
+    0050 - ff 9d 3f 68 45 e3 9d 8b-bd 79 0a e3 e0 6b 30 8d   ..?hE....y...k0.
+    0060 - 21 90 31 a8 a2 2d 23 d9-f2 ca 07 88 39 fa de 54   !.1..-#.....9..T
+    0070 - f1 70 a4 e3 ba c7 f8 c2-68 c2 d2 22 df 02 83 d2   .p......h.."....
+    0080 - bc 58 ff 58 db 91 52 ab-66 02 06 c8 c2 ff 90 5c   .X.X..R.f......\
+    0090 - 4a 66 38 a2 9c 62 ae f9-9d 57 6c 52 4b d9 a5 d8   Jf8..b...WlRK...
+    00a0 - fe 87 88 b5 c2 12 c2 f4-ed de 46 a0 9f 51 46 06   ..........F..QF.
+    00b0 - 24 e9 4d aa 2a c6 dc d8-c9 36 01 62 0b 03 9b b7   $.M.*....6.b....
+    00c0 - 94 42 8d bf 3d fc c3 76-80 a3 84 50 62 16 f9 ff   .B..=..v...Pb...
+
+    Start Time: 1557061225
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

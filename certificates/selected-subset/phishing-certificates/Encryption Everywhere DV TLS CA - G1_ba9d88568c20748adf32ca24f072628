@@ -1,0 +1,68 @@
+https://www.docomnt.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = docomnt.top
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+ 1 s:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF/TCCBOWgAwIBAgIQC6nYhWjCB0it8yyiTwcmKDANBgkqhkiG9w0BAQsFADBu
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS0wKwYDVQQDEyRFbmNyeXB0aW9uIEV2ZXJ5d2hlcmUg
+RFYgVExTIENBIC0gRzEwHhcNMjIwMTI2MDAwMDAwWhcNMjMwMTI2MjM1OTU5WjAW
+MRQwEgYDVQQDEwtkb2NvbW50LnRvcDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAMLfaTtaVa0OApgqrzhsceB0Npkv1kd62fP3ATrgsrw98P72vWbHPFxP
+dS3zVnJ8ZRyJjt0L9hdeT4a7WN0WSdfOHoOwMatjuwuwkgpFf3zXpt7fpt4kWKFd
+/kAOf4XMnZJiLZCeds8a1ay1QTqLlYBZzDhdfS0ceX1BP3qa0ruUqfzTcUgvuJue
+KRMT6gidlKOGVQkqD54uX4TB9ny5IW9hk+Msd8vD26xapxg8ZpKRFVDzg8b0EqPt
++qQmBUc7XYg8M6rq1zFUnBU/2ykcEt1oXPVOdeA6PASxjcWNn5OaME2Le/4LtnKy
+yYAdCb5LaL8iFRQXsDH+qsXXF8ihzsECAwEAAaOCAu0wggLpMB8GA1UdIwQYMBaA
+FFV0T7JyT/VgulDR1+ZRXJoBhxrXMB0GA1UdDgQWBBSMYfH6z8Gnes95zTxip+dc
+JrDXFDAnBgNVHREEIDAeggtkb2NvbW50LnRvcIIPd3d3LmRvY29tbnQudG9wMA4G
+A1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwPgYD
+VR0gBDcwNTAzBgZngQwBAgEwKTAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5kaWdp
+Y2VydC5jb20vQ1BTMIGABggrBgEFBQcBAQR0MHIwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBKBggrBgEFBQcwAoY+aHR0cDovL2NhY2VydHMu
+ZGlnaWNlcnQuY29tL0VuY3J5cHRpb25FdmVyeXdoZXJlRFZUTFNDQS1HMS5jcnQw
+CQYDVR0TBAIwADCCAX8GCisGAQQB1nkCBAIEggFvBIIBawFpAHcA6D7Q2j71BjUy
+51covIlryQPTy9ERa+zraeF3fW0GvW4AAAF+lX/EigAABAMASDBGAiEA826bP3dA
+E704h9O0n8U5La+ec8Pb0zaQxwYfdimzMiMCIQDNAmWPCPCT8xzX9kL0LnwIxAEs
+EhO7nbb+LNf+EDEcIgB2ADXPGRu/sWxXvw+tTG1Cy7u2JyAmUeo/4SrvqAPDO9ZM
+AAABfpV/xKgAAAQDAEcwRQIgB2RyxeTg7/hJ5MO38N7cYT/sAhF8QiQv7Yd822d/
+RJICIQD7TPdfZzTVa4eKYsztp/8XMbJMSCi+ZQXcme7sZW6FqgB2ALNzdwfhhFD4
+Y4bWBancEQlKeS2xZwwLh9zwAw55NqWaAAABfpV/xNgAAAQDAEcwRQIgJLHAkWjj
+ubZ6vwDSYyXKBsxLhLv3T7ZUfH6ThnSKAcMCIQDda1tndPyfLU9Dx44/lywlzXeY
+geHU+pbmefx0xm6wKTANBgkqhkiG9w0BAQsFAAOCAQEAfhlfgDEITyT+AprMU5tp
+DZsVFGh9PSaFra9UB0zygfjf8TmO+10I3W1p0esbYIBjDKUkvQeYEfw6w0P+yAL+
+RF/5Ga8HUqmf9aQLYj06DPcqSE960UXCwFoyFoNXCamBZ+SPJ6c5ned+14PadyjY
+TBlG30GNZp6lE6Wc3/hDV8jc0cOBXmISteEgYED/DbaLH2LIu8mOBC35DxD5ZAYW
+YbMslku+O5tobf/qvTsVTwi3LhWiuLkibAjLJthg1/8cDcEEuSCpQ1VXTU7PHPEI
+SkLU1rCi6jihLaKLNd6ox9qBK6EKMl3YK9T40+KhgEBmkN1dQ4A4KJ+vz6TKuGMI
+2g==
+-----END CERTIFICATE-----
+subject=CN = docomnt.top
+
+issuer=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3300 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

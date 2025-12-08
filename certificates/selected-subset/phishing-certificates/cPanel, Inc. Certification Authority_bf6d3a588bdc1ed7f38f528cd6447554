@@ -1,0 +1,74 @@
+http://service-verifychas3ov.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = service-verifychas3ov.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG5DCCBcygAwIBAgIRAL9tOliL3B7X849SjNZEdVQwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA5MDQwMDAwMDBaFw0yMTEyMDMyMzU5
+NTlaMCQxIjAgBgNVBAMTGXNlcnZpY2UtdmVyaWZ5Y2hhczNvdi5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDQFCWQw9X/ZEFXtwD7ay/11kAPHDDN
++D6R+nSB0LufMfe45aZjBM64RUFlmaZaVy/d3ILsAOre9gEUzhZY6en96x5RWNz2
+P2+mNT9zXavrxjxUa/Vr+qfO8H/MNv/MaMxspGuC4cIHV/MqAlN/0skTNKd2e+FJ
+8cNm8yv/rgVxzmr8qj8IRKl9mp8dnqeq6PS6ipvHfcqoUlX8lazqcDpBiPTYWHoG
+8/fd9uJQAn5Xg+izLHabWa04eEydqbvFUlNNeKXA5h8MWVxQZokVjTbBN7K5ClMQ
+8/gBB77AzMHV3t6mNPQyXu6YNMuFUKMmSr+LiuyDdRwNPMyfzneYB4dvAgMBAAGj
+ggPBMIIDvTAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4E
+FgQUl75loxzsVC9F7zWZtNdgnObF5S8wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB
+/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAw
+NAYLKwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNv
+bS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29t
+b2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0G
+CCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5j
+b20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB1AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABe7F76ZIA
+AAQDAEYwRAIgcN7JhPZEs31V+S7en9Uf2r3I9K5kZsK7jUp/TdRJD1gCIDZ2R7tL
+wd2K9MJairq/CdlVjX6GepU8vT/XTTY2q+j7AHcARJRlLrDuzq/EQAfYqP4owNrm
+gr7YyzG1P9MzlrW2gagAAAF7sXvpVQAABAMASDBGAiEAjYRxHo8o1B2i/Bf19fHL
+V4emNraPkqtrR6+dRm5KFW8CIQDmVbmrgzJqRAEYLMxtiC4wvVd/BZxXY+v2gUzF
+JNUIKzCCARwGA1UdEQSCARMwggEPghlzZXJ2aWNlLXZlcmlmeWNoYXMzb3YuY29t
+giBjcGFuZWwuc2VydmljZS12ZXJpZnljaGFzM292LmNvbYIlY3BjYWxlbmRhcnMu
+c2VydmljZS12ZXJpZnljaGFzM292LmNvbYIkY3Bjb250YWN0cy5zZXJ2aWNlLXZl
+cmlmeWNoYXMzb3YuY29tgh5tYWlsLnNlcnZpY2UtdmVyaWZ5Y2hhczNvdi5jb22C
+IXdlYmRpc2suc2VydmljZS12ZXJpZnljaGFzM292LmNvbYIhd2VibWFpbC5zZXJ2
+aWNlLXZlcmlmeWNoYXMzb3YuY29tgh13d3cuc2VydmljZS12ZXJpZnljaGFzM292
+LmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAZjpms+mzlGsGZ+JhZpvNeLsAUfkFEOkY
+Q4Zw1+W7Ot5biEmjpDQM63NhSBSrSGzKx/7jTYtnj8D8h03h41wwzzmu5E4wnn2S
+VMP3nueUci3QTqjkaH39eOm7RnfuTBrzVAnWMoFyGmfT4M1aG1qmyF6dzRkuRw/D
+qQsA/Gtnvs6DpVCkMFaZuuD2+8SWj9BMfToYwraiYkV8fE0McF54wdqHhVzHOUhz
+HBUH9sBbwTROS9dYZfjeekM2/gnVOZrxp6S5r3LkHEg1f8rRRACEuOFiGlnttCzH
+uOf4QSBdq4dcH5korUkJhteb+dpC+MpYdw2nU59Hbtxxh/R8d1mE8g==
+-----END CERTIFICATE-----
+subject=CN = service-verifychas3ov.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5273 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

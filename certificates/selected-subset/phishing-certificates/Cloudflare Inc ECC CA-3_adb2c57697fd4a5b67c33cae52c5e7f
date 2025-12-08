@@ -1,0 +1,63 @@
+http://dhlmvp.webauthor.com/modules/portal
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:C = US, ST = California, L = San Francisco, O = "Cloudflare, Inc.", CN = webauthor.com
+   i:C = US, O = "Cloudflare, Inc.", CN = Cloudflare Inc ECC CA-3
+ 1 s:C = US, O = "Cloudflare, Inc.", CN = Cloudflare Inc ECC CA-3
+   i:C = IE, O = Baltimore, OU = CyberTrust, CN = Baltimore CyberTrust Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFGDCCBL6gAwIBAgIQCtssV2l/1KW2fDPK5SxefzAKBggqhkjOPQQDAjBKMQsw
+CQYDVQQGEwJVUzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEgMB4GA1UEAxMX
+Q2xvdWRmbGFyZSBJbmMgRUNDIENBLTMwHhcNMjEwNjAxMDAwMDAwWhcNMjIwNTMx
+MjM1OTU5WjBtMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQG
+A1UEBxMNU2FuIEZyYW5jaXNjbzEZMBcGA1UEChMQQ2xvdWRmbGFyZSwgSW5jLjEW
+MBQGA1UEAxMNd2ViYXV0aG9yLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IA
+BK+RzUu3vIqd2D0mOIuYi0WuZuA7McuYkfBm6MpRvFdq6sWj/uzvoY3CBlASqJQg
+NX7ygMRcoF+Fw3vx+J4AvV6jggNhMIIDXTAfBgNVHSMEGDAWgBSlzjfq67B1DpRn
+iLRF+tkkEIeWHzAdBgNVHQ4EFgQUWWLkjpXwk7UfX0JLV8bbRRtURqwwKQYDVR0R
+BCIwIIINd2ViYXV0aG9yLmNvbYIPKi53ZWJhdXRob3IuY29tMA4GA1UdDwEB/wQE
+AwIHgDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwewYDVR0fBHQwcjA3
+oDWgM4YxaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL0Nsb3VkZmxhcmVJbmNFQ0ND
+QS0zLmNybDA3oDWgM4YxaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0Nsb3VkZmxh
+cmVJbmNFQ0NDQS0zLmNybDA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUF
+BwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwdgYIKwYBBQUHAQEEajBo
+MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wQAYIKwYBBQUH
+MAKGNGh0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9DbG91ZGZsYXJlSW5jRUND
+Q0EtMy5jcnQwDAYDVR0TAQH/BAIwADCCAXwGCisGAQQB1nkCBAIEggFsBIIBaAFm
+AHUAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF5xckJwwAABAMA
+RjBEAiBWwgvMGzK8fYOyq/vJq2g2ahlN9JTLHjfmC6NALImzjwIgBGpvf0J1yTkt
++rww+RCU6ZNqIAIP+E/hLLGJFaS2RYoAdQAiRUUHWVUkVpY/oS/x922G4CMmY63A
+S39dxoNcbuIPAgAAAXnFyQofAAAEAwBGMEQCIFude/RjmKsP2D2QJ94Qy1coGeVM
+KsmdXmBNrdJFt6m9AiBltq+EHSyppWrPtSe2fm/ALYtf/3+50VKwPPrbXRBe+QB2
+AFGjsPX9AXmcVm24N3iPDKR6zBsny/eeiEKaDf7UiwXlAAABecXJCjsAAAQDAEcw
+RQIhAKbRz8F7bVr8teXIrYos9oaPwuE86nYlIBchTNuhbiKxAiB8BeHHb1+tjX4k
+3mAAL6EeRfH0dNtapvk0rgMsSljRaTAKBggqhkjOPQQDAgNIADBFAiEAi9YLMjfV
+/UPe7av57e2avaIun0y9ZR6Dtl1VSVfKTo8CIDARepKSMH621cY+FHH8Ua8JpqeT
+wbQKXdMx2LR3yZnk
+-----END CERTIFICATE-----
+subject=C = US, ST = California, L = San Francisco, O = "Cloudflare, Inc.", CN = webauthor.com
+
+issuer=C = US, O = "Cloudflare, Inc.", CN = Cloudflare Inc ECC CA-3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2599 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

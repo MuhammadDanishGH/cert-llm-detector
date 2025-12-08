@@ -1,0 +1,67 @@
+http://interesting-lederberg.104-168-46-185.plesk.page/b/da3ab
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = interesting-lederberg.104-168-46-185.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFmDCCBICgAwIBAgISA+DIwowz471Pso77bCXTJWSaMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMTAxMjEzMDlaFw0yMjAxMDgxMjEzMDhaMDoxODA2BgNVBAMT
+L2ludGVyZXN0aW5nLWxlZGVyYmVyZy4xMDQtMTY4LTQ2LTE4NS5wbGVzay5wYWdl
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2pY+2sshZOiEnDNcbBMK
+CEjlFA5dqqQk5l/Jhhh3hCfjcM/y8VhPkoPwtR7BEq7L1rdDQOar9AB7U/2SPCuF
+JfF3qSeBeq/yj4nRWV7czhzxV8p0PS7Q/Os75Hru+oMGXRd3lPtwyMRlRdDCkGQe
+musadt2qijagds+ff1xUfIFWTb5MTAPsEQANnihwxFrA+pqXjbmAkhlmQDHMiCzy
+I+X1aliSDozgjX5+KLrsgXrmXiCd+ROBVg//Wk5zZXvXM//LvIG5CEMUEYJ1SXQB
+VBeB1hFzG0bv+FpRRRFBXNbvC9xZf8BQyth81oo62tEq2lMpsDITs0Qd1RHI6694
+CwIDAQABo4ICnjCCApowDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBR59609Y2LIhzCL
+1ovGT0iZGHE74zAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggr
+BgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAi
+BggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzBvBgNVHREEaDBmgi9p
+bnRlcmVzdGluZy1sZWRlcmJlcmcuMTA0LTE2OC00Ni0xODUucGxlc2sucGFnZYIz
+d3d3LmludGVyZXN0aW5nLWxlZGVyYmVyZy4xMDQtMTY4LTQ2LTE4NS5wbGVzay5w
+YWdlMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYB
+BQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIE
+AgSB9ASB8QDvAHYA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF8
+alXyHgAABAMARzBFAiEAhNh6rkPwGBkrboBgsLjZXZE7pAmdzKGjHwtUoBnPyUgC
+IGlWVRF323+MjY0w7R31/oR5JmijeCAmBGPYCQrpNyFOAHUARqVV63X6kSAwtaKJ
+afTzfREsQXS+/Um4havy/HD+bUcAAAF8alX0OgAABAMARjBEAiA5v9+U6VclpgZq
+F579WQonnSG6vcKABf37/BR6BkPEHAIgVb6UMiaLMfjbwRqBqZgfek+Z4G6zsI23
+2Y/ZpVaU8AUwDQYJKoZIhvcNAQELBQADggEBAApAlLaV1nUO5jMrWPmQ/ctclYB7
+iuFuuSP1Q47kjvheNWdxyPMjUyGpmPOrqp0gJJgv1d4NV6e60xQrhoi11ZhBVIX6
+xdxFtwb5JHpKiFcxljJYSA1h6y4OE1riu21tUXkQzRZNEksGMDRrMMvcLGIDKiSa
+50X937tB3EdQj5vtgwx2AJ7wLhbHj05ii7A/XWe8c6qOQi2FguNLq/GuKfwB2171
+9mxOPIjv3RhLhCSHV8frmPA6nORMoauYM/RY2O50QNt5XOQRL8NJKtuF0IXqfpr5
+3VtwvxasWRC0lfQP0DFNTmgcxoaw14m4sZVuOibmLGeMKNfo+4B0HaGLaxM=
+-----END CERTIFICATE-----
+subject=CN = interesting-lederberg.104-168-46-185.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4692 bytes and written 421 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

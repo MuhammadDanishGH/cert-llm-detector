@@ -2,7 +2,7 @@
 certificates/benign-certificates/
 certificates/phishing-certificates/
 certificates.zip
-certificates/selected-subset/
+# certificates/selected-subset/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

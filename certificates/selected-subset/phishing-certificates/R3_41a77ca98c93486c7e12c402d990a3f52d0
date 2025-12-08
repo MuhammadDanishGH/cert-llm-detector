@@ -1,0 +1,61 @@
+http://www.n4remvh.cn/I1VDHLpr/dbs-wa/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.n4remvh.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEXzCCA0egAwIBAgISBBp3ypjJNIbH4SxALZkKP1LQMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MzAwNDIxMDZaFw0yMTEyMjkwNDIxMDVaMBcxFTATBgNVBAMM
+DCoubjRyZW12aC5jbjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABM1VYH0NB9fO
+iTnS6wD+TfNkGa/HBDhi+YOKQvB0+8BFzTuRkjK6NWFO8KMWoV9I9FddGpIr2373
+hx7aOoYLP7mjggJTMIICTzAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFOFjM69fdj0N
+7wCrj8cLxUd2BAlLMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUG
+CCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3Jn
+MCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMCMGA1UdEQQcMBqC
+DCoubjRyZW12aC5jboIKbjRyZW12aC5jbjBMBgNVHSAERTBDMAgGBmeBDAECATA3
+BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNy
+eXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AESUZS6w7s6vxEAH2Kj+
+KMDa5oK+2MsxtT/TM5a1toGoAAABfDUmLTEAAAQDAEcwRQIhAOhzX/NIsZmWP91g
+KJjCvPDgUGZ5OVFI+JC+5Qs1VbHIAiABHzxwk+fVe/0dv7mpt+8wRe2+QJQXyEHG
+GnReXyGD4gB2APZclC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTjAAABfDUm
+LRUAAAQDAEcwRQIgWmOVw/gb0NVcvvK+yhWhpucwMAYwqUD/Cmo+/JpG3FMCIQCZ
+zB4RAlg8/2KCUYX0+Z3JAAeme6aR/JOy1pFbcQVE5DANBgkqhkiG9w0BAQsFAAOC
+AQEAX+rU/bWWLwJ5VnLx9D8RUAsA2paUG6ZwJiUPwzmCUZYQwIuCGmBDQCcMyxWi
+zVa2x27NaK7JlhlkjgEuvdy8AZiePHuY8NYtuvMXVpiD2CZUpZA0XWQHlQqvaJGo
+n2MBqXmdBgND5FtgRuEHaelBs5nt0QXiaKk8JILI7EScm1Sh7qir6opxtLIPnmrB
+EZRzYRIvAaCiAAjd7jGZ+axmbNeU8EPWiz5n0W7htF8QPLpgHWOVXjrwUOxxu9vp
+dlJFElFb7zO9kcbsgab10aciKFGiKH4AJ8Riy9Vh1XGXjFsd+GQJ3z3qVIElqyVP
+Xw2GACV9XNemak1/utBYQaHXaQ==
+-----END CERTIFICATE-----
+subject=CN = *.n4remvh.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4127 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

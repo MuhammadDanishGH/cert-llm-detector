@@ -1,0 +1,75 @@
+https://ceciliacarnerofitness.com/mioonos/public/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ceciliacarnerofitness.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHCjCCBfKgAwIBAgIQZtT58Lcxr3nG04lFRERvvTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDgxOTAwMDAwMFoXDTIxMTExNzIzNTk1
+OVowJDEiMCAGA1UEAxMZY2VjaWxpYWNhcm5lcm9maXRuZXNzLmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAKdFJCDB7Lj4PmoTE130huIImg27VlFn
+RhMuSDPxzm27odezkLUGc1xty1QLfKQoufzVPB+KDe69MBejXqQ9jZVeRHqtfDTi
+yi8bZRddKOhH8ZiuQaXrl6nDuTQkEujMb809U3BeXaGKe3gyCnNwHGpFe3FkUdld
+KJDh+wirKoY/oH60Zh4mq5RAU8tjagCueYLy3tpXod3gcZ3TABw5NAIBW+SWOzhE
+53fES57WO4inB0pdaKlDN/xy2jztdkj05w/xaP29yVg449qomF0MaAx6H9rvBSUx
+IMW7h4j1kpuz8NolvmEb1aLLK1ULFhEgn74Rm8T31gw0vS/9Mk8bKR8CAwEAAaOC
+A+gwggPkMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQW
+BBT1JgoheYwv61HhQoLgpWOXM+3eeDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/
+BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0
+BgsrBgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29t
+L0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21v
+ZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYI
+KwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNv
+bS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcw
+AYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBAwYKKwYBBAHWeQIEAgSB9ASB
+8QDvAHYAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7XVld9wAA
+BAMARzBFAiEA/iibMVRSNnNw00rKlnup+6A4pNVEf6+ZTXuKURl6eLICIGZk8vfh
+fr/bPSm/HCgyIJXbqhhH8uKrWPiUwhSkgK86AHUARJRlLrDuzq/EQAfYqP4owNrm
+gr7YyzG1P9MzlrW2gagAAAF7XVldvwAABAMARjBEAiAYt4wjCf3mtQ1D+RmSwhGV
+xm4W+itb0jHo7RbP7mC9+wIgLzrLKW5zAD2LGLZ5UBnF5WWLrs42+4NlLFvkOJIC
+l0YwggFEBgNVHREEggE7MIIBN4IZY2VjaWxpYWNhcm5lcm9maXRuZXNzLmNvbYIm
+YXV0b2Rpc2NvdmVyLmNlY2lsaWFjYXJuZXJvZml0bmVzcy5jb22CIGNwYW5lbC5j
+ZWNpbGlhY2FybmVyb2ZpdG5lc3MuY29tgiVjcGNhbGVuZGFycy5jZWNpbGlhY2Fy
+bmVyb2ZpdG5lc3MuY29tgiRjcGNvbnRhY3RzLmNlY2lsaWFjYXJuZXJvZml0bmVz
+cy5jb22CHm1haWwuY2VjaWxpYWNhcm5lcm9maXRuZXNzLmNvbYIhd2ViZGlzay5j
+ZWNpbGlhY2FybmVyb2ZpdG5lc3MuY29tgiF3ZWJtYWlsLmNlY2lsaWFjYXJuZXJv
+Zml0bmVzcy5jb22CHXd3dy5jZWNpbGlhY2FybmVyb2ZpdG5lc3MuY29tMA0GCSqG
+SIb3DQEBCwUAA4IBAQA8fZPep2w4mj3bSjMrId+wPyeWMGNOqa2zsFVwC1WZtnLc
+9YAhM02jWCLJXQdZ3UGcq/r+JbUy7k1XTRC7DdTONoNcWd7GFTaQozCvynF6J+mZ
+Veqad0/+dHUqoU9VfqVzgVuKmqWnv+wrsbOtjq/6Q0Cl397nj5htzBWhAR4tMyOZ
+w2n3Qm9/UHl5DtzKjiwtI4YrcwH8Szz9RPwTi9Xy9Gwaldyxdd4+vMl4dMsvFhvG
+c4AmVDNVGKTop79ZB6JyrYoZgk/jru4YkfB5WDxgMfeH/q6kayA08QfJZrnhKtf2
+YmXTaH7k3UonfSLMWQtTmqNW2DPfVRT4tHICwmFs
+-----END CERTIFICATE-----
+subject=CN = ceciliacarnerofitness.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5311 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

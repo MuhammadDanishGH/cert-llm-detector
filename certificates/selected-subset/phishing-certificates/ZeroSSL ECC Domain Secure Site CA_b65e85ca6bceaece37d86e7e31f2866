@@ -1,0 +1,87 @@
+https://pl-inpost.23657.space/proccess1637554288370108
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = pl-inpost.23657.space
+   i:C = AT, O = ZeroSSL, CN = ZeroSSL ECC Domain Secure Site CA
+ 1 s:C = AT, O = ZeroSSL, CN = ZeroSSL ECC Domain Secure Site CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust ECC Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust ECC Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEKTCCA66gAwIBAgIQC2XoXKa86uzjfYbn4x8oZjAKBggqhkjOPQQDAzBLMQsw
+CQYDVQQGEwJBVDEQMA4GA1UEChMHWmVyb1NTTDEqMCgGA1UEAxMhWmVyb1NTTCBF
+Q0MgRG9tYWluIFNlY3VyZSBTaXRlIENBMB4XDTIxMTEyMjAwMDAwMFoXDTIyMDIy
+MDIzNTk1OVowIDEeMBwGA1UEAxMVcGwtaW5wb3N0LjIzNjU3LnNwYWNlMHYwEAYH
+KoZIzj0CAQYFK4EEACIDYgAEZWzcTg7Aeh4PSdgEA1scYwkU0PL5h9Yqw0F3Gw+V
+4D7TKLU9YodwwYC/Mv9jMUy474qg+4s9BlEAXrd31QI02p+WmC1AUWJUCqyocl78
+YIHAqXoBJyPURnLHaiszjzRRo4ICgDCCAnwwHwYDVR0jBBgwFoAUD2vmS845R672
+fpAeefAwkZLIX6MwHQYDVR0OBBYEFDFf82cFtwzGJEr97f43ye4qCgK5MA4GA1Ud
+DwEB/wQEAwIHgDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgJOMCUwIwYIKwYBBQUHAgEW
+F2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBiAYIKwYBBQUHAQEE
+fDB6MEsGCCsGAQUFBzAChj9odHRwOi8vemVyb3NzbC5jcnQuc2VjdGlnby5jb20v
+WmVyb1NTTEVDQ0RvbWFpblNlY3VyZVNpdGVDQS5jcnQwKwYIKwYBBQUHMAGGH2h0
+dHA6Ly96ZXJvc3NsLm9jc3Auc2VjdGlnby5jb20wggEDBgorBgEEAdZ5AgQCBIH0
+BIHxAO8AdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX1F6+Q7
+AAAEAwBHMEUCIQChcOrAdZnppRT2c5fxBIbhzcI+UUfWYDjgEk/jsGSlmAIgIqWf
+ytyOcHbe5CEs4GSIMbF+2S1RMilNj/uIj7srtwAAdQBByMqx3yJGShDGoToJQode
+TjGLGwPr60vHaPCQYpYG9gAAAX1F6+Q0AAAEAwBGMEQCIBq5ObGo+W9+LUJSNOPL
+hsjompoVqFy3a8Uc3GSMmfjvAiBfBXS/yAyrRcjqwUxcUXQofdTOv6JLMwUt3H00
+xB5ayzAgBgNVHREEGTAXghVwbC1pbnBvc3QuMjM2NTcuc3BhY2UwCgYIKoZIzj0E
+AwMDaQAwZgIxAMu270GpnuDIlWeyY5cdwozuawEX/+XTDJpawZ9sOaXpxgznr9BD
+1aof3eToZuluagIxAORnuzaR11ZXrWxufH3lO36HCbLAa8hn+jiF+cNtE5FsA8ya
+O4+blIlhj7VrJOuwCw==
+-----END CERTIFICATE-----
+subject=CN = pl-inpost.23657.space
+
+issuer=C = AT, O = ZeroSSL, CN = ZeroSSL ECC Domain Secure Site CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3486 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-ECDSA-AES256-GCM-SHA384
+Server public key is 384 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-ECDSA-AES256-GCM-SHA384
+    Session-ID: 89285B7B1FBE129D118EE7450D0B3C229F0995BC9A4740B1C1870ECBC9E4B8D0
+    Session-ID-ctx: 
+    Master-Key: 0037449613D2F8C16996484BEC4AF3E57869E03613895D3B02292790AE3C4F25B0A0A21EB9D9D470F6879743C79C7C72
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 04 4e a6 57 a4 f3 93 6e-39 d7 e3 c7 64 29 6e 90   .N.W...n9...d)n.
+    0010 - 56 39 ac 3e f2 a2 86 94-b7 92 f4 99 24 81 c8 10   V9.>........$...
+    0020 - d7 09 67 79 92 2c 72 67-9e a7 5a 9d 8a 13 c5 06   ..gy.,rg..Z.....
+    0030 - 09 0b bb d9 3a 2a bb 91-69 a4 88 ea 47 cd 25 d4   ....:*..i...G.%.
+    0040 - 3f bb 73 33 57 a8 e2 a7-3c ab 76 40 57 95 00 f6   ?.s3W...<.v@W...
+    0050 - 16 38 cc 64 59 65 52 ff-c7 f9 bf 88 be 88 42 59   .8.dYeR.......BY
+    0060 - fb 40 f9 32 3d 1c b6 d9-f3 2e f3 13 e2 09 07 e9   .@.2=...........
+    0070 - b2 56 30 61 b7 fc f2 84-9d 36 d5 b0 ab 78 87 00   .V0a.....6...x..
+    0080 - a3 5c e3 ab 6c d4 58 14-91 d4 55 b8 d9 df 10 a6   .\..l.X...U.....
+    0090 - f6 b8 90 6c bf 2b 85 07-de 41 95 c8 cf 67 17 25   ...l.+...A...g.%
+    00a0 - bf c5 9d f2 bf 13 36 5f-9c 6c 30 d4 aa 7c 61 56   ......6_.l0..|aV
+    00b0 - 2e ff 25 91 54 76 8d b5-00 6d 0c 7e a0 3b a3 2c   ..%.Tv...m.~.;.,
+    00c0 - ae bf e1 1e e9 2b f7 72-8c 58 86 13 13 eb d4 90   .....+.r.X......
+
+    Start Time: 1637559306
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

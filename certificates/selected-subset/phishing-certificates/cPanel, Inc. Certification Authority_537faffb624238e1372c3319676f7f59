@@ -1,0 +1,74 @@
+http://xvideojordihot.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = xvideojordihot.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG7DCCBdSgAwIBAgIQU3+v+2JCOOE3LDMZZ29/WTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDkyNjAwMDAwMFoXDTIxMTIyNTIzNTk1
+OVowJTEjMCEGA1UEAxMaeHZpZGVvam9yZGlob3QuZHVja2Rucy5vcmcwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDoGkztu3yEjiIuN29eUlzo25SNg0qq
+0kAbumtuHZWAd9NvWIEWbYWIhi0zJAgTn17J/QunZ6qAdeVGrR1fjV8VXfJBUELd
+LKQ5iRLx2Ub86Gp0QLc1ELU3nNDylwywN5l2dbfbaMn23JKKfCJcXCvGBTo9mlBu
+ITzFUXYgXS4OzBhihyvpj4o9Leo1e35HePMnzG0KeZOvcdC53PcgTwBDkYyomQXl
+muhd7wY44mwZ5VvWvFWEPtF2De5S6K2ihF1xQBPQ1ZprfErAJH6ZfWw21CZywTpi
+yeClyTxVudENOmNUd/tK6XDpb+FPAVNGbVBbNCBs9mATW9hRf70n+YgBAgMBAAGj
+ggPJMIIDxTAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4E
+FgQUiTF2fQP07RG3+myj2DkR5pND6B0wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB
+/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAw
+NAYLKwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNv
+bS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29t
+b2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0G
+CCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5j
+b20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB2AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABfCDGP48A
+AAQDAEcwRQIhANWRM/Vn+LTH77Jg5zQqE7lpN7gxfqoiTqz0xQo6VDWsAiBRCX8a
+DmxX0mrte2BaMcNQHeAFAiO5m192yuld65oCZgB2AESUZS6w7s6vxEAH2Kj+KMDa
+5oK+2MsxtT/TM5a1toGoAAABfCDGP2MAAAQDAEcwRQIhALJgRz5+ySddW5/b/+cU
+rTXq3frrcxEv1revLUltV5mfAiBFZAMebdgitK2DCDD8GLst5YIbs66AiEEsZP0p
+mXI0bjCCASQGA1UdEQSCARswggEXghp4dmlkZW9qb3JkaWhvdC5kdWNrZG5zLm9y
+Z4IhY3BhbmVsLnh2aWRlb2pvcmRpaG90LmR1Y2tkbnMub3JngiZjcGNhbGVuZGFy
+cy54dmlkZW9qb3JkaWhvdC5kdWNrZG5zLm9yZ4IlY3Bjb250YWN0cy54dmlkZW9q
+b3JkaWhvdC5kdWNrZG5zLm9yZ4IfbWFpbC54dmlkZW9qb3JkaWhvdC5kdWNrZG5z
+Lm9yZ4Iid2ViZGlzay54dmlkZW9qb3JkaWhvdC5kdWNrZG5zLm9yZ4Iid2VibWFp
+bC54dmlkZW9qb3JkaWhvdC5kdWNrZG5zLm9yZ4Ied3d3Lnh2aWRlb2pvcmRpaG90
+LmR1Y2tkbnMub3JnMA0GCSqGSIb3DQEBCwUAA4IBAQBO6oir+BM3jxazlMbadqEC
+3iVAiT/+rG8uskiezq3DM/TWHRSZaRc6Y2b/ulw4aBb3x72w34sM9+DVVw70HzVJ
+Y8OW3eQqak9oOZasR5+kiYV1dtVVwT0s8y3Ab3iVFswp8s3ORkDHGUaBNilqq5N3
+MIhS3+ExZdXDnkPwdebG+K6IddO3JyzzWq+A79c1Zb2rtlT5wA4nGmkBO1x0siZl
+gaxI07+iYJCxbTPOqtwwxvbYbkkSR4ZN9nJPDTa6Q49urNDTvQvE+PoYtkS5G+Jm
+lStl87po9wfy06JBEoz6vHYrNL5xqIDKQ5paxpdpVzASktkYsFscRdJSiCAanZm2
+-----END CERTIFICATE-----
+subject=CN = xvideojordihot.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5211 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

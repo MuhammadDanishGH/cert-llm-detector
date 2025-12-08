@@ -1,0 +1,72 @@
+http://eagle-freightways.com/css/logs/secure/login.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = eagle-freightways.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGfjCCBWagAwIBAgIRAKDsF04MmiMUCkLtXXMPXcAwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0xOTA2MjEwMDAwMDBaFw0xOTA5MTkyMzU5
+NTlaMCAxHjAcBgNVBAMTFWVhZ2xlLWZyZWlnaHR3YXlzLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAJ2niiUTzhA/9Tt8pGihaQwWyPMUYxek7fBn
+NQCroONHb2G3L3ZivQ+Fhi7k4C6kG6otXKW3X0ZTeApMYzqFGtofv2KwlyIhnW4F
+ngksBoUM5fx0CUMxsYonQyV5l9QKG40bWyPjbkrvy/CdSLkHhev53AQiwXoMRIJj
+GyS+DXbnqvxEy5+HRXcsG414+wCO0CE4iwL5g/HDHsGpZkVNkuevI58a0py2J3zc
+dFJvWCOJyj5DSyOm3Dwgzk8IWAhVzWc3M5OPyFi0UMJUzOeLr+qIcyXHYZGOKnrp
+n2/CjJDhJY0N+TaYOm94oJ5e3115gt4AWZXBlqsG+U+LGV0Zv9kCAwEAAaOCA18w
+ggNbMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBSo
+GyORqSo3XihC6Eo8reGWQSKkmzAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIw
+ADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwTwYDVR0gBEgwRjA6Bgsr
+BgEEAbIxAQICNDArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8u
+Y29tL0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5j
+b21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmww
+fQYIKwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2Nh
+LmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEF
+BQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMIG1BgNVHREEga0wgaqCFWVh
+Z2xlLWZyZWlnaHR3YXlzLmNvbYIcY3BhbmVsLmVhZ2xlLWZyZWlnaHR3YXlzLmNv
+bYIabWFpbC5lYWdsZS1mcmVpZ2h0d2F5cy5jb22CHXdlYmRpc2suZWFnbGUtZnJl
+aWdodHdheXMuY29tgh13ZWJtYWlsLmVhZ2xlLWZyZWlnaHR3YXlzLmNvbYIZd3d3
+LmVhZ2xlLWZyZWlnaHR3YXlzLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2
+ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaOHtGFAAABa3vUuoQAAAQDAEcw
+RQIgQvPyQVd/bLb8nuVIowdd/z4tYI5lg+kFwif8SkpPcFMCIQDLHKCBGkjfEz3t
+o/V2lZqwaLfjPO8QF/RP14g31IteeQB2AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAI
+xjc1eeYQe8xWAAABa3vUuqgAAAQDAEcwRQIhAMau3JuIafn8cLNkBT/SNbYvWnxI
+wphIdHDdFBl9rz9EAiACZd0N3o/23z70AmUisoU+5ImEhFOM7LG8p79zSAWkkjAN
+BgkqhkiG9w0BAQsFAAOCAQEAWjA92T3CfJ1inTre0eTElu6sWiu44fu83z1pMb+N
+1vdztZZlNzX5OLdqHJ2mp0jQYE6nC3OhvHsYu8JjyC7wJ0rSJcNX6fhIs7XUC/Rs
+pLwjH/+efFF2dFg11Vg/aVuYimGtoHEHBSIx3yP778+UNSeWusmNZZOTAmYNB7Cx
+i6Mqi9jytnD+HBLZclFVBGTfQiQkCbiHAXuRiM4vDT5WWCpsZl6UAYFHV2uloCCE
+Oqaoks+5qkmV+JhKK2MDwVUUajehoJ6/BkzC6PElsCiLr2rzntkwv3pwmYrW9J5L
+ZrXugOuxeLgo/1tll+0/Fm9uIfUnV8ZjdpSfjvzMndXhKQ==
+-----END CERTIFICATE-----
+subject=CN = eagle-freightways.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5091 bytes and written 413 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

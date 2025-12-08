@@ -1,0 +1,76 @@
+http://mcccibizdirectory.mw/support/dsp2/e78621396dcdecf/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.mcccibizdirectory.mw
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHhzCCBm+gAwIBAgISBKq7QXzqLvAqnr3C+ucFFg5WMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMDIyMzMwMDhaFw0yMjA1MDMyMzMwMDdaMCExHzAdBgNVBAMM
+FioubWNjY2liaXpkaXJlY3RvcnkubXcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDXIh62FtvPfi5vt7zKqpYbFBfHzeZgP4U/1ohwRuRKHijWXzlk6khR
+NEjAFG7PsZRJHZdXovfhTUV80vw1Tqlycp7S93zG5hZ4mp0Stm3r1296bGEPYv5J
+lT0pXbsOzYeSaBh+0qXYNyWxGRvyvRGgCvmYQdGztTkru7y9oLoin+eMzrFiCJHm
+/fVFd5z2Y94PEKityPU0A31civ3FG+4/aMgoqdv5r45AGI5t2cVFg1OO8lfZivnM
+jWXifMdOF8NnNSILENfdp+1BdQMq9ZkNHXmIzOldwVd/27WYmt1H6439BBgGFEz+
+XKbeC2U1X/FvLG3ovELaDw4ZjIrnv8c9AgMBAAGjggSmMIIEojAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFErTrZta/6whG8h6zZwj6FedrQM3MB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMIICcgYDVR0RBIICaTCCAmWCDyouY2l0eXlhbmdhLmNvbYITKi5j
+b20uY2l0eXlhbmdhLmNvbYIOKi5jb21hYnJhcy5jb22CDSoubGlua3Ntdy5jb22C
+FioubWNjY2liaXpkaXJlY3RvcnkubXeCDWNpdHl5YW5nYS5jb22CDGNvbWFicmFz
+LmNvbYILbGlua3Ntdy5jb22CFG1jY2NpYml6ZGlyZWN0b3J5Lm13ghp3d3cuY29t
+YWJyYXMuY2l0eXlhbmdhLmNvbYIhd3d3LmNvcnBvcmF0ZW13LmNvbS5jaXR5eWFu
+Z2EuY29tgiB3d3cuZWxlY3Ryb3dvcmxkbXcuY2l0eXlhbmdhLmNvbYIbd3d3LmZp
+bmRlZHVtdy5jaXR5eWFuZ2EuY29tghl3d3cubGlua3Ntdy5jaXR5eWFuZ2EuY29t
+giF3d3cubWFkYWFuZGZsb3JlbmNlLmNpdHl5YW5nYS5jb22CI3d3dy5tY2NjaWJp
+emRpcmVjdG9yeS5jaXR5eWFuZ2EuY29tghh3d3cucGhhc29tLmNpdHl5YW5nYS5j
+b22CHXd3dy5zYXZlYWxpZmVtdy5jaXR5eWFuZ2EuY29tgh93d3cudGFrdWxhbmRp
+cmFuaS5jaXR5eWFuZ2EuY29tghl3d3cudGVuZ2FuaS5jaXR5eWFuZ2EuY29tgid3
+d3cudGhla2Fuc2ljaGlmYW1pbHl0cmVlLmNpdHl5YW5nYS5jb22CIHd3dy50aGVt
+ZXNzZW5nZXJtdy5jaXR5eWFuZ2EuY29tgiV3d3cudG51a3RydWNrc25jYXJzLmNv
+bS5jaXR5eWFuZ2EuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+BgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcARqVV63X6kSAwtaKJafTzfREsQXS+/Um4
+havy/HD+bUcAAAF+vP0TlQAABAMASDBGAiEA6IMCVHtTEhM4sR0i+n+njsKGOWiT
+lEd9q6vlQ+x1GjYCIQCPqIVtKApLZFUbwqu3sxmndb8fmAImPncKmOf3KX8KzAB3
+AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfrz9FW8AAAQDAEgw
+RgIhAKSffaWftT2M7hR8mat2CikbYT26KqeUFRY6IRUbgyjmAiEAnPXPxOJKAHvi
+L2/QRphxE8HeDdyd+H/IfA174LXO5FIwDQYJKoZIhvcNAQELBQADggEBAC3PeDxg
+RthGVC2FD6NGx5XAHny/zRZdtjQTWK0K3/ub976BzXrvrtwdMr5grNvKhD+5Waz1
+33pYNbhIeLhSfD8n2xIM6E4btXpAYk7d3u3GWhlo22uAg6mPspWE7INH7uNZEHsd
+2CX8tHdKpLtc3waZyh3QIr1IjPCOMaqAbra26AzKimum1PwqyMdCrLXIbYrqKXJP
+iZ9aIU3XprRf3Kvuo1V+LsVBw5e3Ne4tzfACcEr8KF7W41icwVlnVh0HzlvGmhe1
+YCdU3rhL9ltQXOpaSiVYxeEbVWZf1pacuuiE/lPvnqiuJhGgs/JWYhrdGtoD7nrA
+jYtgKzhx4jdngx4=
+-----END CERTIFICATE-----
+subject=CN = *.mcccibizdirectory.mw
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3802 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

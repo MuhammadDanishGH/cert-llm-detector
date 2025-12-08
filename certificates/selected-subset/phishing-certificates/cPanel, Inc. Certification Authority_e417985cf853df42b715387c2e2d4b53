@@ -1,0 +1,72 @@
+https://gastroutes.com/chss.imc/pnnc.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = gastroutes.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGfjCCBWagAwIBAgIRAOQXmFz4U99CtxU4fC4tS1MwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTExMDIwMDAwMDBaFw0yMjAxMzEyMzU5
+NTlaMBkxFzAVBgNVBAMTDmdhc3Ryb3V0ZXMuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA3DuJ0+NUUcSC/a4ygMFGmkg16/FyNkqCOa5NLkG/VNBX
+8wO57elTREh1uVctnQ4cV7nA1oIvk9gjz+2HW0hpys930jYIUo8zwGgzUcdNEaR2
+0fsQ9yUyDThjV4zvhVT4TSDXqvHrud+yiHe5an+imafv6P6TorUfKTHGBbQR/cyp
+nB6WCb5wNmMLKiD80Ly3mvO1BpTXwcMjZpmSLeRksVj1ZnFxLlvfZdiqe7b5LpNb
+bEZPdi5rRd03X+UHLuOgyInHkzwWiaVevUmP+WCHZAM5rNY/o8b8YVYa3CCB/e7r
+axLjN9nqLQVgLgLcTw7wcbB3i5kfIkz54BnB+e0uVwIDAQABo4IDZjCCA2IwHwYD
+VR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFG9yjDZjCwSU
+mmmBAIlq+XgMalNUMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEB
+AgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeB
+DAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRx
+MG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbElu
+Y0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8v
+b2NzcC5jb21vZG9jYS5jb20wggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBGpVXr
+dfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXzizS8OAAAEAwBHMEUCIQDs
+y/P0zrJrB+Iy604Q681bBs1JWAjcjt+ME97ZW4geXwIgZSUZ7G85afo+L1l4MQgA
+Ivys90j3QRnA4df3wgkRfqQAdgBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQ
+YpYG9gAAAXzizS7KAAAEAwBHMEUCIQD1PIstmPMa2Fy10vfvsTkHcmGRUJ1mVLrR
+nsBI63LFSgIgJgGDszFs6HvE6b9Hk35k6F4sybKcQWTn7sMazzovSN0wgcIGA1Ud
+EQSBujCBt4IOZ2FzdHJvdXRlcy5jb22CFWNwYW5lbC5nYXN0cm91dGVzLmNvbYIa
+Y3BjYWxlbmRhcnMuZ2FzdHJvdXRlcy5jb22CGWNwY29udGFjdHMuZ2FzdHJvdXRl
+cy5jb22CE21haWwuZ2FzdHJvdXRlcy5jb22CFndlYmRpc2suZ2FzdHJvdXRlcy5j
+b22CFndlYm1haWwuZ2FzdHJvdXRlcy5jb22CEnd3dy5nYXN0cm91dGVzLmNvbTAN
+BgkqhkiG9w0BAQsFAAOCAQEADnG7OuLyZpHCfps8N/Ahp+WoX7ic0RRb5RBaphFZ
+b58CQkInhUu5hfrBnXqWehuB008UQdzVE1BBZrizQl4MwdRR4lz4NCUGKvlGrCfW
+Q49OEcXXiiumsNHh5Egyq6SzZEpXLwS44uiHx8drjsLAa0zIhgAmrq7K8r00tsGp
+g6bKmNQBZRXune/LIvCJ17TwFlJQH+9StuBE+elaOO7TS+BKxuFYe2tAev8EJ/Jp
+mFseAQqVF8d89sv+08CcJF3ZKyVJQ7opMeBDQp8Th8Cb3QLu6xXzyPz2gsRqDp4h
+jU3WDtRyAk68iNWEfiEdd3k5Om/ghjsTXeR+IrtJPmuoOA==
+-----END CERTIFICATE-----
+subject=CN = gastroutes.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5171 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,66 @@
+https://tinytreasuresbytori.com/login/chase/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = tinytreasuresbytori.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUTCCBDmgAwIBAgISA3F/BxGnzL7thystl8qs4Tz+MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjMwNDAzNTRaFw0yMjA0MjMwNDAzNTNaMCIxIDAeBgNVBAMT
+F3Rpbnl0cmVhc3VyZXNieXRvcmkuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAxFAorB6dmE6jieOiMwf1yTemE93mxA2A0ZQHaaYO842WAe3WYXxl
+ETNkiMGJgQYc1Nexvo8FeieAXWueH9FURVA73IrN2w0jjPsw/tE88BUrUZEary3O
+s0Qn4Z/Ipq0/cnlJqhnoY30qJLaT52T5O5zT08DyuAzTXXVhH/nRzlZpZwUswOtK
+0dP3lnSffGq4XBO+SrSeCLRds6EusLjhZWl8RQxjn/TKjCGsjxB0U/etc7UdW9mC
+Itra5F+uwjTxZR5hoSekPJkKOdEOIN13j3zZndlCYbNYXuvYVdLp8J+Fc/t3m34S
+2kUbN5o6paflyaxfhcKfn+2zJR+avfCRTQIDAQABo4ICbzCCAmswDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8E
+AjAAMB0GA1UdDgQWBBTAcJAG4pkZ9BOTNTlpwBG5pHcjkTAfBgNVHSMEGDAWgBQU
+LrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGG
+FWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmku
+bGVuY3Iub3JnLzA9BgNVHREENjA0ghkqLnRpbnl0cmVhc3VyZXNieXRvcmkuY29t
+ghd0aW55dHJlYXN1cmVzYnl0b3JpLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3
+BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNy
+eXB0Lm9yZzCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AN+lXqtogk8fbK3uuF9O
+PlrqzaISpGpejjsSwCBEXCpzAAABfoVRwhwAAAQDAEgwRgIhANTl+TtnyXiPHvSF
+/CEYamc4PWiuuh2kPq4v79hd7GoaAiEA3GlBRYQ+79OJrG0Kb0gh9YUIZH7k42WP
+yBQH/GDBfsMAdwBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX6F
+UcJUAAAEAwBIMEYCIQDYYgMnXdR3UWO8AIcxgq4jQL+9gLNNUnUDPjHMXk81DgIh
+ANENpNzpz/lYDpNS9RfLHFPhSgKGN+Ke8EvAREVK30+AMA0GCSqGSIb3DQEBCwUA
+A4IBAQASmD1S0EF3uEbNcSI1xErXD/dlCHRutt+jajFrQqWQsEVqj68SzKbCepm4
+rCXwrZUm2KhrQRdP9UBlmdJOQM2xOlpMrIq+x6nSYawLUK7jVb6QyTjywNrAI0st
+UW+YCdpKCUGUe7q2LfrAryNs/Ruca2UeYdz/QhhSzw7Jw+5AIbvtSwG47FicGLeH
+/wbtd3KyLCTFCRkY4gK/3Yi0dKDyGdAaxGObuc0fL9KdRSqS3S6A7U6L52ahEzPS
+PockYk/U7pjClVEAjr7mHyS9RYQHPnWqTCaMEsPE06vNm31imDJvoGpcGV0I1Fh8
+LWfDbRQLHUQZmOrdyht3StPjMSi5
+-----END CERTIFICATE-----
+subject=CN = tinytreasuresbytori.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4621 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

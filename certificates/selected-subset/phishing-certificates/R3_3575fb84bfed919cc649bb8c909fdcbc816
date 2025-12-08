@@ -1,0 +1,66 @@
+https://vittortas.com.ar/7666/LUNO/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = vittortas.com.ar
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUjCCBDqgAwIBAgISA1dfuEv+2RnMZJu4yQn9y8gWMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDExMDE1MDdaFw0yMjAzMDExMDE1MDZaMBsxGTAXBgNVBAMT
+EHZpdHRvcnRhcy5jb20uYXIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDDRqSP/o+Qc/vHm0HSiJyxd1rj+H/ayrluIjx6NeHZ2LfSMn00spx2NL0E8Bf/
+0u1SsyysjJK5hAdEi4Oon8+hfCp47OR3CPrusylD7ZuJdEvIrSNknRohrgHhRE7L
+GGRxly9w+1zVJilIx3WNc/axk/qMhVmwKGyP8O+3zeDBfOjw4M60tAC8mIztV/31
+X2tXGVocTeUn6D0pLe7U9DtUioyQnILm6Z0nZjrKR8LeQcMm36+QdrjLGYwCevEt
+z2mWpuJ7h1Y3lekRV1CbylZTnuYK/mNXY9arwJIF+5LBRwUnNoyym7Dmc4pGgTlz
+pDawpot8gcXSiLl2ssDx0XT9AgMBAAGjggJ3MIICczAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFHcGaeXx0EHxu6nHHj7gX/bpkp+dMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMEgGA1UdEQRBMD+CFW1haWwudml0dG9ydGFzLmNvbS5hcoIQdml0dG9ydGFz
+LmNvbS5hcoIUd3d3LnZpdHRvcnRhcy5jb20uYXIwTAYDVR0gBEUwQzAIBgZngQwB
+AgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRz
+ZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQBByMqx3yJGShDG
+oToJQodeTjGLGwPr60vHaPCQYpYG9gAAAX11tJAIAAAEAwBGMEQCIAzOrILMHOhL
+53MO/MF3SSAcfr+5QBtqWGhlzoyUybKJAiAn9S+UvzZplvoU+LOnRClYjx/vAlap
+0j0sjFOJMfP4TgB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAAB
+fXW0j+cAAAQDAEcwRQIgLARUdfCHUm13X0AxMhNdsiq91fX/TDBKFZzXdddiXmMC
+IQCGZd6TEHVax1qlCruA0Hte4g6rtI9vfTMTvlCbNVyMmDANBgkqhkiG9w0BAQsF
+AAOCAQEAq7f/Oh/VCMWbsoUkCkC7qwfWStMJyZ/YAVuRTpRIl4lb1TBaWrMeU7RX
+3UkUa0du0RUDV4Dw4CTFiUgrGAOalVeQ/SrAjR4dZ4FS0qpUqgH5RTfrz5ee0Cha
+If4L5coFHqhKHCeQllxS55HDUgQwyqKoAXIKoloceb8H9Z4Ev/lgDjpLvIJt6TvN
+ahVeZdmxNDPuL2yazcU9etZKfHb3+eiHs9lOsSU/4Adyr0lyELoOYtQVwgztFU/d
+3VzTRUldd6nGuPq9DYcnLJq8HDw5K0enmMYuy7gRdVKEe46uTEGnZq+V6sgfcIM2
+vSRNBgkZ5SRUEmAk/G66tkaR90oXxw==
+-----END CERTIFICATE-----
+subject=CN = vittortas.com.ar
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4622 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

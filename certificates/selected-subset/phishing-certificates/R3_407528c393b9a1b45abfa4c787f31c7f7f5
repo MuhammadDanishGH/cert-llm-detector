@@ -1,0 +1,64 @@
+https://mail.dreamialproperty.com/wp-includes/certificates/aetna.sharepoint.coma.axp/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.dreamialproperty.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFWTCCBEGgAwIBAgISBAdSjDk7mhtFq/pMeH8xx/f1MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDIwNjIzNDhaFw0yMjAzMDIwNjIzNDdaMCExHzAdBgNVBAMM
+FiouZHJlYW1pYWxwcm9wZXJ0eS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDYlCdiPeOEsgT7tdrXstoN3j6sM2pUcz63MoKkxto28ufxXQmrp4og
+C+aI6me3TwwQC9AKV0UwfoHjNBW+kGAvlC4ZFcm6+xhqP8STpIkEwuJmDnNwBzRM
+AkoTVVX7n81YzEHMWMrsK+2JfkReAUuvU4kZu9Hv7bGur06DMZ3M58CLIQbFqEEC
+WRPkjeHWC1vnK5ED6dwHn3mNB7ETIqHFCPW926YHtYBJi2wn8n+hKMoWSM2LdqZt
+hnw91syU44Wz4XWEhb0YoUEhvGdEdkwQ9ln8djIUWaupbIdT/rRMyWPCZAJAKFWJ
+bbTkseysinpgLkZB6qRvE6YDobF5RHWRAgMBAAGjggJ4MIICdDAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFMHt65Lo0XrPr3mTQA7wb4jZAslrMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMEgGA1UdEQRBMD+CDyouZGFkZHltb3ZlLmNvbYIWKi5kcmVhbWlh
+bHByb3BlcnR5LmNvbYIUZHJlYW1pYWxwcm9wZXJ0eS5jb20wTAYDVR0gBEUwQzAI
+BgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nw
+cy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgDfpV6r
+aIJPH2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAX16ByY+AAAEAwBHMEUCIFtr
+3+7GComjINiEkMCr3THDbaN5dk6VEsI1Qdtz4vZgAiEAl3QTcaWycfShsscurXrR
+Eh9xRFvPI14xjE7tjMrauTgAdgApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZc
+JV3HhAAAAX16ByYvAAAEAwBHMEUCIQDLX8aJ79hswMgYIZog+9l2xUqgfAkCThw+
+NBtE8USVtAIgHPBU51p+l8QSrGF9YeYLw/jnlAmV9/C9LAzTLehRv38wDQYJKoZI
+hvcNAQELBQADggEBAJ9IFHVPA1fVSNPuy+FIMQla1MZst6ezbbYH+Ez9j2ImXTl8
+XV3PP+85DE8ydYBTcM8GugQry1hqDvvjaiyn4Ex6TzN+viym1aXdRXaPPSnPFZ+y
+/RCyTIpoKiwwJ0n44ZcEmpqaHsyrvy4ET86Y0ZO6WoNGP9GeXcqZCMI1/QfoVp46
+SPBoW+Vn5vJWhR5230XA9VebgUcOylr/GnVp9fXGjoizaxBR2dPs0/eZYr1QcxcK
+i+SRGQHyWEAwDrL+ZqPl7WLZLG4M9wXgxYJkrhFp+NG4yuG7FkpNHv4ZVOKYAtCY
+GQhDblo1R9VC2PBHh/hLu6cYQAHiHstunKDXLLo=
+-----END CERTIFICATE-----
+subject=CN = *.dreamialproperty.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3244 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

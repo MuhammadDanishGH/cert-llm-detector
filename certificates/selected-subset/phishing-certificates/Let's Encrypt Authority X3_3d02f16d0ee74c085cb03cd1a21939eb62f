@@ -1,0 +1,100 @@
+http://lostourbox.net/css/login?cmd=_signin&amp;dispatch=def3bfe9b02a919417dfc5af4&amp;locale=en_US
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = burningskygame.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHJDCCBgygAwIBAgISA9AvFtDudMCFywPNGiGTnrYvMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAyMDgwMjAxMTVaFw0x
+OTA1MDkwMjAxMTVaMB0xGzAZBgNVBAMTEmJ1cm5pbmdza3lnYW1lLmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALh6c9xfQfPKXxL1IqIB2GNoQq2S
+PlV2lM9VmNyD/2kwS4Ksr71eJHGV0jbWIv4kQbrlUYAdgFtjpmMc0nCD+P+068dX
+Xiq52w75BSTzphD8+pNeZqxDHBTlrQ9Gj3aD3hy5H9jbaOqrMdMJPM/iapjkptU8
+B4XzpLgLXBLRzmsZUE1rJTa7QG2yZJoJMSYipgDZkQ1T04Mvod/lxYpG1dn3/7jy
+8XKHq6LmPzemrUgM6r+7M+HxCVG44JapXfDp+uOSDEgvcWhCSy1kyUViol2WEuE3
+rp+khvoAhPJkhFHJzKqG0JfXPT7/Qyu933aOKn+8Z5lLcjrcp9z+Uaha4skCAwEA
+AaOCBC8wggQrMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU6dhtJdCWdL2Tz6OZ7LUD
+o12J3TEwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzCCAeMGA1UdEQSCAdowggHWgh9hdXRvZGlzY292ZXIuYnVybmluZ3Nr
+eWdhbWUuY29tghthdXRvZGlzY292ZXIubG9zdG91cmJveC5uZXSCEmJ1cm5pbmdz
+a3lnYW1lLmNvbYIeYnVybmluZ3NreWdhbWUuaGFuc29uY2FrZXMubmV0ghljcGFu
+ZWwuYnVybmluZ3NreWdhbWUuY29tghVjcGFuZWwubG9zdG91cmJveC5uZXSCGmxv
+c3RvdXJib3guaGFuc29uY2FrZXMubmV0gg5sb3N0b3VyYm94Lm5ldIIXbWFpbC5i
+dXJuaW5nc2t5Z2FtZS5jb22CE21haWwubG9zdG91cmJveC5uZXSCGndlYmRpc2su
+YnVybmluZ3NreWdhbWUuY29tghZ3ZWJkaXNrLmxvc3RvdXJib3gubmV0ghp3ZWJt
+YWlsLmJ1cm5pbmdza3lnYW1lLmNvbYIWd2VibWFpbC5sb3N0b3VyYm94Lm5ldIIW
+d3d3LmJ1cm5pbmdza3lnYW1lLmNvbYIid3d3LmJ1cm5pbmdza3lnYW1lLmhhbnNv
+bmNha2VzLm5ldIIed3d3Lmxvc3RvdXJib3guaGFuc29uY2FrZXMubmV0ghJ3d3cu
+bG9zdG91cmJveC5uZXQwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMB
+AQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEE
+BgorBgEEAdZ5AgQCBIH1BIHyAPAAdgDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8o
+kwGd3fHb/gAAAWjLDVhNAAAEAwBHMEUCIHKcSOZnLLBpQr+bLxY2Lf/y4q0uVhJE
+U3BpVpEb8jR1AiEA6IvdW5zHMwgW7Ex+mzE7+L9qiVurFAyZgsK2ty23m4wAdgBj
+8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4scdoVEvYjQAAAWjLDVilAAAEAwBHMEUC
+IQDk4OCfjMZ6KgTVArUnR6kJIomkP1xvbIK5CGm3i0wdRwIgKGJhMLprYpFnSNdN
+wM4WT1UQEHxaeFvs/mw5d/IolFwwDQYJKoZIhvcNAQELBQADggEBACuWIajKB59T
+TmlyzsZk8OTozH/KmTOBMhNNG1cSFO4Kltn/sfPPvGwihENVFpYR/JjIeBfsC2c7
+FiVOK4utn4Tct7wkhdRh0QPXYzgtv7XzSQyspT+Oh4MAoaR7xdqW3bXV+vydnW2H
+b7JX/TcCkCgvlzG1I6EFY5tSBA3AvGI4Evn2yd0+Q3r6DHafbxTDPjA6hHN4Dlvw
+4vYqkS1wAdVU+NQvDn4K/AZjDrvsSY2cLULbNuAcV2UAdKmmPBxdkVKIOiLH3VYT
+qalC09JLDdSi6x8/3IKaDxHUnU163lHYUObEQgW2pKMpk1Dk/Izhgkcgcgn8Kr5R
+76NyykwMo+0=
+-----END CERTIFICATE-----
+subject=CN = burningskygame.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3670 bytes and written 419 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: A34055D0DB282C435653C189C8A3655757AADF12A734780026D215A01D3669A5
+    Session-ID-ctx: 
+    Master-Key: 4CCC1671188E28162E04B827040E6EC267A042EF7EB08696D69664A14AF100A8445D6467E1D6D36A65367CD261E2D672
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 14 4e 51 a2 b7 ac 44 97-93 82 51 69 a3 58 7b a1   .NQ...D...Qi.X{.
+    0010 - a1 9f 91 8b 11 ce 8a a8-ed e2 bc d4 ff 55 d4 42   .............U.B
+    0020 - ce 47 73 87 1e b5 82 a5-a3 51 57 b1 c3 13 a6 c6   .Gs......QW.....
+    0030 - 2b e8 c2 32 b2 e3 ef 8f-e8 fc 2b 9a 74 69 22 ce   +..2......+.ti".
+    0040 - fc 42 c9 5b d3 8b d0 7a-33 c4 8f 82 e2 39 f1 bf   .B.[...z3....9..
+    0050 - 8d ea ad bf 79 61 05 a4-1f 96 60 04 a8 52 1e 9d   ....ya....`..R..
+    0060 - d7 41 57 d4 30 36 0f 24-14 bb ac 92 fb da ee 82   .AW.06.$........
+    0070 - 53 db 92 53 63 cd 47 26-38 c7 ad 51 9c f1 fb db   S..Sc.G&8..Q....
+    0080 - f7 74 5c b8 a1 71 7e 5c-ad 1f 0e 9b ca c7 f1 23   .t\..q~\.......#
+    0090 - 23 b8 3c 97 86 53 48 f0-c2 29 aa 79 04 f1 b5 9e   #.<..SH..).y....
+    00a0 - 45 54 05 99 fb 50 1e 5c-70 df e2 43 ba b6 89 9b   ET...P.\p..C....
+    00b0 - f9 9d f8 21 d3 16 ae de-9d 7c a0 5d 6c 5f 01 92   ...!.....|.]l_..
+
+    Start Time: 1556110817
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

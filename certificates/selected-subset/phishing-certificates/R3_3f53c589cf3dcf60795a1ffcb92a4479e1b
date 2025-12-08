@@ -1,0 +1,67 @@
+http://amazoazm.co.jp.mastercardnortniahnewestphalialauasi01.cf/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amazoazm.co.jp.mastercardnortniahnewestphalialauasi01.cf
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdjCCBF6gAwIBAgISA/U8WJzz3PYHlaH/y5KkR54bMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA2MjYwOTA5MzdaFw0yMTA5MjQwOTA5MzZaMEMxQTA/BgNVBAMT
+OGFtYXpvYXptLmNvLmpwLm1hc3RlcmNhcmRub3J0bmlhaG5ld2VzdHBoYWxpYWxh
+dWFzaTAxLmNmMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx17c9eor
+ipF1J5dSOZmyHuo/hlcEr5lGT8pDMYV6Bh2qjUvYPo43fYzSnyCQkgSJERGBtvJQ
+55KOjBHItmd3mLoYYuX+xm+m1bsms4PdGfhnsrqt02BpB6HbpDJm9bdHIPiuTs0P
+zmIhfyF4qk7mNo/WZkDfMMMtfvQc9Ych6jELrN13Rvp7of+uYuSy3yyYTFTaQP3T
+F17W4t3sDTKcEGdP1R1XWVGxD75IiU72wojEHqJwRSfl9CXwEc1rw8sz99CCL2Ck
+aeSgC3OTX3yRyDHu8FCdhnmwIx9pzE9Clww4zEjSoqKVUonB5zPwE8U2r1DqJmbz
+4jZxZ0vW9yoVnwIDAQABo4ICczCCAm8wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQa
+dQvzxE8UJy5C2nO2uAysfzpRgjAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+d
+ixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxl
+bmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzBDBgNV
+HREEPDA6gjhhbWF6b2F6bS5jby5qcC5tYXN0ZXJjYXJkbm9ydG5pYWhuZXdlc3Rw
+aGFsaWFsYXVhc2kwMS5jZjBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLf
+EwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCC
+AQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AJQgvB6O1Y1siHMfgosiLA3R2k1ebE+U
+PWHbTi9YTaLCAAABekfLz3wAAAQDAEcwRQIgfStxqQP+Wz+Br1PZfJAf868IodgZ
+zPZ3PN8wg7qxE8MCIQD6Y2QWXFcXwETJBdzjEREaNL1m22meA7itCsr+VwhN4gB2
+APZclC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTjAAABekfLz3UAAAQDAEcw
+RQIge1jSDCRkgaaSPysA5UQOFStCBprMhDKHz9aGaJaCG4MCIQDQi2F6bA6CTTAO
+j2vestI4GjiOjvz9+5zX9YDgEPAeWTANBgkqhkiG9w0BAQsFAAOCAQEApK+XG0iT
+bUZpGA+3kuFs8qq/FSM1BTMRnk3FT2LzUdIivFxdpo6mLr8cfekR1eiAVpGvrlvR
+XSn8SZr26N0NJSA8POt1THEkR4SnoOGofuqOs7Z5v4t4PcnEYLqqSaXwzQJ64b8g
+qTtNfleuTZtgPvQhyIdFiZv5wpiFU34mbuwsYw0M+pHmMRbt4BQR4RmnDX3sWArg
+vMyQFIIE6appfK2jzzLhmEtbgRWmNyyqvONXDiqMVhqjfCvLofDTh1qHwpPLlXAW
+tqEGLebSlJuOl43iYhRhiaQWKZOsaTgQIvvFoMrGWDinTiyDi7+hTeV0WmGhDgEA
+7Um4OP8+T+UzYA==
+-----END CERTIFICATE-----
+subject=CN = amazoazm.co.jp.mastercardnortniahnewestphalialauasi01.cf
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4658 bytes and written 438 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

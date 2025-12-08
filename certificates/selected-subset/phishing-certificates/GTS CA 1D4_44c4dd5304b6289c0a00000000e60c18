@@ -1,0 +1,66 @@
+http://www.im-creator.com/free/mailverification/outlook
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.im-creator.com
+   i:C = US, O = Google Trust Services LLC, CN = GTS CA 1D4
+ 1 s:C = US, O = Google Trust Services LLC, CN = GTS CA 1D4
+   i:C = US, O = Google Trust Services LLC, CN = GTS Root R1
+ 2 s:C = US, O = Google Trust Services LLC, CN = GTS Root R1
+   i:C = BE, O = GlobalSign nv-sa, OU = Root CA, CN = GlobalSign Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFWTCCBEGgAwIBAgIQRMTdUwS2KJwKAAAAAOYMGDANBgkqhkiG9w0BAQsFADBG
+MQswCQYDVQQGEwJVUzEiMCAGA1UEChMZR29vZ2xlIFRydXN0IFNlcnZpY2VzIExM
+QzETMBEGA1UEAxMKR1RTIENBIDFENDAeFw0yMTA2MTgwNzEwNDZaFw0yMTA5MTYw
+ODEwNDZaMB0xGzAZBgNVBAMTEnd3dy5pbS1jcmVhdG9yLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAM35aqZaXU7vcu1pLAV+/TKDWjbcFepCBzrx
+SqChd58F53sK/SwdxXs5gvdhWs9rFHEkOzJOyj9l9/LukCz8kY8yNgE3JGh3l1zn
+X8S3QhMUe5w4mOqvHgjteBxMm85vd5uucCUxJRDDABEb8rVcD3Mxj1LJ2t/6HpJH
+cCHiqC0jEVMM5RWL4Q3IAXjT7EdJ9iSoXLzzxwT8iC8eVHohcgefkQ14g9ynyI15
+5UIHAQo9CPzrvqZclAYNORPlYAC3B7fyiYphrj8ws4GmuTw0CIXIx3JunuyD6knn
+mfsYeyKwlgMk8fQzT8OkUjleNi8v2FYIhdzpuwseTSjS7ZXl8ukCAwEAAaOCAmow
+ggJmMA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBRL+1CmrKirmgUtQydX9xEFwSRMizAfBgNVHSMEGDAW
+gBQl4hgOsleRlCrl1F2GkIPeU7O4kjBqBggrBgEFBQcBAQReMFwwJwYIKwYBBQUH
+MAGGG2h0dHA6Ly9vY3NwLnBraS5nb29nL2d0czFkNDAxBggrBgEFBQcwAoYlaHR0
+cDovL3BraS5nb29nL3JlcG8vY2VydHMvZ3RzMWQ0LmRlcjAdBgNVHREEFjAUghJ3
+d3cuaW0tY3JlYXRvci5jb20wIQYDVR0gBBowGDAIBgZngQwBAgEwDAYKKwYBBAHW
+eQIFAzA8BgNVHR8ENTAzMDGgL6AthitodHRwOi8vY3Jscy5wa2kuZ29vZy9ndHMx
+ZDQvY1dpVEctWnQ5dWcuY3JsMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAfT7y
++I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF6HjOLgwAABAMARjBEAiBQ
+6/iZ1kpg+UVkbqiv7KcqcL1zXUw2YhsRnFhaVZe2OwIgS/2gtmy9665vkzxdRqUe
+D8f/ZlwOSHS/0yFuZUv8G7cAdgCUILwejtWNbIhzH4KLIiwN0dpNXmxPlD1h204v
+WE2iwgAAAXoeM4nLAAAEAwBHMEUCIGOb3lgGKlaSMPMCR43wlt7pNA+IkOdqGfUl
+jJh85BsOAiEAnqDfuLo6xTzr8XyZH6KqAqo1qPID4QwPY3pyyOL5Q0AwDQYJKoZI
+hvcNAQELBQADggEBAGk10SjRxYc/joD15zkaPTABXlOc07AMLpRip78HlWpMvs75
+4VOwEblac3uouDpaQAVkOH4FqcHXL2+6ekGiRIFQwSA2RPPyyH0l8lpJqDYA/VlF
+tfrCZdUR3mLPcmENtTA26Teghl9/Dcow5ZNFg7r8VPEvpL2nxgl5tVHpDHCddg/5
+TevGrV0PlFI+Rm0Y0BRgGINeqhZlKTq0KIeG8KL08hB2wVj3kPFNU6EhaOqvNQ3E
+IlXsMW4WqKdOYypbjtqqZoJaMPVxj9kyL0QOgMKmYsWIOk3DclvZaF6mecmHgEXI
+AOMvdaxtz3FQWbh/aaOHYwCBVEMaY1MT8QlDOyU=
+-----END CERTIFICATE-----
+subject=CN = www.im-creator.com
+
+issuer=C = US, O = Google Trust Services LLC, CN = GTS CA 1D4
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4679 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

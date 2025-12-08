@@ -1,0 +1,65 @@
+http://services.runescape.com-xl.ru
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = services.runescape.com-xl.ru
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFcDCCBFigAwIBAgISA2Yc0/2fH+aAxyr0orE4ZwT7MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MjIwNDE5MzRaFw0x
+OTEwMjAwNDE5MzRaMCcxJTAjBgNVBAMTHHNlcnZpY2VzLnJ1bmVzY2FwZS5jb20t
+eGwucnUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDdrQI6j5EFBHFm
+b1loMQnDFmAh5AfPUIgrv+hL1zo8X9Vr45fZSOGanpbAlm6Q9Dy0pmq0PWSpwb6D
+gqSbC7SLpKd+bCA7FjZwoB87n+6HKb9JTnNiAn6zhgoaHO+0opJTwL883cwe+As4
+pGhdmf779Y0tGdtEUTbWk7gWOaBVbJhqz7MGjwi5mWtRX3Q1ePru7egVz0GamYSF
+yElYk/tumeKL89NUiOebtMnCewfiiZv2lPLUR9SgIrdT005Y6C8kmjs+YRPkgC99
+1imIqqMJI9G4B8I64qx6C3Pp2NrfeHGRsao+kNOZsCIqDRGQaEV62ALFjDhPgcGw
+O8HXVIq/AgMBAAGjggJxMIICbTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFBF6Bv4I
+5F0PSP5hPbkzmKb62J+BMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyh
+MG8GCCsGAQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgz
+LmxldHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgz
+LmxldHNlbmNyeXB0Lm9yZy8wJwYDVR0RBCAwHoIcc2VydmljZXMucnVuZXNjYXBl
+LmNvbS14bC5ydTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisG
+AQQB1nkCBAIEgfUEgfIA8AB1AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgia
+N9kTAAABbBge6nYAAAQDAEYwRAIgSBhWSs8Hq5GG3/WxOz7ksfb35HYTf0YIq5T0
+pUn7d4UCIFC5PLz8WADgDQ+0ocBOYZ5f9Wxersa2dT9sYjkL6G82AHcAY/Lbzeg7
+zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFsGB7qdAAABAMASDBGAiEAvkim
+dLijw0hliY+ENMA7AQvgS06IqQzstwGFF4cMEJUCIQCNuYdk/oPtCGOMi1AlT6Z/
+FPt2oZrn1f89PexErAR16zANBgkqhkiG9w0BAQsFAAOCAQEAjWoP7xKivzdq5Miw
+fvAiBd/xRbA9l6ZgM+k4aZzz5JM7Tw+ot2bFIwzXDbfcLzj6Xont5OT4YyEdRwaV
+Q85GO5PnIQU0BDjYT98XCJpUrs7OopWWm8di6sXRuArpMGmKL5SnugQHCyFe49Vi
+n2V/uhf/cUGByP2jtXd9h+w0F1OOGmB4Qkbg7PQlPGe3D5dEBQCj+qK+24gLDnDv
+HRBwzTuBMd7rP31LTE8pPwSKesQmQd0W3buGsm/zGFJ61Z4CeZUh+mbVceSMQJro
+JQaAh6pl4jLd1zXcjyts40RZBJakyjn/Fq+GXqtPtlbF/MD+xDs+XlRCnBCenLFp
+AxYdAA==
+-----END CERTIFICATE-----
+subject=CN = services.runescape.com-xl.ru
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3065 bytes and written 420 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

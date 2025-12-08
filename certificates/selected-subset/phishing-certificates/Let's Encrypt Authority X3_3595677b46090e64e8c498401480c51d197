@@ -1,0 +1,95 @@
+https://suffolkinsurance.com/sites/default/files/webform/serviciobiometricopichincha.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = suffolkinsurance.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGFDCCBPygAwIBAgISA1lWd7RgkOZOjEmEAUgMUdGXMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA0MjAxOTM3MjFaFw0x
+OTA3MTkxOTM3MjFaMB8xHTAbBgNVBAMTFHN1ZmZvbGtpbnN1cmFuY2UuY29tMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm2dhhv10G5liWMgN0Y3Fni9u
+0HMrzwpInESpgiRGN5u+SoOPmw7bZwi7Vfs6Rg1FNwjXtk10HOhY++2tdKikR5Ay
+Bv3cDTYHTZwpFfY/GygYZ9eDfKVMQNI5Lj8p9wObc8yynqFkJn67IaJtNQyO8czw
+HpS4Hc7u2QGcwoVOx4Vq3BkO79ba8VuwYL9EYqmF/5lWZgZc0MIaJ8RsyoIgcoRW
+VhTLjsq0f2OL5mzC4h+0XHljIZLxMXc7Wtt9e6tSFaL8dYLNWHLPJTUhVjmeIvnV
+ARyYUFpqJdqRpiJfzw//sFXHCfpOP4egjw8l7zTvA1S2g+7GEAvEisgMGn/XjwID
+AQABo4IDHTCCAxkwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMB
+BggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRmD0K6oVmfwO+lKitg
+8yYXYWbBsjAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEF
+BQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5j
+cnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5j
+cnlwdC5vcmcvMIHSBgNVHREEgcowgceCIWF1dG9kaXNjb3Zlci5zdWZmb2xraW5z
+dXJhbmNlLmNvbYIbY3BhbmVsLnN1ZmZvbGtpbnN1cmFuY2UuY29tghltYWlsLnN1
+ZmZvbGtpbnN1cmFuY2UuY29tghRzdWZmb2xraW5zdXJhbmNlLmNvbYIcd2ViZGlz
+ay5zdWZmb2xraW5zdXJhbmNlLmNvbYIcd2VibWFpbC5zdWZmb2xraW5zdXJhbmNl
+LmNvbYIYd3d3LnN1ZmZvbGtpbnN1cmFuY2UuY29tMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAdH7agzGtMxCR
+IZzOJU9CcMK//V5CIAjGNzV55hB7zFYAAAFqPHe/ngAABAMARzBFAiEAzVtBZqSt
+gSnab0ClO7XHWt/NDucMe4T67ByEtjhYnMoCIHhDEiyhbhKWR+AziZyPw84+tXfq
+eyuGaEjF5zp4wzrRAHYAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0A
+AAFqPHe/nwAABAMARzBFAiEAkiAuqAG1YkTOaruKHsihcK+9wfmocEa4NlwF4ian
+CPwCIEC9U39RZE49/gled292sc+TLkuZTtm2yEaGWdB+Ng5VMA0GCSqGSIb3DQEB
+CwUAA4IBAQB0t2mdrOULpKkPwWTYonV8NYG+NtMWgvoZEpHK/NSwGKOa8iNl34Fe
+CIEqco1/hlUhznRrsqay8fFrGHNOJiHZfBSxVrw8PGoG1OiK82ntL13xirHPF84J
+iCATvM9tMEJVsy31KnMfgiPfFERZxJgQI+RKPNbRHrpRijyfkG2qEqWqEyYUeueh
+QajwjC3A9D0i91jCV/YAdBREhEmHe299jpalkVBsAQV9+15K/Ej4cXsTol/fghSD
+Hy24jYO6g+qKIi/OY6d97DzKEL+/eR0WUg7O04tYTc0XOl/zuwBOOsRMZ+LpNe3+
+21tHOaClPW+48IRnM54eTEN0dPBmwchY
+-----END CERTIFICATE-----
+subject=CN = suffolkinsurance.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3443 bytes and written 458 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: BEBBD11DE792443F6B1F6837B1B770DF7B7A418F188D46D58DA5E4D732BACC43
+    Session-ID-ctx: 
+    Master-Key: 2F34E74EEA2AA1607EE332B704D7881482E9896A9A66D8F0FC285CCC94FB904DA572C77D63A6687BE486D9A7A6F2C95A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - a4 ec f1 6e ff 55 94 e2-25 52 72 ec 44 49 85 72   ...n.U..%Rr.DI.r
+    0010 - 11 1e 9b f4 4a 43 1f fc-9d 80 e7 b1 78 05 b5 b1   ....JC......x...
+    0020 - 3b d9 6c 6d c2 10 16 c2-43 3b 6e 24 e4 82 d2 59   ;.lm....C;n$...Y
+    0030 - 93 ef 4a b2 f2 18 16 68-2b d6 5f 1a c6 d6 78 58   ..J....h+._...xX
+    0040 - 88 3e c9 da d7 bb 79 7b-f0 ae e8 09 dc 0c 4e 7d   .>....y{......N}
+    0050 - dc 94 99 d0 bc 4a e5 76-32 08 1b 84 93 f4 e3 96   .....J.v2.......
+    0060 - 0e 6e a8 2e 31 c6 8e 6f-a9 ef ac 2c 76 e6 dc 6b   .n..1..o...,v..k
+    0070 - 39 50 bf 39 cc b6 6c ea-75 01 42 ec 0d a1 b0 c4   9P.9..l.u.B.....
+    0080 - e7 88 8e 95 1a 83 15 cf-e2 e5 a2 bb 36 30 f6 8e   ............60..
+    0090 - b6 61 e0 c5 82 c1 a8 2b-1f 89 18 24 f0 5c 65 1a   .a.....+...$.\e.
+    00a0 - d9 07 f9 49 85 c3 1a ad-0e d8 58 f3 1b 41 be ed   ...I......X..A..
+    00b0 - 1c 4a 84 63 af a0 6e 62-a7 4e 9e 30 43 f8 00 c1   .J.c..nb.N.0C...
+    00c0 - 60 97 10 65 3a 19 67 49-af 35 c4 81 bc 2a 17 b0   `..e:.gI.5...*..
+
+    Start Time: 1560258023
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

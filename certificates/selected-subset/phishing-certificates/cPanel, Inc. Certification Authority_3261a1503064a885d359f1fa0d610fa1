@@ -1,0 +1,84 @@
+http://supports-team.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = supports-team.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGmDCCBYCgAwIBAgIQMmGhUDBkqIXTWfH6DWEPoTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIyMDEyNTAwMDAwMFoXDTIyMDQyNTIzNTk1
+OVowHDEaMBgGA1UEAxMRc3VwcG9ydHMtdGVhbS5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDbqnEpDkAIMbNzK3uFwQUc4FytYiTsd2K64eupynXN
+UEygFNEwA0UI77bzxS+Y8LTITzZ7EssNgCUYQ8vaQxpBajr+hb6KEzV+7CHxTlHD
+rjEqx9zZbYLX1G56xy+z1RMyztT80moIwf5HQ4LqoIZhOHnxMiAwopE0gAwWEY56
+SVo0fg+HDmjmlOXmFronRDICb+e2V4/G1qEXEp62vWwWDnsIAoXdYF4iS0BTsEnt
+4d8v39Yu9mUGBHOMRNJ1IX5lxwfzXReEcWRmfvlz7z8gmpTsYHTy+h7pkz68mkue
+71yTwL7jY+PH64/MTjFpKr0wE7OSAJ1zuLoM9/4VGRjHAgMBAAGjggN+MIIDejAf
+BgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUU1bbO4wG
+0yKzv0t1RDqxpKCDFfkwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGy
+MQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYG
+Z4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEB
+BHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVs
+SW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AEal
+Vet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfpF8rSoAAAQDAEcwRQIg
+BGC+3wj+kEx9VmR7nG6ahWZoM59k0KKFQPyMmDAR7CgCIQDsdvD/JXMHEwCcqGTq
+JOTNQMqrYWUdKYaRHLdyMHgCQQB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do
+8JBilgb2AAABfpF8rQkAAAQDAEcwRQIgP8+NEoNu0Gb3nDy4BL9lEJsjRPNAmSWB
+YxjNP+01vdICIQCfjN8KW0rUAqFpIydByMePkvCqm6I+zwaP5mH0Q04nzjCB2gYD
+VR0RBIHSMIHPghFzdXBwb3J0cy10ZWFtLmNvbYIYY3BhbmVsLnN1cHBvcnRzLXRl
+YW0uY29tgh1jcGNhbGVuZGFycy5zdXBwb3J0cy10ZWFtLmNvbYIcY3Bjb250YWN0
+cy5zdXBwb3J0cy10ZWFtLmNvbYIWbWFpbC5zdXBwb3J0cy10ZWFtLmNvbYIZd2Vi
+ZGlzay5zdXBwb3J0cy10ZWFtLmNvbYIZd2VibWFpbC5zdXBwb3J0cy10ZWFtLmNv
+bYIVd3d3LnN1cHBvcnRzLXRlYW0uY29tMA0GCSqGSIb3DQEBCwUAA4IBAQA0WmPv
+e0QwH3/c4V093nScC3b3ifw8bHT3/i9/4hXuPZF3Zgj8o9zScQ94QVDdotgmsGV6
++j+wPXWU8tdlm5SQaTAI/D1bnw/9z88LAkDaSfMuiVeV1q12IsSN1T1bqHhzHohe
+WmYIqNnogMtcKiTuXI9d/JWBvCUCEWRRU9TVNyzmWazNCDiTAmspiF6x26bGq6tN
+8QZ1N4JSjYMHtM3CUY9k9F+TRKvp6/sXc+kcAi5F19oKDJupkCD0c/bUod7oUh9m
+PSOgMo9F+Lds1RcCHxqDJpyWkTKDug1UIom9eAuddKmWN6/vveU7NbYWA8p8vPco
+16i/k1i65TOjyhnQ
+-----END CERTIFICATE-----
+subject=CN = supports-team.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5144 bytes and written 437 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 13DCAA5D0F8220B7415D107FD90F0E1F0B73098E84ED52C36D0C0660EE8288C3
+    Session-ID-ctx: 
+    Master-Key: 363877C80B39DF53832B610FB329E0DA32C8B214373A7F48CF2E61F96E010A26C00862BBB8CF5FCA46AAD300DE2A47E2
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1643244550
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

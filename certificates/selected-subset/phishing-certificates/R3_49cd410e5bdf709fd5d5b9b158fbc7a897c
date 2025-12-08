@@ -1,0 +1,61 @@
+https://consegna.acctectzz.top/bankanew/paccoips/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.acctectzz.top
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEZzCCA0+gAwIBAgISBJzUEOW99wn9XVubFY+8eol8MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTYwNTMzMTZaFw0yMTEyMTUwNTMzMTVaMBoxGDAWBgNVBAMM
+DyouYWNjdGVjdHp6LnRvcDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABP9ADA8f
+rJsIUKuk7X6WEVC+DhSpFBDzXx9vKATP2FvDwN/FGJrtYhvR8IaXZ5+kOGWDI+3Q
+qa45wkfpgb4NvvWjggJYMIICVDAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFC6lW3uM
+oEdq+6qt/PK7gZjSMBQUMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLG
+MFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iu
+b3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMCkGA1UdEQQi
+MCCCDyouYWNjdGVjdHp6LnRvcIINYWNjdGVjdHp6LnRvcDBMBgNVHSAERTBDMAgG
+BmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3Bz
+LmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AJQgvB6O
+1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABe+1PNr0AAAQDAEYwRAIgG9Ae
+vcPZR9xbgZNXki31KtEMM8F6/+4CeEwzdKjr0awCIAo5mtQBrDC3/d+oVsj9ffEY
+DroAU36PohnKWciQTWiqAHYA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7x
+ZOMAAAF77U84pAAABAMARzBFAiEAhIIAuObNyPuQuMLAa553WMme2YTuQCTzRffU
+0HkFf4wCIFyH7mfo2vna/Jwgbb+QqplBXPRpnyqgWn4UI3mdvbhbMA0GCSqGSIb3
+DQEBCwUAA4IBAQCv1VeVWHNBbQNZK0WeRWHttEwtwwOw+PRsfMG67bOjlUvJEkxu
+YsR+7rAoXBfLPP/J7WZLVKGKfcG11WLTWCRMqQeSUBDgEQFpmWiZNzWzj/Tc3aU0
+ZCzlzHWUXQnv3sBkUkjxvQeWadxKSvTY+A2Zf32fKhguiqNn3DR/JSv9KKhiPEDr
+ylSWIGASkPxZ2TiM/BYDwoqZGJ0h3voukBD09Rwq5wU95iXVa7y4X9nbOtcB7x7n
+S18N9B5OV6Um4y8WjL80KEh1HWRK+aeWhHEqIbPUx4SebwlVU0jnu4F2uzC3aYN3
+Ka/+2Y4ZaEyViIpPvfhFJdNHqHqK2szsjRh6
+-----END CERTIFICATE-----
+subject=CN = *.acctectzz.top
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4136 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

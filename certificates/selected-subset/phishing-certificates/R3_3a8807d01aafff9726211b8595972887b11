@@ -1,0 +1,59 @@
+http://whatsappgrub.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.whatsappgrub.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEczCCA1ugAwIBAgISA6iAfQGq//lyYhG4WVlyiHsRMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MjIxMjQwMzFaFw0yMTExMjAxMjQwMzBaMB0xGzAZBgNVBAMM
+Eioud2hhdHNhcHBncnViLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABNOs
+syYHLQI6Eg7YfS8hi7FDq4o2bgEW3p+OwdK5b5lAT/dqlzRXb1HL34cPJPiV2+z3
+kotflxqaVB9ftveLlMijggJhMIICXTAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFOH+
+5q+nPS/He010cNGPm7FWvOIEMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52L
+FMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVu
+Y3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMC8GA1Ud
+EQQoMCaCEioud2hhdHNhcHBncnViLmNvbYIQd2hhdHNhcHBncnViLmNvbTBMBgNV
+HSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpo
+dHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQYGCisGAQQB1nkCBAIEgfcEgfQA
+8gB3AJQgvB6O1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABe24XYaIAAAQD
+AEgwRgIhAO4AVvQc5mGWHxrh0iV8HlzBnT4V8SvpPfg4RTnnzhWmAiEApNGMVLqN
+qRqcfgNwLJahSk8rLFMlILCVUPKe+OO4OGAAdwB9PvL4j/+IVWgkwsDKnlKJeSvF
+DngJfy5ql2iZfiLw1wAAAXtuF2HMAAAEAwBIMEYCIQCpQmaNiCV9oZH0Da5L3Ydt
+MX4MLiPohLQzrzp6paOeyQIhAMMlV+WEpuO3/m5qQAIlC6PZRr1DMB9w2G6cyhA0
+Gol6MA0GCSqGSIb3DQEBCwUAA4IBAQBauPyzCKIRR3t71maNSD9FB1WtJyYYFqSe
+jMXTCDFPfIq8hfZpmCeYSKz4AjUyj3xySBsolHLtZUpPovVDnXumOIWRrZS62KBV
+Aqqw55FITvy+GtG5V8Uht93nre7V+ofc1Sefn0VcHjPJdebGzqy+KFeFux5Za6fM
+QMLOBLvOP6aLaI3H0H8b4lnnAllq3EwRuVtL3fdqzhDYVoD+Pca1uPR0jS3+ZM+b
+SjavUCwuxOWnm7LTCacVkczbUeBjF86RNzYrOsd6Cdz/7nc15x8LkZwTA7X2f/zK
++e6ez1eeSk+Bm6t6f9bv/rSZd6ZKsJGJ9NujyklxpEDADwU90Dot
+-----END CERTIFICATE-----
+subject=CN = *.whatsappgrub.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2585 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

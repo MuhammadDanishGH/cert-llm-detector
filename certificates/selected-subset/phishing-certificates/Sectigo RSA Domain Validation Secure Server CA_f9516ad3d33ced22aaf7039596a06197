@@ -1,0 +1,71 @@
+https://kayserridge.com/M&T/login.php?primarymember_id=3c315a2df373520dd572dc3e2&country=United%20States&iso=US&ReasonCode=6004
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = kayserridge.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGPDCCBSSgAwIBAgIRAPlRatPTPO0iqvcDlZagYZcwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMTA3MDIwMDAwMDBaFw0yMjA3MDIyMzU5NTlaMBoxGDAWBgNVBAMTD2th
+eXNlcnJpZGdlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKcI
+76xArY3CFP3ECQvhSbm9mekPK3wGCoXgKmTDzEmqKn+l+ficPIxBqeub3IlrTlYw
+AGzq2Lrz+DsDkRr41590yblg03c6cJ8ArTsX+VpoPbnH6/m9Vue4FEVoplkZ1sen
+iXi+GkWMIQVRm2ABtZQQFGcUNRpWiZlZAUXT+WnXkM+34TwluvFaDjs0zoDRzf6b
+GjU3TdeSPqM+IveKfhH4n3E0DwxpMJo94jg1F5w20JrvtWg7Fb5RLWgtRtZdXBk0
+jMak6vD9oCcS98nVUsRG0e9JGvc6JDj12STOzgaKZeJRYnLG1KCIEhEzOeJG3M9U
+pQHnsjDfL2TeJKbtEUECAwEAAaOCAwUwggMBMB8GA1UdIwQYMBaAFI2MXsRUrYrh
+d+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBSL01XSAK3pLpla6IR2I31/nDYqPDAOBgNV
+HQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUFBwIB
+FhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsGAQUFBwEB
+BHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdv
+UlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEFBQcw
+AYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wLwYDVR0RBCgwJoIPa2F5c2Vycmlk
+Z2UuY29tghN3d3cua2F5c2VycmlkZ2UuY29tMIIBfQYKKwYBBAHWeQIEAgSCAW0E
+ggFpAWcAdQBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXplNO89
+AAAEAwBGMEQCIEUZSgITx9okr4U7V1ooeGh56wXzBMlgLgql/a7otCZrAiBm8YKV
+ArBq0wZHRKYCv7X3PlUokDW2c73VK0+YJxz+ywB2AEHIyrHfIkZKEMahOglCh15O
+MYsbA+vrS8do8JBilgb2AAABemU071IAAAQDAEcwRQIgC3ltJiIfMlF49T6AwCuf
+pZ3maDcqtt9y42/fI2bnqZUCIQCL+b2zCFZ31RD2XgDH1hV/YU7rKCiNkb3yWiJS
+mChuZAB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABemU07x8A
+AAQDAEcwRQIgbyStsEin12LCKo4yXnezHwFfFxPG4XVWla1ddeOBlXgCIQCLrWV2
+LEFsVkluU6kPt4PE3sNgeIZeO8Y1qk4BkQt+NzANBgkqhkiG9w0BAQsFAAOCAQEA
+QkNg5L1RuEpbGRaO5GvqCjYy4S4TjKLVVJ/mmKL9y+eN7fD+ZXWLi00emOu/RmEl
+oniRK5J5zWPEQ+MGQCByfT8zjPeFNBUveCNUnlNMIl+DiNEl7/n6eU0zjnQcyEj/
+zVLT0HBrZawrNyVPXPO/4tKasp9Gq5ozTDvc3uAWifW4/kgIAbpm/xnALAOvDkHv
+X30t6SvpFJaXsvMT+Z/bryDlTTK4DQZbEaYdYeSF6pMRFWv15goahJ/iWTwFqRXh
+kbJZuCxcGD83fWZjYYYsEDlCiWX9yQPg02w95PJePVHTyOktvLFAcvSZbuUDzv2Y
+rKML+aAcLJyRyMtXQovnIg==
+-----END CERTIFICATE-----
+subject=CN = kayserridge.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5142 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

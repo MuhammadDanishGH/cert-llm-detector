@@ -1,0 +1,68 @@
+https://bcel.online
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bcel.online
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFtjCCBJ6gAwIBAgIRAOgdQPo45QJEJa1JN+0g8QowDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMDEwMDgwMDAwMDBaFw0yMTEwMDgyMzU5NTlaMBYxFDASBgNVBAMTC2Jj
+ZWwub25saW5lMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA080JpkUJ
+KbzESPlu1XeFOBQ5GG3d3SY+r/7/gMj4jpWdnfJF46j7dXZmwWtvJS8zTd4FOLx2
+4z23yU94/0eDwYTrz2+HzB/dWzFWMAml7ruWflDFnO5HKEn3FucuRXEdSWFz92De
+Ti8ZVWHjklxY5mklVwNQ84iVFT3a/BxMu2boQJo/cpbGTjc9504d9gcXgVeJGx6a
+Qhzw3SF7QZJpEn3tOTazmrcBPNEC2hUHjb6fua0v1aguOO21vlIImVfmo3+EUIhb
+AQVE+enq4/mQcPoM7F35W3CLffvFVpNQMUdlZf0mtS/EH8YVbQ8hU9zHQgP5y2iQ
+C6ZEJQkP+tbcBQIDAQABo4ICgzCCAn8wHwYDVR0jBBgwFoAUjYxexFStiuF36Zv5
+mwXhuAGNYeEwHQYDVR0OBBYEFNpd9MhOZXUGl43pU4Wf7lr1c2NeMA4GA1UdDwEB
+/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYBBQUHAgEWF2h0
+dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYBBQUHAQEEeDB2
+ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29SU0FE
+b21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsGAQUFBzABhhdo
+dHRwOi8vb2NzcC5zZWN0aWdvLmNvbTAnBgNVHREEIDAeggtiY2VsLm9ubGluZYIP
+d3d3LmJjZWwub25saW5lMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYAfT7y+I//
+iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF1CXqOLgAABAMARzBFAiAJFupP
+zB18hUUwrB/UMcRclMk7zKOWHDir6284Z+vhpgIhAPGNl2atswIS2Or0KhzhsPPB
+mtOgWbCHpO+/EHh2BtacAHUAlCC8Ho7VjWyIcx+CiyIsDdHaTV5sT5Q9YdtOL1hN
+osIAAAF1CXqOUQAABAMARjBEAiB/lrw9AgBHN6RD8gGqagSx1laSY5wnwq6sQgHM
+VA9nXgIgOYLGZAdJ4PzXJGSlyLTaF0UsfT1wMHVs+K16lTK5dDowDQYJKoZIhvcN
+AQELBQADggEBAC08J9d8y9WTzKAUB6dVhQWiqn1Kc1QSTjo4BXVNQgnhp80B7BTx
+abEAavSiTWEEFW3uryH1U1oUubCLeTPFNW3p6Qp6xpbCcYKY9oRCMAGM5zNOXrGW
+SDJPgeha4e81ayi3iI23WkiVRi8pw79k+8g+3xvgRnf7YC1A5zUQ+sFuJ9CSq/00
+Zel0+ZcAsq6K9bowSjqPQI01JRYBxxV8H4WzXLrmG+8f1h2uefRifpEYCNc7O1EF
+s4U0u2BU4y7yXUOG/NTLGadhgf+FkvwXuwN1slFDnQB9jZEb+4XTJa/nc3wDbv5P
+oYvJntq5e5ljo39RfsKs1Ia4lQOmpfIpCFg=
+-----END CERTIFICATE-----
+subject=CN = bcel.online
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5008 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

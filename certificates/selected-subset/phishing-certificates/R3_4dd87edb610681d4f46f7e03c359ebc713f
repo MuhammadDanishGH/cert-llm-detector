@@ -1,0 +1,71 @@
+http://joinssgropssney6.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = webmail.joinssgropssney6.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGVTCCBT2gAwIBAgISBN2H7bYQaB1PRvfgPDWevHE/MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTYwMzUwMzBaFw0yMjA0MTYwMzUwMjlaMC8xLTArBgNVBAMT
+JHdlYm1haWwuam9pbnNzZ3JvcHNzbmV5Ni5kdWNrZG5zLm9yZzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAJzMZIu27zXpGQUYgbaW9edUeMfntJk9pcog
+VFMii8uZwtWC7nPbIe7iuKvLdMVVl53rf+6r3QwcLf/3CHNZKeXYpsKiDEvjoVOJ
+WQuYt3qs6O2n4hWsc26/MeBGREXjgqdJVBuqDYnPBMRjljprP27UyDvqFXfdsUdP
+u9E0y98GWVNgNK7jnqnXIefcAvpsr43BKUBzk7y7y7c+B8vWI0ei0VzJ63IPwtsz
+Umh3/iofUqR3QmI5zqPXaE6xlUJs2gD0Rdy7LNNtFZ4HHopn4NrqOGQcDtOwaUme
+CrQC/rOp9ZOxeM/OIAWqa6+iLxAa2HZgTzzyymwGgC/wCoKSYxMCAwEAAaOCA2Yw
+ggNiMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUYS3pF+qoex0h8dP0isRhin1ig7sw
+HwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBH
+MCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKG
+Fmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wggE0BgNVHREEggErMIIBJ4IjY3BhbmVs
+LmpvaW5zc2dyb3Bzc25leTYuZHVja2Rucy5vcmeCKGNwY2FsZW5kYXJzLmpvaW5z
+c2dyb3Bzc25leTYuZHVja2Rucy5vcmeCJ2NwY29udGFjdHMuam9pbnNzZ3JvcHNz
+bmV5Ni5kdWNrZG5zLm9yZ4Icam9pbnNzZ3JvcHNzbmV5Ni5kdWNrZG5zLm9yZ4Ih
+bWFpbC5qb2luc3Nncm9wc3NuZXk2LmR1Y2tkbnMub3JngiR3ZWJkaXNrLmpvaW5z
+c2dyb3Bzc25leTYuZHVja2Rucy5vcmeCJHdlYm1haWwuam9pbnNzZ3JvcHNzbmV5
+Ni5kdWNrZG5zLm9yZ4Igd3d3LmpvaW5zc2dyb3Bzc25leTYuZHVja2Rucy5vcmcw
+TAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcC
+ARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1
+BIHyAPAAdQBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG9gAAAX5hOPgJ
+AAAEAwBGMEQCIFUIChAl9b4oxvAoJO7hsssd2gMjIQlG/xFLi29nDwpsAiBRpzGx
+H9aDGPKzIkNVCwirQVydi7CxHtU9MybkNc+1uAB3ACl5vvCeOTkh8FZzn2Old+W+
+V32cYAr4+U1dJlwlXceEAAABfmE49/QAAAQDAEgwRgIhAJWlhk9jfwVzfC6+TlBO
+0Ng4/wuDIwepawFbxAUg9KeLAiEAxSpeOzHrWGwJ669+KWVOGnKnwf2w2ozxINfZ
+6C+03XYwDQYJKoZIhvcNAQELBQADggEBADpEhvnZlKa0ekE0sm65hrzpyM/87GW3
+AJovybHfBNgpCPpFXT4I3XFo249ddVk25uo98AURpKKg8SYmMkgHTZl3z4/Kfpgg
+5DPwnKqgx0tSt3AV03emeqz1bqKXFqESaEyYG2gMPIAKJIW0RArZ0MtwjwhDY/8V
+ajdNer6AxJZIQN7MA4QRlZE0m1dGU1rb5WJxdhysXe6fvX39jYpTEUvdMZ6AJnTR
+R4YT/ixO02Z1+Fnvj9hocJ8mWmwaXX2ce2Ilt9ET2YPh/ZwweX2NvYFQVL0THCjP
+wtFYsKBca6gbwMlGSV5ynr2LE/7Ex2Fmpfh/aX2E9onvFGbIWF2JXqk=
+-----END CERTIFICATE-----
+subject=CN = webmail.joinssgropssney6.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4881 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,95 @@
+https://bof-panaderiaamer.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.bof-panaderiaamer.com
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+ 1 s:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGGjCCBQKgAwIBAgIQDJRR2jmvXEboZ3wmIWAHITANBgkqhkiG9w0BAQsFADBu
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS0wKwYDVQQDEyRFbmNyeXB0aW9uIEV2ZXJ5d2hlcmUg
+RFYgVExTIENBIC0gRzEwHhcNMjExMTA0MDAwMDAwWhcNMjIxMTAzMjM1OTU5WjAi
+MSAwHgYDVQQDDBcqLmJvZi1wYW5hZGVyaWFhbWVyLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAJqPQZeCQZxVxMLj1QOBa8k58XgCEu4ntoP99rW5
+Am7KyxNUv43PJ7DkiKcvqFtiISV1OX1AEnOhODUedkaSuB3771i773Dz5sWuJ41w
+kKnqUqxIeKVHnqVdR2aFGct1hxsPWwnqZscSxVyoaVjRF9gWzSp1ln/lfqVCnNV2
+1udOVOY4ur511tqaU/5m4oypmQOPi4sIuEAsGIKuDiLmV8GRp+CJGtY9QjD20qRj
+rgIYsZOgx/JpHS2l9P14T8EuApLMCRECkTLFXI5fuYmA8EGfSF6Qynm1IMiyGiBm
+Qri4UKtIIBlHzx4L8pTdgnJ2vVrPyfH/6L0qO5ajpEsCx8ECAwEAAaOCAv4wggL6
+MB8GA1UdIwQYMBaAFFV0T7JyT/VgulDR1+ZRXJoBhxrXMB0GA1UdDgQWBBSd+kX/
+pEY2qEq9vRgJ/P31xJBdOzA5BgNVHREEMjAwghcqLmJvZi1wYW5hZGVyaWFhbWVy
+LmNvbYIVYm9mLXBhbmFkZXJpYWFtZXIuY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwPgYDVR0gBDcwNTAzBgZngQwBAgEw
+KTAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMIGABggr
+BgEFBQcBAQR0MHIwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNv
+bTBKBggrBgEFBQcwAoY+aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0VuY3J5
+cHRpb25FdmVyeXdoZXJlRFZUTFNDQS1HMS5jcnQwCQYDVR0TBAIwADCCAX4GCisG
+AQQB1nkCBAIEggFuBIIBagFoAHcAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0m
+XCVdx4QAAAF87PC2uQAABAMASDBGAiEAiVeRq/UAOeGy5BdwzJ0oLhQkLIkIEPKS
+5+7duYHPBUECIQC42EqaFDEs51UugwlVSqtuRD3wvrIij65MUSuK8RlpVgB2AFGj
+sPX9AXmcVm24N3iPDKR6zBsny/eeiEKaDf7UiwXlAAABfOzwtowAAAQDAEcwRQIh
+AJSkE0BNs+4dyrEjIdJRLquxZCta3L8OyeP7wLAoHYzUAiAbTcU9VpaahW4zLsWJ
+7X4tqN1YS55rYSXPuqNddEgvOgB1AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do
+8JBilgb2AAABfOzwthUAAAQDAEYwRAIgXy1bUwcZ2YTs/1k1VXojdPwl3vYKgcl9
+yEDzFLeFDfYCIBZ7DaL+rchpb15DJ73m0gl08SqX3BNPNOymIA89K9J1MA0GCSqG
+SIb3DQEBCwUAA4IBAQA8sz3gfJcHIeALhyj/ARGwrmZ8yhLENlncBFKN8dQVucp3
+VnMffP7ncoDGaOkgdFcIYD6m9mS+rsvzPdds7KFcmMTs15HUzlwU1/9HplC7zabg
+hm2KnpeKjeJakLMY+UogHwpXAKbDiIRR/j5dVqnUr7/qnxjGj6YYIHU5nBEk+SB8
+nrrALBGxhXh09sl62g06ZuBfkjNLtkDOLv7kD9DZxAa1rq7106hBBaoXl6EAy3lH
+Yk60XM7/HeBl7iYtjsMFOfkacq3uJEr64VtNVfUrGWWEuMvpw5cCznwnhfPyNGyw
+8s2FRsv8d2rRwTkLorrDVGrcWzGjApFj9PDj59DU
+-----END CERTIFICATE-----
+subject=CN = *.bof-panaderiaamer.com
+
+issuer=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3444 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 09950E9673733E1EABDFACAD0F38E7C5F6F19E98D9956383A76C0055A55728B7
+    Session-ID-ctx: 
+    Master-Key: 279676534824FCC689D3B34E6D7CF287A99547BF32B1654A4599A22C1A47D9B6F31C5E707FB47C54A96556311BA00425
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f9 66 fb 0c 35 dc 1f 1c-72 69 3f eb e4 80 82 ea   .f..5...ri?.....
+    0010 - 9a 16 b9 37 71 0c 7a 88-09 d7 08 58 b5 2a e7 18   ...7q.z....X.*..
+    0020 - 0d 5c 71 8a d1 c3 46 16-92 99 d4 71 c0 43 6d fc   .\q...F....q.Cm.
+    0030 - 59 89 a1 7a 41 da 73 3c-f2 18 57 81 fa 30 f1 7d   Y..zA.s<..W..0.}
+    0040 - e2 75 27 95 90 53 99 21-d8 ae f3 50 87 32 15 d9   .u'..S.!...P.2..
+    0050 - 43 4a 21 14 ab 4e 36 1a-43 4d e2 ca 0d 19 63 b0   CJ!..N6.CM....c.
+    0060 - ce e3 46 b9 80 32 0b 70-00 b6 f5 75 07 00 a9 eb   ..F..2.p...u....
+    0070 - 8a 4a 8e d2 bc c4 5f 25-c2 40 72 b4 36 79 b8 fa   .J...._%.@r.6y..
+    0080 - 68 16 86 f1 3a 8b 41 28-64 cd 28 cf b1 45 81 04   h...:.A(d.(..E..
+    0090 - 6a a6 2e 1c f5 77 b3 86-1b 8a f1 ed a4 38 f2 fa   j....w.......8..
+    00a0 - 94 50 58 68 96 da a6 59-cb 3b e2 62 ee 70 5b 03   .PXh...Y.;.b.p[.
+    00b0 - da 4c 3e ff 5e 1d cc 02-1f a4 59 66 4d 91 f6 c8   .L>.^.....YfM...
+    00c0 - d6 7b 43 f9 31 33 57 a7-cc 62 0a 0f c2 a8 14 52   .{C.13W..b.....R
+
+    Start Time: 1636202187
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

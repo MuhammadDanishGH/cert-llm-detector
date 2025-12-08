@@ -1,0 +1,75 @@
+http://facebook-pagina625580.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = facebook-pagina625580.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHDTCCBfWgAwIBAgIQIJWafsUPwYQTfU3HXSu9jTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTEyNzAwMDAwMFoXDTIyMDIyNTIzNTk1
+OVowJDEiMCAGA1UEAxMZZmFjZWJvb2stcGFnaW5hNjI1NTgwLmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBALfD59aVZTjhyibs3CKNOgoJb8iH9fEJ
+NoVCgV/67Kup3bPkboxbdsaItzFPRsoIRPJoY+MRLjS1CbN7T2FlS7S8gVzr9wnA
+kXI2zrFjoeXJ4PQAi4iXl1aHawYnHDK6y5g+fsy2mtSVcB9z/HR1m9bRp06AlThD
+I5QYeAIyNd2dxqXhK/Rqr6Al5JupbQxlVM221nMnShRMxC+WfwViJGe3+ns/JfpL
+kd5Fz0aIT+mJtcbkEDNJUuSS+VKXCWZwy9bDNfLDc74R01PrZRiZYPQX4rsz4ge1
+DULLGWvBdbcGmLU4hiFSpKIataQxDik0RxTkfqgdfVpXMrwak6opNc0CAwEAAaOC
+A+swggPnMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQW
+BBRjBfb11C3Pj6Uwr7kxFYA8LH3brTAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/
+BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0
+BgsrBgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29t
+L0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21v
+ZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYI
+KwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNv
+bS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcw
+AYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBBgYKKwYBBAHWeQIEAgSB9wSB
+9ADyAHcARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9YIz1yAAA
+BAMASDBGAiEAr9T9r1922IZ/s0M8+kt5r1BK3ujIILbe02qPmT1vzCkCIQCS4SNs
+4zSpJtikkWKKf3pbfbaCOatJbvXlAS7vrUQ9kQB3AEHIyrHfIkZKEMahOglCh15O
+MYsbA+vrS8do8JBilgb2AAABfWCM9dAAAAQDAEgwRgIhAM2pk+pXt6VdxKYtyM4/
+aJoTkw18lSVT4Xgm1l3XDsA8AiEAuf56B67mOfFT3k9brQSRwlJC52qlkRC9tPHB
+gd72RlQwggFEBgNVHREEggE7MIIBN4IZZmFjZWJvb2stcGFnaW5hNjI1NTgwLmNv
+bYImYXV0b2Rpc2NvdmVyLmZhY2Vib29rLXBhZ2luYTYyNTU4MC5jb22CIGNwYW5l
+bC5mYWNlYm9vay1wYWdpbmE2MjU1ODAuY29tgiVjcGNhbGVuZGFycy5mYWNlYm9v
+ay1wYWdpbmE2MjU1ODAuY29tgiRjcGNvbnRhY3RzLmZhY2Vib29rLXBhZ2luYTYy
+NTU4MC5jb22CHm1haWwuZmFjZWJvb2stcGFnaW5hNjI1NTgwLmNvbYIhd2ViZGlz
+ay5mYWNlYm9vay1wYWdpbmE2MjU1ODAuY29tgiF3ZWJtYWlsLmZhY2Vib29rLXBh
+Z2luYTYyNTU4MC5jb22CHXd3dy5mYWNlYm9vay1wYWdpbmE2MjU1ODAuY29tMA0G
+CSqGSIb3DQEBCwUAA4IBAQBD3av2DKyxQfdBnZu20IhSOZX0O3sL/KYSsNFVkztA
+onopJpEfzt3j1DtBVLdiNZ2OSqkiK72NF8qUwW6gNC2JfXAZ4ZddTRReb46rnrSJ
+fae5MZPUfoLYgDDMtuIGnPENelZtNNVt15ZXYnKpJ4MVuaYndbde88GgMvhJoXsn
+M2TqsEMvsHU6WAloI6QMKbDnayfKXrAmbdH85fwEtpMXIceV5iCRCSD7iFrpOMM7
+UbF/eZ6JelBGWJ2oZYBTlRcEYMOAP5TuZHqMn3pgYrL7jEmYFLcctUpC4n6B6LGY
+DOa2KZxbsiG8CSMg1jeEGj44+g0/r84PbOd60Z/fwA4e
+-----END CERTIFICATE-----
+subject=CN = facebook-pagina625580.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5244 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

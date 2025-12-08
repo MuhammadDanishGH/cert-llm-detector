@@ -1,0 +1,65 @@
+https://amazonlogn.gq/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amazonlogn.gq
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNDCCBBygAwIBAgISA89vLlu39Kwlg9KG7PGfwO/sMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjMxMjU2MDRaFw0yMjAzMjMxMjU2MDNaMBgxFjAUBgNVBAMT
+DWFtYXpvbmxvZ24uZ3EwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCo
+YBSZGVA5K7/AEDmjvmM26bv1+4o0HMepLV5r46tp517Msqwn4C4DbVm/IykTfjF/
+Rd0IrmmT/MVp5r9xzg/D0k5O9phub3G/9Ch3odnIeVUE6smg2uTwSLD2HlrNEGlJ
+cxku8YuW2gCUzJfw2SSk6UFGtmmv++eCggnM8JvUfZc6hVGySt7vi21oWua1FyVo
+InataspZsRAQ7hbbqzXAvHThNHvoHBnp1+naE57ZNOJT1CShubBkpUp3Vafv/SPB
+mJMe9WnpYWd4FQmwK+B/wSNk1k3KlmuBBVOzT1p+Ie/ijDOTcUI7E9y5z5kLCNCp
+PrxToIJRtVOAh8Mps/y/AgMBAAGjggJcMIICWDAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFL2N+qrDid4AyKcrJ3UaH3qiWLx5MB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJ
+QOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3Iz
+Lm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcv
+MCsGA1UdEQQkMCKCDWFtYXpvbmxvZ24uZ3GCEXd3dy5hbWF6b25sb2duLmdxMEwG
+A1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEW
+Gmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB
+8wDxAHYA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF955PRuQAA
+BAMARzBFAiAHVVzgGC5gkBKnUldusLdFwXpfAjJPPL6n7x5B+vqvxwIhAMb5r0Vs
+8c3nujhk8ZLg99hKxvz8x5kxO18ea54Nhv9XAHcAKXm+8J45OSHwVnOfY6V35b5X
+fZxgCvj5TV0mXCVdx4QAAAF955PRrgAABAMASDBGAiEA/y7ZINhj5zOSmOFnb6qo
+rI8ns2HU8bJ4l1ahlf/OxBwCIQDEHgDxSyD88FpAWOhWP99OgxqKIPsXq402/ueR
+J1jxEjANBgkqhkiG9w0BAQsFAAOCAQEAUvo8Kqx6TlDRoctQ/SuhJHlYX6Sh515C
+Dw1E5BRThm31wU4ch2YPEMWClZ3o/qPg/07unZpaR/0wEXx65ew607yfMlWsm1TB
+d+PmfvScpidJtZTu21hLK+kN5kYSz3BvFW2sJgYD96I4VQkECWRVqF0BABG4AW1P
+CyVZCvxGPuryjOg2z9HtsKAb6xsXTWu3l8QlNBadMKf2DmpDHsmoq0rNQ1dsB9Jm
+nuVAwSWikgLhMX948nIwtF8MYMRSpCobKTbnYj2q9J/hpJKtcWyQeP9yKbyMg5Wa
+2S+LQjHC+7hBC1h4b0U2ak1tivgE6Us4NId/dVL7Ve6X+r4cPgldJQ==
+-----END CERTIFICATE-----
+subject=CN = amazonlogn.gq
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4592 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

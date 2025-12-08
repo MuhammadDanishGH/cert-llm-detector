@@ -1,0 +1,78 @@
+https://fb-securitypage-100000112345781298926003031.cf/checkpoint_next.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = fb-securitypage-100000112345781298926003031.cf
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHoDCCBoigAwIBAgIQBVuHJ/DMy9GQYwdVxVObpjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDkwOTAwMDAwMFoXDTIxMTIwODIzNTk1
+OVowOTE3MDUGA1UEAxMuZmItc2VjdXJpdHlwYWdlLTEwMDAwMDExMjM0NTc4MTI5
+ODkyNjAwMzAzMS5jZjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJvw
+SLrSwssTsCsvKsjLx+17m8k9mP+CiRlM5PPoJ1OmhwkTw1u4V56x8E5BDXiZOGZH
+JLnpx4ZG2Da9Dz3Fve7BhRu+fnPw102Mf3U2cvqCSOeymxuQpYDhRw+3QdSVUECh
+rxFxN+0RJFMDQOyY1PaMY1zWWVFkZg2pJnkJF8hnuFDFlEmlXXCNPNwSsGMus3h7
+uTA4yp2Xz4V+fNYODZlB3iYCLLP3iS0poMRcRjF70pJ3o1rPddtRhUP83yl30D0M
+845sz4lZCINkm1R8ITj4dU3hVVX1RgskSJnMYpNK4BO4aZaoCQRvJvpXrF4/kxoA
+E3ODd/b1WW+YMDRT9DMCAwEAAaOCBGkwggRlMB8GA1UdIwQYMBaAFH4DWmVBa6d+
+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBT8Fdr5fwkb6/jg6nSiVhrYmuCWgzAOBgNV
+HQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICNDAlMCMGCCsGAQUFBwIB
+FhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBB
+oD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNh
+dGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjto
+dHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0
+aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29t
+MIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcAfT7y+I//iFVoJMLAyp5SiXkrxQ54
+CX8uapdomX4i8NcAAAF7yjABtwAABAMASDBGAiEAn8q40AMHuy5STK+Nz2selOt2
+H3coRdNdm8bTcoPTZ+ECIQCCIvmJWh6ySi9BDujYaBitj12QGolGqT4QSPvy6ITa
+gAB1AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABe8owAXcAAAQD
+AEYwRAIgVYRaV6tvo4srbBpArcrrgS2gn9xmbKQz1vZI+dG8OtACIGq5AWe4i5hU
+5veZLdMoBB+65GZpbOfk3OLCvnVbohr/MIIBxAYDVR0RBIIBuzCCAbeCLmZiLXNl
+Y3VyaXR5cGFnZS0xMDAwMDAxMTIzNDU3ODEyOTg5MjYwMDMwMzEuY2aCNWNwYW5l
+bC5mYi1zZWN1cml0eXBhZ2UtMTAwMDAwMTEyMzQ1NzgxMjk4OTI2MDAzMDMxLmNm
+gjpjcGNhbGVuZGFycy5mYi1zZWN1cml0eXBhZ2UtMTAwMDAwMTEyMzQ1NzgxMjk4
+OTI2MDAzMDMxLmNmgjljcGNvbnRhY3RzLmZiLXNlY3VyaXR5cGFnZS0xMDAwMDAx
+MTIzNDU3ODEyOTg5MjYwMDMwMzEuY2aCM21haWwuZmItc2VjdXJpdHlwYWdlLTEw
+MDAwMDExMjM0NTc4MTI5ODkyNjAwMzAzMS5jZoI2d2ViZGlzay5mYi1zZWN1cml0
+eXBhZ2UtMTAwMDAwMTEyMzQ1NzgxMjk4OTI2MDAzMDMxLmNmgjZ3ZWJtYWlsLmZi
+LXNlY3VyaXR5cGFnZS0xMDAwMDAxMTIzNDU3ODEyOTg5MjYwMDMwMzEuY2aCMnd3
+dy5mYi1zZWN1cml0eXBhZ2UtMTAwMDAwMTEyMzQ1NzgxMjk4OTI2MDAzMDMxLmNm
+MA0GCSqGSIb3DQEBCwUAA4IBAQBGH+hFYUMv4ytfO1nDVYv9Oal4ME14OqdoMLm0
+LCvh9d+RNPatNFqlRkeeROJks1X29bJlfYjCDt3P74TaepRPUZRRSCBBWAFQDCmR
+9Ix5Xk2vIhOGE7oisbP8cXmwSTiH9s/uV5I3KO1iqVDtx7pvv9oIqckyrw69eJxc
+Y9k52FLhyYi1+lWgk/ilh8Pr6054IBePHpyCsryqZWK62z4+7xmhCA3r6TQ9yzww
+FmZVjVIsvs9161rkFSGaSlBZ5n8pR10q/bJlxSrMOWwBlR9R6QM4yefqYbEJln7t
+UL5JQwcrpGmiNjiz2cC9enIJhM1ghNP7m+woFBOvqVWoK71U
+-----END CERTIFICATE-----
+subject=CN = fb-securitypage-100000112345781298926003031.cf
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5461 bytes and written 428 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

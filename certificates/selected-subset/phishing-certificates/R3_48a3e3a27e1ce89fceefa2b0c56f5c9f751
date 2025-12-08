@@ -1,0 +1,82 @@
+https://sparkasseinternupdate.com/NUTP4C0DQZ
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = sparkasseinternupdate.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+IGfZy4gEIOknUhWHtA==
+-----END CERTIFICATE-----
+subject=CN = sparkasseinternupdate.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5027 bytes and written 412 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: F7DAA5BE304B264C22372B5E337C239BFC5B8D2F7F3FDAE7A290EC329D486ED1
+    Session-ID-ctx: 
+    Master-Key: AFCCF7CAB8908435610C14BC991EB47B58F7241CD681C17861BB92EDFA07AB70C5DB83A9E5291D7126E49E7EC2E4C984
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1637283399
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

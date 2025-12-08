@@ -1,0 +1,66 @@
+https://inpost-order.pl-id92806006.xyz/delivery/312940017
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = inpost-order.pl-id92806006.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFZjCCBE6gAwIBAgISAz3bTPhEnk/FQdzRSwIyRJHOMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MTcwOTUxNDRaFw0yMTExMTUwOTUxNDJaMCkxJzAlBgNVBAMT
+HmlucG9zdC1vcmRlci5wbC1pZDkyODA2MDA2Lnh5ejCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBALkDq8fQ1z5e16Rbo2lYzENwZVF1EKlZmWgYRp/26tav
+sqlLIyB7ha20pOgdOmNbgPH+YQN/8pSxnpwEfQBv8pXE4Gq8ULpwpR7otL1CVYHB
+6ExVZsRjDjzeWDRS964sqYP+b+LEw8i+COZf8uND/TyV7mkXACkmaARuUvEujjaP
+Tw2WXnp+nRvpENoXh+Waq7kolF4rMlOplVS86vEjFFTQzFhd6dskHVEtlgalp58w
+YVGDQj1Qu1hk0x01a4Jmf9KeCpRMIcRYCHhFCykQ2gZVCMrDhhuAhkHuKmcxwUJl
+ejglSI1crrFnALh1hDrWKAuzH+Nkx9pbPMCYYQeTop8CAwEAAaOCAn0wggJ5MA4G
+A1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYD
+VR0TAQH/BAIwADAdBgNVHQ4EFgQUvcuosIUWwh+5/lx+3+waMiYmp5owHwYDVR0j
+BBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsG
+AQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6
+Ly9yMy5pLmxlbmNyLm9yZy8wTQYDVR0RBEYwRIIeaW5wb3N0LW9yZGVyLnBsLWlk
+OTI4MDYwMDYueHl6giJ3d3cuaW5wb3N0LW9yZGVyLnBsLWlkOTI4MDYwMDYueHl6
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB
+9QSB8gDwAHYAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7U70R
+UwAABAMARzBFAiEA8xEGDTSw1QzB6Qwj5FLtvsQezKUOUKasf3ejPYyJQIoCIAd8
+aYbqShO/Ta3NxOPv6U4VUPGz0mZytawiG0GFyiBzAHYAXNxDkv7mq0VEsV6a1Fbm
+EDf71fpH3KFzlLJe5vbHDsoAAAF7U70RmgAABAMARzBFAiBRluhhbm9dCPfZo3BM
+Jhi8S7rwYguY+uqE0CzV+WoCbAIhAIcXWYCpLofPnJb+5+qFWLVVUtiio2VfRDWd
+/JkQ32YdMA0GCSqGSIb3DQEBCwUAA4IBAQB3r9E3zvzchas8Bza+8w9aoDhs3+9k
+vcfLQ5eIJEiGCcwY8qjPxShG0PoO1xewUTp7TYNVYs1NyI8AtHipDxqJltlYL0wW
+7k45HrLyJGfTEzPf9+V3S4HxBkRIWmXua33rVfpSrHY76vfh74RMA72Qb+Khd4ul
+h323buWvCORrbzvo7/vcENT9731AGBw1a0rWwHLgi27HFUKLqSncyGFfy3cJN3DO
+dpLrJphrZDD3GIKjLjXt9bWSC+sMvmm4Ud3hEh6NWIDuDx05U8CzTN7annXoJ7Z+
+qLBzDeDSE+HoIfva8rOabQ4VMuJxxpa11maavSLvqJN4sZjaFpeKXr1g
+-----END CERTIFICATE-----
+subject=CN = inpost-order.pl-id92806006.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4626 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

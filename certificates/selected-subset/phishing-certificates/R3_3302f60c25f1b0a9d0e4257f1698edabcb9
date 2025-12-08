@@ -1,0 +1,66 @@
+https://reebokpolskapl.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = reebokpolskapl.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFQjCCBCqgAwIBAgISAzAvYMJfGwqdDkJX8WmO2ry5MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MjMwOTM2NDhaFw0yMTEyMjIwOTM2NDdaMB0xGzAZBgNVBAMT
+EnJlZWJva3BvbHNrYXBsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAM8Mzfr5nff70hV9gTjjOjNQ+HQx7nvWG9JpKM2XLR/1eBtmrBMFkps2QOpu
+KxHKbBdqXDR6eLxrI/noAZjVvqzaoPJ0kZ7ytQ4yOcKTRtnuLcG7ASF0ahQVYU9d
+rGaBO/YdCWjc+7DlfjZmnuTlRncdW/9Ih0nN6Vpvz6TLCzxxnaXTF8n0jgAFyP0E
+GiwyWue75Y9qqgyXrMkusXrvEsK12Dtk8qIx6PfJWW+AwX/i23/pwoHKL2VXlODV
+Yix0kR15i7lk0/z4nFLPRTZWFczuNcsRJ2GSdbgcpicnDFFaRyZIG5bonHPJ8x81
+FaV+/xXzmeU08HuVxQdidalc6ssCAwEAAaOCAmUwggJhMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQULbsUEXJz9h6+ThnWBwhKMPCQsT4wHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wNQYDVR0RBC4wLIIScmVlYm9rcG9sc2thcGwuY29tghZ3d3cucmVlYm9r
+cG9sc2thcGwuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEB
+MCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYK
+KwYBBAHWeQIEAgSB9QSB8gDwAHUAXNxDkv7mq0VEsV6a1FbmEDf71fpH3KFzlLJe
+5vbHDsoAAAF8EjqwuwAABAMARjBEAiA20iUEPxHLuE1wL1ffbSZkODm32Zq3nl+1
+oJFmyPG1owIgVe1a6oL6TOUPFJMcdjY+JG3dxG99WkK7IjJFsqm8GJEAdwB9PvL4
+j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXwSOrDoAAAEAwBIMEYCIQCS
+pd2KE7uXqxwx595T4CaoE3RvNehr2OxpgBhu+l7xJgIhAMRJulHKQIG0ASt6BNKk
+poaTa/ekPjT5ENh1DyXn9GSBMA0GCSqGSIb3DQEBCwUAA4IBAQCie7+Kqf1kmDcD
+Ti46biv46FuOp/XeT+Y1Uqtb3v6AQBS5Co4kMWtpwURXZLcSOfHV36FshLhzRaob
+H8Pa+nb4NZe6iYpe7pTTu8KOlwxZahkNeSQFQWa8pTAQ1gOBNHOH88WE2gUNe2aJ
+pJoeBkn06CxE0cw3R3mRq5B4zRd9ibqrQgZclSQukH9/bPCpNab/PNIr+4d/VknC
+aIBkjmDKR1X4gG3yXigXmuLoF+fl/BNRSaFA18aVMzjuIqMy7rEuQwrfUd96oQBl
+siGjUz690AhDHqGypnNtrf1++xQQfEoPShDpj8TyAsmFMJNiP5qgjhJ0KZwbKF0+
+XmQkRFUB
+-----END CERTIFICATE-----
+subject=CN = reebokpolskapl.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4606 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

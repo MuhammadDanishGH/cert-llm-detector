@@ -1,0 +1,73 @@
+https://bcpzonasegurasbetal.com/ingreso/sesion-terminada.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bcpzonasegurasbetal.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGsjCCBZqgAwIBAgIQV6DrpmJ9YfwW7ULkt53wNjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTE5MDUyMzAwMDAwMFoXDTE5MDgyMTIzNTk1
+OVowIjEgMB4GA1UEAxMXYmNwem9uYXNlZ3VyYXNiZXRhbC5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDsusXOD+oBuJ+psDs+anIPYFZ+nnqPN3oN
+kwQAZp55/772+fm3s7dfiuNL6/MRj2M9FR2VPS1KV4QnvDYTZ16IHhCsO7uqLmAV
+7erXSO9kYMETAvEptEgr9iVL4XnOALadtJZluwlAgMRFMYzsXUJ8O8BQyjDnaLim
+EOFl7gp4DQa0yqNegU/PdoeN6YSgYJcS1+zip53RJHuyo5BB5I6zpu/Zzey6qXqg
+vBOBz3NX0uLiCYPVzMmymCo4GWFuAEzflYyQgMkdbz80jcZtIwJV8OQuIQ8gFPi3
+MYjwK1cMHXsVe+4YFVtnFlJB444Qo3jFqwBX8HxCYoMrrteXu87PAgMBAAGjggOS
+MIIDjjAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU
+36nMESHErZcDkTj5BcjZ37g8SdkwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
+MAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYL
+KwYBBAGyMQECAjQwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2Rv
+LmNvbS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwu
+Y29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3Js
+MH0GCCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYB
+BQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCB5wYDVR0RBIHfMIHcghdi
+Y3B6b25hc2VndXJhc2JldGFsLmNvbYIkYXV0b2Rpc2NvdmVyLmJjcHpvbmFzZWd1
+cmFzYmV0YWwuY29tgh5jcGFuZWwuYmNwem9uYXNlZ3VyYXNiZXRhbC5jb22CHG1h
+aWwuYmNwem9uYXNlZ3VyYXNiZXRhbC5jb22CH3dlYmRpc2suYmNwem9uYXNlZ3Vy
+YXNiZXRhbC5jb22CH3dlYm1haWwuYmNwem9uYXNlZ3VyYXNiZXRhbC5jb22CG3d3
+dy5iY3B6b25hc2VndXJhc2JldGFsLmNvbTCCAQUGCisGAQQB1nkCBAIEgfYEgfMA
+8QB2ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaOHtGFAAABauUzH+MAAAQD
+AEcwRQIhANiKOziEitRuz+v+f/kyAyL/Wod6JaGjZzjOhOLjBEm5AiAcRvsbMEVK
+hZy6t99a4Yh2OqkrqsHQb/26immklNySkQB3AHR+2oMxrTMQkSGcziVPQnDCv/1e
+QiAIxjc1eeYQe8xWAAABauUzIAUAAAQDAEgwRgIhALNqkoTsM7puIbtCnHtkd1dX
+kNXtiU0B81yYaUWoTtqRAiEAmGSQd/KlxvAVUtpBR8zat8ql7NPP+g8/gKF+B1h8
+ffkwDQYJKoZIhvcNAQELBQADggEBAExMx6HjyyVj4pNm44l3l9inagJugH7uSdcg
+z2b+r8KzZWUQlH7O7Fbxo6OEAgdFZ+en2NbhEjaaM4CS4XNNCVUpVr+aqmxTjlji
+P+V2Jz1bzjAOo8B4Q3EUu91aj0jz/T9nVKoprttNlrqtLyX2uqGBg3DajTjVULHz
+kV67u2nUilnFRGQnEkQ3Tv9CSxGbilB0lcGczDtMjmqgD7hURCiPpJTAAlLufYt+
+45nA84KmREMJz3cIKNT4PpMBOtK6XzuvKfiO2OJo3KQv5zfnqDs19tNl8FAolyTV
+Gq4fXfeI4DISt7X5qH7t4y7lj7H2ozJiIA8xnG0U+4ydbXJKOv4=
+-----END CERTIFICATE-----
+subject=CN = bcpzonasegurasbetal.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5143 bytes and written 415 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,72 @@
+http://www.4ctech.net/mont/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = 4ctech.net
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGaTCCBVGgAwIBAgIQUfVDcU98V5ddcmsEn29MjjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDgyMDAwMDAwMFoXDTIxMTExODIzNTk1
+OVowFTETMBEGA1UEAxMKNGN0ZWNoLm5ldDCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAMf3zj5PnfPSGU07zTOXbVfxV2I3pWGg7Q7WUBO36POwlBJIixfH
+XeIGu+gIklnHekLV0tJ3Khaj65SoJBY/ouGMsBj/oOUd2Q725fQijROmThpHpJZE
+U+2HgmZf7OupWpDYeBBpKcPEd4NMOQtUwWlWGI/h1T6sgmEHcCVMwdeuMKRHaR5u
+J3WUV56NTZd9XbMrs2oU9asieSUxK8eqq6bz9NiEPvdZlvtIu/b1H4FykzjlsfFF
+HewKOciVEH17ye15BA4+j1QkBWQaMFYhvFz4gRRoSy26tgvsfNArxV+Lk1J+jhOp
+poQfZuWzvrwOvY6s1GE0cg/4DyO9dSdjy8sCAwEAAaOCA1YwggNSMB8GA1UdIwQY
+MBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBSH1TDWkGWRnHu74il/
+1TjtYMUkrDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICNDAl
+MCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEw
+TAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20vY1BhbmVs
+SW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEEcTBvMEcG
+CCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0
+aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3Au
+Y29tb2RvY2EuY29tMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHUAfT7y+I//iFVo
+JMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7YgyfrwAABAMARjBEAiAgZD0uhVxF
+VJ4b3/M8g0HYKKlaKGsU1jlO3OWptz8znwIgekV7+fcER98RgplIYMTCmRzupQzo
+Nm1o9zot6EaQi64AdwBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOWtbaBqAAA
+AXtiDJ+7AAAEAwBIMEYCIQCEr5QU1zF3saKs9X1htiTEMR8a7ABrRcNAlNtZSDyn
+RAIhAMyX6QFrgQFYJ836nTVGepi26lKwcM4zpd/WKQr4ravmMIGyBgNVHREEgaow
+gaeCCjRjdGVjaC5uZXSCEWNwYW5lbC40Y3RlY2gubmV0ghZjcGNhbGVuZGFycy40
+Y3RlY2gubmV0ghVjcGNvbnRhY3RzLjRjdGVjaC5uZXSCD21haWwuNGN0ZWNoLm5l
+dIISd2ViZGlzay40Y3RlY2gubmV0ghJ3ZWJtYWlsLjRjdGVjaC5uZXSCDndobS40
+Y3RlY2gubmV0gg53d3cuNGN0ZWNoLm5ldDANBgkqhkiG9w0BAQsFAAOCAQEARU2v
+wXniOlJO9pwWuH6P/NAhVQ3w76vy/ivds/UdgODMoYROHtCaryIbvix8aoAzW31i
+puIUj2lIiD2oprSnEFb4kpTxKpxRXuGW4y9u1NyVgqdihYP8FXr394WQRnEuZBBd
+roT0JUCkICRaeYjkfFJzN+ypVYugfDOES0VGkeC4saan6q9dRgUEc7QGOHasTPk0
+agiIaMO5W4wLqcsG8gztKtGl/+jLmggbM/UNT3EfTCPb3OSbxEa9SsS9g30lUMY5
+CQbYrT8hBHyxmbRjhhZ/JSZrseipmvTW4SazhS/T+lDn8LHpLcThiYeMiQKPW9LH
+SSew4fuOz5dukLpL1g==
+-----END CERTIFICATE-----
+subject=CN = 4ctech.net
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5150 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

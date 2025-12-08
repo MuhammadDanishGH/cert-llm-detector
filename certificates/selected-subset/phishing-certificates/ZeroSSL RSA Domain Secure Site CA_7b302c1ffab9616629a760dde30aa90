@@ -1,0 +1,97 @@
+http://mulenaikokjs.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mulenaikokjs.com
+   i:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+ 1 s:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+subject=CN = mulenaikokjs.com
+
+issuer=C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4106 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: E1251F1EC4880727F7709AD9CD269D51A5DB046B8CB51FE996A45F67E7B410B8
+    Session-ID-ctx: 
+    Master-Key: FBB3AA0A86F19BFE79BFA613D1824CF6177ACF4CDA24189D1A02B125C6A26FCAD3C9FEED5B40D37ECC8C318946495AC4
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 5f 22 61 b2 85 a4 d4 48-e7 30 21 95 3d 45 b9 80   _"a....H.0!.=E..
+    0010 - f8 15 56 d1 0d 5c 86 8d-7a 22 8f eb b4 8a 35 44   ..V..\..z"....5D
+    0020 - fe 3e b6 89 d1 46 95 e5-45 50 26 fe fd 79 66 0f   .>...F..EP&..yf.
+    0030 - a7 46 c8 9b a5 63 d6 f1-3d 56 f1 4d 11 6d d5 52   .F...c..=V.M.m.R
+    0040 - 2a bd 11 ab 1a 94 59 7d-a5 08 51 7b 51 64 ea b2   *.....Y}..Q{Qd..
+    0050 - 00 9f 7e 7a 55 dc 84 8f-d5 b2 20 25 09 ca 0c da   ..~zU..... %....
+    0060 - ce 9e 0e 51 06 61 e9 f7-d2 9e f2 77 25 e6 65 06   ...Q.a.....w%.e.
+    0070 - d9 33 ba 24 c4 6b 97 b1-30 e5 e4 5d 9e 6a 47 4e   .3.$.k..0..].jGN
+    0080 - b2 a6 2a b4 b7 fb 50 27-31 26 31 3b 79 8c 35 21   ..*...P'1&1;y.5!
+    0090 - 3b a4 89 a4 dd a8 84 74-94 e6 75 06 db 4d ea 4d   ;......t..u..M.M
+    00a0 - d2 8e 4d 4e 38 c2 51 80-72 90 c6 a8 95 52 e5 b7   ..MN8.Q.r....R..
+    00b0 - 04 aa 19 8b 7b 5d 09 45-79 0d 67 f7 f6 57 f4 a1   ....{].Ey.g..W..
+    00c0 - fb 22 7f b5 2f b9 df 5a-ff 6c bd d4 2a 42 7d 2a   ."../..Z.l..*B}*
+
+    Start Time: 1638751351
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

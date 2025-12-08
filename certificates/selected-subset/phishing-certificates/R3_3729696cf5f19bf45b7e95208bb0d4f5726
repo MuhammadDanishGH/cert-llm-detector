@@ -1,0 +1,64 @@
+https://ltaucartaocredito.com.br/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.ltaucartaocredito.com.br
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUzCCBDugAwIBAgISA3KWls9fGb9Ft+lSCLsNT1cmMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjAxOTMyNTFaFw0yMjAzMjAxOTMyNTBaMCUxIzAhBgNVBAMM
+GioubHRhdWNhcnRhb2NyZWRpdG8uY29tLmJyMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAsRPMs4y0Z0/f6ER4CGPBcgYd9jZarvBUV+6tzjB6K+mEAfen
+AIN6PwvFb5/OO7mK9L4G6pTkaNUw6szT6pvOGptVS34a4EAiXTuVlbi6QYUloFb7
+R3oUblXGdaR5zyUEv2JJv1ox++n1glqKzYrXAfqIHEwArX/vllkmgt6WWtRjwbjo
+BdnQn+VrM5cyUclM3I8kYdRH+DxERaYDW3+CP0om4HRqVKDm7fDNxX7srgFCJAUY
+RjByO7Ile2chODKKfXt817rjyY8tuO5c0piECq8HFQjbe8NgF1wN/xVCJgaguaT6
+qQKM2IVZoQsixWQ890Y7hnkR+7cCm3Zwz1M+WQIDAQABo4ICbjCCAmowDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBTJOw3ROmdq+JKBdAMNLHaaZtZQxzAfBgNVHSMEGDAW
+gBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUH
+MAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3Iz
+LmkubGVuY3Iub3JnLzA/BgNVHREEODA2ghoqLmx0YXVjYXJ0YW9jcmVkaXRvLmNv
+bS5icoIYbHRhdWNhcnRhb2NyZWRpdG8uY29tLmJyMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUA36Veq2iCTx9s
+re64X04+WurNohKkal6OOxLAIERcKnMAAAF92YwDZQAABAMARjBEAiBA2V9HwNug
+6MJrHqh3rTty+jO5qjGUEycw9zNhCBLgdgIgYDaszVwSa7a6SS+nl0Fw2TMayODS
+Pmp0SgWnOZQfEtUAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAA
+AX3ZjAONAAAEAwBHMEUCIARfEyaFpggUDAssZzGHkyR9AJbAPVkrB9zsqPlThlsN
+AiEA1e5qqsb7YVeHFvLXIScrrbkQAKqn/pTqUK6/Wa0RnpIwDQYJKoZIhvcNAQEL
+BQADggEBAGSDt+sptBoXX8H7M+vQDyZQqHTclBsAlToYc9cnQAddHZO72bxDgMBb
+8dkV9nhhsZRUmo6aOC4/eXqGAGLXI6zn4oyuIuyGN5b6zVEzfAFNI3gpkPKpYEuM
+tmdGfatXE5rtZvlmasQJPcfNhWIfY5KHRizO5Uh1UcTVVMUO9WOtxMkP5rymTgRO
+t7is2/q2FA7Mv2cVEZTQ2yGek3FgTSHFlvUjZzrgWT9Irip0FrHKLigKR59Ibr3y
+U/lBI8nav3FR2lCUEjBr1ko+VfX6gN/eN8fLk5cPth0Qiy8thPPGey7MIaCEd0Vj
+GzSPp9DOpIaZiqu/HoDB0eahsZForw4=
+-----END CERTIFICATE-----
+subject=CN = *.ltaucartaocredito.com.br
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3238 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

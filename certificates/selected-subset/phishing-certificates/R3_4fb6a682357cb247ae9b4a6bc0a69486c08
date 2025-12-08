@@ -1,0 +1,65 @@
+https://knnrshitpco.servebeer.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = knnrshitpco.servebeer.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNzCCBB+gAwIBAgISBPtqaCNXyyR66bSmvAppSGwIMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTgxNDUzNDBaFw0yMTEwMTYxNDUzMzhaMCQxIjAgBgNVBAMT
+GWtubnJzaGl0cGNvLnNlcnZlYmVlci5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCvXGbzVwncckrmOoSxd9SWPaOTbmxcbE2NPHag6dzmVsWHT/Yz
+o9a+/kLxCB7B//K8OMNv8hOFRs64csYqn03UuZkmNpUPXjNoLw+RacxZtbxC8PmY
+zqWIIsphekjcLc2HgglEVpso0qFxdnc4w2hI4BVwo9dg8V4XRwUblVJ5/rtFfd1T
+sJ79S04LO7whT9/v5sODlQU6ggvRjZ6HMcANpp752fo+dyc4jOh8Ia2Z0nIj8AuR
+XltU1TbNADS5orNtkyv8g+D6Ag5FvoI+f2kRAj+neiOkpDGVnhKSTSf+i2bBObsk
+dg8o7fRKfsqt0fjI1BaJCegUlkTQrJHqgRhfAgMBAAGjggJTMIICTzAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFDRxNdiFxoCE1+0lpJNLPEzv3gVBMB8GA1UdIwQYMBaA
+FBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcw
+AYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMu
+aS5sZW5jci5vcmcvMCQGA1UdEQQdMBuCGWtubnJzaGl0cGNvLnNlcnZlYmVlci5j
+b20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEF
+BQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQC
+BIH0BIHxAO8AdQBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAXq6
+UrTRAAAEAwBGMEQCIEqTh7fURTYXdWD2ef8DvpsM+5vVOeEFqVerV3kCZUZJAiBB
+7aLvqtE+9hGDi4msXnmUwMZ/FrEX/9i1Mzw+oUsfBwB2APZclC/RdzAiFFQYCDCU
+Vo7jTRMZM7/fDC8gC8xO8WTjAAABerpStncAAAQDAEcwRQIhALibMh2CZTDt0LWq
+yUwFYOG9k7HN3cIaFx4K9YrLzjxXAiAO82nOMQWu3LGaaL73YJDLLxIS6PoSMU+o
+nzR4nRl6jzANBgkqhkiG9w0BAQsFAAOCAQEAnv05m4SzQ7pT3bvan1xNuY5e2C0M
+pzthlnjkAqOzIfUflyZoAxMr8RRRo2vyKKoCjvDWoEwtQa8DhfVqKw72zxmTGx8P
+hyDZcbancwA+4/YJULEZMNbbu0BMajv3jYk6KGHwlJN8jAmqU+m8L1wIzbzv2eLE
+19IZk7/5qg6N2j3b5wAaASCzKxvXoY1SNcXxA0EQ8Mt14pWGEpnIzYwbMJxZDn9j
+QsZQKI0mNhm4vMtBWyAPIo3wGBcYxj7XNG0bPWSIh7Xyc9pqGj9yk+wgISKA5nyM
+XMt+cEl/GgqTkQu4Z0l2ZFzZlrl0nkQHtoBPUOORTMTopWg3PcwcoQBcZA==
+-----END CERTIFICATE-----
+subject=CN = knnrshitpco.servebeer.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4595 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

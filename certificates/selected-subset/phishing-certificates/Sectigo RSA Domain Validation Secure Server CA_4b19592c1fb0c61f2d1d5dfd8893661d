@@ -1,0 +1,70 @@
+https://sc-en.net/sc/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = sc-en.net
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGKDCCBRCgAwIBAgIQSxlZLB+wxh8tHV39iJNmHTANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTIxMDUyODAwMDAwMFoXDTIyMDUyODIzNTk1OVowFDESMBAGA1UEAxMJc2Mt
+ZW4ubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvj0rBEGwdWil
+rjdmORYH5rSjTKS4gXS9Ru4gcrUldBkxYcQnLgp0b/W7aUvUHZ7/rtMKoV/b93qs
+ZGL7c4vcI82Vwf+SYreWBxq4iAO4MMOwyC6ks8wGCb7n+jyzfoIX44QGx6VDlOUW
+jWfl+82GXacjRTAMpjVYzCPFT4iIen+ZxJBHj4gn+868J6APN4wOA3HRfbzIi/0Q
+Rp6kAjd3c6JsSBwFtTbWK1fFv79IHgoAoD6XcWT9lvfQFJ1Xai5kWS5ncsRot4NZ
+ebit9qPN/9gFgC/LjNEsQgcyUe8W7Keu489R4nNI3AbFaad2rcxxCg73CP4ZaH2H
+/LOMF2uvOQIDAQABo4IC+DCCAvQwHwYDVR0jBBgwFoAUjYxexFStiuF36Zv5mwXh
+uAGNYeEwHQYDVR0OBBYEFD9TikJwBJsHyaXvNFFmwC0LH2XdMA4GA1UdDwEB/wQE
+AwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYBBQUHAgEWF2h0dHBz
+Oi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYBBQUHAQEEeDB2ME8G
+CCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1NlY3RpZ29SU0FEb21h
+aW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsGAQUFBzABhhdodHRw
+Oi8vb2NzcC5zZWN0aWdvLmNvbTAjBgNVHREEHDAagglzYy1lbi5uZXSCDXd3dy5z
+Yy1lbi5uZXQwggF8BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB1AEalVet1+pEgMLWi
+iWn0830RLEF0vv1JuIWr8vxw/m1HAAABebJ3rHwAAAQDAEYwRAIgQs6PMRCfsiR+
+azXm5BVy+wDYKscCsDaX2sIGf6WH6g4CIGXeKGKrdyPcmEwBIATjq7U7RE10KuAj
+fFihbQyAPXenAHUAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF5
+snesRAAABAMARjBEAiALoyD9hKfGdr7clQOt+s6FQ5WtWyPL+6U2nOOfPWqJsAIg
+MsoFk34VHiUHZ62qzZqxIqQgshAILzgKevbcg6MndOwAdgApeb7wnjk5IfBWc59j
+pXflvld9nGAK+PlNXSZcJV3HhAAAAXmyd6wfAAAEAwBHMEUCIQDPB2RUUZPD+YiX
+ZMIU0AtlrxrlbEgvNvNW5AhKbCFxsAIgaXmNxKae+qo8ZMxd6oOSyp2gnQ7/tkYc
+/mboskkTs88wDQYJKoZIhvcNAQELBQADggEBAMQFkJnZR8orE/d1hM5N0ev08Zoj
+eW7Lo3C5S5U6d6xPFbh3Ce5qrG4j+6MCGxXtPnhOBoK5w+EjmXkOQmBp6EQRLxGD
+mYakAq5+CvZI9mr3J0vNhZlb17Svd3pG8sqp6g1irypQTh67Yze5Gdt0Z8LtnbG4
+udAwrMvQIY0NdBpp2iq8HPdRh0kV5qd77KN/xYa3SfmiaUCriKabMb1YSHmUVwBg
+O98AcUFd+2cfaGJmqBSq6ZsBt7+qzRZM2jEUCaRb4OsQDfRukoLyGbpnYofCzTSj
+7aYL1rgT3lqcOp3EN7zKvRq8fdoc7Z4dp4mOHcpoePl6ssEAlr1EleBpeAo=
+-----END CERTIFICATE-----
+subject=CN = sc-en.net
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5122 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

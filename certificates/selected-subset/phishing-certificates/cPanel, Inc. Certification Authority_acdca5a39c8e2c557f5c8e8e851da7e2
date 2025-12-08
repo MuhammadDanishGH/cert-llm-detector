@@ -1,0 +1,69 @@
+https://cannfucius.com/alibaba/portal.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cannfucius.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF1DCCBLygAwIBAgIRAKzcpaOcjixVf1yOjoUdp+IwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMjAxMDkwMDAwMDBaFw0yMjA0MDkyMzU5
+NTlaMBkxFzAVBgNVBAMTDmNhbm5mdWNpdXMuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAt/iTTt3l/4Uhxm0YojLKquuG4kS/2xIK3LUdc9PNJ6Xw
+GqzmgB16D+tn078pDQuX34PND1d5RX2SKyuo7DHER8ei/czDNvTXg19LFzTRm3oE
+balqWkoY0NvI6dOphauCpxEMsAmMlBwEKeiG1yD9xus/EqombRtNDRB31t8/f6Ty
+OCFAwL5xgj+isBy/Fa/FRJRUGYIy7o5oum+FnRrwiH8pvLQZww+FLP3cmb3M5A/a
+/SLtHeJ7pzvtilIEm10TxialxjgovEWlUy4aPQeRQmzKelaavbwor7AB1HHDTSmD
+MpelnNzVcNNFCVgCl45tf9L+oJG+8H/6DFDXq1I+RwIDAQABo4ICvDCCArgwHwYD
+VR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFCzzWLprxlBX
+pQgXHAgdTQyCdVU0MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEB
+AgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeB
+DAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRx
+MG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbElu
+Y0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8v
+b2NzcC5jb21vZG9jYS5jb20wggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdwBGpVXr
+dfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX4/dNWXAAAEAwBIMEYCIQC9
+06jxcah238Bz+RLDlumIHqDFbAPMjsU70bFnUgpQpQIhAPaNA0+9Z+HqP/8M9bvm
+rXmLc8Q16pK/80z+I65S20ETAHUAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jw
+kGKWBvYAAAF+P3TVVwAABAMARjBEAiBpZWgSAQnamT1MULflya1Lm/KjaMLCNMiE
+aSxGwQTqkQIgeeQYcCLpEh2RoONTASpCaJ8gsIZUu6EitL4C60sp5M4wGQYDVR0R
+BBIwEIIOY2FubmZ1Y2l1cy5jb20wDQYJKoZIhvcNAQELBQADggEBAFIBoP4PZutY
+S6/71D60nBglfZ/cHGVcvqzFjxrlAUi7JCcZBZfUoPaa6Rz2NMXPBGSPsqqwdEKu
+5f0cnTgCh17U8wGXRJ49eijZXyIAkvUxpYWDjhqbpQfnc/I71CpZr+LxtQ0Zm07E
+qi6Deu/Z1JBNxnRYvariNgRGUyrOdW/9XRGYdtlnoUCoZtlJzWhoVE/DqfhCalhR
++Q05SCDM4ikon+uONCw9SFbXNVDw+Pp3mosBa/PsL7gljCOWLV9wB246bXYRQSJr
+Mr1/cdmQMXYF8y5bkK8U5ooDg7tZ3K5Jhp6pMkoA2qNwKyBfIADZmc65yUBk+Ifc
+Tc8VOUkyKIo=
+-----END CERTIFICATE-----
+subject=CN = cannfucius.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5001 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

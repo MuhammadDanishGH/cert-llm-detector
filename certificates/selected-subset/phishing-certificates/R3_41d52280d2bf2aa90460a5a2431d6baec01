@@ -1,0 +1,67 @@
+https://competent-montalcini.192-210-180-10.plesk.page/ca/ca/ca/z0n51-ca/fd14293737edb56/region.php?particulier
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = competent-montalcini.192-210-180-10.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFlzCCBH+gAwIBAgISBB1SKA0r8qqQRgpaJDHWuuwBMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MTkwNzU3MDdaFw0yMTExMTcwNzU3MDVaMDkxNzA1BgNVBAMT
+LmNvbXBldGVudC1tb250YWxjaW5pLjE5Mi0yMTAtMTgwLTEwLnBsZXNrLnBhZ2Uw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQD0Ax5kGa8ZSgV38b3+vVN5
+EBi+xLw+i481h0zxQ5J0qkDd0BJit6D6eChfmmntIZCZ9dBpa+USIne5kx4woGTP
+zWK0GiQ9cSZFC537Jdk0SoHnktskkkYyza1h1iuy8MumoVl74KAMHi138RscOM70
+XQ2SrcroLuFsn+7jrTmvhGmU/VaHOWealPHE/FAWjRDZ9ELmDKhVcGm285aVXWIC
+vaNYzPhqZynwSA5/o/4gPWQ1gTQPEBIObJhwkK/KUGw/nz462+TlAADwsVMtzKaJ
+mdIHkTAM2bXNtOQrx/vZ1KLQB+fE6M/CS10p4wAeNfqwF48M3/stXd2hnWn6D5oz
+AgMBAAGjggKeMIICmjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFHDnuaSsjjc5Od5E
+aZaKAtth0JLVMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsG
+AQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIG
+CCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMG0GA1UdEQRmMGSCLmNv
+bXBldGVudC1tb250YWxjaW5pLjE5Mi0yMTAtMTgwLTEwLnBsZXNrLnBhZ2WCMnd3
+dy5jb21wZXRlbnQtbW9udGFsY2luaS4xOTItMjEwLTE4MC0xMC5wbGVzay5wYWdl
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB
+9gSB8wDxAHcAlCC8Ho7VjWyIcx+CiyIsDdHaTV5sT5Q9YdtOL1hNosIAAAF7XaDa
+zwAABAMASDBGAiEA6YDCTr91wMfxtfeqXGj3evSIMCQpJcLFrO+Sep07u6UCIQD3
+GZoDqLa5xzkd0JXKdou5AJjHm291K6TpvTzCaoq5HAB2AH0+8viP/4hVaCTCwMqe
+Uol5K8UOeAl/LmqXaJl+IvDXAAABe12g2vgAAAQDAEcwRQIhAMAAw9SDSwnQqE7X
+MiYPgyVCa4prZohR8SmxPEXAnGYfAiBND8QtDMnGKHyOQZlzm7E0PzNK5I18ivmw
+N30rv1sacTANBgkqhkiG9w0BAQsFAAOCAQEAubzbtKY1QyARQKrxXmXbdWzrH/D6
+qyW4PXquSvv9I7XFmTlkHzhhBUiKRba6O7TuqC1HNVsLoFRHuBEUN1rEj2U1QVO/
+mvjtfPOxUwU/G6xjc78h5k4lJ80SUdI2uHVaw9uTBXSEylS/PpmG4uGYBe3qv8/q
+03qTybukanzJJbp5/y/E5koI23ptS/fdwCISbs651dF2dfYjY+E6KSsccpZgm6qP
+/iIhmLl9L2CQdFsWRTbgzxhT2fHMi1t+5NflC0AFQ4brWZKSiUb1FNuFF3q02iyw
+sVfkATpmvALNlqHZDHdU0+GcCOBLwFlraG0mfNf2ErEwX9+ZjJ4o3ME14Q==
+-----END CERTIFICATE-----
+subject=CN = competent-montalcini.192-210-180-10.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4691 bytes and written 428 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,66 @@
+https://polygone.technelogy.site/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = polygone.technelogy.site
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUzCCBDugAwIBAgISA+Bu0F8fCRFhSoJKeRtYCY84MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMDcxMDUzMjFaFw0yMjA1MDgxMDUzMjBaMCMxITAfBgNVBAMT
+GHBvbHlnb25lLnRlY2huZWxvZ3kuc2l0ZTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBALw0mMBkO7c3uhnAylNrmxRENqKPqwwdWm9zVy481/eZv42L6QGP
+zun8pcokFFK5Y06n5Y6JVDE+XFb1t1kEFenP3XJuq8opK1rWDwfHENJo6/pbiZD6
+mmbFER7ueP5F892eyFK7Q54NbUgokEKE9uNe7UmccwNGjPIPzEJOhy20h+1LhZgn
+pYlfnFRLFY+CZY4OiEpiQ1KO6FZacgdAvwbQCw6DfbFR9Dedz8LvVluitJV1Gzoo
+yiZRMSQ2BV3KTS7pYVXDAX/2A5EgoN9NOSehqiL/X6rHKpputlwTLJOnUKIPZYB8
+iBj7v6+3g/6IoYsUkk6IjYV3CSip/ca39X8CAwEAAaOCAnAwggJsMA4GA1UdDwEB
+/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/
+BAIwADAdBgNVHQ4EFgQU9rQA3OWgxQR7hEpFy282HkJaSHQwHwYDVR0jBBgwFoAU
+FC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzAB
+hhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5p
+LmxlbmNyLm9yZy8wQQYDVR0RBDowOIIYcG9seWdvbmUudGVjaG5lbG9neS5zaXRl
+ghx3d3cucG9seWdvbmUudGVjaG5lbG9neS5zaXRlMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYARqVV63X6kSAw
+taKJafTzfREsQXS+/Um4havy/HD+bUcAAAF+1AgCKwAABAMARzBFAiEA1Uv/r8R3
+3eE3k1ZQcbMtODZh/b0gKo8LBak+uJiHDr0CIHsBXVHdk8sC2M1Y851PPZ4QE2Jm
++Z9k/lwcc6M2Ndn4AHUA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMA
+AAF+1AgD+AAABAMARjBEAiBvO2T8Ciw0s+s41T27P24/A46AFxLr7KzmL9TeWjOE
+xgIgS9/ECk+VCOsekthAZTUBf6iaGE8CrwDfqLx4N+sviOQwDQYJKoZIhvcNAQEL
+BQADggEBACc47oilGHsYnvuPiis2g23y8z3ibYtXpdc1KJKCV+05D8g0hFlp6eb0
+FwVND015olkOMHG1BhJVDCCokK1XNLNu2e+F7iuLKgXWqYMH1WccypW+kw8d8IUh
+RYCpEhHpSkRt673WtSEy/lk+f5NhmjzO696N4l2ODAtCO+HBoRVu89yrqxM6vA9w
+tk0qglUwqgeG3bivqnDPao3nUJa/h7/JPCh9ZRVWFROF7wCd8IZGR5jC+vW9A0KL
+MvO1gFzVZC52anlrYsZKUKOZ4V/Yl+mp91a9LY/WUpiYA/N4GjuR9hIDsx1rprEW
+urPJVI0Zj6QWrqZ5bAnwIlvBLfeaAE0=
+-----END CERTIFICATE-----
+subject=CN = polygone.technelogy.site
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4607 bytes and written 382 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

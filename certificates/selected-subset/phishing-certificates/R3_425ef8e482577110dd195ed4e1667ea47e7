@@ -1,0 +1,65 @@
+http://anniversary3rdreward.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = anniversary3rdreward.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNTCCBB2gAwIBAgISBCXvjkgldxEN0ZXtThZn6kfnMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA1MTYxNDQ1MDJaFw0yMTA4MTQxNDQ1MDJaMCMxITAfBgNVBAMT
+GGFubml2ZXJzYXJ5M3JkcmV3YXJkLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBALimkn1LJ2IoR6ESxp8pNufuudNC1Xhkzq0SmVuBJbMJKoAhbWCO
+C/Ml/3jCQgPaMm3GvIga2nNVPlwfTSmp5gJh9U0DHcabY7JGkIPoSauEqUJ8JHPS
+apQo88UxkkukLduRNoHpt9MinKl15qdVnJ88KOdaotniiMg7EjlowsRV988ovjLM
+mR0A1Pmw5y84PJg6VjiAsKXHKtd7B8nDhPJZVu1IYQgKL9S+sZP3P7sfhKBdSZJ0
+JD1Y2hDcrlVSgP8vZscgi1Myd35N2Y7Vxk+y/BpyvZcJGvyJsEFgXHjrjmCHn2Bc
+ye2EknR8KVfK2PL6i11aY1yLRFdcRoN1Do0CAwEAAaOCAlIwggJOMA4GA1UdDwEB
+/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/
+BAIwADAdBgNVHQ4EFgQUslsDzhPLU4ms9a/feReNd+Y2O+IwHwYDVR0jBBgwFoAU
+FC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzAB
+hhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5p
+LmxlbmNyLm9yZy8wIwYDVR0RBBwwGoIYYW5uaXZlcnNhcnkzcmRyZXdhcmQuY29t
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB
+9ASB8QDvAHYAlCC8Ho7VjWyIcx+CiyIsDdHaTV5sT5Q9YdtOL1hNosIAAAF5ddor
+6gAABAMARzBFAiEApRD3ofNDt0OeWl+uaE+PzSu/5c4K4ZAiSA7WDXZH3cwCIEuy
+TXNcmIlju1ppsH2RY/PN2FyDlm91Cr4B+2Pb7pMQAHUA9lyUL9F3MCIUVBgIMJRW
+juNNExkzv98MLyALzE7xZOMAAAF5ddor4QAABAMARjBEAiBVbjFXjmRnDI+4Qs8l
+v1A4AovR6s7Zb4+VmATc9wR2qgIgMbFJp5ZN9UUQW1MhsrCTQYstRm0jYWKWt0E0
+xSq0TrEwDQYJKoZIhvcNAQELBQADggEBAKDypGhUGVxsHUbTIpquZKWPwLyUVlN6
+GgdJ31dk0TUFWxiBVS8psVreJnqzo1DaaRr1hHPr9Xpt8JpDI71u7FIbNGXTyczN
+krnGfDmYJA2ExdBm/nk0KnmQjO3jNgJOL4zcF6/tA1EbIGdHvucXkqgSraPhDniI
+x8quc0KFlr4T89XftdoYzhzRE+zcpoEsJLvrIJ0DSWKZrWq4//LVDC9hWAhBP0vi
+31A4P5vn1OhS5j9/Itqu1z+ADqs7yRF6roU13iSaYUpM+jTWX5cqiTZw6qsbNzxI
+w7EuP13XSYg31KjgvJFX8qSpwWQ7J9XsTt4f7AcPJZx22gO7rsASDnQ=
+-----END CERTIFICATE-----
+subject=CN = anniversary3rdreward.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4593 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

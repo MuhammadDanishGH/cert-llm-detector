@@ -1,0 +1,67 @@
+http://www.ofertade24h.com/545454SSiiDDDDD_55/index.php?&amp;id=1
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ofertade24h.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF7DCCBNSgAwIBAgISBKOXPR8lhsTkz3nBf8IGSE9JMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MTYxODQyMjZaFw0x
+OTA4MTQxODQyMjZaMBoxGDAWBgNVBAMTD29mZXJ0YWRlMjRoLmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAOjkXE2IqL6WzdOCYhDr7UtAtNsrGCyZ
+T//fSK5pPCWzWDdP+lvlVhTsryUVO4U1Y60Wd+6fS4dlnqQXOpJH5OkT6coso4oq
+cZh+P5fIKog5IwdnVU7rktAJFnrQfz/Iu6Qd7UCDYzDPg32GbUboElY+DIgA5UCY
+b9RpI/44XMrbm+Fz5WRHCNTh4od8Xgeii3cetK8Hs7hXTOPT1Ue6nY/jNA621Ehl
+YuSyzkujQ8mGI0aZ7JOnvkh25FWgyvprwOx4soclG2zUrszJ3+NXBIb7TXp2n86V
+coq9etbtb5jIygxhAti6HZ3gal4o0R9eYA0z7WHCsgWD3mlXZ8iG2CsCAwEAAaOC
+AvowggL2MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU9jFoZxIIVCaRvE8RjIWJDNU6
+/bQwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnLzCBrwYDVR0RBIGnMIGkghxhdXRvZGlzY292ZXIub2ZlcnRhZGUyNGguY29t
+ghZjcGFuZWwub2ZlcnRhZGUyNGguY29tghRtYWlsLm9mZXJ0YWRlMjRoLmNvbYIP
+b2ZlcnRhZGUyNGguY29tghd3ZWJkaXNrLm9mZXJ0YWRlMjRoLmNvbYIXd2VibWFp
+bC5vZmVydGFkZTI0aC5jb22CE3d3dy5vZmVydGFkZTI0aC5jb20wTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBv
+U3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAWrCKs5sAAAEAwBHMEUC
+IExWmpAlZvLNXXKljOOb0KAZmKoghuN5LIo4vZc7NcOUAiEAvRjAaskIwgNT/Fv3
+xJtNCNqsxhZjAdDq2FNCjfVs5dIAdgApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTD
+DPTlRUf0eAAAAWrCKs0sAAAEAwBHMEUCIEst2z6oYl3ltQjc6Q1RYoJaV3CTOBXL
+kxbH7QqE186hAiEAlRg0AmryBT7ERCJLx1A1dlVquJEo49RP2trQJiLnWTMwDQYJ
+KoZIhvcNAQELBQADggEBAGFTjJDzs7f0YP8pFH1dVEYpfI3lyf0TV+3OzE4AiY0t
+T/dUz8wirCy5/uRQiCv2hZ+b1eKIJtiWtuYtubdP23osXR8fgXErizwtIHIOcV6h
+Gq41e1Pqe5Z3Ds8uw4KmWnCsU5Dy0CGLRzJaAusUIY7MxukOaIZWNTV4s5QqARRF
+CoYgrqrjZnsUvV5697eJooOViYcSCYxu5wNb0dEGmGV7Ldg3NPw5wABgyVKkJ9Sf
+WJydjGiWLMfAmHFWPTjfLMkLA4r3qL/HRcDpZu3L8iLyWQElisjndftse8zduBTt
+Xzr2GgaP8+GML1Qe6Oo5Z0t7f/SEi7B8mimZLmTaB+g=
+-----END CERTIFICATE-----
+subject=CN = ofertade24h.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3189 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

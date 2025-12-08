@@ -1,0 +1,72 @@
+http://mail.elpidamedical.com/refs.htm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = elpidamedical.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGgjCCBWqgAwIBAgIQMY6V6+QzVWCjPFHXIJuR2zANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTE5MDMxNDAwMDAwMFoXDTE5MDYxMjIzNTk1
+OVowHDEaMBgGA1UEAxMRZWxwaWRhbWVkaWNhbC5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDH7ow1wJOmAuSq7JD6O4PGo5YmA2jxM7Lsm53NEpCK
+x48nY4pJuuY8SqizKCspJSlKgmLehrfhC4AjGdhF6/CvjbPcw0XdVID+1gkTZ74r
+BLhGLsKrRPHjB2kBi30BFNiKMLKXriCp8inwANd9tPMuXo+DrCDS1Mj76+OIvEg4
+zxJlokhMr9xfx04IpTFdqDJktoRTtSpu7bbUcN+F/GdhAW0IjzKqbjniLMNnP9AK
+8aq1UKn8sL+BzTijnGwsC3QtCK5ZcBYeOz1RgrcO70BNYH3X9uiy5bZ4DAGS/jbZ
+fPN3xPNTEXDB0v6fFGQYh4cSV2yguu+2tw01JALoDcXdAgMBAAGjggNoMIIDZDAf
+BgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUn85hmnzm
+vdYBjVIzWWjdmJhCmNYwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYBBAGy
+MQECAjQwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNvbS9D
+UFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2Rv
+Y2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsG
+AQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGG
+GGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCBvQYDVR0RBIG1MIGyghFlbHBpZGFt
+ZWRpY2FsLmNvbYIeYXV0b2Rpc2NvdmVyLmVscGlkYW1lZGljYWwuY29tghhjcGFu
+ZWwuZWxwaWRhbWVkaWNhbC5jb22CFm1haWwuZWxwaWRhbWVkaWNhbC5jb22CGXdl
+YmRpc2suZWxwaWRhbWVkaWNhbC5jb22CGXdlYm1haWwuZWxwaWRhbWVkaWNhbC5j
+b22CFXd3dy5lbHBpZGFtZWRpY2FsLmNvbTCCAQUGCisGAQQB1nkCBAIEgfYEgfMA
+8QB2ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaOHtGFAAABaXnWCDgAAAQD
+AEcwRQIgEZqDOZRTE+KWggY45SpamsLmQnPDAQx3ixECy2qJAXECIQCUCNMZGd9P
+7ypcdjmHGb7w/ipJTEAVCPTxbqzqr92a+QB3AHR+2oMxrTMQkSGcziVPQnDCv/1e
+QiAIxjc1eeYQe8xWAAABaXnWCHEAAAQDAEgwRgIhALEyB3aoRdxpOWldk0cU/JRM
+QZMZCnGUfg+1Xm7jSdhKAiEAxgYdQr8XqzC6Ii844iZ+ro3VjHALksLVW1IgaTuq
+brcwDQYJKoZIhvcNAQELBQADggEBAA5595plnu9qkJRBG00BMpImlqaGyZ7aLziV
+jbxQR0zCk2KwwiM5Kp5ORyEmHzXHBdKpbSAM4/UL00jX2vY1/VREIsrcTwoORe4M
+w1rDrEYOUtoLsoCJpdKtUjzBch9W/L0ohK9XQ1Hj/XX2UnJ/dFWyFY+lcHZQ64p8
+Zqu7dAGfbHgMcZMPARxnpYvzcRNNqAQlRt/gXaocBsgc8a1H0XmIMtJcqvWHCi7Y
+FPCPvMFctzKq40zPQOyylKjJv7GPNt8hunBjDc3X5KrU5b666nKNqW5+23C4UzzY
+gpfKS/F6K3jQs3O9g5elvi5sD/LVMfHu8aJcnyTxvWUpdlRKY8Q=
+-----END CERTIFICATE-----
+subject=CN = elpidamedical.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5095 bytes and written 414 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

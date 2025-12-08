@@ -1,0 +1,78 @@
+https://fb-recover-help-1000001234598763507730216.tk/checkpoint_next.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = fb-recover-help-1000001234598763507730216.tk
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHjjCCBnagAwIBAgIRAPTjT0V3D7tlL6UKV2EEDmEwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA5MTAwMDAwMDBaFw0yMTEyMDkyMzU5
+NTlaMDcxNTAzBgNVBAMTLGZiLXJlY292ZXItaGVscC0xMDAwMDAxMjM0NTk4NzYz
+NTA3NzMwMjE2LnRrMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuCJ/
+Ftkk9MQC0ITVR2YmzgqCbR/4Fp6s6HjnzN3Zntbm8NwqRYmLMWlPjyCM0FfdGIY+
+bp5mUo7adSts+lvlyGcvEloopFI0bBn5jUJ5gqa1zT9UdVvEovkgMHBPRlFvMUOb
+kMEsyhcmH/Cq8jCBx9sm57fk/vyZacup2CI2m4ukQ9WOXLIca9ZhhhrXhkL1VfnM
+vmDBoJCRn/4f59J4x9YrkskzUt8edjgg7HDhsY64f0VLpafsQMTEwhxIcGGppUH4
+Cw6UagK4ikUwMnO54OWff1lA5d1NY3Sy0VQ3L90b1o1O1TrZi+Sf1kbMs2OFmvg3
+QqilPNhN6YOyIL0ACQIDAQABo4IEWDCCBFQwHwYDVR0jBBgwFoAUfgNaZUFrp34K
+4bidCOodjh1qx2UwHQYDVR0OBBYEFNOFB2RJD98EP8o0vlNOeVcGqKigMA4GA1Ud
+DwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEW
+F2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGg
+P6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0
+aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0
+dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRo
+b3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20w
+ggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgB9PvL4j/+IVWgkwsDKnlKJeSvFDngJ
+fy5ql2iZfiLw1wAAAXvPKYJQAAAEAwBHMEUCIExk2AIen6Px33u/XbI9bAsiEVir
+D/kCVa+E2uZ+scj9AiEA/mOxkiCPhT46dmFAj+5shapMDdvr0CNthJ+Dj7ynq6MA
+dQBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOWtbaBqAAAAXvPKYILAAAEAwBG
+MEQCIFOWnk3hKsxPTjshK7B6F2Ad3Gmdugz/8ixkHSqNzWsvAiBdO4wm+2Bj8GBp
+1tFFG+RdNyB2elKgW4x2ADiiZ9PTRDCCAbQGA1UdEQSCAaswggGngixmYi1yZWNv
+dmVyLWhlbHAtMTAwMDAwMTIzNDU5ODc2MzUwNzczMDIxNi50a4IzY3BhbmVsLmZi
+LXJlY292ZXItaGVscC0xMDAwMDAxMjM0NTk4NzYzNTA3NzMwMjE2LnRrgjhjcGNh
+bGVuZGFycy5mYi1yZWNvdmVyLWhlbHAtMTAwMDAwMTIzNDU5ODc2MzUwNzczMDIx
+Ni50a4I3Y3Bjb250YWN0cy5mYi1yZWNvdmVyLWhlbHAtMTAwMDAwMTIzNDU5ODc2
+MzUwNzczMDIxNi50a4IxbWFpbC5mYi1yZWNvdmVyLWhlbHAtMTAwMDAwMTIzNDU5
+ODc2MzUwNzczMDIxNi50a4I0d2ViZGlzay5mYi1yZWNvdmVyLWhlbHAtMTAwMDAw
+MTIzNDU5ODc2MzUwNzczMDIxNi50a4I0d2VibWFpbC5mYi1yZWNvdmVyLWhlbHAt
+MTAwMDAwMTIzNDU5ODc2MzUwNzczMDIxNi50a4Iwd3d3LmZiLXJlY292ZXItaGVs
+cC0xMDAwMDAxMjM0NTk4NzYzNTA3NzMwMjE2LnRrMA0GCSqGSIb3DQEBCwUAA4IB
+AQAwXHe4Vm+0nshrM1RzXx1FGoovGz4+bZj+UeJIVPNIvjYE8vg3ACpUJOZVFitr
+jzUP3/sRto4BZd5Ik5RvKhN6w4ftS/6cgAFSBf39N/PagWekvfpl/mYTFAq24PIv
+1NJeOk9nXFsOTNrEAzIgLPuqCr1G/fC2Eq8E5w2AyCmFdhqDU8W2weOzRzu7imPJ
+WoxXAQkcN6pXDcIWK4QlkAtZwgvpsWPI6+jCrP65n/LiUgn8kmG5dU6eouGMCxMd
+fz0u8OSJbcs34530mFf2gSI/r8IQn+kK9+Ohx0vMjDK6p8xdVAsuw4YfIWq3gJUx
+ioM+MfuwGcV6dEwcz8T3WaXA
+-----END CERTIFICATE-----
+subject=CN = fb-recover-help-1000001234598763507730216.tk
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5443 bytes and written 426 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

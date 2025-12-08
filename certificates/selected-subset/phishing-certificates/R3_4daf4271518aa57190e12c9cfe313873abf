@@ -1,0 +1,63 @@
+http://seanquincytv.com/BOA/boa/login.php?cmd=login_submit&id=388b1fc6e62c23923fbc6c5e61c1b2e6388b1fc6e62c23923fbc6c5e61c1b2e6&session=388b1fc6e62c23923fbc6c5e61c1b2e6388b1fc6e62c23923fbc6c5e61c1b2e6
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.seanquincytv.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPDCCBCSgAwIBAgISBNr0JxUYqlcZDhLJz+MThzq/MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTQxMjE4MzJaFw0yMTEyMTMxMjE4MzFaMB0xGzAZBgNVBAMM
+Eiouc2VhbnF1aW5jeXR2LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBANMnZChGQiBN76VF/UeW1T86t7Mx7Tozw2VZIZXuaNXBMr3aeD+6eH2sk6fW
+yWwWx06gqX1GEft+wQRIv0lv/PPMWWjJl29D38fyQF8AUIwwp4UI6WOgMD7ronIX
+notjB+TNzood8FJ2u5o+cN3D2sIcmQqLGp2xilPtrrvLEDUIZkRCC+BlHiqkrejn
+qrwxDYN+F3QkhqYc23SasJLtngFmJTdF30mx4uBLmp1XIiHD7BuDCYR2+sL6DbBE
+w1t9bGbwj3NSe+sQXOnSqY/72VbIb9xnaoZ+gVtLuCZgermW7CVh9HNXLEsApnyL
+WJ//l0Vc8nHW2Tna/qQZb1p2yA0CAwEAAaOCAl8wggJbMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUJI1Yr6tdmlU5eI87xbTikTbiiBgwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wLwYDVR0RBCgwJoISKi5zZWFucXVpbmN5dHYuY29tghBzZWFucXVpbmN5
+dHYuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHW
+eQIEAgSB9QSB8gDwAHYAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcA
+AAF75HWFwQAABAMARzBFAiEAynlsa/NcsS6JQm4JRA3gpITVyqoNVr0vdoOMWfO6
+FZACIEOOkC+4AsFpPxSkiqUxN+Iqwb6hzoFHF19qjiT2wnIVAHYAb1N2rDHwMRnY
+mQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAF75HWGGAAABAMARzBFAiALciHgF4jT
+K/zqO25i5Q5yFzjvxVT39PWlHEhbM4d8jgIhAK5tTyqpCm/gJccpwmLy+OYsL6I2
+kTLWjdOaq9dtx7fIMA0GCSqGSIb3DQEBCwUAA4IBAQB+dLbtD9S6cXoPaEVbSRQN
+hMPGZCelKRWF82xc+DUsbEIwFUPWr166m9kt7Wxye0yI/HLBrq5IyoA6iKf+ARd1
+SWOvnr7S/uyCUdoyA70bNH/9nmAeCHDXhGi1JhmMTe0QBGcXNc5UoKPva65Am+WO
+Jc1OMA/t/mgAC/4DcV4hjECvYHjm3WdVK2zqTLb2jXjGX5T1iqsyD1eoIHDXW6rh
+9w6Lq31nZMa8rbmZOHInuELpCWCYkeaLfBWtGlNXF2jJZSH4HDBbJgK6ep2hrcXE
+O9Ax6ewLNZmTiKyX631WA+Wvo+6x8ipcEg01+XGMgE0bdymrL36MAoqOyIxAF9IC
+-----END CERTIFICATE-----
+subject=CN = *.seanquincytv.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3215 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

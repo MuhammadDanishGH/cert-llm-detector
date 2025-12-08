@@ -1,0 +1,93 @@
+https://centraal-icscards.nl-recupeersysteem.eu/services/Mijn%20ICS%20Validatie.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = centraal-icscards.nl-recupeersysteem.eu
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFhjCCBG6gAwIBAgISAwE6oaiyby2ODktzZnxdIzxRMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MDYxOTU3MzZaFw0x
+OTA5MDQxOTU3MzZaMDIxMDAuBgNVBAMTJ2NlbnRyYWFsLWljc2NhcmRzLm5sLXJl
+Y3VwZWVyc3lzdGVlbS5ldTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AKPe7v6057fNn40/TQBxJBBtBkH1yP6KnfGIXMk1oBMxiLWqIC1hCtryT7P+ziuC
++siCWpF/3XmpvjwZdN39fVjsvpsjnKF6gRh1Y+Q/F5pKdT0qvaxxHTuBFQw3WJVq
+QOnuutg4V4UJSANAbY5+OiRH/m/CIt69fwWoy6qbHc3//Va6u22RcI8cgslP7BzF
++u3IBRMM6r/9SfM4fau1Zx8WA/FarQ/cA4IW60g8T+tmT5OuukY7aXF2s0mWUuQn
+uNbz5E588THDLRFlSxEz0oNm4QI1BN9KKVYcwlAkUJAmGER4eLuSTxKgmw7Tq+05
+IBbXlgOVt2mnAw7FPMgsJGkCAwEAAaOCAnwwggJ4MA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQU6jUvR4vFdFjrr3DKDa8Jvv5X7vYwHwYDVR0jBBgwFoAUqEpqYwR93brm
+0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8v
+b2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8v
+Y2VydC5pbnQteDMubGV0c2VuY3J5cHQub3JnLzAyBgNVHREEKzApgidjZW50cmFh
+bC1pY3NjYXJkcy5ubC1yZWN1cGVlcnN5c3RlZW0uZXUwTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgB0ftqDMa0z
+EJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWsulStpAAAEAwBHMEUCIGx+yIcy
+3K/RlWU/O4VFdWkMyES/mnh7kjtFC1ZRWOXuAiEAiiJU+UhrUIdrGam4pfpYmF01
+q2EcmikmAk0ScZs7waEAdgBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4scdoVEvY
+jQAAAWsulS17AAAEAwBHMEUCIB7ElAkAduxnKpgzfvs8ld9HdzFVRcrIGiDoOm+Y
+lwo5AiEA7GMWVmdVEOHEx8LG/AJwBVu/gfytBxzC7BHUL2i+AV8wDQYJKoZIhvcN
+AQELBQADggEBAAWdckbUD8WQr9O9G4vb2f/Zw0DvWdQ/wumgMPVWeXM0w5sVbH5a
+RNLgmFSusIEI2bzLY2uHR5jLxVpbI5eKKYeWkeTQzV4hcqadPQIBMMv7Qp3xOuPv
+cf0ygKTlDz5eTnRu2pm15R6BbjsPYdenz5QuelNYHgS05BYluT6BcknJQREMCMwK
+52KOZKPX+haE7FVJpflU/1jASey4ma/DJKLZhSCnz8hNwwk8vGBvYdGyhSb7R7aJ
+oHTdMIx5UUkgsoMin3Nnhcm9JCo5PPl67wefcCWCKXpCdOB8eIGztBunpC9tOmuJ
+rjVC8/ZMXB0DV0smsSTcwzm7lwZyp14MK4I=
+-----END CERTIFICATE-----
+subject=CN = centraal-icscards.nl-recupeersysteem.eu
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3288 bytes and written 444 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 861A3D70DD85CC3867DC306B58899AF84F3D74A27C76D686CB278B4199781FA8
+    Session-ID-ctx: 
+    Master-Key: A3EC9A6AEC321E45A5C83321DFFCF6A5093DEC3655140BED912D8D4F878BD5C0BD4BBBAFC86A80E2C9D16A184568BCA6
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 32 b8 c7 64 e3 91 4f 1c-0d 1a d5 ea 9f 00 71 ea   2..d..O.......q.
+    0010 - 55 8f 78 23 df ca ee 7e-98 07 99 f1 a9 08 86 c2   U.x#...~........
+    0020 - 4a 9a 2f 0f e2 d3 4b 88-3b cf 5a a6 3a 1a 47 e6   J./...K.;.Z.:.G.
+    0030 - d0 a5 7d 7b 47 9a a2 b3-63 88 6f e6 6d 47 d1 e6   ..}{G...c.o.mG..
+    0040 - e8 e3 86 81 64 2f 61 08-41 46 0e 5d bd 8f f4 61   ....d/a.AF.]...a
+    0050 - 8d 3b ce 19 3e d7 12 96-3b 04 3e 31 49 39 0a 82   .;..>...;.>1I9..
+    0060 - 5b cc 14 35 80 e9 9a 82-4c 74 4a e8 18 eb 73 73   [..5....LtJ...ss
+    0070 - 86 7c c8 33 5c 0d d2 f2-e7 44 7f be 15 4e 17 41   .|.3\....D...N.A
+    0080 - d3 9f 59 90 bb 6b 44 0e-e5 7d 6e 59 a6 ed 20 52   ..Y..kD..}nY.. R
+    0090 - 72 90 95 c1 5f f8 b4 f3-1a e1 93 cf c7 6c cc 07   r..._........l..
+    00a0 - 86 a6 0e da d0 3d 09 56-fc de c6 37 39 b4 2c 76   .....=.V...79.,v
+    00b0 - 99 f5 c3 b7 80 eb de 0c-b3 81 f9 e0 1a e9 4c 64   ..............Ld
+    00c0 - 40 be 9f 34 73 04 27 84-ab b8 ca 03 95 ce 4f 43   @..4s.'.......OC
+    00d0 - 0d 57 cc 9b 93 fb 54 93-75 77 01 f2 36 cf 4f 62   .W....T.uw..6.Ob
+
+    Start Time: 1559912424
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

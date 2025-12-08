@@ -1,0 +1,65 @@
+http://dlscord-nltro.ru
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = dlscord-nltro.ru
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJTCCBA2gAwIBAgISA3EMG7YStH72DrhQ0hDEOgK5MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTgwODU0MTBaFw0yMTEyMTcwODU0MDlaMBsxGTAXBgNVBAMT
+EGRsc2NvcmQtbmx0cm8ucnUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDQHKIl7tHqUNqm2vaqy2ouEwIios22sY0FQ7kGUQC59+XNcAC8eDjTK/fZlqO3
+UC8q2j+r5Ax8RFUQBsYXjyQcqoSHSaP4jiAH85FjKptOJsy6W0pQiqMoL5RZXLaQ
+DeMp5OatjDMGcbQM6+LxoMWV72H7UILdzS24OTaynO/B0yLws+baDLFPy9IBsoOr
+YAq30iy5RpAEQ4Cvke2nRxxWfJiL6Hnb2fqxcwDHHhFCv45WIlTP/sxO2zkt8+R6
+zTyt34K2WUU1aejaM3/T+xHcUIszrNdP28GMOAodKmikXRWU7ODfTmdvzg470ZgE
+Fn4bhd5QJ2MWTGWXn45cV3TdAgMBAAGjggJKMIICRjAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFAINAy/yKsVS9SvlNBL1fa573FbsMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMBsGA1UdEQQUMBKCEGRsc2NvcmQtbmx0cm8ucnUwTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQBc3EOS/uar
+RUSxXprUVuYQN/vV+kfcoXOUsl7m9scOygAAAXv4U9weAAAEAwBGMEQCIFzYaRy/
+q/ZwYCUVQ40C8O3Fbz0hp5XgACrUPWQH6IGbAiBxL+A+ZUmCcJHbZnsOpRo1GUTp
+BNoRYttnrmtYo2EwjgB2APZclC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTj
+AAABe/hT3BQAAAQDAEcwRQIgAlHeB3f/0wuy9cH6Ug3WXRBwjhv0tMp3ykf8K+Fg
+xLUCIQCUMzhjbWbfobymg/b6ViIcz+Hd4KZh8y2OVdvJNwvjyTANBgkqhkiG9w0B
+AQsFAAOCAQEACzdiMJfOKtNXmI4euyW8lGPdzUKUEMD3lE0QIuZwmOpQe9Zc8OfT
+e3fjf5WG13D/ABgAftd8+R5ysfGkvHXXV3Uo8UbjnN829gmxchbMUFl96GKrV4Jz
+jnmDZW7DAEWwHpFO2tFEqhbrD6BONAm4ClY2tckt5kZHW65vs6ONJ1X0Czq0p6pS
+HVtt+4UCDylEAZexgCl2Lg3wzbRR0SknoAzw+h9WweaIce5UWj5QFMe6jYE4hxbQ
+cv9GyLdAHsBHjnlJZYw9aHGxm1OACCK2koYGhLAkxcw48UkbUz4k025qUaoKkVYe
+C2YWt/twBxdezxleYeMu0W1hLbtFd/GTKw==
+-----END CERTIFICATE-----
+subject=CN = dlscord-nltro.ru
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4561 bytes and written 374 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,96 @@
+http://three-helpconnected.co.uk/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = three-helpconnected.co.uk
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGFDCCBPygAwIBAgISA5pNrIqPLzi3Z7j4gqEYiEdUMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMTkxMzQ1MjdaFw0y
+MDAzMTgxMzQ1MjdaMCQxIjAgBgNVBAMTGXRocmVlLWhlbHBjb25uZWN0ZWQuY28u
+dWswggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDpFCKnLlScndXev4GR
+uXzcvO/+x7IqfNLiJDrrlfrGT4pbG3lOcbQsMMu8dllTQzD5xPEUzcloQUaWO9Fp
+pjw2++OreHV2DQI/wPvOeKsmXc7lZGafz9pAfMpgzQOTnlrgxUsRFT/I7t4zMvrO
+++gZwk9l4ROUqnErRaZJsqoaAqUprnnNui0lzZc9HsHGK9swJW5BLbWXZBmubDG9
+9jphZogVezY0BlDYQDEAoB1EjQID70Gq0vwAQz0kQ4KLrTwbMDr4dV+b4vE+/r5/
+lo4zLBptlNJ6MRlc+bnP91vz+6EVFaW7SWpvuR+qBynC7E5IxrLH6D7X8++pcSjn
+d6d1AgMBAAGjggMYMIIDFDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFMbosGEZnVwe
+g2qEC5535PKCKxGYMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8G
+CCsGAQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxl
+dHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxl
+dHNlbmNyeXB0Lm9yZy8wgc0GA1UdEQSBxTCBwoIgY3BhbmVsLnRocmVlLWhlbHBj
+b25uZWN0ZWQuY28udWuCHm1haWwudGhyZWUtaGVscGNvbm5lY3RlZC5jby51a4IZ
+dGhyZWUtaGVscGNvbm5lY3RlZC5jby51a4Ihd2ViZGlzay50aHJlZS1oZWxwY29u
+bmVjdGVkLmNvLnVrgiF3ZWJtYWlsLnRocmVlLWhlbHBjb25uZWN0ZWQuY28udWuC
+HXd3dy50aHJlZS1oZWxwY29ubmVjdGVkLmNvLnVrMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAsh4FzIuizYog
+Todm+Su5iiUgZ2va+nDnsklTLe+LkF4AAAFvHp7mFwAABAMARzBFAiAeL5XbspoF
+xawEqB3hWG/sVsDZQT8iBjtMbuS0S79biAIhAP2V+QNCP89ZHsK/zAn6idXTcmqW
+448wOOXNNfOYDXqDAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMA
+AAFvHp7m+QAABAMARzBFAiAux4nGxr9a2HTwtD+2oc+U7oBLPm7qZ9+3cPhGHwn6
+EQIhAMxDYlpR2ypZfGKSIb91eGKRoue0jyhdDJfhJ7UbgPB0MA0GCSqGSIb3DQEB
+CwUAA4IBAQAoC4UqNsZnKtksVd+56Awpy/RG1RN5vGtccUaw4C9bwuZRMfI94IE+
+jyhSXnFUgsbnahYjz1WWY/Fhqg/Ztl5qKlcbj5cBBotmK/xu0yWYuVGcJ1Nheen0
+1M2V28jTQGCmi1TspPjEEo9gyICOcpFMY87dCbd+xwW8AXGJzrH3oevUQSDon6X6
+HCxBSp2hL6HN5e/2qjsBkLx87GLAW6dqNbqdhaVTLojsNOUCQC89N+NJr6n3NtFS
+dT916GAqmmZT9lyuDyswwP/2u6nX3ktBefbU+sXyU2PA5GHjeZ8dCn5mzUWqgXv/
+4gmSEoBr4QfIESy0aLUrpKallZI7dz3i
+-----END CERTIFICATE-----
+subject=CN = three-helpconnected.co.uk
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3459 bytes and written 463 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 47DCDDDEDFAA3E9C14FC4A56F8F7E1DFBACEC6185B6C0354B4500B9ED5B2980F
+    Session-ID-ctx: 
+    Master-Key: 333D3D5DDD63980F00EB679F0B6647DF01EC6271F267F41B91B32627A053279341C455A7EFBFB52D998861CE150EC77A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f8 f2 c0 77 5f 0c ce 62-30 fd 6c bb 69 8e 9e 29   ...w_..b0.l.i..)
+    0010 - b0 f2 0a 45 0a 85 86 97-c0 a5 12 14 91 19 73 99   ...E..........s.
+    0020 - da ca c4 2a 63 57 0c d1-be 20 7f 64 09 e6 c7 43   ...*cW... .d...C
+    0030 - 2e 47 2b a3 e6 3a 89 4a-a8 bd 13 7c 83 6f 86 dc   .G+..:.J...|.o..
+    0040 - c5 16 96 69 82 44 fa d7-85 40 c9 0b e7 d4 d9 fa   ...i.D...@......
+    0050 - ed 16 52 59 fe 50 08 56-df c7 2e 35 99 45 8e 80   ..RY.P.V...5.E..
+    0060 - c5 b1 a9 6f 8f c1 9e a2-33 79 b1 ef 53 5f d5 e5   ...o....3y..S_..
+    0070 - fa d4 da 0e f3 c9 25 4c-94 f1 5d 49 3b ff d1 db   ......%L..]I;...
+    0080 - 35 0c 7e ff c3 59 df 76-eb b6 31 bf 3f 28 dc ab   5.~..Y.v..1.?(..
+    0090 - 2e 87 49 d4 e2 3d b1 92-55 a9 55 19 57 6e 99 fe   ..I..=..U.U.Wn..
+    00a0 - da 70 05 ed 5a d4 f2 7a-39 fa c5 cd 78 f6 f6 b3   .p..Z..z9...x...
+    00b0 - 09 31 c1 cd df 95 e9 a4-bf 88 03 b2 7d fd e4 e5   .1..........}...
+    00c0 - 91 ed ce 5a 0d 6e c5 ff-1f 7b 1b f0 a7 46 ab 88   ...Z.n...{...F..
+    00d0 - 86 2e 3e a7 03 d1 1d 38-26 7c 54 55 82 88 c9 2c   ..>....8&|TU...,
+
+    Start Time: 1576850436
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,66 @@
+https://kemananfb.itsaol.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = kemananfb.itsaol.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFSDCCBDCgAwIBAgISA73kZmDefRWATMTqd2zS1BuPMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDkwODQyMzZaFw0yMjAyMDcwODQyMzVaMB8xHTAbBgNVBAMT
+FGtlbWFuYW5mYi5pdHNhb2wuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAq5SUFTny85y96sUNaDYXcq9M9a4EaDU+Vt2ywlnSBDpYGyaKD/Ie/yJU
+xIXPHIuKYuP8v66QnACDVMc20qqBmarW6EDbYigD+rbKO6CrdPOLW3AozNPKcP1c
+9/s8wteflv1QkuHSuLObsRRn+2E414sof1U1V/mml9A0LiXlZipZXSytwtNBA5NA
+O9BGdDdet6GGWERy7Q7TPVKCrh7jjvomoguzAJATBPKncVqvBU2hdpyUTF29axAH
+b2IkIjsO6LExLJCy3fVtqT1dlP9/KlH91w+mkP8u4FveO9QFhowZ41jm6fq86CY2
+ClzTXLu30+dsWLy8AswsEFYxksVQWQIDAQABo4ICaTCCAmUwDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBReD0cNJsq+9CEa5WRE9EgICamlZDAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzA5BgNVHREEMjAwghRrZW1hbmFuZmIuaXRzYW9sLmNvbYIYd3d3Lmtl
+bWFuYW5mYi5pdHNhb2wuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcAQcjKsd8iRkoQxqE6CUKHXk4xixsD
+6+tLx2jwkGKWBvYAAAF9BBP1KgAABAMASDBGAiEA8PVjV1SEIyF/H+gBgF4v/XRp
+KmI7Sgsudo45CDu3IUwCIQCXLZB3VRQ5LyFXb9fb3Nhne1tskClM5CmciJIGDbcK
+MQB1AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfQQT9VYAAAQD
+AEYwRAIgPdANRTjbvanWXu4vSyJj9LCHyTMGCI20r/2EDL5II2sCICixlLLe3RlW
+3deD++Gul7/igs8ddTydhy8Z3qsr5753MA0GCSqGSIb3DQEBCwUAA4IBAQCQSuyV
+jelQ+9C6WBBytnr6NYslBKQMKY2SjKFSKicvWaIaFcSSZVtOlCSkhlBzs15eIyVV
+8+rWoxPU8GDLCKvL7Z9gQ5NK8YrpqO+NV0mfD1ERLJXHkR0qpQFgnibxw3AcFp/q
+nLClpudnAcYMBSnNqVOPM0/B100TLRKep9IUcrfcbF1JUEfeUMBgi6JPz2h9MA4X
+L0Qo8xUIWN9MgM0WqTnJ7/ljFEG/a/WANH7rtGjfGlSHAcat5elnD2ZM0v099Sz9
+P1LWZOWUnuCQwPrJcrATup4qlhPaOeom51y79YGvps9KxG5F1KQPKFgUzRYzYSBF
+mS1Wa695Gv8MMmV8
+-----END CERTIFICATE-----
+subject=CN = kemananfb.itsaol.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4542 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

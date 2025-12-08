@@ -1,0 +1,96 @@
+http://cibclogin-secure.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cibclogin-secure.top
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGejCCBWKgAwIBAgISA3B20rnzLYx5dXByHS2aZTGFMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MDgwNzIwMjlaFw0x
+OTA4MDYwNzIwMjlaMB8xHTAbBgNVBAMTFGNpYmNsb2dpbi1zZWN1cmUudG9wMIIC
+IjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAw8m4oTqP5SB7CqfwBh2fo0Sk
+789+98KCW4xnAmhNLowAU+8rRSJJW6lrQ9QRb1MN065zI/s7MzVR04Jk5q1p3n2/
+u6HEpbTzH8ht1hjRsRXcUmfZNKoo+AucBVZCgTqYBaIT3WpqyHL7EnDV9aiclhE0
+/P8SP6rg8xyez1I3UhbSG01sSKAsX6+wm6Vgcd7NoihM2unN3Ham7l9OH9EIWe4x
+j9AmGT0eWbi/khQLiYtqjtFZXmF2NTJSY3QTW2VFqAxUCJHf3upu/UgLse/2ZUlS
+mhIILNEgulUdBet0UDgARf2geWWz0GXO0zZDfi9kZpJEk+m+BBYRHBqKbb/dGkr3
+wEW4zCTQNO8btXq7k+HbLYV3gA4Fo84s5Ps+dOd6vllN7XaQd5v6+ABWObSwrQWP
+E/pkTjsDykOijqOaOdxzf247AP8kTxXKCImrUxO5ngXO+sWauDFmfGWEMPvFawcv
+5HmzIhXQuqBGP2TGoraKxTA3qf4Pk+Z8BTdsp3f9Az2oiHHMjfwlsbiSDhhUSAUi
+INXb7ZXi/MNmDmHR6wOdigeBhhNypfqlWMdR3YjWVBnKIrlVz8N5rwcDxos3lu3l
+MNj/xFBPrHxfeGl8Gg8opM53IjiOOrkZwgCxgFwKPi0beDXy0lfbmSWsSKVQWQvO
+EEZBliTwZuq1QXP0Y60CAwEAAaOCAoMwggJ/MA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQUpg9+02CXpwZZ27a/+zlKKM57Q8AwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3
+pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2Nz
+cC5pbnQteDMubGV0c2VuY3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2Vy
+dC5pbnQteDMubGV0c2VuY3J5cHQub3JnLzA5BgNVHREEMjAwghRjaWJjbG9naW4t
+c2VjdXJlLnRvcIIYd3d3LmNpYmNsb2dpbi1zZWN1cmUudG9wMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA4mlL
+ribo6UAJ6IYbtjuD1D7n/nSI+6SPKJMBnd3x2/4AAAFqloeVWQAABAMARzBFAiEA
+zhC76Ulb/TPDYNRaMhMX/9G5c0BFh2hoz3yPdzyfUtsCIF7FcjSPd4F6ZmVGUSLy
+TYYQvk3B0UNODgEmcilMPaKjAHYAKTxRllTIOWW6qlD8WAfUt2+/WHopctykwwz0
+5UVH9HgAAAFqloeVfQAABAMARzBFAiAAykSJwc/4416Yfd6LZRW2sjhrBdVscx4w
+if/PLiDCQwIhAJIYnu97j1DRhftI1WLWi/1M+SUeE4plyKLgpyXqqnaAMA0GCSqG
+SIb3DQEBCwUAA4IBAQAEsFT4J6GET4HOGMDl/LDOGUc2s/fjI9boHwQz166V6+OX
+U1egGtsUw5Nqxqjbbi6BdPQLNATslcr2P/6vqTOGK00uFU4fTrAo1R2XQGLwhOpQ
+znQ45D5qlJv9/KTmCwqn2y8l1gpkmHTk+uqcSyH0mX9sMphn9kJFJFQtnVIhygP6
+tjXO3jXxt/RgY5OzL1/4FlADk4LNru0xidKNG3JG98o1i1p5NI/eim1uVMCe0zKQ
+L6rhPhy1BhXfpxcDO1vEhqnrA0pgIjHOxBoZBQ8DIuQmhCx12Pf+Ubiuq8O0n80I
+0j6vpZYAXW43AqtfTdPucVLCSL0v4uj3cyyNwZbN
+-----END CERTIFICATE-----
+subject=CN = cibclogin-secure.top
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3785 bytes and written 458 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 9A923C465AE6BAACDCDFDE127E43E78A8ECFFB39DFFE5B810EE02B882BA5F1A4
+    Session-ID-ctx: 
+    Master-Key: C254C1F7F75540B42EE21524D10E1C4D9E59E336FA9E754589E4BBC7720AF7041F2D6FFCC5539A6147ED17BB70FF2C34
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 5f 06 be 0e f1 46 4f 9c-da 33 4b 81 01 26 da 50   _....FO..3K..&.P
+    0010 - 9a 1b 18 64 5e 1c 51 7a-35 94 29 ca 36 e7 35 8c   ...d^.Qz5.).6.5.
+    0020 - 7e 0d 17 22 0d d8 f5 a3-b8 d6 c5 08 a3 3b 3b c6   ~..".........;;.
+    0030 - eb 5c dc df 13 4e d5 62-94 c4 ea cd f6 62 3f 0f   .\...N.b.....b?.
+    0040 - 07 d1 71 b6 c9 9f c1 0e-6b 94 ff 55 0e c1 bb ae   ..q.....k..U....
+    0050 - fe 6b 84 9b 0b da 3b ca-4c 76 c5 1e 86 af 4d ab   .k....;.Lv....M.
+    0060 - 1d 46 cd 47 5a 61 94 e9-ad f1 40 2e 51 70 f3 48   .F.GZa....@.Qp.H
+    0070 - 3e dd 7e e7 22 b5 ff e4-01 55 49 f5 71 26 b2 8c   >.~."....UI.q&..
+    0080 - 63 b4 89 fd c4 f3 07 83-ed a8 01 5d c9 7f c5 bc   c..........]....
+    0090 - 8a d7 5e bc b7 0b 0d 53-9c b7 c2 79 5a e0 4d b2   ..^....S...yZ.M.
+    00a0 - 7c f6 59 f6 85 d2 97 02-00 22 f2 46 67 eb 22 95   |.Y......".Fg.".
+    00b0 - 62 fd a5 fb 95 1f a7 c5-86 b7 ba 17 80 bd be 90   b...............
+
+    Start Time: 1557493221
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

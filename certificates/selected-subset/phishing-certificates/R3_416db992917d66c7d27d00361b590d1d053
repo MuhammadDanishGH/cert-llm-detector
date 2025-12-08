@@ -1,0 +1,67 @@
+http://romantic-sammet.107-175-197-133.plesk.page/bp/bp/login/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = romantic-sammet.107-175-197-133.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFizCCBHOgAwIBAgISBBbbmSkX1mx9J9ADYbWQ0dBTMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MjkwMTEzMTNaFw0yMTExMjcwMTEzMTJaMDUxMzAxBgNVBAMT
+KnJvbWFudGljLXNhbW1ldC4xMDctMTc1LTE5Ny0xMzMucGxlc2sucGFnZTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM418xfNXDfjUWz7crUufRsqdDsd
++F0zYQJ4l6EeQpZl3g9wjljbiP/MOqTho+z68NHocGRt27JwF19YSWM9O7KHauwU
+l70LX3aXecSZJwt7/KTIqNWaxjky9sLvjAlZ+ZZcbgD4k7tZbj/0JFdBscHni+Fo
+a/BZqlNnSu1tpa+9twEU8h0CsFESs2gayVMVXyvgHplrja9T0e1A+Pa8WKCO0GHl
+oxcPaFaPXWMbRv4S8cKDoM4NJ5lf6s/e8wETO/CxuGbxoyQJXd4zWxWety5xAB6n
+4LIdGpA9dDWPzOBMPhQM/KYOOaZeKV0wIEzICf7InKx1ZTPM7FhkJjic/KsCAwEA
+AaOCApYwggKSMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUvYPJGg+me9AooVCOlSi8
+rcN+EVowHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUH
+AQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYB
+BQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wZQYDVR0RBF4wXIIqcm9tYW50
+aWMtc2FtbWV0LjEwNy0xNzUtMTk3LTEzMy5wbGVzay5wYWdlgi53d3cucm9tYW50
+aWMtc2FtbWV0LjEwNy0xNzUtMTk3LTEzMy5wbGVzay5wYWdlMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAlCC8
+Ho7VjWyIcx+CiyIsDdHaTV5sT5Q9YdtOL1hNosIAAAF7j66q4AAABAMARzBFAiEA
++vK6+8vQydXJ9ciiZ2l7ssHuS/sYLi2uv3MsxY6Uo+MCIA7bMsrwL/lkqs2unA1Z
+gX4Vyc9IskwXy1PvlnYr4F8lAHcA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98MLyAL
+zE7xZOMAAAF7j66q9gAABAMASDBGAiEA+j2ghDix8Ke04ROk5zAp6pS3UAz4WAaG
+Fc2LtX2am0ECIQD+7bpxYivb8FBHzSM6SKfl2YKHIvYLixb2OelU/QuU8jANBgkq
+hkiG9w0BAQsFAAOCAQEAe+DvxkJGZ/mUqkGA6/ZmlSIFEu60IMzG6G9cHxDGF0L8
+Q47yZbnWpAggcXnt+bVCkEqsqnY1huUjEzFtjpmjV7+T4PLhMXK9nAV+unfCIR3r
+arDHl6yW9dvhvosjGZWupQTQWSTPQxf3my1on5B1lsWN0J43+RjQd15aeq9gYIh4
+6oDJuwN7iD2lXcHQjChCb3UL7JpC08w1MidqB1FDKuSGc9ELFvJMYxub+cMnkkFU
+W4WOnL6BWcf3+rKWCFvgZ8IpAIzA68CrTnVssatrqHZqg1jh4VYRvNpp9mM/WBYA
+ebKdfF5lvQ/+FDO6mxwJIg+vqxZHmT4hCr3qzQ7QaQ==
+-----END CERTIFICATE-----
+subject=CN = romantic-sammet.107-175-197-133.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4679 bytes and written 424 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

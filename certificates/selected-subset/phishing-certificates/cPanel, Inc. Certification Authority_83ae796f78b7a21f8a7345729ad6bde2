@@ -1,0 +1,75 @@
+https://www.chatwhatsapp-erikasinta18.se.ke/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = chatwhatsapp-erikasinta18.se.ke
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHGTCCBgGgAwIBAgIRAIOueW94t6IfinNFcprWveIwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTExMjcwMDAwMDBaFw0yMjAyMjUyMzU5
+NTlaMCoxKDAmBgNVBAMTH2NoYXR3aGF0c2FwcC1lcmlrYXNpbnRhMTguc2Uua2Uw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDHesiSKOBaWd7b+OPzJxn3
+/59VnWw14IK8fpOwmWcRODgwsxUoh7RH49trV1wsfzqw7glBVJS9kSKP2wgrSPpT
+E0eVlG8b5VaGpv44qB0GcacQbF9VMp8dGv3sxc88fh0KRDnjU4DPB6lyblFVaKLM
+o2+AdjnADu47Bp+NYxJxYQb5J6WA4krGc+D5uctkEGdOm2HPtAU6HmZQAZJKKjYn
+ndX9gN8PZsVWins2nYZMkuFcx/tm4DhB7f7XjhtfqEK63+Xe3S8bpXGeUG8eFLsL
+scxlqeBP/B/8MUx5y34YfNcAT13gw9gF99E0X9uBJvMx0MhQ8HuoZproTt7eqLid
+AgMBAAGjggPwMIID7DAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAd
+BgNVHQ4EFgQUR0Y01X58YyrRGFbMI1SusOHT8BYwDgYDVR0PAQH/BAQDAgWgMAwG
+A1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1Ud
+IARCMEAwNAYLKwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0
+aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9j
+cmwuY29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHku
+Y3JsMH0GCCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21v
+ZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYI
+KwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQMGCisGAQQB1nkC
+BAIEgfQEgfEA7wB1AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAAB
+fWAbDswAAAQDAEYwRAIgA9pC9Nq/NO2Njo7SdASdbFxd+8w+LVEFbHxb0ev7kWkC
+ID0XgXB3oaEOy6AELRKzs745L8kU9e+I/oro0zibwN55AHYAQcjKsd8iRkoQxqE6
+CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF9YBsOhQAABAMARzBFAiEA2iVLxN/KRkh5
+1X8MmXe1Au1CfvIuUGYqgDeb/R1fC8YCIFrQ5kmg6+QzBu2xOs5UWtEhN/WGYmVI
+cT6cQu5bMjaDMIIBTAYDVR0RBIIBQzCCAT+CH2NoYXR3aGF0c2FwcC1lcmlrYXNp
+bnRhMTguc2Uua2WCJmNwYW5lbC5jaGF0d2hhdHNhcHAtZXJpa2FzaW50YTE4LnNl
+LmtlgitjcGNhbGVuZGFycy5jaGF0d2hhdHNhcHAtZXJpa2FzaW50YTE4LnNlLmtl
+gipjcGNvbnRhY3RzLmNoYXR3aGF0c2FwcC1lcmlrYXNpbnRhMTguc2Uua2WCJG1h
+aWwuY2hhdHdoYXRzYXBwLWVyaWthc2ludGExOC5zZS5rZYInd2ViZGlzay5jaGF0
+d2hhdHNhcHAtZXJpa2FzaW50YTE4LnNlLmtlgid3ZWJtYWlsLmNoYXR3aGF0c2Fw
+cC1lcmlrYXNpbnRhMTguc2Uua2WCI3d3dy5jaGF0d2hhdHNhcHAtZXJpa2FzaW50
+YTE4LnNlLmtlMA0GCSqGSIb3DQEBCwUAA4IBAQBByjlTwHrgtvpOfvXmGLWIrX+2
+DZm0wbf4ClSirGdy7Lg81T3XS8s+BRuX5eesRN8u6isphE41R0FTxHAPEuKalZdA
+RXf1vS/uJvz/yS4/P3YmAqOsvUC4h6XX9tmK4SNRH4GSvXQq0gC6IIDGZQiZzZjU
+5B5FMMXaoj9k3+M3IzZJrX5op+42fwossY7tHVbJSbe7BGx8tkuNC6aJPtUOsFO6
+zG1I3Xf6tJoFXkMoMa1laVCz1OfVQMT5MyKLCg63+1z8HiqEWAJB8Sox77bZSUME
+xNkKbER0jjJg5SmQyxY/wTz9KCkfPYyBvViP7siaXxyEQbki44pF3TB4XFAR
+-----END CERTIFICATE-----
+subject=CN = chatwhatsapp-erikasinta18.se.ke
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5256 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

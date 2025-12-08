@@ -1,0 +1,73 @@
+https://www.bancaqorlnternet-lnterbamk-con.evolucionesac.xyz
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bancaqorlnternet-lnterbamk-con.evolucionesac.xyz
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGojCCBYqgAwIBAgIRAMozK6r7O10E4d1/y5PZr6IwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMjAxMDMwMDAwMDBaFw0yMzAxMDMyMzU5NTlaMDsxOTA3BgNVBAMTMGJh
+bmNhcW9ybG50ZXJuZXQtbG50ZXJiYW1rLWNvbi5ldm9sdWNpb25lc2FjLnh5ejCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAPqr0OtvAyoHq++5Mi4FRiRI
+0FOLwsykFBzDlrnG1Yhue230JoYlsZOJWqz/GGRevCAvdHKCt49g+ERDDKyDVmwY
+QSXo3f9y25hWwzDbwNU0N0rlwEuW3Wvg0CcgEavgczeO0wGNi6zzhDd/bObb4T7Q
+Swv4LnGD6Kw1v/PjiHQ1p9FxExVa5CshIEJrL9zrcbKmiAR0RvoRUNilevlyNBv1
+i8zRxOhsTIL33GIMI8TvH+W9v9qMDPq25fgmmjEbasjQM8Ws2zX7Sd1fV4Hsrfip
+yn8QzetVkxndZ5P8xnT4hopRYbK3vwnoR2C9/asSCzNq2gd/8xECNT9XbwZN/5cC
+AwEAAaOCA0owggNGMB8GA1UdIwQYMBaAFI2MXsRUrYrhd+mb+ZsF4bgBjWHhMB0G
+A1UdDgQWBBTpE4k5dCJdhRJ/p1Bt2Pi+/bw9MDAOBgNVHQ8BAf8EBAMCBaAwDAYD
+VR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0g
+BEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3Rp
+Z28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsGAQUFBwEBBHgwdjBPBggrBgEFBQcw
+AoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9TZWN0aWdvUlNBRG9tYWluVmFsaWRh
+dGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3Au
+c2VjdGlnby5jb20wcQYDVR0RBGowaIIwYmFuY2Fxb3JsbnRlcm5ldC1sbnRlcmJh
+bWstY29uLmV2b2x1Y2lvbmVzYWMueHl6gjR3d3cuYmFuY2Fxb3JsbnRlcm5ldC1s
+bnRlcmJhbWstY29uLmV2b2x1Y2lvbmVzYWMueHl6MIIBgAYKKwYBBAHWeQIEAgSC
+AXAEggFsAWoAdwCt9776fP8QyIudPZwePhhqtGcpXc+xDCTKhYY069yCigAAAX4g
+pItqAAAEAwBIMEYCIQD6K8U7MFdw3sXZy7rKPQSekBRXC+3kY3gZz3o7kHzCmwIh
+APWWelq2s7AJB2ZbfSvsTb+EarGFUkfK8H6eAmZyZtGPAHcAejKMVNi3LbYg6jjg
+Uh7phBZwMhOFTTvSK8E6V6NS61IAAAF+IKSLJAAABAMASDBGAiEA+hl1uYWbsUVo
+4tsww9IffhZeKcCxb/Wa7rmS05WeXFQCIQDxaQsIcsK6lcfSRGJaPGsi6E7aPDLN
+i8aw3ZCgvQH0gQB2AOg+0No+9QY1MudXKLyJa8kD08vREWvs62nhd31tBr1uAAAB
+fiCkiwsAAAQDAEcwRQIgZe538K/3kX+Sju5blc6hohb2QZVYjw4mp7SZpn18uZkC
+IQDoT6Wykc8lIjdmB3nm75N7zX+qj7D5BfGCyWDlP9wSzDANBgkqhkiG9w0BAQsF
+AAOCAQEAHMwqewIDy7vUkSn/65nnZLjhmVAqV7qfl4eH50l/33WKNd8pR+je0uCf
+r/jajs4Z0M7trETx6Mp9z+3ulqU4yIUP7hF8CmSaJT/4EfA/v+3saWrIWoTldyc2
+5bDRi16avGMIkEdxdc0Fphk+r+tyx1O49ranAonoPffosSne4esV/ry65YRitCvV
+YqJHh9hjeKdNLX7LQsxTJuU4L47XL1SEUGylX6ZnJ8fR8wpt+EHvSiLkeWuKuErl
+mRdAfZ9Z046Hu3QEjiRQfqo5kGZKbhC7gEAkjNBvbAUsNXPBYvHUXfuANtsDrYek
+/TzDZt7S8joOyYEsZ9pb04Y03c8Dvw==
+-----END CERTIFICATE-----
+subject=CN = bancaqorlnternet-lnterbamk-con.evolucionesac.xyz
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5244 bytes and written 426 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

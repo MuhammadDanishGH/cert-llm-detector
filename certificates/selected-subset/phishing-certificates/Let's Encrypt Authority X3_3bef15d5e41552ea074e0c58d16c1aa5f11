@@ -1,0 +1,77 @@
+http://autoczesci.pandaexpress.pl/js/galleria/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = pandaexpress.pl
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFojCCBIqgAwIBAgISA77xXV5BVS6gdODFjRbBql8RMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMTcyMTM5MzlaFw0x
+OTA2MTUyMTM5MzlaMBoxGDAWBgNVBAMTD3BhbmRhZXhwcmVzcy5wbDCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBANI0XCbOyFu9KXOiXmaS2nFGi5JveKGp
+5uveOC1PwmMWy5d59HQLHQAhoHoblgZdDRfLymIwPJN6X0xYl+Qcqkg1HDPNWCag
+Ab/fZuJ4UyJKOZ6mREhnhHm6uY6L88ayA4w32fJVYREuJQv4lDGFUJ+HMt2M4Tq6
+ZwAccaqy4CTWANXD92K33AaxLWa7ijow/1plKB4VSgncaRN407AUyIu2K9v4mQ/a
+QLnKHakGeoGgUWPNm3CNMdCosPmO6UPX9QC4mExZ7ERm+jAFUp6ImDyKHkChCw/p
+Fbhz9SDJV0jpv31V8xS+SyzpgoPY89EIwRVscPKXqIKC9FaU3OPSHZ8CAwEAAaOC
+ArAwggKsMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUgxXUAnjbEkSJWFRqhhhEW/Hs
+q48wHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnLzBlBgNVHREEXjBcghphdXRvY3plc2NpLnBhbmRhZXhwcmVzcy5wbIIPcGFu
+ZGFleHByZXNzLnBsghhzcGVkeWNqYS5wYW5kYWV4cHJlc3MucGyCE3d3dy5wYW5k
+YWV4cHJlc3MucGwwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEw
+KDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgor
+BgEEAdZ5AgQCBIH2BIHzAPEAdwDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd
+3fHb/gAAAWmNz34cAAAEAwBIMEYCIQDOmxHT3J3+3q8o8K4Yi8zXvkvPwUH0Okzm
+fO70RvFq0AIhAO8pnzXMN/R8dPZyN26lx2x04jNgoYGu9FyrOphp8gNOAHYAY/Lb
+zeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFpjc98NAAABAMARzBFAiEA
+6CAcnz+r82DwjanvTyQr3kaPi3gc7/s/TubclnBefzYCIBpKb5AD6X8y0rT6TVyS
+2/ThOik4GexnRGHnnduhTz2AMA0GCSqGSIb3DQEBCwUAA4IBAQAv9Od6ReqJ7fyx
+mL0KyCQQE1Ik7jVae7t0ASfUXMtcMyr5y3ElmIBqJVonKuWacblwPxCFS81wPzQb
+4bK7mUbbrpRQTYXiWvp5ea0T2Pv/UpgYz4aWqxWauR30WebSw8V6ySoQPBjUUtjX
+4Kgcj/uhkBTYUua8XEJ4wPLe0SsHqLkctITddQEOukdt/JRTA3PeqGcy6eTTx05j
+nQYOUIzGSDnnkNoGC8sOGgkyHSRmDyedQ0CaOimwO30G/dmH13jKwflb539N/LmE
+8m++WhbhObPneUhFY4/YUioJCapyX6OligeeBuWrwS+UgbCW+Hr/+SQ4rCV/8kqC
+bcmEXAlL
+-----END CERTIFICATE-----
+subject=CN = pandaexpress.pl
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3134 bytes and written 464 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: B0AAC17666FC86338F8CDFC53A7AD30F7FB5F56FFA1BB2681DE31AA71E825790
+    Session-ID-ctx: 
+    Master-Key: 6B17F36AFFCB1A7DD07FF2D21096BF921A0A4993261E0A681AB8453278723B23BC66FB80327E6EC2FFE64A147C3ABC65
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1556629216
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

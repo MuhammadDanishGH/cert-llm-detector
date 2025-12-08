@@ -1,0 +1,73 @@
+https://www.amsomcarrierllc.com/wp-admin/maint/bancorip/banco/auth.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amsomcarrierllc.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGqTCCBZGgAwIBAgIRAI5tdSyWySYibH47MH/MaogwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA1MDQwMDAwMDBaFw0yMTA4MDIyMzU5
+NTlaMB4xHDAaBgNVBAMTE2Ftc29tY2FycmllcmxsYy5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQC+cXQGyjUKOMGI/LRduhvtcx4zSOEE+0rknfjX
+d5MuJk3xVhP91wq8+NkO0WvBEVVmhyWMMnMfm2fHwZTnYZRDPcBlEgYvlg7EmXS+
+naKm4MnHSbszyOFHK2UIQM0lq/hQOr227YZ4ZwOmhp2dCZSXQLdoEWmcgBvhpLFz
+TYdG8m8umRHnIVUU4Ua5TYNtI7Z0cytOT845w/z7mziOveR+Y96koK3ftO/+MQcK
+yvO0IouZF5dJJbMcrXBVJ9f8kf2hc5GtUB3fvGEhcdtbxARysiqrVtUv6XNvNH0Q
+GAjhdiqdFkTNytDyosesGOB6XPbIscwISEX+u9tXwV3FNQcpAgMBAAGjggOMMIID
+iDAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUTD8+
+UxitLo7x3cy4tdQ3SM39AWswDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYB
+BAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMw
+CAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUF
+BwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1Bh
+bmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1
+AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABeTXN+3YAAAQDAEYw
+RAIgGgL/A+k2u/PydyUg3qVTP7t6rhPj1NoYSzTjFcvb90ECICm7R68kTYqoTVno
+hSB1tRuvD61n+Je4eX02KHXZiRUQAHUAlCC8Ho7VjWyIcx+CiyIsDdHaTV5sT5Q9
+YdtOL1hNosIAAAF5Nc37KgAABAMARjBEAh8NT6GEqF9m17FeO2xe83XRzfE7wmAh
+GuHl7UKeEQcgAiEA+DEF+0P1BfJ/9R1LnhDotwFpMP8XOjX/z9z0NdZQkZMwgeoG
+A1UdEQSB4jCB34ITYW1zb21jYXJyaWVybGxjLmNvbYIaY3BhbmVsLmFtc29tY2Fy
+cmllcmxsYy5jb22CH2NwY2FsZW5kYXJzLmFtc29tY2FycmllcmxsYy5jb22CHmNw
+Y29udGFjdHMuYW1zb21jYXJyaWVybGxjLmNvbYIYbWFpbC5hbXNvbWNhcnJpZXJs
+bGMuY29tght3ZWJkaXNrLmFtc29tY2FycmllcmxsYy5jb22CG3dlYm1haWwuYW1z
+b21jYXJyaWVybGxjLmNvbYIXd3d3LmFtc29tY2FycmllcmxsYy5jb20wDQYJKoZI
+hvcNAQELBQADggEBADHrLn0ik2vvbiRpCUtqiuIrlYUSt6i0FJ4acg4JRNuHgXV5
+JFP03Jxg9nKqDktUmqdoMZA5y4+LP/2o9LUSr695eOAM/HMcYsmNVyt/xf6vZfdH
+tfmG5gJF8UtJ+Nq6mk5PQZ0IWf2ExaRhOOw1hhYdAvM4ukC7kHKSeLZN8vxPYBZ3
+qIFPP9t/yEk206afUXrsp5ErKQmqxV0gI5SYdsbrSVkKvqP6/6LjZV6LnYuqnpgT
+/7CrYry8RHlE+9i5q337NhFAJgSxq7iJ11mkDkdfpG70jVfAzEOkH+485VdcwCcN
+fim7yLGGF8QbU/15GAl53fj/jvMOHPT1LzmHF/E=
+-----END CERTIFICATE-----
+subject=CN = amsomcarrierllc.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5214 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

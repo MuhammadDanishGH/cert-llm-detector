@@ -1,0 +1,95 @@
+https://sobralcontabilidade.com/at/new%20papi%20at&amp;t/olam/?callingSystemId=eCare&amp;key=ecare&amp;returnURL=https://www.att.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = sobralcontabilidade.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGBjCCBO6gAwIBAgISA5nuc03F6sGaQ1qGSfuSsqGbMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MjMwNDU4NTJaFw0x
+OTEyMjIwNDU4NTJaMCIxIDAeBgNVBAMTF3NvYnJhbGNvbnRhYmlsaWRhZGUuY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6s44ksMXsOKnxWv5+nF8
+ePK1EgEpfK6QCzuCl/tEa04SkhxNq7xttPwTgDNkBb3EVIeQK+PcWgoT/scKALoK
+a4CVIv+p0Knrtnzr4dYHcCSKSmIQOlLql1xfQuoKKyU4lbSSvpMC9HF6r9/vSpyI
+x3AyKPZEP/53KScO6aiFcAtaFauOdB2EShN1FYReO2AtLAniNvjZpwWLhdqe/T0v
+RyemY8vb3EPW5Uyd5RD9xvGkPvCtYW8VlYlffULRpchmIM/FHoBxZLsbpy82suk3
+8SIc8vQiU35t+uqJEXfksfn4nBkdPeAnvp4E3N1gDtCJsXGPcCUz2ot73sZ0eXBI
+dQIDAQABo4IDDDCCAwgwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBShSIxLXevxdomN
+EQghCoF4qh4KeDAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggr
+BgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRz
+ZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRz
+ZW5jcnlwdC5vcmcvMIHBBgNVHREEgbkwgbaCHmNwYW5lbC5zb2JyYWxjb250YWJp
+bGlkYWRlLmNvbYIcbWFpbC5zb2JyYWxjb250YWJpbGlkYWRlLmNvbYIXc29icmFs
+Y29udGFiaWxpZGFkZS5jb22CH3dlYmRpc2suc29icmFsY29udGFiaWxpZGFkZS5j
+b22CH3dlYm1haWwuc29icmFsY29udGFiaWxpZGFkZS5jb22CG3d3dy5zb2JyYWxj
+b250YWJpbGlkYWRlLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLf
+EwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCC
+AQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAI
+xjc1eeYQe8xWAAABbVyzh1UAAAQDAEcwRQIgGygNJOAz6+4PhFDTeGxOT20Hs03q
+sasVdnEczAn/0skCIQDmm3gATtCSqqIww/IR4QmCkKyOTblcLEeO2rn7XLlrMgB2
+ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABbVyzh3AAAAQDAEcw
+RQIhAOCB6NSf/r/3/rUgDgnNrRP8I0h/RiBd5zlaPo8kvXAHAiBgIlC5dh9GAau+
+17sD+MuvPjvmV7oIMlKL8HG/L3UTADANBgkqhkiG9w0BAQsFAAOCAQEALTRDKIDo
+Znz+skM2ZVKNjGvxCEb/gSkej2K1wGgAKoUWHbLHXGumLtcRHLwBi40dVWZOVTaz
+OHT+EAwg/43qfKT+7t1Q/CktAYYIA+gCqJ/qEVN0Cfl26lRQJhPfpp1/DyumoQxu
+wF3ij+gOH0I2jvTs0vFLLHSGz/paiWevTWCEsL+H6sFVBTw/FFMGxFEei/NM/iIc
+wxK9vsJLbcQEGAqOz7zNcH9eAeZPt+099UhlWweSq5Wupyj6Q3TIf1oyNN1G6+nH
+I4oex4SeN6A0HPbA0wNfkqHSDK31Nrwy3MJjOm3uqLQ8Gk85HhcYj5R6cZPPMHlD
+GZYScINSacxRjQ==
+-----END CERTIFICATE-----
+subject=CN = sobralcontabilidade.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3429 bytes and written 461 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: E0B4FE62C04F17B94EFDEC469B00877F9CD9162D531A211C112C9BB63E524F14
+    Session-ID-ctx: 
+    Master-Key: 32743786C965BF144A75A3E2682333A54C3A376DA994FA771C71EC0824C878AEF2BB7DD4BCA29B7018C3B7A8D535C130
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 0e bc 1f b9 ad 8f 8e 95-60 66 07 3d 37 89 72 45   ........`f.=7.rE
+    0010 - dd 3d 47 7b 42 bb 27 75-20 f5 b2 14 22 1c a6 f8   .=G{B.'u ..."...
+    0020 - 10 60 75 f6 6d be b8 50-97 0d e7 64 2f c4 d0 28   .`u.m..P...d/..(
+    0030 - d9 b5 50 ee 27 0e 02 b8-76 60 de 65 25 67 88 ce   ..P.'...v`.e%g..
+    0040 - 03 cf 59 00 f5 f2 65 71-ca b4 63 5a 19 a7 3b 93   ..Y...eq..cZ..;.
+    0050 - 00 d9 18 32 02 52 44 20-68 45 08 fd c9 b6 a2 a3   ...2.RD hE......
+    0060 - 5b 9c 93 5e 65 1d 7f d2-d0 71 22 2b 2e ff 86 4a   [..^e....q"+...J
+    0070 - f9 89 cd 4a 36 29 f3 3e-52 82 f2 f3 8b d7 b2 81   ...J6).>R.......
+    0080 - 40 a6 10 e3 1e 96 aa fd-8f 7a c5 c7 04 b5 b9 44   @........z.....D
+    0090 - 3a c1 c6 e8 b1 92 cc 3b-a1 8d 74 97 67 f8 6f f3   :......;..t.g.o.
+    00a0 - ae ec d3 6c 7f f1 86 88-26 3b 90 16 1e d6 02 be   ...l....&;......
+    00b0 - fb cf 92 14 58 a6 a0 af-b9 53 e3 08 96 8d 86 68   ....X....S.....h
+    00c0 - 0a dd a0 35 9e b5 31 6f-ad 8b ea bf c0 44 97 07   ...5..1o.....D..
+
+    Start Time: 1571058029
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

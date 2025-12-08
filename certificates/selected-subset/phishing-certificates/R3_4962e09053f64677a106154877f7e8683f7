@@ -1,0 +1,66 @@
+https://aib-onlineactivity.com/Alert.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = aib-onlineactivity.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTDCCBDSgAwIBAgISBJYuCQU/ZGd6EGFUh39+hoP3MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTAxOTAxNTBaFw0yMjA1MTExOTAxNDlaMCExHzAdBgNVBAMT
+FmFpYi1vbmxpbmVhY3Rpdml0eS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQCZ8+7HeMESJFp4RV91SvTkxQ2z6dVmYP1FJh8wfCTZqEJsud/6XLZN
+Jp00vPzTv9XnkxxXNbjWcVzR7sV4OvQMzanyTANTFznuCCOhWI0Qq/zPEMKNlzJb
+q0NJIkh78HBeylksIqmL6vIse+nZmtkmInZRsdCJjC+2TncJGdd93Sxd2sUR9aFx
+xA5FB0xjdUe0UT+sftw6gsCVl0uQ/2gE559Qqfamv1FS1wK2AD7cs37HyF/0IzPF
+1NLod9YECOtpd6de6/3RusBt2W4qfJF0h/+Zim+IXGEdCWqByBE8pBf4OKU2m3Zn
+DOeiSzNlF6TBfPkH7Y3rieNxO4Yf5HZ7AgMBAAGjggJrMIICZzAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFEOB7rqAmBYBbgmvTSJuBImvlD2TMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMDsGA1UdEQQ0MDKCGCouYWliLW9ubGluZWFjdGl2aXR5LmNvbYIW
+YWliLW9ubGluZWFjdGl2aXR5LmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AN+lXqtogk8fbK3uuF9OPlrq
+zaISpGpejjsSwCBEXCpzAAABfuU6T30AAAQDAEcwRQIhAMhhf+f0pppygU3a0GAT
+93HqwRQAwPoU8kAA7GdtonyaAiAQ8AjlhE880M7Dlgl0JKXF55QxmIYcOe06RChR
+XN47NgB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfuU6T3AA
+AAQDAEcwRQIhAN36Cwan2wWdsO7jga8BUyqfHMJDjjlInPeRoINovSb9AiAfElPz
+PBJ88TnNd5LfJN1Ut217MJdNzrFUy/hAm9zlYTANBgkqhkiG9w0BAQsFAAOCAQEA
+uSL39bfduTpJvok7HmoRlAWzrgcQeIkswDSqfs/kTDAsGc7bMJgg/NxDzKwhSEKk
+ykIsqodycOG1pnyNb06kVLMDYLf5i96BQlxyt0oAwaGnJhsF+QRtCB60Fh8hhhgn
+n9RY/FKhSY4Hs9VInJfSW5K/U0M7tXJzcH9ozKyQ4hSmyJpPsxCOso/SVCGw4H3K
+9NtM7M9FXpFsv1JSpvBrsHDH9HQgF/uWYrwWc2WBLipqehSFrk50o29vP9yyLfhc
+eZWh40VnjXVqXCRA12X2ueknNV/oxmEBOP+7+Y7bIEg+gtXDpePZaHrJoP+f4nD4
+NIA45apRTtMjYPlQWZkNDg==
+-----END CERTIFICATE-----
+subject=CN = aib-onlineactivity.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4616 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

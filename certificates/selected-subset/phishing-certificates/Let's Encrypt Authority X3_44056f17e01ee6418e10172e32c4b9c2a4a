@@ -1,0 +1,97 @@
+https://palypa-infllogienstoerd.gleeze.com/app/signin
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = palypa-infllogienstoerd.gleeze.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGVTCCBT2gAwIBAgISBEBW8X4B7mQY4QFy4yxLnCpKMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MTcwNzMyMjhaFw0x
+OTExMTUwNzMyMjhaMC0xKzApBgNVBAMTInBhbHlwYS1pbmZsbG9naWVuc3RvZXJk
+LmdsZWV6ZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDNmHbt
+kx6RTxeTq1IAw7AP8egrUIPYRsMZKFxAyOteMpl+jyd2hrgiSX5UB2Hdg9Y4b02b
+92cBQdi4nKhOkKFhwSpF69a1Gq5C+/78rWjgKvXk4b2VKgWDFHwMbdDAC+j5zo98
+tgB6p/aJPbDhlRteDXGNItE5amFQ9djyW7aSPv/eUDnPEyoaOvS+3gbuOwnwYk5u
+sIjNCVSJKeVAJ0CQSv73ROG+Avdo04NhHWG/NJGQe2z3bxAVnH+3gdmNV+Wzq0jg
+qQSNCR8g7oKEv+7gd1JEM4uADzGmwlbHemV2fxVoB6oMI4dmqE+768OKqZqyUEBO
+WoBeY+7wXj1tPr3TAgMBAAGjggNQMIIDTDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FNQjxFvEBGL9Iuv23WOCifPYfdEdMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZF
+Ze/zqOyhMG8GCCsGAQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3Au
+aW50LXgzLmxldHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQu
+aW50LXgzLmxldHNlbmNyeXB0Lm9yZy8wggEDBgNVHREEgfswgfiCKWNwYW5lbC5w
+YWx5cGEtaW5mbGxvZ2llbnN0b2VyZC5nbGVlemUuY29tgidtYWlsLnBhbHlwYS1p
+bmZsbG9naWVuc3RvZXJkLmdsZWV6ZS5jb22CInBhbHlwYS1pbmZsbG9naWVuc3Rv
+ZXJkLmdsZWV6ZS5jb22CKndlYmRpc2sucGFseXBhLWluZmxsb2dpZW5zdG9lcmQu
+Z2xlZXplLmNvbYIqd2VibWFpbC5wYWx5cGEtaW5mbGxvZ2llbnN0b2VyZC5nbGVl
+emUuY29tgiZ3d3cucGFseXBhLWluZmxsb2dpZW5zdG9lcmQuZ2xlZXplLmNvbTBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYE
+gfMA8QB2AOJpS64m6OlACeiGG7Y7g9Q+5/50iPukjyiTAZ3d8dv+AAABbJ602xAA
+AAQDAEcwRQIhANcgxkLerFPyqRiETERdt+WQ89hh8EjsPZ7bREN5OuwxAiAx0QGI
+0xCGsQgqyXhuXqAoBpCAmD01mMflFRm/c1vIiAB3AGPy283oO8wszwtyhCdXazOk
+jWF3j711pjixx2hUS9iNAAABbJ602xcAAAQDAEgwRgIhAJ9zGeNiCLW8ya9nIOb5
+ncI0tyIlEvvG/5xFwDpucT5MAiEA1fg84EVoKmLRidCQbma69v+6d/1a9IKrkop2
+L41EuaAwDQYJKoZIhvcNAQELBQADggEBABYuyfQfbc9N9sVuBvYswNasy0a5+GLZ
+q7rzMBvC3MIK3n1BelZ/WT+zyYlcWqwTkO9ihPvNoTbx7KBNjGKVdbKOALcoRhYc
+YyfcHyDAgWEDLYgqBfSle7zTQVHDzYXdSIuNAzPHXdE5ZzwKYtjaFqB7uZu7sb74
+r+WJtOLYu0/RKltXfXFWz6Tctz2YNai5yXea8FX6aPyOKEB6zZqZM9bdkKKAnqEK
+Rf2Ck7UED3Lcyoor2uIGgovaD8SERI/QENXiEanUlSg6Vik/RtuD+eGNvbbjN50c
+XcrqSBf7iplOOYleNhp0CctbhYRGjWSxTvNR5vAcco9DvigxYKrF4vY=
+-----END CERTIFICATE-----
+subject=CN = palypa-infllogienstoerd.gleeze.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3524 bytes and written 472 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 734F455F688F1A3C7FE8B807870B618EB4B2B6E9824C98179821A96AD70ED271
+    Session-ID-ctx: 
+    Master-Key: 9ED350B69921121E333222586831E08BBBE0A24A4FEC54FC2BCD46155E9FB04FB1752B542CF36E0266A6E49E49FB17C1
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - a6 57 e4 5c 76 c5 72 dd-58 f7 b3 17 f9 cf 51 5f   .W.\v.r.X.....Q_
+    0010 - 31 fb 04 ba 37 da 14 19-d8 9e d8 b1 91 2a f6 a1   1...7........*..
+    0020 - dc cc 95 e4 2a 1f 9f 39-3b b6 32 e6 a3 1b ef ba   ....*..9;.2.....
+    0030 - 11 78 34 49 f8 e5 00 83-a4 90 8d 8e 21 2a cd 6b   .x4I........!*.k
+    0040 - 24 30 e3 3a 65 d5 48 93-d7 ea da 1c 35 3c cf 6b   $0.:e.H.....5<.k
+    0050 - db 57 18 0b 68 4f 16 86-d6 86 0f b8 59 6e f7 63   .W..hO......Yn.c
+    0060 - 75 9c 4f 8d 2e f3 3e 1a-d2 ff c5 4e 60 b7 ca 6e   u.O...>....N`..n
+    0070 - bd 96 c7 82 de 3c e8 6b-83 f1 db a6 2e ab 69 71   .....<.k......iq
+    0080 - a2 d8 98 eb 26 54 34 79-50 03 30 d3 10 d6 e7 d0   ....&T4yP.0.....
+    0090 - 5f ef 07 a8 15 fb 15 73-2a 70 15 07 d2 42 d2 44   _......s*p...B.D
+    00a0 - 1b cb 63 d4 86 d4 40 39-ce 27 0e 77 fd 38 e1 f2   ..c...@9.'.w.8..
+    00b0 - f5 f5 60 d6 60 3e 50 a2-5b 9f 0f 27 b9 d0 a0 bc   ..`.`>P.[..'....
+    00c0 - 60 ec 7d d0 10 2a 68 a8-c5 07 0e 28 ef f5 ac a5   `.}..*h....(....
+    00d0 - 56 ca 6b f5 03 5e 7c 89-d2 6e ac d1 77 60 f8 35   V.k..^|..n..w`.5
+
+    Start Time: 1566046828
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

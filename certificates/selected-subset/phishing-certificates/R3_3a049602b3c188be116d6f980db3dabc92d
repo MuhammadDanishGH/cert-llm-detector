@@ -1,0 +1,71 @@
+https://paymngifaps.solehmatapps.com/post/1.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpcalendars.solehmatapps.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGLTCCBRWgAwIBAgISA6BJYCs8GIvhFtb5gNs9q8ktMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjgxNzQ1MTZaFw0yMjAyMjYxNzQ1MTVaMCcxJTAjBgNVBAMT
+HGNwY2FsZW5kYXJzLnNvbGVobWF0YXBwcy5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDS5l1zz3k3TKAlYWkZ0/WWY+NlBqvLGVAYJBOFrJIztuaZ
+Z+24+u2BrEpAHX8jIgXK340jrpxmpbX+afnmcKoAN+a9QWGTPInfm2i74QcJ4Gwa
+zHC62HNbnO8I/KGliEnDE9qGWF1OFPdbqCtFVQW807ABm7Zasrqeo45neLSVlyP9
+89IfEh51ggDFwvy5VwpB4egYYEy4u6S2DWpljESfVfY7P4oZ/fsWuHo/84K2GqjU
+Ixai9kpNTEnCB0GtvHCWtJpDTZOwTpQP4xt2Qs2wj6qv4LW/pk2+Ooed2TgXpx6Q
+U4/otlGx8JecBFsxW2Gyu2hL2KQ6N4lSVaD9CyaLAgMBAAGjggNGMIIDQjAOBgNV
+HQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1Ud
+EwEB/wQCMAAwHQYDVR0OBBYEFKMqmqdj7g9bYDDoUf0cTqN6L2+dMB8GA1UdIwQY
+MBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEF
+BQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8v
+cjMuaS5sZW5jci5vcmcvMIIBFAYDVR0RBIIBCzCCAQeCF2NwYW5lbC5zb2xlaG1h
+dGFwcHMuY29tghxjcGNhbGVuZGFycy5zb2xlaG1hdGFwcHMuY29tghtjcGNvbnRh
+Y3RzLnNvbGVobWF0YXBwcy5jb22CFW1haWwuc29sZWhtYXRhcHBzLmNvbYIccGF5
+bW5naWZhcHMuc29sZWhtYXRhcHBzLmNvbYIQc29sZWhtYXRhcHBzLmNvbYIYd2Vi
+ZGlzay5zb2xlaG1hdGFwcHMuY29tghh3ZWJtYWlsLnNvbGVobWF0YXBwcy5jb22C
+IHd3dy5wYXltbmdpZmFwcy5zb2xlaG1hdGFwcHMuY29tghR3d3cuc29sZWhtYXRh
+cHBzLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYG
+CCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB
+1nkCBAIEgfUEgfIA8AB2AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpz
+AAABfWfdm2YAAAQDAEcwRQIgLWEkmS/uMRKcoJCnQ7LjuDEYIwIzsbDDBK067c59
+iVkCIQD+ZjMkBxO8vm4yay2YQMeG+J3JiRh3/bmFrGBjcVusBAB2ACl5vvCeOTkh
+8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfWfdm1kAAAQDAEcwRQIhAI1Z0r+n
+hdUq+Q7zzc1w4DA9RYRZyvjKYFP4mr60ryehAiA/bpp2PnfEiOMt5twabw9Nl5Sb
+hOx0dtJjiF56vh9SSDANBgkqhkiG9w0BAQsFAAOCAQEADo/wWTVNW5ffOJGJajtc
+K3E20IFNbq3/G3R6ZnFWTjlkdt9b4SqPWm1nzgVSbVyorK77zZlRKT9Zbn4cJW8B
+rbNEQjx6UlS1qEgu2ufAJYx4UlQAf6A4C42C278NWJn5qZSsijkk/ktpMqfWK6XI
+113S98P8jJ3eb3Wacx1+PEXIQhXp3Cn6eaq75/TO9KboaaktR8jIZR2TJi4JXzG2
+xqdiBd0KBFDT0MdxcOsKHdF1q0Ll3m1Uoum2Q3d/J5KayTZ/OxV70Bo7ROeJBv7B
+LuhlbLcBHKSDLXjVu6EsXv0509PRSnBpKGcvZUFy0rW/r9BFTn68NUZq795KrYh7
+pw==
+-----END CERTIFICATE-----
+subject=CN = cpcalendars.solehmatapps.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4841 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

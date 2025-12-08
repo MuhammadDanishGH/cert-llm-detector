@@ -1,0 +1,75 @@
+https://www.joingrup18-vvip.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = joingrup18-vvip.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG9TCCBd2gAwIBAgIRAPZL9KUvbBhcefc0YTWxUjgwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA3MTEwMDAwMDBaFw0yMTEwMDkyMzU5
+NTlaMCYxJDAiBgNVBAMTG2pvaW5ncnVwMTgtdnZpcC5kdWNrZG5zLm9yZzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALOhs/Mk4dj/+ey+ZKW05URflRft
+kwawBpHb2BJAsy6fyqnmUPMRskG3YO9IQ+8RUkF0iZocK5vg1tFDWKgrov9Udw+4
+kR1cJ+975mcYADMBP8R8fIBVVUox5NMw9OrvflpNz2Xdv9ZGbnBAqUuHb7mcp70q
+s9Vw7R5i9RqxfbEAi+W1cweC3gdjeknPUfL3KfuBSZfvkHOWoDoXhUwN5STwGIdt
+70PRO5iVFMMkI5bAidbK7cHy+n9XYiyxlwfHIBHJX64TgjtZA+GGMDf4e3PqH/oK
+Y5/FONOqFT/AS8yZfMgzgrHTVIVa562Ixlm3Q0290YEcPN5UciU7rshtuQECAwEA
+AaOCA9AwggPMMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1Ud
+DgQWBBSnaFOI+q3XuQvxqLg7mO7x84ng5TAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0T
+AQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIw
+QDA0BgsrBgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28u
+Y29tL0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5j
+b21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmww
+fQYIKwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2Nh
+LmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEF
+BQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBAwYKKwYBBAHWeQIEAgSB
+9ASB8QDvAHYAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF6lM4O
+CQAABAMARzBFAiBU5x2jmmhTmoXnSoiUPRfhwTzFrgWTcaps0UtsoDMgBwIhAI0V
++2/bpH82h4IVZXlKuR2NSu+FOLj7r6TiX/lT4hmjAHUARJRlLrDuzq/EQAfYqP4o
+wNrmgr7YyzG1P9MzlrW2gagAAAF6lM4OCgAABAMARjBEAiBNp9HnBMTe4J90LasM
+CBIAvClB9iDBQGWzCxlizXcH0gIgeSxO2n8zS0jZDxDFFnOnxdwXExVxK23sj5yb
+dqTR0qMwggEsBgNVHREEggEjMIIBH4Ibam9pbmdydXAxOC12dmlwLmR1Y2tkbnMu
+b3JngiJjcGFuZWwuam9pbmdydXAxOC12dmlwLmR1Y2tkbnMub3JngidjcGNhbGVu
+ZGFycy5qb2luZ3J1cDE4LXZ2aXAuZHVja2Rucy5vcmeCJmNwY29udGFjdHMuam9p
+bmdydXAxOC12dmlwLmR1Y2tkbnMub3JngiBtYWlsLmpvaW5ncnVwMTgtdnZpcC5k
+dWNrZG5zLm9yZ4Ijd2ViZGlzay5qb2luZ3J1cDE4LXZ2aXAuZHVja2Rucy5vcmeC
+I3dlYm1haWwuam9pbmdydXAxOC12dmlwLmR1Y2tkbnMub3Jngh93d3cuam9pbmdy
+dXAxOC12dmlwLmR1Y2tkbnMub3JnMA0GCSqGSIb3DQEBCwUAA4IBAQAiO0oVccsQ
+je/mdXG0HwGuuddn2QC+rMRMBIZiTEmu+w3r/ATP4IzdV35Eg5DrR+ShsjyMOPB/
+L7fRAFfyliU7dBFG6ZMXnY9nTWUslyfi3Yt2SB7oOxUg5mUu9dqrz6bvdJhIia2A
+f/94EIpUFrMBlE70a+/Ws5hh5v1hUjsVMWlhuA33njDK2G8MNHsH+myMxWIgTkt7
+u78JG9ss/SBlH56qSW8Oj2fmAhDVtYzDZcXcCxxGmC6OR2lsvPhnm9ksYvwNqWsb
+8xAsRm8K8cmUHyYR4bPh9o7hXuHKl827sqkGQGikmRaLsj8ty80S4MMtCQvmmjHu
+xtHDHs+2Nnp+
+-----END CERTIFICATE-----
+subject=CN = joingrup18-vvip.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5290 bytes and written 413 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,94 @@
+https://boogeyedindignantly.info
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = boogeyedindignantly.info
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFVTCCBD2gAwIBAgISBMgdZcmmO5VW8WQk0ak2Jl7mMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTMxMDQwMjdaFw0yMTEyMTIxMDQwMjZaMCMxITAfBgNVBAMT
+GGJvb2dleWVkaW5kaWduYW50bHkuaW5mbzCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBALfhZ4if/APQP/AbCWnLyZ7Lm3WCEaeFUjD4qJrOLqBaGSC1lcM3
+hPcDUdWVF+gS91J3gxQ3Y2uOHkd4uYiVnezAivFG9uWd+vUSgWqdquqeI73UUCDT
+9xjnfKZl/T2u+lKaqLFoJhKcMWJ4qwoX20/xD3j3z3n68I8xuURsy5qFvykOGRMf
+kmB+ZXunm3Nlo7ttVg2AnXK4tqyZrO0OltSveNK6GME5DB68yeIqI7TeWNqDsMkO
+h8ZLRZ/ENFQy5ZEuWzJc1Du31oG/9vGp9siHBhx9beAyaRXIaP4rBQoYkX582h0n
+wQj1oXmY8ccg4YivHnuA1uGE8UU+aEF9mVcCAwEAAaOCAnIwggJuMA4GA1UdDwEB
+/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/
+BAIwADAdBgNVHQ4EFgQUxcdUARbfTOC5G4S0G3n4dWEiizswHwYDVR0jBBgwFoAU
+FC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzAB
+hhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5p
+LmxlbmNyLm9yZy8wQQYDVR0RBDowOIIYYm9vZ2V5ZWRpbmRpZ25hbnRseS5pbmZv
+ghx3d3cuYm9vZ2V5ZWRpbmRpZ25hbnRseS5pbmZvMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAlCC8Ho7VjWyI
+cx+CiyIsDdHaTV5sT5Q9YdtOL1hNosIAAAF73vVjrAAABAMASDBGAiEA7n+MlNCO
+cZAxerJVoVragyoahGKerXmKgPXPjhyCr2kCIQCSzYigCaR5gKK10Lj3siUIrbg8
+SPWyzfD2q/B/oyJBrgB2APZclC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTj
+AAABe971Y+IAAAQDAEcwRQIgRdkd3xiUiGk3YyuHO4+y3oEalZqQhKlvgI/0hUm8
+2bgCIQC6oDuzMLS100CKLvvdOqOrluHhOsCdBxGljnkVWd7EBTANBgkqhkiG9w0B
+AQsFAAOCAQEAdrsVGGAZ0Q5c0I0I0t1COBupt4oUV08L1s4OKB/N+fjqfZfrp1AJ
+e2PZYzV3v89XoRc0Oa7P0N/QtAiAaKExTb50JIRr5EyIpu4IrDNuArHlEbsuQ8d+
+ClhexNus5D5MQg4Vk6cX1q0oLVpJMMFD7eZa7uO4x59l/HdwHB0J8Sf6mawa745b
+BEdn8RKv6dRf+5CqH9qKzLZBiQWDdmrW8PzpoTM10hEE2gV/dLGGJfIPHOg9WTFG
+mvUfmEJPNygQCgFKBX57B1VjsfUFgQ+vjkTDJyiNQ3uKOcka00bPGUJ/3tglOJ+Q
+nir8LizfBEDX1BeRrGQYcCneZDW1gNDjvw==
+-----END CERTIFICATE-----
+subject=CN = boogeyedindignantly.info
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4783 bytes and written 444 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: C51C10814ECF49B01FEA5D9AD4CDC4D26B74CA771FCCF3240FC6BA0C69AF25DC
+    Session-ID-ctx: 
+    Master-Key: 8600C503AA70E9ED8E95697DF744FD2B5E53CDBACE2DAC02683A00DBF7B056DDB3674EB47FC97A51FAB38726A9399CEE
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 08 40 2a a4 1b bb 8d 05-87 aa 5a dc 42 13 dd 4b   .@*.......Z.B..K
+    0010 - 28 96 b0 be e2 49 d3 87-3e ed 14 72 69 68 0b e9   (....I..>..rih..
+    0020 - 90 62 c1 bd c9 3d d8 30-84 0c f0 b2 69 49 5d b7   .b...=.0....iI].
+    0030 - 0e 06 54 9d a4 ad ba 4c-56 b5 b4 ad 8b 8a 9e 6c   ..T....LV......l
+    0040 - aa dc ed f7 54 f0 25 8c-9c 28 32 66 37 c0 b3 2b   ....T.%..(2f7..+
+    0050 - 1e aa 4f 96 b0 fa a3 bf-f8 e7 1f ce 55 d0 17 55   ..O.........U..U
+    0060 - 7b 67 5c 1e df 30 ca 6b-57 d6 2d 9f 09 01 13 ae   {g\..0.kW.-.....
+    0070 - c8 04 ba 3a 05 f0 ee e5-2c 6b 2b 4a 41 b8 4e 90   ...:....,k+JA.N.
+    0080 - 3f 08 34 3f ce 03 f7 5f-58 8d 91 d2 36 68 ae bf   ?.4?..._X...6h..
+    0090 - d0 fd 98 9a 58 9b ae 4e-67 55 12 02 63 8a d6 2f   ....X..NgU..c../
+    00a0 - f9 7e 83 27 70 f7 a7 ed-2a e3 88 74 9d 51 02 85   .~.'p...*..t.Q..
+    00b0 - c0 de 67 bb ab 2d 66 ef-67 b6 a2 09 76 1e 26 47   ..g..-f.g...v.&G
+    00c0 - e4 c2 33 47 39 fd aa ec-ec 51 cd 69 6e 80 5e 87   ..3G9....Q.in.^.
+    00d0 - 6e 7e e7 03 fa df d1 6f-3b 3c 0f ac d2 54 0e f5   n~.....o;<...T..
+
+    Start Time: 1632126853
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

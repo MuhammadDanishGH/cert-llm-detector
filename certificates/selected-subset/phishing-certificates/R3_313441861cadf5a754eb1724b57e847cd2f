@@ -1,0 +1,65 @@
+https://allegrolokalnie-pl.9546728.space/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.9546728.space
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMjCCBBqgAwIBAgISAxNEGGHK31p1TrFyS1foR80vMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMzAxMjAwNTBaFw0yMjAyMjgxMjAwNDlaMBoxGDAWBgNVBAMM
+DyouOTU0NjcyOC5zcGFjZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AL72bVe+OReb2uUJVLQuiAP9IIV/4gHOTkJWFGIWLPpfgzZKWQ2GfyPFA9eQCPoI
+Njby1zpQgIGUPtajVkjmckXF75nm18L4LbNgZZN/YEIG4icDeuVzmYRPy+BVMb+2
+EiY169ztJ92e2KrBtKdrvwqoVgWgkHBE+sFe4hP3l546/ZgXcnLSUJDADbC1wFrQ
+BQbqTlsm7dzWV4jhZW+XoPTShBlvI3HBRyn+Td+yUxOAAYpSHXeJsHo6LGJd1cF4
+kfgnVTuyjZuqeVcormVRKdKzyp93ASgg48t3UYU4qqkqTBOWO8pp8bI38JQtF27U
+huFiOvNhh0IpRcb7vKOs8q0CAwEAAaOCAlgwggJUMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUhDQ+cjUmLEYaA8W5D6qgQ+cYiE4wHwYDVR0jBBgwFoAUFC6zF7dYVsuu
+UAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8v
+cjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9y
+Zy8wKQYDVR0RBCIwIIIPKi45NTQ2NzI4LnNwYWNlgg05NTQ2NzI4LnNwYWNlMEwG
+A1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEW
+Gmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB
+8QDvAHUARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9cO7/HAAA
+BAMARjBEAiABkPhra3A4C9XV1wzpQEDkDeuKG2Lu3dcEE+LBky0X8wIgUyKTwaeR
+qUOjY1/tlQX2+/8X6H/1EmnLHDevOHFUcecAdgDfpV6raIJPH2yt7rhfTj5a6s2i
+EqRqXo47EsAgRFwqcwAAAX1w7wDSAAAEAwBHMEUCIQCLB61hjWdXf7hxWoH8vcxy
+KdettoALGnA3IgBiIA1UoAIgJ9dXpGR9rKNkkyDHzi4u7RS/xKHvs4dzrTsfNe6l
+RpUwDQYJKoZIhvcNAQELBQADggEBAEGYl2cpO6ge6iE0pn2CtefJ9a9IwxIhh119
+xwKeNbmoF7k4AyA46xFN4f/pSfYZFuFPO/NQjkiM9//P6DeWEtSn7V8MANYYzXKH
+taLyb6CxAnlzXm7NVMTL+nFoDc3gXlwM8VhD//aKisON9XjaYlBwr7/dPYuhOrmY
+moeedYOuT+IEOAJNireT24qn4/AHqxEclwuh5NejReAX8yz8NKD5Ok/iDNyf90Nn
+GEYb4+cVu7sO5//H4w9ezTSqn6zwSUfvPIT5PEo0PEvKHKEMIRdN9c0KRmHM0CJ4
+l7y6agbnH1FL/drJxbymPylmuxuBQ8gnUnJVXg7YLfilMCNontA=
+-----END CERTIFICATE-----
+subject=CN = *.9546728.space
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4524 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

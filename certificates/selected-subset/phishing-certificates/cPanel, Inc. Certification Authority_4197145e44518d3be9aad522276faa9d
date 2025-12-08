@@ -1,0 +1,73 @@
+https://jackjonespolska.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = jackjonespolska.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGqDCCBZCgAwIBAgIQQZcUXkRRjTvpqtUiJ2+qnTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDgzMTAwMDAwMFoXDTIxMTEyOTIzNTk1
+OVowHjEcMBoGA1UEAxMTamFja2pvbmVzcG9sc2thLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBALft/YkFnHHMfOI0vamHFZFS379KPF8s7XITCOmv
+2AJC3AXnjG/cbp6Lnu5HvSTy4E6h+1Edh9cayTpuHJYWUqWD8vjA3mfOCwJaFo20
+brsgfusgzqxVjBw3ArTV/oiB+aHFCtBr3qqXa92nhaF6BZffhcB0tgZDrenpZeY+
+fVjtY1K0fnlp+3ZXmukb+TrX1nOY1YY4Saaj5MQS556Q47tleZXM+aY/8Y2KLoSI
+LdoOeF2enKT2amTbM7BHhumBPbDE9dns5HOXbHKVe0fTLrM1lToVbRrW0gb+jc0R
+DOo0v+Vd243O/caCdCbuFSq4OOmim8XIc7atGYArp0GmhPkCAwEAAaOCA4wwggOI
+MB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBSeamGx
+vOg1cTzsryksPmDe3/0orTAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEE
+AbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAI
+BgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5j
+b20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUH
+AQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFu
+ZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0
+cDovL29jc3AuY29tb2RvY2EuY29tMIIBAgYKKwYBBAHWeQIEAgSB8wSB8ADuAHUA
+fT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7m0wvWgAABAMARjBE
+AiAVd6S9XVBAduOXvjyX6LToI1z5q4TLCQ4eUYGGJnOavAIgGAcS6jD5jNLERZXw
+JPGn+uYtsuAzLB0Yq6L+J+6JWC4AdQBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/
+0zOWtbaBqAAAAXubTC8XAAAEAwBGMEQCIBUXcIe3ssU9/68adRISDEtpizB90gek
+uWMtcuHKlMRWAiA6RCqkQFyd9IZZi/EInM6WiHXfmKJ4q1GHejP8umwHbDCB6gYD
+VR0RBIHiMIHfghNqYWNram9uZXNwb2xza2EuY29tghpjcGFuZWwuamFja2pvbmVz
+cG9sc2thLmNvbYIfY3BjYWxlbmRhcnMuamFja2pvbmVzcG9sc2thLmNvbYIeY3Bj
+b250YWN0cy5qYWNram9uZXNwb2xza2EuY29tghhtYWlsLmphY2tqb25lc3BvbHNr
+YS5jb22CG3dlYmRpc2suamFja2pvbmVzcG9sc2thLmNvbYIbd2VibWFpbC5qYWNr
+am9uZXNwb2xza2EuY29tghd3d3cuamFja2pvbmVzcG9sc2thLmNvbTANBgkqhkiG
+9w0BAQsFAAOCAQEATWoYrB1WXO7loE72/COp0+lZawzsgAuw2OZcibcIX1K3IfCz
+RElMFISaOZw01W9bwtktaxwug9Mz+trbbzIlY2TGoM8ko4IfZufT8jLf6EKpRzOc
+sHFwUohL+tTIT2P9H0F49wLDCDaSrBBS/skb20VaWx1GlpqqcP/302lbBicxEWtC
+kuwk5TqNTTAx7IkhoZSG3lMuEgpaX1Iw5TtOGBlGUZkmBX/YtTz/XmG4FtB7LdRd
+ttEclF9U99QUqwjywBTNwLahZOAsOKenydWR9Ijt8A4AgsfAcoYe680xGBzglNMk
+0yPESxyiEbuX2j/8E1EmFimu1kNmAWCzftMrMg==
+-----END CERTIFICATE-----
+subject=CN = jackjonespolska.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5213 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,94 @@
+http://taxi-2121.de/splends/aol/login.htm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = taxi-2121.de
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF1TCCBL2gAwIBAgISA8efeBGntt4HaqZmu6HrhzQYMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMjIyMTMzMjNaFw0y
+MDAxMjAyMTMzMjNaMBcxFTATBgNVBAMTDHRheGktMjEyMS5kZTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAOL+UDmVhF4nmV5NRSbCHXHId3mt9zD9M1ug
+uBeRnNz/T33h/HzE/CtdzMhIUDHonJhPlm2h4WPymmUeDG76Pi5KlWU5hMBTGUkj
+bYLXHlNMO5DTt2ppDvnYOKEzCD5z/pm7BOkcBJsXC0K1s3pBD3UtAUYAWerU/Ni9
+phMyXqwsb13aqp7uWD9gRDotHCMmvN8fvwDy0uUqHfs3fezZpXr98ANOHrogo+bQ
+3gs8JRkd0x0JNEBooGKA4X1cujMSkoosd0wX+kpZO6q6YBPUttZkylD1sSRdVqKI
+KEPnQ9v89yM6NRzGagZsEVzsKi1NPg7zagDceKHuJSsjTZAuQOECAwEAAaOCAuYw
+ggLiMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU3a/O6xuD8Ozn4KZ3+XLjBXDeXWQw
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzCBmgYDVR0RBIGSMIGPghlhdXRvZGlzY292ZXIudGF4aS0yMTIxLmRlghNjcGFu
+ZWwudGF4aS0yMTIxLmRlghFtYWlsLnRheGktMjEyMS5kZYIMdGF4aS0yMTIxLmRl
+ghR3ZWJkaXNrLnRheGktMjEyMS5kZYIUd2VibWFpbC50YXhpLTIxMjEuZGWCEHd3
+dy50YXhpLTIxMjEuZGUwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMB
+AQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEF
+BgorBgEEAdZ5AgQCBIH2BIHzAPEAdgAHt1wb5X1o//Gwxh0jFce65ld8V5S3au68
+YToaadOiHAAAAW31mnZMAAAEAwBHMEUCIBKWK9OhXYOZ1g3r7XfYhYbtkgGgNX56
+B35SlKCFNS3GAiEAstCQs1s7ZyjtljNaLBJofjqZ6qObn98U9Uyzgyzx39IAdwDw
+laRZ8gDRgkAQLS+TiI6tS/4dR+OZ4dA0prCoqo6ycwAAAW31mngXAAAEAwBIMEYC
+IQCaPPLdPty6/KCG7xpP8NIQ+huvoJEP0SKdBmMyHC8ujQIhALnYlhNfbyjNYMB+
+DcTLEuDzcbjs9jPdT3eYcFcOnOGwMA0GCSqGSIb3DQEBCwUAA4IBAQAoFmgefU2E
+EEOhaCJ9AZfq/T40YdQ10im8LZFK/gnw3Jbeb/PStuHNn0hMzQpZaMoOdeeTllYW
+QiIqnqabw/XRTkCYk6bjqJVIjy2xYNUE+kAm+KAJFsMmYhU/dAHuGSoxMdWU2277
+wezSoSTYAXa8XTQCD7vm987/Z+G/l+1bPDcsHph+T/jjCXn9z8r3+xOWrkLvN6UQ
+DJ0uoXJSYp3L7f2p9kHUYoLJzPdXrNTSlBKxw5zsfL4dPwr6zuO8VGwoNL0HCupu
+wGJ0MGHVeDfJer3MyJ+50lplKIVaXeMsAgH0dZVdkCv76iJZ2r4i35bm9TUuxGhh
+yS9Hvi57M6JP
+-----END CERTIFICATE-----
+subject=CN = taxi-2121.de
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3380 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 278C9449BD9E7B7FFAD222F81C115EB074E5899B59A53F7AE2600292EDF8D66E
+    Session-ID-ctx: 
+    Master-Key: 9E432BDA2E07A95607538C4A446ECBD1E9BAAD37051202AF04075E0F9D587B8A264B8FC61F51FA0E92B58E55E71CE328
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 14 30 92 59 b7 6e 16 5d-2f 4a f5 80 ca 3f d1 2d   .0.Y.n.]/J...?.-
+    0010 - 63 c8 1a df d1 34 d8 c8-3d cf 74 33 d3 be ea 32   c....4..=.t3...2
+    0020 - 64 9e 2e ac e3 ad e4 5b-8f 79 c2 97 34 77 2e 0f   d......[.y..4w..
+    0030 - e1 d1 23 07 e1 65 c0 a8-f0 8c bd ff 39 2b b3 b3   ..#..e......9+..
+    0040 - e1 3c f0 6e 4a 8f e5 e9-81 f4 ec ec 2d 61 d4 f4   .<.nJ.......-a..
+    0050 - b9 6e f0 b5 9e 15 55 f8-90 89 3c e2 2f 69 8a 3a   .n....U...<./i.:
+    0060 - 1d c9 b8 e1 7b 03 c5 ff-70 63 80 6a d4 9e 93 40   ....{...pc.j...@
+    0070 - 51 59 be d6 32 88 d6 d4-91 80 6e 6e a9 ed 68 28   QY..2.....nn..h(
+    0080 - bc ca 4f 82 2f e9 af 24-f3 3b 2e cc e0 18 05 ae   ..O./..$.;......
+    0090 - 2e 1d b6 0f 6f 3a a1 3c-52 2f 6f 40 d9 32 23 99   ....o:.<R/o@.2#.
+    00a0 - 4a 62 95 1f 7f 55 55 d1-be 04 4c 25 37 e2 4c 19   Jb...UU...L%7.L.
+    00b0 - af 42 e0 7d ca 3f da 66-78 1d cb 46 c1 91 30 62   .B.}.?.fx..F..0b
+    00c0 - 75 1c 6b 28 57 ea 74 28-07 95 11 d7 40 c8 9d 73   u.k(W.t(....@..s
+
+    Start Time: 1573135279
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

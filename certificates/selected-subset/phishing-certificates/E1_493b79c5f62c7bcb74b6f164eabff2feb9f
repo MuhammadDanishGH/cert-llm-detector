@@ -1,0 +1,61 @@
+http://com-cancel-transaction.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.com-cancel-transaction.com
+   i:C = US, O = Let's Encrypt, CN = E1
+ 1 s:C = US, O = Let's Encrypt, CN = E1
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X2
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X2
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 3 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIID7jCCA3WgAwIBAgISBJO3nF9ix7y3S28WTqv/L+ufMAoGCCqGSM49BAMDMDIx
+CzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQDEwJF
+MTAeFw0yMjAyMjAxNDE0MzlaFw0yMjA1MjExNDE0MzhaMCcxJTAjBgNVBAMMHCou
+Y29tLWNhbmNlbC10cmFuc2FjdGlvbi5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMB
+BwNCAAQHUCyCwvHz2WY2QoB6//zktJNfxtfj3K0v9MaNWaCuvnk2eBV+ABltvSwV
+Ksiv45llcwBrmW+csJYHp8wWCoc/o4ICdDCCAnAwDgYDVR0PAQH/BAQDAgeAMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBQc8KygSypT9b62N7ja4KaNZF1T7jAfBgNVHSMEGDAWgBRa8+0r/DbCN3m5
+UjDqVG/PVcsurDBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9l
+MS5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL2UxLmkubGVuY3Iub3Jn
+LzBDBgNVHREEPDA6ghwqLmNvbS1jYW5jZWwtdHJhbnNhY3Rpb24uY29tghpjb20t
+Y2FuY2VsLXRyYW5zYWN0aW9uLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AEHIyrHfIkZKEMahOglCh15O
+MYsbA+vrS8do8JBilgb2AAABfxey+y4AAAQDAEgwRgIhAL1laXX+RPfh1+X4Rc7n
+TAWf8IguqwyYBcg3YsDrH/XjAiEA0rFWlSA+abDRmXRnubTPvVZklt/nUoT/ve2S
+6ZpZMmgAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX8XsvtB
+AAAEAwBHMEUCIFRfOS+Roz13LUjSP4khOxZT89w6mmH1eHB8RPrQFCEzAiEA1CIi
+ND3oo5q8el4YjwSR4cOenrSUuDNIiLEkN9u9Z08wCgYIKoZIzj0EAwMDZwAwZAIw
+Xqfn15e1weuGn9hZi1RFFqET3fOXHaixulZKZdPVCJRuYVpmKUf1fryT6s9Q/8bH
+AjABMdWuaOKIYBCUkTKxpOBkkIBvOpZURRVDc5BXaVmzd6/fn41dJfjEdh6mOr3O
+yXU=
+-----END CERTIFICATE-----
+subject=CN = *.com-cancel-transaction.com
+
+issuer=C = US, O = Let's Encrypt, CN = E1
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4553 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

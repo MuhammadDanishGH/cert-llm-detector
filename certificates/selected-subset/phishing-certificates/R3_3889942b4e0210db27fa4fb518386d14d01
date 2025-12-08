@@ -1,0 +1,65 @@
+http://fbnotification-11748130592.becoffee.co/profile.html?countUser=ba8e20eb3c2bc3971a82a03e554fb027
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.becoffee.co
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFHzCCBAegAwIBAgISA4iZQrTgIQ2yf6T7UYOG0U0BMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA1MTAyMTI4MTdaFw0yMTA4MDgyMTI4MTdaMBgxFjAUBgNVBAMM
+DSouYmVjb2ZmZWUuY28wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDn
+BcJsj3g+PocUJs4aVhXmkpjmfIDTxaAGF2uyHKxcyn3K3vN1HBKlWav3qIlIRNoA
+j603zW8GyuWpvCwpd+RYD8l+t8wTJa0FL0QyVSt0gjGEqSPnKbQagcd04t50gD0w
+zXoP0FHNCF6eqpxY5GGkCJFmDoH3gxEttiazOYVdhRhVfEMApSIaRHsWRgcBqo6Y
+3bEANsk7wOKDFCbOZ4L+L+lutjyti+uag0D3tnfQ/XrnB7rmtlbyRFz/wP6OnBD0
+GXT0JV45zeLMIFznXjU5FKW9f0sOOUCajhod2j9INX3kfnrHwVz4Hp01mq4ntbHX
+HXlitogFoEXWNUvzSaDrAgMBAAGjggJHMIICQzAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFDpFMlVm6NrLLcKdPGlMP4upNYsgMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJ
+QOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3Iz
+Lm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcv
+MBgGA1UdEQQRMA+CDSouYmVjb2ZmZWUuY28wTAYDVR0gBEUwQzAIBgZngQwBAgEw
+NwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5j
+cnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQCUILwejtWNbIhzH4KL
+IiwN0dpNXmxPlD1h204vWE2iwgAAAXlYZTIoAAAEAwBGMEQCIFSWsU39bCsBvWpD
+pUE8GkKEzKYzwxBFoSCSX13bL/WvAiBsNiIGMB7W1sRpPyULiGRAdlvoqyJT/56q
+TJCae70S7QB2AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABeVhl
+MmIAAAQDAEcwRQIhAIfgy/oVk4ALYb+xKNpCmrj5Qzzll0O15lncA2QUrYu7AiBN
+K1OAqj2JbXypHTji7Px+PN+scl00wfn93ddZ/yZMDDANBgkqhkiG9w0BAQsFAAOC
+AQEAt7n2lzWnRVezuSKGZvtHtanjsRNoAypGzsCGs4pFMbiR8Tg/3OwFT+jYLs2Y
+Xad8jWZV1BU6gC6EqvapS7Ptnb/Qs3pJLJu3gRo3j5mPGl2g2oD3Dg28pkkZU2UT
+7jAXZgKFUyL/cNlkUqnHzGygsCyTKbvFRXprpleTcbW6un1dfQ9ngzSNq+kSA6lD
+nCsEVuMD7epzXan4aJghcPvEs1ihILEeIC+kda0Q3t3vEjn6OgSYavlCVP1rGzRH
+6V8Oe+3pTnFyefDNWtSz6RSy72BGCRgPvz8xa8MKPY7LutDXcXYg3sNZHhp52aIC
+eYin1QbO0TbrrvEAeiWBF4sx/A==
+-----END CERTIFICATE-----
+subject=CN = *.becoffee.co
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4571 bytes and written 420 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

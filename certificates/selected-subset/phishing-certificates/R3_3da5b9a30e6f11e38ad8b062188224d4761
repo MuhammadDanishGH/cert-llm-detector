@@ -1,0 +1,65 @@
+https://amacon.aspxb.cn/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = aspxb.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJzCCBA+gAwIBAgISA9pbmjDm8R44rYsGIYgiTUdhMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MTIxOTU1MTRaFw0yMTExMTAxOTU1MTJaMBMxETAPBgNVBAMT
+CGFzcHhiLmNuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4WRgvwS3
+byhlkZV8xroytklHbc7uMxTX6rXlY1OyWt0v34MxzQwO6nigN6npex9xvdO6g+Il
+1Ff+/LISx5mDbschjJ9cK9Ms+1YBYr1Er+NIPSrBmVtS9Z39K0NJupP6LqXmMA3U
+alWBKrtzoCFtjB9VYY9zH6sLSJmPfajjUtgbvOWoGIMvmZLvAJUOn2sHgoJhGp/o
+PuqJSsM8zjHPVVcO8Fnoo2OZya9MD+nEXd/UsiyuiQvmFhGeqbrC5ZHtDYLa95lD
+AWxfFfLwpEVy/HGJih5TcnjGqD8JMw2Vd/RgEMBBUdhuZO+facTLlRLyVsEOC3Mz
+VOMPjbzuaXKEQQIDAQABo4ICVDCCAlAwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBR0
+NhVZzWyBKc4x7Xc17Mzxr+mSpDAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+d
+ixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxl
+bmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzAkBgNV
+HREEHTAbgg9hbWFjb24uYXNweGIuY26CCGFzcHhiLmNuMEwGA1UdIARFMEMwCAYG
+Z4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMu
+bGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAlCC8Ho7V
+jWyIcx+CiyIsDdHaTV5sT5Q9YdtOL1hNosIAAAF7PCXJJQAABAMARzBFAiEAycEI
+zSMI016T8AzTBMueRwNb7LUh8ZkgP8IGnagbGgsCIAV0+5sr6yiasff7n9ocTeV7
+Ut/EgDOl5VJ01PQdVdL+AHYAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i
+8NcAAAF7PCXJTgAABAMARzBFAiEAo7fK3bMeRWBJpCacbSlXhOVWQTGSJwojyxAx
+x/BKIDICIGI+HOXd/LCuEZkztZ2BJVItralAQzHgBUvR5/YihA8vMA0GCSqGSIb3
+DQEBCwUAA4IBAQBgnWK8pI9wCHpeDKcdNN1E4svx+S2o0ZB2y/irMVvooTRLsyDx
+moFCDBfAUuScj6z4/SJxTvWxtFZpZIFvJy/nsKl/gbPLEOBhKbcwBh92vN9jeK/I
+OzGkLbGcEPD7ta4D0E/KXVgRdWxEHDmU5KjIpPmHaWpXINaybBP+sdmzuTKrifkj
+OxjibV+O7pKAVdN2yojXi3Df5/7QoUwjADkC83gf5ZorSyI/xh5XchR+tr1R2l9i
+ZT+q1aguQuBZ0B0AOENfWPhiclTzP6llTXQiSNb/nvTlBMUwMUPYtuFGqlpD8u8m
+wzh+zUFDaGejHM1F0GY/nUwZLKRlwlAt2Zic
+-----END CERTIFICATE-----
+subject=CN = aspxb.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4579 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

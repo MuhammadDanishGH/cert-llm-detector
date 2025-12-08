@@ -1,0 +1,92 @@
+https://tonitcoates.com/coldblooded_novelties/mazon/amazon/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = tonitcoates.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNTCCBB2gAwIBAgISA5NlJahsi0SAb+ZRcQtgokxhMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MDYwOTQ5MTlaFw0yMTEyMDUwOTQ5MThaMBoxGDAWBgNVBAMT
+D3Rvbml0Y29hdGVzLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AMnNTUBD5XYXLjo+3RH4wew0lSJtkbzflLfbB9MAhmrLiaFeHePLX6AdSSYgi+DS
+K9vOc0b5ZfeTUhSbK+S5XhWtmrJiwvMoHKvdu2ccG/2RGuGhdeOllOvhRgvZ4wJs
+SjEbvbcr/7YnhUMnIrimO9nh1ALUJddzloAYPeiXfruaX9Ulj8BtM+eA9epWG+bz
+r08+ThTamlmW6IADXLY61XBzalP4BaR6pt389DXXE2DygIRNbUYQlloh/uhXc1ab
+KeRHWJV3reNVk1VHpw6ij/ypH748HpizSfv4mHJcTPhDL5vimNtr0jKJGF0U2P0w
+F0Heb2cIcEYxIwA7p3s0cv8CAwEAAaOCAlswggJXMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUCaM8qGOf76NOZxZltrZJmT74Q8swHwYDVR0jBBgwFoAUFC6zF7dYVsuu
+UAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8v
+cjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9y
+Zy8wLQYDVR0RBCYwJIIRKi50b25pdGNvYXRlcy5jb22CD3Rvbml0Y29hdGVzLmNv
+bTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUF
+BwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQIGCisGAQQB1nkCBAIE
+gfMEgfAA7gB1AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABe7q6
+CIMAAAQDAEYwRAIgeElO+oxMTOR+SLK7yhwP8pCYPKxz2hem469+4Zbkc3kCIDNS
+1eZjp8tGOzcvQnOJP30iVrAcxd8m8qQmOqOm+41zAHUARJRlLrDuzq/EQAfYqP4o
+wNrmgr7YyzG1P9MzlrW2gagAAAF7uroKWwAABAMARjBEAiBJgGluJXzgYwH1DY5K
+dEEBpXRQbvewrq9V0xIxnrik9QIgQtFBCiKyKOgS9DbkJH+K7EG4sMPAUU65MfiE
+GgZBzBwwDQYJKoZIhvcNAQELBQADggEBALSPSWaLh4VotJOnYMZDCcI6SyljcggM
+FboAorxUlkw09UO3k3rPxZeVqP29G35H+B+xD9dE48K3NrGbvibysMj4au08JAlU
+d9ufpQ/UplphkcDUyTbm39ouBOMoNg2elIclj8OPH2ttDrMqUKgWUu7TwvBT9bVq
+h/UTx19qImFrjQLronrLEUJYMwmL3U5QlxFKcxngxyv+TNp3jkYJ60OctyoFnUnJ
+tK7+27UdaOFazDyj12s7y8yAoaKPtx1JTAIL0LphL0gHHsRLjwxAx9oKE5JVazhE
+Rumo+7zvsoucufQFyFI6M2bZ/X+uszp/pzWwYCbETQpRG0vS/J+g/zg=
+-----END CERTIFICATE-----
+subject=CN = tonitcoates.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4706 bytes and written 410 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: FCDC582BA3580BA4981FF58A6FA29163A1DEEA970F2372CC25E5C8FED2734336
+    Session-ID-ctx: 
+    Master-Key: BA3EDBA6D3AE08B02132385D7B665F718413C05C13DC4B73B6639B72E553BE4E9FE8167E9B1DD92893ACAD50CFA95B1C
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - a3 43 29 d8 20 5e 31 4b-22 3d 5d ba ae fc ba 03   .C). ^1K"=].....
+    0010 - 25 a7 b8 83 2a 21 aa 7d-ca 63 91 41 57 87 10 1d   %...*!.}.c.AW...
+    0020 - 67 5f 01 f8 35 ea ec 0a-b4 d9 ff 3d 90 31 94 b1   g_..5......=.1..
+    0030 - 66 2f b5 12 5b c5 a9 36-6a 59 81 47 36 a0 e5 d0   f/..[..6jY.G6...
+    0040 - 90 3e a1 88 0f 3f fe b2-41 be d0 11 55 b4 06 8a   .>...?..A...U...
+    0050 - 3f c6 10 af e5 ac fb 3b-a4 6b c4 5e 6b 9c e7 4b   ?......;.k.^k..K
+    0060 - d2 c9 8c 88 c8 10 3e 02-09 15 fa fb de e1 3f 03   ......>.......?.
+    0070 - 28 e7 c3 44 7c 6f 33 fb-42 fb 3e 1a 64 9c 21 72   (..D|o3.B.>.d.!r
+    0080 - a3 08 6c ea 75 ab 01 0e-4d ae f7 20 97 56 93 b7   ..l.u...M.. .V..
+    0090 - 22 07 51 8f 40 d4 ff 94-85 88 0d b6 02 66 03 69   ".Q.@........f.i
+    00a0 - 59 e0 0c d2 8f 1f 74 86-f6 f7 c1 34 9e 17 d3 c1   Y.....t....4....
+    00b0 - 5a 14 c2 0a fd 19 cf 2c-d4 9d 91 0c af 06 62 ac   Z......,......b.
+    00c0 - b2 f3 7c c2 32 88 d7 97-34 8d 62 2a 4f c3 d8 ac   ..|.2...4.b*O...
+
+    Start Time: 1630975876
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

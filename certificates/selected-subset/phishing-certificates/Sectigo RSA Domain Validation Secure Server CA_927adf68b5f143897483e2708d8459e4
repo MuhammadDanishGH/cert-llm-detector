@@ -1,0 +1,71 @@
+http://status.pakjobs-info.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = status.pakjobs-info.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGVTCCBT2gAwIBAgIRAJJ632i18UOJdIPicI2EWeQwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMTA4MDIwMDAwMDBaFw0yMjA4MDIyMzU5NTlaMCIxIDAeBgNVBAMTF3N0
+YXR1cy5wYWtqb2JzLWluZm8uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA2rfUyzMNWYUpuJta8CZ1B5uPRO+ce99qqW9pCoXcPpyQX0dxaFsI9OYn
+kbdBtjjH16F4roHYz8xogyOKgm/3E4bJ63naE4VK1BP7NHdI/nvynfQYTqFJOhQ4
+g1s7xr6UwNu3humpOESGUvLyWuMu94TPCXDzmG1AJvJBl16nthTgH/SSKp1dJxb4
+tTeNuyOOwXlPoJROr2dzLOSlpzdHNUsy10aU1GM9yt9NZkG6usvdZAo1tdAWB60u
+eNYUy05JAAui9/9xf/7RSsORqMgGnhKMsx0OZFhQiMrvOzEW/bDE1mnu0/o/t6Jx
+i3qKnzhKd0WrUyqxbqkiVLrcqMa1aQIDAQABo4IDFjCCAxIwHwYDVR0jBBgwFoAU
+jYxexFStiuF36Zv5mwXhuAGNYeEwHQYDVR0OBBYEFEgDDjsSgszJYa6ADwn+teN6
+hXoBMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYI
+KwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYI
+KwYBBQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29t
+L1NlY3RpZ29SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMG
+CCsGAQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTA/BgNVHREEODA2ghdz
+dGF0dXMucGFram9icy1pbmZvLmNvbYIbd3d3LnN0YXR1cy5wYWtqb2JzLWluZm8u
+Y29tMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdgBGpVXrdfqRIDC1oolp9PN9
+ESxBdL79SbiFq/L8cP5tRwAAAXsG1d+CAAAEAwBHMEUCIQCHnN3lHxHvXSIpK0Jl
+J/rzV9A8lMcX4fsSDlR2W4w5CgIgQo1MSZuUWuVoCvVPCx8DnoWeaJJJb4Sa+J+x
+qrYItLIAdgBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG9gAAAXsG1d9N
+AAAEAwBHMEUCIFGSQzYSyGzbz/zGWHhEmvkAOcq8U30unYNc16Bc2DaNAiEAhPEP
+FI8JnJ72iLq8zaDckszmzmazKG9bRPF9iReJFjwAdgApeb7wnjk5IfBWc59jpXfl
+vld9nGAK+PlNXSZcJV3HhAAAAXsG1d8nAAAEAwBHMEUCIQCVmEIsC+8AY9RGXu5b
+mTtXGLzpU+PDh76L0JsrzlG3/QIgYvLSE92HQ8ccWjlp25DD825MVrX9OcWRxkcx
+S7pJXS8wDQYJKoZIhvcNAQELBQADggEBAIKaMBfZFZMoYfh5j3HtZUYw0Af0vR31
+F1oQT/YCkERl3aZ67t29cjOroztkdpLAAy6HMxdwTZSZ6quOQRQW/zp0+tX7Lx88
+Mb+q2cznX5ZNWmzpFZb0g1auDLWMKi0cBr9YWc5Ip23w+aoiIIfP0cJnUPt3qcdM
+9HgLpzgK4iqz5JnsDMyRJ+biYwu5Ny6jZQxl37IRiSeVEH3xaRXlNVW2Ya/jy8bR
+CwXVEqnmEANpWSoi1NtTZZzTDPDMuCYfr6iTIXpm0hmK+VTGY3pZlN25evRIvsOy
+S+dZQRJWLM92XwMcDZdZYd9iHKP1GC1JMnhSXN7aQbF26WFcXtdFCwU=
+-----END CERTIFICATE-----
+subject=CN = status.pakjobs-info.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5167 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

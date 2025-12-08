@@ -1,0 +1,67 @@
+https://priceless-tu.23-94-25-106.plesk.page/orange_mail/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = priceless-tu.23-94-25-106.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFeDCCBGCgAwIBAgISA9P9+kJktzP6VI1waoNNJRS8MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMDIxODUyNDFaFw0yMTEyMzExODUyNDBaMC8xLTArBgNVBAMT
+JHByaWNlbGVzcy10dS4yMy05NC0yNS0xMDYucGxlc2sucGFnZTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBALp7+b4qcxzAXt4tuV4sqMIlWJZePNwkI9Y+
+t9DVOxfUzM/xJ7rbTbhXlzJ2pss7hAhNX30CYkgDeQaSabcmsymMlc9CdaP7f4sg
+YwhQcqueVqvbE2Qz9Vf3qeFvW8wjEg1YRbUE85mTKZHycT22HVmoPcDqCGxjFwV1
+eYFMU/y6NnB5UeZXkxDmNqbXv0vvM3e19PRSbk39D7xqwfFCSaVlzfsOrGoe3u5V
+3rcZa4JNHE+34Gab/GE33IFACyRgtexbjfilxkxXfB8X5sSqmjKo9gGACup8Hmis
+vgNp1PxjzAeeQXlsIx/v99M1FLOZ0ksOMmKTqnclZ+HZp7ibFaECAwEAAaOCAokw
+ggKFMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUWd4ZetBKUTzBdnWQ5NLL6ChS9u8w
+HwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBH
+MCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKG
+Fmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wWQYDVR0RBFIwUIIkcHJpY2VsZXNzLXR1
+LjIzLTk0LTI1LTEwNi5wbGVzay5wYWdlgih3d3cucHJpY2VsZXNzLXR1LjIzLTk0
+LTI1LTEwNi5wbGVzay5wYWdlMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYARJRlLrDuzq/EQAfYqP4owNrmgr7Y
+yzG1P9MzlrW2gagAAAF8QpDZVQAABAMARzBFAiEA8vjCrwwgD7KvgmiLEQ6CCK6K
+WlvW4DWFVmAhLLri1PkCIEJExDfQVF6NzXNbIuWuoz2YJK07b63pnBm2fL/+HKRP
+AHYAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF8QpDaBgAABAMA
+RzBFAiEAxSLAFn4BTqVUqSu3sLCnXhxfnBlYcRDXelyTNGqKZ4MCID/AINrVxZO0
+Zpoz2yvMKrLb7biy4XuWQcfSVUGtTqP8MA0GCSqGSIb3DQEBCwUAA4IBAQBe9ACM
+MJB5TWyBWjJdHA8sYGhQUqK2SrYgSgANa8ZIs+f1Pd4rOrHaZMxgwb9NW8JqAqnD
+nbacoKwgMryxcG4cYmhoovuZDqJok/ONbOk2t/E2zryaw14lNh8RmTN/0Xucxv5g
+fpV2siO1dtfEg1Bodj3iWH8uagU1fhWKSDp5caSo4IwnZhd+fSIOsyWg8mnjGF+O
+9mOgpYkmEAFtA0IavNyeeWX6ngnWsrP+RqshqfrHKWxy1kPTie2azPkkvrkOFcnk
+lusMQwrIevqHaRXzKp290rlzDkykxxRXwY5kf9keVkzCr0iFWZq+Dnz3SAVg1f4V
+M2gejNNXwhm1PDuh
+-----END CERTIFICATE-----
+subject=CN = priceless-tu.23-94-25-106.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4660 bytes and written 410 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

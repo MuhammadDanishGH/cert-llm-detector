@@ -1,0 +1,95 @@
+https://www.amorseguro.com.br/includes/login/auth.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amorseguro.com.br
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGCjCCBPKgAwIBAgISA+HWFPgSr5gB75BgsgGY1t4OMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MDQxMjQwNDZaFw0x
+OTA5MDIxMjQwNDZaMBwxGjAYBgNVBAMTEWFtb3JzZWd1cm8uY29tLmJyMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6c8h49e/HhIyLEGCW2xge02Vzeb4
+o1ZYsjaxLgK8yzWF1etJloTj4+HKsbXypoLlnwP6wSDFHPQ8PBynzFsvzeHOYoVt
+7m96WLnZMAxnKwId7jJjzcSDXFc+V4Tv/z2zvVb2hM0d3Ns3z9dKuEofoGIQKxT0
+B1p8cCy6IUS4qnPRf9E279RWWvicKSA98PBjnk22PTCRnd05Zox3caBLb39BJJlO
+2dQXoU0w6AeOFrWayC8n5JiuVVum9hBccQvGlA4aShGqtd7w0K57NFV/sYt321s0
+9S+B8jDhlK8NyBb4SLMrBVJ6BGsf8ElIDJH41RuUgFn/9FX5mJMLSGsb1QIDAQAB
+o4IDFjCCAxIwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTCDVLr8bnIw5fDgRqfbT0/
+dCKDEDAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMIHLBgNVHREEgcMwgcCCEWFtb3JzZWd1cm8uY29tLmJyghhjcGFuZWwu
+YW1vcnNlZ3Vyby5jb20uYnKCFWZ0cC5hbW9yc2VndXJvLmNvbS5icoIWbWFpbC5h
+bW9yc2VndXJvLmNvbS5icoIZd2ViZGlzay5hbW9yc2VndXJvLmNvbS5icoIZd2Vi
+bWFpbC5hbW9yc2VndXJvLmNvbS5icoIVd2htLmFtb3JzZWd1cm8uY29tLmJyghV3
+d3cuYW1vcnNlZ3Vyby5jb20uYnIwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYB
+BAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5v
+cmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdwB0ftqDMa0zEJEhnM4lT0Jwwr/9
+XkIgCMY3NXnmEHvMVgAAAWsiuIU5AAAEAwBIMEYCIQDWd3BxhHlcp1t8FEz8oiPx
+F7L8HFp12Alyo/wW5nBVYgIhAL/TS57wIzcQzXkTxFAIlRNIQBF23UBVWXtLSaHQ
+uJYvAHUAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFrIriFJwAA
+BAMARjBEAiALmM3qwKUW4CdlHWxga/8Bnx51GzHW5ci+HCsn1odRbwIgUC0N1AF7
+vyZ9HC+UHXNees4aFEyZeeh273x7DXLxXNcwDQYJKoZIhvcNAQELBQADggEBAEHx
+H3EXk3YLEfq28XHmAJs0BQbCwHXKItI8U8GBi5hGW8ntVl37NaYJ82uWGIzB8BGH
+sJxZ0ATqubvzLchQGquzi+nxkBs8CA1Cp9GThHr6CEkPEQWm7+pFqzXaJRjqrB4w
+5MGgvTcRa70wg3vICcUmjdJXXTw5qsiaTl6BqJscNktcqzSaelvnkhyZByCK/nzL
+ivKRFrL12xzz9xJMqbbFGtMSqNuG5KD57iCEYtwTadkp5hk5iSi3C8oHUVD290GQ
+nXZ+WNOL3AOhdMWVmAKUdYozRQv1royF6o1tdc5W7r7EuA29fQyvBW62+P6mi47F
+6f3HdGjS2TKfdZ23v0o=
+-----END CERTIFICATE-----
+subject=CN = amorseguro.com.br
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3433 bytes and written 459 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: B9CDB94AF05BC5EEE78AA73D56B8573EBF9A9F53A95FC8C5AFE1E819574B10F8
+    Session-ID-ctx: 
+    Master-Key: 30A5B8B475AF2DD99DE321C9A43B025C8A270E66F3841CE17C470501749014F0CBC3A743FC79E1BD78795CFD171EBDD2
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 02 a4 10 78 83 89 fc 15-ac 95 df 6d dc f6 37 37   ...x.......m..77
+    0010 - 88 a6 bc 5a 8e 8a 24 c0-8a 7e 44 9e b4 b2 96 82   ...Z..$..~D.....
+    0020 - 5c 0e 39 c3 a8 ea df 9f-58 8f 15 f4 2e 14 ad 83   \.9.....X.......
+    0030 - cc 8c 1d 79 c4 5c 28 fb-c4 52 a0 86 ff ec 35 e9   ...y.\(..R....5.
+    0040 - 51 4d b5 ac 1f 74 16 74-4c 6c 8d f5 4f 63 88 50   QM...t.tLl..Oc.P
+    0050 - 1f b6 dd ee d5 40 b4 9b-8a ee 6f b5 ed f2 fd e1   .....@....o.....
+    0060 - 59 e3 00 0e ec 01 0a fd-47 43 dc dd 27 80 da 4a   Y.......GC..'..J
+    0070 - ab 9c c7 a9 87 53 22 c3-62 f1 17 25 b1 48 96 27   .....S".b..%.H.'
+    0080 - b4 d4 1b 9a 56 bf 8f 0b-37 cd 87 71 21 51 47 92   ....V...7..q!QG.
+    0090 - de 66 98 3d e9 09 2d 58-65 60 9f 6f cc 3e e8 b0   .f.=..-Xe`.o.>..
+    00a0 - 11 33 79 df 59 c8 e0 6d-2f 85 5b a1 27 f9 8a 4b   .3y.Y..m/.[.'..K
+    00b0 - 38 73 84 62 a9 60 73 89-d9 c3 39 b5 4d e0 09 84   8s.b.`s...9.M...
+    00c0 - e2 8d 6b 22 fc 91 9a 64-b9 61 63 d6 1d cc ec b0   ..k"...d.ac.....
+
+    Start Time: 1562677230
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

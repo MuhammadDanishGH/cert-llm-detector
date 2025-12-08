@@ -1,0 +1,66 @@
+https://mail.ngspublicidad.com/mobile.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ngspublicidad.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFvTCCBKWgAwIBAgISA3kkMfO6sqfKW0Y6AMeMO/fzMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMDgwMzA4MDhaFw0yMjAxMDYwMzA4MDdaMBwxGjAYBgNVBAMT
+EW5nc3B1YmxpY2lkYWQuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAustUEMCvYq/zNdNlaKAzNezXBHx57SDjImMoDKc6fjFU2eiza3W5ofXY+i2R
+SGk/MsrEWJ1eZuiwtJveM2yKBbIO8gisHLU8S+uOr9ptwITls4cjO45UJdDZrszz
+jifKY6Tiguuo+jE0gToozj3/Sf7pw7z6s2g/9wIAG2LwHeJrA9yFOCr5GT7ycyKU
+Hmkchbp0PTcX/jZRqgd2d6DXesITICUWeo97+VE1rogDrf5hK3zTCkbeote/qtN1
+R2ZNB7jJ5vs61cUZq3G0EuhK5azrahPsR7gsrv7uvsWNX5VB/u5CWKOV0bVD6z0G
+e21NEJtxHGFT1R+Ocl8EZ9dbawIDAQABo4IC4TCCAt0wDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBS15Gh5CqXn8+R3QoDfVGTsNNce2TAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzCBsQYDVR0RBIGpMIGmghUqLmZlcm5hbmRvc2VkbGlhay5jb22CEyoubmdz
+cHVibGljaWRhZC5jb22CE2Zlcm5hbmRvc2VkbGlhay5jb22CJWZlcm5hbmRvc2Vk
+bGlhay5jb20ubmdzcHVibGljaWRhZC5jb22CEW5nc3B1YmxpY2lkYWQuY29tgil3
+d3cuZmVybmFuZG9zZWRsaWFrLmNvbS5uZ3NwdWJsaWNpZGFkLmNvbTBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1
+AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfF4WQAIAAAQDAEYw
+RAIgJAA23pdnPmKqNpcpukgi75SyZLuOP3B+oRtrDei47OMCIB41s62CiVpkNqYp
+NTgLPXIcPL8tBre0wxCWj3go36tIAHYA36Veq2iCTx9sre64X04+WurNohKkal6O
+OxLAIERcKnMAAAF8XhZBzgAABAMARzBFAiAQDf1KoJDDMR8/OxriQpjAdqkPHtkX
+MQqzOQutTZkfgAIhALpav3d5OnGoaFCwXEKlyQebXK0WvSsAobfTaBfpQ0BPMA0G
+CSqGSIb3DQEBCwUAA4IBAQBx8WOc0Re44ZpDIiYFkLugEN2iMxEA+qmhYYGKgbYz
+xDKy/Qr/Ler9NTR7AVJ5JNPAaq2hAn/5HiEzWvQ2NBf3Hm55i33u+zvT2BNP+zFw
+UYVXzFfpYKyZfe4eXg+FN6KctaovRgnQTFCA1tsKLimLSiKn84xADVjRuFytOTjq
+mZTNPC0cZWf8mJ7YNKvDYNuX+G5MIFatyMVHt/jgeCBntWdDLnBGAJmpjVhVsZx0
+yJzPRcqDa2c7QpXqnjgBIVyQ0MtcfdeFQig4ZLychgU1XW3LbU0Ve5rirpYxuv5x
+FHfJ2jJsrj8ZL38KPi9kaW6Bu6kGUzG2haYyriBg0E0P
+-----END CERTIFICATE-----
+subject=CN = ngspublicidad.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3344 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,77 @@
+https://1bnacion.com/WebBN1/Inicio/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = 1bnacion.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFtzCCBJ+gAwIBAgISA/yqStU4fioBYBUoefNa/RL5MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MTkwNTA1MTRaFw0x
+OTEyMTgwNTA1MTRaMBcxFTATBgNVBAMTDDFibmFjaW9uLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAL02RalW6jaSUAY3i0SgIdwC7CRSOMUv8+WT
++DHgzha9qdh4h747E9NUKtj1iNp39UZWKHzyLXZTdPMIYShqiJFoMmPtcx7B0DcG
+NAYln82FTneiYdmow9MmlJwBQZ4ygXR3Q2tk+rzcqS7uxsbIl36YczbVxtIuwq+w
+PsUW6KM75mDM6bWZi1XTup8xW3veFKUL6I8tbojmyXbX8Li4vuHOot8uHX4OeYLG
+8+bKG2cio5zR+GVdGphfdYXJyyK4cJtBFKx1wHN4uTGbzX2CwFV9MlleplASyrfi
+6aq3dPFqaj6ALnU8Rs4wJ7EVOFqD4hwGSA56OvUFc8XMgmiJ7zECAwEAAaOCAsgw
+ggLEMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUJ4FVmnACBHgp+2LhHqiWX8igE2Mw
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzB9BgNVHREEdjB0ggwxYm5hY2lvbi5jb22CE2NwYW5lbC4xYm5hY2lvbi5jb22C
+EW1haWwuMWJuYWNpb24uY29tghR3ZWJkaXNrLjFibmFjaW9uLmNvbYIUd2VibWFp
+bC4xYm5hY2lvbi5jb22CEHd3dy4xYm5hY2lvbi5jb20wTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwDiaUuuJujp
+QAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAW1IH+rrAAAEAwBIMEYCIQCTHgaV
+Se6no3KIv9BvRu1/c88GnBi+HdaM57R7F+69nAIhALinRRkSs2/rlK3R/bJduSNS
+nBIvGOpxbczT8giWie99AHYAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL
+2I0AAAFtSB/rCwAABAMARzBFAiAuUxgYlZeyIeQdvzhvbewv7k0Qs+sT1E8hinrE
+axNAZwIhANaTxTwkxZDnHzpGeLd1xRzL27nmTdM9iq218hYoUQ8HMA0GCSqGSIb3
+DQEBCwUAA4IBAQBEfXQDpHnhLNjqE4245ne+eRJ/2e8Rs1LObV+huvAvaGUQb3Ft
+qNvhWyyPwGwn/hJTo0RWGnn8L3b4Qj8ZWy8WOqmjBqyPLS+Rh4GQHXxSVsZsQue/
+whmJQyB/osrQqSLtMszF0/9PMtuB+mq9QxA5Vr4AxFwk9eLkAPhgpXSY6aFpOqka
+trNvimkLlIx+952TiiOtGkFSTTF8vRt++ovHC6NXXgh86+aIsYAQld6SeWOC/ok2
+euObrGc5VSjlnobrQg0SARLyRcHbrsh3Yx2AJEAWB+CsW1gWo7NAgZ52Vn6T29s/
+Z7PjoYoZo7gyOX0cm8YLzz3z/a+1eeNca7u9
+-----END CERTIFICATE-----
+subject=CN = 1bnacion.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3155 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: EE8C550306F93EC46966934D3350950F72F598D31A65BE9BB26480C247601911
+    Session-ID-ctx: 
+    Master-Key: F1485CA46F12BC5E7EBD3FFC50A56EC51C833C8940BE834D4F31B33C24ED260E4234858D61ADD138E608D920037BED71
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1569502829
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

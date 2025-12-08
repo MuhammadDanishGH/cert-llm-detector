@@ -1,0 +1,78 @@
+https://foundations-admin-10000000003216566325623250.ml/checkpoint_next.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = foundations-admin-10000000003216566325623250.ml
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHqDCCBpCgAwIBAgIQL8Z7dgI8iAjnfmG8b3P8HzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDgyNDAwMDAwMFoXDTIxMTEyMjIzNTk1
+OVowOjE4MDYGA1UEAxMvZm91bmRhdGlvbnMtYWRtaW4tMTAwMDAwMDAwMDMyMTY1
+NjYzMjU2MjMyNTAubWwwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC0
+fPSSl5KvwzW56v3m6ZSwZFbEdeO4P3AwB6ICB9ki4GrZ/f3S2Y5b6RS4Q+p4VHbH
+e6kumgohG8uPtm7XvS2GZh50A6nNivBYB0dNXfEna80a1v6OemGGersc2Nx2aAIT
+jRzLYYCiTyq12cvTT3m21Z5CAcogvZ1mfR1ZMgKmI7rDaX8I28LQ42QxyyIZ7ORm
+PwpagdXkf8q9BjEcSbDB+zWm+2Kv94b+r7JD+tf+EZsalomnCP+5i4dsYjYxvVKC
+v/bg9wWGyzLeYDwekqVMRvUNoNgNmpQ3SGzoMtgLy4WvXbzMzP4oH40PrBxeq6QO
+fYFDDFS55/9uUeJsDxw7AgMBAAGjggRwMIIEbDAfBgNVHSMEGDAWgBR+A1plQWun
+fgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUIc02p5efwfStafAZyXpepdv66Q4wDgYD
+VR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAjQwJTAjBggrBgEFBQcC
+ARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMw
+QaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmlj
+YXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7
+aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1
+dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNv
+bTCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AH0+8viP/4hVaCTCwMqeUol5K8UO
+eAl/LmqXaJl+IvDXAAABe3drDqcAAAQDAEcwRQIhAIryIRBzfrowHnGmZ/eBUE7p
+QltDBaL5ocBnK6a1qlllAiAQyxa4IDphghry4ZHw8wX7ue9P1uNyW6T1KO7J+ka9
+5gB1AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABe3drDm8AAAQD
+AEYwRAIgLBUkOQ8YsTdHS/ikWOBGqZltVwzc91tlEdWVCpv7pAMCIEP6Pt/q/ghE
+rdK+49bFTZLOsvJQDIt9xqnmWAHCzPzZMIIBzAYDVR0RBIIBwzCCAb+CL2ZvdW5k
+YXRpb25zLWFkbWluLTEwMDAwMDAwMDAzMjE2NTY2MzI1NjIzMjUwLm1sgjZjcGFu
+ZWwuZm91bmRhdGlvbnMtYWRtaW4tMTAwMDAwMDAwMDMyMTY1NjYzMjU2MjMyNTAu
+bWyCO2NwY2FsZW5kYXJzLmZvdW5kYXRpb25zLWFkbWluLTEwMDAwMDAwMDAzMjE2
+NTY2MzI1NjIzMjUwLm1sgjpjcGNvbnRhY3RzLmZvdW5kYXRpb25zLWFkbWluLTEw
+MDAwMDAwMDAzMjE2NTY2MzI1NjIzMjUwLm1sgjRtYWlsLmZvdW5kYXRpb25zLWFk
+bWluLTEwMDAwMDAwMDAzMjE2NTY2MzI1NjIzMjUwLm1sgjd3ZWJkaXNrLmZvdW5k
+YXRpb25zLWFkbWluLTEwMDAwMDAwMDAzMjE2NTY2MzI1NjIzMjUwLm1sgjd3ZWJt
+YWlsLmZvdW5kYXRpb25zLWFkbWluLTEwMDAwMDAwMDAzMjE2NTY2MzI1NjIzMjUw
+Lm1sgjN3d3cuZm91bmRhdGlvbnMtYWRtaW4tMTAwMDAwMDAwMDMyMTY1NjYzMjU2
+MjMyNTAubWwwDQYJKoZIhvcNAQELBQADggEBAC0uR/GUQMJa5R3lt3oEX7DxejEy
+T40hAOt3PHAXY7hJbZM+afeg6qlBBuimU9rraF1XqBRuaE7dG3r42iAYgAOwLT4f
+Z4G2M66hOnLZx6MjVbVVpgaz60Amix/tiUhARdGO1ljqiCMa6rc7BL4j8b0xeQY1
+Bo1nGJfv9n0nPDrY0wQCzGrE53T2d9Nwqz+vHAJ+9CjebzoUcYY1fhgGjWgvKWn9
+AOA16Q3LU3Yi9vwTAte4RM+qwKLfVMXZoF5g1Q7MVMSESQMC+PnCWiR8KlG6Ou32
+3rmdDHDiL8CxKF/atPEm/oSz1xLiJcHbdOAUXZ5MBopZPRtU5zeERePmm/w=
+-----END CERTIFICATE-----
+subject=CN = foundations-admin-10000000003216566325623250.ml
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5399 bytes and written 429 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

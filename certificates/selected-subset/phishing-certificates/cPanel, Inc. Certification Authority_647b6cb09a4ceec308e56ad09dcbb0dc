@@ -1,0 +1,72 @@
+http://vortexvr.net/doc/yewaki/wgbground/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = vortexvr.net
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGajCCBVKgAwIBAgIQZHtssJpM7sMI5WrQncuw3DANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIyMDExMDAwMDAwMFoXDTIyMDQxMDIzNTk1
+OVowFzEVMBMGA1UEAxMMdm9ydGV4dnIubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAu0s0FeX3m0tq1ZWZaSXKFYeOK+WnnKzLA54+CnVl7YoPo5w8
+gSyMjWf03bBeUgCa0x3LUQSX8WnAK/8NVCL5YQg/ZaXkO6RbJbRBOkuOqh+hDRpm
+XLMMh5e2Ppaz8NSX2BeqHBf0yp+3U+9Xoo1h+dz5cRMdfVv/Quc3J9nSjtAV9Hpv
+Afxl+Ujt8cLNygCUJ+GLiL57geaPKUnjOGAnHj8zLOY3Y7emdBIUKk9Jb7dLK0k4
+a+c+N+dCv4StFucCwkpIk8EoQUGzYGblkwW2PIYYjOLKCBRSbTzHWHSyRcPqB0at
+uThvErRAwExqsUHizQUDmd+WxM5WlUotA4KvMwIDAQABo4IDVTCCA1EwHwYDVR0j
+BBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFCP8KNwuGnntHalg
+Tn/8bG9Kn0kNMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgI0
+MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAEC
+ATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9jUGFu
+ZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRxMG8w
+RwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbEluY0Nl
+cnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2Nz
+cC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQBGpVXrdfqR
+IDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX5ECT4LAAAEAwBGMEQCIC2oLhR+
+htna9QJaYPeVavjZJSEQlvb2Vd4Jo0MBZwT6AiBEvG27XJNzzsmxgnytcjJi7aX8
+VE3dNShyvSyzFX7rXgB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2
+AAABfkQJPfsAAAQDAEcwRQIgVOYkTczQByB8c/E+LFtTqWcZl8M6BMs4MRXyIDDU
+Rh8CIQCn+K3nGCJkfAlwMtq2VyLS9VANkW8oXNZOKDrIzpeSDjCBsgYDVR0RBIGq
+MIGnggx2b3J0ZXh2ci5uZXSCE2NwYW5lbC52b3J0ZXh2ci5uZXSCGGNwY2FsZW5k
+YXJzLnZvcnRleHZyLm5ldIIXY3Bjb250YWN0cy52b3J0ZXh2ci5uZXSCEW1haWwu
+dm9ydGV4dnIubmV0ghR3ZWJkaXNrLnZvcnRleHZyLm5ldIIUd2VibWFpbC52b3J0
+ZXh2ci5uZXSCEHd3dy52b3J0ZXh2ci5uZXQwDQYJKoZIhvcNAQELBQADggEBAFlB
+sGJ4yU55V5SyQ5+DVIiv0OjHePQtoMBG7teXwY4oAn81vBgp6aO1zmISaLlSfPYK
+r2q7FrQm74KTl822eLPMVQhdRxajfix6eDS3gxdl8SmjCBsqo7AERFqqfGKP8f02
+cPD1b8F0w3ICU5gBOKNUTbt/oFj3JsVOTRPaQreWoQSVzLRIVzvhjni50qwnk9YJ
+cluz6LxhILt++uHlHjTpxsj5YQ4twzYBNzkorV9JgvYoIQYPBg22xJt2kPkRzuuA
+OnYjvY+xZnVpSa2yWWX1ztBhcX33vfPQVYQcjFbTu04+OHyd0nlCEYan9l5UbvCx
+xY7vHRVk797DHxVUzFI=
+-----END CERTIFICATE-----
+subject=CN = vortexvr.net
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5151 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,81 @@
+http://mijn.ing.login.halm.com.sa/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mijn.ing.login.halm.com.sa
+   i:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+ 1 s:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGhDCCBGygAwIBAgIRALF0XSf8IElbYNmQmEpDtYAwDQYJKoZIhvcNAQEMBQAw
+SzELMAkGA1UEBhMCQVQxEDAOBgNVBAoTB1plcm9TU0wxKjAoBgNVBAMTIVplcm9T
+U0wgUlNBIERvbWFpbiBTZWN1cmUgU2l0ZSBDQTAeFw0yMTA5MjUwMDAwMDBaFw0y
+MTEyMjQyMzU5NTlaMCUxIzAhBgNVBAMTGm1pam4uaW5nLmxvZ2luLmhhbG0uY29t
+LnNhMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhT9IkdElaR1cfGi7
+MXynpiYrTMLsuf4S/08AP9k5s/p6vApoyJ4LkteNsDeG7RcclQCLk5H4uktXtTRZ
+i9hEPs4N6FtczfKXgF7LEB57LjsbyTmRY51a+bBLklRyyipu1cWJNXLB4cheqvNt
+iduQE7wO6ABVmjKMLP3PNvdnebmkD6omZoWMLB1LtfMtVVMpSZv5Qv1xwXysUz6V
+yi9Hc+w1ncYp5OVNfpuHcn9kn11zQG/gy/YnT62w7IA4tbx9Q2+69kdVjCms6PPA
+VhgNIntFm5pagDOfhqgZgG2mURC/jXkMHzY/HfwPks4LFHPUWlzCgrtLMt+p6XIm
+EiCY4QIDAQABo4IChzCCAoMwHwYDVR0jBBgwFoAUyNl4aKLZGWjVPXLeXwo+3LWG
+hqYwHQYDVR0OBBYEFMlX82QEp9ek2n3+0kMVfyYG3G9oMA4GA1UdDwEB/wQEAwIF
+oDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJ
+BgNVHSAEQjBAMDQGCysGAQQBsjEBAgJOMCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8v
+c2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBiAYIKwYBBQUHAQEEfDB6MEsGCCsG
+AQUFBzAChj9odHRwOi8vemVyb3NzbC5jcnQuc2VjdGlnby5jb20vWmVyb1NTTFJT
+QURvbWFpblNlY3VyZVNpdGVDQS5jcnQwKwYIKwYBBQUHMAGGH2h0dHA6Ly96ZXJv
+c3NsLm9jc3Auc2VjdGlnby5jb20wggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwB9
+PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXwdzQYQAAAEAwBIMEYC
+IQC5WyEif+kfA9YbsZb+75YO5GMQ15iQPIVO2J83lolMsgIhAM9P5RRLypfiyoCy
+4VpxwwUFIwXiHoEL1hjdAcFmBJ3oAHYARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1
+P9MzlrW2gagAAAF8Hc0GLQAABAMARzBFAiAsz98yg43WWlUuzabyBqYW1gvUiaE9
+YchWx2RgCVJjrQIhAJ7geGPUVXbVroB8ktAEqm91AyX+y9uMqohDOaJ2wYVvMCUG
+A1UdEQQeMByCGm1pam4uaW5nLmxvZ2luLmhhbG0uY29tLnNhMA0GCSqGSIb3DQEB
+DAUAA4ICAQA5pXo9mPMjW101TJVBc/utv49rN4QmBxWf1SpkOCUrbDYLVQhmObPc
+Ne9skB7nizAMtNqiCFErpDbRqtbwnjNVOadC+S5VZbi2iOV7muQN0XD6OmCkEUwS
+lo6XFQYuB3twYCGGniUTa27lyw0MVPNf9SEpLTzEBfXbrOeBexI6pZuFOZnzJ5b6
+LTmsuWJ44+i7J7SQ0uwZBujL1USXK53Cf0smYWLzr5JdCBPdkF4ZTwQwVv2HZMvo
+nGjyacv24DwRM0y3PMx8rcnPhok4XQH9N9yWktzrobJ5vvCMsInE/qvxoXihpn7A
+8ao6O5HYtJ961EyB3aVqXI0G5o2d9pr5mm/zLoDVjnz9hDMvVMIQ4J358+S5YnOX
++7jDLcGoHRynyt/SXIl9Vh+sUGb22+h8SNm5nC4bXSv3zs1joSQShUSluWPHa7pM
+hclnN7XxCSZUSJyBwbQwwhLFOHYoJkv8d6af4XWi8ixHPKso2fXGPW2216H7jqEw
+WKBs+uoso8cmWBWhFUyLb7E/l+Q9DqBwN2rq7+KmU9YH/YepyQs2n6j2hwDwA/3J
+2DuyB+wyzBRx696OvzIKZHv/oAM/FzSdBWkcwk71YnqYpWFqK38h0klvnwBmlau/
+eh6nyIDycIyyHK/bUgr3SLf5B0u/OzLsCA56QTPVpkSJqVQaq4/xnw==
+-----END CERTIFICATE-----
+subject=CN = mijn.ing.login.halm.com.sa
+
+issuer=C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3939 bytes and written 446 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 8EB0F3CD65E51E2C8C40C1852DDC0346DD51DE1965ECB9E03D5E3BA638D22297
+    Session-ID-ctx: 
+    Master-Key: D60A264283313FFAADC472155994E0144CD1B72823910789BBE51A3C47521000C04B35F6108FFBAAC2F4803956D9C141
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1632617108
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

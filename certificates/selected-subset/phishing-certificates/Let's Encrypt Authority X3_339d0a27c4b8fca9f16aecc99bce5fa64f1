@@ -1,0 +1,65 @@
+https://worlddomainseo.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = domainwebcom.org
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFkzCCBHugAwIBAgISAznQonxLj8qfFq7Mmbzl+mTxMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMTgwNDQxMDVaFw0y
+MDAzMTcwNDQxMDVaMBsxGTAXBgNVBAMTEGRvbWFpbndlYmNvbS5vcmcwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDEx0xaGs3yPUVj5NBNXGsxj4ArTlcD
+pnx5XiuOG7xEOjSVeA7wCM0Oyv0PiBzaC6Q16AIvdz0iIzuDfDhqHJleV8DQtDWI
+PVbpMn44xIKyu2LC0NiCWTckTTtGc4eniD2QlvjfyzaPa1BlLCxlHgarLvjGldSA
+5vOO12NKOMDztFR8Y8/26hKrQ4go7VCcvLN/mh1KvHQr46rkZsshw3p7A+pOiBYl
+fL6XXURbzV7pp65VVJcI2Gj0Nqvy6SDV5Sm6psey2XQb5Xs02vjO2OqnZJqEn64P
+j4QcSle43oQ20r82FCCG0TI18HdKjFIyIfCvpKZM+ObqS478B1Dg8QH3AgMBAAGj
+ggKgMIICnDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFJhGD79i4mrRd4GVEU1fXpQ/
+Z7NTMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEB
+BGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZy8wVwYDVR0RBFAwToIQZG9tYWlud2ViY29tLm9yZ4IUZ293b3JsZGRvbWFp
+bnNlby5vcmeCEHJlZ2RvbWFpbnNlby5vcmeCEndvcmxkZG9tYWluc2VvLm9yZzBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQE
+gfEA7wB1APCVpFnyANGCQBAtL5OIjq1L/h1H45nh0DSmsKiqjrJzAAABbxeGKSwA
+AAQDAEYwRAIgaYnCFr6xYUCGjo5REhwoYUeesAIkBlRxB8Q6+y36aQ4CIFqPa1OS
+pZJ9PeyCzsLu2EZ+Jj+eFhBt8/NpX1M9njCLAHYAB7dcG+V9aP/xsMYdIxXHuuZX
+fFeUt2ruvGE6GmnTohwAAAFvF4YpUwAABAMARzBFAiEA9kmwRNE2CKR7qnEQjR65
+fagvkxiD7Ca6mNNFOE9W01kCIBpSqMnLY2tPDBCUQ5G7KbnK8/9bbdmOAm3aZisG
+n8AUMA0GCSqGSIb3DQEBCwUAA4IBAQAx6cnrDFiAARknm13F7Ef/SIdUbxxvkmpS
+US7JNCMSp4qAEPToe9VmTdWiTchWb80F7cUuPxyzviXkwfMdrhaK3Nb9MT21CGME
+p4JygPDQ6ThGQnVnLwKxpVyUbH9nupdCGzwq03CjTmQ+Sqmr6+HpjexHS17js+Tt
+zK/cdrjnAh8aP6PtPxJF5jUFqiACkiOW59/Wg+ug7AOnpu97IM0PUtNt7ZJUAlPQ
+B1NAeEEr5Pt14LNqyBNw9IqKsrRa3vV41K++N1mHx4+2x4I4Nqi01+1QrKnlK3JV
+fPDWKHmSl0jfapwi7RNepvWk4hNZY3abY09uJQCELjEZ9KbZrWfl
+-----END CERTIFICATE-----
+subject=CN = domainwebcom.org
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3170 bytes and written 410 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

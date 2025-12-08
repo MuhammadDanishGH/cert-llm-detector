@@ -1,0 +1,76 @@
+https://glucopro2.leetdns.com/m/myAlphaWebFarm07/b8ce47761ed7b3b6f48b583350b7f9e4
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = glucopro2.leetdns.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHIDCCBgigAwIBAgIRAKI7FNQDN19zZiuyVWBtEhAwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA5MjEwMDAwMDBaFw0yMTEyMjAyMzU5
+NTlaMCAxHjAcBgNVBAMTFWdsdWNvcHJvMi5sZWV0ZG5zLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAN+6MlIZP/0nKCwzPHJIYTXhCZcTw5MYLl46
+Wuwfk2faD9AgS8EbXDDGUGiJH8lbB6StczNEXgXjuJuFjwoLHgjQRxNRI96bKphc
+7rgjpKGrQZ/6xe9xUxUsM/RRB1W28JZV22Lek54FH3qPZQXlBjh8+/v66/14IQ1g
+Uo4isMccXESD2PL48vp+Bj1066gLw29Dv8OL9BvOS5QpfECMRAXmprxkfM6Msf70
+PpzJVYjYViQ8zolCB8uiAZape5AsiQOaayzqKyOULEcYINj/UNF/BV8KoHh1aSVD
+LcTOMpJXCtVX9QhnlbGQ5X0YrBfJcFV2HcPMi3U0n53uk5r6HpECAwEAAaOCBAEw
+ggP9MB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBR1
+E46/nSGCbZy+poC2p5zknuwghzAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIw
+ADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0Bgsr
+BgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQ
+UzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYB
+BQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYY
+aHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADy
+AHcAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF8ByjIvQAABAMA
+SDBGAiEArDF2edOhoNLLpnoFJhWnMQLcgfYgWwLbOIRF02+Y58kCIQDmbdgUxPcJ
+3PCqW98h3tWazGhrGXYtsDDXN1TxmWUkqQB3AESUZS6w7s6vxEAH2Kj+KMDa5oK+
+2MsxtT/TM5a1toGoAAABfAcoyH4AAAQDAEgwRgIhAMPKRw8zUkfkgatW4CVA2TOl
+SqXKOtUvdstNkQfl+A5WAiEAjInJkz+UYo4xMnM61ug53hw4bGo8dzT48mSW4hVK
+JigwggFaBgNVHREEggFRMIIBTYIVZ2x1Y29wcm8yLmxlZXRkbnMuY29tgiJhdXRv
+ZGlzY292ZXIuZ2x1Y29wcm8yLmxlZXRkbnMuY29tghxjcGFuZWwuZ2x1Y29wcm8y
+LmxlZXRkbnMuY29tgiFjcGNhbGVuZGFycy5nbHVjb3BybzIubGVldGRucy5jb22C
+IGNwY29udGFjdHMuZ2x1Y29wcm8yLmxlZXRkbnMuY29tghlnbHVjb3BybzJ0LnBl
+ZGlhdGVjaC5pbmZvghptYWlsLmdsdWNvcHJvMi5sZWV0ZG5zLmNvbYIdd2ViZGlz
+ay5nbHVjb3BybzIubGVldGRucy5jb22CHXdlYm1haWwuZ2x1Y29wcm8yLmxlZXRk
+bnMuY29tghl3d3cuZ2x1Y29wcm8yLmxlZXRkbnMuY29tgh13d3cuZ2x1Y29wcm8y
+dC5wZWRpYXRlY2guaW5mbzANBgkqhkiG9w0BAQsFAAOCAQEAXm0q8ORZIbme/CWC
+GrmSpMo2G2ulv35/n6yEwor3JvU5yXMJ4WhkEkEoaCScg8taO7Fdro8OQRJf5nc/
+W/9RZngOoVhoyazOFlQxqSjAXSgclpuHawt4UwbiiOYh4WFds1E6FT7FIcn3UToL
+RrIXCC3JZ2rE+c4DoAyqEmhCZjGkQaWQYILI/Oa0hLdA3PCylY20D4hCoBy5rItT
+sA4rzLe4J/BvLdTcecAw9ebihc9pj3LoxXlItKxO8pJgC5Nkza09wHyyr4HDAGWS
+wzQ6YGYFi9c7orolA3AxSj/JBVd/ngKgycsLJDAmTflIN9ZCo7ucO3bmm10EEB+P
+VAAnnA==
+-----END CERTIFICATE-----
+subject=CN = glucopro2.leetdns.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5333 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

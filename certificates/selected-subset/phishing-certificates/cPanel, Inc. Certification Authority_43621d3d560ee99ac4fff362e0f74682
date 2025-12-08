@@ -1,0 +1,76 @@
+https://www.grupwahotterbaru2021.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = grupwahotterbaru2021.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHIjCCBgqgAwIBAgIQQ2IdPVYO6ZrE//Ni4PdGgjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDcxNzAwMDAwMFoXDTIxMTAxNTIzNTk1
+OVowKzEpMCcGA1UEAxMgZ3J1cHdhaG90dGVyYmFydTIwMjEuZHVja2Rucy5vcmcw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDgAShd+EZh5hs8vkRkvZj2
+KxI/BnbnPS2Uin9aZhNzXMlrU3mueMwEOLJG2rI4D6Ux7019imkCj8BfmQeIOX3M
+ZGYFjoPAThD9pVoHmARHFnKPrWVzaIf4IRtxDVTq1S+Amm7srKTmS/KvjBQfJzRJ
+JyS4Ht7AR5Gok5y8MASH2I2UGuFexOUlbQRyCFePhsf+pC+Z0zrE6oVngAOv3WVb
+orhGakKg8n8+R/MMC/UPyW+clspnZ737fmkmsix2b052nDvBd5nAjkpvxzlbTsD6
+UuMdb6p8aEUpXE/qEGPuc5ZjatFbUTqDjkCS+EPwXPh5v1femYtDp0O+opmgbM+b
+AgMBAAGjggP5MIID9TAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAd
+BgNVHQ4EFgQUOaDTxwaUh1rnM9wGWXiJVZTQFBswDgYDVR0PAQH/BAQDAgWgMAwG
+A1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1Ud
+IARCMEAwNAYLKwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0
+aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9j
+cmwuY29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHku
+Y3JsMH0GCCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21v
+ZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYI
+KwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkC
+BAIEgfUEgfIA8AB2AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAAB
+erI0PZEAAAQDAEcwRQIgI8Q/pCUu6oWgZXAivjHm4QKTsZsyATgcYUr6K/2z4QoC
+IQDNyp7y9jObcsdzUX7oTx93cy3QZdN4VpVH0IJgtlWF/QB2AESUZS6w7s6vxEAH
+2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABerI0PVYAAAQDAEcwRQIhAOvdVIGsslCm
+yBsByF/3CbvwGz7e0jZWJ1K6b2Gpo/55AiAUKHXv9oG+dEjqqI3NCZu2A3TUtEW+
+GPB5jDIG6olbkTCCAVQGA1UdEQSCAUswggFHgiBncnVwd2Fob3R0ZXJiYXJ1MjAy
+MS5kdWNrZG5zLm9yZ4InY3BhbmVsLmdydXB3YWhvdHRlcmJhcnUyMDIxLmR1Y2tk
+bnMub3JngixjcGNhbGVuZGFycy5ncnVwd2Fob3R0ZXJiYXJ1MjAyMS5kdWNrZG5z
+Lm9yZ4IrY3Bjb250YWN0cy5ncnVwd2Fob3R0ZXJiYXJ1MjAyMS5kdWNrZG5zLm9y
+Z4IlbWFpbC5ncnVwd2Fob3R0ZXJiYXJ1MjAyMS5kdWNrZG5zLm9yZ4Iod2ViZGlz
+ay5ncnVwd2Fob3R0ZXJiYXJ1MjAyMS5kdWNrZG5zLm9yZ4Iod2VibWFpbC5ncnVw
+d2Fob3R0ZXJiYXJ1MjAyMS5kdWNrZG5zLm9yZ4Ikd3d3LmdydXB3YWhvdHRlcmJh
+cnUyMDIxLmR1Y2tkbnMub3JnMA0GCSqGSIb3DQEBCwUAA4IBAQBsSQQHSUrltMZC
+O89f8bZhqDGzDFUIUuSFJRMkKCYQ5MkkrIZEU/VhOliDoeCFj/Di7vRnP14Hgdgv
+/eH1mORVAN9xjmC6fHxFMKxHU9GEdGiQKv9h21w12sBwb3XetQo3yg7Ve6oDcCNj
+0UdAUhP9KiZC31OpOBMLiiyTzUJyitcqLfwHhZJQIkhmxIdSwO46KNsBC7TISvma
+udD+qNeFOPzjCZrZ4LxB4+YUjW5jCSJqYz50rdLjlhpsPnQNB0J5JyrZMhAIuiR2
+Spm3Jb8Nu8tJW78SHZxFTYbeoLvZLLbK8T7kikw7HreZK9wljLJ91sLT+2PXBS+c
+c//L9pqH
+-----END CERTIFICATE-----
+subject=CN = grupwahotterbaru2021.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5265 bytes and written 418 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

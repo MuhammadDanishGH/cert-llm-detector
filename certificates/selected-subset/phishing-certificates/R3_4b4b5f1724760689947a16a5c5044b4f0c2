@@ -1,0 +1,69 @@
+http://grubwatanteri2021.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mail.grubwatanteri2021.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGWzCCBUOgAwIBAgISBLS18XJHYGiZR6FqXFBEtPDCMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMDQwNTQ3MDdaFw0yMjAxMDIwNTQ3MDZaMC0xKzApBgNVBAMT
+Im1haWwuZ3J1YndhdGFudGVyaTIwMjEuZHVja2Rucy5vcmcwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQD6mWAMS8c9CQwXRn7Tukob6ptrWiIuKBgwKgf9
+aBX86E1cozRVlJPgL71as1nOzt/Rez/Ts2nSWGI9JkXjqYPomKPHFZLTLiEzHFRX
+iQr+qs0bPMcFfigzB6thUIInc4J91NKNtTA9Sw20EVxGMoAiZTF0FDuMdhEVGPO7
+g49/gDywZNuJ6a7PuJsFmSysYcMTYQjTtGttIskUWYlf0ces+vU13VExpAzLYARn
+6BGmG7tsLO0ElbUpZyvj1OlblFDCLp35xxueQ2pasqLMmd4uxlstLpXUEI8sHJqY
+CsUMTW13hMnwqzPL3xyt6cil2Ca+bbGb85rU11ksPu176PVBAgMBAAGjggNuMIID
+ajAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFL341XTxWiTYRb0n/Q17eLD+/6WWMB8G
+A1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAh
+BggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZo
+dHRwOi8vcjMuaS5sZW5jci5vcmcvMIIBPAYDVR0RBIIBMzCCAS+CJGNwYW5lbC5n
+cnVid2F0YW50ZXJpMjAyMS5kdWNrZG5zLm9yZ4IpY3BjYWxlbmRhcnMuZ3J1Yndh
+dGFudGVyaTIwMjEuZHVja2Rucy5vcmeCKGNwY29udGFjdHMuZ3J1YndhdGFudGVy
+aTIwMjEuZHVja2Rucy5vcmeCHWdydWJ3YXRhbnRlcmkyMDIxLmR1Y2tkbnMub3Jn
+giJtYWlsLmdydWJ3YXRhbnRlcmkyMDIxLmR1Y2tkbnMub3JngiV3ZWJkaXNrLmdy
+dWJ3YXRhbnRlcmkyMDIxLmR1Y2tkbnMub3JngiV3ZWJtYWlsLmdydWJ3YXRhbnRl
+cmkyMDIxLmR1Y2tkbnMub3JngiF3d3cuZ3J1YndhdGFudGVyaTIwMjEuZHVja2Ru
+cy5vcmcwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggr
+BgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5
+AgQCBIH1BIHyAPAAdwBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAA
+AXxKDl1JAAAEAwBIMEYCIQCNFO1cZr1LPz0dxhtqZvDiU6sxzWhATVFTuM7bggc7
+zgIhAKUsIhNEE5wYgeCyH3V/a1sR4lBfShIMVxvwuyL7XrZDAHUARqVV63X6kSAw
+taKJafTzfREsQXS+/Um4havy/HD+bUcAAAF8Sg5eqQAABAMARjBEAiBzuP/4KE8H
+Oidt/WhAY4jhlKl0lphzwfAl6+Bu65/T7AIgbpil++dYOMSRHgQmdhs6JN9R9L/2
+fxc23tIGr1MEWw8wDQYJKoZIhvcNAQELBQADggEBAHJOtMP1gJ5KdGc7MmtR7w5b
+9TpsNmUlTeq4TlqeDyMvcwL763kqeFyONnYGNpxOOKdxZrF3fbrfOTkI01RS2JPq
+oHez3GAuNISoZ37hh4TIiQp5SOnruHUO/Icgqm5bzsh5IusK0CA7zYe2VH8PEAGS
+KLRLrNy8CF/d0tnTnWXW3F1J/tnF7yWZgdwuOlrnL7QxJKbjsi6/RgmQBoXCh1Ru
+8zzqIiq1c2IGJMmsY9IM6Kpe1plTb7DHrsM+sh96eaY3IERRyjuUrhVTwcYZHmOA
+cpxnmRvmF6f0Rf0qLySbCCYuWzS/n6/wrJJ9e/eJt54sMf3Qexw+T1xh7WDtBJo=
+-----END CERTIFICATE-----
+subject=CN = mail.grubwatanteri2021.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3432 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

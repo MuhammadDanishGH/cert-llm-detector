@@ -1,0 +1,96 @@
+http://www-payapalcustomeralertlimitationaccountose.adadnios.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www-payapalcustomeralertlimitationaccountose.adadnios.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFqDCCBJCgAwIBAgISA93wkVCuRoapQiRLwhGUQ33VMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAxMDYxMzM3MDRaFw0x
+OTA0MDYxMzM3MDRaMEQxQjBABgNVBAMTOXd3dy1wYXlhcGFsY3VzdG9tZXJhbGVy
+dGxpbWl0YXRpb25hY2NvdW50b3NlLmFkYWRuaW9zLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBANNutKIUud4BAXgqUwYzW8nujiX85GgLHzMqtuXL
+KbhGZBJnJWZDfYHY4WE1ez4gaA/n1JQw7kRh2ncVuZ26PC80s/R0tkQqo1IDx6NR
+7gIx9rViQmYX3NKi+2s5NMmnmVr4PKOHDC0/DLu5p6IM4DfPqTMvj+LNSsPtd4Qv
+UQHFA7z1U7WuHqaJztFCCfuagKeYaEEv9j1M3zWGpyGbta5gqKVn95Zjm4D3vP2d
+7A1l3OFob/fqh+P/9vGgYUdfIk5UyTC4PL9FxOgGZpHmzmytTFm2/fNxhtba6V7+
+6M9+ob1zzPyuz4SJgW031t12uPixPal7w/zizKKvTH6n1EMCAwEAAaOCAowwggKI
+MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIw
+DAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU6TVSiSjSszr1T2gHsBZNkMjm3nUwHwYD
+VR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBhMC4G
+CCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3JnMC8G
+CCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3JnLzBE
+BgNVHREEPTA7gjl3d3ctcGF5YXBhbGN1c3RvbWVyYWxlcnRsaW1pdGF0aW9uYWNj
+b3VudG9zZS5hZGFkbmlvcy5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYB
+BAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5v
+cmcwggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQB0ftqDMa0zEJEhnM4lT0Jwwr/9
+XkIgCMY3NXnmEHvMVgAAAWgjmIVFAAAEAwBGMEQCIFVe5bS2n095j2PNGAP8DtVE
+CzJXuKdIDiqlyk9X4uawAiAFEr1+JJLXLgaTKOO4krKb1Y+et0qyUHh3/eHVTrCG
+6QB1ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABaCOYhVoAAAQD
+AEYwRAIgdku2niocoQaPta5PIB0m0E2M1q0ds4WZXaBVsiwXcpACICU1SRd2qcIQ
+kJ01svzyXnfHJhDCIAE8NEzC/2XrD3bNMA0GCSqGSIb3DQEBCwUAA4IBAQB5DN24
+Qw0vNyJ5nBe7qXI3R/qF4UxGOrL5jBbZXKyrNIabz+8BzXM0naRfu8JFvfjsMttL
+BfGCQansmY/Q+dLD3bZ/jy77yvfFgnJ2h69vsXN+BuV6B6Aq9a/GYl6YWQ0yIf4z
+bwAvDnVHsw5TwgvD/F2xO+UXuzIOxqBLfl6acgN4mgqEhc2eo5h+aAXkbf57k8xi
+NIayY0mbzQvpnC9/gHS+qac/LqE09LFJlmx4oSC7hXqR0TwGP9iOhF7ILGpP4rQk
+/jpuWa8zemTuwAy4l+YowFuTe5/SxqWRneIoD5F8z6rLFuLnBudbaWOXK2Xti7yp
+HM9nvBqPkR+Hdpos
+-----END CERTIFICATE-----
+subject=CN = www-payapalcustomeralertlimitationaccountose.adadnios.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3383 bytes and written 495 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: A6B3285006B4B64D3596FC669499F3392EFC0396A51039E2E55EF2CF92E08739
+    Session-ID-ctx: 
+    Master-Key: 6A2B00CC8217EF3510824F395A0DCDBDB33423286172621CCF5BD5F96C5F0108102B6D015D775F68803F104DEFAE18D0
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 3d 54 00 55 1d bc 08 1f-60 3d 9c f3 72 61 1d b1   =T.U....`=..ra..
+    0010 - 81 65 92 a8 fa 7a 64 81-43 a4 60 77 17 80 26 ed   .e...zd.C.`w..&.
+    0020 - 15 e6 1f cc 4d 49 0a 21-8d 65 b5 d7 3f 91 90 77   ....MI.!.e..?..w
+    0030 - c4 80 e3 82 3c 93 23 0c-8a 45 e4 70 85 26 d5 79   ....<.#..E.p.&.y
+    0040 - fb bc 1a c4 cf 20 f7 b0-41 f4 cc c4 e4 84 e4 84   ..... ..A.......
+    0050 - fb b0 26 3c c1 f4 a8 48-11 91 42 d1 70 aa cc 57   ..&<...H..B.p..W
+    0060 - c3 92 15 58 45 56 b2 b6-21 ea 6b 8e fc 11 c5 4c   ...XEV..!.k....L
+    0070 - 7e f1 15 58 ae 91 95 70-94 d3 72 48 f6 32 16 71   ~..X...p..rH.2.q
+    0080 - 46 0d f5 0b 24 0f d9 49-79 31 27 66 19 12 b7 7b   F...$..Iy1'f...{
+    0090 - 4f 8b c2 03 21 08 d8 d9-3f e4 f5 21 60 10 d7 34   O...!...?..!`..4
+    00a0 - f2 d5 73 cd 0d cf 75 fd-17 d7 18 32 17 08 ed 37   ..s...u....2...7
+    00b0 - b5 b4 16 46 37 d1 c5 74-9a 62 1f 1b 56 07 1a e0   ...F7..t.b..V...
+    00c0 - 97 d4 6a b4 4a 1d ca 6b-06 68 b9 7e a2 ea c4 91   ..j.J..k.h.~....
+    00d0 - 5e e1 ed 41 ac 4d 79 9a-28 c0 7b 92 e6 32 9e 54   ^..A.My.(.{..2.T
+    00e0 - 7e 88 54 14 b1 28 92 f4-ae a4 a6 15 6b 3c 10 30   ~.T..(......k<.0
+    00f0 - da 2d a5 b9 da 04 9d 08-4a 84 79 7e 9f f6 43 7c   .-......J.y~..C|
+
+    Start Time: 1548424831
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

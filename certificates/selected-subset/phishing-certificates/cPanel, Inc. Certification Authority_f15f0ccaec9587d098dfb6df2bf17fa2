@@ -1,0 +1,73 @@
+http://partywithnathalie.com/wetransfer/wt/index.php?email=a@a.c
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = partywithnathalie.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGvDCCBaSgAwIBAgIRAPFfDMrslYfQmN+23yvxf6IwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA3MjQwMDAwMDBaFw0yMTEwMjIyMzU5
+NTlaMCAxHjAcBgNVBAMTFXBhcnR5d2l0aG5hdGhhbGllLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBALgspGQWwGcIQ8MnY3vIszjZyj/5t1W3EfN3
+DoGxxLv7p8L96cQXKIZyuvRxN2WSYpkmJY8pdKsus0Nya2fGMOmeTjRY2IqbCv1I
+sLI09CGh6sB/vOrDy2Bxrqdw0rwT/vXMe8lthY47qfDdAcAe3P8guLj85rbc4aVV
+YyERXIROZ6Bym6uaJT5BNZE4x0YUbx538v6LwTzcYGmoJOPz8EEMvQOIPw1fNgvH
+2nWerALOoOxDNoOnvWkbZL50HBdWMGE4Yct3FHoLdKYAaAg+U/O5UUec/0SL/fvj
+lll6HPxW+9cvTlW+c9NAwQxaJDzmBKPQi1mncYfX/DyuOHR3nZsCAwEAAaOCA50w
+ggOZMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBSV
+izLlUqsZR6smk7mABxQA7l8k5DAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIw
+ADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0Bgsr
+BgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQ
+UzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYB
+BQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYY
+aHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDv
+AHYAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF62mD+ewAABAMA
+RzBFAiEAl2ojlOcBmFj0dbpsoqzsFpe4USUBoKnNalJV6m5DfpwCICJ+au83uG/k
+KmHyZrN0e/G8SYFOvXtY1KxysZ1uuSZEAHUARJRlLrDuzq/EQAfYqP4owNrmgr7Y
+yzG1P9MzlrW2gagAAAF62mD+hAAABAMARjBEAiAUTSkPvGyy4HHacjfgih+nm50D
+QPqDvuHCEVaEqalBfQIgCR+AGPsBb6fqGMZM08DviMAGsl0EQt8g9Mpov7aPHgYw
+gfoGA1UdEQSB8jCB74IVcGFydHl3aXRobmF0aGFsaWUuY29tghxjcGFuZWwucGFy
+dHl3aXRobmF0aGFsaWUuY29tgiFjcGNhbGVuZGFycy5wYXJ0eXdpdGhuYXRoYWxp
+ZS5jb22CIGNwY29udGFjdHMucGFydHl3aXRobmF0aGFsaWUuY29tghptYWlsLnBh
+cnR5d2l0aG5hdGhhbGllLmNvbYIdd2ViZGlzay5wYXJ0eXdpdGhuYXRoYWxpZS5j
+b22CHXdlYm1haWwucGFydHl3aXRobmF0aGFsaWUuY29tghl3d3cucGFydHl3aXRo
+bmF0aGFsaWUuY29tMA0GCSqGSIb3DQEBCwUAA4IBAQA6GY/519pH7l05soSr6G5i
+BIQzjnDDspduexOXHQ4AZ0ptHG6+qLljZonlOZM628F/SCfTtMg+S7TKwT7LqTG7
+g9s8YaWUcI4C2ANX88/dAS31XTuFKPLFSdFASVnzOh+1nTr2gzDXZ+wgxCbIOCZH
+bUqQ3Id7xjt+CWSbAYD5EuR0rgD+O+EzFo3knwT2ViM86PCn+UmIGyFODxL9OTOq
+YLvMfOw5uKqJnsVQUQtL3Uf1DJIxLeucgskd5Pbc4m1YmFkz25egM2xZeGb7b1f7
+eSMF74J0k31HfwJpuzrNG4vUjW/qhTyGliG9YXVy/kuHRbMckVZ4Tjjk2hjTxWU6
+-----END CERTIFICATE-----
+subject=CN = partywithnathalie.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5233 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

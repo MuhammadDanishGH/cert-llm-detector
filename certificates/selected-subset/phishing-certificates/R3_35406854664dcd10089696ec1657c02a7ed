@@ -1,0 +1,65 @@
+https://amezom.wnywrw.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amezom.wnywrw.top
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJjCCBA6gAwIBAgISA1QGhUZk3NEAiWluwWV8AqftMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTcxMDM2NTBaFw0yMjAyMTUxMDM2NDlaMBwxGjAYBgNVBAMT
+EWFtZXpvbS53bnl3cncudG9wMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEA3RQF0wLCH64RKUkJxBbxqPAFA0Mrd9NsSQrSLDWS2qn1yHwA9EAhjzfaXZEv
+FKgQXZm+DUIq/MkHR5sVAiHyKaNKh2dqWuIcUhZ/rKIRTbLRUzB+uFMTQitQINUp
+dVv1eJ4vCv0yvsvJFcoxsvQc2DS/pf1txcl0xd9EyU977vA+oBaCA7cEUr5rf2Ql
+pbswqMRPfVpN8WP7libw0qUgLPLuNPZcZkricj6MUMfIs5S26lotXt5wWoivRI48
+YQ20mkFrF94veKUhDI1WZLEfUNQsKWX0650GE4dia6kihg3FcdUlIaWBCdhPrsc7
+3Q03ezEOevc+c5p29aO45c4KBwIDAQABo4ICSjCCAkYwDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBSzWl1xLjlfY+W9TDzC3IoI7WAsIjAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzAcBgNVHREEFTATghFhbWV6b20ud255d3J3LnRvcDBMBgNVHSAERTBDMAgG
+BmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3Bz
+LmxldHNlbmNyeXB0Lm9yZzCCAQIGCisGAQQB1nkCBAIEgfMEgfAA7gB1AEalVet1
++pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfS2vaQwAAAQDAEYwRAIgTao8
+CsEeS86lwnwsdAOM3TUI9meRCyfqIIt8+5YRrv4CIB0fJiZgnYZjv15/3eVmF/Tn
+tbKwzzWLSHTn9e+f7v0JAHUAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo3
+2RMAAAF9La9ryQAABAMARjBEAiA+2vE79Hh7VsU3bgcrwepYkKlzJW5ku0BIaIrh
+AtSfwgIgWOALPn9jL8EVQ+SqsAL1o07sVABd2DTsb5oc13safW4wDQYJKoZIhvcN
+AQELBQADggEBAHenOOOeSdXH/etvIuO7XEoNDocdaEill4AaXeVg95P+AhLb2U2N
+anXNYFgbhFthTTmQFNGlr2+1+VQqcb9tDjENO9DKr08DrCLKkCRr+8REs5ycIssT
+amsXfh8QFHEhwuD1zte7pHHjmr0M56IYwG2F0vKJhBjRaIrkFysIEiSGGjVF+fCU
+9bCkx9sekm1awu7gTEljLbHbeuwCylLjFTyf2e9Ly/q+XwrzrKE4lDhqT1COl8l1
+qTI5SaIFMgLGqZsWhDvVWUMi+971bMBF5kn8oSA/MjTrz+D/41Xn/odNdZwIBsBE
+2pLQ3IldyITYQD9LDXgNiK0nKbkXEvbl2mA=
+-----END CERTIFICATE-----
+subject=CN = amezom.wnywrw.top
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4578 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

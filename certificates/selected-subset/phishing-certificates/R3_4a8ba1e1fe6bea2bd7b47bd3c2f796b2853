@@ -1,0 +1,65 @@
+https://secure-login.together.name/secure
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = secure-login.together.name
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOjCCBCKgAwIBAgISBKi6Hh/mvqK9e0e9PC95ayhTMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MjcxMjE5MjdaFw0yMTExMjUxMjE5MjZaMCUxIzAhBgNVBAMT
+GnNlY3VyZS1sb2dpbi50b2dldGhlci5uYW1lMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA0Y/mPs9Tlpium5MLHh5c1/m0mpd9pOtnLYVQcfwe1DOGXQlt
++LRPCjT2kbkzdt7L5fdtlpGGNw7+oH/+L5ynJCUgkOe3/VR9VCGaSQWhOix8h4DY
+adBiYUpy6ixoGCzAYta7pcXzcMVvDm2P52JccXoZx3dr///ezmfLTv+xftd9F2pm
+5ohh/q1uJ/1U7xiahEk3yMuFLhn8zygaTfXQMf5ki0OJGP1ELkgNeYupKKhs6ghH
+yKdz2fkHVbiwBwNpn7REr7uS3FiEHHVGORQZkgi+wQDsm/TUy8KYd/3Ru2N9Ep1x
+pUbYk0jaxQlr3q9AhA4SN7Ywk7q1Q8PQCW/UNwIDAQABo4ICVTCCAlEwDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBS7zfHmA1kf/tsfRw+TvxTRVquUlDAfBgNVHSMEGDAW
+gBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUH
+MAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3Iz
+LmkubGVuY3Iub3JnLzAlBgNVHREEHjAcghpzZWN1cmUtbG9naW4udG9nZXRoZXIu
+bmFtZTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsG
+AQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkC
+BAIEgfUEgfIA8AB1AFzcQ5L+5qtFRLFemtRW5hA3+9X6R9yhc5SyXub2xw7KAAAB
+e4fD5JAAAAQDAEYwRAIgBVVGD0fxZC1Z+bH02TH8WgWpfaHQ71Tj+W2p3kO5AXcC
+IEhnzmKPnN0pQ8iHhqtqof87Bs0UshVxmX4/RGlZusheAHcA9lyUL9F3MCIUVBgI
+MJRWjuNNExkzv98MLyALzE7xZOMAAAF7h8PksQAABAMASDBGAiEA4kVkOgqASa3b
+AGBe+OaPkdAZxJqjP/bq2goGLcFjsFYCIQCciOQuMgq1a+9bDCVRtf7ZxhholcZN
+fS0ShJvQcRv2OTANBgkqhkiG9w0BAQsFAAOCAQEAB6eS8IzKkuuhiJpvsinct51C
+DLKpCugWBMenQNYU0T4LtnfrWoOq2z/357/XYJe3fwtDKOF7SBkIsz/3woi0orEw
+KMk52TRiQNlVGMToEB0gzwKMuDpdpMgXSeqJtgNB7nMnXfOk+Qp7manhv4gQZrYt
+qWCUhZkWSTSkOpSCaE7HBgJcczdXDnmkxysO1wN0Qu/pO6Cz20rI48/F3LcfTRCh
+lCFvLYOSUow/RS5UMzLgzWfG73IAfZQTnwTXI8cWw3hQR6u0d7F/NQ1hA0LYO00x
+2feKnInOfUSH82+q6pt2ZARKd4Wg6o1pxZbi2SnmAOV/gkBx6CV3KvqwgeojnA==
+-----END CERTIFICATE-----
+subject=CN = secure-login.together.name
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4598 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,73 @@
+http://event-gratis-garena-2022.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpanel.event-gratis-garena-2022.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGmzCCBYOgAwIBAgISAz30G5Gq+CTTkckEClw1ILZ7MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjAwMDAwMzdaFw0yMjA0MjAwMDAwMzZaMDYxNDAyBgNVBAMT
+K2NwYW5lbC5ldmVudC1ncmF0aXMtZ2FyZW5hLTIwMjIuZHVja2Rucy5vcmcwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCoqKAZR6C67Cz0ACceZ/GpPOxx
+I+nl7PbOqaFLmmZov1xjDAg7jfG1CoJL3qqTh+HLKSskYEV6VECXNDu/DwEwzYSc
+9Q/CqMM2lTE8B/2msnDgxi60ndqGZqQ5FQia6K4TXcxBryjM/8VOpF454b3ey3ms
+0GF8RrvoIyPSVzD5vcBgmfrya0pzmtohUlDp6/AJuiZ45LhbnEI52Sif2OM0ytan
+fX+g9fBlt8qYOyNCOMVtkzohQ3BxjxXiCkL7CYpsegrXsJ668cTcYKJic97YBm6V
+IOKoJ6huJuUXjbos/9qse+/ojQJyYHiS3sInSLbD8dSgL6c4BrJmWli17M9fAgMB
+AAGjggOlMIIDoTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFFHfTue0aazIQxk8WMWG
+tSiZRm6dMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUF
+BwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsG
+AQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMIIBdAYDVR0RBIIBazCCAWeC
+K2NwYW5lbC5ldmVudC1ncmF0aXMtZ2FyZW5hLTIwMjIuZHVja2Rucy5vcmeCMGNw
+Y2FsZW5kYXJzLmV2ZW50LWdyYXRpcy1nYXJlbmEtMjAyMi5kdWNrZG5zLm9yZ4Iv
+Y3Bjb250YWN0cy5ldmVudC1ncmF0aXMtZ2FyZW5hLTIwMjIuZHVja2Rucy5vcmeC
+JGV2ZW50LWdyYXRpcy1nYXJlbmEtMjAyMi5kdWNrZG5zLm9yZ4IpbWFpbC5ldmVu
+dC1ncmF0aXMtZ2FyZW5hLTIwMjIuZHVja2Rucy5vcmeCLHdlYmRpc2suZXZlbnQt
+Z3JhdGlzLWdhcmVuYS0yMDIyLmR1Y2tkbnMub3Jngix3ZWJtYWlsLmV2ZW50LWdy
+YXRpcy1nYXJlbmEtMjAyMi5kdWNrZG5zLm9yZ4Iod3d3LmV2ZW50LWdyYXRpcy1n
+YXJlbmEtMjAyMi5kdWNrZG5zLm9yZzBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AN+lXqtogk8fbK3uuF9OPlrq
+zaISpGpejjsSwCBEXCpzAAABfnT/74MAAAQDAEcwRQIhAOxaMUYPH1P636M8exSr
+IBKUisx6ZlE0ACBWwWX3MMe7AiBOFq+CcU4nU1beX5Op/YEkjNHtE7qov/tpsk2l
+NR5ApAB1ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfnT/73YA
+AAQDAEYwRAIgSCtlJcfOHurigs0qIZTyeXOrzjTjmixG6LAWtb6qahMCIEQWv8dK
+qXDgg5aOuhXnmj3hTxomDPBZ7SrD38ZVnPX4MA0GCSqGSIb3DQEBCwUAA4IBAQAp
+S+z/bk6B6WgofbySSK77p3dwrTITsHHbelcLCXmE30eV5ZGNtfDpvo7aL9mqQiEQ
+kxLtcsDhelMs+R11uDVY8+vwAiTz7H6QmnvNumVWbCjGifrr/I7L2T6NIqMoljqG
+0DBJaEX3eNRQH2DEUEoXX+eRzSKkTVIFF/4+X4FVEuXyIIEFe3uAwfOe1EqmQxM0
++Z3C+X673wXvQ7tLw/FWMVGpDtScct1Tx3zs3Jl/QtuPp52DOOJgQodHSwLqGvZM
+XMC2trspuwu3vGWcuQZEe82u+/tdRAJ6FENojqOYSZVIlk+sGvLPk9+EJ9yiyZqI
+5E/iFGxfZoe2hW2IV4uj
+-----END CERTIFICATE-----
+subject=CN = cpanel.event-gratis-garena-2022.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4951 bytes and written 410 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

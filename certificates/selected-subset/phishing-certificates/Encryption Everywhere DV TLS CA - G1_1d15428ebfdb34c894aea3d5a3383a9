@@ -1,0 +1,95 @@
+http://secure-post-office.co.uk/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.secure-post-office.co.uk
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+ 1 s:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGJDCCBQygAwIBAgIQAdFUKOv9s0yJSuo9WjODqTANBgkqhkiG9w0BAQsFADBu
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS0wKwYDVQQDEyRFbmNyeXB0aW9uIEV2ZXJ5d2hlcmUg
+RFYgVExTIENBIC0gRzEwHhcNMjExMTAzMDAwMDAwWhcNMjIxMTAyMjM1OTU5WjAl
+MSMwIQYDVQQDDBoqLnNlY3VyZS1wb3N0LW9mZmljZS5jby51azCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAMMIDccJkaXXqtLRiTztmrZila/mRY2m9nS3
+IcWTAhCUQW84obQ9cD+BKizWXu0sZEJjZ6ITxP+dINfY7HsfCfo7GcUFaOFbg9vq
+W6zDDftjGv1+wTtaVAmbM7yDV/CjMfW/FJNLldikBYsKnVW+cIU9LeT+sDRlmWcb
+nHUEPZWhherDBYrP2FmjPlYFNJ3puJF+ppjc/VGfZpW6oAHV2UrrJUFFdASaZBlD
+Vh1Pf4BUzn9vwU/HiGLaCA7D5AM8KR2dyqQhAM+jSl2wghpWHtcEQoFT7v0nW0du
+3pjL5wdsO3bsd3EyqTYA2EPmUnLAXKT/f0jX7F8pnNvVnNtkaLUCAwEAAaOCAwUw
+ggMBMB8GA1UdIwQYMBaAFFV0T7JyT/VgulDR1+ZRXJoBhxrXMB0GA1UdDgQWBBQ5
+eOcn+cGKlcO1dEAVcAcrOeWOGTA/BgNVHREEODA2ghoqLnNlY3VyZS1wb3N0LW9m
+ZmljZS5jby51a4IYc2VjdXJlLXBvc3Qtb2ZmaWNlLmNvLnVrMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwPgYDVR0gBDcwNTAz
+BgZngQwBAgEwKTAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20v
+Q1BTMIGABggrBgEFBQcBAQR0MHIwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRp
+Z2ljZXJ0LmNvbTBKBggrBgEFBQcwAoY+aHR0cDovL2NhY2VydHMuZGlnaWNlcnQu
+Y29tL0VuY3J5cHRpb25FdmVyeXdoZXJlRFZUTFNDQS1HMS5jcnQwCQYDVR0TBAIw
+ADCCAX8GCisGAQQB1nkCBAIEggFvBIIBawFpAHYAKXm+8J45OSHwVnOfY6V35b5X
+fZxgCvj5TV0mXCVdx4QAAAF85apC5gAABAMARzBFAiEAtT9L5tlZiBnjk1m8LjJq
+KFtMWbHks+q7EuUE3F4kg+kCIAe5T3dYrdiTxeH488N4dQiJZE9TzIfZDOYLP3G+
+wolyAHcAUaOw9f0BeZxWbbg3eI8MpHrMGyfL956IQpoN/tSLBeUAAAF85apCrQAA
+BAMASDBGAiEA1Bnhn36JNkXGMKBIhpoKKmr/XG6GCTi9pmM/wsnZ4IoCIQDuCelj
+/iUOfz7SWMXXAtTwXtJIamQQYtBqrR77dZXVbwB2AEHIyrHfIkZKEMahOglCh15O
+MYsbA+vrS8do8JBilgb2AAABfOWqQlAAAAQDAEcwRQIhAJ58eiU/6pTMwo6X8ujp
+mVNXJ/toDhairFwapszpGhjpAiAoUVQ43tHVkXpdMwUuxsH0YCZm/oRasIQ21sZu
+O7FN7DANBgkqhkiG9w0BAQsFAAOCAQEAJx6AqhV3h193H4lJGWxbq6CB1t7aQ0RQ
+4F7HUDKlWVkhTNAT51LUk01/DqHleQI0w5OheG8nOP/uWQCocx73NOwuzvgS875v
+h6Rkgl5n66U8e5kJyF5gm/pGqk6itqu//geFPlAagfsYeoSzt3d1t6fkoEL/Sl0D
+vP6RVjrmmqjn6Yd8xL8u9H0JsEQ4FOrAB8vRX4rxFMVBtr9R6ahqAPnyc01oUxc6
+1R11Kg61kSvi1TnOQk6igm2T6sZ2ldj/rTjsmp52qzAPy1Ox6tz9hbHC/6VKaM70
+KcGqSX/VsIQAo5zfzYAqnblFCVglScvdqPRK/C0U6Itkq6BSaJu84A==
+-----END CERTIFICATE-----
+subject=CN = *.secure-post-office.co.uk
+
+issuer=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3454 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 6BEECEA74B3FE66A726C6C910AFAD08EFF95513FBDEDF589A4E059CE89DFD098
+    Session-ID-ctx: 
+    Master-Key: F81A15AAA5B8CD487BFBCD0BC1F51F67024BA82CCEC605BDF8A948EFAB2B544F1B7897C250A26716333F9432FB2E05E5
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 45 0e c9 71 6b df b3 6d-97 db 64 8a 16 76 41 eb   E..qk..m..d..vA.
+    0010 - 5e 99 dd 5e 17 0f 0b ea-4d 18 c2 84 8f a6 ab 15   ^..^....M.......
+    0020 - f1 c8 ff 3b 9d 48 88 f5-15 9b c6 af 98 4e c2 f7   ...;.H.......N..
+    0030 - ec 70 85 3c 60 74 19 f8-f4 7d 9c b4 79 00 1d 62   .p.<`t...}..y..b
+    0040 - d2 6c bc 2d 66 5d f6 8f-ba f8 ac 13 f7 ac 7f 8a   .l.-f]..........
+    0050 - a0 d8 c2 0b ce 55 33 ab-bc 27 d2 f0 43 70 ca 5d   .....U3..'..Cp.]
+    0060 - ba fe d8 fd 44 29 4d 8b-a4 e4 3f b6 4e c2 38 13   ....D)M...?.N.8.
+    0070 - c7 12 19 86 56 d1 e7 2d-f5 e5 8e 58 fd c8 40 59   ....V..-...X..@Y
+    0080 - af df 22 6a 43 36 11 3c-f9 b3 65 b5 f8 58 f0 f8   .."jC6.<..e..X..
+    0090 - 2e 33 f4 54 ad 98 67 32-1d 44 8b 5b 63 5c 86 52   .3.T..g2.D.[c\.R
+    00a0 - 51 64 39 17 f2 3c 9b 8a-1c 4f 6d dc 42 28 6a 13   Qd9..<...Om.B(j.
+    00b0 - 51 9b fa 23 d6 42 9d 22-b5 28 1d 45 f7 56 ab 5f   Q..#.B.".(.E.V._
+    00c0 - 5e 0f 98 6c 76 9e 71 16-da f7 9d cd 64 20 a0 c1   ^..lv.q.....d ..
+
+    Start Time: 1636029671
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

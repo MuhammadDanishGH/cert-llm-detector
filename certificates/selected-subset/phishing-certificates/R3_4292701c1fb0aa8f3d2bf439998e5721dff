@@ -1,0 +1,63 @@
+http://sheltertours.com/Profect/Oned201FI/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = sheltertours.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOTCCBCGgAwIBAgISBCknAcH7Cqjz0r9DmZjlch3/MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMDMwNzQyMzhaFw0yMjAxMDEwNzQyMzdaMBsxGTAXBgNVBAMT
+EHNoZWx0ZXJ0b3Vycy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQC6xeHkF0zxMMVmF6JD5xR1JeYDfzdfINDEo1eCdPb1/ueO2p2H8P2r3VUWofMh
+nilTuqjhrIrufMCq5bSZkgGOdmGQk6KH1FFwCBDxMhvWBPMc/PlSTRB4QWXxsMuA
+KreeH2NgZP+L4fzuo6+Jz6u/oJNVOAbnsBpmcC6dG8upt0Wl5CUg2bCZm8pp89GW
+YeI3zK7LS6Y13VaqPBzGjPFWgTpfWCrhXXNrUI3ippoAx02kxKFgCoCHcAsvXH2z
+2WNtOUTjvb6Z+pb3O4dKn1nCYEnFbnCHGb+wdkh68IuV0uW4Kds1bjPa2dzNhX5J
+8WnVGR/V71k3X37WJrV37WL3AgMBAAGjggJeMIICWjAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFJmHFpcIa6e62qEyJq9hbR+GPGcBMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMC8GA1UdEQQoMCaCEiouc2hlbHRlcnRvdXJzLmNvbYIQc2hlbHRlcnRvdXJz
+LmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsG
+AQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkC
+BAIEgfQEgfEA7wB1AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAAB
+fEVRw2cAAAQDAEYwRAIgW66I4f4EG7YmRBCDg/+8aHZnN3WuKb7PPoBrc+pqhpQC
+IHC02rEE+yCih8ik/0/Lv7aKFVspQp2o/zZAE4SPstkuAHYARqVV63X6kSAwtaKJ
+afTzfREsQXS+/Um4havy/HD+bUcAAAF8RVHDmgAABAMARzBFAiEA2lSu48PFlYPQ
+Z0QuKTDeHentI2+rwg3QnERk23oZYzwCIEC+6MCiGtsF6jqkeGSb1B/TJUsTGcjW
+f9zhl87j8DF/MA0GCSqGSIb3DQEBCwUAA4IBAQCq8Vz74Pos+CPlnWEU2vDcaWuj
+bFpnqt36epru9uaHxHCOZKwaZ4dYqBpTK08EQAHCmNzMTP2IAcRAe1qXxtDmoCmd
+3VkZQ1BUMSiGNp38SNstTn012RFii4WPwE8SNYwDk+M4rVT20GdYUF4wenNpqQAv
+LyAdnYoFC5Ch3qvEhP9l+17V5EVxV0fNEgoYJ0ZjYaeo0clAmXhuQAgwMkBW5N+/
+Zd985gmAolZYJ3k7pfierHok52zpFMz73tRgnOILAymjSbe/4rwNlCNmSimBIEOU
+CVs6PhRUQMEGsL2MAqAAgxiVUNdFsHOlcpwYaUX+ULUi5LAr4pMy3b0KtcFI
+-----END CERTIFICATE-----
+subject=CN = sheltertours.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3212 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

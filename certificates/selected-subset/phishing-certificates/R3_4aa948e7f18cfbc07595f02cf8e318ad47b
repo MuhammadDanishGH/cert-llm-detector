@@ -1,0 +1,65 @@
+http://secure.runescapev.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = secure.runescapev.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMTCCBBmgAwIBAgISBKqUjn8Yz7wHWV8Cz44xitR7MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MjIxMjQ0NDFaFw0yMTExMjAxMjQ0NDBaMCAxHjAcBgNVBAMT
+FXNlY3VyZS5ydW5lc2NhcGV2LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAK/11Gwc8hSkTCdL2EqasOFstmNnlfr0goseU3BjcU0fbQfRF/oTXQu/
+85SiQBlI/WU0n2yTtux75XlTdw+YnYSBcXz9rXXwKeDsUJH+GuJ6il2czyaU5Q7N
+i0DYynMLM2sSmAjMxk4YnngZu41Ili+n7gF/rArASDtH6yfZJau+3+zaZX8CdxXC
+lhcrzKO9a7RWQqC7e3X4CopvkgRmJ2oHzXvJpscuIqar1rRszDt3HXCnYkYozM2R
+tbqUY4aIIByP70tiZFj+GzaGXRggL2sa4hKAXUuSvS6h0D+hrq1VzOQd5LiZDATf
+jpp618b3J1m2GOicADtymdflW4tq8j0CAwEAAaOCAlEwggJNMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQUJhPMzV4H/nTpkN5BW96eMX85y40wHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wIAYDVR0RBBkwF4IVc2VjdXJlLnJ1bmVzY2FwZXYuY29tMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDx
+AHYAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7bhsz0AAABAMA
+RzBFAiBR6fwbafRKH801Vr3h+Ff1i9oXUHDX96lD6RZ70GqBfAIhAJRByeBzkrgh
+jhapezY9gK+zBH+3RLaTj75iiMetHpYDAHcAb1N2rDHwMRnYmQCkURX/dxUcEdkC
+wQApBo2yCJo32RMAAAF7bhs1gwAABAMASDBGAiEA5StMhZxM9u4Jh7difJCxIsWg
+9Z8e4HAfWYp74csLDqICIQDX2/6T0/ObuRMjck1FB3E9rOPAR8B70V9U1LUlB4bJ
+ITANBgkqhkiG9w0BAQsFAAOCAQEAAS8W4C0g0//fmOTdk5/QkXK3ijQKnnZvbmeE
+nDwLXtxfmnId+15253WIb8gSBDaQ6zIk2zXnuiDZBD5aiNqgMQ2D/2W9l09iZBFO
+4S/mS9d+PWK2XYi9QLOoDRbL1sEml5yfFSZv2wgvHkqi4uSrNwxPEGbDDquyCQgI
+OO1k4GSm+EdlTWNGRErgQL8CrDguPvHYaysyZABL6wCkEfmIY1T9qUK9audPFdAM
+PoV9OoDkQYr0U6PKwR/uvOd4uiVZS7wJb1zUvcPKF6pU2HB1miCqk/MlwKsHZpe7
+E4Jdun2tB9iZFPf9rVxw5CI8uU8wJMMkvayXAdyV2Rp+Xmz62Q==
+-----END CERTIFICATE-----
+subject=CN = secure.runescapev.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4589 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

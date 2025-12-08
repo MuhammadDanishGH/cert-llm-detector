@@ -1,0 +1,65 @@
+https://www4.sndc-crad-nem-inedx.g2h7i.cn/smbc/smbcupdatebill.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = g2h7i.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOzCCBCOgAwIBAgISBLCQ0WZHZMQX+m9JA+5uJ9DmMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MjQxNzE1MTdaFw0yMTEwMjIxNzE1MTVaMBMxETAPBgNVBAMT
+CGcyaDdpLmNuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3gNCt+YI
+9kmBlyjuvGeAmV2nF9PPrB11CzMMavgIIdoB1RqBjAUAUHi22xIPjqhKiEsadgoR
+R0jK4drIyq8HK6Kks3p+U0kRzXCcdtokdt7uTWBanfN36S0Ze4HC2ptLyhz+h/hP
+j3x3TnGPUAZEjchiOT7wyc9Clu9x1RcUEYwKS7cjjGbZPIwhwB1KDIva1uAE8Awu
+YQDXgpualiYQgh5F/gNR/7qmTIfyaRcRT09u73J+4Dda0TDzH1nZdJR7qObIhbUM
+UbARtGNMw2Mc97Zt750MQ+44YWSQqz45+7KmLYqV61q6Soy/UXyfHwF8CQl6XLHg
+zz6JX1CNQfVlwQIDAQABo4ICaDCCAmQwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBS/
+etQvaEGyAaF3gvDYUni6ZhOwsTAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+d
+ixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxl
+bmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzA2BgNV
+HREELzAtgghnMmg3aS5jboIhd3d3NC5zbmRjLWNyYWQtbmVtLWluZWR4LmcyaDdp
+LmNuMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYB
+BQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBgYKKwYBBAHWeQIE
+AgSB9wSB9ADyAHcAXNxDkv7mq0VEsV6a1FbmEDf71fpH3KFzlLJe5vbHDsoAAAF6
+2bqFJwAABAMASDBGAiEAp2I0L1YpFpZBSZ3iHfBMOfgnT/Cy9bWhIiEDF2rU1cwC
+IQDI6oJVGOO/v2XxJqpIR8W57MrSHSwqeqrc9AzHrOMdrgB3AH0+8viP/4hVaCTC
+wMqeUol5K8UOeAl/LmqXaJl+IvDXAAABetm6hUMAAAQDAEgwRgIhAKsddrYzhj+d
+gBN7RRxQS+THx/16sKN5PQl6s2o0Ljh/AiEAyaD5TNhPQdnDN9uisUGYZzcomQF2
+VFslAPtJhMCbqG4wDQYJKoZIhvcNAQELBQADggEBAF8Y0xLZE2kg3a/hao/MW8Tt
+NryT7VpRlKo12UzOSsCPUBk18oGkW666ZAzHLMlC8wVzkZ+BoNWLfscYzjnOmx9R
+9PzYsN7uCm8fazMwRT4g7sXyUboUabE9ejJhfEDSlB2rR1fFSoZ6nW/YimSw/lr8
+WhHbIyN/PEEiZWiuI4FZCCqExdY3cdflYxS2SfQHOHB8/wezlmHnQLeCkFGHpgDg
+LkR+p0E7Yzhdy5P8VWw9RZcn34ZypwrIcibtwahRlfCdd7fdWkSpfYXLvGr3y6G9
+0CwCipShFzHe20qzpjouB2bi1X4w9NjLfX4qWbWsERRT2jjQ7Yg/5ERo4dQguqY=
+-----END CERTIFICATE-----
+subject=CN = g2h7i.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4599 bytes and written 415 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,69 @@
+http://viruprotect.ro/wpp-sovksscsc/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = webmail.viruprotect.ro
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF0zCCBLugAwIBAgISBLoCKJhXSwYnBAkcr+TQ6d84MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA2MTYxOTEyNTdaFw0yMTA5MTQxOTEyNTZaMCExHzAdBgNVBAMT
+FndlYm1haWwudmlydXByb3RlY3Qucm8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQCn8yvq8eHUdh+BF1rp/01S23VdP1w5T8Yfgy/gLOEEPtrhQlYzF0q2
+CONK0tDjw5xZhke26E81Tsi+FRQdF7EKNPKpyzgB201w+hnlvoyFkP7Agjh/+hXy
+Wn5avgEcaj2iuBTP7AwG62jiRtTIijtiNlGt+CGTubvpEv2lvRwX2WMhbhzMOBvs
+B9JEuCVIRWTli1Z7xmSE64d3bCmCUICaPhffZcFOdeReT3PRBSgIkSZUXkNs7j5+
+uZJS9ALKCUALKnWgP/MnRgrsCQmqKE3qqoexJFg7ibdN3OOcy1x3KbMuhosRd4jd
+ViyvhQqlyzP9t51Km02SaH5f2dJp0VCrAgMBAAGjggLyMIIC7jAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFICoR11uyeB0z/C/bxsABndtWpDSMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMIHCBgNVHREEgbowgbeCFWNwYW5lbC52aXJ1cHJvdGVjdC5yb4Ia
+Y3BjYWxlbmRhcnMudmlydXByb3RlY3Qucm+CGWNwY29udGFjdHMudmlydXByb3Rl
+Y3Qucm+CE21haWwudmlydXByb3RlY3Qucm+CDnZpcnVwcm90ZWN0LnJvghZ3ZWJk
+aXNrLnZpcnVwcm90ZWN0LnJvghZ3ZWJtYWlsLnZpcnVwcm90ZWN0LnJvghJ3d3cu
+dmlydXByb3RlY3Qucm8wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMB
+AQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggED
+BgorBgEEAdZ5AgQCBIH0BIHxAO8AdQBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/
+0zOWtbaBqAAAAXoWdJdWAAAEAwBGMEQCIAj5OP8xV/ZsID7tXCGn2Fz9YrG4gI3D
+VeaoJGDrxnJXAiB8MaYZ2GiLL1H2bM/hhBrdIMUTZWdA/hfv+g1P3cGOcQB2APZc
+lC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTjAAABehZ0l2EAAAQDAEcwRQIg
+S6MWhvlU9xa8CWqMF5hLwaHUXdEnsbCnfn7UnzU5w5cCIQCj68mzwUbylPh1qIV/
+g0wCl4SmY1tXLjH+4lISIbv39TANBgkqhkiG9w0BAQsFAAOCAQEAsW9vCWXOL8EK
+EtPKv9dPodkNkXCQan3rQucl21YVhCntW0X25DxnWCXjLl74Z6FrDJcAej74ZiU3
+KN3DIg79WSqxzz4nEs8czMB+ossXbW3nV+ZyPRZrkROL/V4nCoqDQtEiV9hEBoMu
+USzDXKg/ki7ABZIdGoW8xhVMucIV6DI93trdjUyzjRK9IIsTqUs4bV4ZEmVFz4AQ
+ONgSI5iOjewXB2yz2bpJ++99/x30hZP98EKu05LHMCNNDOPmdEcsA6j66x7jf1Qh
+fFHi69YLUeefkkIWVeKGeqhziZhUQtyh+Xm5QBBfukCFY/nM0g8viUJ9y4jj276m
+lPZazD7ZoA==
+-----END CERTIFICATE-----
+subject=CN = webmail.viruprotect.ro
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4751 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

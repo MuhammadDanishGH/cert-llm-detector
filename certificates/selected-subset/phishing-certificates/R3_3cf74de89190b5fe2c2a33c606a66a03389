@@ -1,0 +1,63 @@
+https://www.ama-premi-jp.13-co.top/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.ama-premi-jp.13-co.top
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOjCCBCKgAwIBAgISA8903okZC1/iwqM8YGpmoDOJMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjIxMzUyNDBaFw0yMjAyMjAxMzUyMzlaMCUxIzAhBgNVBAMT
+Gnd3dy5hbWEtcHJlbWktanAuMTMtY28udG9wMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAz3PdSWLFDsxIlF34eNlONiIj8wB3r6YqNx2zPzEnEp3lFWPn
+gqZBo2oYdvAxkYOiYI+d7gHLGPEXnbs/t4kCAVPI+PfAlnlg1oDdQX4KH4kct2ho
+0hR7aEcRHQzKy4QUjD9n4wzzJclnyI5Z8Tr11y87L0zhdVKMQUTAgGc6wH1j3EZR
+Mvpy2ocMhp8kZ7I+P4iYywwv9oukTz5ekSiX7nupGJ3l/Rs8FyS8rnOO83dCbTD1
+e2tujkCftYQf8EB3yGRBsX/sKkiXluj+VSMUNreqWhdLTrRH538oyuCsBK2P7H77
+E/b+IoieoNFwBG4qxr13zD/sPQiDphgvIxhP5QIDAQABo4ICVTCCAlEwDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBRSZnHDU4naYXlVweoyiFvWivjyLDAfBgNVHSMEGDAW
+gBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUH
+MAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3Iz
+LmkubGVuY3Iub3JnLzAlBgNVHREEHjAcghp3d3cuYW1hLXByZW1pLWpwLjEzLWNv
+LnRvcDBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsG
+AQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkC
+BAIEgfUEgfIA8AB1ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAAB
+fUgigE4AAAQDAEYwRAIgN4pmBjZqb0AlABaODXiyl4oA0oEzJl4iJPcFwMLnX94C
+IBwBw+Ir4M2okhiP1yaewesC6PIBpPfpYl9k3sLYVfRvAHcAb1N2rDHwMRnYmQCk
+URX/dxUcEdkCwQApBo2yCJo32RMAAAF9SCKBCgAABAMASDBGAiEAhZKcJv96FSS5
+31mk/VP3MO+p3Pd6a/puGnNu6KfMi+YCIQCeyeQlCmYQYqFLUxDFZQJQqpa5M5F0
+O5RAj4KfBbEUwjANBgkqhkiG9w0BAQsFAAOCAQEAH3a0/LFGYXJ3TVs5wGVidNTC
+iW3u8g2zdpfB1nOcPXSH/5wYcluFyxlITJKDqFA5PzebK60PWRt8cKYI8L6IyAlF
+vRZ099yYbNxsVflKqYfji9QkkMJsbu8STQC67snuj8apXKduo/CrLorY48RZKvQL
+6ZQQlJy89YGdMo7fxybocLZjnvOg9T9qH1LMLM9g3AwuudA/MR6YiO6AJA3ShvUg
+d+CtSOzpTLZqRcIGPFL2IhdsAoRSL7O4uYu/NmSPzz1POOSem/T86l9vGqS6WWMz
+juuhEJ4DvnraXn8gniL6b5gHYvpfpmuMKZ2akkyF5xcMJzU9QI3IEVkPDxshJQ==
+-----END CERTIFICATE-----
+subject=CN = www.ama-premi-jp.13-co.top
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3213 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

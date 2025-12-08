@@ -1,0 +1,69 @@
+http://downloadvideo.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpcontacts.downloadvideo.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGPTCCBSWgAwIBAgISA/43yecsfNlN7NmYFmPZ7N4UMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMTYxOTM2MTRaFw0yMjAxMTQxOTM2MTNaMC8xLTArBgNVBAMT
+JGNwY29udGFjdHMuZG93bmxvYWR2aWRlby5kdWNrZG5zLm9yZzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAOWXI8bm1mLV0lkJZbR4EZDCBX7h2FsbKgSf
+Po8KidskfalsqZeE/hxNZ/JdH56txB61ILAV84Zg5x+eIok1t3BzdW4xDlFx3Ul6
+pLEx02ZN3VYt01sTCvtwRxapYZyD7YBXgeNmKu8md6lK1kgz0UeEf//eL3dpvQS9
+r5Yk2POPRGLXEgaOYyuq8WZcrulBYn1WTLUgOhSYqLFu1UdnzG2DCDFlu7bpPNAI
+ylV5SdK54gk0/PicglEYxVsXkDOZZOsg0xYg4OSaQh4uc08ulb6n1eWKYgrEeqGC
+yW4XZTMdLHc7Ep5WEidKOmw5Z1+JxrZePG6bz++DPQBXoTYtOQUCAwEAAaOCA04w
+ggNKMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUc8uUbhzI8/sWhU2hm5TJ/halV1ow
+HwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBH
+MCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKG
+Fmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wggEcBgNVHREEggETMIIBD4IgY3BhbmVs
+LmRvd25sb2FkdmlkZW8uZHVja2Rucy5vcmeCJWNwY2FsZW5kYXJzLmRvd25sb2Fk
+dmlkZW8uZHVja2Rucy5vcmeCJGNwY29udGFjdHMuZG93bmxvYWR2aWRlby5kdWNr
+ZG5zLm9yZ4IZZG93bmxvYWR2aWRlby5kdWNrZG5zLm9yZ4IebWFpbC5kb3dubG9h
+ZHZpZGVvLmR1Y2tkbnMub3JngiF3ZWJkaXNrLmRvd25sb2FkdmlkZW8uZHVja2Ru
+cy5vcmeCIXdlYm1haWwuZG93bmxvYWR2aWRlby5kdWNrZG5zLm9yZ4Idd3d3LmRv
+d25sb2FkdmlkZW8uZHVja2Rucy5vcmcwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYL
+KwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlw
+dC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBGpVXrdfqRIDC1oolp9PN9
+ESxBdL79SbiFq/L8cP5tRwAAAXyK0b9/AAAEAwBHMEUCIQDHONBfC+7iMPXhwgaw
+ptpBWZJXZGyJXsirU/UstOuFngIgGTtu+jdZ3pv8nwxQDZbwK3YS3/opT+IFtsk+
+ahgfUyEAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAXyK0b+r
+AAAEAwBHMEUCIQDsQUP5Alxx4o/4gVnqha2lnYYDpZhz5AuYqXLHcL+KVAIgeKvk
+HWLbPlAqDGoZ+S8noZNTSY7ie+rbkNQoM4Apyz8wDQYJKoZIhvcNAQELBQADggEB
+ACYeJJ2i9MDYBcEwwP8LJ2r6i/D9t8YHrMtzD0FIHcGqN/B7D5Jstohc0KxdVEbV
+oWs+XpIXgFbjpYKF3g3xPNH2XXvUay79nILEhONveF1nDEljuf9WqPJO1wLRVGZF
+WlUIe/tv3IJNtAn7orHS+QyeGghmaQgWZC1/aqRXaAS+t/LM2DsMTWm+H+zx5ttA
+5mYKrnzmJoYzlS4Kp53IzqSMbQuN/49rzUFPzvkLYXP5vYSPsfrp3m727R6B2X8f
+MGUJyJl2feA9uqYRGWxhsphrKgM1jq6RIgXr8K6l7s7vWY+nM4h4Sv2QVGoziNGi
+4RxgcucH6a8NZCIQaxxAlIQ=
+-----END CERTIFICATE-----
+subject=CN = cpcontacts.downloadvideo.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3472 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

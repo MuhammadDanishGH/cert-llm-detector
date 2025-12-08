@@ -1,0 +1,65 @@
+http://sinssp20.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.sinssp20.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMzCCBBugAwIBAgISA4YVi8hfVPC6+Is2G/RCwFbDMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MjUwMDU3MDhaFw0yMTEwMjMwMDU3MDZaMBsxGTAXBgNVBAMT
+EHd3dy5zaW5zc3AyMC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDA5aDTDsjv9iA5t8sg1MjYZJKwwh1XB+tnB5rv+MByMvKEsQ33RqOoaGNh48Gx
+luCicgxnobJwkCkv0VzPvHb17RMpsfvhJWw/Nfj+Wdzm5dX/wca7iXef4wSmnWO/
+H06mJw5+abcVyiMlz0rsUJJgM5DG5pzAI5aGhJuYVGpnchD4Y6Mi50o1mOJnojQX
+lZtJKLJjR0uTU45PdYSpcbIHmXpKeejtawMaTDGMdRujzoC7itmlTKsOXcD4cPOB
+1GUjsI62mlgrMguM4FpvG4IgZ2c5TFlsan161+KPDp9fN3HBwBu8ypFF9R3fv9/X
+w9fFHEamYcQovzcuk4jIqnnHAgMBAAGjggJYMIICVDAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFFIeeISDITPI/AM+w2mh4cLxW2zNMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMCkGA1UdEQQiMCCCDHNpbnNzcDIwLmNvbYIQd3d3LnNpbnNzcDIwLmNvbTBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQE
+gfEA7wB1AJQgvB6O1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABetthW34A
+AAQDAEYwRAIgQjcpcgrlW226CyvSwQ/NHl61A2o5eWKqrXdSngAjGU4CIBJo9M/i
+LXsbs4drekFqbKuyAuIiZAyW8OEDXpbf4HuOAHYAfT7y+I//iFVoJMLAyp5SiXkr
+xQ54CX8uapdomX4i8NcAAAF622FbrAAABAMARzBFAiAfR5H0pT5jNlLGAypkzmps
+PC1KMloZfMI7VaipM+BQzAIhAPu/WhILbLizKGPZmGRYYA2dmKElLk3cs3B1gi1n
+E23hMA0GCSqGSIb3DQEBCwUAA4IBAQAa7ngxyA1AkwomDOfd1KrXkn1H9sChHrS2
+CO32y9qqRajRAbtwtOTLZTdfjc3pJWUxxdw+oFFBBmDK7chekZfyqdc3Y67+kyO2
+HgFly7v1vOnUVPsova33UItqQGGRHtwJNTFX4PmG4lJ2RSoXsV7jkRKqZBFw+Tth
+HQmm9UIt/g5cqtgZ3x4wOiYq6+wt2HV+1/3K6Sxsan+q3Qi6Dv8BDrALIPNmXl4n
+B3+PD5e8DPjmlxkE/pN+pUHrMt/hmoe3ebS/l/aL7qW+oHcGeMQmEq/KeVzh/eKm
+htPjTguRq4W02MgKEE5lY1mzEpTvjeViIlg42gQ86MPVynLAz5Y8
+-----END CERTIFICATE-----
+subject=CN = www.sinssp20.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4591 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

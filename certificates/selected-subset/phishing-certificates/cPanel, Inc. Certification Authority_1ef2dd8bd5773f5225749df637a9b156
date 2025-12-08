@@ -1,0 +1,84 @@
+http://southtownwakepark.com/crsts/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = southtownwakepark.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGvDCCBaSgAwIBAgIQHvLdi9V3P1IldJ32N6mxVjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDYyMDAwMDAwMFoXDTIxMDkxODIzNTk1
+OVowIDEeMBwGA1UEAxMVc291dGh0b3dud2FrZXBhcmsuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3FFP0W9+QkOZgPtsggiXaBGnTv5tUMH7K320
+X7afDZ1naGeyU+BslcVzgTSl+rsmxmBVAaV9DOWjZidD/wpeILGkuV6JSY8nS3Jc
+dqrx7pH+bSYta21yhuJreE8W8u5QCoZa+BJ27wxwqZtZup/mXcM4fARvSYTw3ZWF
+xHNiA2Vm826CY3mF2KuB0IC7OJQ9FUg8a84ljkxc7lnOa6bCPtOhFX9nNxhL1yw/
+0PI1mQB7aDRJcIYv0GSHovXFawrjof3CC7tr2eXWh/yXUuj25YeR6DjDO3rKy7vd
+id8I0zCx9QXwQ8CihSJNjcXWxN0rm6krRFDY8kCKHwJv0zDvrQIDAQABo4IDnjCC
+A5owHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFL6F
+IHGleahw7PyrOK/Tcbim+HtvMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAA
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysG
+AQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BT
+MAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2Nh
+LmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEF
+BQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQ
+YW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhho
+dHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAA
+dgB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXon43LiAAAEAwBH
+MEUCIQCOcgCJSd+GJGUei6wyi7LYXnfutKNzdMqhjPwckcFGJgIgGMMizYXpaJ+a
+xyWtmggyadYCTg0Fg0gPyBQRwDDXReIAdgBElGUusO7Or8RAB9io/ijA2uaCvtjL
+MbU/0zOWtbaBqAAAAXon43KfAAAEAwBHMEUCIGrmHDLyII86Dpdquy7ccF1qugvb
+Kf7yS1W6NXVIWcqLAiEAqLXE8dYTyh3SW7GR2ShyhZM+3mY0PjSFPEFYnK9lmDow
+gfoGA1UdEQSB8jCB74IVc291dGh0b3dud2FrZXBhcmsuY29tghxjcGFuZWwuc291
+dGh0b3dud2FrZXBhcmsuY29tgiFjcGNhbGVuZGFycy5zb3V0aHRvd253YWtlcGFy
+ay5jb22CIGNwY29udGFjdHMuc291dGh0b3dud2FrZXBhcmsuY29tghptYWlsLnNv
+dXRodG93bndha2VwYXJrLmNvbYIdd2ViZGlzay5zb3V0aHRvd253YWtlcGFyay5j
+b22CHXdlYm1haWwuc291dGh0b3dud2FrZXBhcmsuY29tghl3d3cuc291dGh0b3du
+d2FrZXBhcmsuY29tMA0GCSqGSIb3DQEBCwUAA4IBAQB9dq0c/NH/hINXb1EyHrqr
+dAx5uR9IGq/f+aiQ8EjFZzCnw+2CyvKD4ezrmZfrydHlYQOi9c9XMJw4+A3g+fsP
+Q3z3qLJQWIMPT7eaaTVKPvDKMM3BBYZTUbOXS6dT7H83QR8Aao8CJZr15O2SaDTh
+drVFivL5kAyg2yRRpsoC3pgZLs7uQkm7WXkFljjh7wnj/WoCfEen++TCccKyvoXg
+IKauSmmE3AivDFI2BmE+Q/zIYNAeZmIp59A3q0XPpXioQVZPnQNXDYgTsWKrK7dm
+ilA+/TTGD3OjhH7Sd0pzd9KYSXIzl+5/O9BjuQMtGbJ0dCFDID1NyLUotGcw76FN
+-----END CERTIFICATE-----
+subject=CN = southtownwakepark.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5180 bytes and written 449 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: ADEB35AF4CF6B332EC2110CB9301AC576590203E0FDBD75DC3BB9C9839E89B97
+    Session-ID-ctx: 
+    Master-Key: F7CC5B79B4AE2AE4B53057275EAC15F198EE4620D43458CF1097479A314E397D5E903F3C29EF8A89D3FE5214F16E75AA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1625604857
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

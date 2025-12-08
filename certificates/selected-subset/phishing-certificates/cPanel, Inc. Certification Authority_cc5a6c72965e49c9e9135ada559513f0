@@ -1,0 +1,70 @@
+https://eddcard.ca.gov.qmcd.com.tr/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = eddcard.ca.gov.qmcd.com.tr
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGCzCCBPOgAwIBAgIRAMxabHKWXknJ6RNa2lWVE/AwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA5MjEwMDAwMDBaFw0yMTEyMjAyMzU5
+NTlaMCUxIzAhBgNVBAMTGmVkZGNhcmQuY2EuZ292LnFtY2QuY29tLnRyMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlb1p59Wz0vQ9QPL7NLY7jyYXdL7j
+/rcy6ESI4PWL4n+qERTuWudoc9L/VPNyNRxBfW3RS+1ska7LWpyf0jDjrjeVMRwl
+EgIJLXz6cK1xbTp1peJsaM2NqDaoq+9U1QQKtG77BZbwYhv1oYQgmShjZGeTb9zy
+WrYMEn/2sUtlUrCp3h3PxHZm+VlPd3fEGbnCnOOlAXLrcjiNxQzvxafVvlJHIC7A
+n4booVfJ4f7nJ/HoTNBDBDm4DJOHQLnz0OY3jDM+cictS/W1nLixBUAtm+TwYQbW
+fkGIrLcouY1rZd7eMBS8nqq8SkyaCdcIoDQwbAHAPHKOLwvi2Rc5YlyKDQIDAQAB
+o4IC5zCCAuMwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0O
+BBYEFOZbWUZIY/rp7upzdL2HexYkj/xHMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMB
+Af8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBA
+MDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5j
+b20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNv
+bW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9
+BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUF
+BzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0
+BIHxAO8AdgB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXwH6JzV
+AAAEAwBHMEUCIQDmNpS2+vBhqmkbcet2ElRr9gToAA4rSL0bjHpk8ur97wIgD2Ym
+W5LdzW+0GkwknemCjqCJqfYsYV08nf8aTlKV09sAdQBElGUusO7Or8RAB9io/ijA
+2uaCvtjLMbU/0zOWtbaBqAAAAXwH6JzeAAAEAwBGMEQCIEOJjg0kyKGM6zGDeiQj
+uhMOM8yH2r+OOwhk9Zw/HU8bAiBUGS+et2R2jWrH2FWPimMyoddbo0OMVb5EwCk2
+oYD6rjBFBgNVHREEPjA8ghplZGRjYXJkLmNhLmdvdi5xbWNkLmNvbS50coIed3d3
+LmVkZGNhcmQuY2EuZ292LnFtY2QuY29tLnRyMA0GCSqGSIb3DQEBCwUAA4IBAQBz
+CtVuKTqQ2K3zfAgn6gjk9WRPzYZgCYfaNG7Hhp2YLJDZ1wRIAn0qzka36VNJXmUC
+h3hRDF6UxBsvzsXtqaHrmNGIHpKhgzKm0riAk3RqJqWnKSttDDTeMb3eVuJu/sff
+Koa8DfSrhY2lOr9h2+Ovnqqb2VlADa/imBmJP1uyGBEcdHjDJpLs5j61cS4a87G6
+VQleD1HFOF3Asa1n8ana+NK3sTaNTirKC1bz7f4Gij6+IjYvMGoYw3dnLQICr67F
+30WPhEg438K3YloIj7pfDyGxngSBfSkDsmWmEzK7AXuZBbOTLSwIdrblM08C6OKM
+mrtQZJ4lZun9qrK3DARK
+-----END CERTIFICATE-----
+subject=CN = eddcard.ca.gov.qmcd.com.tr
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4986 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

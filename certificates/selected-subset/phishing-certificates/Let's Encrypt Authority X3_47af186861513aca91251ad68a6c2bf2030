@@ -1,0 +1,91 @@
+http://myafinari.com/directing/www1.royalbank.com/cgi-bin/rbaccess/rbunxcgi/ClientSignin.htm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = myafinari.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYzCCBEugAwIBAgISBHrxhoYVE6ypElGtaKbCvyAwMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MTUyMTMyNDRaFw0x
+OTExMTMyMTMyNDRaMBgxFjAUBgNVBAMTDW15YWZpbmFyaS5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCreYArpjWSRgVIN4yV2S/Py7EGln/BJF8Y
+lb1htxnJOQjy5Y/v/+GrgSri5v7AWDtS2ukTkcLT97sIjbIvHValTc/IG09mHfsM
+SQfs+0xH9Y7nv8TWcmMrxBsttOeplsbCABIqtCWlZtAE7atuFa5xL6DFQylhcGMG
+1T4DgHs1r6RiffclOz4F8NVKkc+3bK3czfFkboi1FYHUFjtC7dOLQp7FE/btR0Bw
+gue0FewUgazszT3ge0EBmcLx8mWbkajsoboODkKGg71WjLKJUe2t5YfAS0BriKGJ
+K8EKe9BvbYY+/dOnJ+EkceS9XiNLMejPQH/9ODts8uN2hqHu3FQHAgMBAAGjggJz
+MIICbzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFLZduNJmRr0pUpy3953A4UIwvPfa
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wKwYDVR0RBCQwIoINbXlhZmluYXJpLmNvbYIRd3d3Lm15YWZpbmFyaS5jb20w
+TAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcC
+ARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggECBgorBgEEAdZ5AgQCBIHz
+BIHwAO4AdQDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWyXaWts
+AAAEAwBGMEQCIDlDH9clEJyAC4eONIYkg9IIBRRqr2aiw/PVY48qkH8lAiAySd2/
+RCZ6gB/YoCyy3q4P8oufrrg0hIhxT//XE1YeNAB1ACk8UZZUyDlluqpQ/FgH1Ldv
+v1h6KXLcpMMM9OVFR/R4AAABbJdpbVQAAAQDAEYwRAIgFJa4A8wIyCp0+i8SZmoc
+GOm5KiHrRCTszwEto9EakNoCIG95YAa/HWHo45D9/abz7FHhXmKBsJFkTQQmdsGK
+eOvKMA0GCSqGSIb3DQEBCwUAA4IBAQCVz2nbhkx+1c04spCQkxzlxWHzgnOz/xiu
+hP56YbyNyHSTgrbXO8oOduDy3AHeZNWNN6mfjcIo2a48xVKEIO26WUbBIPlx2f/1
+bOLwIBn5QCQSw30ixEsrKb41qsJa5iCr98GvcVICxLNxx//nPdv9E7Rkj5w3FkL6
+iKmt0ekytx1U2Nm2u0ViO/+06A/u1Gcl4PDgmvbFSGD7xCJGCSOUXvJjOgdmal9+
+vqlsosZRRUEiyfGKS5Ou7D7Zh8Uw6SWANf9p4eXWvPlcDbrbe+9loLLHI1tbrfxJ
+ZTDZb9XKNDw4ytIhYqd6O6DrxGlaV6/UwCPCM2JIlYUasI9izsFD
+-----END CERTIFICATE-----
+subject=CN = myafinari.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3266 bytes and written 451 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 2E16C2DF3CBBDA4517AEBF98BFE5FAFCD088BB090B399023E8A97521F6FC77F6
+    Session-ID-ctx: 
+    Master-Key: 220F57CE91C66668053416BAB678D2025A5F03EAEAEA20D164B00911C28094B66F67C77556DA9DDF37430C6DF1ADFB7B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 30 57 e2 fb a1 86 b7 b0-23 97 b6 61 b2 c6 a5 a1   0W......#..a....
+    0010 - b5 a9 36 93 8c bb 25 d0-b9 c7 65 44 c1 ff c4 f4   ..6...%...eD....
+    0020 - 82 8d 81 a4 9d af 15 d6-f8 e4 50 06 49 6b 81 bf   ..........P.Ik..
+    0030 - 33 0d f7 3b 88 9b 6b b1-c9 a9 cb 70 5c db 02 90   3..;..k....p\...
+    0040 - 41 02 35 56 ea 8b 07 95-ca d8 bc 33 74 1d 4b 36   A.5V.......3t.K6
+    0050 - 53 94 2b df 0d cb 37 e5-03 4e d0 08 b8 3b ef 24   S.+...7..N...;.$
+    0060 - 71 86 e9 b2 e1 94 b2 92-d6 07 d2 93 fa c5 72 de   q.............r.
+    0070 - 6f ec 65 82 44 19 9d 65-72 41 ab 8a 22 2b 44 91   o.e.D..erA.."+D.
+    0080 - 54 81 0e 69 f6 91 b2 36-84 c7 bd ab 75 91 e0 2a   T..i...6....u..*
+    0090 - bc 5b 0d 6d 9e c0 2b 20-a0 c4 aa 99 d4 e5 c7 75   .[.m..+ .......u
+    00a0 - a4 be 88 84 49 a6 02 f8-ce 18 8a d4 33 31 2b f3   ....I.......31+.
+    00b0 - c0 e0 42 28 a7 67 ef 1b-5b 02 14 0f 09 e8 20 2e   ..B(.g..[..... .
+    00c0 - bb ed 90 e3 09 6b 61 ef-73 a9 6e 0b d1 39 44 e0   .....ka.s.n..9D.
+
+    Start Time: 1566046830
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

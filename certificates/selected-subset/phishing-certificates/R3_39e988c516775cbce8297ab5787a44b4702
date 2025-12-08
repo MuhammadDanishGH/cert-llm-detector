@@ -1,0 +1,65 @@
+http://36551177.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = 36551177.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLjCCBBagAwIBAgISA56YjFFndcvOgperV4ekS0cCMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjgxNTM2MjRaFw0yMjAyMjYxNTM2MjNaMBcxFTATBgNVBAMT
+DDM2NTUxMTc3LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL0g
+GAB7GyYoHJ1XIzW9pCI8w5J4CYU39x+ZOpmwHZyKwl0rmOhLvJbsJy/u9J1mqimt
+bjjUvq1A0zErOlKPcV84RP5eYZhSQx25AeAn2E3nabdKP1kVUK2SAHvQQxjQrHtr
+owMYlWq0dlKeijL/UQQDUirPwlkV+O2HvsmsGIv6uP05p77zdJYbxwQo2FPjbhhK
+och3ZyKr9fZdGKSwwYswGC6yf6XaY9J9HzkQRjYhtRpxFmulE72Ar6ASmvAAOFgX
+/mlaOvWng0Q+VaTvTdVWoziW57TO1WE9bKA3aCeRx+pZ0qaRHHyljmMcg6719yxU
+pOK06lyidO6zy34XOk0CAwEAAaOCAlcwggJTMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQUfIQttRDU4+fLauqIO6WRVHAJZgowHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA
+5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMu
+by5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8w
+KQYDVR0RBCIwIIIMMzY1NTExNzcuY29tghB3d3cuMzY1NTExNzcuY29tMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAgYKKwYBBAHWeQIEAgSB8wSB8ADu
+AHUARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9Z2eiJQAABAMA
+RjBEAiA+YThe83msw5Q/sqeW9RHqyAtIFRC4wxoDqfBx08lSWwIgQcV+8pzh+ef/
+Bu1YUXBIE47BL3GfcYQZZG8Ax2p46jwAdQBByMqx3yJGShDGoToJQodeTjGLGwPr
+60vHaPCQYpYG9gAAAX1nZ6PfAAAEAwBGMEQCIAuuRD61Ok9wTC4VIKV8vwlBaF7C
+NDXzx6RUj33d718/AiAbgehrr17MuwY4/17QfzHXEdb/9BbhPqOOCb0+mT1o/TAN
+BgkqhkiG9w0BAQsFAAOCAQEAO/wgP4miZrBauRgsI24S0kQR32N+vcZTlFKOKrC6
+ebphoQbp0+rtYUoRCpoUtHdr6NOKrujL1NGp+okpP+UGDQZJl75odezLh3k1QXsu
+IpZkkOjgMnHH3O0dHylfruX+GuJ8qS8DwLVBUrwFAlhEuq5RKL7WOG2ZXmMa0//+
+G20Ec/hlO2MfPh+EOEXXukyP/cnGPSJtsHZrmP8uhmivERWXg2VOBcID7NXvj8iJ
+Qacyk3TRF6N0AIgBkqZGWcvoVVubrFWPAEpK5Ay30qhhQhSDwGxju/bkxKw56X4F
+VNDErx2jYl0B+S6crREL7LkgbRRwBOlkT0qUiCABbeznFA==
+-----END CERTIFICATE-----
+subject=CN = 36551177.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4586 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

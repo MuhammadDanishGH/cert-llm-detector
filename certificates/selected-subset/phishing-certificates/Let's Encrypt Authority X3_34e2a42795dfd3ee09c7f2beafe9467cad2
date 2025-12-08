@@ -1,0 +1,99 @@
+http://blakehanley.com/chase.com/ChaseOnlineLogonRBG.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ghostlion.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHDzCCBfegAwIBAgISA04qQnld/T7gnH8r6v6UZ8rSMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMzAwNTU5MzRaFw0x
+OTA2MjgwNTU5MzRaMBgxFjAUBgNVBAMTDWdob3N0bGlvbi5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDLZI6FkhPGP55s9SjiJBqkrBeyzWv6dhZa
+e6ntf6rCCqBQqamZSH9R/SLzdjXlviXBe7A1ykhkAKeuXvhX22DOAdWkL94jnvN9
+gD08VHtVNzRGATjQ29ZBoWTHPejrgOwcrI1+TfR4n2D+uYmLGckR8PAK1+trE3LR
+dLfQbw9brAqomzwiQQE79BAuGHpcYHRBhN7DpzXXs8p3wvriiBeHL0ik0pm0WOxL
+NsoJjWNrH7m/HkLz+izISsvQBtfRJNQJjTrmQ9hiR48+gymDQjM/EPDjREus4spZ
+CTEUrtmnw1iT77JAFhqPnmVQphEaU2aAqDsXfp7Aa4uO3NCtw3hPAgMBAAGjggQf
+MIIEGzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFKBjGczmouh88ntlRrufNK8Q5m+n
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wggHUBgNVHREEggHLMIIBx4IPYmxha2VoYW5sZXkuY29tghxkZW5pc2VoYW5s
+ZXkuYmxha2VoYW5sZXkuY29tghBkZW5pc2VoYW5sZXkuY29tghlnaG9zdGxpb24u
+Ymxha2VoYW5sZXkuY29tgg1naG9zdGxpb24uY29tghdraW5jYXlvLmJsYWtlaGFu
+bGV5LmNvbYITa2xzLmJsYWtlaGFubGV5LmNvbYIYa3NsbG9nb24uYmxha2VoYW5s
+ZXkuY29tghRtYWlsLmJsYWtlaGFubGV5LmNvbYIVbWFpbC5kZW5pc2VoYW5sZXku
+Y29tghJtYWlsLmdob3N0bGlvbi5jb22CE3d3dy5ibGFrZWhhbmxleS5jb22CIHd3
+dy5kZW5pc2VoYW5sZXkuYmxha2VoYW5sZXkuY29tghR3d3cuZGVuaXNlaGFubGV5
+LmNvbYIdd3d3Lmdob3N0bGlvbi5ibGFrZWhhbmxleS5jb22CEXd3dy5naG9zdGxp
+b24uY29tght3d3cua2luY2F5by5ibGFrZWhhbmxleS5jb22CF3d3dy5rbHMuYmxh
+a2VoYW5sZXkuY29tghx3d3cua3NsbG9nb24uYmxha2VoYW5sZXkuY29tMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDv
+AHUAKTxRllTIOWW6qlD8WAfUt2+/WHopctykwwz05UVH9HgAAAFpzWV98gAABAMA
+RjBEAiBEXQCYRJJzaVmxyNry5TPFOUcxKpmTQlAdbvUc/GQXKwIgGaLlQTTz/iKE
+bbKiUKDVSPbnOtyheIzj5mo2qkQ7OAEAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLB
+ACkGjbIImjfZEwAAAWnNZX+EAAAEAwBHMEUCID/BAvlY72U47zTIADzTLM317ALo
+5f3dP8bkTdedKE5WAiEAs51qFVa+wzY9eKJh4wyRFhKyL7jVvGVqVvTTPZYK3MMw
+DQYJKoZIhvcNAQELBQADggEBABjb26uBDdQ6qZz/kckZ62thUcXXviX4yWC9adJP
+y3wWJOCGWqp06Op7QcM5+quSLr1tjZ6BtdsnV17ou/2AH8/Db40QQEYCxHb1+AYv
+F4kIJ+e9kbe2ndDjGOA7iKXSeYIWTvWsIWPAA9PdKt5joRjh81qMTIAUrd1PfsuP
+aV0Hx8aWG+OhmsZE3Dob3p9xPEYmZyEqlI2N/7I1zk0YjCARXa9e0vPybf5CNofR
+mZD9egibJ/kdDxf00dBg5lgSeJQt/GNohLqHN5ip0rbSXJAH7JQkDfc4pJhCvafN
+wzCHmwWMHUAStKgE7EFQUmPq6mE2zQVx4EwUUK+BUoUhVtg=
+-----END CERTIFICATE-----
+subject=CN = ghostlion.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3649 bytes and written 420 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 48F19028B2B908DAB5C2555540474E09344DCEF1D1B3544BF4A9DC1514E025AB
+    Session-ID-ctx: 
+    Master-Key: D28B00B38D9D9E173D51C34542A43DF9824AF3B95537FF0175AE589F518666A5709CDC7A5C238B565F1620961CC81B8F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 6a 9c 06 5f fa a9 4e b0-39 22 d3 28 36 61 63 dc   j.._..N.9".(6ac.
+    0010 - 70 5f 54 e1 55 23 bb c3-96 ae c7 63 95 c3 55 86   p_T.U#.....c..U.
+    0020 - 4c 25 d1 b9 28 70 55 7a-49 02 1e e7 e4 67 4c 7c   L%..(pUzI....gL|
+    0030 - ed dd 60 38 9d 8b 40 5c-b5 f5 62 13 87 d7 06 6b   ..`8..@\..b....k
+    0040 - e4 8a 33 47 5e 8f 0d 14-54 b9 51 28 cb 1c 09 6c   ..3G^...T.Q(...l
+    0050 - d0 e0 03 1c 4a e2 bb 79-44 bd da 2e a4 2d da 85   ....J..yD....-..
+    0060 - 5a 9b cf 26 14 64 5a 91-3d 7f 06 36 87 93 88 da   Z..&.dZ.=..6....
+    0070 - 71 5e 40 ae 87 c6 b6 f5-27 11 2b 7c 35 3c 58 3b   q^@.....'.+|5<X;
+    0080 - 00 bf d9 97 be 90 72 22-cb 4d af b1 ce 4f 7c 52   ......r".M...O|R
+    0090 - fd ee 1d a2 08 ac 96 19-cc f6 f7 61 27 ef 58 bd   ...........a'.X.
+    00a0 - ea c0 4c 5c 7f 30 51 05-14 3e 19 2c dd 3d 89 41   ..L\.0Q..>.,.=.A
+    00b0 - 61 5c 27 4d c7 3e 85 7b-50 c9 eb ac 88 22 45 96   a\'M.>.{P...."E.
+
+    Start Time: 1556283617
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

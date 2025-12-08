@@ -1,0 +1,65 @@
+http://pubgmrewards.cf/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.pubgmrewards.cf
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFODCCBCCgAwIBAgISBLjaO/pMwaU8VQKDji/eU77WMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjExMTE1NDhaFw0yMjAzMjExMTE1NDdaMBwxGjAYBgNVBAMM
+ESoucHViZ21yZXdhcmRzLmNmMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAnfD/+TIltnLrAmo1zDZ5SQU1VcTn3xv9i10GNi0v7gKkfsarOz+wjDMT9QY9
+yNRd2qlUwfLZ3YKkxG1gXFD4Xd8jxY3dd2JphxtRJfmXhKfr6LeKefDIl6+xp0H+
+pXee3/HblCAoLjxzo1ZXQQRtXxCZuAvnwu8GHU5PNTx0uTJSpmPMjenJgjZOERBd
+NnujDEJaAYDirRSXalDxwFmLkXDJ4g1oFpkhbBSVEM4AMtzD2zJOQUvMxI0HNHLg
+gR1JkHSqumks6mNpVrD3XKzE1SzX1mq2a1dgDf/7TVAT/7FTCL74+DLSNcJRnVG8
+babhnHMR6v95v0pY16705679AQIDAQABo4ICXDCCAlgwDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBSJqGf84Wtoj+5uNCdtM+aDjMu/vTAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzAtBgNVHREEJjAkghEqLnB1YmdtcmV3YXJkcy5jZoIPcHViZ21yZXdhcmRz
+LmNmMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYB
+BQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIE
+AgSB9ASB8QDvAHYAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF9
+3OtPPgAABAMARzBFAiB+eEmutD5XxqHlqvCB9Ax4VhOh/qTSHG7yQb3dK3ZxZQIh
+ALZobj2NzrJwyPB6d5S+KazXPfvrR0LMHlJ+ca9wL38mAHUAb1N2rDHwMRnYmQCk
+URX/dxUcEdkCwQApBo2yCJo32RMAAAF93OtPhQAABAMARjBEAiBCV4n/QRVd7RQo
+pPoq+6a6IMZG0fLt1Q3x7gOqploonwIgEcf5SHuQvzDf7NGEgK+pwBwHQb93IJQ5
+j8KTur5ZXSQwDQYJKoZIhvcNAQELBQADggEBABSDwXw2dxYvXFFfebk1Dwf5xcJa
+D99hpFOmu8kW2jeRrk0tFH2TnR8MTVZ3Z+ye7bKcHl+jsyaLjtZGPqdSa52jOsga
+LigfbhmDeRYPYM4FHrVEkp0pdGZNlV89wzlFhepJY10jBXV8VXlazjNmznC3DUuK
+9dyioLPZ+4f6KonAPrnoF/9x+IH7oFg6rWIZUhMGXoxLfGBUV2MsBb1wmtxR5w0x
+AmCRdtnr+GNO6WNq/I0DvCt0f/ONAbVPiUQlXlJ7/eZ6cpVfEwhlaLLldvf+DpNE
+VQ8kAB7aQwsNbNbOOrqaU+7g2SJNih+aDDJlXOugSc2yqgWs4Cgrcwfxkco=
+-----END CERTIFICATE-----
+subject=CN = *.pubgmrewards.cf
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4530 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

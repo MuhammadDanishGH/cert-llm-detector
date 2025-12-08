@@ -1,0 +1,65 @@
+http://ohlinsos.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ohlinsos.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLjCCBBagAwIBAgISBKkwaI/ZUGSixjHW/hOf7rW3MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDgxOTA1MDhaFw0yMjAzMDgxOTA1MDdaMBcxFTATBgNVBAMT
+DG9obGluc29zLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAK4z
+2CdpB2T4jVpnuRcszJ3ejH7UQBdvVIxF417/ONoKe5Xww8lOAAIkdGJJXhtorvNe
+aHjVFoPwruW41a3Ninho/gDZkgyKBZ2IKPx/+WLgwwR6R6eSBnjazlsab3KbMf+F
+kBgvs7/tf6+LVSjyEB/AsOWHzsqhPqP9R0tycHdEhM8MpLY9FeMlXtaKmHJsUGgk
+51P3QA7NHqU69SMzcotk34b9KLCk0WLfk+FBIU2l+nfZ6YCtezyJxPNjmZQm95Ga
+AcEy4CdcX1ubb6KyBaOclveKvySrOglcYRUo+arIuGoGHQ+YptLxYFU3nXy/Xfc3
+oBvtEap5Mca1vml1SCcCAwEAAaOCAlcwggJTMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQUpeQiyE4sZkGIrEHTgx+rYLwleHwwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA
+5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMu
+by5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8w
+KQYDVR0RBCIwIIIMb2hsaW5zb3MuY29tghB3d3cub2hsaW5zb3MuY29tMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAgYKKwYBBAHWeQIEAgSB8wSB8ADu
+AHUAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF9m6ZVvwAABAMA
+RjBEAiAxY1SPxwZoZJ0pL7YhUWCrTpyCFk67AqMI1wf9lRPKcgIgBvbf1Uu7Y5uS
+n1cIai9+rOOKhg2ivXRvMo9BBzdk79YAdQBByMqx3yJGShDGoToJQodeTjGLGwPr
+60vHaPCQYpYG9gAAAX2bplmWAAAEAwBGMEQCIFjgHt+V4MLeACVQ0LYcWSPZQ2XI
+P3YXoeoASKkpbR+2AiA9Guu/YAE4BJ6rNJ2xLCcINMS5oGyfTNameHagXYD/ATAN
+BgkqhkiG9w0BAQsFAAOCAQEArz8J6E3BBoADMwKnpr364ag/h3Axz7uBee+l1GEh
+aTB/LB5q/WySKWwaJXY4+DcofcmKhGv1oc2hqE0Yg2nCc4U6R44cylurJh/68Zjs
+3rGQexTFW6pmHTYKyqX81nLOeFE/5V1RtBTMjrfxvKRnmffDTmMQiMrVxrSLF2Y/
+/IUtegh1dM0IrkgdX8sdGl+KnNpWoz5FuU7kLAnaPZviD98MycD4g9qGy8Pm+05a
+AKwUntG3TFT/2+q/THTq0RwB0/Nbt6r6xRdlsECrYko0bzpv+0YZoOB5yA5yYxCs
++u4ehKfyR1fCL1RIrJSFkEar22lVAsSecYB++GWBoObw7g==
+-----END CERTIFICATE-----
+subject=CN = ohlinsos.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4586 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

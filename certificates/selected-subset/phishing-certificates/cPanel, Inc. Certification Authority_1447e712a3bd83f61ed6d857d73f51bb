@@ -1,0 +1,69 @@
+http://www.kinderasia.com/att
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = kinderasia.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF/DCCBOSgAwIBAgIQFEfnEqO9g/Ye1thX1z9RuzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDYxMDAwMDAwMFoXDTIxMDkwODIzNTk1
+OVowGTEXMBUGA1UEAxMOa2luZGVyYXNpYS5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDEEgj5x35M4onpGruIvUPIri1MVUnyXOzQ5RikK12IFXCH
+3kV1JmVC6EkykXffscWPzI8AUOo2V8AMVYu9LF9J+IQLorg24d/HGX7ui52k3OS0
+VIq1VvbZyHZzz6TQGuOVfA9ZNDnHa51dm1PcFQrDDFrb/PMHdiy+vsCpS1mTkykD
+XVlSb8tB64pzUmWnbOKFwBHt5SP1qrLY1VjzIbKYUDmUFuA9eqe1bxo1z4SrFqNw
++84KNKYlZS/J6vbonsFxlFpcpxchAKHNCqAUup1l54bXgbPJ6CEzJ3LfHm5Hznfz
+l0FPqt54blbFSou4s1CuYCkJdpX0pHPGvgCysppzAgMBAAGjggLlMIIC4TAfBgNV
+HSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUc1QbyifMCyC9
+iRT6E5o5bdNOHc4wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQEC
+AjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EM
+AQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29tL2NQ
+YW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEBBHEw
+bzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVsSW5j
+Q2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9v
+Y3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB1AH0+8viP
+/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABefYlf8UAAAQDAEYwRAIgeUfI
+6cg0U7aAISzod8ArHabcGl96EocszbpEA3/WgeUCIDRmkYPZDxQr2zX8kuViEV/D
+iDZZEObsdKWdY7Jjsa/RAHcARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2
+gagAAAF59iV/0gAABAMASDBGAiEAgqDniWjUznNGb1lMpD+z2gAcF30rGzF/RCX1
+kDmhaEICIQC2THl+F78FT2tX8PFw11nRXO5Q3CyLY2pWV60VJr33VTBCBgNVHREE
+OzA5gg5raW5kZXJhc2lhLmNvbYITbWFpbC5raW5kZXJhc2lhLmNvbYISd3d3Lmtp
+bmRlcmFzaWEuY29tMA0GCSqGSIb3DQEBCwUAA4IBAQBJhWgzjTOCcZIIryKA7MfS
+QT9BhTFsKuVeoYqUh5RyMhtUsZj41iNFQtSSxeaIJ6/XQ3Vsc80tkSsE3lwlIZAX
+j3JigSkSkryIj+xbzF95PX7+Nhyt1Wdplbb9G8Q4dpni5lw9MXv0MRwGn8kBT7yT
+pLLGXXZY5FbofIQjDDob35slksTpwd1NSd2YqCZS9+xs7exPgRrEW6GhYCXd4JBe
+6IdpZbLgq0OfWyrq0C5HfW9Ng/+NW6uh7FZQpX7fGy4AIHdQXRracnBlmaO9hHhs
+u9d4hksNLcfHmzJ2mRtyCy8mY96aQu6PXNIOBvFLzh7d1c5BhI8U28QbD0KFzNwj
+-----END CERTIFICATE-----
+subject=CN = kinderasia.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5041 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

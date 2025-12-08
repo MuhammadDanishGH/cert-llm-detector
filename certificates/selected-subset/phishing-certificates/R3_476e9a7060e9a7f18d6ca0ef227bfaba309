@@ -1,0 +1,73 @@
+http://grub-viral-bocilsma-viral.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpcalendars.grub-viral-bocilsma-viral.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGqzCCBZOgAwIBAgISBHbppwYOmn8Y1soO8ie/q6MJMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMjUwNTAxMDFaFw0yMjA1MjYwNTAxMDBaMDwxOjA4BgNVBAMT
+MWNwY2FsZW5kYXJzLmdydWItdmlyYWwtYm9jaWxzbWEtdmlyYWwuZHVja2Rucy5v
+cmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCkqMe1WlUY6H5OxKtL
+1R806lBq6/WaaPe68djtwRdhB+p9PxbS41fif0Uri/3zbbzlJ6I3svNNy77WEgj6
+NT1e8y2qmemdV5DhEk7RVf2/924HDEmIBbQrSRAS21QQkvxsGkGekspmQCQChG+G
+4K9PWLM8bIdP+FZ/Gb+OKhC15k8912/nMyrzLlYWwRrxLvvtNF06ROM/MsXYkDEX
+bvj4zB05+7v3j4mSpm61jBWWE9k2sjkSBFj3vJZ23pzokAVh6vMWGTHMlXY6N9XP
+vLBirhGwL3FwyLrx5fV+LrVjsMF9VBx0v7pD3WXHRwkAMhiqrBxGndr9Ac3qgywI
+UsKHAgMBAAGjggOvMIIDqzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFAGhrOj2ulBc
+lnKcbQtK0hg+YsnjMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUG
+CCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3Jn
+MCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMIIBfAYDVR0RBIIB
+czCCAW+CLGNwYW5lbC5ncnViLXZpcmFsLWJvY2lsc21hLXZpcmFsLmR1Y2tkbnMu
+b3JngjFjcGNhbGVuZGFycy5ncnViLXZpcmFsLWJvY2lsc21hLXZpcmFsLmR1Y2tk
+bnMub3JngjBjcGNvbnRhY3RzLmdydWItdmlyYWwtYm9jaWxzbWEtdmlyYWwuZHVj
+a2Rucy5vcmeCJWdydWItdmlyYWwtYm9jaWxzbWEtdmlyYWwuZHVja2Rucy5vcmeC
+Km1haWwuZ3J1Yi12aXJhbC1ib2NpbHNtYS12aXJhbC5kdWNrZG5zLm9yZ4Itd2Vi
+ZGlzay5ncnViLXZpcmFsLWJvY2lsc21hLXZpcmFsLmR1Y2tkbnMub3Jngi13ZWJt
+YWlsLmdydWItdmlyYWwtYm9jaWxzbWEtdmlyYWwuZHVja2Rucy5vcmeCKXd3dy5n
+cnViLXZpcmFsLWJvY2lsc21hLXZpcmFsLmR1Y2tkbnMub3JnMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAKXm+
+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF/L3fpowAABAMASDBGAiEA
+jWAu70FQSfM2yCUnMVGQiI//b9f6O+fazaUoYCd7pZ4CIQCWsG+nkmou2E1+qh7w
+8nWtiKOiYZSt0WJ24z1UZg/u4wB2AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaN
+sgiaN9kTAAABfy936wAAAAQDAEcwRQIhAO9yrdcuSFHwrZsG36JOnbGL1RtgJs9j
+Sqksl4puInogAiAie7MRp9LYSKgaiHLqyzQA5iI35psjqJqG1KwV9JVuiDANBgkq
+hkiG9w0BAQsFAAOCAQEAaxJJC4An1jluTT5tJ6zmtNd4AfJwZcU5I/onHmWRWQU3
+GyUSITlfgkOI4fxP+H0xvJwVN5NwlKlSOfve8pN5FFMICm/rbl2GIKLAqHhVVPFt
+GzZMGHo4rc5lFSHxNvELCtzF/neeuuJwOK0DkUCYHp7XPL8mcdduwP2I6UA9outR
+gm3ChdWctUdES5FlzbJBgEqqHHKUBFLrW1EU121cmsuCdGEF3uZIifuHIZjKtFsE
+5/Q6UwZ1e+F3ZrgFZuQMVFNLglyHwtrdVFsQa6RQ6//s13YmT9Ko96uPuowkvJ5D
+srdAn8Q2km0mhVW/ch6+rF4jGK0dqxL2EgGCfMHHWQ==
+-----END CERTIFICATE-----
+subject=CN = cpcalendars.grub-viral-bocilsma-viral.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4967 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

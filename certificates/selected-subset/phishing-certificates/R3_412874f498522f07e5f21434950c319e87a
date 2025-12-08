@@ -1,0 +1,74 @@
+https://www.c.maeicsri.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.c.mneirsei.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGwDCCBaigAwIBAgISBBKHT0mFIvB+XyFDSVDDGeh6MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTkwNDA0NTBaFw0yMjAzMTkwNDA0NDlaMB0xGzAZBgNVBAMT
+End3dy5jLm1uZWlyc2VpLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAL+qJQPMZkTVpveRLCQ1Gi499Vvf3Fy9MuAz+bRhUCusOmj2U4EB3qx1cGuf
+W4eQiYc3dRHNCT67TZ90ChMRSbc1T8ATpkMy1esiyL9en0ry704gAENxerfjD05L
+5ud/s2EaRRTY37M982vM9CeR34rxmgWoqAV1jii0gYljq4QCS+JllNoS/CyQlC0x
+sgCxb5NinadRcAZ50/V3xTNURcciuPDKeptzhgUXxf7qyy6fkmI1RF6OtWA0NdsK
+aAhni7vftExqOnPEWZRSFVkhma6xiflaq2R/2w+2bPa3SgWFW+Kae1VMUJXkOEXR
+w2BPlOA2ivEyVzS0M6HDY1EGDTcCAwEAAaOCA+MwggPfMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUNKBgL1HIKYw05jIqpaSFc+kYwe0wHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wggGxBgNVHREEggGoMIIBpIISd3d3LmEubWFlaWNzcmkuY29tghJ3d3cu
+YS5tYW9pYXNjaS5jb22CEnd3dy5hLm1uZWlyc2VpLmNvbYISd3d3LmMubWFlaWNz
+cmkuY29tghJ3d3cuYy5tYW9pYXNjaS5jb22CEnd3dy5jLm1uZWlyc2VpLmNvbYIS
+d3d3LmUubWFlaWNzcmkuY29tghJ3d3cuZS5tYW9pYXNjaS5jb22CEnd3dy5lLm1u
+ZWlyc2VpLmNvbYISd3d3Lm0ubWFlaWNzcmkuY29tghJ3d3cubS5tYW9pYXNjaS5j
+b22CEnd3dy5tLm1uZWlyc2VpLmNvbYISd3d3Lm4ubWFlaWNzcmkuY29tghJ3d3cu
+bi5tYW9pYXNjaS5jb22CEnd3dy5uLm1uZWlyc2VpLmNvbYISd3d3Lm8ubWFlaWNz
+cmkuY29tghJ3d3cuby5tYW9pYXNjaS5jb22CEnd3dy5vLm1uZWlyc2VpLmNvbYIS
+d3d3LnMubWFlaWNzcmkuY29tghJ3d3cucy5tYW9pYXNjaS5jb22CEnd3dy5zLm1u
+ZWlyc2VpLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisG
+AQQB1nkCBAIEgfUEgfIA8AB3ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwl
+XceEAAABfdEUBkwAAAQDAEgwRgIhAJj+T2M+VLg8mV8svXm8CoClA8ZOJdnxGHKC
+MK3muz3HAiEAsrd/tBgc69spaaR7WEeGEsrwiAYps298hANG86vITjYAdQBvU3as
+MfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAX3RFAdzAAAEAwBGMEQCIHHn
+t0x7voS5yC44jE270buTrN2K/SqkMh192R8vuxz2AiA7c4LKUcUY2hn8A/jMEPVw
+zzLZz7i55cvJ/tKr/81f4zANBgkqhkiG9w0BAQsFAAOCAQEAfZq2Ws3Xl685WJoh
+lFnc7B/50vZmini8crKInGuXEG5qDwVGT+ANfrnZZ6R14F2XIDw5mnN+7TF9Wg8e
+/354Y8PFLRXmk6zkQ5suMfncUlHGqU7sxR4uI2YduQtXiQvqpr0FUr+HxbiKEp3t
+hk8zH8+iMV604A+uHNOO1TUbU6PFVqPpDzbE9XTVZDiZkikC2+4mHnwScd62Ug7c
+6HV9P7zdFpgh2tLjGgoCROVcRizpXiabVGDPnxqxppxCRwCQhM9RDdrj0Ss8AX/G
+Jeyjl/jckDpLggz0455G1dyoxGFubiX1WXq07znynCuNqi2rD2uG3O7IzqtyYZiI
+hUbrwg==
+-----END CERTIFICATE-----
+subject=CN = www.c.mneirsei.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4988 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

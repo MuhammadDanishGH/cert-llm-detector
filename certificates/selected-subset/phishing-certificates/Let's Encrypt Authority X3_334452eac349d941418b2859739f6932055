@@ -1,0 +1,95 @@
+https://multiversaltimetravelcloudcomputing.com/cibc/bank/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = multiversaltimetravelcloudcomputing.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF5DCCBMygAwIBAgISAzRFLqw0nZQUGLKFlzn2kyBVMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMTMxMjM2MThaFw0y
+MDAxMTExMjM2MThaMDIxMDAuBgNVBAMTJ211bHRpdmVyc2FsdGltZXRyYXZlbGNs
+b3VkY29tcHV0aW5nLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AMmCFqPTun5o43/K/JOIOIteWr39IusXojgC6w5a7YECtLehLNXpHcirlnwzl4xx
+F/QAwf+Tt2Y++3/NxoKZgRnTTy2M9afVudY1EjoItbZTk97zSIA+dBddgMd50u5S
+ZPJV6Wj1KLjVnNA7ucJ/QUbzVFLqZdNQF8I8tLX68OPe0ZRxUZGLyIzHu8pYzUFV
+9SD22MfroFUupHcJTFQxaPn5228qGhCbDB+DJrVcRvWQAY9aCtMelKFx8UI9XUwt
+jIqX68BcH5r5ksEBcOMAfUL9P9Xtu1nhh+++R5gGJ8YzaaQ8p+RiBomtl3oGBtRZ
+FwV7BKpn14M2ZVKN1xua4v0CAwEAAaOCAtowggLWMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUsGT33MHu40AsRi6V1YBa9UtUJdIwHwYDVR0jBBgwFoAUqEpqYwR93brm
+0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8v
+b2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8v
+Y2VydC5pbnQteDMubGV0c2VuY3J5cHQub3JnLzCBjwYDVR0RBIGHMIGEgixtYWls
+Lm11bHRpdmVyc2FsdGltZXRyYXZlbGNsb3VkY29tcHV0aW5nLmNvbYInbXVsdGl2
+ZXJzYWx0aW1ldHJhdmVsY2xvdWRjb21wdXRpbmcuY29tgit3d3cubXVsdGl2ZXJz
+YWx0aW1ldHJhdmVsY2xvdWRjb21wdXRpbmcuY29tMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAsh4FzIuizYog
+Todm+Su5iiUgZ2va+nDnsklTLe+LkF4AAAFtxVWDwAAABAMARzBFAiEAhM1LQWsS
+NcjnJFm8u+mrBMt5zmbayt22D9CkUGwqm3cCIE0PGwH2X2AwM8v7id9lCSlDRnZ7
+R+brecHJm8F6dkyfAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMA
+AAFtxVWE3gAABAMARzBFAiBCcuCGYgVzrbccTYjPNhVdo2yuV8XabbvHoRH+iJOm
+xAIhAJybcEiiRYmEhGo31mdUw4rsR3DRDDDMt+ieDEoh7Kn/MA0GCSqGSIb3DQEB
+CwUAA4IBAQCUJMsh76rQbRtaFUpMHo9ZZgCRds+l1QwAKWHWhyAdFwmPk8WjR5DM
+QVny55r2oijs3MD1SDvkUrmsdo2u5hCZvViX2egD0z/EktKuhThmcOvXncSbyVNq
+R4y+sNovIAxsK81KmW6sbZPJfrsPu6qcfUS5J5Cj9UsKbLYYG8avqe7oeEmBy178
+/hAHmgXpOXCBGRHcskXUQV/EGfS7xYvwW9GV46ryDIZh7bTh5MgedN/ignrRSJOF
+FXNfN4MdAeMG3ov/uRHk1asi7CTNzsT/ER2vglKMc8NV4VwgdylU+Yw5wa8aJBZi
+rL0FS1IdTXKlN3/QcwUTfy8djl+JqO12
+-----END CERTIFICATE-----
+subject=CN = multiversaltimetravelcloudcomputing.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3411 bytes and written 477 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 52096B40EB3CB4012BD186B86690F930E21FFD26D80825E76A589EFF556F9277
+    Session-ID-ctx: 
+    Master-Key: 30274E642E90A2C5C72566994ABD5E6B67473323292144947664E948E03DBF28C721CC1EFA46092C46E65A84036523ED
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 9a 6a 8a 82 56 80 ba 06-38 8e 1c 62 18 04 33 10   .j..V...8..b..3.
+    0010 - 8f c2 ac fc df f1 07 f2-15 07 d7 92 79 42 f8 03   ............yB..
+    0020 - 5e dd cb 96 c6 11 53 44-79 3b 05 52 4f f2 49 09   ^.....SDy;.RO.I.
+    0030 - c0 90 29 4e 3c 92 cb 85-6e f5 8b 36 a9 57 38 49   ..)N<...n..6.W8I
+    0040 - c0 fb 6a 2c 2c d6 58 11-90 18 54 df c0 60 db 16   ..j,,.X...T..`..
+    0050 - cf 30 a0 1b 38 42 76 7a-55 0e 67 db 9f b0 b0 45   .0..8BvzU.g....E
+    0060 - 6b 5c b4 46 84 49 b8 19-e9 57 91 66 5d b1 b3 3d   k\.F.I...W.f]..=
+    0070 - bd a1 45 2b 21 d5 1b 40-fb 71 3f a8 ce 2c f3 d2   ..E+!..@.q?..,..
+    0080 - 8f dc cb ab 84 b4 64 3a-f9 48 70 58 f2 52 bb ee   ......d:.HpX.R..
+    0090 - 8a 1b 8c 0b f2 21 bd 65-6c 32 ff c3 20 e7 72 e2   .....!.el2.. .r.
+    00a0 - 46 77 2e a3 bb ce 46 2a-ab 8b fb f7 f2 b3 38 92   Fw....F*......8.
+    00b0 - 76 46 d4 bc 0b f2 bb a6-86 38 82 3d b1 37 1b de   vF.......8.=.7..
+    00c0 - a6 ab 73 69 1a d3 84 02-f7 e3 8a f5 13 96 51 c3   ..si..........Q.
+    00d0 - 72 98 a0 d5 27 c3 c2 b1-b7 d9 3d 4c a4 8f a4 4a   r...'.....=L...J
+
+    Start Time: 1572444028
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

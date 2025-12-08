@@ -1,0 +1,91 @@
+https://paypal.co.uk.bdw1.top/n/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = paypal.co.uk.bdw1.top
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYzCCBEugAwIBAgISBAYZDfcYV/2PgmRA+KNG5UqIMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MjQwNjM3NTdaFw0x
+OTA5MjIwNjM3NTdaMCAxHjAcBgNVBAMTFXBheXBhbC5jby51ay5iZHcxLnRvcDCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANy3ieW9W7a2SihwkbCWQ4MH
+KUDUFyUAVYG2sm2TcxPQO1aZRvm2sRz/NtZ2QjgvXoaLfvJ9+0D0pYSFnIbwlLiZ
+8i4oChwDz6fUHx8MSd1ASicl/5MnxhkJg906wKdIy0vUU4Uh7Gu5srlDOXa4z9hJ
+Pz/RK9A81jOSIV6IsAb1PeXjwqpsvA+VAGyENctCFQeRyk6AcwOyRQUxdzr7Mp9P
+KegthZ20FJ8K6ADsxPHgXF7fRifyI5TYKnqQxS3UK2qb8QgKnmQHNdGW9bGjnzbd
+6Q9Maxue4mOW0JQ+ElScsjHjVfeP0c5/tV9y0SvgEsWnzB1FyJkrfERTU68YCjEC
+AwEAAaOCAmswggJnMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUchPr9PZk4/C93kw5
+GHd2goTH8jMwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYB
+BQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnLzAgBgNVHREEGTAXghVwYXlwYWwuY28udWsuYmR3MS50b3AwTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHz
+APEAdwDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWuIa4s0AAAE
+AwBIMEYCIQDLPk0fpYMKSJ9I7eE0R4cQzwvJHbXcuAJQioitbasKBAIhAMKQ4l8Q
+W/rthdeRUxe4Uk1UrlSaKMb1Dx0YCi4Wc0YaAHYAY/Lbzeg7zCzPC3KEJ1drM6SN
+YXePvXWmOLHHaFRL2I0AAAFriGuLNgAABAMARzBFAiBkFfMl1jTu3IAjQ5dtlY5z
+6rdGoC6i5y1Guxrj5Ybg6wIhAMhL47vJF1BBjhwvZFNGEP5aJcOL9f57DS0R1LIc
+urWEMA0GCSqGSIb3DQEBCwUAA4IBAQASxq6QFcx3VetymSqSKfEwWWOWo3qNdHnY
+iOMHd0vY2hKXbPzT/JZ/jBkfVA8jFY7+ppmmlZt3uzywcbhWQK8zM32XnlYAv2vO
+IHa/FCQvKvFe1qYV15pLW7K4iTSb0wkveegjNGXTbNLPDz9pyiVOxwjjakR5n4DR
+vvoEKWMRYp8iWuEo/beRvaZYtSBO39EDArFNb0cgekivSOBYj5SPalRYIfmXpl+8
+rxdgKYtiJQuSVmIt7licdBmblYzaK9lf98WFlSr9/bhSAPYXaRJKY11+sCVgP+oV
+Qkx6SJrjX5fH+3Sh0uOPlgiFy6rmDLn08hls7bCgatf+5tg7w4V5
+-----END CERTIFICATE-----
+subject=CN = paypal.co.uk.bdw1.top
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3266 bytes and written 459 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 08197C58F2ADF6C006FB3288DF1B12F368BAC1B3CE884FBA4DB48D2E0B7D1988
+    Session-ID-ctx: 
+    Master-Key: 4F04C3650213876FD6AC23B101F28B2DD8CE7801F1E00C25172653617A827829C383B5F0222BF22D30805B81FE10D5C7
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 83 47 e1 18 a6 49 f4 88-24 9a c7 b7 eb 66 e9 35   .G...I..$....f.5
+    0010 - 1d 57 7c 75 8d 7f c5 7c-b0 3f a1 b1 7a b9 03 41   .W|u...|.?..z..A
+    0020 - fe 8d ea cd 4d c9 f7 27-d8 7b 27 17 23 4a 37 21   ....M..'.{'.#J7!
+    0030 - 2a 85 d6 82 33 d1 f3 70-f0 70 2d 5f ca 34 17 fd   *...3..p.p-_.4..
+    0040 - ec cc 59 cb 72 2a 79 e0-d1 37 2a cc 83 51 6a d5   ..Y.r*y..7*..Qj.
+    0050 - 02 ca d8 4a e4 55 99 cb-eb 52 f9 49 30 4a b2 94   ...J.U...R.I0J..
+    0060 - 22 3d d5 67 80 93 aa f2-5b fa 19 2d 21 d7 bd f8   "=.g....[..-!...
+    0070 - 9a 04 5c a8 5e e8 65 55-94 8e 75 51 61 d5 e1 b2   ..\.^.eU..uQa...
+    0080 - 7d f8 09 2c 99 0b 13 d9-53 f1 f8 7c 76 9d b2 ed   }..,....S..|v...
+    0090 - 5b fb e7 06 67 de b4 2d-2a 33 3b e3 b4 2d f7 9c   [...g..-*3;..-..
+    00a0 - 96 f1 cc 0b 62 5c 83 71-2c 0e 46 0f 07 0e 6b 7c   ....b\.q,.F...k|
+    00b0 - ff a3 13 9d 5e a5 ca 4a-ba a4 90 76 b6 34 dc e3   ....^..J...v.4..
+    00c0 - 44 3d 60 ab 94 32 69 db-2c 65 46 85 9c bd 7c 34   D=`..2i.,eF...|4
+
+    Start Time: 1561467622
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,95 @@
+https://stakeitsimple.com//wp-admin/includes/swiss/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = stakeitsimple.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF/TCCBOWgAwIBAgISA9MR82cJsSyywAcZkBCDnLpeMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMjkxNzI0MzRaFw0x
+OTA2MjcxNzI0MzRaMBwxGjAYBgNVBAMTEXN0YWtlaXRzaW1wbGUuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA+EJ84ZIA/PuaEUPF/ur7TYfwY6/K
+RbMnYwdTZ5DTk0tvO8XYoeH8S1taL2LiJQvaR5cKPau+kBHJNbOulY6N0Ij9bprT
+6bSN/qKp1d4JbKOMIT8RBrvb3novgR3lpEj7bMGCntA7/EN7pyS+CkQi9UBHK5qj
+86gRwMmJqbVmHU2n/6U42xXMn2GG7bKhfxm0LXnuT2+PfvsBkPMrTTnN5mglugFw
+0WpCTHwzAmKg4kivvadKF8J4lqDCeLONQQR7raCmY1G9KaAr3vmg7h9SGhzSGZx9
+j9Mx6YYdq0N8uB25iL86evpmNVzN1i2IsBr4ZCcM7qZpLlEX+B5W6CqREQIDAQAB
+o4IDCTCCAwUwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSGeilvgOuiwbAQ6tQF3Nv9
+c0A+CzAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMIG9BgNVHREEgbUwgbKCHmF1dG9kaXNjb3Zlci5zdGFrZWl0c2ltcGxl
+LmNvbYIYY3BhbmVsLnN0YWtlaXRzaW1wbGUuY29tghZtYWlsLnN0YWtlaXRzaW1w
+bGUuY29tghFzdGFrZWl0c2ltcGxlLmNvbYIZd2ViZGlzay5zdGFrZWl0c2ltcGxl
+LmNvbYIZd2VibWFpbC5zdGFrZWl0c2ltcGxlLmNvbYIVd3d3LnN0YWtlaXRzaW1w
+bGUuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHW
+eQIEAgSB9gSB8wDxAHcAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMA
+AAFpyrJGtwAABAMASDBGAiEA8Yb0o/CWf+zf81SIpmmRc11XkUCTPykb6UTSPOi9
+n24CIQD07usFXx9WSDwzS7UXwfbZ1y/VnPWtIEnmyMoKQ5XI4gB2AGPy283oO8ws
+zwtyhCdXazOkjWF3j711pjixx2hUS9iNAAABacqyRnQAAAQDAEcwRQIgSjENHXbC
+jaIfW3cJqoSqmOyDncq55zohLHrp2g5PmWcCIQC5Xuf4A+dQ3XREuH8+goDE6xhr
+j0ICrgcvHvobl363ZTANBgkqhkiG9w0BAQsFAAOCAQEAIj/7/h7vCI+EusZdGziU
+OpW15H4q0x0uC+TaVAczb3rluRH/wfsh7imtbNrbG847n4RsdVlCCWYsmZxvfjN9
+iAcJBfDYU+EnvuKFoBcqe3OVVTG8kunvKnDH+Xb1EmbgyUZOXBYWqh7+aN/7E0jK
+uSmCcXK+VH4onjg6QWSnwbUb6jFgC1UNpLoEU8idFaLXTwn1i2fufKONWDXVcKb5
+tRu3Q3U7Kt4DOH+VwoPrXpJRSkMW/vy8ZFvfZtf3XBTQZvSlCXWpsEENF52yhjq5
+QIH5E/Jc371kNiT93wFPwTofERpFHEHUhgNry9n17iNABRwK78osgZpiPCHwHCyD
+cQ==
+-----END CERTIFICATE-----
+subject=CN = stakeitsimple.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3391 bytes and written 422 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: C2A76EB8C6043B339EF1BBB4E098C5E452DC3542740AE476DE1E5EEE5EAEF98F
+    Session-ID-ctx: 
+    Master-Key: 53D77D9CC162873855971729F9FA75F60E63DE9BB39786169E236762422367F9697ABFD58CEA4C408C075319EE2E93BA
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c3 7a fc 38 4f e1 a6 84-73 fd a1 91 31 44 3a 1f   .z.8O...s...1D:.
+    0010 - 9a b8 7e 9c dc 8a 7c 13-2a 80 e5 53 e0 1f 55 d2   ..~...|.*..S..U.
+    0020 - fb 8b 97 1b ca 17 11 c8-f8 89 ff a6 60 9b fd 91   ............`...
+    0030 - 66 36 02 3e dd 2e 5b fa-bf cb c2 04 21 a0 41 9d   f6.>..[.....!.A.
+    0040 - 2e 9c 56 29 80 24 04 8d-44 3d 27 d8 bf 03 66 dc   ..V).$..D='...f.
+    0050 - 0b a2 ae bb b9 1a d2 d6-9c 5d f4 9c 2f 91 5e 6c   .........]../.^l
+    0060 - 05 4c 74 17 f4 10 ad fc-94 72 8f 84 f5 0b 3d 45   .Lt......r....=E
+    0070 - 0d a8 dd 1e 1c 32 70 9e-97 31 e1 65 f5 5e e6 ef   .....2p..1.e.^..
+    0080 - 9b 4b 02 2c 45 f8 79 ba-07 08 84 80 3e 06 6e 06   .K.,E.y.....>.n.
+    0090 - e1 06 24 a9 a0 09 9b f8-dc c4 0a 3f 13 53 9c 26   ..$........?.S.&
+    00a0 - 73 d0 6a ba 46 63 36 f1-d6 2e 12 88 a8 bd 8a ee   s.j.Fc6.........
+    00b0 - 58 7d d5 b4 c5 a1 1a 48-81 cc 55 5a b7 3e 59 cd   X}.....H..UZ.>Y.
+    00c0 - 49 d5 1e 60 d9 fe 13 22-b4 b7 eb b9 13 2f 6b 03   I..`..."...../k.
+
+    Start Time: 1555592417
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

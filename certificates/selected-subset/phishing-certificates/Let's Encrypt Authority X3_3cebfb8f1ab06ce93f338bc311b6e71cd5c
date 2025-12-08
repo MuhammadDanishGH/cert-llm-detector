@@ -1,0 +1,65 @@
+http://kohgg.duckdns.org/idi
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = kohgg.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFizCCBHOgAwIBAgISA86/uPGrBs6T8zi8MRtucc1cMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MTIyMDAwMTdaFw0x
+OTEyMTEyMDAwMTdaMBwxGjAYBgNVBAMTEWtvaGdnLmR1Y2tkbnMub3JnMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoMaooRg4dqBRwZTtRwTQLkiZkJoO
+giVwFOX7OwCGn2cxPs1SYjgkn+fR4djkF16E6nYerAeAqCVULGre1GPyHTQi1jma
+WpeahtQKYniHu3QhIUbl/n3rJC1jzvqcYrFYZQgHTmVquUhCdS3eRglRsnBvr5zH
+5m9RNt3Q8hvhrdxAzM808QbciB7qxJW0o2NPsWszCTJ88ggXw/XH6GoiSasBkt/u
+K7408IhkQKoLOVDsucKK+z+YEBwBtWBM7unZG4sGbIJByKjIp2Np2Pyd/dZrvr1j
+dZWlSXHOyQwaS9rr/FyZDO876vEZ73PyJ5WPuG4fVpitiNsivzGqM1vpBQIDAQAB
+o4IClzCCApMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTX9a9uoiWi7jSbeP7YmfbA
+J2BcQTAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMEsGA1UdEQREMEKCEWtvaGdnLmR1Y2tkbnMub3JnghZtYWlsLmtvaGdn
+LmR1Y2tkbnMub3JnghV3d3cua29oZ2cuZHVja2Rucy5vcmcwTAYDVR0gBEUwQzAI
+BgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nw
+cy5sZXRzZW5jcnlwdC5vcmcwggEGBgorBgEEAdZ5AgQCBIH3BIH0APIAdwB0ftqD
+Ma0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAW0nRtkzAAAEAwBIMEYCIQDI
+gVWPsCpH3ee7uVduYjmu4N0h0Ppv8Z1vs1RsWglc1wIhAIQtbF7crQy6REXB9Znt
+gPEgRiEbrk6FpfAHkw95EbiEAHcAKTxRllTIOWW6qlD8WAfUt2+/WHopctykwwz0
+5UVH9HgAAAFtJ0bZIQAABAMASDBGAiEA93aq0CRGMbZrHke8qJ8uf4rc3g/uTBev
+imiqycJhJtoCIQC6rfn8qWBV18zuQwJ+5y5HQfsfOJpnG4XpPz76xc/5MDANBgkq
+hkiG9w0BAQsFAAOCAQEAk1I9+IMegpOElPrtLBjPx6TLMBwNmNiiWx5Zgqu4Ev2s
+jdp9VZp0Uka8ZoZOFcpUfv7AMKNgW+HCe8wOGKMIYjm7YqQYacTqIGji4i1mS8dG
+aBBR4muIBjWKW1lTIOWoiOjdAM24DXYh0YkZMqrb2T7jrscsFfSFK0ie8fts56Hk
+sZ8ZgCO0yI1dCgcu3rhFIRoQvst8pULKW5o4P/M8YVCPme8oPYY2fdBCKcnSvmVM
+YcZYi4KZLCX1Vc1LbJzEvyIRvVU20f4qPml3KpH3otTZ6/7nfYm1F6+eGi3/q8sb
+cBRhjDRUhu0feUmtdvHurgMRPIEwCg2VlVHTKaTUGA==
+-----END CERTIFICATE-----
+subject=CN = kohgg.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3092 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

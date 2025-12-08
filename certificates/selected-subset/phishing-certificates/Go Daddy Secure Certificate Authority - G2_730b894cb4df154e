@@ -1,0 +1,69 @@
+https://urinecleanse.net/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:OU = Domain Control Validated, CN = urinecleanse.net
+   i:C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", OU = http://certs.godaddy.com/repository/, CN = Go Daddy Secure Certificate Authority - G2
+ 1 s:C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", OU = http://certs.godaddy.com/repository/, CN = Go Daddy Secure Certificate Authority - G2
+   i:C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", CN = Go Daddy Root Certificate Authority - G2
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGRDCCBSygAwIBAgIIcwuJTLTfFU4wDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMTgwNjAzMDMyMzQ0WhcN
+MTkwNjAzMDMyMzQ0WjA+MSEwHwYDVQQLExhEb21haW4gQ29udHJvbCBWYWxpZGF0
+ZWQxGTAXBgNVBAMTEHVyaW5lY2xlYW5zZS5uZXQwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDcAabF8luRKuRuI6STKliJpNip4vVkEePV05S54B9o0VrR
+Mq2RxFsWI1PKY1EVR5UqnOnbbLd/fyDXWtRu2Nv/Yi49cfn7PkVDIWyTvXJl228+
+Wt5Z1IMx9VnmtwfLBTS5MRdz+BF2kypd1yrKRuEh84nVXdEhx7jEu7jpkge4Frtk
+HaLS1DTygXNUFUKDNhIASwYiucgktges8mIiSOEL2YB5JgWa7p8+TNLv+3Y3Ax7l
+P/HTQ8k8qeQZhBqJVt2raUXN7e3yzPxJQXwamO+t1aBkMItGumkTmrvXjuUqTzJB
+B3xSlVUVBxUFHfPqJXpTmY7DMzavrbH6VYa0JooXAgMBAAGjggLNMIICyTAMBgNV
+HRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAOBgNVHQ8B
+Af8EBAMCBaAwNwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5nb2RhZGR5LmNv
+bS9nZGlnMnMxLTgzNC5jcmwwXQYDVR0gBFYwVDBIBgtghkgBhv1tAQcXATA5MDcG
+CCsGAQUFBwIBFitodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9z
+aXRvcnkvMAgGBmeBDAECATB2BggrBgEFBQcBAQRqMGgwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmdvZGFkZHkuY29tLzBABggrBgEFBQcwAoY0aHR0cDovL2NlcnRp
+ZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5L2dkaWcyLmNydDAfBgNVHSME
+GDAWgBRAwr0njsw0gzCiM9f7bLPwtCyAzjAxBgNVHREEKjAoghB1cmluZWNsZWFu
+c2UubmV0ghR3d3cudXJpbmVjbGVhbnNlLm5ldDAdBgNVHQ4EFgQUMPRAx5hsJ4Em
+uOD/JAgu5P4I35kwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgCkuQmQtBhYFIe7
+E6LMZ3AKPDWYBPkb37jjd80OyA3cEAAAAWPDrEdtAAAEAwBHMEUCIFyWyzO0U/h/
+rRFLauJeowxB72f94svPcQu+XFHDJduZAiEAgZeWroJKmQA+CY/0scjaLTlIQgrC
+mUzgc6xSoIb9vKEAdwB0ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAA
+AWPDrEo+AAAEAwBIMEYCIQDhyQYxS1gPXyBDoqaHkQiQaNcAuqd/dRD7UKU8876Z
+BQIhANM9cOg3+n1IWmRuvNSzoV1VN183Hg+dkXVvCPGpBavYMA0GCSqGSIb3DQEB
+CwUAA4IBAQA5MJKcxdAjt7NSKsTGmNhTbmVi5+WBanQAnOtN/PHYSFtqUAJHZHFf
+UdNDf0ifLd2n/UVkH6ze48MikEtl+laQrS3fKEukCR/LfSh62vbVIJW5JGRZMtdJ
+rJGquQWp8accyAO36DfhaMmQo47MW8LmUUP3f1tEPqWReljuQ2YPZ2TukDlnH4+k
+AQMU6BT6d3JluRzdMpedA3qVikTvfaVJ9lIuo+3tZ+sumk49ZSshce5xs73iK7Yu
+FPe+znY0SHhOfB6EOoZdOD17zkg0iJ1Wy89JiNyn3O6eB6B4qNZ3ugNvaunusjv3
+4QW0Jj+o33dbd72Pn8+BbEnG4xUYmMdJ
+-----END CERTIFICATE-----
+subject=OU = Domain Control Validated, CN = urinecleanse.net
+
+issuer=C = US, ST = Arizona, L = Scottsdale, O = "GoDaddy.com, Inc.", OU = http://certs.godaddy.com/repository/, CN = Go Daddy Secure Certificate Authority - G2
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3405 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

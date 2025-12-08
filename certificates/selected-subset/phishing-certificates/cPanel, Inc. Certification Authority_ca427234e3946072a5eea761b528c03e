@@ -1,0 +1,77 @@
+https://irsid19govcmpny.cmpnyiscvid19idgov.com/home
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = irsid19govcmpny.cmpnyiscvid19idgov.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHWTCCBkGgAwIBAgIRAMpCcjTjlGBype6nYbUowD4wDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTEwMjAwMDAwMDBaFw0yMjAxMTgyMzU5
+NTlaMDExLzAtBgNVBAMTJmlyc2lkMTlnb3ZjbXBueS5jbXBueWlzY3ZpZDE5aWRn
+b3YuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7Z3B82ZYb1OX
+3uXRxJvXW8VAGJ4yUef3M+v6ZvL9qYnnikLemH/diX2LSWqTUUJ9+1w/ZOKzJ+aw
+Y9OnxESPCBiVUjSXmperjqBXu31J8ICZ461ulQdqLXR3PSAhMdimf3Qr5xPinS1r
+6u4UQnNd7n882fmIzNeBpImcQ4wGvHsS9UohTakKVSwtOTqqYTGmXPmdzcZw0CDJ
++/P3iCHsQfx92vpy0/oesZQ+FM+0b3oDXCcmrtp78JWZ8C5lRNeQOnsesZjvi3V5
+MiqJ3P6QzXJs7tYsFFYwC/xliookReK+so+Bz+RSSiAxyn/BsCMgwoEzAbfsld7P
+X/AwrF2n5wIDAQABo4IEKTCCBCUwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOod
+jh1qx2UwHQYDVR0OBBYEFNdjQ8NR3OhaPo1fD/nW49SnVmw4MA4GA1UdDwEB/wQE
+AwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBz
+Oi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjto
+dHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0
+aG9yaXR5LmNybDB9BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9j
+cnQuY29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHku
+Y3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEEBgor
+BgEEAdZ5AgQCBIH1BIHyAPAAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8
+cP5tRwAAAXyfAh/NAAAEAwBHMEUCIQDVdaivjHkbE54qyA0dSYRdJeJtr+1+sOVa
+XruacWyg0QIgfUZkjh1RfczSiggZqg4K1akJCtyyn17a8cWKTPOz6RoAdgBByMqx
+3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG9gAAAXyfAh+PAAAEAwBHMEUCIQCP
+QWfjjQwuRsY3S9Ok3rJic2itfgmVjRfZascoV2V4cAIgR6KP/4br2zCDXIVSO2yz
+XCY2OyG1qY0rjjMR2uUC4zowggGEBgNVHREEggF7MIIBd4ImaXJzaWQxOWdvdmNt
+cG55LmNtcG55aXNjdmlkMTlpZGdvdi5jb22CLWNwYW5lbC5pcnNpZDE5Z292Y21w
+bnkuY21wbnlpc2N2aWQxOWlkZ292LmNvbYIyY3BjYWxlbmRhcnMuaXJzaWQxOWdv
+dmNtcG55LmNtcG55aXNjdmlkMTlpZGdvdi5jb22CMWNwY29udGFjdHMuaXJzaWQx
+OWdvdmNtcG55LmNtcG55aXNjdmlkMTlpZGdvdi5jb22CK21haWwuaXJzaWQxOWdv
+dmNtcG55LmNtcG55aXNjdmlkMTlpZGdvdi5jb22CLndlYmRpc2suaXJzaWQxOWdv
+dmNtcG55LmNtcG55aXNjdmlkMTlpZGdvdi5jb22CLndlYm1haWwuaXJzaWQxOWdv
+dmNtcG55LmNtcG55aXNjdmlkMTlpZGdvdi5jb22CKnd3dy5pcnNpZDE5Z292Y21w
+bnkuY21wbnlpc2N2aWQxOWlkZ292LmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAQLXK
+Xgtm7FXLu+Rw4o3nSdrLWJ+54sRQUgQpG9AKfg5DZv7/heAUbzY+Azh2UVe1sOwi
+lSvcw6f2i5dQYh5XOeMmVS1XY2e4UyhTRWZs5IuR1NUvBwLTyfbPY/ZqiBRlQGKc
+ArODITw2DJpW1q4XY4uZ9jnZoDk2GINt0ew4mY6ezmXzaTpn8uzzub0Afz6yM+Iq
+7M155T2zqMdejDLltQfkffzAyKt39WvmbB6hv5i3mHAzT+w7Eux8y8otrzjOzrfR
+8Hzb6EPkDjocZE5f4v4W4wAqQpdgldmAi8WddZlZVqJhcmoWK7tvh/AWRbVZ5N6O
+C3COqDH/7874xIybBA==
+-----END CERTIFICATE-----
+subject=CN = irsid19govcmpny.cmpnyiscvid19idgov.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5390 bytes and written 412 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

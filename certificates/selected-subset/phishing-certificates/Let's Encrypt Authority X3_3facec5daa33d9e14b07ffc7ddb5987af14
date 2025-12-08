@@ -1,0 +1,97 @@
+https://enlevementdepaves.com/INC/Security/Customer/PPL-LOGS/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = enlevementdepaves.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGYzCCBUugAwIBAgISA/rOxdqjPZ4UsH/8fdtZh68UMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMTAwMjAxMjhaFw0y
+MDAxMDgwMjAxMjhaMCAxHjAcBgNVBAMTFWVubGV2ZW1lbnRkZXBhdmVzLmNvbTCC
+AiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBALr+pNXonJquRi4aT/7dCbAH
+iHYTZZeVmX+gDj2zhNbp7mIRJDFFklrlYfvhibt/6s/a6haosk6HnqRIIQ/mhCAr
+BLYV0MrzgMQvcaBBlCKkSg5Yn2JItQBN8FjBXoEvSpzwpThIWo+TtL/OOMoivUrN
+DVVOiu8SaoSOTztslKC/EvQmeOA+zZXmlekePydj9QgQE4X8kQNnylAvEchV2vQ5
+ijMHv1b9XlsW6KaSNf1hOt7ZEsSwJIeMPlnEvprTy6N1ayJxAXgcgd7LtJ6pOVTZ
+pGtuOeEwVLoSvPrTp2g1+23hyloGX1x/QaesEjqYR+PbnpFjHY0Ox/lm21HbUPmP
+vkRTeg6t5XMoYHAfNU0dlKxlji7xXqzDLehMVQxEV87nHCpqgVGQqAWaUGkw1vZy
+zsnDrt2I/BhMPyZ+wRm8n9YUPYQ1MQD10RYvCpKr1o3YwGm0N6eAbV9yzgwXBKue
+p28ff1nPmsrExzDtk6KrX0FR7w2RUnvglc1tDTafn6HboRljlOGA9RcR+4VBtrHi
+CEQqoQ0N7MUShC4IbwZGVnhKq9KB2ZdwEwCKSyzzMBLBEW6ulUUCXOdc0/NMMRWe
+hnSRzPVilcRtFgZhqOQBivOrsM4HvFJlU2+wLNFu7PA43nvGVJVOV1/5fWqErNGu
+vHuHGeg9wz9y8ilkVZjHAgMBAAGjggJrMIICZzAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFJvdYRXsjDXjVtAO1ki4yLJwv61PMB8GA1UdIwQYMBaAFKhKamMEfd265tE5
+t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29j
+c3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2Nl
+cnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8wIAYDVR0RBBkwF4IVZW5sZXZlbWVu
+dGRlcGF2ZXMuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEB
+MCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYK
+KwYBBAHWeQIEAgSB9gSB8wDxAHcAsh4FzIuizYogTodm+Su5iiUgZ2va+nDnsklT
+Le+LkF4AAAFts507SwAABAMASDBGAiEAzFe7V2nMtb1sJlX7IES+MAg/TcvM9A09
+srgcdq7t3RACIQDgmItro8U/AEFFHVXQgx0WGqx7ORpaiuTVA7/hkPw3+AB2AG9T
+dqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABbbOdPfkAAAQDAEcwRQIg
+JnNDa9z5xKcHpeIDSURBsuVNsEvSde3K/qZCZ7fUK54CIQD52N2GXYukwZNXARWo
+VA4hTuMlX/a5OshHm/LJ3Ck5pzANBgkqhkiG9w0BAQsFAAOCAQEAeHOgEWNcVVIQ
+qFixr5r5KXvfOJ23coQmrZ4s4fpJHxqUNXmNECvRLUbx3IvBG+donOtumrmNwlKL
+Z4nWUKRex+3D9nyPCel4V3n4AXOR2gHNrmZhq6u4+AoS+JcKojJdFpyd6G863wW9
+HY9/HUbq+Dqb94tOlFe162uXIAoM2qwln/10onsG9tPh/66XvrQWLs2Kj0h8yJG4
+5wIupfY2dOl6sASl/Ce31XNOUbqnB+Fo0OJIlfLiQQZsC8Dw48ygQmAfaSTQ6BoX
+J6Onxi3iycah2N31+ke/hz+naCU/qwYluNKPqXDaGiz7VOGFNx2GWPcD4Pz8zI71
+I1sNbEHhBQ==
+-----END CERTIFICATE-----
+subject=CN = enlevementdepaves.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3778 bytes and written 459 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 719A39D7DE1908A03EF3A44E5D87C9DD47FC8E75F1C6A82332C0FD9CBCFB2240
+    Session-ID-ctx: 
+    Master-Key: 47656032F43AEF6E57BEC342C7A24FC99C2027A67DCA9EE3F1BCFBD4CCD59CA444F1BA7103C58229DE95A70CD2363831
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 06 a8 71 d5 c8 a0 9f b3-4b 12 9d f9 f0 df 58 4f   ..q.....K.....XO
+    0010 - 5c 65 8c fd cc 1c 2c ca-0d ef ba 6c 1c 30 a4 f6   \e....,....l.0..
+    0020 - 4f f2 cc f0 44 7d dc db-e7 90 9f 46 d8 60 b0 aa   O...D}.....F.`..
+    0030 - 79 92 f8 5e 1b 8c 35 ed-04 13 5f e8 cb 7a 86 24   y..^..5..._..z.$
+    0040 - 99 1d 93 ef 57 8d 61 92-ec d0 61 98 cb 9f e1 da   ....W.a...a.....
+    0050 - ea f9 b3 26 53 e5 6d a4-a0 41 5b 7b c2 4e 43 03   ...&S.m..A[{.NC.
+    0060 - 11 2b 7b 9f af 95 85 f2-54 0b f7 7e a4 73 4d e8   .+{.....T..~.sM.
+    0070 - a6 b2 e4 ca e8 d0 20 fc-9a 63 df 1e 0f e9 bb ec   ...... ..c......
+    0080 - 9e 76 48 9c 41 98 d1 7e-f7 59 39 b9 1b a6 09 71   .vH.A..~.Y9....q
+    0090 - 33 71 d7 9f b8 cf 51 2b-1a 4f 15 45 28 e0 b5 f5   3q....Q+.O.E(...
+    00a0 - ea 6f 5e 6b c8 92 e8 cf-e7 6f b6 1f db 54 00 64   .o^k.....o...T.d
+    00b0 - e2 20 56 15 eb 92 b8 59-0b 97 f5 4b c1 d3 0c ee   . V....Y...K....
+    00c0 - bc 62 61 c7 31 7f 7e dc-3b 2e 69 2b b1 93 00 ee   .ba.1.~.;.i+....
+
+    Start Time: 1571144431
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

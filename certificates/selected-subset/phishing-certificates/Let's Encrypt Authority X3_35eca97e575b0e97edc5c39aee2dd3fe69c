@@ -1,0 +1,97 @@
+http://mobile-venmo.com/account.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mobile-venmo.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGbTCCBVWgAwIBAgISA17Kl+V1sOl+3Fw5ruLdP+acMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MzAwNDQ1NDJaFw0x
+OTEyMjkwNDQ1NDJaMBsxGTAXBgNVBAMTEG1vYmlsZS12ZW5tby5jb20wggIiMA0G
+CSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDGSVZs4TzSxh983X98QCIUN2u7YTep
+y3FMKkSDTkNq1aYoll3dNMchxk4bPVqpqiZQe+LahD51VF2Cv51b5B5YT3VOfFqI
+5sNZ8UtUQRB84KfVYDSrrPeOthZeIC0vTDMPnAdhUV1YN3E6a4vyZ4POSpToM911
+CBSljn2ynkcoX952xj4kX6uNK8Ss4n2PHV9bTutDbXzRQCO2Y4uTy937c1fzlbu8
++W2oPmxrsjdAGRg3hGylF1EcZiDzMAWq/KjC/BAP3EopP1fWug7x3viyLjh2EGob
+dgXJeAwFTzI8Zl/f0xzanOObKm+UbJ0dw34/D6srXpQ+LM4tezmSVFHC0N968Nxw
+W36dxkT4HYZf8Rq2XmHj8eTQjFATRt7Ouye65x7YdeQ3QZFcjaXND1zhC80Rd5O4
+jOa9hBbLnGqp3139JMKsKZykCcfcx2tnpqvfV8KuacRyhjGKcgMqwSDwcvM1Sjz3
+6Z1ZlzNj+QGjBIHy6KrdREf7+WxMZgHxjnkXzRwFdwztqlhMoxmiyfeEubSkyzQj
+2xvpM14FvxTF50Y1VxEYKSiXDW8mElDzu/vMB4sU0WwHzi72McVIkLfKdzB6MfUC
+yToBUFja/+7afQvQalKQWCkzYvBtTVf060eHiJqiIMzfhPjjhFPlfWr1jHPVkg6g
+TNSKFmFx5jIaPwIDAQABo4ICejCCAnYwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRp
+BM5LZg4pYOMMzy57+ysaHD5NsDAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv
+86jsoTBvBggrBgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmlu
+dC14My5sZXRzZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0Lmlu
+dC14My5sZXRzZW5jcnlwdC5vcmcvMDEGA1UdEQQqMCiCEG1vYmlsZS12ZW5tby5j
+b22CFHd3dy5tb2JpbGUtdmVubW8uY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcG
+CysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5
+cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYA4mlLribo6UAJ6IYbtjuD
+1D7n/nSI+6SPKJMBnd3x2/4AAAFtgLP+ggAABAMARzBFAiBQzJiMr2T7rJkBpwJd
+Cpt7ZIKeU4nomB7AbCBNyZeywgIhAPsxtlrAcAr9mNRuSx0lUt4Xgblf7mZde7HT
+YMHVEgA0AHUAKTxRllTIOWW6qlD8WAfUt2+/WHopctykwwz05UVH9HgAAAFtgLP+
+eQAABAMARjBEAiBRZsKfshbUz9NRX2KAtuu0q4YgufSZ94oODhiT+xlfPAIgKqhZ
+3ZR3CgmQGR/EoSPXHtxSrERHyIpNZjFcaRXdsakwDQYJKoZIhvcNAQELBQADggEB
+AE4HNrHYG3T6F8MYTi1C9tNkMZmqe9LIhdEDAfg4vjXsCHHPjlXNSG0QImCuQ4+P
+9RAyPmIzWYBB7dhyng1opszBtYE7c9pDCbIdop2yrrm2fTr//HsYASGizSxqs3Sw
+Y5pZkB+PQaj4mI0Ym/rvobA+jbtmoOf1titb3E07YMAd+x9nzrbztmMkIDfgbVsw
+0+3AQZo7cewu/5Qd0cjLGOAP9K5c05+OTtZ2qbiDHE2QjKeU8c1VDDyoAQx9hoHB
+fXe1Om+B6E8nTzsGFNScWSsEx4Tc2A/hHl2Q0NYlMhejOnBE3TP21ECsIgi1bpie
+y4Xdlay9ykGhM0K9COJ6XE0=
+-----END CERTIFICATE-----
+subject=CN = mobile-venmo.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3759 bytes and written 421 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 76ECB74C5A786BFEA9E08B0CCB3DDA936D7371D493E3BA3A4F17CCE438B7B6B4
+    Session-ID-ctx: 
+    Master-Key: C8CC0F1B9DD8D97D9988E75824562A36C6348CF5380CFD3F0041DBEF8F895C4BCA2C8068279B527DE6BD5C4B8E3C8D34
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 1f 78 65 af 5d 19 54 d4-54 85 13 40 00 62 42 ad   .xe.].T.T..@.bB.
+    0010 - f2 1c c8 e8 58 a6 2b 97-31 05 44 e0 0a 4e 62 3e   ....X.+.1.D..Nb>
+    0020 - d0 d3 b1 1d 7f fd d9 90-5a f7 42 f3 5d ed 9f 56   ........Z.B.]..V
+    0030 - 72 b2 22 ea 58 f2 72 ea-5d d0 cc 47 c1 ae 7a cf   r.".X.r.]..G..z.
+    0040 - c9 cb 56 8a 3d da f3 36-18 0c 5f 0e d0 55 b4 89   ..V.=..6.._..U..
+    0050 - b8 0d cf f1 9c 56 6b 4f-e3 8b 68 ad 3f 45 2e 6d   .....VkO..h.?E.m
+    0060 - de dc a0 88 8d 21 f5 66-03 08 b1 7a 94 e7 45 a9   .....!.f...z..E.
+    0070 - 2b 79 86 74 9e 96 b4 81-58 86 a7 90 39 2a 20 f4   +y.t....X...9* .
+    0080 - b2 ac a8 7e 35 5f 1f 74-a2 f9 f1 2b df ac d4 b9   ...~5_.t...+....
+    0090 - f6 b6 be b2 d5 52 e1 90-5d d2 b0 e7 56 ca fe 9e   .....R..]...V...
+    00a0 - 50 8c 69 3f d3 f7 54 d7-f1 3e 7e a3 72 be 4c bd   P.i?..T..>~.r.L.
+    00b0 - 24 58 30 94 53 b4 b0 b1-30 e9 0e dd 74 da 12 b3   $X0.S...0...t...
+    00c0 - cf d0 a8 49 22 d6 46 3a-0b 67 24 74 19 b5 60 4f   ...I".F:.g$t..`O
+
+    Start Time: 1570021225
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

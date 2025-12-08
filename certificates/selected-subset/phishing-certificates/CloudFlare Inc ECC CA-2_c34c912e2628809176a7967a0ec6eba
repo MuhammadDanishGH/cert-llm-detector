@@ -1,0 +1,62 @@
+https://musiccoinminingpool.top/CH30/chase20191/login.php?cmd=login_submit&id=434037f67644d8806f1ea228e8fb72e5434037f67644d8806f1ea228e8fb72e5&session=434037f67644d8806f1ea228e8fb72e5434037f67644d8806f1ea228e8fb72e5
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = sni.cloudflaressl.com
+   i:C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = CloudFlare Inc ECC CA-2
+ 1 s:C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = CloudFlare Inc ECC CA-2
+   i:C = IE, O = Baltimore, OU = CyberTrust, CN = Baltimore CyberTrust Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE/TCCBKKgAwIBAgIQDDTJEuJiiAkXanlnoOxuujAKBggqhkjOPQQDAjBvMQsw
+CQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDVNhbiBGcmFuY2lzY28x
+GTAXBgNVBAoTEENsb3VkRmxhcmUsIEluYy4xIDAeBgNVBAMTF0Nsb3VkRmxhcmUg
+SW5jIEVDQyBDQS0yMB4XDTE5MDQwNzAwMDAwMFoXDTIwMDQwNzEyMDAwMFowbTEL
+MAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1TYW4gRnJhbmNpc2Nv
+MRkwFwYDVQQKExBDbG91ZEZsYXJlLCBJbmMuMR4wHAYDVQQDExVzbmkuY2xvdWRm
+bGFyZXNzbC5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASIN9oV08YGOZfC
+eFqMEqjzBk+yyuSljQpShliMHYUC6WXZWQZ2sB4HSZLoUuES1puBLpW3R2GFSEJg
+pn/MyJCbo4IDIDCCAxwwHwYDVR0jBBgwFoAUPnQtH89FdQR+P8Cihz5MQ4NRE8Yw
+HQYDVR0OBBYEFBz1N/XLgnH2r2X71BDaFg440klgMFQGA1UdEQRNMEuCF211c2lj
+Y29pbm1pbmluZ3Bvb2wudG9wghkqLm11c2ljY29pbm1pbmluZ3Bvb2wudG9wghVz
+bmkuY2xvdWRmbGFyZXNzbC5jb20wDgYDVR0PAQH/BAQDAgeAMB0GA1UdJQQWMBQG
+CCsGAQUFBwMBBggrBgEFBQcDAjB5BgNVHR8EcjBwMDagNKAyhjBodHRwOi8vY3Js
+My5kaWdpY2VydC5jb20vQ2xvdWRGbGFyZUluY0VDQ0NBMi5jcmwwNqA0oDKGMGh0
+dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9DbG91ZEZsYXJlSW5jRUNDQ0EyLmNybDBM
+BgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3
+dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjB2BggrBgEFBQcBAQRqMGgwJAYI
+KwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBABggrBgEFBQcwAoY0
+aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0Nsb3VkRmxhcmVJbmNFQ0NDQS0y
+LmNydDAMBgNVHRMBAf8EAjAAMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYApLkJ
+kLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFp+PmyxAAABAMARzBFAiEA
+wZSZtBpe697hjhKTSUXrFp0CoMl0OuoSF27co6z86NsCIHqrqzz/Z72hh/RFApus
+R3dkm2g3Px1EJQsDpYlfKj9kAHYAXqdz+d9WwOe1Nkh90EngMnqRmgyEoRIShBh1
+loFxRVgAAAFp+PmyTwAABAMARzBFAiEA2YZbTg3zaBM8fACHViuOBDWFjsahm2MM
+gWKbot6LERsCIAZAXLLSAjLDsHCAh4ukdmUMQEVdLmcwXagXsx4hk5esMAoGCCqG
+SM49BAMCA0kAMEYCIQCiS1R3hbs1B6Rm9PFluHB0iz9cyHskI6LMSEMjuTgSIgIh
+AKX9xlbptR+unR/tuObOv9+TWqyKWYJ4LKJoiozj3Ujr
+-----END CERTIFICATE-----
+subject=C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = sni.cloudflaressl.com
+
+issuer=C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = CloudFlare Inc ECC CA-2
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2525 bytes and written 415 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,71 @@
+https://homegate-mieten.com/homegate.ch/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = homegate-mieten.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGRzCCBS+gAwIBAgIRAODNxS4VVoasWQHkQaUDwHEwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMTA3MjIwMDAwMDBaFw0yMjA3MjIyMzU5NTlaMB4xHDAaBgNVBAMTE2hv
+bWVnYXRlLW1pZXRlbi5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDjTULiJoke+q9zGKXhVpVjAiG4NpVBdm2qZgDi9TvCamtpPZFfXw2IHpStqkDG
+UOQqogwMGUOWbGgO45jRBMPjON4zAvhJ4zA2ZHFR7cIHRBPaWuC+gr5hL1jZx4F5
+bo1IAZ/WVo5nSFWd4ZNpTU+qK+rEGR3rroNRnPP76H0pAEPRFb5loux2UK+yHuC2
+9LY8/vzBtxzZaDRW0ZAPTEXDFt3TF8fR1GjVvvYHU4OIdUK2FwgHXTc70tnAuiHT
+k6n8+ScAjiXRez0KJgVZUDtefGtBe/JGrjNWy+JO0henh/WEZd8PN2YoD5dLblF8
++/GmFqjE1roj5cR5geQQPzkvAgMBAAGjggMMMIIDCDAfBgNVHSMEGDAWgBSNjF7E
+VK2K4Xfpm/mbBeG4AY1h4TAdBgNVHQ4EFgQUkNw4RRPRRsqrne1rlYow9f1sVnEw
+DgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAjBggrBgEF
+BQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGEBggrBgEF
+BQcBAQR4MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20vU2Vj
+dGlnb1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYIKwYB
+BQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMDcGA1UdEQQwMC6CE2hvbWVn
+YXRlLW1pZXRlbi5jb22CF3d3dy5ob21lZ2F0ZS1taWV0ZW4uY29tMIIBfAYKKwYB
+BAHWeQIEAgSCAWwEggFoAWYAdQBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8
+cP5tRwAAAXrNM42yAAAEAwBGMEQCIHPhi7Elg9WT6D3DCbHc83AwobXfCeN9wEip
+XgdH9apgAiADBWO7O2ayAn8cBt/w1IRbEsoUIsBSdNIIjvZl8oUe7AB1AEHIyrHf
+IkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABes0zjXgAAAQDAEYwRAIgQTlw
+5FFYOyP3EjwPz2FcghJ21FIWMDeVJfzS0wGd+Q0CIDW7Ge5wr6PymzH23AsWA6c4
+FYJdxULeQHw/so/UBrOBAHYAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVd
+x4QAAAF6zTONTQAABAMARzBFAiAI7afzsjK7iLXYKOMO7zEWmdDgZFFbFm9jpckw
+936mrQIhAKfcZK0fZM3d5dKg1KAnF9UDUPwKcPHRa5ua3wTHgKBzMA0GCSqGSIb3
+DQEBCwUAA4IBAQCDVQ1X/MqIMZ0q/jFd5uVP9faO0HH9RCNvhgYaVXA3isjcxm88
+E3ji/yOyoPbiz2gmdsvmb8UKRV7byvp2Wth6igFmMDJxqFDgPeEERm1qLmxLxcOJ
+sZpL+4tQfocVbhqs68Lnw7Gftwpdh8a8hBygrasYuXgCoAcO2RDD8nj9i3O45KhI
+y7f0s4FMZsl65u4UC/PxKQytxzdolJN0snx364dYL0nJmFZXh81oESA915Er4UOV
+NcH1SImpHQgvTze/KiH5VAC+oSo6PjsHlUm1qE11ajmU8r2EXRTHKv3lGIqXt9eE
+BeAgTN9cY+YD1/L4e2PCJG/aSNmvAnXiXrkg
+-----END CERTIFICATE-----
+subject=CN = homegate-mieten.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5153 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

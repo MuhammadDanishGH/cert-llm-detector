@@ -1,0 +1,74 @@
+http://viralcrot15.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = viralcrot15.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG0TCCBbmgAwIBAgIQTA5tMZFQAtGlsgqInzsTqzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDcwNzAwMDAwMFoXDTIxMTAwNTIzNTk1
+OVowIjEgMB4GA1UEAxMXdmlyYWxjcm90MTUuZHVja2Rucy5vcmcwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDKDJ1RwbYDiAwIbbodf75DcLdhtUW3Q71G
+Miw8xcpQlw3KWxDl9rxTU6xmPyHJLElJigbE9B1XyoImPHDzNR1FT6rv8wcXYzep
+B/GRe1aXfrM5l/qCrhFhTxqtMn9ABiO201CfdLSg4W0hZBiK0vF+3zlOZTlIrle+
+jMVpEMGpcdzdk2yXhH6+UqWKbr9gg7/5uAlZBSuyjuEy9f0uBIgRgj78orvQBsUp
+Ma9Q2G8M80scMYfZsOk6VY3uIFA4gy6HFeFaiyef6PnSs/PxHJF3Io9kCnkoyagi
+/bpMZzmn0sLmRxWX3P0GJBW/anoFej0ybMg3MT205YowHsobgxURAgMBAAGjggOx
+MIIDrTAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQU
+/sVNESMdHzkRLFG7V8gGAgx7u7wwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQC
+MAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYL
+KwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9D
+UFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2Rv
+Y2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsG
+AQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGG
+GGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQUGCisGAQQB1nkCBAIEgfYEgfMA
+8QB2AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABeoEB4RwAAAQD
+AEcwRQIhAKdbE5IZhuTr6K92UDwit9L2LbAlL6S0iKaIkSvAnQISAiB7voEklidX
+ZJuS2HUoWywc5ra5JDhBZV4Mloz3KaW6qgB3AESUZS6w7s6vxEAH2Kj+KMDa5oK+
+2MsxtT/TM5a1toGoAAABeoEB4SIAAAQDAEgwRgIhANCDZ5maIVNwCAJYMTEkcVjF
+4A1H9aZXCtF8IVOcV0xCAiEA81Hv/++ICSnL/vT4m6gvWzAgOYdiCv+VN6AlhTp6
+qrswggELBgNVHREEggECMIH/ghd2aXJhbGNyb3QxNS5kdWNrZG5zLm9yZ4IeY3Bh
+bmVsLnZpcmFsY3JvdDE1LmR1Y2tkbnMub3JngiNjcGNhbGVuZGFycy52aXJhbGNy
+b3QxNS5kdWNrZG5zLm9yZ4IiY3Bjb250YWN0cy52aXJhbGNyb3QxNS5kdWNrZG5z
+Lm9yZ4IcbWFpbC52aXJhbGNyb3QxNS5kdWNrZG5zLm9yZ4Ifd2ViZGlzay52aXJh
+bGNyb3QxNS5kdWNrZG5zLm9yZ4Ifd2VibWFpbC52aXJhbGNyb3QxNS5kdWNrZG5z
+Lm9yZ4Ibd3d3LnZpcmFsY3JvdDE1LmR1Y2tkbnMub3JnMA0GCSqGSIb3DQEBCwUA
+A4IBAQBRPJGdWzBXh+RIiNBTqFl4qPdu2RzZq63qv8hOiqONJPAjUJGxXbxBXhTS
+hBL1sJZilk5wDPHZtEzNoKrfRYOFezmbXOGrzGboq1t9CRMlE6wiyxxvUxX+UtHi
+Lu4lyKVyu5xerGYtgUA8GfbFdPOoWWpnQ5F/ocdxHd7uTwwmXJUbqhuE0OD1dbIf
+uBns/g+S5bm7I5A+gCJAKLqUnJD4uEhU2SKbOuj+//tOBBtHDYW89CXJ/4NFjD7t
+gm4kxG1v1v4E6IqMbMpXOTBp+WAWe6Np7p5b8HjVxhMHurXifEjQJN0JAgOd4ALA
+QH+NBXEXO3eXV1WnoqixsrCa16Ej
+-----END CERTIFICATE-----
+subject=CN = viralcrot15.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5184 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

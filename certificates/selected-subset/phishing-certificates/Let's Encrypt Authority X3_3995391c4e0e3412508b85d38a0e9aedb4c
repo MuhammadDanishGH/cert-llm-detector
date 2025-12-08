@@ -1,0 +1,94 @@
+http://www.aminutestory.com/log/verificationAttempt.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = aminutestory.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF9DCCBNygAwIBAgISA5lTkcTg40ElCLhdOKDprttMMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MDEwMjI0MjFaFw0x
+OTA4MzAwMjI0MjFaMBsxGTAXBgNVBAMTEGFtaW51dGVzdG9yeS5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCu332cbts/RYfAYiXGD10GoPzcXhKR
+ThhCCUuK3MQMtVHTKSiG1YO+v2yx2VsJMDAvKqcFirDBqDrGi3XysojC2s+fIkBJ
+scov5gpvns0fgP204cbl96VLjQyIMADgtOyKThDOpec8j/IGMxbvHQhxyLkSf28o
+Y6vb45cT9Ft9+oYM9dAMNqNsory7MxMO2J6RXixTR6YUC3In88sfYPoznG/b9e+m
+NMOi2GngV9FDmxf4WLv6qD5ZaHMWw2tfY+cW7I/w5ZggV1ccFrjJRsi8Hm5EzvHf
+a+aYsZe3jWiyxTSI4zjgi4AugwPCiub88JlUvqma/MUxCEZJcVe6Azn5AgMBAAGj
+ggMBMIIC/TAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFLZGq52IGO9GRE0BiJDMkiNe
+3dn8MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEB
+BGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZy8wgbYGA1UdEQSBrjCBq4IQYW1pbnV0ZXN0b3J5LmNvbYIdYXV0b2Rpc2Nv
+dmVyLmFtaW51dGVzdG9yeS5jb22CF2NwYW5lbC5hbWludXRlc3RvcnkuY29tghVt
+YWlsLmFtaW51dGVzdG9yeS5jb22CGHdlYmRpc2suYW1pbnV0ZXN0b3J5LmNvbYIY
+d2VibWFpbC5hbWludXRlc3RvcnkuY29tghR3d3cuYW1pbnV0ZXN0b3J5LmNvbTBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB2ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABaxERGNAA
+AAQDAEcwRQIgMZ4wdHCD6YjeC00zluWw7TD/q2A3Yha2CnIKFGHt5SMCIQDyo8vF
+JNTSgh2v4X+CiARtQx98b+w7hScWpB/iXpZv4wB2AOJpS64m6OlACeiGG7Y7g9Q+
+5/50iPukjyiTAZ3d8dv+AAABaxERGtEAAAQDAEcwRQIgYFqm1s/eCkA9dgDhE+5d
+OSEn0fchIlfDCLuIz5QwZCkCIQD1ywWih023wPtS5WVIZyZlU8hubQrnC1aJZWgc
+XA5OhzANBgkqhkiG9w0BAQsFAAOCAQEAOhxVfCfEzA5fQwpGgplYx2dS8fwNzOdh
+uCcUrKykXeVGK3s+fn9CJwEa3uF966uraeRBEk7yepiBIOLSrLUSdCU3eTOGISAN
+xap0oRyxrXlCqBmIszBFCNO4cMpQy48OvxBiUHhN930Q/FkTlMo2tbCStv8YNa4q
+r+CN2unN/7uWI/cEg2fzRRn0MyT6UC+PT5kMYc759OHMXhAX/NxpHXVB2zGaAoiL
+5l8o/muo5axy9N4cehC0+XHjfitDhAWxBY7gV5kX03oTpWsRU6KO+9WYpw5VztrF
+uytRLn4abIzpo+E7pjcxCeX2g0dG1nYjLmPM5EODhpLyQDFU5GQrlA==
+-----END CERTIFICATE-----
+subject=CN = aminutestory.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3411 bytes and written 458 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DA4D8B4CAA25DF2D59DA915BFB953247DC9893263918250C6657603C153A19C5
+    Session-ID-ctx: 
+    Master-Key: B9E4C66E87CAA754EEC962659B4211602AA8231E3718181B3287CE2E3A7457C4D9FDFF61F553A5C6B5E1CEB56DFE0AE9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 9c 1d 8a d1 b9 49 98 42-9b a7 9e 89 bb b4 0e 79   .....I.B.......y
+    0010 - eb 79 c7 12 31 a6 0f 6e-9c b2 be 9f a5 2b d1 7b   .y..1..n.....+.{
+    0020 - 0e 95 04 80 61 4a b6 59-87 7d 28 4e fa 93 4c 58   ....aJ.Y.}(N..LX
+    0030 - 48 c9 fa 25 1d eb 61 37-a1 aa a8 40 87 97 ec 7c   H..%..a7...@...|
+    0040 - f8 dd 9d e3 49 1b f8 3b-6a f7 f7 24 12 91 d2 aa   ....I..;j..$....
+    0050 - bf 5e 70 22 f4 8b 9f 79-1e 68 3d c9 43 ad c5 8a   .^p"...y.h=.C...
+    0060 - 5d 77 bd 1f 0b 6e 22 c7-3a b2 c1 94 56 1c 55 86   ]w...n".:...V.U.
+    0070 - 21 b4 1f 63 32 03 af 19-6b ea b8 44 de 58 17 6e   !..c2...k..D.X.n
+    0080 - 1e dc 46 a9 f6 51 91 6e-f6 87 55 c8 f8 25 d6 30   ..F..Q.n..U..%.0
+    0090 - a7 8d 04 a1 01 b5 47 b2-40 e9 62 86 0d e1 44 35   ......G.@.b...D5
+    00a0 - ac 1d d9 90 1c 2e 1f c4-76 45 2c 45 e1 cf f4 25   ........vE,E...%
+    00b0 - 45 b1 73 e1 87 04 e2 a5-46 7f b4 45 22 ab 0c 95   E.s.....F..E"...
+    00c0 - 20 db 68 68 92 04 2a 31-b9 b7 01 28 61 f7 08 61    .hh..*1...(a..a
+
+    Start Time: 1559739621
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,66 @@
+https://pankocesvvap-holding.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = pankocesvvap-holding.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFUzCCBDugAwIBAgISBHg7xrMw19hv2h06h2DidfMrMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDMwNzEyNDZaFw0yMjAyMDEwNzEyNDVaMCMxITAfBgNVBAMT
+GHBhbmtvY2VzdnZhcC1ob2xkaW5nLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBALwnaVHjTC3p/JUEMbcBOI9E2ho1zuFWebSDuaEfaLf0mEoUKpYN
+A3COPrfAeeBJ/pocGX1a4mbHAUCzltsJGiwzd/HJDu3jY17w0gXcCsrdUjFJYh4H
+3KJWPPr5vu8LzV96yfNzj8a0vFV+UpX+xnhUMnS9YOZcQhs9zWfgtHxWaKmOylg1
+ZSAmb7PX2yxQgebuu4XgrLT39ODrjl0tDC7qEZ0zA7VJ4I0cvg/EqIOlWmTFBYn+
+1zbshaXMoPuzt1We97z1xjrmmoMfTMsF7M3dGZECpyhwgh6I6JwicEx8CCmhTPp/
+eTuuE1dzL05OG2sSL7JDdnNeH0qFSogoN2sCAwEAAaOCAnAwggJsMA4GA1UdDwEB
+/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/
+BAIwADAdBgNVHQ4EFgQUJz3aWba/Eav8XPVRXJZdf6/hdcAwHwYDVR0jBBgwFoAU
+FC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzAB
+hhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5p
+LmxlbmNyLm9yZy8wQQYDVR0RBDowOIIYcGFua29jZXN2dmFwLWhvbGRpbmcuY29t
+ghx3d3cucGFua29jZXN2dmFwLWhvbGRpbmcuY29tMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYA36Veq2iCTx9s
+re64X04+WurNohKkal6OOxLAIERcKnMAAAF85NuMygAABAMARzBFAiBFrWjXDS6t
+023ighqn0YdSJVZqUFJNmHLfR5IHAeDYzwIhAJsWTgmmyE5QclvcPusDOUAaIvbp
+FWopsLP/YJkUi7uKAHUAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QA
+AAF85NuMvwAABAMARjBEAiAEkpEzvP/SZldxGrdSiRlSogL/6Rs6cHFkVIBjneEH
+/wIgNDDRFRune31cQwe70uwGefEmx6ujp5SVOrW7cF+aE6wwDQYJKoZIhvcNAQEL
+BQADggEBAEFxCkEROC71ezOHTSX8HXFNzvmSVrLlYXGHzzv9cV/67tusEA1Uvfid
+VTUrNs7KagtJNqgTGc1PsYiom3f3Zz98LCFVbGuLWtStzQXPi8+P/4AVDE4k1x07
+uNNwMxiU6/VJP1pLfxGvG5exmts5iv8SQ9GZfKkJ1DLCzav4pqZKOKTetT+DNkwF
+QM5XIShnPj2hDAFQoLkuv+OATEkSRxZQWBHlJMsM6A9Xx5zLDrpXCGdRDB8v/lsj
+IGq5SkT9HoPTyvShZQoFe2IcmcPGf2gIIWwfHu+roltiNH6RylzaWMr9Y5/SE23Z
+dO5SF4IXoeBzafM4uj+kYbbxP5wRakA=
+-----END CERTIFICATE-----
+subject=CN = pankocesvvap-holding.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4607 bytes and written 382 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

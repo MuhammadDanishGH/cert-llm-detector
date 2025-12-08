@@ -1,0 +1,70 @@
+http://aquasecurero.com/include/1906/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = aquasecurero.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGCzCCBPOgAwIBAgIQVodcODu7bORVAqMNB7aeuzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTE5MDYwNTAwMDAwMFoXDTE5MDkwMzIzNTk1
+OVowGzEZMBcGA1UEAxMQYXF1YXNlY3VyZXJvLmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBALfZr2zpisdHTGhYvsSs9LCGNbSyCoOL56nkW71RSEk/
+13/AVWHjyYdbZeEjSrKGFORleBI8caj0pCJ0zrPgNhDD+rdhD4xtCsNts53Myn0+
+1+WdaaS4yMEoHnjrHwsmjioYUbugrQnTiATkuTdjcmRDgxNW6XrxDiwxUkh6wn5d
+pUOAX/rKpT0nENZoE/1wCaFQgPezZzLJx5zR+8bsMdPdXy+nLLIfS/biMJtDUcmD
+wkREtBYNuaB+NN9JzeVFC7ZH+Ze3nLAQimfklu6Nq1syA5sx6nhlFHGQEQa4V/Fq
+CkGoEotPzA0SibC0L+5btBwHEBUH3jv1YJDaG+KjFGUCAwEAAaOCAvIwggLuMB8G
+A1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBRSdlWjCpRE
+qkNugc7J7PHSM1mY0zAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwTwYDVR0gBEgwRjA6BgsrBgEEAbIx
+AQICNDArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8uY29tL0NQ
+UzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYB
+BQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYY
+aHR0cDovL29jc3AuY29tb2RvY2EuY29tMEgGA1UdEQRBMD+CEGFxdWFzZWN1cmVy
+by5jb22CFW1haWwuYXF1YXNlY3VyZXJvLmNvbYIUd3d3LmFxdWFzZWN1cmVyby5j
+b20wggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgC72d+8H4pxtZOUI5eqkntHOFeV
+CqtS6BqQlmQ2jh7RhQAAAWsp5Jf/AAAEAwBHMEUCIB2/1GBWVtxkSuedIBFFglsd
+/tWRzhaJcKTtoeGCW0i8AiEA+k1Pbz3zO1cqZ62d1NmaVB28P9Han5wvBRHYSbPk
+oj4AdwB0ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWsp5JgkAAAE
+AwBIMEYCIQCUESL49t7wNk7tpDTEGd9c0FtHzd/lip1r3waAjOxjjAIhALwxu280
+UC/Wwcuzv7+EJshi8Sh6nlxwb4rVcLpq6hvvMA0GCSqGSIb3DQEBCwUAA4IBAQB0
+6RFnPueLuB9zHXS24vjIiL7ZdYv2YmLNwseoA0WHDeMC+9dhRdjO9VBwbaVNMFve
+5ztJVVQ4PxDIkYtp0B23dWMhDjyjKfA0KubYEWmVypewIX4KLEvIxC9mcT7DeHzO
+JwA3ZHAzhf6D5ghZVn6Y+dfiLBU+bd6+r96znySxym5irWD8GrvHDka84j4Y/EQX
+7QlQvkSj9JGrMBt+oQ4BYKoGkA9aDckEn7tRIrn0bnHAB1Vloy3w1BVUA60CD88f
+UAPVGDK6NxX/d4t8zqHvdRNv0GK2EIN1YGeccNEJChRUogm2k9i4xeEfsM16q5EL
+m0jksR2GyLy3HVF8vr+n
+-----END CERTIFICATE-----
+subject=CN = aquasecurero.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4976 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

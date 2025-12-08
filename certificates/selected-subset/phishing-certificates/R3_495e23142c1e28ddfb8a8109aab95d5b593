@@ -1,0 +1,65 @@
+https://loftygoals.life/statement/pop
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = loftygoals.life
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJTCCBA2gAwIBAgISBJXiMULB4o3fuKgQmquV1bWTMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMDQyMTE0NDFaFw0yMjA0MDQyMTE0NDBaMBoxGDAWBgNVBAMT
+D2xvZnR5Z29hbHMubGlmZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+ALx1CBm1vKri4hldFaWhpUVQ84dUnrL3iKh9BwG5TGMIxuj1iJFZjxQgTQOY33/L
+QTUkRUIsYj7zhIFlVaYX9ptFHwAMCZvAdek9dJ7T+/VGRpi/qrNXOB0I2ZgnLOws
+WUBQlhhnGT+QxYw6uN857QwhVjDxPpY74hKH6ag97xldmSGoQVtcpuUBraj/YfWU
+QTxWRTYi7STmf9c6xiJtS/5IZp0vphZjgVeV3ztUKEPDhg5nof9Mzb7ABnIUlj4T
+8nZTLLmtD3t76kMev8cVf//xm3Jy3gu3argIlyp2tfmvEj3P2uoPXvhzLGX+KE8v
+3nZJXjlPwAOm4yzre6tEOa8CAwEAAaOCAkswggJHMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUYITUNmHQnsRWzDGs5hkwQUcSRywwHwYDVR0jBBgwFoAUFC6zF7dYVsuu
+UAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8v
+cjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9y
+Zy8wGgYDVR0RBBMwEYIPbG9mdHlnb2Fscy5saWZlMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYA36Veq2iCTx9s
+re64X04+WurNohKkal6OOxLAIERcKnMAAAF+JyijwQAABAMARzBFAiBRXSy93F6c
+jbGAyA3RgpM4YvXZytsaUNmsU9YWgAZcpwIhAIUIxG3pT8168c6IwEzlxoI8qgz9
+UjlVc7EE2vraxcgAAHcAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QA
+AAF+JyijuAAABAMASDBGAiEAynrLTfdskctNgDyVNpGLjWPQ7nTfn7VApbhhkck6
+f9ECIQDq5KblD7ksMRkD+T6CBMNPQydpG38T26hH8qqmtNj+LjANBgkqhkiG9w0B
+AQsFAAOCAQEAMOjFMWO1kEK2aa5N6TZXVnx2SUE2EPTBRI8Ax1hKMWunBFTO2VD/
+krSYIDnmWi1J5baBUb52j3aowhTRCwZ6G0EsuGmXeIdiKhKyUOaoprzb79jLqZzp
+68hwus1/rmmsFB1DN2dQTxo3uIC8hOKudVM5KTUBf82T5KG/pGf7IKKO0h7YEhh/
+TSoUfMznBDfINF5tbQnNld/+U8XThthjOWKBQxz1CAsb9gPyS1vnOiY9qzzqpiff
+8GNJnBR/KNv6CSWMv9KzCBBYpFtyr/0jwkDYKjDWx6IUgOvST/+wLCOaB7XWcbV5
+szdpA9d+O/neAn/JdgQ5sHi08LduZw3yCw==
+-----END CERTIFICATE-----
+subject=CN = loftygoals.life
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4577 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

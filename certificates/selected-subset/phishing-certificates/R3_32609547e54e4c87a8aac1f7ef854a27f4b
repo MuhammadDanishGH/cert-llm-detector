@@ -1,0 +1,71 @@
+http://claim-cobra-75.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = claim-cobra-75.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGPDCCBSSgAwIBAgISAyYJVH5U5Mh6iqwffvhUon9LMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjgxNTQ0MjNaFw0yMjA0MjgxNTQ0MjJaMCUxIzAhBgNVBAMT
+GmNsYWltLWNvYnJhLTc1LmR1Y2tkbnMub3JnMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEApabaFr0V8EuT0dTZRkI/umj9ZcITf049CE1PmM6LQUrlgm1Q
+MdRQLuoqarMBaXP+cmVRd/iTaWKKy6lG3iQx7jHI9VoBdRo8pCVgNgeAhcAk9BJT
+bupj6M0oUD1qFnnhVCeASPjbCua/dyUfheLi1ScwC3JAWi1iDeRLoMz4F7i35z0L
+y6rNRHh1eYlirL82d2P0LSgljQLM/4zdqQh4Ot/XvXFJnILp1GrDsfpHvAGdTl6c
+xuT65wB9L80OrSZsKrsC7YI08OZfRcPIk0PwpbYC7aJSakgX+KO+xe+9T6Ev8J4+
+kKMpBUP39iBTLC08oSxPekgCw3Lqf2FECSoucwIDAQABo4IDVzCCA1MwDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBSGGD+uhSKJUbAaff1nMGnSTV1YhjAfBgNVHSMEGDAW
+gBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUH
+MAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3Iz
+LmkubGVuY3Iub3JnLzCCASQGA1UdEQSCARswggEXghpjbGFpbS1jb2JyYS03NS5k
+dWNrZG5zLm9yZ4IhY3BhbmVsLmNsYWltLWNvYnJhLTc1LmR1Y2tkbnMub3JngiZj
+cGNhbGVuZGFycy5jbGFpbS1jb2JyYS03NS5kdWNrZG5zLm9yZ4IlY3Bjb250YWN0
+cy5jbGFpbS1jb2JyYS03NS5kdWNrZG5zLm9yZ4IfbWFpbC5jbGFpbS1jb2JyYS03
+NS5kdWNrZG5zLm9yZ4Iid2ViZGlzay5jbGFpbS1jb2JyYS03NS5kdWNrZG5zLm9y
+Z4Iid2VibWFpbC5jbGFpbS1jb2JyYS03NS5kdWNrZG5zLm9yZ4Ied3d3LmNsYWlt
+LWNvYnJhLTc1LmR1Y2tkbnMub3JnMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysG
+AQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQu
+b3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAQcjKsd8iRkoQxqE6CUKHXk4x
+ixsD6+tLx2jwkGKWBvYAAAF+oZLd1gAABAMASDBGAiEAhBmtiY7o+8q8BrpZn6A3
+BiBDAvOZ0+BEtHFE68c9O+0CIQD6OjBD1rWgF6JlPI9PJmL/l3wXs1oKzBXTimL1
+BeZgbgB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfqGS3ccA
+AAQDAEcwRQIhAL6tx4uyY8hBEtr2Kt50ZG7pPohENCHgqtBXBQwtpzNVAiAExoe3
+3wH79E4rO1DfhzeQK9BcSjagUAqfkedP450YgTANBgkqhkiG9w0BAQsFAAOCAQEA
+YtI/3PASuhylKngK1Bm1KZJOHo4TSF+XQXMc5LLorhlfLHM2y6Ut9TyGUYB1Ovet
+BEjleLR8V5RCNJzoaAfU9TTIzKzlUDr7DrGZyYNX4MViN8Ud9Xpk924F3rjSelGX
+zHT4WIzrJuVrD5CEL+PAk+jG5D+aNeFw7vsP6T7UkS3we2SW9Dxgf9aO8l1gLCqQ
+zjDix3RPqIXDRp4GakzbhVXvd23etV4dHWf0CFVcrj1GSmIoa/jX31A63fPbt4za
+Y7kqPRVhgovXOJKEfsYDDjffrm9PUBm9LcLHIv9oQ3FjVFbh1MXA1uVj8LmcIAJo
+B7+fEDAENCYhuZvK5Q0Upw==
+-----END CERTIFICATE-----
+subject=CN = claim-cobra-75.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4856 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

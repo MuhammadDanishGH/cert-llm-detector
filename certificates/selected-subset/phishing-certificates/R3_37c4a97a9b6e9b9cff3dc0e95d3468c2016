@@ -1,0 +1,65 @@
+https://m.coinchecks.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = m.coinchecks.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJjCCBA6gAwIBAgISA3xKl6m26bnP89wOldNGjCAWMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjEwNTQ2MDBaFw0yMjAzMjEwNTQ1NTlaMBsxGTAXBgNVBAMT
+EG0uY29pbmNoZWNrcy5vcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQC9iTyd0RIAHIEWj5aItoM72F/jiV10noZYqCZzZIgl7Ma1r2gtKC70KdKaOU8K
+WVB99ODW/lhbNrp05CV8oPRbk4wXj3ZOOiU0QKCFnelFh2dIM6YFatwg/A7cHHbN
+MUYme5QeFQA58u4UNsb8dkEcfoBjsk3w0EhaNCsaGZFGQfHhtahdsrpI9E+OfuWF
+RJa+nu8unyQCnYqVSvUAx+vOuJfCQIoTCXc3ezkpC0l/Fu9xCDg8iAwbQqfDhP2I
+yruZGROwUXvyPtefjI9zjVefUIkvhgWeY9CPSWRKWQj064b5AJ6Em9XyAbyncGW0
+MBZl8AVc0IvszJqasjmJiVGZAgMBAAGjggJLMIICRzAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFIfGR18WNn2vlSmhr0xLgQC1AAYEMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMBsGA1UdEQQUMBKCEG0uY29pbmNoZWNrcy5vcmcwTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgApeb7wnjk5
+IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAX3bvV8kAAAEAwBHMEUCICcEjmuj
+X5n4ZAI1NeGFr11iuA9SEtZoE2PHfer83+pNAiEAv8B1M19gdoJ+UDTsYyJJLTwN
+/lORaI0E1kMwrZF7o8UAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZ
+EwAAAX3bvWBNAAAEAwBHMEUCIC0u6ZKMUCwaL290e6W3bldglJXxiLiA2KdL7xKj
+2gm8AiEAthI63DgYUWYv9KV68BaqXg4zzRPiupICFwWZIhdVtYAwDQYJKoZIhvcN
+AQELBQADggEBAGBsr5Rl0e+9vKWdgVCNwOJVW4iKfrUsdNf7WCdNoDcLhu+UjdoK
+fYSxoQVYZLRTot4fS2igOkOnclNDDfjVztsS4ASJIPAeMYe6J7ZZzCVs7RMRu9TD
+NaUhZqED4a08CPwngWhXippjvngt8fQkHvm9BEy1eG0/l5HobHYIRhJFlf+0G9X3
+yfhwnN2yTjxycRC/BQ8vA7Vb0SLCqGqZF7td545KACDqoNbDJIploARJfUx82DnU
+JSh448hw3KG9rlmX0UIVkYsbFhoEg6fAtZCXnclhcfSVZmBZskQ5XRfiSFvQdXTF
+hoZelq6OYbl5JxEQH1g2zBMZJAKbJIEuY58=
+-----END CERTIFICATE-----
+subject=CN = m.coinchecks.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4578 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

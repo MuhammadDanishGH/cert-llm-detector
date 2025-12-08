@@ -1,0 +1,92 @@
+https://www.nikkileitao.com/wp-content/wptouch-data/themes/reminderupdate0719/d045f16dee9a3525b4e444ea2d3196f6/login.php?cmd=login_submit&amp;id=d2d5b4631c2c678cc96b213b595faf4bd2d5b4631c2c678cc96b213b595faf4b&amp;session=d2d5b4631c2c678cc96b213b595faf4bd2d5b4631c2c678cc96b213b595faf4b
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = nikkileitao.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFgzCCBGugAwIBAgISAwloECjYR3YBW7QUGlGRwAoZMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MDcwODU5MDRaFw0x
+OTA5MDUwODU5MDRaMBoxGDAWBgNVBAMTD25pa2tpbGVpdGFvLmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAMzYIlLWetJ3AAUC7UlMErdo6ydpCOdF
+h58nV1aRarDpuHbOmJs1NWEdNWrIby4k5TnLNwdFub1zpXvZmo4ZYT9xLGtcN1Z6
+bY1bGWqs7pymxSDHaOaLhJseutR0zr8EveAfWt1f+LqygC/S7kIHu5GHiWqOxYRh
+tVnibKAOfIbuohlWlhQx1K+LONQowbKnzEo1raEywadqMTCG2QrMtNwt1hmK3kQp
+U3ZlgOR3GIBwIa94etrCAY9eqLPDPDsLDr68tBffS8h1N8kjeZAZayfKxhGWgo77
++cy8YnfKaSD6l3FC0uKmLqspDyjmsN1UQViWkWYSfVv63vFUA6ude7UCAwEAAaOC
+ApEwggKNMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUhoIsnNHbhpriCyW9kjxTe6Ge
+UlEwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnLzBFBgNVHREEPjA8ghRtYWlsLm5pa2tpbGVpdGFvLmNvbYIPbmlra2lsZWl0
+YW8uY29tghN3d3cubmlra2lsZWl0YW8uY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIB
+MDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2Vu
+Y3J5cHQub3JnMIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcAY/Lbzeg7zCzPC3KE
+J1drM6SNYXePvXWmOLHHaFRL2I0AAAFrMWCe+wAABAMASDBGAiEA/UvZLBvWrlD2
+DAeLTS+SOlh1y+Jpf/5KaDoYyYC8E7cCIQDzrySA/yZxQEj0mue/MOxh48qSDmvp
+OreTJuKdt0X38AB3AOJpS64m6OlACeiGG7Y7g9Q+5/50iPukjyiTAZ3d8dv+AAAB
+azFgoO0AAAQDAEgwRgIhAOdw9/OjWo6Nr84AWJCu3OpdY/zNsbVSZkLpashddNaq
+AiEAkN3ONKNzlKbGLlqqykh+GhueJeVlOQecVAy5abPx8ngwDQYJKoZIhvcNAQEL
+BQADggEBAJDArXe4vAZOB8ZE3xZQ6ht6vyZbW9a9hhXcW9yBWIxgHoA9lHHkb7iN
+B54q8yiLgA48si9DZoCzQ3gsWfTNZmr7qKCUd2wmwTQC2iAf/YE+GeAhesn93sjE
+JP1kny4o0acJz5A70AeAkeVSsiLMphvfUMYnyH8qnBAMh2VDFbdXSonk5neULiqR
+92SW75s4MS1Gx63pvMbwE5THaNrSFwZltS5WYtfsf9SwvQipX356OfoeF8Qtq4L6
+Fv2afvji8JCuo9Q3eX5WiHkhK7NQRG4RevndKpRWGtz6g47RKi/j6kOEOvyAykAi
+6eerBvFqeZqL3Y/bjfirXqc8Jtd9WaI=
+-----END CERTIFICATE-----
+subject=CN = nikkileitao.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3269 bytes and written 424 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 116451C50A5D063CCCE63F23FEAA8C07BA164EC0B7E99F2799E1F63F3286558B
+    Session-ID-ctx: 
+    Master-Key: F0BDFFCC546A272C2D2B05314FB95CDFBBDB84959760150D77A1F3CE82BBD6029FCD2969E1A03BCE2C07F096D3C7E97E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 88 7c f1 8d 89 9c be 9c-01 58 16 d9 f8 df 62 33   .|.......X....b3
+    0010 - 46 44 b3 6a 31 63 39 89-4b 1c 59 18 7c 98 f9 b3   FD.j1c9.K.Y.|...
+    0020 - b0 f7 f2 fd e6 a4 53 a2-a3 3d 80 cc ff 74 4d cb   ......S..=...tM.
+    0030 - da 34 54 4c 10 f1 08 a8-fb 3d 40 eb 59 b2 8d df   .4TL.....=@.Y...
+    0040 - c1 f1 2a f4 62 29 3b af-f6 54 53 bc 54 72 c7 92   ..*.b);..TS.Tr..
+    0050 - 9a 8f 03 23 39 4a 9f 26-0d 35 79 94 ad 4b 7f 4a   ...#9J.&.5y..K.J
+    0060 - da 82 ee 56 30 da ae dd-65 75 89 33 cb c5 e8 8f   ...V0...eu.3....
+    0070 - dc ef 34 89 ae ec ff 0e-53 b5 81 8c b9 17 e0 bc   ..4.....S.......
+    0080 - 49 a2 c0 ad 4d 49 dd b6-38 33 d3 df fa 30 7a fa   I...MI..83...0z.
+    0090 - f8 75 58 8e 2f a1 43 18-63 39 40 06 da 13 87 aa   .uX./.C.c9@.....
+    00a0 - b0 44 b7 e8 9d 0d 33 00-8b d8 95 5b 1c 9a 28 f6   .D....3....[..(.
+    00b0 - 59 86 f6 9c 90 fd cd f9-27 c0 76 e1 cc 38 3e 32   Y.......'.v..8>2
+    00c0 - 90 46 03 c7 fe 82 8b 25-d1 e8 05 8a 80 31 74 b6   .F.....%.....1t.
+
+    Start Time: 1563714023
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

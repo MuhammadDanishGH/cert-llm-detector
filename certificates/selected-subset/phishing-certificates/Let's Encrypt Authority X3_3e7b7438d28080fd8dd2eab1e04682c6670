@@ -1,0 +1,91 @@
+http://hat-37.getforge.io/?meine-ine-de-trxm-db-spard&meine-ine-de-trxm-db-spardas=
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = hat-37.getforge.io
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFczCCBFugAwIBAgISA+e3Q40oCA/Y3S6rHgRoLGZwMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMTMxMjE0NDBaFw0y
+MDAxMTExMjE0NDBaMB0xGzAZBgNVBAMTEmhhdC0zNy5nZXRmb3JnZS5pbzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL8epEXUq5+bQyc/Si3qV6CBCp/c
+vIy3EUJRrBFyowBiCwH3p8BFD4Pdvy0q5qiA+V2ap47J2HerdnG2hUiGbBLMXVtU
+tdgQPR1xkW8L8v4vqCwieNJoW2AKSKN34zpFgvv5QAspOqPKVa4CDB+8vcsW/Fp+
+doP6nJnFYMx07mO3YfH6dsE9rg/tFvUWr2td+tJryThQGmp/aKp2NHXvEug59xdl
+Mx76zUqf8h10z6powlptUD5TWpGdUxNd+42L0nuIzDZ8+FoplRWPC4DDvBZOzxUv
+4qUof93BPPacxqeuFcD08iSw4cZxFRnj3lc68bjhjGVLNqc8JhjLnSeWlbUCAwEA
+AaOCAn4wggJ6MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU5cBQy+Yzic/8Yd6mJyOW
+Na0bsyswHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzA1BgNVHREELjAsghJoYXQtMzcuZ2V0Zm9yZ2UuaW+CFnd3dy5oYXQt
+MzcuZ2V0Zm9yZ2UuaW8wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMB
+AQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggED
+BgorBgEEAdZ5AgQCBIH0BIHxAO8AdgDwlaRZ8gDRgkAQLS+TiI6tS/4dR+OZ4dA0
+prCoqo6ycwAAAW3FQbM8AAAEAwBHMEUCID9WfO1XqGhuQYQiMKhUrjDN5HCSeVDt
+XGcF59CXxvuLAiEAwpj0S7/TC7ELHzW4HUOsMmlLRpmTVFbOMKW/t+IYxVAAdQCy
+HgXMi6LNiiBOh2b5K7mKJSBna9r6cOeySVMt74uQXgAAAW3FQbMyAAAEAwBGMEQC
+IBK93T5/zEZhqNdyom3mIMFKltdgSGmVObCfjbGXdfvmAiBQsUd0vo+D4T23+CM+
+Uy230qPBuGVdldqugsoufTa4pzANBgkqhkiG9w0BAQsFAAOCAQEAcDMuvWK++p48
+8+GLRsSb4uR6j+bLu3z3KMm6qqKjgoxg9sqp4koUBovKHkcrGOMjVLHuX02Zzwif
+zYkb2Dlm5sWycZusXPkgL95IRQf4z7HKWiadBF2i9m0GcFtwgPQEniCxENiKbJeR
+Nd6m0cVNKHOYyYd0OBG86MRMBwYY+OIfte3SlTQE902/jACZ7DuYp8b2q6wCIGf8
+DyBZpg3dkU3a3nbXlNOYzQcvfM5R3zTNOkM9d3usXMArlvE+yLgaQBNnxraa6xZl
+eBT/Pbd173Bi1xBEAgJwt7qs7Oujxv6584suAVwGgKMIr6jEK9i8MUd/rtGIUhvR
+XzS1c3TcYg==
+-----END CERTIFICATE-----
+subject=CN = hat-37.getforge.io
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3266 bytes and written 456 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 2E6BE6682BBBCE1FC4D7CCB85A2BAF73665F27550E77C69B9B335E318EC9B1F1
+    Session-ID-ctx: 
+    Master-Key: 839A6DB4A2EA07FE4716724DD0576BFB34CE01FB0749F268146B6D36A4D26E31F2FD4DF575F8066F5603D973191B0ED3
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f8 06 e5 57 9c 52 bc 9c-e0 7f a9 c7 b5 62 04 94   ...W.R.......b..
+    0010 - 89 c0 e9 19 44 18 bc ab-fb dc 6c a2 5e c2 7c 8f   ....D.....l.^.|.
+    0020 - 9f 26 27 bb c5 e7 20 6c-6f e5 f4 fe 93 81 6f c6   .&'... lo.....o.
+    0030 - 9f f2 62 fa 25 cf eb 0e-e4 d1 53 e9 2e 94 8a 9a   ..b.%.....S.....
+    0040 - 05 e3 a1 06 9b 5d a1 1b-42 78 de 64 01 9a 96 3c   .....]..Bx.d...<
+    0050 - 66 ca cb 8b 9b 8f 4f 01-50 85 e3 73 24 7d ce c2   f.....O.P..s$}..
+    0060 - 27 de b6 44 a9 54 8a 05-c3 46 1d 41 70 9f 15 a2   '..D.T...F.Ap...
+    0070 - 60 ee 99 31 d0 37 3a fa-05 18 a1 22 8b 59 d4 f6   `..1.7:....".Y..
+    0080 - fc 09 46 31 19 37 39 c4-d6 95 e5 f3 47 03 d1 08   ..F1.79.....G...
+    0090 - a7 31 8f a1 b9 a4 d1 df-7e 2c 19 74 28 1b 9a e9   .1......~,.t(...
+    00a0 - 52 ab 02 07 f8 1a cd 10-f1 42 20 4e c3 02 ea f9   R........B N....
+    00b0 - 92 89 0b 1a 20 53 2b db-fb cb 9a 98 75 5c a2 8b   .... S+.....u\..
+
+    Start Time: 1571144427
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,98 @@
+https://allegro.pl-nowe-regulaminy5731.waw361.pl/8459/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = allegro.pl-nowe-regulaminy5731.waw361.pl
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGijCCBXKgAwIBAgISA9QxiLTLyivy+cldj88P7bSQMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MjUwNzA5MzVaFw0x
+OTEyMjQwNzA5MzVaMDMxMTAvBgNVBAMTKGFsbGVncm8ucGwtbm93ZS1yZWd1bGFt
+aW55NTczMS53YXczNjEucGwwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoIC
+AQDPyvzywdjIDMjMZ/56LLVBAfCC1UbQDuLiLSE9Vs27bvRj+/14Ik+fT9xJo29v
+Cl3chuBPOXnbYGlZBRQLNmIrTGtjMmOPXEde3zl1aAdaA95L+rEt4oChHfGMpJdX
+wuaFgGcsDBZ6kuQT0ypoNsWWPKyYVWsx64tfDyWbPzw/D8mZRXPAMbx6o4rK0mZ8
+ychPlGeIf/hLNll01tWCb4p8EZEIKbY3RBfLhVpOqzjUh51qiAmF6o8rO6R2S+FU
+rvqrvIMm1c3UIS85YUzzQMb8y3vmC2OnrWkxs13MAvFcKVEr8LvJ45vLCTTkQE/2
+MbmkT1FIjiBNQrBUX9KkxKCpwKRWPHxQFT4BqRvZp3V02nU3mrBMSw6IvaibZzWP
+DYUFtZTHwBegrkGros/CSun1pwVvdHzT+0KTkzQzso/zla+LL3NvXMbT/29Gkw5V
+WZmSUr0/aADCpuUjlmKY1iQw+4WuFLiW+CNgmvF1fGeWiPg3osE3ZWg9mZHrL7h5
+sjJnJxEZLkzEwNHMa91Vw1ilUulXpoZrrLERz8Gy7WoPuVHwti43F6j/uC9BArZe
+9tw4qbOnJO5QxmC0LC1kd8MumRS1xnFXlRxrCnmkl5ExgRS3L7ubsbFUdwBpKavI
+LhWJ26xz/iJpgvmXiEjK9Bx3Qr56ieZdqJDmVtRnDyIgvQIDAQABo4ICfzCCAnsw
+DgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAM
+BgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQLJKq0CaiOq+j4cBe7/ZhOIAdVTTAfBgNV
+HSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRjMGEwLgYI
+KwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5vcmcwLwYI
+KwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5vcmcvMDMG
+A1UdEQQsMCqCKGFsbGVncm8ucGwtbm93ZS1yZWd1bGFtaW55NTczMS53YXczNjEu
+cGwwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEF
+BQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEGBgorBgEEAdZ5AgQC
+BIH3BIH0APIAdwDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAW1n
+d+1/AAAEAwBIMEYCIQCE+xgeE1Q0uCiNvzzn3cFu9azAsKaqFj9kXPHsM70MsgIh
+AMMk15e2GMoosdWhmDhAG6W8gXYGbF/Xgqf58x4dsMmHAHcAY/Lbzeg7zCzPC3KE
+J1drM6SNYXePvXWmOLHHaFRL2I0AAAFtZ3ftcwAABAMASDBGAiEA6ZmsvJPX+9OC
+J+wozwMJyRm1zp6666Pnyyv69N9RDAECIQDkQ+4t1iKlP26NXuYygQ0AA6uI534I
+vvfY+SW4EMlNtDANBgkqhkiG9w0BAQsFAAOCAQEAfCgkdOyP99Bq2bcylfNot83Z
+Mg7C1i17TtvfbUO2961WDzrEWt4HL3NLx7n1KvMJbdasS/K+N0ZsQRdBuJC0CsIz
+mvVAzLf4l/yMa59cJsSZ3stDwEejA6r3I9c7A7yT5Nz53tTbLU3TGTh1BEqwjmzR
+xhPGEIMHv3vReZAcxbrslQFe9XaA7NoOWKRT4+Pwb+KnO7UfcH+7r74hjWG6PVqw
+p5mFX9x5svePshzV3oX7F58Wqpf6tGiFyKWhNlApJ2PHBwIMbTaQGY6Yec39WY+z
+oymNXBbcdtNzF59cNusV+awQHMKdVnPzKxfL3Rq58Y6DiqyUqTs94gr9c2fc7g==
+-----END CERTIFICATE-----
+subject=CN = allegro.pl-nowe-regulaminy5731.waw361.pl
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3833 bytes and written 478 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: E1EA60A586312D84B2124918E3C8EC85ABF568A150C0862A2F99FBF94A12D2E4
+    Session-ID-ctx: 
+    Master-Key: 239D82A5AD17FE7A4ADD00C782291DF13482604DA6FBB802C23C52257CB8155D7425B220A6EF76A858B783D7FAB205CF
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 62 fd 1f f1 13 8d 0e 09-a8 f5 61 7c 31 7a 32 59   b.........a|1z2Y
+    0010 - 5c c7 ab fd 47 db 26 49-5c e1 92 cd d6 10 35 6e   \...G.&I\.....5n
+    0020 - ee 6c 96 e6 4e 70 ca 67-6d b3 44 f0 6f d3 8d 0f   .l..Np.gm.D.o...
+    0030 - b1 68 94 6a df a8 2c 6f-09 e5 3a 44 2e c8 b3 2f   .h.j..,o..:D.../
+    0040 - 47 b9 60 f5 87 65 58 7d-84 b9 a5 72 58 ce 7f dc   G.`..eX}...rX...
+    0050 - 94 dc aa 6f 4f 62 64 4e-49 6f 5a 8d 2c c3 22 13   ...oObdNIoZ.,.".
+    0060 - 89 f1 fc fb fd db 67 03-24 98 f0 9e c1 5c ff 22   ......g.$....\."
+    0070 - b1 8f 3b d4 07 d0 32 d0-64 af fb 19 97 71 b1 da   ..;...2.d....q..
+    0080 - 21 df 11 e2 16 97 75 a6-11 fc 16 9a 4a 77 b7 78   !.....u.....Jw.x
+    0090 - aa 4a 6a f3 3f 65 4f 68-a3 fd e6 b4 70 6f f5 79   .Jj.?eOh....po.y
+    00a0 - bc 25 1a 82 a3 11 c5 bc-75 77 a5 60 98 7f f4 6d   .%......uw.`...m
+    00b0 - dc f7 56 05 12 5d 24 97-e4 b8 8f 98 4e c6 db 12   ..V..]$.....N...
+    00c0 - 1f 97 c7 f1 f6 51 7d 73-2d 73 a7 09 45 07 27 12   .....Q}s-s..E.'.
+    00d0 - 5d 3a 03 d1 e0 41 50 4d-31 57 3b d0 dd 21 a0 a4   ]:...APM1W;..!..
+
+    Start Time: 1569416437
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

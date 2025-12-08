@@ -1,0 +1,65 @@
+https://www.co.jp.abaiweb.cn/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.co.jp.abaiweb.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLTCCBBWgAwIBAgISBHq0gyZydA63BsQB0Trw7DycMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMjAxMTIzMzlaFw0yMjAxMTgxMTIzMzhaMB8xHTAbBgNVBAMT
+FHd3dy5jby5qcC5hYmFpd2ViLmNuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAxgsSW6+SrnPTRxdE2u68stlTXi3f2bk+qRUBYQEwgA9N98ofi/Mcblk9
+mkSg9pXNW92gj8DUV0E3YNByOlJc7f21EpeIrQbU1Q/uHyQioTeE28laofI9kceZ
++L7Lwunr+DXfM+NX6/4qRArORyuvegmbmuFROfTPatCHYJivxOLsi5IvAZntLdsV
+oYzgoNfjvshELxqHetENzjr0yUQ/65y5iWOhJBVp2fGv11mv3FZoSedkkwtvlXhg
+j8a6GNM2v5qujTc0kQO3imKgxkIAT7SZNk0g+rfCJLnsvT+3G+62D8rkMoFnyhnY
+j3w8r0qIp1dmR8ImnjUPvyM/QxqoNwIDAQABo4ICTjCCAkowDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBQl5qzPei6nS9SkyK8ySdkvEjW/SzAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzAfBgNVHREEGDAWghR3d3cuY28uanAuYWJhaXdlYi5jbjBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2
+ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfJ2oNtsAAAQDAEcw
+RQIhAPk4smVGwzmbc5X6Y74WLj6jqvznTA8qO0SmW1Yuv7C8AiBUr8iTMIRQQY6Z
+N0Rf3X57m2/owmC2lbxJjGphxX2rRwB1AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEA
+KQaNsgiaN9kTAAABfJ2oNxIAAAQDAEYwRAIgane2BKx4qKKX+N6p9mHmremYA9iR
+ijmbbqBQ9fpS5ZkCIA57CIS+H1zE8SnASdbBy9OkQOfZrZgMWB2jGtNWDzQ3MA0G
+CSqGSIb3DQEBCwUAA4IBAQCuwFn6y7xzsFg1PftxmJRwbXBM3dSoBlrzFpcAprMb
+jjH4JH9vRacJVSzu5zXl7s9PsEYvRBqHiRv3d00r340xC2+LbDUmy4P+20IN6Ijq
+/I7PmjNY7bF/qCxRfQ+pZNebCVoxsykioXb3moHCe7oFI7F697Hx4RYHg9VsUo6A
+AbKkETKozZ199Fb91ye103/4lSLn9XYhfDJPV5rAPJTZng9rnKXrE8EETC5HYr6e
+yY9lbk9Xu+2FwEC36OnCJ7OkswBJ6QGu8mdZehRfqdwa+m4KRH+DIvm1mX4gVuWS
+pcZTO4KB9pOHGg2DPcf8TQa0WY8Q9OVfOe0FVAegk2du
+-----END CERTIFICATE-----
+subject=CN = www.co.jp.abaiweb.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4585 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

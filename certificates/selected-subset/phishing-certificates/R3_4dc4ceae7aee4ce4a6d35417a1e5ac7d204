@@ -1,0 +1,65 @@
+https://rekoten.omaexy.cn/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = rekoten.omaexy.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKjCCBBKgAwIBAgISBNxM6ueu5M5KbTVBeh5ax9IEMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTIxNDQ1MDRaFw0yMTEyMTExNDQ1MDNaMBwxGjAYBgNVBAMT
+EXJla290ZW4ub21hZXh5LmNuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAm+G6qPqpfY6z0jRxCuP7gEtQLJPRZfODvi2sLKqLBO/TtY1UVpyrZFNwX4UA
+qqn7NJjSyd/bMQa5SOt0BTAqgQXS+H2O0dgFQ3qJ8cIDEfhPO16RfuGxbQA+kOyN
+VmqHGtAlbFTCzIywPC0Gd+HNzOK9CzDuXNB1fqtWbDE8in3FVd73mr6bCvW7oMi4
+oICn6AZlEhI7WE7KQZ9/3tZoDjAqGy4CWXXX857XZ9xMnyi30Q0m0mO8JK01NUgR
+4W5S/oZq9tEzhJGDhibsZmd96TWRbsUmbXgVW8mnV3QlaiKa1s38v+AiOLtDDyFW
+yqIjPYL/EJ6cvf+NvM5K20kXnQIDAQABo4ICTjCCAkowDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBQgyOY6UKYGLJ1aTMDYTPcklGrhrzAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzAcBgNVHREEFTATghFyZWtvdGVuLm9tYWV4eS5jbjBMBgNVHSAERTBDMAgG
+BmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3Bz
+LmxldHNlbmNyeXB0Lm9yZzCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AG9Tdqwx
+8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABe9qu+kMAAAQDAEgwRgIhANXe
+kxbT1/K+ToAi416gCAItSAlYzGXrC2yX/8aDQ7/nAiEA/GyAJLDFOIhYJhZ3pk+H
+LXoN5ks17sw+p1W2oOJ3VrQAdwD2XJQv0XcwIhRUGAgwlFaO400TGTO/3wwvIAvM
+TvFk4wAAAXvarvt6AAAEAwBIMEYCIQCIwTgBmGM2JEI5rDpSXrJkQVWeMgdLVpat
+AharJyMQsgIhAK4DXeeeSHkBtMQQwpgdmRzeWFJPoLV+IVKUR+ciY+A6MA0GCSqG
+SIb3DQEBCwUAA4IBAQB5hd+2Isa+Abzu65F98aehXklGdmWrn1OfMHnijiO25ZmM
+X2XOQoOdrhWBAkk3L2n2uPxav2pZtB3Wuc/EPQkBmD/gJBzE0BF11kdzPKls+Ep8
+UIkZDxxwmYtvXkZaTF/c7jE0QbsNyjkdsZsDIlcBo/yG0JPF/n/I5pgoJlcYol5Q
+Q7Iw7tJIpZfyBu4mtXu7NEtyyVYyrtq5q3qF4x1IHw/g4YdXd0X+wD76cAGoN/Jk
+pgCs3XFv2z9Xf2vzLcA0uBNCKjPMtpOq6DU9pz2nCcdgxDdfo/QLn3Mx/Z7eSilb
+uX7zT/FLLHFEvof9jZNNibdrfMR3c+/rz4oshVas
+-----END CERTIFICATE-----
+subject=CN = rekoten.omaexy.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4582 bytes and written 399 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

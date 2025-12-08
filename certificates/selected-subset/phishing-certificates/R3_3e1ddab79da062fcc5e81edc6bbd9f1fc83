@@ -1,0 +1,66 @@
+https://www-pancakeswap-finance.com/?gclid=Cj0KCQjwrJOMBhCZARIsAGEd4VGOi7rgeUuI4_cNR9siPw1XrqQyc0OBQBjj8nOOpSxlCJcQwKKitAsaAiMqEALw_wcB
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www-pancakeswap-finance.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFXjCCBEagAwIBAgISA+Hdq3naBi/MXoHtxrvZ8fyDMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDMwNDA4NTFaFw0yMjAyMDEwNDA4NTBaMCYxJDAiBgNVBAMT
+G3d3dy1wYW5jYWtlc3dhcC1maW5hbmNlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBALXQ92wpWvjIX9xEwwOlTKPskI2VWaowDLypLpiWERvFno0s
+SCYiFcpXu8G4c6LYEBOPhwzu6eH7BWFNxD0jVI3SFe+qAQ9qb0diQHO9KxNLu2Gi
+EAhxoSgNPByscTwsB5s8ZeV3aQJ1mXDDVm368CyvytLAImcZyCPbO3pgAxAlnjop
+ITPiOGtRMBwhXU8Cs2L+XWARUcmP/r7QF9dndony6wr3peAso+EBTxHUX9Q3FAFS
+BltXOp44cBz/QUau5cYLgHG9nYU7DkDmqO9iKZvWEI+BLh5ZcQz+3GxM4OGu8hbw
+nvwCvzhI/Baw7jhalNCgsf66/dRmej0t5S04crcCAwEAAaOCAngwggJ0MA4GA1Ud
+DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0T
+AQH/BAIwADAdBgNVHQ4EFgQUuUaUHsa6OQ67HMweTIMUtWwhqbQwHwYDVR0jBBgw
+FoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUF
+BzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9y
+My5pLmxlbmNyLm9yZy8wRwYDVR0RBEAwPoIbd3d3LXBhbmNha2Vzd2FwLWZpbmFu
+Y2UuY29tgh93d3cud3d3LXBhbmNha2Vzd2FwLWZpbmFuY2UuY29tMEwGA1UdIARF
+MEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6
+Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYA
+QcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF85DMr+AAABAMARzBF
+AiEAjyPKgGXLThZ2bm5I1kqSpniDMKCO9r3Yf/jsP+7NNX0CIHNX8GIAc0KCnWcv
+BsbGM6GGF2PWkXMPIEtHi5PP1P9PAHcARqVV63X6kSAwtaKJafTzfREsQXS+/Um4
+havy/HD+bUcAAAF85DMsNgAABAMASDBGAiEAx3PjrxvpRIuhgJ54ILUl8crSnZOP
+3rGx2cRosvxSJGcCIQD5OJk4toUgtpek9CRUtMCZ7Dk1AiyXQWB48ggidL2bYjAN
+BgkqhkiG9w0BAQsFAAOCAQEAAxP8JfzyF2JW8EPxsKs0FXgJHy5rP0gCreBTTtRb
+yb5Ytl/07W1jxHlYL6MX2A8y2GjCaZAfcJd8v+O8jFM/rM7oTtLZ//EjWhe/PnZu
+Q0tzcn5d4ywg97PItF6zvfUdIeiSdEZg9rtldqHgYLgAu3eAibsYfKQugI3IgKF5
+R+ydw6D41oNPy3xLTWCQyyq00xOEqTbstUSO0N6J0T4+OPvnawKKKhbO6M5Z/CG6
+9aEU/btGZtRwoOiltr4cFHskIho4+v2rs47106hkjMkgA1F01COWDJHYVKQnT4yd
+i40cXZ/VrPLh447cx4A0Ii82dfo0eSOEBLwwjxgJiE2opw==
+-----END CERTIFICATE-----
+subject=CN = www-pancakeswap-finance.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4618 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

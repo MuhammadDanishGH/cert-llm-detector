@@ -1,0 +1,76 @@
+https://bank-n26.com/myaccount/verified/card/login/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.bank-n26.com
+   i:C = BE, O = GlobalSign nv-sa, CN = GlobalSign GCC R3 DV TLS CA 2020
+ 1 s:C = BE, O = GlobalSign nv-sa, CN = GlobalSign GCC R3 DV TLS CA 2020
+   i:OU = GlobalSign Root CA - R3, O = GlobalSign, CN = GlobalSign
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHkzCCBnugAwIBAgIMFIY4G31wBqSI1jkaMA0GCSqGSIb3DQEBCwUAMFMxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSkwJwYDVQQDEyBH
+bG9iYWxTaWduIEdDQyBSMyBEViBUTFMgQ0EgMjAyMDAeFw0yMjAyMTQwODMxMTla
+Fw0yMzAzMTgwODMxMTlaMBsxGTAXBgNVBAMTEHd3dy5iYW5rLW4yNi5jb20wggIi
+MA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDcowk47rgtdEcLa62toTyWXhc+
+AkxnoYKnH8BT+BWojaRqn9xkYP2kashKmS6+2BiTYstKcaAsOXgo0PzJMZcO2ZMu
+P8Q2mZrpEJj+J3i3KScFKQFAmd8p+qspK2Q+SQ3gFGkx54hBUIRTfbz5UwPtC9T9
+r1zCjJe16F3cPvubZcaCHJoV1CnuoFWocgyW0RXJocK0NY6tC7TW/K8pjjDLIDjg
+HARc40Ws8A1C1lTkshEBVkkbx29DIS5pmZEdyyaGroXFnLcks/zJPkb3fZc6nPEw
+JvX5vXIyBOOiiKKm+FanRgUJ7nI/K5CP2qx2nRnTgHo4y0i7JtMloCi9eas1zPSS
+94sS+is86sPIQyv+L+M3rTJ1mW+sw33VSzJOM37akbAyq16naGt/t9jIgkLea89C
+3B/LXqNz/TKP3auhHPlQVprc+prbJBdLXVdeVnXtMapBznolV1PP/Zfz+rNKRCPp
+jFIWs/n42QukWW6NZvue+aj8gzH4ovqpkt9+LfsKGiJBUHjz2CeMRZ55kPnAe1zC
+0HgC9OgwjlYvPv2PaD0y+olEM088QvgFMRpuUb0b14jhx/94yWq5dkmJs23R1NLG
+szScGPK2bgUvdvUf9YQzpyazSYnhffs7HLbawCTKDnYoXDvCWXmmm0Rbao2Ey1m+
+MQHAeF69UBpsHFXLrwIDAQABo4IDnTCCA5kwDgYDVR0PAQH/BAQDAgWgMIGTBggr
+BgEFBQcBAQSBhjCBgzBGBggrBgEFBQcwAoY6aHR0cDovL3NlY3VyZS5nbG9iYWxz
+aWduLmNvbS9jYWNlcnQvZ3NnY2NyM2R2dGxzY2EyMDIwLmNydDA5BggrBgEFBQcw
+AYYtaHR0cDovL29jc3AuZ2xvYmFsc2lnbi5jb20vZ3NnY2NyM2R2dGxzY2EyMDIw
+MFYGA1UdIARPME0wQQYJKwYBBAGgMgEKMDQwMgYIKwYBBQUHAgEWJmh0dHBzOi8v
+d3d3Lmdsb2JhbHNpZ24uY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECATAJBgNVHRME
+AjAAMEEGA1UdHwQ6MDgwNqA0oDKGMGh0dHA6Ly9jcmwuZ2xvYmFsc2lnbi5jb20v
+Z3NnY2NyM2R2dGxzY2EyMDIwLmNybDBpBgNVHREEYjBgghB3d3cuYmFuay1uMjYu
+Y29tghlhdXRvZGlzY292ZXIuYmFuay1uMjYuY29tghFtYWlsLmJhbmstbjI2LmNv
+bYIQb3dhLmJhbmstbjI2LmNvbYIMYmFuay1uMjYuY29tMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjAfBgNVHSMEGDAWgBQNmMBzf6u9vdlHS0mtCkoMrD7H
+fDAdBgNVHQ4EFgQUSHHMNl0TA0XPXAsZE4iRWtB1R/swggF/BgorBgEEAdZ5AgQC
+BIIBbwSCAWsBaQB2AOg+0No+9QY1MudXKLyJa8kD08vREWvs62nhd31tBr1uAAAB
+fvdblPEAAAQDAEcwRQIgTg4cyF/1jOOYcQrA8sfDxr7F4tGC28qAgU1j7ckelt4C
+IQDWANkSNLHy5t9Fje6eSPP3MoPDHnPcjgDSbGVpNjyQ6QB2AG9Tdqwx8DEZ2JkA
+pFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABfvdblOQAAAQDAEcwRQIgdsfjG+9pLXfn
+qpoeCtrwXZVqWMPXuhWnbsU7Bs5zeUMCIQD9nl/cwo3F8ngf/Qoe9bBKzpHZd6mn
+DeDeud42HpopSAB3AFWB1MIWkDYBSuoLm1c8U/DA5Dh4cCUIFy+jqh0HE9MMAAAB
+fvdblQUAAAQDAEgwRgIhAJeRjTIJtiOh0KFfrOxpCYhIh/9L3N5FxPLZggZT5lEq
+AiEA4qP7enRD5iObSdMRfHSz9YutowdnkpWzGNVnsNp+8GgwDQYJKoZIhvcNAQEL
+BQADggEBADQFEJahUrf8zxIhK9CxyPpM5+hIfMqrNr66g6cKkOY3tLU+tbwLT3wb
+N0QMENQgN9SCB4j6I3dQ+/f4OJYdU3A9jvoCVXlT0ZClovsTRvexoh6vDAUmvxfa
+EqgtXjZhGMcqhw92cf1YDflIWEV/r7e2v9ob8rccO8f0oCeyfQv8W6uC+3ryv7gr
+CiWF/ubZ4LcvhpOpW7Xw8cZX775/1wj8aw1/zirDMQp3u9VWmATFz+vzOMuWUeYR
+bxqwdmyCazC+fSsT09uaEtk9dYdurI59M6dPsnI0WKQsctZSoEuHXKRgRkhaO/VB
+5IsIKf3+b7iNfwYq/iVyxsdSUx/ZRsM=
+-----END CERTIFICATE-----
+subject=CN = www.bank-n26.com
+
+issuer=C = BE, O = GlobalSign nv-sa, CN = GlobalSign GCC R3 DV TLS CA 2020
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3968 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

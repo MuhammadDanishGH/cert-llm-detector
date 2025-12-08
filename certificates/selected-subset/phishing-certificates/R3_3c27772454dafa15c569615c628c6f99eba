@@ -1,0 +1,82 @@
+https://spk-bilanzcenter2022.com/sicher-einloggen
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = spk-bilanzcenter2022.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+KxL3sQ3Lnk5y1g==
+-----END CERTIFICATE-----
+subject=CN = spk-bilanzcenter2022.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5024 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 2ED8B83750668D85ACBC90D7BD75DBFFE53FE6110CFAD7C422716B24133BA51E
+    Session-ID-ctx: 
+    Master-Key: 9FEFCB8DDB811416F896CEF97513E30F2B43AD94203E82823270EB9E5F6903B0E2645C436900E36137B3EFB9E9CA29F3
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1645447109
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

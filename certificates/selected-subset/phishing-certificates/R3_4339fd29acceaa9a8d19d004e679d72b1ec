@@ -1,0 +1,66 @@
+http://metamask.coach/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = metamask.coach
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFVjCCBD6gAwIBAgISBDOf0prM6qmo0Z0ATmedcrHsMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMjkwNTUzMjZaFw0yMjAzMjkwNTUzMjVaMBkxFzAVBgNVBAMT
+Dm1ldGFtYXNrLmNvYWNoMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+vec9vk+pIdu9XyzX8XoFOayIYg0+R1nRSaakEz+V3g8zkZPJs32zKmiCITqX1ck5
+t3LsfCLiwVrV0rh/bpR4gKbERQNcflClwTTt/9e6qMWz/YrN3+xX0/qO7RK3iW02
+9xa2xNt+kAOltwJvNua0Te+iSzR49kF+mI/+Hjc3YMPs2pQF2jxg9vxy/I9eYnWt
+jb7gK8EeA3s+F4tTKZpbeF3zviPKC27N5hORVRBPHD2+nFKmFZMAH0MX2njjksUP
+EhGNc9dRq/GlVoDWkldF5/Jbzk+8PI5mfLxYcKQvuIOYwU0yOB6/VbLWraAMRyVK
+mm3P/pP4/+zCkeH/f03VXQIDAQABo4ICfTCCAnkwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBRT9i/QIKg56xn2hmh8GLS4Pc7aDzAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzBNBgNVHREERjBEgg5tZXRhbWFzay5jb2FjaIIMbWV0YW1zay50ZWNoghJ3d3cu
+bWV0YW1hc2suY29hY2iCEHd3dy5tZXRhbXNrLnRlY2gwTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgApeb7wnjk5
+IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAX4E9w1eAAAEAwBHMEUCIASwH97B
+Nwo5qT5APRhnZzKd4NvyBbV6kgisUTZKYuU1AiEAkpKCo4JG8AOIEg943YCH7I1C
+v5ZmnMaRTmLoQkO4RDMAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZ
+EwAAAX4E9w2XAAAEAwBHMEUCIQDrr7kG3UNBK3Oz1TPPxbwOPgy2yaVCjMe/vujj
+eLBOSgIgZkOcdN3BngzWI7N1zM4+J1V0106GXuBu/AubeproT6kwDQYJKoZIhvcN
+AQELBQADggEBAKwkw/HqAIS6gZwxrfcrjx4FXOmPyBM+zY36xrGmtqTKKm9+jq91
+y4M2yU1Ahe3qN5dIRxsdd01yXu9yIj79NDYRZkJ8GLwviPvOvDB0gEvvplUjPcVt
+QPfDV6gQE/YyyDVW7evcLHGBfv+wyOHLXKcpxyvbjEKNpmQnR/icwNFOXYh9FrfX
+DgXd046q97aJJAvHVSblJ2wmAlMFhM5jR7kT+M1XFi5hfz23USjyTIMKFbxpRT7o
+DuUy2aO8+zkjDyGXh/1jLfCHwobrDgHjC4W14HKOzPSXdLgWUPZbP3ymPF/4K4Ag
+inWzaM4Ojp5mOTK/vGKQ166VIg3ntqARiQI=
+-----END CERTIFICATE-----
+subject=CN = metamask.coach
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4626 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

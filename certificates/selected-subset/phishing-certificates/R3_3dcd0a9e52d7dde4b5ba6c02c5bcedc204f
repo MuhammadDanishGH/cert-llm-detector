@@ -1,0 +1,71 @@
+http://grupwhattsap.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = webmail.grupwhattsap.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGMTCCBRmgAwIBAgISA9zQqeUtfd5LW6bALFvO3CBPMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMDQwNjE3NDVaFw0yMjA0MDQwNjE3NDRaMCsxKTAnBgNVBAMT
+IHdlYm1haWwuZ3J1cHdoYXR0c2FwLmR1Y2tkbnMub3JnMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAszAWGVtZUcmqQNFq4NApO2WWSrHKN2kREU5i8s40
+STyZn2q/BEwVFibg0bVCcDnQGYzHf97mbAS8wQLa+MKqenb5fTCnZWqLRDEDiO3v
+WieludZXtEj6VbQMej0ZTEs4z/Cn9SutMoG11Y5/qfNB/jrnTkIJ1Vj5Iem9uemR
++mcKpva0Z6TdGA0eg15ozeL7LgrFVEDFHzeOWz1gsZkKGqubhTRQwqTTbTWpTjB6
+yoV8QVgfXmfBwohU/nCz2sn1Q2bW4RfRLYC2AwsZmRXvxfARqbKLl+/mW/QCvAuP
+8aW4+7Lrggu2cjdk7Pyr8indPrRclg0ts1bO0kGtPQHB3QIDAQABo4IDRjCCA0Iw
+DgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAM
+BgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSt7fiGVM1ECuagm++ngH7kaYhs/TAfBgNV
+HSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYI
+KwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0
+cDovL3IzLmkubGVuY3Iub3JnLzCCARQGA1UdEQSCAQswggEHgh9jcGFuZWwuZ3J1
+cHdoYXR0c2FwLmR1Y2tkbnMub3JngiRjcGNhbGVuZGFycy5ncnVwd2hhdHRzYXAu
+ZHVja2Rucy5vcmeCI2NwY29udGFjdHMuZ3J1cHdoYXR0c2FwLmR1Y2tkbnMub3Jn
+ghhncnVwd2hhdHRzYXAuZHVja2Rucy5vcmeCHW1haWwuZ3J1cHdoYXR0c2FwLmR1
+Y2tkbnMub3JngiB3ZWJkaXNrLmdydXB3aGF0dHNhcC5kdWNrZG5zLm9yZ4Igd2Vi
+bWFpbC5ncnVwd2hhdHRzYXAuZHVja2Rucy5vcmeCHHd3dy5ncnVwd2hhdHRzYXAu
+ZHVja2Rucy5vcmcwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEw
+KDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgor
+BgEEAdZ5AgQCBIH1BIHyAPAAdgBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQ
+YpYG9gAAAX4j83krAAAEAwBHMEUCIQDokVy/JNHo3YTnsamQG2V29/2O1ZKsfeit
+mk7Y6i2a5QIgYTHRbgT3hReC70GUmt/pkkUb1iJXJc+1qRshdqtMtWUAdgApeb7w
+njk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAX4j83kWAAAEAwBHMEUCICil
+o92ugHtZikumPOINSNC1WxkRrPEbD37sLscxYkOYAiEAqjIq87qBBTvCw3shp394
+Yl1KxWRt2bTl5G95KrAKs6cwDQYJKoZIhvcNAQELBQADggEBAAxcNQIbxCDl0AUB
+f3L8Y413aHjpjpy1H0ZE7eX/hMgpHV6iBUBMTMyO/rLSnskk/GY6e7YyqCC1IBMV
+dNQfpHcAl+t3Z8E2vna1cm0WJiv3lLH+hfED/0WUzL24FU5iH73Q8NPVVzAWnkz5
+2BvemTG5Lk+OW1/ES8xn1X8WXXsOqr4C7IdiC65C8A/+uKgAfwebZDg/PcKeecLa
+PnnsVVIvhJCoMtLR/LzlzBLEMhiuY/3Q1CVvRPkVVDeIdMzChebd/fSneHXV8hn7
+QQYcbt+W+0dIbNeSCJ/KKpf/uil/7q+XxXp6MQYY577ZNdc/srU7Y0AzVcCW4da5
+8SQXU4o=
+-----END CERTIFICATE-----
+subject=CN = webmail.grupwhattsap.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4775 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

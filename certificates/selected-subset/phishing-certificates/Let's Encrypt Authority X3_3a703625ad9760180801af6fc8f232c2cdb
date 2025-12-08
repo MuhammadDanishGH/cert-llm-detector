@@ -1,0 +1,76 @@
+https://notifica63887291-areaclienti.it/Sella/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = notifica63887291-areaclienti.it
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFmzCCBIOgAwIBAgISA6cDYlrZdgGAgBr2/I8jLCzbMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MTAyMjQwMjdaFw0x
+OTExMDgyMjQwMjdaMCoxKDAmBgNVBAMTH25vdGlmaWNhNjM4ODcyOTEtYXJlYWNs
+aWVudGkuaXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC8uYt+mnPK
+NaMGbiskAvJEhpd17v1jTyZpUuRiEedobKnaYdGY+y3Ss8DX+Pv9+Bb1CXUljwOz
+mPOHuG1vjsetTDolz2uY+FJ8drhHET6OzYQkP7Ob6RaxgSeCOgqSe14/RJ3VGHP6
+wCimKtm8GgAGoRCVMplTtFEtrfPTnNexVcBZ1mwMiO2+6XYs+e6j18Vg5EqJdL5L
+awek3BL1MgoekIkC7Mh3oOllW4MvhGkCVO+VYjcC/h+i15Vrawuto7g8gdN8Gkv6
+OEAHcgTbjy7XmhGJ+/Z2v4kZUuelBnLMvkB7RsCJwVD3K9K4p0M7nwhODlzWlh+h
+zgJ9/SMIzRpxAgMBAAGjggKZMIIClTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFPIg
+GH2xwMQx63AN24uTxBh0EPMKMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/z
+qOyhMG8GCCsGAQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50
+LXgzLmxldHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50
+LXgzLmxldHNlbmNyeXB0Lm9yZy8wTwYDVR0RBEgwRoIfbm90aWZpY2E2Mzg4NzI5
+MS1hcmVhY2xpZW50aS5pdIIjd3d3Lm5vdGlmaWNhNjM4ODcyOTEtYXJlYWNsaWVu
+dGkuaXQwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggr
+BgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5
+AgQCBIH1BIHyAPAAdQB0ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAA
+AWx955/xAAAEAwBGMEQCIFuM1TzAXv87dKUGAy+i/5QNlUk8TgwitmuEkh5LkwXQ
+AiBoSwMYndFACLAzy+8swvShBUjMPQ/FTka58iWhe2PtOAB3ACk8UZZUyDlluqpQ
+/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABbH3noBQAAAQDAEgwRgIhAK8PT68j9gpD
+Hb90w1eQUOrHOuLTwf6oc0CbpBTY3otsAiEA+5Pn1b4EZGCbUodtP6KL7d164s6h
+HMZJ56dZynJUfpIwDQYJKoZIhvcNAQELBQADggEBAEIzEzz8q3Qo2ecdkl3YXjrp
+HM/OuuHyr16SAEmHPVCamVnPwZsbP44p0IToMPkfI4/nhQ+wDJmEzDIzUfh68pWQ
+GinOouZGVaph/AkeCPd0BtQqkklobJMVsfsj2iRQmftXmpXgDaGtj4lrcK3GNlAR
+47tnfK9cZ27ple/9sVlcB+8yxc99saRIQJf0ytSGFoD4yEuWKYHrLyrc16keBAzy
+2G8ar/KGVEaKK8SaGMJJQaBTWwpli99ZiQmoOAEalI9oKdfYQQ2cmxZsdFRLbK9Y
+hbQm+rcEvIGy7ews4654SokMmQkZ2oktUqLPRkXVPfFWqJeNs9GniojKaX+lzzI=
+-----END CERTIFICATE-----
+subject=CN = notifica63887291-areaclienti.it
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3127 bytes and written 469 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: FD6C714C7BC798CCDF72AF5E88F3A6EFB4F63444A0298B02AA98ED73D4D54D4E
+    Session-ID-ctx: 
+    Master-Key: E71E4E49473287302F525098C6E9AC6AB3B9ECAD5432AF50CEB61374519CB0F2E58F80E7CD2CE4515542FCB11F838135
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1565614827
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

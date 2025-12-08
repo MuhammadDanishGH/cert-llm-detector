@@ -1,0 +1,70 @@
+http://produtig.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpcontacts.produtig.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGDTCCBPWgAwIBAgISBBqjwswEKLSXltyDBAHKlMQDMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTYwMjU3MDNaFw0yMjA1MTcwMjU3MDJaMCoxKDAmBgNVBAMT
+H2NwY29udGFjdHMucHJvZHV0aWcuZHVja2Rucy5vcmcwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQC077li5nEOGWf9Y5ZGPH3qbm2pcZCMJLufXT0m6Kg+
+UbsB7zf45xwOC7FISxYm+IoRu3Eo9Uy6IMp/TiWIf/w2z3wYpHpU0bKf0BTICzZf
+cD/aOV/ZvzGC06vzlMLThWcHs+4zTTHF0xDl4SapuNbl+DqPMqebHu2q358Sd8ZS
+Tp011rdtEVrpsSa66JtKCtYYp/VfZkkf59/tFT+uLkFJyP0q5FF4sGJTGpkay0Ma
+V5hTAM8JUU8YMegErpa9l1OyOl8U7CNT20Ek6K8lwDmZot8ZHrSOiS4bTOEpf+oE
+XYSZjFBT0f8SprMp5Hv72NFbxS+ZNvXB6GBZDrnuT4PhAgMBAAGjggMjMIIDHzAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwG
+A1UdEwEB/wQCMAAwHQYDVR0OBBYEFAB1m1BNxLDikbTN8iLcOFk2dEI0MB8GA1Ud
+IwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggr
+BgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRw
+Oi8vcjMuaS5sZW5jci5vcmcvMIHyBgNVHREEgeowgeeCG2NwYW5lbC5wcm9kdXRp
+Zy5kdWNrZG5zLm9yZ4IgY3BjYWxlbmRhcnMucHJvZHV0aWcuZHVja2Rucy5vcmeC
+H2NwY29udGFjdHMucHJvZHV0aWcuZHVja2Rucy5vcmeCGW1haWwucHJvZHV0aWcu
+ZHVja2Rucy5vcmeCFHByb2R1dGlnLmR1Y2tkbnMub3Jnghx3ZWJkaXNrLnByb2R1
+dGlnLmR1Y2tkbnMub3Jnghx3ZWJtYWlsLnByb2R1dGlnLmR1Y2tkbnMub3Jnghh3
+d3cucHJvZHV0aWcuZHVja2Rucy5vcmcwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYL
+KwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlw
+dC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBByMqx3yJGShDGoToJQode
+TjGLGwPr60vHaPCQYpYG9gAAAX8ArSvMAAAEAwBHMEUCIF689UJVTMZy/yvFPojZ
+qePwPPzoSreirdyCYX2HWWt+AiEA21LBSjA9DVYlgbSZwkTwXXukKNbjumqikZpl
+6saZpCkAdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX8ArSvm
+AAAEAwBHMEUCIAGEomDaLNbTUbHrNyxMg1wF9y+00I9n5mDohU7QUvh/AiEA4i5E
+hEDjlQD2zD/Qb1xi8TxxpZcjOxBtlKmuId7bGgIwDQYJKoZIhvcNAQELBQADggEB
+AGCbuHB55VEmf53IyoO5FlrjCKpOGcyLXFwWiF7U14hsHCHKoujz43jpQlQXHUEr
+qq7905xM4yZNkk0rckjhLrPe7MQ2DpTzz5M9AjJ3xDMq1SZKWGfy1YAiuCYhvoML
+O03bgQWUcBFTpccI+f7KK/goM72Kd5teQWqjzQr5IToPMoqwi/Udx9eiHUypoLmv
+Mbk29VBisOTO4FWzLvCYGExhnUsqYykfWrzGBuBR8+eUzt2tVYYWSyLAJKbSwXXd
+FOhoKaIbzxXSecRyfbcaFtwd3/+BPsUk+nhAY/AoWc+ZubcGVgo+LmrmVbTITWjj
+0+DwAUszOuIMJipQIQWSGoo=
+-----END CERTIFICATE-----
+subject=CN = cpcontacts.produtig.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4739 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

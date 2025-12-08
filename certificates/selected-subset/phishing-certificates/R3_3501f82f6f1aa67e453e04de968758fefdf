@@ -1,0 +1,65 @@
+http://amazon.oqv63.cn/signin/?openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amazon.oqv63.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFIzCCBAugAwIBAgISA1AfgvbxqmfkU+BN6Wh1j+/fMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MzExNDIwMTZaFw0yMTEwMjkxNDIwMTRaMBoxGDAWBgNVBAMT
+D2FtYXpvbi5vcXY2My5jbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+ALdatwYaypVgKEUUN48duBAgkGt9517k3VUXGGVLz1hQZ8+19lM9rzceFjIjSTWO
+FtQrzj+AIdP4pMdU+b7I4ac0+qkeqL31xgOUQv1rc7CHCL7axtZ+rk50ySJ43qQD
+u5cCEVXmIwSsbWrANJ29RpUHijC0FNmM+cEN/jbkZJYHKMWUQx2abxKj5J+SGgWa
+vB0AGTdkdIdkMdFOMNDWuGL3viRAccTd7AfU0YiO6KZXiAgpzyI5v5eiGDOUVsaV
+x0KcNgKKBJ8bve7Krgix5c8F6hwbZpIQt8grFza9Rwmrbvk6K7O9c0ASypvJYKXh
+Vf886NXMNryKVR+czFSE04ECAwEAAaOCAkkwggJFMA4GA1UdDwEB/wQEAwIFoDAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUxQ0VPH7bY3Ot7tHlSlvLLh4aQ4cwHwYDVR0jBBgwFoAUFC6zF7dYVsuu
+UAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8v
+cjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9y
+Zy8wGgYDVR0RBBMwEYIPYW1hem9uLm9xdjYzLmNuMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYA9lyUL9F3MCIU
+VBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF6/SbMtwAABAMARzBFAiA6v08JF6t9
+CkCrgoe7AmaI8pie3gCyd2CKLC1eQem+HAIhAKHeoQlKpjvEzRefrRJmzPGP6Ku5
+nyQURAEntH51JBqHAHUAlCC8Ho7VjWyIcx+CiyIsDdHaTV5sT5Q9YdtOL1hNosIA
+AAF6/SbMxAAABAMARjBEAiA7sRVNBax9PlyITzuAlbnKr4NCIqeSroVhbhVuiYtl
++wIgdtvItSo4gF09oApIYfr7QccEXeJtR2u3jnmqhXe/ITMwDQYJKoZIhvcNAQEL
+BQADggEBAGUTQv9indHRg8KdkcspZ/mVBrefe7rC66VAkX/coUliXyBQwDVo4rqh
+Ew96nsG0TWZKi8l59eUbylU+7FIihL5jKmaQILN/wJd1KE4hNEg3j+sCXwaSK+wj
+ELDohFn6gf0zPuoB02ltcf0GkeBKqLBEVqjZzd2RVk5KuJ7WwfCIAMVE8Mw96xBY
+uxdtOrVfQtd3ZuKIuzJ/rFjh65qd5zxN4CEtqJeuTWIavPZRQ1o+ZtQ/CJhybZYr
+hiZB7m0dRPbdrLfd33MHpzqk0kwK3qq6FjgI3KSSaiGkmQ9udOR/+1vfsLy+4ZJa
+BtfeeCgkTaAJhfzX7yKYDN+t0MWemIs=
+-----END CERTIFICATE-----
+subject=CN = amazon.oqv63.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4575 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,66 @@
+https://vehiclewrapture.com/owa/auth/logon.aspx?replaceCurrent=1&reason=2&url=marlies.verougstraete@renson.be
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = vehiclewrapture.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRjCCBC6gAwIBAgISBDPP8C3Li4EepAAXrU7B1q2FMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MDQxMTIxMDVaFw0yMTEwMDIxMTIxMDRaMB4xHDAaBgNVBAMT
+E3ZlaGljbGV3cmFwdHVyZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCiZBIwAoE/h53KJ9ONRsw3JvT2VDffU6etWkTcxiD2QwHQ9R0SxqLJKoWG
+SbM1VZW9pFEc7z9xQ205PyD+RcUogM3yhPmDmP2ciOnVP1XkAi4cpFUKupCMgfxC
+b79Vi5UV2sx33mozaq/GFBCo82/brycysaauMw0VfUoFGNemVwYLHTfs98ucxq02
+olxARMQoSUyF/fLHXHHRWdGLhf4DXGK/b6RrYvAe6g6RNKykKUrjb61ErCqaHToR
+DAjuwZkz6QDqS1HqSKX2z0fEVxRVN3nE0XgqMqlr+RuveROcD/h0Lgz1utGPeqyY
+wMV2boFqPuJOwxYxT9b4TqQAaQA9AgMBAAGjggJoMIICZDAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFEfhF2/cHCV9fq4NglxP9YlLRwiJMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMDcGA1UdEQQwMC6CE3ZlaGljbGV3cmFwdHVyZS5jb22CF3d3dy52ZWhp
+Y2xld3JhcHR1cmUuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+BQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAlCC8Ho7VjWyIcx+CiyIsDdHaTV5sT5Q9
+YdtOL1hNosIAAAF6cXcM4wAABAMARzBFAiEAw+s3BftLLsu+Y2UFO6MFXHNg4d+P
+ieCUj/KgxkMwKJQCIDu400grIGydcsqZ+hTIAu4w43zzBFJIUrrVn2F9GReAAHcA
+9lyUL9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF6cXcM1AAABAMASDBG
+AiEAvimlhGIDIeqpKOO1LWeNMP9cbvzzx9nuFgbKm+Bq/VECIQCDMaLUYifw9a9q
+dh33uhE3XAcN9QSiajpCntfUYr0QxDANBgkqhkiG9w0BAQsFAAOCAQEAit6zQUMR
++g/DuCAKZ8Gn1D+hJu3z5oyyIWoEZlPdCUCWasnLQkaT7aLoh/RmMfYf9A4sB5+9
+7keyPLiU3jnDSyIzwan66XRt+PeLRUl7sba/Slj2oCxa0yuqqBs/ce6RDbLPj6XF
+v4ST6xIfXa842JWf3AkwT4f7F5P8kX06sbcvaA6Hhr5PnHMmy83I3noPwZJftWmI
+khqLGEqEblGZH5Gp0OWgk7LOgzc7owIiJfKjeh9EP8DBnnvAdpT5+yTHx6L0+oYb
+uTXDYbvXEM23TFWt/s+3LwX1JkE/9TN2kxgh4yDs/ed3ji5mhSu12qQ6g8RX2R75
+tGm2mB8cEXlIyQ==
+-----END CERTIFICATE-----
+subject=CN = vehiclewrapture.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4610 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

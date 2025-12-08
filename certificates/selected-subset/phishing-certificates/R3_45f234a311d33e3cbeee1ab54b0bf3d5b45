@@ -1,0 +1,70 @@
+http://poassist-help.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = poassist-help.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+subject=CN = poassist-help.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5091 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

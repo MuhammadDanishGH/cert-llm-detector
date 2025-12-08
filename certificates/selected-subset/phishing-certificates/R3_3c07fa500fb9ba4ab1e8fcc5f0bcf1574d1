@@ -1,0 +1,94 @@
+https://addpromaster.design/ropmdouter
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.addpromaster.design
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRTCCBC2gAwIBAgISA8B/pQD7m6SrHo/MXwvPFXTRMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MjQxMDA0MjlaFw0yMTEwMjIxMDA0MjdaMCAxHjAcBgNVBAMM
+FSouYWRkcHJvbWFzdGVyLmRlc2lnbjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAMZIumCDH6Py8+bw5fgmgC6XGo+TKyksaUQ0WE2YNTIqwaDDBmQ42r3R
+eVt5bi4omkQi8yAvbaRsbJl5GRYb+HLv2tIyKijiJ7czMWYuquZkmjy2H+PFrSza
+zYnRzuIquBjYoj3bH3IEtIFbZk7FRPk7oXfWStPJ6obnrYKPFC0vWAzm39IjsVnt
+oENblaT2EgzphPm++ngh32C5amQb+lBYjcdsXmwIXkZGGPHTZP4LogHHTAriA5Cu
+jAlV0p8oFzHgw7HxN2fPxLTwq+tciGh3rNlyIWY5Q8udKjIj3czat6b/yK8fQ7iQ
+Dg5iNJvSmRvR1CpqxnwoxBPnw6U7RFMCAwEAAaOCAmUwggJhMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQUym41wHkanuyo4/GjDTd3+d+Uh2swHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wNQYDVR0RBC4wLIIVKi5hZGRwcm9tYXN0ZXIuZGVzaWdughNhZGRw
+cm9tYXN0ZXIuZGVzaWduMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+BAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQAp
+Bo2yCJo32RMAAAF62DAengAABAMARzBFAiByXKiu5s4yx//anCSMw1oWHngfjie7
+r12J+EPA0OAUSAIhANg1cqrOF51nv69livTngs8vgcgw6UaHJUJUb/2Ix25aAHYA
+fT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF62DAengAABAMARzBF
+AiAHNhNcvdGCH9rEYxlLERb15FM2++DfKiy5AFdRgYsoHQIhAN9OK+kRUAQzQiIV
+N6DbkvPv0elrYvaD7CVrc/d3T20KMA0GCSqGSIb3DQEBCwUAA4IBAQC62jYSCOMa
+xMSBeI6yLUAmqSK5CatEIV9E97a0fRQFSrcTM4HHapa2Q2XTZU4VkrI3wtsPCAht
+4qYAm1cPrlNmz4NUlDmlUCQtAJ+tMdQSgKk7og5iB3HP8oV3I9U7Fssv9XquFg8F
+OgxdEGpyVI4b1T7SOKHXpxuAyDmpyGhvg7Pgwsbf7p3aC0pY2GQ8u/xTRT5JVgnQ
+R+V5biRW/NLjBoPyckX5F7+jBS6e4e/qdln0VtIMH2FM36YoQWofnX8x1qRhQCX1
+2NDfM8qxa8x4AVmckGO9Pyyo1QnZklfCVOfRjXJQF805UK5oLBiM2ka1DHizouBx
+vpqXpreYGStf
+-----END CERTIFICATE-----
+subject=CN = *.addpromaster.design
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4738 bytes and written 414 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 4BF1AE7066D51DB841A221677B97F07D7DCC028F8D320DBA765E01F1688A0A8E
+    Session-ID-ctx: 
+    Master-Key: 8EB8A23E2492235334A1C7C9DD80AA8F4AA90A5476BB91722EBF62755D164D6187CA145616BACDC35978BEE87D40AC48
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - ab 7b bc ee 2b 16 c5 3e-01 b4 d7 c7 6c 08 21 eb   .{..+..>....l.!.
+    0010 - 82 f3 d1 56 3d 90 b6 27-16 71 60 81 8f 12 64 bc   ...V=..'.q`...d.
+    0020 - ae e2 8a 5e 0b 94 6b 4f-31 ed 25 1a 6d e2 ed bb   ...^..kO1.%.m...
+    0030 - 45 1f 97 cd 88 00 05 62-e2 6b 1f fa 30 4c 29 9b   E......b.k..0L).
+    0040 - 00 9b fe cc fd a4 54 7d-ec 42 2e 9b bc 1c 27 56   ......T}.B....'V
+    0050 - 6d e7 c6 83 65 ff 90 f9-16 64 5a 5e 37 96 97 ef   m...e....dZ^7...
+    0060 - 88 2f 5e 09 d2 41 37 75-49 40 3b 94 ef 98 96 25   ./^..A7uI@;....%
+    0070 - a7 3c 5b 56 59 06 47 d8-cf dd 9c ec 55 0f 25 5e   .<[VY.G.....U.%^
+    0080 - 62 64 58 2b 4e f2 4b bd-35 5d 19 af 6b fa d7 6e   bdX+N.K.5]..k..n
+    0090 - 40 7e 74 1d 57 26 bc f3-4c d9 bd 03 6d 1d d4 45   @~t.W&..L...m..E
+    00a0 - 28 12 65 e9 67 24 17 8a-6b b6 c4 b0 a8 fd b4 05   (.e.g$..k.......
+    00b0 - 73 8a 08 06 4b ab 72 d4-b0 35 7a 76 70 3e 0e 1e   s...K.r..5zvp>..
+    00c0 - c8 1b 6c f3 1f f8 42 50-cc f5 cd 0d c1 58 5b 17   ..l...BP.....X[.
+    00d0 - fd f8 89 4d 08 4d bd 9f-9f 5f b0 6e 0c 3b 00 09   ...M.M..._.n.;..
+
+    Start Time: 1627173533
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

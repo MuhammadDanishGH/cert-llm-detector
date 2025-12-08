@@ -1,0 +1,94 @@
+https://wileycocklodge.com/Videotron-Refund/banks/National/?&amp;sessionid=5e639134cbdf89db4243214a433b2426&amp;securessl=true
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = wileycocklodge.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF4zCCBMugAwIBAgISA0NKoCF2OjZFdRZLymBciTB4MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MDMwNjQwNTBaFw0x
+OTA4MDEwNjQwNTBaMB0xGzAZBgNVBAMTEndpbGV5Y29ja2xvZGdlLmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMexyjQdoXiwqHPHV/w+F8SurKkN
+WRocXrTtQo/m3lhaod1KVvd5FGwzs2LAtrBmm1E4poHHKlSfHWNkvWVNtBZ53aeA
+n0V6YftjyLZyOVmGHR9/eZPVW19FbYrH7OR2ba6GLLPVkL6Ty4t2wcJcKf2MK3qS
+pG2ejDTUr6v7EOy7rJz34+fssL/Gwl8pWIuO48XGiXOsXgXTGiA3HTcso8wu18mT
+J2/jSMjlsyjRq0NVkZ27+23Dw5oYiua/ufo3ABQWXkkGVUcRb1K4YVeWi+Xq0Jio
+NcgWgPUtDQYPM3nYmQyMQiALGANpafjT4fEKdctQ+8JS2dSi21FV5shLaL8CAwEA
+AaOCAu4wggLqMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUR3vG2Nq64FRXVP9cXxOl
+mDbIp1gwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzCBowYDVR0RBIGbMIGYghljcGFuZWwud2lsZXljb2NrbG9kZ2UuY29t
+ghdtYWlsLndpbGV5Y29ja2xvZGdlLmNvbYIad2ViZGlzay53aWxleWNvY2tsb2Rn
+ZS5jb22CGndlYm1haWwud2lsZXljb2NrbG9kZ2UuY29tghJ3aWxleWNvY2tsb2Rn
+ZS5jb22CFnd3dy53aWxleWNvY2tsb2RnZS5jb20wTAYDVR0gBEUwQzAIBgZngQwB
+AgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRz
+ZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBvU3asMfAxGdiZ
+AKRRFf93FRwR2QLBACkGjbIImjfZEwAAAWp8o37TAAAEAwBHMEUCIQDsjceZTZG6
+bFb9jdyNm2A2+lzZ7KoOp4+Vnv0DBH4sqwIgTbikcttCUdnNw/XN2bX6/pg7GAVh
+X5dnDObgKy8GMD4AdgBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4scdoVEvYjQAA
+AWp8o37CAAAEAwBHMEUCIH+Sd/KiW0hPt9N52WfqBGjoJNGeAMo0acbEpgXNKFgb
+AiEAnX4x6ezWfWHjLEjTI7YpTJLpRPv5bSZCiKxnbBwxEAkwDQYJKoZIhvcNAQEL
+BQADggEBACe0SNA03pQSjcXK5igXgUaNOJ0P9libSGsOMRXWpmxz2SAgT0GNgflB
+GOprHVvUOf7/fAwi9lIawnsQVCr28U00hk9LjYHkH5sgtEW4JdUJBaIUFlxYmlOP
+vY0CVOjy2LxkkfdTNMTFesKkDSY3I2lLC0y+g4EgB/TaU0Cn0lUsqNRGsZQ2RQAC
+JZkmTTEIjlk2AkpmMQLsAYaIdVQrD68JtXsd7tzdHcsr03GgAcwmnwg9Yz1vtbbi
+DkYba7Ms668VzeGZfEqCM50HrXuXsZLiIi5WOUKP37JIAdXzIicRfukkU1A3bclQ
+65dHA0jVMQ7QoQrGGxl8KzhIPX0b8F8=
+-----END CERTIFICATE-----
+subject=CN = wileycocklodge.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3394 bytes and written 456 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 28818517DDE017F8DCE6F12E693C143010D53C8C66D15448164805FB573139D8
+    Session-ID-ctx: 
+    Master-Key: 7E7FB45414EBE0D4868F7C547BF96F04C11DC7557B9AFE6E6208EF952A2D3C702F7E7E67637D86ACABB416F1A7893223
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 9e ed 41 32 63 02 cf 57-30 a9 c8 7e dd 34 71 78   ..A2c..W0..~.4qx
+    0010 - ba 82 b0 62 01 63 65 47-c6 8b 92 5c 4a 71 13 12   ...b.ceG...\Jq..
+    0020 - 57 00 28 50 1b 8a cb c3-67 7d 2c f3 69 4f 38 e1   W.(P....g},.iO8.
+    0030 - 87 ff a0 e8 23 17 ef 02-f5 2c d5 13 b2 a7 d6 07   ....#....,......
+    0040 - 83 af fe 9c 99 8e e5 07-7f c9 b4 ee e8 13 9f 19   ................
+    0050 - fa 1a d1 d3 b2 33 99 8f-64 51 04 9d 10 16 65 27   .....3..dQ....e'
+    0060 - 90 1c 1e c5 b6 1c 35 48-33 5e b6 04 6b 52 6e 22   ......5H3^..kRn"
+    0070 - 02 45 f6 13 20 e5 e5 f2-dc 25 47 71 62 14 1c 36   .E.. ....%Gqb..6
+    0080 - 49 65 28 1b ef 5a 8e b2-6f 72 27 dd 0b 26 bf aa   Ie(..Z..or'..&..
+    0090 - 94 e4 12 d4 c4 35 b8 4a-e5 34 75 a5 0f e7 c2 16   .....5.J.4u.....
+    00a0 - 5b 71 cd 03 4b 91 39 55-ee 8e d0 1e ac 8b da 12   [q..K.9U........
+    00b0 - bb 8c e5 bb 1f 04 31 4a-f7 a0 08 8e 30 cc 75 43   ......1J....0.uC
+    00c0 - 1a e0 f8 00 dc 7b ac 98-aa 03 6f e9 0a 54 ee 7f   .....{....o..T..
+
+    Start Time: 1558702828
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

@@ -1,0 +1,66 @@
+https://berardisdetailing.com/MG/Invoice.doc.secured.pdf/Invoice.doc.secured.pdf/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = berardisdetailing.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFSzCCBDOgAwIBAgISBB6Sc9Q1+kiihUNPzGB4BaGPMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjAwOTQ5MjJaFw0yMjA0MjAwOTQ5MjFaMCAxHjAcBgNVBAMT
+FWJlcmFyZGlzZGV0YWlsaW5nLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAPtuOnqvO2s9VdlJoCt2DaC09YuI8XOegoxLc1ii7z7oOIImYeFskZHP
+C++TAYaULxRxGfjoeaN3LNVvBKp5dyz0MzFtJe78ZW6GFjAitC6FDsjjXkO1gwAJ
+Tdpz38T4nKwjs9FAyw3wkJSbb2QVk7vyw5NZPEMx5p2yuduQh34GEKGV92b3QKXq
+agAMHle4Q4T0fJOqxrvCKHCqANyWYoj0NDFmR0VPJjYJtqgAhwfscgdpwHxji5xp
+jSoa+jqBOFumJDIDiQxXfmAWVTMJjEQcAjodDS9Gs+FE7eyi9ybSfeWW/wqAMpdj
+xl11zuPLmkj4UXLzHgYCNURVFPMCIzcCAwEAAaOCAmswggJnMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQUw+Is81vl668y4++3XSZZcF5AfAUwHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wOQYDVR0RBDIwMIIXKi5iZXJhcmRpc2RldGFpbGluZy5jb22CFWJl
+cmFyZGlzZGV0YWlsaW5nLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEE
+AYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9y
+ZzCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AEHIyrHfIkZKEMahOglCh15OMYsb
+A+vrS8do8JBilgb2AAABfnca9OoAAAQDAEgwRgIhAJcXGbdQZNVKAUcqCThMsDKo
+fvbRoqNpT4mHwiwEhGusAiEAxs/EQ3AfQWyNJY3pnxDqMmQbXTUQT4H87W3TIYkY
+HhUAdwApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAX53GvTYAAAE
+AwBIMEYCIQCaKvVWFkbp9OSJ8qrOSnkPwZ+AuIhvfRafoQlbhXLjEAIhAKOJ0Vly
+OnCwUUfKiXBih3mG507PpRpFaiYQ6U6+EdQ/MA0GCSqGSIb3DQEBCwUAA4IBAQAz
+JsmYsVMm8bmnF+qTZ0Ut1k+yoBOyuuTDFOQuicHDkG8VxrFofZd+AN38OU93Vtrx
+XMVHFHEXjWhWWd/zvR0QCtvV5mV9L/Q8FZb2/oI1KeAdeBcEpSZpHq1VU6GOq2a9
+IAC4Dyln3PHwdkfR0lt2r+jX1Hc3ajhAI+n2vCJ0IxVNuQmEeOANA1Dh40DnjtaE
+YfAqHMZgb5qyCLIXLfchKdp/6Aq/uYtHtenSOIgt69iU4B+iGe25ByuY5vvMlaO5
+clK6Ejbnfr308cBlxmhEy7Ia2NeqtflqXqCjB1Kqkg4HAhVR7J8/9nk4QOjK+6Ak
+2zxaJu01axYEXE2qrRqq
+-----END CERTIFICATE-----
+subject=CN = berardisdetailing.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4615 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

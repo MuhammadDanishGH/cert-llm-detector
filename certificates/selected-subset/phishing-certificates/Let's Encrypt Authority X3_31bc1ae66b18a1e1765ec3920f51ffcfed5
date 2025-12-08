@@ -1,0 +1,75 @@
+https://fiddle.jshell.net/ux61krev/1/show/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = fiddle.jshell.net
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFWTCCBEGgAwIBAgISAxvBrmaxih4XZew5IPUf/P7VMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMjUyMzAwMTJaFw0y
+MDAxMjMyMzAwMTJaMBwxGjAYBgNVBAMTEWZpZGRsZS5qc2hlbGwubmV0MIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2fnIcIVZQy6D3r86lgseQmybYdMQ
+hBp7D8aOazNEIjn7urhgMAYqWocpUHXMjApagrUgeLAXetqA+gaFM1CJ8D+UKKlN
+DMgHrulicuXBDVGBp+qZXBJ2nB+tz8PZjJ3yGJJLJq86AeAIntOWgHelhkIn1Meu
+LEMkd5jxFqpWUPBmBlajQbi4rt77M+Lu9sv0CGnw7XzJ/9jFw7cw+sUGf8fmz1iL
+tjDnyFDNTf7Rcmh2zI699GwrbIReP65UUFgf0kKpKt47T5mk8uOugl6ILzXgveiV
+A6k6BpZ0ZLgA1Z3kr3tOvLVHJGByb0bYP+nqSK2AFZMe3IOLZ4QhEnrQYQIDAQAB
+o4ICZTCCAmEwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSPcrlXYshf2bARz7zZ2hUu
+Z6Dw1DAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMBwGA1UdEQQVMBOCEWZpZGRsZS5qc2hlbGwubmV0MEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAXqdz
++d9WwOe1Nkh90EngMnqRmgyEoRIShBh1loFxRVgAAAFuBV0EPwAABAMARjBEAiBk
+QN/0NyO1QgbET0L1f6nk9rroYWacFA1n/bdoUZhSugIgHJT0+oc4VrlnPlxm8d2f
+u//r0WN8+MQ+lglSkwtOShcAdgAHt1wb5X1o//Gwxh0jFce65ld8V5S3au68YToa
+adOiHAAAAW4FXQRrAAAEAwBHMEUCIF16864Lw1qul+Lmy5RM0QikaZdS1+Krnejo
+UG73OULXAiEA1x/OSQoLpniexLmRr7VV8HTtG2Ht6Bi7nLLMSFTGJ3YwDQYJKoZI
+hvcNAQELBQADggEBAGZKTQ1XrU3kGrzqQTU8u0uzIVC8TV+YEAGISwRGp8+HMSG2
+jV0dzToMuhZ6iYvFX/enuQKdSnwSQJSv4PNAUqJCqYTxKYQolRuW7xlsE5WgHasW
+kIS0GLEpuxZ6qMl7Ek+gFAPVuh21T5rzNROMv1kxZV1gmCRpcaDjD8s9TrPVHyl9
+rPZo5azlF4UJlRdaGeX56KIZAOXYB06J6EXM9Zgx3RSigYLxAqzW+JjdWZJqHCjJ
+ybC6Ow8YMjGdVXQam2vkZUGml2yP38r8p4GlVKxEBC082qvAOaxrY8EQy7kl9Udl
+6Htds+nldIY3awdfyTr3gR7y4Q2EwLpgzSHOVg4=
+-----END CERTIFICATE-----
+subject=CN = fiddle.jshell.net
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3024 bytes and written 414 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 9714557FEA0F8F872587B4C6A71AC6B6BC347F07E2BD9EECD5F2025F8AF00F47
+    Session-ID-ctx: 
+    Master-Key: 076E245B7196CBAAFEA6DCD347EEABB1FA4694FEB798DA3BB6C6FA20166F2770E612E2C5B3F092896A8E3A33E2F4A113
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1572184832
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

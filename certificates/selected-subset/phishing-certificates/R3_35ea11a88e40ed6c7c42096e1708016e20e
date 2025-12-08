@@ -1,0 +1,71 @@
+https://irs-govmaiil.webredirect.org/form/personal
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = webmail.irs-govmaiil.webredirect.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGVDCCBTygAwIBAgISA16hGojkDtbHxCCW4XCAFuIOMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTAxNzMwMzlaFw0yMjA0MTAxNzMwMzhaMC8xLTArBgNVBAMT
+JHdlYm1haWwuaXJzLWdvdm1haWlsLndlYnJlZGlyZWN0Lm9yZzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBANY5lICT6BX178quELOO4yeU32EsYmcGTzAG
+nR5mQYnBHQLCm+3QYm/cvaNYnOSnPAD4ycpNHXOVGUDTPezDfhwXqouoBTIa/eey
+u5PIntqGRJphCGFEZAx2xB8FC6HdvakmggNuymxJIR5KPtzJc4XL9IEUZNf/lq+W
+KUN/c6QuU0QjP83p20TUXK+7O0xYTflLWrGevqLmBQVF5kNSk7tFrGIMYF5bSuCG
+ns9j/VwVj/2aBeSJOJ1ldnymyINhb6e2SUdUk2n2X5o7Bn/U5P+Hs9oc6vco/BsO
+ko1cMqC6INI+hmJvbEGEhwuoFBuieZCrsntNWb+mzeWCzImNDJsCAwEAAaOCA2Uw
+ggNhMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUguPOkPkEYmrbAbwYFXIifBwNrDMw
+HwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBH
+MCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKG
+Fmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wggE0BgNVHREEggErMIIBJ4IjY3BhbmVs
+Lmlycy1nb3ZtYWlpbC53ZWJyZWRpcmVjdC5vcmeCKGNwY2FsZW5kYXJzLmlycy1n
+b3ZtYWlpbC53ZWJyZWRpcmVjdC5vcmeCJ2NwY29udGFjdHMuaXJzLWdvdm1haWls
+LndlYnJlZGlyZWN0Lm9yZ4IcaXJzLWdvdm1haWlsLndlYnJlZGlyZWN0Lm9yZ4Ih
+bWFpbC5pcnMtZ292bWFpaWwud2VicmVkaXJlY3Qub3JngiR3ZWJkaXNrLmlycy1n
+b3ZtYWlpbC53ZWJyZWRpcmVjdC5vcmeCJHdlYm1haWwuaXJzLWdvdm1haWlsLndl
+YnJlZGlyZWN0Lm9yZ4Igd3d3Lmlycy1nb3ZtYWlpbC53ZWJyZWRpcmVjdC5vcmcw
+TAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcC
+ARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0
+BIHxAO8AdQDfpV6raIJPH2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAX5FQa/E
+AAAEAwBGMEQCIEf0dUgekebXmitxjyVOc0c5s2K1Ax+NMh/HrD8N1SNpAiBwtNRH
+Y6+2EqBXEtQxIjmHDUjEfDEUWug9tPuOXJNXpQB2AEalVet1+pEgMLWiiWn0830R
+LEF0vv1JuIWr8vxw/m1HAAABfkVBr+0AAAQDAEcwRQIgCI/MKs2mxGZA0f7J7JFf
+zGUSCcmhybC0CA1cdV3qziwCIQDONgvPzah5SkPllG0Bugf/DzNRzKng81Zq88px
+LggnmjANBgkqhkiG9w0BAQsFAAOCAQEAlg3vTUzPgj+JUOwUmVjaPs2HiJONOUxl
+M/sjKIT8v+8wyYE+UNZ+e6Sl1Gksnp62ba2bottiXM7IYKmybD4QwUzut3h0uuM+
+4IvRGdZzmqOGkFKRGSl6uSXD6vgP5yE5ykSw2AGH9+/Wme7IADlk/AWqrrVFrPPP
+5BP40iE/5lW4r0g63JgTHCahG1ygnVB7kX903XSaVcpSkgJjbixgSBmf2mLzTlO5
+o6rafRkIcheHKcLz8qkTuG+9aQwXyQ961zbciZ3CIk5VQV1g7gRr10FNtmTGmt4l
++bK27nM6Pc0Is+VyoYS++Q7pWCKN0f+wYMVlarifjjcqCDWSnelOVg==
+-----END CERTIFICATE-----
+subject=CN = webmail.irs-govmaiil.webredirect.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4880 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

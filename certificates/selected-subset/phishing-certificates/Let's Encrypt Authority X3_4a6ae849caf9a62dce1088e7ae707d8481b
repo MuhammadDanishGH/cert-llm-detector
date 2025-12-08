@@ -1,0 +1,93 @@
+https://atc.com.np/image001/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = atc.com.np
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFqTCCBJGgAwIBAgISBKauhJyvmmLc4QiOeucH2EgbMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MTUxNzI3MTFaFw0x
+OTExMTMxNzI3MTFaMBUxEzARBgNVBAMTCmF0Yy5jb20ubnAwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQClZZh6zusuhJtr5L9JRuligZdFhUZhgHi5qbDq
+mP9//Tls/YC/2TtLXU1IYJE7x4cwGZcm970YxM7xG2+YFV7YO8sz0Yu7uRAlMOvi
+9+3HKpOQQRtDc3MjOlaGnHADMvT+vLp1DAFt8D3oCjrWEI3jsl/3ryVsRVK4MPSp
+b1umDoQlPpdzyuuBQxBpcH2Ay0PK6fWYTQ9dDQTYU04GIOaMpNnVtB/bOUXbtGJn
+TnwRgjto4Ybx4YFN2VN5uAgfOJoKfr6RTOcxprnQKuzCMhA4+f7H7Gy12dzA/UkS
+9pJSJFh7xDjh6v3V3hLLhsBZTdWqQkLsGJBAyBpMv4BPawNNAgMBAAGjggK8MIIC
+uDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFKOtBmtln6+BnGnIQL9XYvfgRsFxMB8G
+A1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAu
+BggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAv
+BggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8w
+cQYDVR0RBGowaIIKYXRjLmNvbS5ucIIRY3BhbmVsLmF0Yy5jb20ubnCCD21haWwu
+YXRjLmNvbS5ucIISd2ViZGlzay5hdGMuY29tLm5wghJ3ZWJtYWlsLmF0Yy5jb20u
+bnCCDnd3dy5hdGMuY29tLm5wMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAdH7agzGtMxCRIZzOJU9CcMK//V5C
+IAjGNzV55hB7zFYAAAFsloic6AAABAMASDBGAiEAsDpmW5LgHkyRN37C4kei0klZ
++4iQFCpEk37hY9r+D5gCIQDBT4/8Ad7RHaA4vJFQvcgivzep4mRAV2jDhqJ1M9Vf
+SQB2AGPy283oO8wszwtyhCdXazOkjWF3j711pjixx2hUS9iNAAABbJaInNMAAAQD
+AEcwRQIgPOqzgccGDWaAFZaZjVE5EZ8/PKH7/kMlXIKK7HoDC0QCIQDZKrFk84ls
+PJRyhOloDIdbI3WOy5tpCplIfKQy3U1+nTANBgkqhkiG9w0BAQsFAAOCAQEAnE6S
+Oe8RRgJpRubcQfY9rnVa4X7UyZCjTbZo/v1o2ceNy7P6LXO5auDmUMynCbdo0y4o
+IpwK6yfujE3rVfhn3JPQ+Q7SraeZA7LJz0STsV9MR2tkwsLOyy7pDz5wv70L1elD
+S7EFCSddxhU3E1cMII8fFen4WjIUetHb4qBVnhKZ5kJd9TtxQhgJC+n4suTBx1Cf
+ag5z+G3/zfUaOuJDARqySRB4oy2kmNowrQ8BPV/W1wvS2KfJGN38m2rYHjvWQngU
+yFZ/jYOIVDxEZW0+TEfSvtgPfE0+AiHV2Zm3bXzc6Ak33/8xdbXOXzEfA7+Rot0S
+ixtjw9juHpx+j2P/5Q==
+-----END CERTIFICATE-----
+subject=CN = atc.com.np
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3336 bytes and written 448 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 98B5D6B6981CB4DF77E04D3C3C426DE2936DB0F545B1BDC8925A45ABB4AFAF42
+    Session-ID-ctx: 
+    Master-Key: AD5F8B715CF2D57549F197531344835E3239AB363C39270A26A50261AA54F068ED01AE54DCB87187CF413C641497489D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - ff 8a 33 16 2f 7b 26 3a-22 44 48 21 d5 ee 8c 6f   ..3./{&:"DH!...o
+    0010 - cd c5 e6 9e d7 70 fb a4-05 bd 44 06 26 9b 8b d0   .....p....D.&...
+    0020 - 1b 5e b1 ad 88 76 1c 74-d3 3b b7 ea ec 12 20 85   .^...v.t.;.... .
+    0030 - 3f 8f 13 f6 c3 b4 04 ba-61 df 8b 80 f0 9e fc a0   ?.......a.......
+    0040 - 46 d6 55 b2 ae c3 76 95-bc 03 fa ae 7b f8 3a f3   F.U...v.....{.:.
+    0050 - fc 5e 34 d4 d7 e2 c5 ca-c1 04 a5 9f 2c a3 ca 96   .^4.........,...
+    0060 - 6b 5f 46 96 6f 7c 4e 1c-9e ae 72 4f 77 c7 56 7c   k_F.o|N...rOw.V|
+    0070 - 32 06 f2 72 a8 0d 93 8b-24 0b c0 dd 07 a7 26 99   2..r....$.....&.
+    0080 - fd a6 4c d8 6b 1e b2 7b-b3 4f a7 67 cf f7 17 a7   ..L.k..{.O.g....
+    0090 - 3b 3a 68 c3 16 f1 ee c4-5e 8e 3f 83 f0 7d 1b 98   ;:h.....^.?..}..
+    00a0 - f1 a0 67 70 bb 7f 1a 6f-3e f8 27 1c ca 40 3b 3e   ..gp...o>.'..@;>
+    00b0 - 17 5d 8e 6a 61 61 f1 54-3e 93 19 fe 37 1d 04 5d   .].jaa.T>...7..]
+    00c0 - ed 36 e3 e2 44 2b 8d 83-e9 8e fc d9 0e 68 9c 40   .6..D+.......h.@
+
+    Start Time: 1565960429
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

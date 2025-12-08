@@ -1,0 +1,63 @@
+https://ublinc.ca/alaskausa/security.html?cmd=login_submit&id=&session=
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.ublinc.ca
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJzCCBA+gAwIBAgISAzwPAqWtXLQKPVYUDOWDNFrVMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MTQwODEyNTFaFw0yMTEyMTMwODEyNTBaMBYxFDASBgNVBAMM
+CyoudWJsaW5jLmNhMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsm6o
+n7NmEtFra/dXLUkNLECIB1yKvcWtbUNu/o3ohTBVFIPbFGXGD6z9dZBeZoUQU815
+BbFUEbnacAKeYtQ6dPpb1Y1LhbqeGU1Rwh14SgYPDir7NrRJIbonkQ+BiiD1bK4x
+XHWpE1fmdigL67mu+E1m+ZmUEffRRStoAotz52nbCV7zIDs/dq2YvyeY5eOd4WBA
+tfhhIgSVlSFaiOxDvsQCT4VfRLG78WXINVenjaBFQzMx908pXqKeGQnRCSPGTh/x
+AYf09/cjdbypj5MY5N3rIVmgzgylei1hX+of1kUu5QEkyYbhlBi9/WK1Ad0VV5Ki
+I32fALEUW8gkL+5AdQIDAQABo4ICUTCCAk0wDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBRiXJNwy0wHIqASxp3V2F58JdrGdjAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDm
+H6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5v
+LmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzAh
+BgNVHREEGjAYggsqLnVibGluYy5jYYIJdWJsaW5jLmNhMEwGA1UdIARFMEMwCAYG
+Z4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMu
+bGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcAlCC8Ho7V
+jWyIcx+CiyIsDdHaTV5sT5Q9YdtOL1hNosIAAAF745SZkQAABAMASDBGAiEAs5Fv
+f+XtRSpEWmS8n/wd9ZNMmREE6AMRQyO0lgUEoakCIQCIZzBgi++2tUfH0lLPS0WS
+STDeIHGPdbTq8NmpI/+VyQB1AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+
+IvDXAAABe+OUmbkAAAQDAEYwRAIgUrtUgjlrpXQ/iBMIHd18v+UhzLw+Sy5aWd4n
+3huNdNQCIERaHBSg2fdnkgyPa8xGKDJCU+EXYW8YLO7TR5TTxW/HMA0GCSqGSIb3
+DQEBCwUAA4IBAQBFLO6yVi5DucB8bNY7C8YlQUmlDxEmKCF9fpxa2gxnqF/8L7mG
+U2U0TH/vY5fjhRs+O3q4mK80nYrPT6DaQcuaBuNCOtXs1Ya/7GLALYph8A0KDGKO
+QJ8kqgRfxqinjl0Zlrg5XnGS1iDosqSGNMDxUQ+jp06hl0nEUOCxAYZEel8/giBY
+NfdK3fgG0T5sDhShzcJ3wbZ4A0bI1nW0NHnr1leb+bihsqGOVdCbih7zh7iozgLa
+5XQa5sdSaQOq9E93mgRmwtl3pozRawc4ypkISQkSj885Lcspu1oWvv1VubV+ZR/b
+W7D2XIBm7JN2NZjLiC5Z0FOGOvgkf5Q8u1YJ
+-----END CERTIFICATE-----
+subject=CN = *.ublinc.ca
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3194 bytes and written 383 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

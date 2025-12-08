@@ -1,0 +1,94 @@
+http://saddestwords.com/trade2/LinkedIn/LinkedIn.com/piled.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = saddestwords.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF1jCCBL6gAwIBAgISA1iKqEt0/rscq5Xvd/FpWbm0MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMDQxODUyMzJaFw0x
+OTA2MDIxODUyMzJaMBsxGTAXBgNVBAMTEHNhZGRlc3R3b3Jkcy5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC63TrL4pb7G6ufRt7SWdVZkAlPAEF9
+//0/W+tNTFzy9pDrJ4qUPU3H4sFjC/73tEId5HIQP2MNvC8t5HPAxHa4oj+uo9cF
+DtsckJXuM7DMG+Gwgw0XfwxyIn+9IDyhmljRWUwYZHOX5vh+1wlT4qrddXzto8sn
+ruK3dxpbdHlthHjXDuhA0TrVusgv+4x3EUtkFRDg1FyCVznU5p2zxyAk87LxkwFd
+L5J2a5b/rbCHEOLPb6DEdNLjgPNd69S31fWEItrc1dQVMZSdIx7XhXofVq1UXlQl
+2/ptRHeU7fsDNtCoS1wh7jlVdeNc5XaxZySzBwtz7oK2HbRzRNum+w0rAgMBAAGj
+ggLjMIIC3zAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFLk9AOBsJJuDyNpE13Lo47BE
+6/3vMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEB
+BGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZy8wgZcGA1UdEQSBjzCBjIIXY3BhbmVsLnNhZGRlc3R3b3Jkcy5jb22CFW1h
+aWwuc2FkZGVzdHdvcmRzLmNvbYIQc2FkZGVzdHdvcmRzLmNvbYIYd2ViZGlzay5z
+YWRkZXN0d29yZHMuY29tghh3ZWJtYWlsLnNhZGRlc3R3b3Jkcy5jb22CFHd3dy5z
+YWRkZXN0d29yZHMuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+BQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcA4mlLribo6UAJ6IYbtjuD1D7n/nSI+6SP
+KJMBnd3x2/4AAAFpSkPVTwAABAMASDBGAiEA52BBbXd+xsoDmO5cg+shEbPajQgH
+hR7vY6GIShbRbv8CIQCfBWwwPB93AAfgqXeadUK84KTq4DFeWSwHSr5xbhpR2AB2
+AGPy283oO8wszwtyhCdXazOkjWF3j711pjixx2hUS9iNAAABaUpD06MAAAQDAEcw
+RQIgQXdXe1LLz8CzfFE3iY+NxktSnqsfBUGr1coaYpEQ0+ICIQCkDuF+JyZM+4t0
+kTUB50m0S7LN5OhkbzUMFncAriWUSzANBgkqhkiG9w0BAQsFAAOCAQEAB4i4m4Cb
+0j9NNKNlPUIeRCsyz5SvLt9nm9K2+Hu+mQfpEiMUDn943hlFUrDjObh35p5OHTrB
+ZPFLZuAqDdyLsYKfi27bWtcBiDIwFRqejcM6yQsKweOinbawa+SMwojHRMtoMJ3b
+IBg4RV0DyHyQxsHG2GLca5nfmW/ZXVvqsHLKa9rMh0GizlJP1UXHBLRkmK4XXldm
+QDarIG6tD1RF8KXsnItsEu7QvYHGtzaXcMT3h3ivyxRs+0uCYqe+fi2i0mIbVP4+
+SsyvDs/qhrV88xzN3LgdwrkGuZjlis3juCONTWa1gcxdYV7Z6jsC0xUS+yDpwBAI
+IRf1Gu3mKvo5uQ==
+-----END CERTIFICATE-----
+subject=CN = saddestwords.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3381 bytes and written 454 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 9ADA7F1E265BAF9336439E303DC836051F826FADC0DD527F4648B0AAFDF3067F
+    Session-ID-ctx: 
+    Master-Key: 02E73A10509AE113E65397F0FDBEC4614233D9CEF8FDCC706267D18BD0682C39F700DEC6291DD4EF775D267C6F718061
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e4 7b 6b 4d db e9 5e 77-52 81 58 84 da 3c f5 b3   .{kM..^wR.X..<..
+    0010 - 1f 48 36 b7 65 ad a8 02-b2 20 30 ab 48 88 39 32   .H6.e.... 0.H.92
+    0020 - 0f 15 ea ed 4d 12 54 56-07 ea 31 63 e8 e1 46 ff   ....M.TV..1c..F.
+    0030 - 0c 13 b3 ed d8 df 8f a0-be 57 05 43 2a 5a d1 bb   .........W.C*Z..
+    0040 - 70 d8 34 00 6f 31 f4 57-d2 fe 35 b4 04 14 af cd   p.4.o1.W..5.....
+    0050 - b4 70 eb 8e b0 ff a3 6d-1f eb 39 75 07 05 d4 92   .p.....m..9u....
+    0060 - f3 d2 1a 00 10 41 95 a7-77 73 b9 e5 e5 85 7f 90   .....A..ws......
+    0070 - 7a cb 33 ae b6 6f 7c fc-39 98 0e f1 46 1e f3 ae   z.3..o|.9...F...
+    0080 - 06 ff 09 8b f0 2c 5e fb-20 e2 89 21 ed d9 f2 f4   .....,^. ..!....
+    0090 - cd 83 85 5f 95 03 47 a1-74 c3 47 9e 70 2a 27 64   ..._..G.t.G.p*'d
+    00a0 - 70 71 4f f9 58 aa 28 6b-eb 5c b0 86 9a dd 6d dc   pqO.X.(k.\....m.
+    00b0 - 8a 53 0e a9 6c 17 94 7f-7b fb 92 7d 93 1b 23 ec   .S..l...{..}..#.
+    00c0 - 2e 49 74 d4 d3 0e b7 10-1a 91 5f 0c f5 a0 61 36   .It......._...a6
+
+    Start Time: 1555419618
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

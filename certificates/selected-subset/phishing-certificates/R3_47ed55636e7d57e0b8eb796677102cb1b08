@@ -1,0 +1,67 @@
+https://www.mystifying-nash.45-81-232-15.plesk.page/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mystifying-nash.45-81-232-15.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFgzCCBGugAwIBAgISBH7VVjbn1X4LjreWZ3ECyxsIMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDEwMzIzNTBaFw0yMjAxMzAwMzIzNDlaMDIxMDAuBgNVBAMT
+J215c3RpZnlpbmctbmFzaC40NS04MS0yMzItMTUucGxlc2sucGFnZTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAMRecT0O6WXrLuiLTJxzP9Icq9bQZGAd
+3dAuk/tI4LAAlqeI6bTj3aRlLgbVk5U5FA0s+H0RMVqFCOp2jT4Bq6/x9Y1xJ2aM
+N1NmHNl4RotbiVMp6yPM9y3YHYpyGi9vdGAw5HdqEhwLayNKyrD5F5OG2VdLvpdb
+AV9jpzyYIQZRRlGVcqW9Y/ttx+IN7J4ZCiCr/kjxLKxulmVbiF4vexMhqewbVaxp
+ftuFZve3FY4uKW6o5uO9ophkBbjG8qYruRPi9uN+/MSYrsYYCWCaolh/tg9tdPtn
+ztgrIo8MDfXERzqgFotDnLtvGQcJ5ET9dJWBUgCLKc8I85LmlG7JTDkCAwEAAaOC
+ApEwggKNMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUSM81MEuYDQ+4jiLqJ4Hvb9RM
+T6wwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEE
+STBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUH
+MAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wXwYDVR0RBFgwVoInbXlzdGlmeWlu
+Zy1uYXNoLjQ1LTgxLTIzMi0xNS5wbGVzay5wYWdlgit3d3cubXlzdGlmeWluZy1u
+YXNoLjQ1LTgxLTIzMi0xNS5wbGVzay5wYWdlMEwGA1UdIARFMEMwCAYGZ4EMAQIB
+MDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2Vu
+Y3J5cHQub3JnMIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcA36Veq2iCTx9sre64
+X04+WurNohKkal6OOxLAIERcKnMAAAF82b09YAAABAMASDBGAiEA30NLMOXEveZE
+TiWB6jJ9rG2ox4CkaNpl/tn13B1KLskCIQCQlYs9+3PWZz0j81CNUM4hiPmsckxF
+CuYfFa+naNPmiQB3AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAAB
+fNm9PYgAAAQDAEgwRgIhAOl6Dva2KinKJlekEGGXawir5glwBN6R9VEEaXcUnVLV
+AiEA97YU7VAwI1JXbB/y3p3u+8DPRQJB4KTNukHLRXi72UQwDQYJKoZIhvcNAQEL
+BQADggEBAIDpSwJ5WCYaCuFa1xwDB/lizpgSw5nq30EpUYm3TLyhc+ar7NqRR/jY
+m55qodO5wkLweXGtKXsea8u3503Cf6m0Z6rMKdjHCUm9cLBaGJj1UpGYXYqvvQDR
+Mahp/RStsAoyW8dOj+eVyB6qbXsVjKPJPoBJidY5avLLi28eSXZhNw5U/foEILSz
+iGxW6iPAEKytLOIGm9SENgaEhm348Q4eYgLxN09whv9TsS/2l8wv+v08yEc1TYGX
+s+1FaAR3aAV8IpBFdVqoC6cdhzU7s4DFl3xEw6WbEQYfjsfqY5Mpe/OdiFb09esg
+M7i7WZEswx/5Yb0GA5gUbtJr0SXghHA=
+-----END CERTIFICATE-----
+subject=CN = mystifying-nash.45-81-232-15.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4671 bytes and written 417 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

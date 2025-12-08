@@ -1,0 +1,92 @@
+http://www.bill-payp.com/update/customer_center/customer_Case=IDPP00C949/myaccount/signin
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bill-payp.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFeDCCBGCgAwIBAgISA5N5EcGtapxC+MhBbDkxqK6xMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMTkxMjU5MjZaFw0y
+MDAxMTcxMjU5MjZaMBgxFjAUBgNVBAMTDWJpbGwtcGF5cC5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDAIzbzWHLtjiiuOgpU7LLgP/8wgnKvX3zG
+lrOaqcDKOntmDSmZBoa+iqEJuY4O3h3iBB3eGjWySyDhrdaxFFpUAjjS0exMfP3J
+g7Vo/TrP8oI0bjNN1227JMjnQPBAq71UykMajrPk17vnviKZ2Pcy0tIO1MjEIVXQ
+OhkmiWZPdRBYkmZJeZc5AqbeEmHGH0IZX/widnjj2jsjvlpiM9no9Q7CXeHCbC49
+c0pbTX7+Dr8otZidXQ9ESNgvKYPojwQjsCNfRDNPuTUfLqoNaaWwMtS4QhzelYIC
+OaNQ2clEet/uZz/0pN17sW7X1P9iNk1VYCQToVbO2jky4mlsrDY9AgMBAAGjggKI
+MIIChDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFEwhKlP5GhgrLcjlhm2VrkUVrHjc
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wPwYDVR0RBDgwNoINYmlsbC1wYXlwLmNvbYISbWFpbC5iaWxsLXBheXAuY29t
+ghF3d3cuYmlsbC1wYXlwLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEE
+AYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9y
+ZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AF6nc/nfVsDntTZIfdBJ4DJ6kZoM
+hKESEoQYdZaBcUVYAAABbeRQ1nkAAAQDAEYwRAIgeT6xZnr2pPQya9laibvP2pPx
++sholPje5qUwokg7eCQCIAqB7aUYvygRIfVN9O5SYuv+FKQ27Ng3V2OcpSzUkErT
+AHYAsh4FzIuizYogTodm+Su5iiUgZ2va+nDnsklTLe+LkF4AAAFt5FDWjQAABAMA
+RzBFAiEAz9NSzp9LDbSRQF5Ur7esApl4YEYAg1cpNHIfpCK3pMECIH+Ys5V4qvxl
+vwOdkRoR09eM7vP1Tu8qz1sTTzCOQQwNMA0GCSqGSIb3DQEBCwUAA4IBAQAqUwD+
+lPZ4IYg3lns55Q3UXprk4jSnj7ADkyU6pl8yeuf+f69UnA6BgeVEmut4iS6NT9G5
+F0kWXCvuzysM9fIdqFVIEYaewXf6UWie953FcSnFITCsFbDwseX6YlZYJMI8eCgK
+CGFY9RkJq1FpKUObD+t5klndEV53lDxrUCQwaABz3LBkjd25V4uNMP81kb7AdX00
+T3QezLppmBOkLsyIT3fUQuSZ8Y6FqDa4ZiPa4JUR4Oq9D9NRW9lP9fr4gcbMw1Ew
+PkZ1J4ArkpV+XRQN09sFPNBN4DG2PHf6RcGh06RPLuy9RiuOQt0koFcxslMc2LJe
+tcrih2LTSy/aVEIK
+-----END CERTIFICATE-----
+subject=CN = bill-payp.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3287 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: EC47FD282BAFE98B62D525CEB82A2BBD062990C2CB47822B28620F0F0D9F6A8C
+    Session-ID-ctx: 
+    Master-Key: E8757A29697D86EA79C02A155F5C68DC36D2701137BEBC50887D58EA7D7D6C240BCECCA97CAEF7C32749B8940F970BF5
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - ef 65 5a 3f 80 c5 8d 50-87 7c 99 1b fc a4 08 8c   .eZ?...P.|......
+    0010 - ac 48 92 09 49 4d 51 d3-9f 4b 81 30 f8 0b 7f 5b   .H..IMQ..K.0...[
+    0020 - 1a 2c 19 35 82 16 3e de-da 50 0f bf 55 a7 45 df   .,.5..>..P..U.E.
+    0030 - b2 81 1b 32 d4 24 63 e4-00 e4 32 13 21 ef 2f a1   ...2.$c...2.!./.
+    0040 - a7 a6 94 2c bb ba 53 30-7c 3b e9 2a 10 22 19 79   ...,..S0|;.*.".y
+    0050 - 7f aa 69 0c 09 8f e3 29-da 8d 08 ca 0f fc 67 d6   ..i....)......g.
+    0060 - e0 c7 62 1e 00 ab fe df-f9 9e 0b 83 4b ac 54 3f   ..b.........K.T?
+    0070 - 3b 04 b9 c2 5e b9 9f 47-f8 7d 78 13 1c aa dc 18   ;...^..G.}x.....
+    0080 - 84 01 5c c9 fe 95 3f 1b-9c 59 9b 64 03 28 03 e6   ..\...?..Y.d.(..
+    0090 - 97 cf 66 8f cf ed f3 e5-ac b6 4e f2 6a 13 a9 d6   ..f.......N.j...
+    00a0 - 42 1b 23 9e d2 f7 7e 50-c5 49 13 b8 aa 68 c9 dd   B.#...~P.I...h..
+    00b0 - 05 3c 35 32 f2 16 7d e5-84 19 fc 61 fe b0 eb 70   .<52..}....a...p
+    00c0 - 10 9e 4e c7 77 d8 1f 81-7b 0b 39 41 85 c1 6d 47   ..N.w...{.9A..mG
+
+    Start Time: 1572184828
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

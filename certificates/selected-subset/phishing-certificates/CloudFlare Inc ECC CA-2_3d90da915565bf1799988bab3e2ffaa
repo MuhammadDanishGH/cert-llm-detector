@@ -1,0 +1,62 @@
+https://sewingtailor.com//calendar/.css/?nAdepwF6yLXiZKWJ3f590xz1U8mHYBtuSaCl2RsvQ7GNIoMOPbVhgDE4kjTrqc=vgkhfK7Joty5j6z0xnVNdQs3bXTBqmR84ipcrLSWG1HAD2MC9lPUuwYZIEFOea&email=72656E6175642E6368616D626F6C6C6540626367652E6368&T8ABhH56tsrYEODXGcb1eWS7nw3KRlvPiofyxJNUmqjCpFI4Qa09kLgZVdu2Mz=MK0zfmxbWPreN69ODHuJaZtBLRkjIgqwo8psA7d45UlEi3QVFCGS2X1nYhycvT&
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:C = US, ST = CA, L = San Francisco, O = "Cloudflare, Inc.", CN = sni.cloudflaressl.com
+   i:C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = CloudFlare Inc ECC CA-2
+ 1 s:C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = CloudFlare Inc ECC CA-2
+   i:C = IE, O = Baltimore, OU = CyberTrust, CN = Baltimore CyberTrust Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE7zCCBJWgAwIBAgIQA9kNqRVWW/F5mYi6s+L/qjAKBggqhkjOPQQDAjBvMQsw
+CQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDVNhbiBGcmFuY2lzY28x
+GTAXBgNVBAoTEENsb3VkRmxhcmUsIEluYy4xIDAeBgNVBAMTF0Nsb3VkRmxhcmUg
+SW5jIEVDQyBDQS0yMB4XDTE5MDkyMDAwMDAwMFoXDTIwMDkxOTEyMDAwMFowbTEL
+MAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1TYW4gRnJhbmNpc2Nv
+MRkwFwYDVQQKExBDbG91ZGZsYXJlLCBJbmMuMR4wHAYDVQQDExVzbmkuY2xvdWRm
+bGFyZXNzbC5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAT/kqZ+hXoJlkOm
+OdKfv74eICIP4OHqnQyUx6DbIY+x9nwN+FfXMNJE7kvJwjPIgce0OijAE/y30kFy
+6fw9hZkjo4IDEzCCAw8wHwYDVR0jBBgwFoAUPnQtH89FdQR+P8Cihz5MQ4NRE8Yw
+HQYDVR0OBBYEFAePI5M8/egxL1jkaOqB/aDRU6gNMEYGA1UdEQQ/MD2CEHNld2lu
+Z3RhaWxvci5jb22CEiouc2V3aW5ndGFpbG9yLmNvbYIVc25pLmNsb3VkZmxhcmVz
+c2wuY29tMA4GA1UdDwEB/wQEAwIHgDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIweQYDVR0fBHIwcDA2oDSgMoYwaHR0cDovL2NybDMuZGlnaWNlcnQuY29t
+L0Nsb3VkRmxhcmVJbmNFQ0NDQTIuY3JsMDagNKAyhjBodHRwOi8vY3JsNC5kaWdp
+Y2VydC5jb20vQ2xvdWRGbGFyZUluY0VDQ0NBMi5jcmwwTAYDVR0gBEUwQzA3Bglg
+hkgBhv1sAQEwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNlcnQuY29t
+L0NQUzAIBgZngQwBAgIwdgYIKwYBBQUHAQEEajBoMCQGCCsGAQUFBzABhhhodHRw
+Oi8vb2NzcC5kaWdpY2VydC5jb20wQAYIKwYBBQUHMAKGNGh0dHA6Ly9jYWNlcnRz
+LmRpZ2ljZXJ0LmNvbS9DbG91ZEZsYXJlSW5jRUNDQ0EtMi5jcnQwDAYDVR0TAQH/
+BAIwADCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AO5Lvbd1zmC64UJpH6vhnmaj
+D35fsHLYgwDEe4l6qP3LAAABbU3rS14AAAQDAEgwRgIhAKJ0UVfkse2wwwXj7Dar
+V11ol24h2Svy3O7sWlnuGN1bAiEA73FaqA9IRNppv6m1B/hUUWt4qRU7P4Gb6nhL
+F1oErv8AdgBep3P531bA57U2SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAW1N60rI
+AAAEAwBHMEUCIQCNOsFOItXLADSJPKtPwtG6zrQAHOy9Ws7hbXJ59Bt5ZAIgKkmV
+LALxgfHZrFwhNPqNbUrbrMLnqGBwRLc0hTv+yR0wCgYIKoZIzj0EAwIDSAAwRQIg
+a/MQkbOWRk6krs03q4BnmX9F89OKc+6XXig1kGeVzoMCIQD/Fq2SKd55agXfTTgc
+KTbjTKTwM9AZTIhS1fy+/H4Z2g==
+-----END CERTIFICATE-----
+subject=C = US, ST = CA, L = San Francisco, O = "Cloudflare, Inc.", CN = sni.cloudflaressl.com
+
+issuer=C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = CloudFlare Inc ECC CA-2
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2516 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

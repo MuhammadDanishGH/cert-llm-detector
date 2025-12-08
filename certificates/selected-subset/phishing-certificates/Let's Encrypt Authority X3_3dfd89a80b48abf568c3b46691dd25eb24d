@@ -1,0 +1,95 @@
+http://www.kingdomwordchurch.com/wp-admin/maint/Update/Service/myaccount/signin/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = kingdomwordchurch.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGKzCCBROgAwIBAgISA9/YmoC0ir9WjDtGaR3SXrJNMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MDExMTQwMjlaFw0x
+OTA5MjkxMTQwMjlaMCAxHjAcBgNVBAMTFWtpbmdkb213b3JkY2h1cmNoLmNvbTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALjcmosnPYKmla57bMyQCTgy
+Q0T+Bn1qxKYOX2yi3JAgKCtP/zKQJ8ZY2nDVwQLGP5JNeentQ1Uw9r0PNJjLJjBb
+kjhUfkW3iO3W45YO6oSfG1E1fggWVNKmLSdOy1GtPPlNfZ6o6BmwvsbLTdTICRoR
+dNhGZdQzjlMlQPN/h5Vr3erE/AH3kda5DLmoVr0vqeeLj1qjpvk9fAa24ritRK2A
+6ZLA/xzSRZ+4atg4a0+DvcbC2KnpUm/Dz7oEYoPR6Emu1jrs5HnuC1LAmD8uoqYD
+MshsOhAmbgosaL8z+MVD8Qe8t/Z3LYYS69XWTG+5lR6uNUNxqXpZ0HSfzzEGP1cC
+AwEAAaOCAzMwggMvMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUf3xp68/nW/a+wdWY
+R54SQRPCIMIwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYB
+BQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2Vu
+Y3J5cHQub3JnLzCB6QYDVR0RBIHhMIHegh5kb25hdGVpbnN0eWxlLmNoaXRvd25t
+ZWV0cy5jb22CImtpbmdkb213b3JkY2h1cmNoLmNoaXRvd25tZWV0cy5jb22CFWtp
+bmdkb213b3JkY2h1cmNoLmNvbYIabWFpbC5raW5nZG9td29yZGNodXJjaC5jb22C
+Ind3dy5kb25hdGVpbnN0eWxlLmNoaXRvd25tZWV0cy5jb22CJnd3dy5raW5nZG9t
+d29yZGNodXJjaC5jaGl0b3dubWVldHMuY29tghl3d3cua2luZ2RvbXdvcmRjaHVy
+Y2guY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHW
+eQIEAgSB9ASB8QDvAHUA4mlLribo6UAJ6IYbtjuD1D7n/nSI+6SPKJMBnd3x2/4A
+AAFrrY0HjAAABAMARjBEAiBzS60kQ+M5MbBt0+edvLTkqEaP/nVuuI21J8dKb4A2
+CgIgR26SbKmHqaRSySSlhx0qIR6HCixSqPUBwU7XPFgZScoAdgBj8tvN6DvMLM8L
+coQnV2szpI1hd4+9daY4scdoVEvYjQAAAWutjQeuAAAEAwBHMEUCIQDM+PYqUC+M
+pqvn2/RShQJbTahhYkidMhrlgsGBgGOvhwIgQs8NxYsagM1sbL3fYksH1cLRs/Ip
+h8fDbcKVTLisWn0wDQYJKoZIhvcNAQELBQADggEBAHaVwzSjAu7fiCmRLK0EkLXq
+Mtxlu7cEMxudEJ0QgvlVIB+Uym1J6HGlhgfzz8k9SgwFz2WftA1EvUN5E11AzUPL
+mJjT7F3wuhXJj14bD2jTePoWTgjqa90S1/9AmSN43v3OLIb4LeqP8Bfu6fRIDCU0
+OSjTINLN8CyUQRQoV7iEvjFI+/KojFvu1qekADT/MfAu/W7YCTUL8t1g3mlQfdAR
+VeZCsxX/5OrY1nbQ5t0zmL0z9g73b2KpZQhJQm1xdiH1j01ziQSOLtOVQcO6sQK7
+GzfzdmWYgJ0lgoEQ3RJ18j986Pm3WD3hMlZ6LHGYDt0eeARtha5Wz8Qp5FmURfw=
+-----END CERTIFICATE-----
+subject=CN = kingdomwordchurch.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3437 bytes and written 430 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DAAB52FBED0594B6BF8E88DA1A991779A59C4ED23A5639DDF25E12F5FCC2F727
+    Session-ID-ctx: 
+    Master-Key: 8BDE8CD80DD5C5A44EC3AD12C822F9CCA64BDD66FE500887B50A2E7DF917D8AFE28D8980851C8D32E3FD7F4FEEC7124C
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - c3 f1 7b c6 ce 70 4a 60-c2 58 6e 5c fb 57 6f 14   ..{..pJ`.Xn\.Wo.
+    0010 - 5e 22 9e 55 08 e6 65 72-b6 bc 3a bc f8 10 d9 e4   ^".U..er..:.....
+    0020 - 56 ab 46 63 22 62 93 84-db 6f 92 40 67 71 70 f9   V.Fc"b...o.@gqp.
+    0030 - 2e 3a 36 45 02 b2 a5 8c-c8 9a ca fb 6d f8 ac 27   .:6E........m..'
+    0040 - f2 fc 55 72 d3 d5 71 bd-45 bb c2 fe cc 0e a9 c4   ..Ur..q.E.......
+    0050 - 32 08 b8 66 75 72 20 53-1e 6e 9d fb 0c 17 0f 27   2..fur S.n.....'
+    0060 - dd 9e d0 fc d2 c7 3f 87-8c aa cf a0 cc 83 a4 0a   ......?.........
+    0070 - 95 e4 20 ef 32 ae 0c c2-3c 29 44 99 ad 13 45 42   .. .2...<)D...EB
+    0080 - 0d e3 fc de 16 a5 48 d9-f0 af 6d 05 a5 ff 3c d0   ......H...m...<.
+    0090 - b4 24 77 05 33 57 c4 f6-be 2f 60 ed e0 17 80 76   .$w.3W.../`....v
+    00a0 - cd 55 6e 7d 8a 80 98 58-ae 2a 56 4a 3d 12 7f 16   .Un}...X.*VJ=...
+    00b0 - 90 c3 81 cc fc 1a 62 70-37 a3 da c0 1d 23 2c 96   ......bp7....#,.
+    00c0 - 0c c6 51 af 92 5f c1 3f-0b 4d 51 2c aa 4f c5 16   ..Q.._.?.MQ,.O..
+
+    Start Time: 1562418029
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

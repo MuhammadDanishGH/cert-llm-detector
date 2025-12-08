@@ -1,0 +1,70 @@
+http://collectcul.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = webdisk.collectcul.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGHTCCBQWgAwIBAgISA8VbAnhfvi58KiVHEW/ZhmlYMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTUwNDI5MTdaFw0yMjA1MTYwNDI5MTZaMCkxJzAlBgNVBAMT
+HndlYmRpc2suY29sbGVjdGN1bC5kdWNrZG5zLm9yZzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAMffAw+z/zT5qCF26agdseBGGDdGUJOWfp95i23x8cHT
+reoDTzuKXRp0gV4MW9OzBGNMcATeuKFmVcmFNVOTQ4AJe8QZfIe1HH5ONeJPsH0X
+4hZObBdUPPwstRhY6ihtwPR68cjNrc36CLTzuFtCOeNVibgcQ0kePyy3mRtJykbp
+p065x0/g8u12CHZNGJkhPQHG+/vPlnmC0OW/nkdBZf4CeBBk3WmFhWj2exbVun5h
+pKXZpZdkezknIFujRYjWRjA6705ZJ+EOWGzfuj4MQMPa0yPwGVr9rHMEfb/zvkra
+eOHa7N6+U5Zx93w0vquM4n241hEMKcUgbkbNjdFaf7ECAwEAAaOCAzQwggMwMA4G
+A1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYD
+VR0TAQH/BAIwADAdBgNVHQ4EFgQUeEzi4LbOiiYoKt9amDVQc2F7V9wwHwYDVR0j
+BBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsG
+AQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6
+Ly9yMy5pLmxlbmNyLm9yZy8wggECBgNVHREEgfowgfeCFmNvbGxlY3RjdWwuZHVj
+a2Rucy5vcmeCHWNwYW5lbC5jb2xsZWN0Y3VsLmR1Y2tkbnMub3JngiJjcGNhbGVu
+ZGFycy5jb2xsZWN0Y3VsLmR1Y2tkbnMub3JngiFjcGNvbnRhY3RzLmNvbGxlY3Rj
+dWwuZHVja2Rucy5vcmeCG21haWwuY29sbGVjdGN1bC5kdWNrZG5zLm9yZ4Ied2Vi
+ZGlzay5jb2xsZWN0Y3VsLmR1Y2tkbnMub3Jngh53ZWJtYWlsLmNvbGxlY3RjdWwu
+ZHVja2Rucy5vcmeCGnd3dy5jb2xsZWN0Y3VsLmR1Y2tkbnMub3JnMEwGA1UdIARF
+MEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6
+Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA
+36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF++9tBFAAABAMARzBF
+AiBRlrNghys+akA1nwWa+bR24sprHUUdi6VrTIX63ohCmQIhAI1PG3aLdD7L9f8T
+ut/ujQwybXqtbQEUZQ/4Da7gco3WAHYAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5
+TV0mXCVdx4QAAAF++9tBCAAABAMARzBFAiA4QygMJhOqQhTmComrGYuQ+fqtw5Qb
+t30kwZ6K88dB/QIhAOBLAt91CI2jA4xNamCTwf66o5scp7w50LWMO5Et4VUzMA0G
+CSqGSIb3DQEBCwUAA4IBAQBxjv/xccFY+E76oRJwmJy1Z2xAfIGSt3fiTbJPfMbN
+iEfG5imaL78yegqKZfu1XjTG7oAC4qH7xGjN3UrXiYPsrRING9Qd+jNm/paTR+v6
+zzLCmg4hj7+Bw53vWp86tkXFNdUmOOM5nP2MrQjwRTyCI72wVlOmIBGMRVNBdcvf
+5IH3GoLipQmrtPazHkb2r/Jx/oRh8EyMDB4v1CeNzG4cYWBCjURYo2oZRKsdONjy
+Qfo6S2/Zk5ByplBARYv3l13dnRAOfTonMsk43ESeR9gRMF+ym13YMbVgOIve/2uk
+XjsreD5CU+toxKQvkT1vQHU550trSsvxvgeWIkQllAfj
+-----END CERTIFICATE-----
+subject=CN = webdisk.collectcul.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4755 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

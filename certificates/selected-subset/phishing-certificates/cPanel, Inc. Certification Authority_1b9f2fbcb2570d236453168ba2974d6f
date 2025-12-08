@@ -1,0 +1,75 @@
+http://04citizexs-yuo.serveftp.com/Citizens/b0724b97eca52dd37bebdcc8fe3462e3/ses/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = 04citizexs-yuo.serveftp.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG9DCCBdygAwIBAgIQG58vvLJXDSNkUxaLopdNbzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTEwNjAwMDAwMFoXDTIyMDIwNDIzNTk1
+OVowJjEkMCIGA1UEAxMbMDRjaXRpemV4cy15dW8uc2VydmVmdHAuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3Bll6y/IzTyKJ1iWGBV2Tw7M0xYu
+5U5norBkgKhz1j69uUNYSzn86rPlHoiLLA6iVk3a+jQ0IZANWxoPDIFajMd51Dyh
+PY97uG3FK6SSmrIefA5BgGx1/C0lkbEYklGEo2BMH+kjmQNGkEbNDAt802aUtDfm
+7Kf5u7GC422ePsRMbM5DcYf+re2rcmUtA7RQOnQC2hoHrGF4blqGEnuJg0x3SuSQ
+PenEYSEvFubnG8vRHYsibgQjhEo6v2CtwKxoVHw3ME1729ooxqULyTSpAKq8AOKg
+OsIqlm4ldTTRiDKomofOrmmgUt9Ehq3ueDeIErCsn6Mf0SsFHgSYrVnIZwIDAQAB
+o4ID0DCCA8wwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0O
+BBYEFMozJPJIq6+jpPu4wJlrvsOobNbTMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMB
+Af8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBA
+MDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5j
+b20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNv
+bW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9
+BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUF
+BzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0
+BIHxAO8AdgBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXz2Y4mE
+AAAEAwBHMEUCIQD97VNHfqyL6o9/hhvaDqJDkpbMEmlIrlTuSe7tDuBQ8gIgMW1k
+9mT86D2EDRgnsbPQ0r6qNI5igO0/Tkkfw2XvLY8AdQBByMqx3yJGShDGoToJQode
+TjGLGwPr60vHaPCQYpYG9gAAAXz2Y4p2AAAEAwBGMEQCIBDa8K94hRiogtyyAxBs
+lobML1xegu9lcGWa1ND3w3HHAiBEMmmzrw5pTJ4xFQQXEbNl38SwX9slUSYLdphG
+0fJMNzCCASwGA1UdEQSCASMwggEfghswNGNpdGl6ZXhzLXl1by5zZXJ2ZWZ0cC5j
+b22CImNwYW5lbC4wNGNpdGl6ZXhzLXl1by5zZXJ2ZWZ0cC5jb22CJ2NwY2FsZW5k
+YXJzLjA0Y2l0aXpleHMteXVvLnNlcnZlZnRwLmNvbYImY3Bjb250YWN0cy4wNGNp
+dGl6ZXhzLXl1by5zZXJ2ZWZ0cC5jb22CIG1haWwuMDRjaXRpemV4cy15dW8uc2Vy
+dmVmdHAuY29tgiN3ZWJkaXNrLjA0Y2l0aXpleHMteXVvLnNlcnZlZnRwLmNvbYIj
+d2VibWFpbC4wNGNpdGl6ZXhzLXl1by5zZXJ2ZWZ0cC5jb22CH3d3dy4wNGNpdGl6
+ZXhzLXl1by5zZXJ2ZWZ0cC5jb20wDQYJKoZIhvcNAQELBQADggEBADqGl6eI5qAg
+kUd0Ci0kPu7jbLLqQAKVEKRoq8efM25s4QIfdd/PQ373QNoYV0cQXz5nMR0P6Cga
+AXcL0DZir8uC1aw96Epj1BEZg2Hxi/8WAMRdbvVuLmcUdCB/Eaj7w6rkTWPLttTD
+tTZgPzJXISzH6scxuT8SjvPbiZgUO6Vz6yx2T+YA6EmuL8rzmC8T6ymKUvqL8ypD
+iQpAdNgWiCn3yPoa3oI4g8UnB5am+z5QlnEafrjX43CjVrOoEXk01d8eSkgunMyF
+cNgux9UKWlFYZARLfntHNinRx3bw12hXvbNYP7JakK3ok3lW0zgQByvNY3VOGcyn
+R6OcKc+lj6I=
+-----END CERTIFICATE-----
+subject=CN = 04citizexs-yuo.serveftp.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5289 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

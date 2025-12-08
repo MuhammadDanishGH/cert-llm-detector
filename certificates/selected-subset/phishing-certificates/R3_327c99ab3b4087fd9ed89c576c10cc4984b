@@ -1,0 +1,65 @@
+https://update.vipabasonaccount.helpcenter.a713f368b92e4d82.support/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = update.vipabasonaccount.helpcenter.a713f368b92e4d82.support
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFfTCCBGWgAwIBAgISAyfJmrO0CH/Z7YnFdsEMxJhLMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMTUxMTI2MjZaFw0yMjAxMTMxMTI2MjVaMEYxRDBCBgNVBAMT
+O3VwZGF0ZS52aXBhYmFzb25hY2NvdW50LmhlbHBjZW50ZXIuYTcxM2YzNjhiOTJl
+NGQ4Mi5zdXBwb3J0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2Bdh
+QNvebCnntlSbqOf+BhZV3kex7PphIfsZ+1KiZmOsLs17MiD6VVA6iwU4tteM+5Bq
+i/TeGEDUagvVydIg5jIazHePDTaeURg69yGxmCn/Rw4HYgMylxtXtqcLm0bQGe0I
+EcFET60x1CHPGiOT8EvMJLLbfHJPwLWaXNaFnVRsxuViNAA39gw4XQrSaR0fAA50
+aS5K4t6XoQFtDtGGKfuTn8SkrnTIghX3XVmlAYztjucSb+pF0IgaHQ4AAe+zDA9d
+n1fX1wnieXPIyZtf+UNPQQpy84dGZuGtVRIevbIi27wqtct/hyqC97PFo7BPwGm0
+rccMl34nENGZdt3GjQIDAQABo4ICdzCCAnMwDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBTJ49me0U8q+OXges6Wd/ZZ9WZatDAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDm
+H6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5v
+LmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzBG
+BgNVHREEPzA9gjt1cGRhdGUudmlwYWJhc29uYWNjb3VudC5oZWxwY2VudGVyLmE3
+MTNmMzY4YjkyZTRkODIuc3VwcG9ydDBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2AEHIyrHfIkZKEMahOglCh15O
+MYsbA+vrS8do8JBilgb2AAABfIPq9dsAAAQDAEcwRQIgDnsldz0Z2JSzflQp4jLt
+nc9Rs/tQjV00ZevsluoLLK4CIQCdiQb/5UdsghsevKEQAAWxNZ6QniqDOP6CXqwc
+1+RkkAB3ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfIPq9cwA
+AAQDAEgwRgIhAO3jDgKyTP8lkmRXUh2Y4EoTslkazc+OJwhYCMGZ6UbGAiEAhEaB
+N5r6OuTcjR8JaJ/uAA8z2xRxhS7qou0HCVDToIowDQYJKoZIhvcNAQELBQADggEB
+AEfXeHJJyqSFFa/Vy2NKAgaPSmDZYd0/1hkj7SVFYLfPNZRJU1jm2UGxgCuks4XY
+f4QiCbbYVfwmYhzLa1120uYgHBgWR3IFyWNMtq9dxwBtvfRc+ZIf0VAqiPBedDS8
+qnMQGnHNO6PNokzL6CPBnEN91xlcEts9WPk9Hr8X6IgSlJ9xz+yGw+ESCLQwHrMn
+c/8Z7qNqI2CPrn5OdPif42toMwi+z3HAVuJmjxldkwCgXkqhO7gOxSbsvNaNEfCB
+iShV19x1Hs8IFHbNy7dGV1p6poDQhYGsKXTcxVwnd8y735kcbyuxqPoucSBB4QPm
+DNsm1J6T98T04NiRZCzio3M=
+-----END CERTIFICATE-----
+subject=CN = update.vipabasonaccount.helpcenter.a713f368b92e4d82.support
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3280 bytes and written 433 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,64 @@
+https://tauriamsecurity.co.ke/z/vxb/khv/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = tauriamsecurity.co.ke
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFSTCCBDGgAwIBAgISBFr0e+ykAVqSd+M31l0d5hubMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDMyMzI4MjVaFw0yMjAzMDMyMzI4MjRaMCAxHjAcBgNVBAMT
+FXRhdXJpYW1zZWN1cml0eS5jby5rZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAMJ8nZ0P+AMU0BFX4elg3Zm8QapTeFMmMHRuEXwsPNrYsG/VOnKKx4Fm
+XkQ6/iDYfSBWL19T0N+UJBii+ayhH43KMzs0/TP7ZwTz93Ni5Yvk03GqKmsJfBNf
+Nwmz1zpH7tdXrgmfCXtqv56yuPiUWUN4esKGnWh+vgL31B4ZfYcYiV7tHNsay0Dz
+k/Od/FwN+kk2PEQxi4jsmfMIeFJE1jHTBQSeGjxCeORxvP8/AWlgEiG07DgTzfk9
+lbvgRXU/YYA/+hi0hrp0br1ex5GWv0xDaDl733xFfdP9GJ05i9F8Ncg0KG3FB8K+
+nllCcPADs3XxIQ6wJoQyxIqUkll39jMCAwEAAaOCAmkwggJlMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQUOGseH9tY6uSnYg+jI/uDOJt+zfwwHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wOQYDVR0RBDIwMIIXKi50YXVyaWFtc2VjdXJpdHkuY28ua2WCFXRh
+dXJpYW1zZWN1cml0eS5jby5rZTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEE
+AYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9y
+ZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AEHIyrHfIkZKEMahOglCh15OMYsb
+A+vrS8do8JBilgb2AAABfYLXlQsAAAQDAEcwRQIhAKMXjNYqH7NPKKgw0B686Po6
+ftdqfyW4niN52Ys6cMLJAiAX4ajfLXgE1F2FjywzsAHCcxW//lxz9p6mSM28rw+3
+QQB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfYLXlPYAAAQD
+AEcwRQIhALU5PFH0tMNI0go08YtfQpFR1hjkYW2Dwq/whP5ui2xmAiB2M82z6VF/
+TlrnlCrLNGE+47gIfiok8QPaESsEPBbnqTANBgkqhkiG9w0BAQsFAAOCAQEAI+wt
+xoqmOmQp8rIKYQzHZYzzoYNGwdTdRVfkc7sI4xyHMpM4ZAv61wpAeA8BCQfZuh2z
+evK3Dh8NXnjHz6ODhyJGDjsQTBqloi2YWEbd3XG10cqmC5Jsntmy5OtfJU9fRju/
+xwJt9+gdA2u3UG5GjdXRkn5Il70TPC2G8bM8LUN//FBI3Jlra/7zZqIU/ZLVWCjG
+ZVi1waY5W/6suCkXGyM23deVoy3OmGN19sTfvTjGXG0k0LdcAb/Drgk9tpTPsnnx
+H1sqlCAO77FKTkbxkuUQHrKY7kvAbHe/aii2Y/RZOvlg9g9mq0+a4Ss1E6PsCGRc
+3gIiEzevWVH4JQbMZg==
+-----END CERTIFICATE-----
+subject=CN = tauriamsecurity.co.ke
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3228 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

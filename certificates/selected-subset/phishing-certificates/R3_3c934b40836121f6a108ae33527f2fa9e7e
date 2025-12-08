@@ -1,0 +1,67 @@
+https://boring-stonebraker.35-230-178-65.plesk.page/Login=es/home
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = boring-stonebraker.35-230-178-65.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFjTCCBHWgAwIBAgISA8k0tAg2Eh9qEIrjNSfy+p5+MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTIwNTQyMTJaFw0yMjA0MTIwNTQyMTFaMDYxNDAyBgNVBAMT
+K2JvcmluZy1zdG9uZWJyYWtlci4zNS0yMzAtMTc4LTY1LnBsZXNrLnBhZ2UwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDUojCh1Yu4FpWoxdZiXfm8++T2
+6ULm7MBDvZYbw/LuavsD7GjAYz63nbjjTskS7zzs04VQAtQdof7FFYv/OOMc2kpH
+tmV141usQFoVbc4FszdVM4wgOrLju2pm/kzYyVWeXzwDV8S0b7OL02m3btjM8d6d
+Dll9rgW3XblrB/VZ1joRftZ32TgsMvmTPVW4kY74pLQTxre5eFA0xsoZ33cZgMFi
+8HDWiT+HUhiB+2uBdgzSBl34O52FKgvsSxAtFBu/t6qnUgjVfQux+12IVYvixEUI
+MwQLv8f/rRO5TR/sKq8tgtnX2C0HKMCYM4ZwvKJlO0VqY/G1ZWqPha8xUDCFAgMB
+AAGjggKXMIICkzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFDiBZ2SGHaLNVpbzDbpy
+6M9pL7b+MB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUF
+BwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsG
+AQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMGcGA1UdEQRgMF6CK2Jvcmlu
+Zy1zdG9uZWJyYWtlci4zNS0yMzAtMTc4LTY1LnBsZXNrLnBhZ2WCL3d3dy5ib3Jp
+bmctc3RvbmVicmFrZXIuMzUtMjMwLTE3OC02NS5wbGVzay5wYWdlMEwGA1UdIARF
+MEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6
+Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA
+RqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF+TQXLkwAABAMARzBF
+AiAvd0Qnh1yF4Q9YltD5GASygubZp9AY6qjE3JxrQ8yEigIhAK7W4Ui2CJjyarlO
+ImOKKg6HzOXY00Q7dKinyrdhRVtwAHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tL
+x2jwkGKWBvYAAAF+TQXNZwAABAMARzBFAiBmUqtGcbiS/hwJgFlmQxCetJ4QiMuR
+AnFFnSawGuaKRQIhAIjQZTgQ4X4H2cTqW/l9GI59EpejoPJpfo42VUUYBdnRMA0G
+CSqGSIb3DQEBCwUAA4IBAQBWjuNFUhhnL8OXgfmeqsny62N40/xvxwnNtQOaiHZz
+OHnvua9ZRPaV22W4/txGTccY58iXVuRMCHUzYyuWkUIC7K1w2wg2nE8/YcGeN7xC
+p+87kyL4bZKUUJlPqW4wD7/oedZATqyjZ1hN/5gsPa6ofFYohW+XWOsRJloT9rMD
+/+pj6j5TojizOaTLjBuTC7qs0FC9EKvELXVqolMXTtgBpbVEP2sm2jpl1csGDced
+rjuZl/aEoA6Ms9amZA9+RAI0O3W8SsKIhr8cuaQ0UM5yvSqc/YSUD9UxhZhgdgAI
+691rSX2fNCY2umkRIzkszJUqllBK93YSRD3w5hovUj69
+-----END CERTIFICATE-----
+subject=CN = boring-stonebraker.35-230-178-65.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4681 bytes and written 417 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

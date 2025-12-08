@@ -1,0 +1,65 @@
+http://gdsis.cl/vm/client/9d2ebd71e543476507833fbe7c8149a4.php?e_
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = gdsis.cl
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFITCCBAmgAwIBAgISA1wuMei669RZeGvyyRTp/IN5MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTcwNjQ1MjFaFw0yMTEwMTUwNjQ1MTlaMBMxETAPBgNVBAMT
+CGdkc2lzLmNsMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3qAeDIKg
+p1rgYNg1LgZ36dPaZyJBJ7uNNuHlA7ITB/z0YPanpmhG+1xeCChPTYSyuRmc0nP4
+39f89eFxAwWQPqdpU/OjWv2u+Em/176vGt86fPG+ksldn+/hoSlm7TtXoJSdHqqI
+0oH4akgofCUIQtrcYDr3XiXhKtP4vb0KB/K0AVqPld5b+zUPYBbNvR6nibFN2Nn+
+bJi+kl6cHtwj1AVmMw2n4m4hCUBnIYd8C2727hKi+TRV7k1dDEnCRCRIhz2RL6kA
+5DH1nrVnU3qwnSfnGFgWK8jWNKg2OXgNNPLpa3FLtjszhGRDi1OpWn6x5hP2Z0ko
+80U2DGl920/JnwIDAQABo4ICTjCCAkowDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRV
+djpPy6V8gjlxlKv8HkBj/Fb3sTAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+d
+ixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxl
+bmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzAfBgNV
+HREEGDAWggoqLmdkc2lzLmNsgghnZHNpcy5jbDBMBgNVHSAERTBDMAgGBmeBDAEC
+ATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNl
+bmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AFzcQ5L+5qtFRLFe
+mtRW5hA3+9X6R9yhc5SyXub2xw7KAAABerNtSMYAAAQDAEYwRAIgUIqxC91vcQPV
+GJF3SlMVEOYjc1XdzIA5iCVTwIoclFoCIEvRVOx5X8s9MO3hnCVzkEN3RCNeNLie
+n8I1Qh4m4YE1AHYAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF6
+s21I8QAABAMARzBFAiA4Fy1fxVRQr/QqKE54JNt+b+lFf56Dr3XmrvA9QA4cCgIh
+AP6TVYYFs4l+QOvpg0FlGwWUWWvTb5cUawNbaikCOAClMA0GCSqGSIb3DQEBCwUA
+A4IBAQCwVwJ/MpVSK5IZiPL+MXMYuRTkP/71xLz7OvrrO7H1ai5y1BKw3vwRkAOf
+mVszTyUEetz00qrvkB2Gc0/R4/5Bj0AF9RlhvLe8cDK1gt2CYG6kPpu9jQMdCha1
+L94VZ27ulUOqxJo1t0BAtcDgwFVwEtVY/iQnIwAdDftpp4kPWG3GK3Gf7ytDnQt+
+3LC9TfFixLcXTWhRBWK2V3mAFcTzTtS54lB1xL8ShCXxpk13l0MT6Bk0KR0EAmLG
+wt80gjVonlHEOGwGB8LnwaCzdpTi7Aqy3HPtlKhw2S7NpFIb4G7Ac0nxpcQoxGo4
+B/I7quAvFTs5OPwfMDzdOtwdjNCt
+-----END CERTIFICATE-----
+subject=CN = gdsis.cl
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4573 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

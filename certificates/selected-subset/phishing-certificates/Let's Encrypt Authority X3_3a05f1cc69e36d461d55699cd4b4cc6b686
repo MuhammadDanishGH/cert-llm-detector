@@ -1,0 +1,75 @@
+http://sonicaled.com/pdf
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = sonicaled.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFZzCCBE+gAwIBAgISA6BfHMaeNtRh1VaZzUtMxraGMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMDExMTM3NDBaFw0y
+MDAxMzAxMTM3NDBaMBgxFjAUBgNVBAMTDXNvbmljYWxlZC5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCffNng96li7y+Z0eSWENW2pvf/DdD8q+RM
+epUOyKnRJhC5eTXXge9NnVRXJShYZLakVYaX6FshHvIUrFOV6SgK0z356rZgqi8R
+zkgH8mRAT2v+SfUTPeFdt5nXa4d5Ui1KN9oXoGVfHEHPlTjd0qOHpgrCw6DpSmVN
+lXX1UR0HOA02EqbcpMAeUgEeCynL6LceVBv7vDPSPwFQUCo8N5IzVL9XGnFgIYpP
+dPVVrAqOJob14t3OA3+lON2UdqA1hkUKVfF1wehadG7oGh7mU4gd6jdBp7TpWJRE
+xjO3eLsy2LRxRmS4CKH9GDk9TtF5TE+EiPBSFzDqFlJi2aPyyh47AgMBAAGjggJ3
+MIICczAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFAYs7pJDcFQJer9KJlq5vpjpgBhv
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wKwYDVR0RBCQwIoINc29uaWNhbGVkLmNvbYIRd3d3LnNvbmljYWxlZC5jb20w
+TAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcC
+ARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEGBgorBgEEAdZ5AgQCBIH3
+BIH0APIAdwBep3P531bA57U2SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAW4m+KgR
+AAAEAwBIMEYCIQDla8+M2e7QkRCuPP77F76AwZjrutSCqSItQe8rVqQWFgIhAPYR
+jVPlRukSiCXvim1TIKPZoJhyShx84mRJNaHiAkTnAHcAsh4FzIuizYogTodm+Su5
+iiUgZ2va+nDnsklTLe+LkF4AAAFuJvin/gAABAMASDBGAiEAyHNKm/pHZScdtzt2
+CmHMERsIcKTt9UsEwG6WlHhEAJoCIQDo2Bt/qWpA62yLta/admiXKqVdB6mphj0V
+BQ/Z52QlEzANBgkqhkiG9w0BAQsFAAOCAQEANsTuT+Alp1VV/Ti5oxKaIO1jE0F5
+E55Iq8n8nTPz8sRkh2mnZOVf20+pdwyXTGoeXAUNGPH4Zh+sUjA6Y6OP0m/eiib+
+fKC7s8uqRvh2D+3s5kfki6MENswzl9mVjlCSVLhJTMH+PAU6H1Iqzpf7fzvVajGv
+WyErxHTuTuyMsevJYfp23li7n6UOMXnJ606+j71LqtamMKdBmV8Zp4VFzhDvcrGo
+YByQG0g5frWmH20SJQm1/G8PF1mk4B/84s2KIgJ13m9FslPgKjcOnJALtU+9ughL
+/y9T3IBIaJhOraC/sGyHizf6s13pz+N1Ffpfg17J/1p/RkWnWuhQq8wkOg==
+-----END CERTIFICATE-----
+subject=CN = sonicaled.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, P-384, 384 bits
+---
+SSL handshake has read 3111 bytes and written 483 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: BC3A89DB3B5B90987375AA4D79B8B550839B202536C6377A680986F247518AC7
+    Session-ID-ctx: 
+    Master-Key: D37DA5F3150DF883C4847583685996E8D6F4505CC2A0ADBB15216D4F3EBE972526F1F3BFB90F77BF5EA94D682578AD12
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1573135291
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

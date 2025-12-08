@@ -1,0 +1,95 @@
+https://kanyreview.cu.ma/blog/s3/index.php?m=user@cslanet.calstatela.edu
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = kanyreview.cu.ma
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGXDCCBUSgAwIBAgIRAIaSocspgkx3pCiDW5hX/dEwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0xOTAzMjAwMDAwMDBaFw0xOTA2MTgyMzU5
+NTlaMBsxGTAXBgNVBAMTEGthbnlyZXZpZXcuY3UubWEwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQD51N5dL3ohabBYrjNrJ+5wDLB/PFTPbDzPpp+Q3FZ4
+QfPKYP/RvinUuQYiRKWbV6psS8F7FVz6BKWIOs6b5wg9KbqEq4yFBf2G652kmkyS
+/wJkDSu9AGG+HvvoXviVF3Hut6fTV8VdDl/pn1Ek1o3SOC6xi9BcZIT3pcixu9MQ
+2Kh/nOnhdV3/D4qLBoigYFEzKHql0R5Gd2h9inD53Yzo30j0OFlymCHAtfU2LEgo
+Uo8pr0I+zSwdZUZC59OHRgWvOKoz8ZJIghuaR0CFxOvyvvacjtjvUUbak3HkGWOx
+IKALkjFaYrzHbd6yOysb/LAQ6ZwbNDTK3/uYQa6Y0/q7AgMBAAGjggNCMIIDPjAf
+BgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUKfkguPtj
+GyQpFX0BTCV3Bti4J+4wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYBBAGy
+MQECAjQwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNvbS9D
+UFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2Rv
+Y2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsG
+AQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGG
+GGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCBlwYDVR0RBIGPMIGMghBrYW55cmV2
+aWV3LmN1Lm1hghdjcGFuZWwua2FueXJldmlldy5jdS5tYYIVbWFpbC5rYW55cmV2
+aWV3LmN1Lm1hghh3ZWJkaXNrLmthbnlyZXZpZXcuY3UubWGCGHdlYm1haWwua2Fu
+eXJldmlldy5jdS5tYYIUd3d3LmthbnlyZXZpZXcuY3UubWEwggEFBgorBgEEAdZ5
+AgQCBIH2BIHzAPEAdgC72d+8H4pxtZOUI5eqkntHOFeVCqtS6BqQlmQ2jh7RhQAA
+AWmaYZtDAAAEAwBHMEUCICuLuNsRfiCn/sIYPRXVerL7F+I8cNibiTjlHah7WtwK
+AiEAttYwo6i2WsHDBc8VkxP/eZvkPP+ew21rg9S7QH2SZK0AdwB0ftqDMa0zEJEh
+nM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWmaYZ0dAAAEAwBIMEYCIQD9dNYdRTO9
+yRXlDXDPK/KG7XozIVRa21ZNdSYGrJ3R3QIhAOJ8ZE2ZtrSoQ5Reprz4AUB59UF4
+Ho6FqlYSlZw8JX5lMA0GCSqGSIb3DQEBCwUAA4IBAQAwCk/jmLXaFXq1kULPzPld
+sylt4S/3gNXQNiNhNE0MXHFmf+84s9TvR1CqSwsLGl1OoFoYBAijMCqmWp9gHbMS
+xwvc7ypCeS+wTD//+FGG2zSl+VpxvZsQ5ll3wy7IxFjo2MCMo8jrNt9yRW2QatzP
+b0tGAU7uCVYSALHYyoMHOBwgJTi5UNpbakL2DbuPiI5LI7Y+uvU/dSUyXbBUDv7l
+DTX6qJf3YK4O9RdP4e2Lil6SahGXG+MU076kpP1KfOSxKsIsfLWNhrTLRyRCiEdo
+y16MTDYSc4NZPiHkieYbCvhBNrvJr7tKehWhQi4Hmq7vYJUEkndZzyEKcI93TOuW
+-----END CERTIFICATE-----
+subject=CN = kanyreview.cu.ma
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5186 bytes and written 421 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 962E0D142B31F9B015B79C38F81E38B73F187E336F7506C2AACE420863A1E92A
+    Session-ID-ctx: 
+    Master-Key: C3C43880B491CF7A2B64623E11B7A9626DE41AD13DEEAC3769A87AF78D7C7C450BEEAA06A9F47C9595E6C77B8F76C0CD
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 06 4e d7 73 37 bb fd 56-58 2f 22 28 4c 60 52 b9   .N.s7..VX/"(L`R.
+    0010 - 2f 78 38 6e 24 97 8c 05-75 56 b0 f2 61 98 f0 7b   /x8n$...uV..a..{
+    0020 - 5a ff 70 bb a5 f0 99 12-ed eb 09 48 01 bd 40 89   Z.p........H..@.
+    0030 - 56 65 1b 6f c3 e4 d9 e2-52 17 95 8b ab 8e 56 5c   Ve.o....R.....V\
+    0040 - 28 c9 57 03 cd 8d b0 5c-93 38 da b5 10 29 41 74   (.W....\.8...)At
+    0050 - 5a a8 47 15 1e 42 80 af-2d 15 8b 82 20 fa a9 e0   Z.G..B..-... ...
+    0060 - 93 f2 14 1f 25 6a 29 43-fe 8c 35 0f c9 5d 04 d8   ....%j)C..5..]..
+    0070 - 98 31 2d 53 9e e4 08 5d-a5 12 92 86 10 f8 ca d6   .1-S...]........
+    0080 - e3 32 ef b4 6a fe 45 1d-7d d9 2a 88 97 4a e7 52   .2..j.E.}.*..J.R
+    0090 - 2a 3a 74 53 1a 94 ef 9f-d0 c6 4d 2c cb 22 83 89   *:tS......M,."..
+
+    Start Time: 1553090415
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

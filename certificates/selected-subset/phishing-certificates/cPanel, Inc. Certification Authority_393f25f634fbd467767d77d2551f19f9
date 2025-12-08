@@ -1,0 +1,82 @@
+https://www.iwa-icr363.com/1und1/webmail.1und1/webmail
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = iwa-icr363.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGTTCCBTWgAwIBAgIQOT8l9jT71Gd2fXfSVR8Z+TANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTE5MDgwOTAwMDAwMFoXDTE5MTEwNzIzNTk1
+OVowGTEXMBUGA1UEAxMOaXdhLWljcjM2My5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDfViMFoPVBchXER4vaxlHrYQ35e5Cs4LCeeSwYfu4i/aQa
+fLmbfd/Kj0lhIPIT6SjoJQrZpMqG9A1H/9qe1CezAOMfHlED4uYIN2XKiAMa01Jd
+SP1+sQT6PF/4DnL7u6Ynam+nGFoZhHqlAhVN+7ZL25gFMX1xTAl6sNhcyu4cGdXL
+3qakL5X3BQNOmm5loNJy9Hj2xMq51awQX6jCtCkojZtJydrsjGLQXHFiDg0K1IQi
+wGqhUjvw124+oh0gmhGOSBWZVnqiWArcyhML+VwMq/BKEKHxyT801XEVAytWkKib
+r7pJcKKkP3HiKIK/OeYLTpyEpi1oM5TZmTja1fnTAgMBAAGjggM2MIIDMjAfBgNV
+HSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUtrzve8LvnK1m
+Mo6xBJtgSFA+MUgwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCME8GA1UdIARIMEYwOgYLKwYBBAGyMQEC
+AjQwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLmNvbS9DUFMw
+CAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUF
+BwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1Bh
+bmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCBiwYDVR0RBIGDMIGAgg5pd2EtaWNyMzYz
+LmNvbYIVY3BhbmVsLml3YS1pY3IzNjMuY29tghNtYWlsLml3YS1pY3IzNjMuY29t
+ghZ3ZWJkaXNrLml3YS1pY3IzNjMuY29tghZ3ZWJtYWlsLml3YS1pY3IzNjMuY29t
+ghJ3d3cuaXdhLWljcjM2My5jb20wggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgBj
+8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4scdoVEvYjQAAAWx4QGLcAAAEAwBHMEUC
+IQCggcDxKTNt9y1NZqUGfsbm/9XxrKzNzn+m4SlKLx/dUwIgau6S96Qz3zwZRvbi
+D47Rznvj5H9FxYGJUW1bqNLCcLYAdwB0ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3
+NXnmEHvMVgAAAWx4QGMBAAAEAwBIMEYCIQDpzVmDERssgbMShrfT2R0gTdW5YVCV
+1TspIPZMG7RWrgIhAPd7rlVOWvjB/PU7DtOBSU6u0diucwP0MeRZKo6t0ysaMA0G
+CSqGSIb3DQEBCwUAA4IBAQAMav9np6lzshweva0jXGpvx1Eejf/8r1kQoPVcno3A
+8+r9Egeh159rRU2vUeN+WBRwQDSIy74Con5ucReaDbFdDtRUAegPcGmVaM2cSBQy
+j0v9jz72kGdHBKrbbJXfAbnSvo7BPom7TL9D4SIowFlfgpXGx4cT7WsqyD5mGerx
+BrhJbvyJLGqNmCvSnKTh6oWzM8EsMep7jqETRKBvUtzssfoy1c+sz5S7APh2ZwWu
+S2e5qFkSeIQZG10hPGXqDgyTogCxCZo7wR6Bqoub3plgt9+xVsyMolkrg/kdwZbS
+tqC9yhKzYVwaHVljx9A55DCsqkbxBo0l3iz9xCUKoeHq
+-----END CERTIFICATE-----
+subject=CN = iwa-icr363.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5059 bytes and written 456 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: B3E1E2D14092A56A17257903186D68328FD05E514AB201A790CBA1BEC56132DC
+    Session-ID-ctx: 
+    Master-Key: 3C60718D1C6450E6C11CF955653C6AE5B70F737C258BD011D14112E3DBEC10D9564600AF29FF0687E55DD21847B42615
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1566478826
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

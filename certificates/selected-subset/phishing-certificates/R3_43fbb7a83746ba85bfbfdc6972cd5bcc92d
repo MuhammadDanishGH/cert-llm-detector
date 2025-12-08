@@ -1,0 +1,96 @@
+http://pancakeswap.finances.outletconnector.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = pancakeswap.finances.outletconnector.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFhTCCBG2gAwIBAgISBD+7eoN0a6hb+/3GlyzVvMktMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MjQwODEyMTdaFw0yMTEyMjMwODEyMTZaMDMxMTAvBgNVBAMT
+KHBhbmNha2Vzd2FwLmZpbmFuY2VzLm91dGxldGNvbm5lY3Rvci5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDCh7JQGQQFJ7WTIATstgHQ5s67AnnL
+H1tLI0u/7amBS0VGw7eJTOrj2RludIdZoC7dPLHAfq3+VuQ1iTNO+kOrVZ6ybWzs
+gGzFCghgwF0uIjp0UvIYsIsL4xIDyYmn8ClFI0WQeaFQQe1tQc0/8k1lQay5M6y4
+7GEkgeK2bPi2DJ1XNRQklmWhCjUAICPYpU4h18Vjw6ymw8pbkux53d0LYw7sXV9G
+/iJSPbFWoUhoyfvHIgr+FZIlW07WtbXf7xwBatqHpWO9J1OvXFNrKxGVNt/BEYpI
+wbdQSNhSmsaIH9QIjSuvI2WeRq2e6s0hledSRBlqZKQUXkRz1P4vVcQrAgMBAAGj
+ggKSMIICjjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFJ8yH0pbngwkWgPR3AyiGUE9
+DXsdMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEB
+BEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUF
+BzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMGEGA1UdEQRaMFiCKHBhbmNha2Vz
+d2FwLmZpbmFuY2VzLm91dGxldGNvbm5lY3Rvci5jb22CLHd3dy5wYW5jYWtlc3dh
+cC5maW5hbmNlcy5vdXRsZXRjb25uZWN0b3IuY29tMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcA9lyUL9F3MCIU
+VBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF8FxOsDQAABAMASDBGAiEA6vrZuQjL
+9+BXj6EASwixbF3Hmkj23tJ4Dl4sHcRnf4ECIQDKsZc2aUzZorUoJBbk2x2E6UU2
+IgjxREEGc6QzuVqVgQB2AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kT
+AAABfBcTrWEAAAQDAEcwRQIhANi5C5eTdTEag20+FSsChLyP5sEYpm9LLnUXKeJ7
+ZekKAiBvHSs77Qkn++SnNCYc8bbucZzTHX9uLL9MA4CkN3Rn2TANBgkqhkiG9w0B
+AQsFAAOCAQEAWTeAmZOZn4mCDS/ppayF9/z9fOOPMS0/5tpgZlBi2lb1/nCi5rBE
+DUDxJnDDANmaWkY8ws/gVboy7mYfJxcuPbN5jNfKA/16MtgewdMLAI9g9i+ac6y4
+6v3f/RhvqLqNPbLdwMhyGwSyVWQbEKjlnTQhV8+QGOT0U9KgcYLDCbxVthJLate+
+mczURKa3N1IfJAfN7V1Ii82YoK2NJegMo6rvKvtyLY/ArCrn1GOf5EhCdkSq3FaX
+go/UeUnYdEqoxSb+tWUqcTHPSuGl/89tLl0qGRhO3Z2HB78edxnqXE2lLB2+jljt
+Uf68t8JJltzQQtOoLPnE/5B3/wQn/kfSKw==
+-----END CERTIFICATE-----
+subject=CN = pancakeswap.finances.outletconnector.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4810 bytes and written 419 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 775D89A36C7452DEB15C729022CFF871270C19B0BAE03347EFA60342CC567670
+    Session-ID-ctx: 
+    Master-Key: 648C6370DFFC1D6C023848870A862598BF5D941971C2EA30D19BA8B559AA6D90F203E8237FA6DB59104F5A895020515C
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - fc 4f e0 3f 55 46 3e 7d-21 3a 27 ae 03 0a 2d 5d   .O.?UF>}!:'...-]
+    0010 - c9 0f 45 cb f7 45 18 f5-59 38 20 00 45 3d 06 99   ..E..E..Y8 .E=..
+    0020 - f0 82 47 1a a5 48 79 ca-26 2b d5 5f d9 50 cc 14   ..G..Hy.&+._.P..
+    0030 - c8 f7 cc 81 c7 73 94 58-b2 03 87 8c 82 7c 36 af   .....s.X.....|6.
+    0040 - 70 bc be dd 49 de e0 40-0a 83 0b a7 40 9a 15 fe   p...I..@....@...
+    0050 - aa f9 58 a6 1c 75 ef 27-9b a0 fa 3e e9 7c 16 98   ..X..u.'...>.|..
+    0060 - d7 bc ec 65 43 0b 2f 02-a2 67 15 a2 55 a4 78 9a   ...eC./..g..U.x.
+    0070 - 39 4a a6 8b 75 12 85 d1-41 a0 24 0d 86 8e c0 15   9J..u...A.$.....
+    0080 - 7f cb 9d 6a 59 e6 77 86-a5 b9 ed 00 c8 88 5c 9b   ...jY.w.......\.
+    0090 - 18 5d ef 60 88 8c e0 b8-bf 5c ae b7 94 29 87 dc   .].`.....\...)..
+    00a0 - 32 58 d0 c1 6d f8 d3 9c-dc a7 25 20 1f 2b 97 e2   2X..m.....% .+..
+    00b0 - 9f df d7 13 d3 87 16 52-b2 12 26 a0 fc 25 81 24   .......R..&..%.$
+    00c0 - d7 e4 0c 94 33 9b 02 74-49 6a f7 a2 23 23 25 06   ....3..tIj..##%.
+    00d0 - e1 6e d2 e4 5c c7 f8 9e-63 d9 33 65 1c 44 da d7   .n..\...c.3e.D..
+    00e0 - 06 4e 36 a4 e7 50 66 d8-16 e4 19 dd 36 c3 92 17   .N6..Pf.....6...
+
+    Start Time: 1632548465
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

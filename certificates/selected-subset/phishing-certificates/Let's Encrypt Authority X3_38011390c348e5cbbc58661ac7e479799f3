@@ -1,0 +1,92 @@
+https://lognpayplcusm.velai.lk/logn/pplsecu/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = lognpayplcusm.velai.lk
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFgDCCBGigAwIBAgISA4AROQw0jly7xYZhrH5Hl5nzMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MjgyMjU0MDJaFw0x
+OTExMjYyMjU0MDJaMCExHzAdBgNVBAMTFmxvZ25wYXlwbGN1c20udmVsYWkubGsw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDZZGmcB+axr+R863pim2Em
+cQYyutBRq4+ITK5lrfDtiBeyczgIqrjx1vBWzI7a5nCeHq/AvnwdU8OF7WHFvVeY
+qe34YY7hAb2+1XZu8SRimrrOOZ3NZv5CIUbFgFHtliW497vLg+JfIf7SfLHJcGRp
+nWTma2zCoP3+z9Yda19SMfO+2fQ5xuWUaJPgVYgo4c6Nj1fcqdYcLycO4KNKMRcC
+ohTlzlAbLRTL7KVyUCHiCT6y0NsvWcRM9UzhSbnu0gAWU6DTWy/4x4lRZfQo455c
+8X4gKTCqTvBbJCL5t3LyA+BjIIIo8xd8JCPfjAa1jCwPJ2undBy6XRYFb+PvoIJp
+AgMBAAGjggKHMIICgzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFHuY4Hn4bGKnX6jz
+sQd0X3qV3jJSMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsG
+AQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZy8wPQYDVR0RBDYwNIIWbG9nbnBheXBsY3VzbS52ZWxhaS5sa4Ia
+d3d3LmxvZ25wYXlwbGN1c20udmVsYWkubGswTAYDVR0gBEUwQzAIBgZngQwBAgEw
+NwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5j
+cnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgDiaUuuJujpQAnohhu2
+O4PUPuf+dIj7pI8okwGd3fHb/gAAAWzapofUAAAEAwBHMEUCIH5PkHNmntivhmK8
+1eFFojpxnOceu+5v9NXZjA2fnEUEAiEAjDDWo6UCDCBfKNYNM6c1uTASPP3Cp+qT
+0SFJGSitwRMAdgBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4scdoVEvYjQAAAWza
+pom6AAAEAwBHMEUCIQCRWApz3whbq8+xxPBVbiKkazdgYrutblAHheuGYt4iSQIg
+aW2osdqK0/8JY8kgth6wtGd1C1+NMBhc4Z2l5NolXfgwDQYJKoZIhvcNAQELBQAD
+ggEBADTfvPhxIMNPvwlYveaFYRiNYwBHvRI0qpHfg9NVugbbzprIuUo+15gpYiZR
+7Qr5eFihn1uqwABX90qgXCUw7z8iT+vUURpn1yFOhgZi3uiwC9BzOCsdq0vV3reT
+gv5v7lTVM5N7awMqDnxA+bOlqeb3YAja7evxfnpsz2d9WE1YfTh5DFBRv7ARNya9
+gVGvazia5uWzHA+XZsLJQkp5WxbuCYg3DHxaan5cZzGysDTbpI/4f8o4ZTTqlHiH
+AMmhTXGZoNu4oVaQUu03KiV69WvAGeg1cvSs55Txq8i+s5Zhf9HFwDvQ/2CU4pZg
+6mTwc4qqOzlcN/Xi4S6W8v0ccDQ=
+-----END CERTIFICATE-----
+subject=CN = lognpayplcusm.velai.lk
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3295 bytes and written 460 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 6EDB1EBA9682AD6986D8FD794A317A229E3A98B8928B1B64397687C720316944
+    Session-ID-ctx: 
+    Master-Key: BEAAC3286507BEA5B21384DE7360A24E6BF769539AC94FB254F300F8281C51688F42506FDB5BD2E954B7813074BD4315
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 7a 7f 55 fa 57 46 a3 e0-5e a8 ea 80 6b ac b6 2e   z.U.WF..^...k...
+    0010 - 63 12 df d0 24 f4 0a a9-44 d8 6b d6 f9 6a c3 69   c...$...D.k..j.i
+    0020 - a5 75 85 02 c5 14 24 ac-5d e2 e9 33 65 8f 7a 57   .u....$.]..3e.zW
+    0030 - df f0 25 21 23 50 51 26-7a 61 76 0f e6 60 4d f2   ..%!#PQ&zav..`M.
+    0040 - 9c a1 9b 08 82 ce a5 4b-f5 39 26 d0 bd 0e a9 e5   .......K.9&.....
+    0050 - 08 6a 20 0b 4b 43 e0 fe-57 b6 29 56 91 4a d0 17   .j .KC..W.)V.J..
+    0060 - 0f 0e 95 7a 1a 6d 7b d0-f9 b4 a5 3b f6 f2 d6 ff   ...z.m{....;....
+    0070 - a3 0b 5e bf c7 d4 85 de-23 22 10 3a eb 9f 54 99   ..^.....#".:..T.
+    0080 - ca c3 83 a0 c0 75 94 da-0f f2 dd 2e df e1 ef c7   .....u..........
+    0090 - 4d 84 c6 1f 8a f6 1c 39-b9 06 4d 86 e0 7d 71 5f   M......9..M..}q_
+    00a0 - 57 26 d3 bd db a8 8d 4b-ba 8b 61 ad 53 a4 28 c2   W&.....K..a.S.(.
+    00b0 - df 05 cb 45 f3 75 6d 37-39 8e 1f a1 e2 10 6f 74   ...E.um79.....ot
+    00c0 - 70 a7 14 85 60 02 83 2b-59 82 b2 32 44 06 71 ff   p...`..+Y..2D.q.
+
+    Start Time: 1567083632
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

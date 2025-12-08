@@ -1,0 +1,71 @@
+https://versement-fond.bass-plasaccs-lbc.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = versement-fond.bass-plasaccs-lbc.com
+   i:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+ 1 s:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGljCCBH6gAwIBAgIRANEud1DGrZWAP4UXJ+8SpD8wDQYJKoZIhvcNAQEMBQAw
+SzELMAkGA1UEBhMCQVQxEDAOBgNVBAoTB1plcm9TU0wxKjAoBgNVBAMTIVplcm9T
+U0wgUlNBIERvbWFpbiBTZWN1cmUgU2l0ZSBDQTAeFw0yMjAyMTgwMDAwMDBaFw0y
+MjA1MTkyMzU5NTlaMC8xLTArBgNVBAMTJHZlcnNlbWVudC1mb25kLmJhc3MtcGxh
+c2FjY3MtbGJjLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOfP
+pd7qhlOE6wYO/Z8wwbzHLkyTitYbVWZAv6Avs82Lo07HPuRM8ErYowc8Roq4/xv5
+/22lN7mGJ63Zowt8ObgwEGLkG65RIgLAq3VZaRjPD2l3JcBrtHEdg3UoVS1B+6KO
+Lj2Te+l2gyHK5LUQCf7+dA1O6egvESW/N0tjrI4Xdv0HBfcrTZy9YXWYupNyRDR/
+A5bNbVQY2BjrLOTt64x6VqQWS5qLzewYjSkLhRtLbfBqRUglucTBcPZhX/oZORcV
+1FyNRXEjCXbKVtJrUc/hQJe5Bn82Pkcxkwv3Apizw8UEmWLlOiGhqoayB/jdFygU
+Yu/ArwNthARJvl+cmcsCAwEAAaOCAo8wggKLMB8GA1UdIwQYMBaAFMjZeGii2Rlo
+1T1y3l8KPty1hoamMB0GA1UdDgQWBBR33GpQOtL6NIwHPMvQBsvoCkTBvDAOBgNV
+HQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICTjAlMCMGCCsGAQUFBwIB
+FhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwgYgGCCsGAQUFBwEB
+BHwwejBLBggrBgEFBQcwAoY/aHR0cDovL3plcm9zc2wuY3J0LnNlY3RpZ28uY29t
+L1plcm9TU0xSU0FEb21haW5TZWN1cmVTaXRlQ0EuY3J0MCsGCCsGAQUFBzABhh9o
+dHRwOi8vemVyb3NzbC5vY3NwLnNlY3RpZ28uY29tMIIBAwYKKwYBBAHWeQIEAgSB
+9ASB8QDvAHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF/DRnU
+wwAABAMARzBFAiArgYxj3ya6A5iXGK/+omXPtrO/z6hheyuy+JPvvxcpeAIhAI92
+LR8clPYJpcfcpOLWv33Efma8DHg6HQDiDXNyQ6gRAHUAQcjKsd8iRkoQxqE6CUKH
+Xk4xixsD6+tLx2jwkGKWBvYAAAF/DRnUxQAABAMARjBEAiAgrKpGnIVqUH5uWDn5
+igDZK6WpC9gKKbKUasNm9EtDBwIgJ/5Yz1+zpZ5APjfWU4K7rvPvDNFNxUvrMRn6
+i+CiP14wLwYDVR0RBCgwJoIkdmVyc2VtZW50LWZvbmQuYmFzcy1wbGFzYWNjcy1s
+YmMuY29tMA0GCSqGSIb3DQEBDAUAA4ICAQAKXb7WvdDOITgHOnrUhyc9nq6NvPv8
+Huvndoe+r+bucTZtjB1quhcrxq15NHGEpPIJvZ6MOgloscpZkD8n4twtIt/3N4Ej
++NmVtHSs/1lbQGU4UpGr5abftV6Lv/BseNvh78rGlmT/RQrZ6WEUIyeoMlG3NE6C
+rS/VeMaafPwbkX9qJgxgLrbreO/0TWJZRCHBUJYtzZEsge3slorcXvEhZltFW8r1
+MXB9oBTOCcNhZoAJRbFItv6Vgoe+3N+JsHAlxC02bDPr8hvruU2XELMN7bVZ4iIf
+MF/qYdgO/qU+jvdPFIkKFERVXqV0S7w5pGJRur/nnACpTymw4tig0CqBMHYo1CaV
+XdjfSQwVGJpbRXq0Gwr8lrtNbDSSKqW7PlpJ4k+rl2o130t+/hVSK5PhPEPZNqHO
+fCYXP3FLJoQvx9SOmzwH3AI4BtqiVp80DZ5IHFsc2wx58RlnRBCmSA5LcTT/6UuE
+jv0DWP/EV7ANksQwOaShuBQvHJGOKxHZQT/HACBkZNcOQUcpP7f3v+Tm0tkBEWk5
+7g01mQQQq3ehn80I9HSumoAABSu/n508AdABhhxnZntz8YMLkQK/etXGE7O78Wns
+8AYNTFIZ+xcTM2+9Tpgw6xp+ZogAu7v7mOIflQgzgIVyzl/5OYNEd4zfimLnK5TO
+0KnKl42rsikrng==
+-----END CERTIFICATE-----
+subject=CN = versement-fond.bass-plasaccs-lbc.com
+
+issuer=C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4008 bytes and written 410 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

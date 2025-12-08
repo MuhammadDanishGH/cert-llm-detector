@@ -1,0 +1,94 @@
+http://www.educationgrantapproval.com/10000USD/PDFpagers
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = educationgrantapproval.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFrDCCBJSgAwIBAgISA2qhaECUPiBEOvG1wdQlRsitMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA5MDYwNjI3MTZaFw0x
+OTEyMDUwNjI3MTZaMCUxIzAhBgNVBAMTGmVkdWNhdGlvbmdyYW50YXBwcm92YWwu
+Y29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54N0jge0NYxoMbBC
+FeJ0sjBLbr221948WrxAzmzhFBRRMt3QF6ENhFw+PBns9K/njY28ddYVsuUNZnfJ
+npclqeqIslSpQlbcQZ7cZKclJ1FU5UslxPC9CUnMKNAqQAQzOcmQrF71U+IKHok6
+KHE54o0B9SJhcWd+pz6hF7GCjFW4TSLsrZfqPwl1nbtps9ceENLaOMHICxPndBtx
+DbidtnvW9YxRTGp7aQyvWaV5nTWaMFeOnlseaxNO+KLFRTTXNjRyGF9By9BVnehU
+VMRYnbnfjEjaQ6/MyzZHM+5KQRjX7EGmBq6wuyU3J3onfiQ+Fl/g7vMA2kUtS2hN
+GNmKWwIDAQABo4ICrzCCAqswDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBR7Z2hevVQS
+whAOZreB5eyL/itUbDAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBv
+BggrBgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5s
+ZXRzZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5s
+ZXRzZW5jcnlwdC5vcmcvMGYGA1UdEQRfMF2CGmVkdWNhdGlvbmdyYW50YXBwcm92
+YWwuY29tgh9tYWlsLmVkdWNhdGlvbmdyYW50YXBwcm92YWwuY29tgh53d3cuZWR1
+Y2F0aW9uZ3JhbnRhcHByb3ZhbC5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYL
+KwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlw
+dC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgB0ftqDMa0zEJEhnM4lT0Jw
+wr/9XkIgCMY3NXnmEHvMVgAAAW0FeFtQAAAEAwBHMEUCIAiUKHsMOfCkJ0Uioaze
+872Ltrdr35o7JV2WDX1n2qiHAiEAntdYcIDFX4YOo+Ln4OSTMbiXS4lqz2OOM0xj
+MniKUKMAdQApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAW0FeF1h
+AAAEAwBGMEQCIFvsYqvQiU8NZijZFJ58eqQ6fvWfl+kJguIz7sKbucOgAiBQ4FfR
+FUhGr4idUb+x9D3+8v5W4Hc+g4p+l0pms1AqTzANBgkqhkiG9w0BAQsFAAOCAQEA
+KkUXP/+npc9Q7yTxCHYtcXY9n5boUfFFQdCM0EOPAOBjdBnYxwAWBU92IEzok3nR
+hO7sqrXQlYNErjtVgUyESSgyKNmDR4tLnV6hiW420VNzZgCKK3t2UhdtBBGXPh6t
+SREoHLn7RKgtUU8vh/LBVQR49zt3Fw6s+zgjojTyRaOl/2C6GneJf2sLt4GY/zpx
+oRlETP/hjry0Df0Tc/DpA3MCjuuGzzP6tFw1cgYj/xdm5Hn+WcbHmG7CUUiWI8sj
+nNLrNeiglcQ2RVElVj4kep1WLsEZm5ZOdv/+T/G0B3al77MzhT2j87fMbWTo23Hz
+iags0cGL41K/nYYwKx7esA==
+-----END CERTIFICATE-----
+subject=CN = educationgrantapproval.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3355 bytes and written 468 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: FFC4A427911510AD993F010039646A8E59FEB25C12C0618790C93BC3A7DBC409
+    Session-ID-ctx: 
+    Master-Key: A2EF550867F2631E18C3B1DC61A86F6AE29D905976CD2496953DB31D4975C230D71EEA05C19AF58E1001E52132FD51B4
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 51 ef bb e8 d6 74 49 f5-44 46 a5 6c c3 bf fc d9   Q....tI.DF.l....
+    0010 - 40 50 79 7d c1 db 68 e7-a6 fd 16 87 31 7c ed d5   @Py}..h.....1|..
+    0020 - 65 01 e9 2c b5 e1 c5 73-c3 5d 16 32 1d 35 41 09   e..,...s.].2.5A.
+    0030 - b6 cb bc 9c 44 4a 59 33-db 51 eb 90 d4 38 55 cc   ....DJY3.Q...8U.
+    0040 - 3b c7 de 60 aa fd 52 f4-27 f8 4b 58 b9 93 fc 67   ;..`..R.'.KX...g
+    0050 - 4d e2 af 05 70 be ea 35-f7 c9 be 16 ab cf f5 0e   M...p..5........
+    0060 - a9 31 b7 12 39 a3 cf d2-46 b9 50 8e 03 b3 f4 63   .1..9...F.P....c
+    0070 - b4 c6 6a 53 f3 21 1d fe-12 f6 ca 85 7e ac 2e 86   ..jS.!......~...
+    0080 - 3e c4 a3 e7 ba 33 ac 04-87 f3 3f c5 be 28 1c e0   >....3....?..(..
+    0090 - cc 98 25 a6 7e 76 7c 13-3b 66 58 5d ed 01 45 4f   ..%.~v|.;fX]..EO
+    00a0 - ef 50 8c 19 5a 02 c0 cb-26 43 94 29 8e ce 0e c2   .P..Z...&C.)....
+    00b0 - 1e 10 96 e8 1d 18 e2 16-20 42 e1 2a fa 05 13 74   ........ B.*...t
+    00c0 - de b8 c9 6c f7 aa de dc-f1 97 f6 e3 37 a4 8d 6b   ...l........7..k
+    00d0 - f7 e0 b7 ba d1 f0 08 84-e0 45 de e0 23 8f d9 c1   .........E..#...
+
+    Start Time: 1568379627
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

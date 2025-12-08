@@ -1,0 +1,62 @@
+https://ponogrown.org/transit/Transit/Trading/uspscontact/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ponogrown.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEhTCCA22gAwIBAgISA582lj3XUyy4/pexk7/zDUnjMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA2MDgyMzAwMjNaFw0yMTA5MDYyMzAwMjNaMBgxFjAUBgNVBAMT
+DXBvbm9ncm93bi5vcmcwdjAQBgcqhkjOPQIBBgUrgQQAIgNiAASns/QiOm7Wkp+w
+KxFx0AMzAxnUbi1NyNeYK+7v8N2lXDBIMRmfPHOu+UbZFW2Jk439fj7Vwps7Tbjt
+oQbhDQGQJci5wCP5WLuUESoWy6hKqLntl49nhcvuQbowTfFPc6ijggJbMIICVzAO
+BgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwG
+A1UdEwEB/wQCMAAwHQYDVR0OBBYEFAewgbii35/yvsrxkRV3ooZViJetMB8GA1Ud
+IwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggr
+BgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRw
+Oi8vcjMuaS5sZW5jci5vcmcvMCsGA1UdEQQkMCKCDXBvbm9ncm93bi5vcmeCEXd3
+dy5wb25vZ3Jvd24ub3JnMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+BAYKKwYBBAHWeQIEAgSB9QSB8gDwAHcAlCC8Ho7VjWyIcx+CiyIsDdHaTV5sT5Q9
+YdtOL1hNosIAAAF57hHwwgAABAMASDBGAiEAvO+E3m0RIz5Dvik55ECaESvNnRlP
+c/r6S8/Qf0vedfsCIQCoOsx/Si/LPPGwRtRmT5RXWG7KoGJ9eFVE5YZHg2YX+AB1
+APZclC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTjAAABee4R8NkAAAQDAEYw
+RAIgJ3V5zilE7F82ZxvvvCv80HXodpV2M6akD9nF+URN60ACIA6awOHg+QwyXxNq
+HrnAE/C5e5tWhEwtZ2mElI6F6r1KMA0GCSqGSIb3DQEBCwUAA4IBAQCo3GGpOWd3
+WKE0Q0Sqjt4riWmba1GEUZG39zK78anAM/sj/PX5KnSym+As35crDgxuGFnHt+AZ
+QqDgtMhnW2mGFrdN8mv0xoUJLlcW96PjdiBHiZpe/WCkDxEQ3TPANBeqs93PKDS+
+T55aT8EY4SF+yIJnosAYlITAYRN2JcIl1gE24JbALxsGTZmSdzEyAPluOrp5jEeN
+/I6UbSw5cMwR0rkyvRrdEF13mKxkbaqWtgdXzPE9hrR4pIejNbGHNondYIkDm8Xz
+JcrwRkuqzyR7ZDBHdN/PsmEA3BX72XHsiqYJm76cap9wJLVmcvwWfBRk9Ka2hpZ4
+CACV9YUTWBCP
+-----END CERTIFICATE-----
+subject=CN = ponogrown.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA384
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4263 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 384 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

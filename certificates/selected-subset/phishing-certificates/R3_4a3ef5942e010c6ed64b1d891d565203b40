@@ -1,0 +1,65 @@
+http://milcrosoft.amerricares.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = milcrosoft.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFcDCCBFigAwIBAgISBKPvWULgEMbtZLHYkdVlIDtAMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMDUwNDI4MDJaFw0yMjAxMDMwNDI4MDFaMBkxFzAVBgNVBAMT
+Dm1pbGNyb3NvZnQuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+v8VuuTRBkiHON9JOsBceEV3XyTiMeU013S7lese7eWrNIWxxMeIZhMGipnrW+Mlg
+F4GYu9a1lt7QNjKZv6qPLlvi9pfcEiIOcWbjWm/QNh7w8lcyLfN4+eJaF3RCTk7Q
+x2i1aP/DxGcHYr6ilBoRXFEJXcesMSsbb9Kj5cHuxNPTAgP1goNtV55oYEA5duhF
+WHRrxsmi+fprCAr0LnsfGD0lVO02KtX3dEUon2SNTBcysvTgiWgAx7noXdpxo28Q
+XnYPnotdjKds4jjvY0Cv9iKD2cnCzXxrvRC/VnZrPyfl9O2x0bkPiUwFQ82PlIN3
+8cTBtwrQeZOSnZFFfoSXYQIDAQABo4IClzCCApMwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBRxErqRHbTJPtAhb/+vQwzZNCSQ9DAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzBnBgNVHREEYDBeghAqLm1pbGNyb3NvZnQuY29tghptaWxjcm9zb2Z0LmFtZXJy
+aWNhcmVzLm9yZ4IObWlsY3Jvc29mdC5jb22CHnd3dy5taWxjcm9zb2Z0LmFtZXJy
+aWNhcmVzLm9yZzBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisG
+AQQB1nkCBAIEgfUEgfIA8AB2AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgia
+N9kTAAABfE7sVKMAAAQDAEcwRQIhAJ0ZrjnvmwddZxshTusZ2d9/MpHCXkJNEZ25
+9XNTEua1AiAaCi0yz4pP49npxwXkAIdX5VMATX/e7dNdbf3kV4pUxwB2AEalVet1
++pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfE7sVysAAAQDAEcwRQIgITif
+hvQLxgLvBe+zd6p/TnvMI4uEp/Aw4NzzH6qbUaQCIQDcZ+BppetWAq1q1ZsgS/bl
+ZX8IlRTMBlFXMq2crfmB3TANBgkqhkiG9w0BAQsFAAOCAQEAYWEoYoxEkCaiG7WU
+bLZrsvLTYpBssVfrVrL6kFOyy7zHAKgOyukfsXXKr8flpdAMdq7fFBID/UZ9MNkf
+gfJG8qy+qgdqjyZEvfiQhzq2CUO/yD0XS46CDuzvLEwLSbg6ShZmWqHPgipsqD7+
+U+7Vp5TFXnsSysOSPLLnpLbIX/TC+Whcq9krNk94nG4vG7qN9enZexokQYhlAgkL
+hJ25qZI2H62jw5dP2HuSJ1tvaWq0rouIPZBiUX7G9t2K7ypx6D385tJc1Bs25bJy
+T1B/B08bUbdWlmYc+aU22GtiDR2qOjzvq1SqGVPkTQM2BN1wXF4ALxwDnoreSEjN
+S6wwsw==
+-----END CERTIFICATE-----
+subject=CN = milcrosoft.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3197 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

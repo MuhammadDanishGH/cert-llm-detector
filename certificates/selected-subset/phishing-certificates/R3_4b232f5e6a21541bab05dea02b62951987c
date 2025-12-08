@@ -1,0 +1,65 @@
+https://myjcb.k0mzy64.cn/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = myjcb.k0mzy64.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJzCCBA+gAwIBAgISBLIy9eaiFUG6sF3qArYpUZh8MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTExNzAzNDdaFw0yMjA1MTIxNzAzNDZaMBsxGTAXBgNVBAMT
+EG15amNiLmswbXp5NjQuY24wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDKuOMsSkK3ImNKjb5uKU29IxluAu1TrNzNn9TG0bdgbp+cgWbkWUipMkm/VvWl
+39BLx+f0IWnXz3ZOz8C6VT/oP7sOzus/Z6j1AzeSZPOgwlhcKLxuk1hVCybM9J9P
+Yqxp2OOpqmRqxByikFMV7+qkE3Q+tZJ/w+11vGO2MGuTJOBbVnX+PmSWS5dk7Lms
+DuNM5IAO32cqYj0tSZ0pX7AcxZX5+dswRgPY3x19j9alWSFjyC84CX8bwBVfrJag
+T/pZsWKTGjrOHzstQW30gAO7gJ6VyUGZtFPj8DB/1uzv4myUxku1mKK766y/o0eG
+OeqRGfdlksTCmXuySnCQ0UbfAgMBAAGjggJMMIICSDAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFKqcWNon7GoAatittHFyHZ1ulLnWMB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMBsGA1UdEQQUMBKCEG15amNiLmswbXp5NjQuY24wTAYDVR0gBEUwQzAIBgZn
+gQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5s
+ZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwBGpVXrdfqR
+IDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX7p9JXbAAAEAwBIMEYCIQDkU68q
+iCtEahYbyaOcp1JaoQ9IADuJdfS1qjmVobPL6gIhAKlEtsc4vSG+CqysTOetX0HW
+fV4xXJ4Vmf3GtSh+8mJ3AHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKW
+BvYAAAF+6fSXtwAABAMARzBFAiB/AkGK2purVkLHjG+DoqWn3z+mklV0VCcTe1t6
+s+NZTgIhAPSIyE6mU7Bmdf3HTQJeSufrBO6cZA9OWxvb90SaXbHjMA0GCSqGSIb3
+DQEBCwUAA4IBAQBwB4NUNerikMGKOTGt3o2Z+9EbIepRe94MURzZAbc+ML27g+4L
+ciQ1H6wjgozqLn2tOYvnxcMkYwKH4pS771LPyh/uZYC3r2xayxqYRwplstNOknJe
+kUbuFXNytVBilT5aDAirTZomkNVXanIL3yXj+QVX1K8rwhy95Q7TQ00K9N4qDSRk
+izagHVK2xDCLXj9WR6ucoBlIBOe3KgdQfNjF2m0YXXxs9LtdQUL4oTw4Onsu9P6a
+qhzyi3gUlscQiqrEa/C2Ykz3Fl9nffppJD7R20NmFeb9OtRyMM6iwfCdouWF8Pmv
+jdYRCy4yY9EfZIg7sBUwmQDMPhExurb4kJr/
+-----END CERTIFICATE-----
+subject=CN = myjcb.k0mzy64.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4579 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

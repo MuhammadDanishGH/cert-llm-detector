@@ -1,0 +1,64 @@
+https://soctrain.com/hammerbase/coinbase/AccountLogin/card/?cmd=_ffffvba=GA&f370825f65673883ba67308d42e334d5&dispatch=37331b039d8915233fefb6d66ce488ab92cc9607
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.soctrain.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYTCCBEmgAwIBAgISBGGdTuOLl/m/fzNCHnl5wyw/MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTUwNjI5NDVaFw0yMjAyMTMwNjI5NDRaMBkxFzAVBgNVBAMM
+Diouc29jdHJhaW4uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+whMNf5WSpTT9+8IZyO4uuvosNGnM/D8TpPNMiAG7awXJWGQouDpXyVVk8nVlkjp5
+rioLSSOleyjkOKdEkMQKA3S2AsWQ71erprvnAw7tEm5PyMJkXzoMLPlZUCxV/83/
+uJgkqisPJ894sRcQNbdHsb4NogBKCf5DCL4HeZFXY1FM6b7lzySP727VGkRvyAx1
+ZDTb1giuLaoLUdN/iIoz3pIUmP6uezbr5YchP/odLuG1HBzxZE23ib81OtfK72lx
+W85Y1bBqP/V/DqWtlAKB9rsfW1AadXS4RCCnGhttISJHYhJQ1HUjEglDJ2Vl+19L
+9mla9gnEn+qpjB09IXU6aQIDAQABo4ICiDCCAoQwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBSfoce7866oGUqOl4ZdWbww2aUNrDAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzBaBgNVHREEUzBRggwqLnBpbnN0b3IudXOCDiouc29jdHJhaW4uY29tggpwaW5z
+dG9yLnVzggxzb2N0cmFpbi5jb22CF3d3dy5zb2N0cmFpbi5waW5zdG9yLnVzMEwG
+A1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEW
+Gmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAgYKKwYBBAHWeQIEAgSB8wSB
+8ADuAHUARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9IoB+JgAA
+BAMARjBEAiAMPy9OevdYy8QUuRyF+CjXLuUxh5a6Mur5uBXfDVQKVAIgGToJwtmC
+S2vYAi8+Yorb7IMW/YS3IU2kcTK9JJ09UB8AdQBvU3asMfAxGdiZAKRRFf93FRwR
+2QLBACkGjbIImjfZEwAAAX0igIDYAAAEAwBGMEQCIHhw+Wh0dponsumCY64nm6BK
+oCT2agRFflLgin5w1zZ/AiB4DIRQJQeMqkHizHWA4hNIt2tU+B1DPc0r8u4/EJlw
+VzANBgkqhkiG9w0BAQsFAAOCAQEAGO2maRGHuWXFxlm7YNdRiWAM0TFM0PzbDx/y
+vPo5kQ7bzsmXXtHtAikkqKhpAcSaZa3U6iePvxfx32xJjwKQXCYL/hddRDiELVSF
+LUDYwKrlniwsvM6o1alca85ScmO6wKeD91IspqypgR6nOLk1IoCGthdJ72QJvIPY
+vqOix+mMUIFRzncD6DEqcxu8obZ1jGtEEvFj0JZKPcqGvDOcXDQu1v4uSRFSWy2E
+VvVVztUTOs+POuMPFRagFA9FwJbMQ00yCJanfcZ+pG9uFoMGY2dS+uN4IPElvLZy
+o6yufA6OOTRelBmJg0Y6pdSH/ZMFzyNJK/SMhkgj6ZEu0JTjmA==
+-----END CERTIFICATE-----
+subject=CN = *.soctrain.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3252 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

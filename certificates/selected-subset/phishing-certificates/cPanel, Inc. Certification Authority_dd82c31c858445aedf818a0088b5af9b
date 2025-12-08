@@ -1,0 +1,74 @@
+http://staywealthy.com/wp-admin/images/login.php?l=_jehfuq_vjoxk0qwhtogydw1774256418&fid.13inboxlight.aspxn.1774256418&fid.125289964252813inboxlight99642_product-email&email=
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = staywealthy.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG5TCCBc2gAwIBAgIRAN2CwxyFhEWu34GKAIi1r5swDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMjAyMDIwMDAwMDBaFw0yMjA1MDMyMzU5
+NTlaMBoxGDAWBgNVBAMTD3N0YXl3ZWFsdGh5LmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBANEGrPP9YB/pZFSOHp7NMasfQpvCM5Kus9nhj5nfCBY4
+uTO8OdNlRi0QZy3h18dMnFk0vhqAgdDdkDn+1/1jiuF7pWV8RJxlItBkELd1+Sl9
+rerAA6dXkDaLZ+HnbQMz1J/GK/+uAYUaitmMSq2LdhktfRmJTnpq2Xn5EehehGQx
+O9VN1vrTqLt8o4SHr3a3Hzqxk/du4mDubCpa4auKsxAP+WyGHmkYhp+be9mSQPA3
+JQs5LsRW8ICrdl2IoLY8aPl69KWeyaFzuVgH8xioBhl1n5Yt3ey9HQJ7KyyxV8Z5
+VYMR5Crj017dx5RPEZKhx0HgMQmQrj5s05e78A0yQtcCAwEAAaOCA8wwggPIMB8G
+A1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBSLLxysVSiW
+5kMEwpNxotcWa180ZDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIx
+AQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZn
+gQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEE
+cTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJ
+bmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDov
+L29jc3AuY29tb2RvY2EuY29tMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYARqVV
+63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF+uc4YdwAABAMARzBFAiBT
+QD63felfihQUC+Dz42bxx28fO4iqmepWq6T9z5i/pwIhALOA4ifDRHJaMTERF+Io
+FUHXFZAEPlkj5E1a313yP0oWAHcAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jw
+kGKWBvYAAAF+uc4YegAABAMASDBGAiEA/2x90LMqhEpPDRgibMvfIdgAj4uWNeYM
+o0w0sSmD53oCIQCkPWqUxsR8Lu2PIfkCkQKnuBi+0VakY11jtZpeh5iYeTCCASYG
+A1UdEQSCAR0wggEZgg9zdGF5d2VhbHRoeS5jb22CFmNwYW5lbC5zdGF5d2VhbHRo
+eS5jb22CG2NwY2FsZW5kYXJzLnN0YXl3ZWFsdGh5LmNvbYIaY3Bjb250YWN0cy5z
+dGF5d2VhbHRoeS5jb22CHm1haWwuc2V0YWZvY3VzLnN0YXl3ZWFsdGh5LmNvbYIU
+bWFpbC5zdGF5d2VhbHRoeS5jb22CGXNldGFmb2N1cy5zdGF5d2VhbHRoeS5jb22C
+F3dlYmRpc2suc3RheXdlYWx0aHkuY29tghd3ZWJtYWlsLnN0YXl3ZWFsdGh5LmNv
+bYIdd3d3LnNldGFmb2N1cy5zdGF5d2VhbHRoeS5jb22CE3d3dy5zdGF5d2VhbHRo
+eS5jb20wDQYJKoZIhvcNAQELBQADggEBAAkjfOlEJf8K92u7F2HApMpcDrSO5k3M
+BySkTe362TWvrA18p1BYSM71DP2CkyX/Deb8AWyjikq+f6xciLn1wmTIxEl6VrN/
+sOiSqwSnS0ocdJxhrWRewbBEaS5beZPFaleoXmeAPEP94pffyQOc2Rfxs1SPURex
+nLM/TnVHyaEkTkym/wqhYWXFDn56OlsYtB8LeJmI6ros6U3gnIXaaE33kX0pd2jn
+TR/cU5uMD5kB/g58UVhlWXoQ3MA70kmJoCAohS5CUAOZQfbb+BhBaswNQYQhTfMQ
+IbE0tZ2I9vWkbKbIJTz/OntFzC9DKpYAtnDUBuU9pqw3X/QXoYmg1v8=
+-----END CERTIFICATE-----
+subject=CN = staywealthy.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5274 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

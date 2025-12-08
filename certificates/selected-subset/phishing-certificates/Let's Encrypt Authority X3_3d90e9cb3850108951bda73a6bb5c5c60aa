@@ -1,0 +1,92 @@
+https://fixingwilllikerunt.com/support/mazon/f9342/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = fixingwilllikerunt.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFfzCCBGegAwIBAgISA9kOnLOFAQiVG9pzprtcXGCqMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MDYxNDQ2MjZaFw0x
+OTEwMDQxNDQ2MjZaMCExHzAdBgNVBAMTFmZpeGluZ3dpbGxsaWtlcnVudC5jb20w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDcxFAOxUw33ebhD7X5oqAC
+LBJGfmroU6Mt8JvkL7qBM9b4rMWX2JkYZdc82pU32fld99HYi291kSKzSKwiipXk
+2IRQdyvVgaT+fyxvHI3mrGX7rXrKKUwq3GRjkTpcLWRov5vVfOrv+sYSyrPgGDLe
+5oIOfh+Ab2dFVUm6+xMOuUps8CRo/KZeLKUs6JXDXQI9M+D7M9KaewR8LlUCksT7
+fyE46c7MZMGe6pm1ygeCtsFOZYObR7dZfCv6KbdtDheohh9DcIjLrQW0E+kOzRsd
+iPwl5kkEnBJupyzh9B+cDFhz4KOFI2BsaE8RnKGf5AkHV6RKcvnFNXxxRJMy+Ol7
+AgMBAAGjggKGMIICgjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFMsCb+XXb6/kUbm6
+V6Kd8xrl3HjUMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsG
+AQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZy8wPQYDVR0RBDYwNIIWZml4aW5nd2lsbGxpa2VydW50LmNvbYIa
+d3d3LmZpeGluZ3dpbGxsaWtlcnVudC5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEw
+NwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5j
+cnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQB0ftqDMa0zEJEhnM4l
+T0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWvH9xDVAAAEAwBGMEQCIHFXLqwBRXneSHCg
+/hiBLLloCSvkAa3ytPD8INp4KhMJAiAqafyxlS7yFgHnf9vrk8EF6I259culeYj0
+Lxbem5jcMwB2ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABa8f3
+ErcAAAQDAEcwRQIgc0YHoy6/TLJZCY7TO65G7sqejXP/ksd4732bagsF16ECIQCy
+fV8fC5fOYfZFt8K5EGMr5p6IOrHnxXeZ2yRlRn+NRjANBgkqhkiG9w0BAQsFAAOC
+AQEAFXfFtzs1A9M2Fh7gC5QWGvMbIAsn47ofRPQ4diw8QU1JrnumO1GAV4mdfexG
+w3BTBuAyrBlFb5jkMKz89jZXjxp/jZMLxgjQjsGFNDIlSp1kCPJQXjwCEGv7eUFB
+HiPgZ/dPtFXYbNmRcprTChsCOhfjpzFSDIVRkxbs1EelGloULnj927TNm+MhLV1z
+4gdXkVjC6mDijaxoou9YfebzJc/ecakpjB7ZkT4iZtMLJ46JIN2hZlP8KslrU7ht
+FRn4vZDEpmukLsnqifUVQ2nGFJr/fldY2g7909pclvR7eikTu/W6uKAQwEvTZBMu
+ScZP8mCCmErjiOnFcT1ppq42Ww==
+-----END CERTIFICATE-----
+subject=CN = fixingwilllikerunt.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3294 bytes and written 460 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: D676907A52395BB0FC67829E6B6997DAACB790F05C166348EDF57417099095C0
+    Session-ID-ctx: 
+    Master-Key: 98A3B104A17B7742280EC0ABC208CBFAB7593470DE5726463997E1495D5888BDB95A5238A44947F62D5253B4D186132F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - d5 b0 ac 2d 80 fe d5 da-6e 41 4f e2 02 e7 21 cf   ...-....nAO...!.
+    0010 - a3 54 45 0c 2a 10 a1 2d-a5 b5 74 cf 90 f6 73 e8   .TE.*..-..t...s.
+    0020 - 35 b5 82 6a 79 90 ac c5-27 84 d6 76 5f 3c 1b f4   5..jy...'..v_<..
+    0030 - 7f c1 d0 56 8d a4 9e f7-4e ce 90 96 5d a2 30 8d   ...V....N...].0.
+    0040 - 55 99 d4 f2 1b b5 aa 29-15 55 09 53 8b 71 8b 23   U......).U.S.q.#
+    0050 - b6 6f 1c 0b 2f d4 1f b5-aa bb ec 66 3b 33 d9 0f   .o../......f;3..
+    0060 - 55 9c 1f d4 27 ce f6 e0-66 09 e3 ab 7e 31 66 e4   U...'...f...~1f.
+    0070 - 0e 0a eb 25 cf 8a 7e 91-d1 b9 9d dd b5 57 29 15   ...%..~......W).
+    0080 - 9b a6 72 9f 88 70 fd b7-bc 6b 8c 9e 6d 70 96 00   ..r..p...k..mp..
+    0090 - 69 bb b6 70 f3 73 fe 12-cb 83 18 9d cf 7c af ea   i..p.s.......|..
+    00a0 - 52 98 83 66 48 7a a4 09-a8 ce c6 6f 54 64 fd de   R..fHz.....oTd..
+    00b0 - 1e 5d 8c c3 f7 dc 4c c8-b0 01 76 78 bb 35 84 a1   .]....L...vx.5..
+    00c0 - c1 7d 17 92 f0 f1 8f 38-d1 83 c3 26 15 aa 69 3d   .}.....8...&..i=
+
+    Start Time: 1562504425
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

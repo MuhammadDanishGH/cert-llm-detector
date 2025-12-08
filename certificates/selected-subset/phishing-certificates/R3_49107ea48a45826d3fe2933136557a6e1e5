@@ -1,0 +1,65 @@
+http://pemersatubangsagrpvirll18asiian.xxuz.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = pemersatubangsagrpvirll18asiian.xxuz.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFhDCCBGygAwIBAgISBJEH6kikWCbT/ikzE2VXpuHlMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMTQxNzE0MjRaFw0yMjAxMTIxNzE0MjNaMDMxMTAvBgNVBAMT
+KHBlbWVyc2F0dWJhbmdzYWdycHZpcmxsMThhc2lpYW4ueHh1ei5jb20wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC+52UQyQDrT3f6bfdI9sPkvrNyxUTd
+dXSn4E2xtk61UYnUaHA/+yKcPZinL4YHxjtwtCioW2vqv6WE6VzN7yXeEkIVy2J4
+vi9zH+OgH1EdCSTr28maQwncQPPNtzSD7MjDS0jLSldQ/KH7d+iJzGsDr8Qf79i2
+fhbypCsEdEWyVUSLNPtfmzRk2oL5Q/xIY4JFV4pB7Ub7ulsa13DAJ66tR7oStduM
+GZo9LQhvsL8iFiBFswZ8TMb/iUDqboWVBuemc9Kq1mGCEJo8w6abakf+4kEWSo1d
+Xeb4/H2zEaksRrLq5lzAzJSjcheNuIM3qqwBTNYFIK7fXgfDPtoiIC8LAgMBAAGj
+ggKRMIICjTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFIiPSSzH63sEBrOSXeuPK2sG
+B2M5MB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEB
+BEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUF
+BzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMGEGA1UdEQRaMFiCKHBlbWVyc2F0
+dWJhbmdzYWdycHZpcmxsMThhc2lpYW4ueHh1ei5jb22CLHd3dy5wZW1lcnNhdHVi
+YW5nc2FncnB2aXJsbDE4YXNpaWFuLnh4dXouY29tMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAQcjKsd8iRkoQ
+xqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF8gAMucAAABAMARzBFAiEAz9oqhn3H
+21VRX/Px+SVbbLA1hyHn6Lp2JsgJpYeGmOsCIAeyTH9JcTkzyD8y6RtQt0s1zPx5
+DOHZI5eNHzKJAAJ2AHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcA
+AAF8gAMujAAABAMARzBFAiBnZGHTVer7np7NR3yEQHIS4FRGdLNdCH1sz36UKR1i
+3gIhAOQrhkyZdrC9tk3ndMsUQBXDBUNhzA0nPHPIXlIjyOgIMA0GCSqGSIb3DQEB
+CwUAA4IBAQCt3QduGHJ/bhtL5jusYdVY0hU7NHe4Sj8G4RptWziWwFnJeYKa0k32
+FnixlKSm0Sv4i9O9NrmWaxqKz8N82cj1RqxLNj8Oba6s9qRCEVMv4wMOmGqhUWGv
+iEulKeEhOKLcmsdi480isBBfiWAYGfIorFv/BMa97NledXziE4naiWkPKaetdK/t
+QDFUJfN7NIMQbOKKXMbkAZSyhp7G+cl5Pw76D5WRw248b0jSM3LixHFvOqCarxHG
+lNHLtzy+o++AK3Kql0QEOPzPPRpjLFgb4PRyNw/LWgujC1TkOhZ3jvnWHnbRFc5y
+MSbaGzgfjFXJHGwtGq4shqP4nld/sFUK
+-----END CERTIFICATE-----
+subject=CN = pemersatubangsagrpvirll18asiian.xxuz.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3217 bytes and written 414 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

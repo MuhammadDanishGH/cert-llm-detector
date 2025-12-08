@@ -1,0 +1,66 @@
+https://i-deliver.com.ng/app/secure/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.i-deliver.com.ng
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPTCCBCWgAwIBAgISA2AFd9IvAmKd7mHMY+dSe9REMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA2MTQxNjQyMzNaFw0yMTA5MTIxNjQyMzJaMB0xGzAZBgNVBAMM
+EiouaS1kZWxpdmVyLmNvbS5uZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAMjCeVquC+BumbenYmYqP/gn9bm/koW4e5TUB8NhO58oxmY2dwkmDd4lw30o
++7HKHX97tnaOU3ujxmsdBEoDe4gC/iZkuBY4AeS7L9uUr8F47qh6fA9d5Cf2PcQx
+d5F1eMnlfYbjG+B/CSKjntMk9P46jJxbgX0nMV3KUNgc3RxvcwuK7Ehyp5Mxzl5I
+j3KuuHDDv1pD1HNDCMU3or1x+SRzE2YVZLs9LyPaF91/A88eJl6QiJoF6MjZSaPN
+8wrkfuiqU3cRZNYp+BFnDn/U0+ku3IIKNXbreqAGPwlcblhV3vSKppLfrldddQhO
+VvKJauG+5aOcQktp7jeHp0bTr7UCAwEAAaOCAmAwggJcMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUoD+tHBj30X516jtfINtZmQ4iumUwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wLwYDVR0RBCgwJoISKi5pLWRlbGl2ZXIuY29tLm5nghBpLWRlbGl2ZXIu
+Y29tLm5nMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHW
+eQIEAgSB9gSB8wDxAHcARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1P9MzlrW2gagA
+AAF6C54vpgAABAMASDBGAiEA01hhEo6fr/DXlDo9sO5cI6sPjRtwKZV/vcF/6gkd
+BWgCIQCS3g1uIe3FX+sS7lLahJafofjLZ2Bp2rF4cssp52boSgB2APZclC/RdzAi
+FFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTjAAABegueL5kAAAQDAEcwRQIgfcBZHNWp
+wVF5AxDdKJdtpVhY65Cq8vvbbTREErgk4fgCIQCd/vSIsIdyMmruaeiX2Q6bUWP6
+2IDGl2lygK6crOjtnTANBgkqhkiG9w0BAQsFAAOCAQEAVtm2gYkDo5fw9XW9N3cP
+LOUtb7Y9Px0Yo4lZpR3H7ACmbOfUQUEunBcnKBvEGCj3IAulqzUPlr5fVYi67SBJ
+rP+olo9NVjZhqAoWiRHFHeUu3N7lE0uNjgCkviSqPNI5RfFpPD8F2uxNNAOTUnWs
+s86ZIWAyVZRwSkWfzJeDUErTba+RPImjOlL8rctajB7ixT6p+Xwj/srbKwo8FQUB
+xJfVVh5p/KpFbQZy0udGaqkZE57iySp8mkZsnvYAsFLEiSeTpv/EBUEzKlerqbJG
+PcFEweRziQn+ypi77G0IbwliAwS1WAnKIG69swnoqB9/DumPAuxL1Lm2Ah5FOMM8
+Bg==
+-----END CERTIFICATE-----
+subject=CN = *.i-deliver.com.ng
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4601 bytes and written 398 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

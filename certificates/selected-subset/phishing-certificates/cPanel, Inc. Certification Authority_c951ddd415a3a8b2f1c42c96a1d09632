@@ -1,0 +1,72 @@
+https://sansom.us/wp/retrieve/spool/?id
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = sansom.us
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGajCCBVKgAwIBAgIRAMlR3dQVo6iy8cQslqHQljIwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA5MDgwMDAwMDBaFw0yMTEyMDcyMzU5
+NTlaMBQxEjAQBgNVBAMTCXNhbnNvbS51czCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBALhPSQ5WTbgC0K5kKEb4ERsV4xGBnFuFU2Edu7korDuONpHwr+/a
+VVirs6vDqbpIBTgdjldDyek5ZMjg/knXS+uGZgSXOF0pFIWkgY3LPb/kChS384pD
+1Wt7DmSbQ28TUfzRCkKfsLBjod1ZyhhNX+11yKPh0YZETTpo1utIdhrAYTS6Oc7P
+3JLPG7PxPROqpRSCsXaJPNNNIhnGa/wMHQcaDbu/wCGQsXjKqI4XmNOp7n1131TN
+9JyvXGG1ZhAqdrtN2cHUwPfQ9CaMQ+8khZP80Mb0aZAsfwcnyOcYBh5KbkzTR0rp
+SiYR4d5WCqkfuwK5L1A5eoinwo7UGgvF3Y8CAwEAAaOCA1cwggNTMB8GA1UdIwQY
+MBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBSzHPdFvBwFSgSJbEZo
+A1hhyhL+wjAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICNDAl
+MCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEw
+TAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20vY1BhbmVs
+SW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEEcTBvMEcG
+CCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0
+aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDovL29jc3Au
+Y29tb2RvY2EuY29tMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAfT7y+I//iFVo
+JMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7xrFxNgAABAMASDBGAiEAj9xc6T7n
+tzFFn7sfFnqcKPHgfI6uQJ/5zOZbQXnnruwCIQD4f5Pp39lM6837Uxio1DMS4VJi
+JqhJvv66eM+R7UbsawB2AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGo
+AAABe8axcPQAAAQDAEcwRQIgD2YpkccwulcZRT094LMC/KPH9sEIHeNdRWstWujG
+IoACIQC69Iqqxv0rjoiMk7Vv44FwJ3sDNPP+A+ip/rChUEdFzjCBsgYDVR0RBIGq
+MIGngglzYW5zb20udXOCFmF1dG9kaXNjb3Zlci5zYW5zb20udXOCEGNwYW5lbC5z
+YW5zb20udXOCFWNwY2FsZW5kYXJzLnNhbnNvbS51c4IUY3Bjb250YWN0cy5zYW5z
+b20udXOCDm1haWwuc2Fuc29tLnVzghF3ZWJkaXNrLnNhbnNvbS51c4IRd2VibWFp
+bC5zYW5zb20udXOCDXd3dy5zYW5zb20udXMwDQYJKoZIhvcNAQELBQADggEBAFft
+hPez82aN/BuZjwQMdXp/kXtDAedNsvKuTuvI+9iLavvRBizkDqHMn+Yz2kBN0XzH
+2fvNa7NQZIeoo7iTZ0BrlfdYTLGMg3r63DZBI6LbVVO45+Zn8+tIda4eGrrHJEzm
+tD1QyVLeXspMNtRmn3RnD7sJBUF9rtWtuqA1Za41gEjmsiiQbBY5M7u9NCWCG/bJ
+Qmh9R4NrANUrYkjoTtHEsVqwRVNkErlznJJ0mmM1kCvJ6PE3VdG15NLFbMMIzJkY
+JI9r4mzQf7eZjHXbNHNXFw+X2/X0SbqVed5BNEvtJpIYUr8mib+c6bTKtCtRXOKB
+XHNxOw7TtchJNPgNMCo=
+-----END CERTIFICATE-----
+subject=CN = sansom.us
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5151 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

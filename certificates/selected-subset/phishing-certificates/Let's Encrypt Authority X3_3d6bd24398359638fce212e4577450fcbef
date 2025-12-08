@@ -1,0 +1,98 @@
+https://www.acropoliskoenig.com/neutral/summon/css/PayPalSansBig-Light.woff
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.balzacttyguess.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGczCCBVugAwIBAgISA9a9JDmDWWOPziEuRXdFD8vvMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MTYxNjU4NTVaFw0x
+OTEwMTQxNjU4NTVaMCExHzAdBgNVBAMTFnd3dy5iYWx6YWN0dHlndWVzcy5jb20w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQD1isESXRYVDHh1KXPrafXQ
+Hg5bdbGL+/FsY7vtwfVaos+G2LKMVJenqw8Mx5mnfkReqMJxxvAkLf/8yPHopNTH
+myv+tSpPEFiLK7qtLIdIatdG3WwQlpAU7hmbFrjWn7iCjUm5C4z7u0MPSqmPMvQl
+lay3SZazuXcI0w2ty+2zT4SARPMrtfU3qUZHkfwvFHWRvv2cYk7PivXjUW+X3Elb
+OBLZAH9eilll/Gbid0VUpKpgIRPLgSiRZXUcJbC6mbbJnse4kBxcbTZkS1A2he02
+7amPhiRNKzVt/oGNDKcfA+ZI+yvZiVLWq6W6fymU2WYzyzXDVM+onDmwCLs6QfAz
+AgMBAAGjggN6MIIDdjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFHHx0l8HvrjJYhpo
+wnWtVVSJxfFQMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsG
+AQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNl
+bmNyeXB0Lm9yZy8wggEuBgNVHREEggElMIIBIYIRMTIyOG5ha2VkY2x1ai5jb22C
+GTE1MzV0d2lnZ2luZ3BoaWxvc29waC5jb22CD3dhc3RyZWwtMTg3LmNvbYIXd3d3
+LmFjcm9wb2xpc2tvZW5pZy5jb22CFnd3dy5iYWx6YWN0dHlndWVzcy5jb22CE3d3
+dy5lbGRlcnBvbXBvbi5jb22CIHd3dy5mbG9yaXN0aW1wYXRpZW50am95c3RpY2su
+Y29tgh93d3cuam9obnNvbi1taWxsZXIxMDg3YXdmdWwuY29tghp3d3cubW9sbGxp
+dHRsZS1oYXJyZWxsLmNvbYIdd3d3LnBhcmtzYmVja21hbnJlY3VtYmVudC5jb22C
+HHd3dy5waG9iaWNjbGFyay1taXRjaGVsbC5jb20wTAYDVR0gBEUwQzAIBgZngQwB
+AgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRz
+ZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgDiaUuuJujpQAno
+hhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWv77/TuAAAEAwBHMEUCIQCQqq5CxKR/
+HU1s5UukfymqOO4RtI1f3qVgd/PYURM1jAIgYkNA9sY3LPfRcVDDdbBMh4s+vSdl
+aVEdd5bs+e4DGAcAdgBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4scdoVEvYjQAA
+AWv77/TgAAAEAwBHMEUCIDOPnJEbZ3uGYVCUEHl8hAfb8G1VewzVDfLheRVuQfGa
+AiEArImGke2SB+sPr2lK84+0UY3SbLgbIDWuaLF1x+MZhYkwDQYJKoZIhvcNAQEL
+BQADggEBAIe1vY7fdXsKNQujGEuaoZumiPJ3ohu4jU6Xggzd8a/n0W5y7sIOd/MQ
+UeTTTse7lRiy7cnbI/oYFAPcCAeTzwrF4eloEttrDpaYLqsxZMKCo5NXi7PMu874
+uQEOQRrmS0xYAWVpU19idePcYX6MnE5QLueSxPwXKy6bxp3UFRBl7JeXO4sxvR5t
+FfY8bZWi3EfN5Dxk/yy5Mx9fA1sH63nWvu3xKGK8jlieIsieVgiJibY7aDhJji+I
+givDFmYzgKf7QTg52mOpFH1XoAgdT+ftdz8pNsz8VXdeTqPe0mke6hqdLNR2jlij
+4SgYU4X0dun0fmIazRWpUzGQot3orFk=
+-----END CERTIFICATE-----
+subject=CN = www.balzacttyguess.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3517 bytes and written 420 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 0657544BB2050165E1D0D900B7A9E6F9D919BF00C265C62F52B0E520DA6D1207
+    Session-ID-ctx: 
+    Master-Key: CAD47FBC6687124921E86BCEA7E4F27540F2CB90408A80ADE44CB35CB2643B23B99C39B35BA364EB7F29B6EA5E41C110
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 9a d4 d7 bf f9 28 dc 48-d7 de 0c f0 b1 3b 14 af   .....(.H.....;..
+    0010 - 4e 06 4a 6d ec a4 4d 63-7c ad 27 d9 ef 1e aa 01   N.Jm..Mc|.'.....
+    0020 - cb f4 65 c6 73 60 61 2c-73 9c 30 0b 25 c7 92 da   ..e.s`a,s.0.%...
+    0030 - be 01 f7 ab 17 e2 51 67-b6 85 0f 83 4a 5b 51 4d   ......Qg....J[QM
+    0040 - 7a 11 81 c1 d1 e4 4f 5f-d0 bd 89 d0 3a 89 f2 75   z.....O_....:..u
+    0050 - f1 97 f8 de eb a4 e4 d7-42 96 89 01 04 e3 66 24   ........B.....f$
+    0060 - 4c 16 db 1e 28 dd 94 c1-d6 5f da 40 18 f9 e3 0d   L...(...._.@....
+    0070 - cb f6 d8 76 2a 24 84 87-53 46 35 82 b5 f1 79 cc   ...v*$..SF5...y.
+    0080 - f7 ef 09 df bd 40 e6 b7-ec bc e4 b9 ee c1 33 a6   .....@........3.
+    0090 - d3 24 a7 44 5d cc 02 2b-ce 03 af ae d2 d4 a7 d9   .$.D]..+........
+    00a0 - e9 11 16 a4 e8 18 d8 5a-b2 ab 91 ae 81 a0 39 3f   .......Z......9?
+    00b0 - a9 80 47 73 92 9c c7 3b-15 2b 1e 41 88 2e 86 33   ..Gs...;.+.A...3
+    00c0 - 7b 78 eb 88 64 ce 6f fd-1a 98 95 c9 91 09 e1 f1   {x..d.o.........
+    00d0 - c5 cf e5 8e c9 d7 27 96-3d 34 9b 1f 8d 84 ca 9a   ......'.=4......
+
+    Start Time: 1563886822
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

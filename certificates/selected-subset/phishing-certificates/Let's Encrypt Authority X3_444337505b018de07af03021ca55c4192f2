@@ -1,0 +1,91 @@
+https://primafide.org/wp-admin/maint/login/bb011efd33a873d9083b/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = primafide.org
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFZjCCBE6gAwIBAgISBEQzdQWwGN4HrwMCHKVcQZLyMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEyMjIxODQwMDJaFw0y
+MDAzMjExODQwMDJaMBgxFjAUBgNVBAMTDXByaW1hZmlkZS5vcmcwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCPk0lP+knlkqGlQl1NZR+wfQOVJZsInyxy
+a+u3tyIzTAL7uxl0r0je+RoQlDJzZCGj4lKmPr8PaUntaabo833Vm5I4dX37ddjo
+ffh3C6wuNdUX3uWXWGUgulyoxoFw1IBaR7gpTNT981m6OY6RCo/gOJheWUypIDih
+xE+Zw+lQUGwZaucSO0mOYrQ0WtTjN9giz8kSWZ7P2oOcmNdjcbni3EDSvi2Ykkjm
+bZ3pVKBJmFFUL3vDHdOaNwyTeIDPh0qOZvxdXlcQqsnpJDe8r+gjKO//3n6eeYL/
+4M94GqrVmSggq7OYaliUWddFSp94jQ1qD3f1F96zSROws/wroWHjAgMBAAGjggJ2
+MIICcjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFDsQOBzuZqnviewH2sgej/Kw4h6s
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wKwYDVR0RBCQwIoINcHJpbWFmaWRlLm9yZ4IRd3d3LnByaW1hZmlkZS5vcmcw
+TAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcC
+ARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2
+BIHzAPEAdgBep3P531bA57U2SH3QSeAyepGaDIShEhKEGHWWgXFFWAAAAW8vH6r6
+AAAEAwBHMEUCIDWL4JpENY18u8QFvaTyyVMSYXj+j4/JBDdvNgs5YpMSAiEA0DXY
+wmVjnPlQ3DtKv8ZQoSpujevbQrDdQVl6/gdrN18AdwCyHgXMi6LNiiBOh2b5K7mK
+JSBna9r6cOeySVMt74uQXgAAAW8vH6rmAAAEAwBIMEYCIQDV0oZ+OPiq5GHGcFdm
+JxybmshrmM0ywcXiSdlFNkJPYQIhANizIe9l+gpkev77B0W0sxsyAVy6kdP4AICg
+KjEf3aYZMA0GCSqGSIb3DQEBCwUAA4IBAQBjKetxvtHtdMiXrX2yL4BvMVU/77SZ
+S/aM2pjSnY/q6OuKCF0JfQvAqUbWOkxtDylsCiHZsLCnpm5E/CxylUCRV04HIHld
+av3BOoryAqPm9sPTSPf3fqqhk311OO9KI8pTvozps5B/9Lgto2PlAPa8ycAbbwHA
+oWsiHxR6wxGXy4GDLGNrAVgck+7CzMud2hrbwHGPibvPLS2NtUf/5BhY/njk4N+2
+T1r2S32XTm15e1WW3A9QXknojwH1Rp/MRhhRvqU1Ex63POGcAFj8t+Vx9D/oc2bD
+C44C/WDVheP5ju7ewocMChpneHMme5Eesb5jz582V5HEvz7y45kU1ev1
+-----END CERTIFICATE-----
+subject=CN = primafide.org
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3269 bytes and written 451 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 7FEA673A1422278EAEF1747A6E755B3D631A75D348EA06450F2706F805542818
+    Session-ID-ctx: 
+    Master-Key: 875EDCB6C37F81DFA2B55C0982C42153796DF1A8777D3EF5DA7D5C328497AAEB8A7C2087B623119B3E589338D4F0F2EC
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 7e 02 50 4a ae 8b 6b 84-51 26 7f 1b 20 03 ad 3a   ~.PJ..k.Q&.. ..:
+    0010 - 62 63 bd dc 8e 38 dc 53-bd ab eb ea 81 d7 65 bc   bc...8.S......e.
+    0020 - 7e e5 f9 f0 73 c6 e4 0a-53 0f e7 e2 8f 70 f5 90   ~...s...S....p..
+    0030 - 45 fc 44 c9 90 79 23 21-3d 2e 62 61 56 0e 1a d2   E.D..y#!=.baV...
+    0040 - 48 9b 2a 03 bc 14 48 79-59 01 1e 99 36 8c 80 62   H.*...HyY...6..b
+    0050 - 89 e5 44 3b 39 2f 3b 78-77 71 26 8b f5 00 bd 25   ..D;9/;xwq&....%
+    0060 - f7 fa 94 5c 9e c0 ac 11-68 0f 1f 95 20 fe 25 55   ...\....h... .%U
+    0070 - ba 0f 53 06 71 07 c7 dc-bb 60 4c 02 84 1a 68 49   ..S.q....`L...hI
+    0080 - bd 95 ab 3d e9 50 b9 a5-50 83 f6 c8 4b c8 0d ce   ...=.P..P...K...
+    0090 - bd a6 0a b4 01 ec 91 e9-80 fd d0 e6 1b 5a 06 18   .............Z..
+    00a0 - 26 71 a1 86 78 94 e6 2c-25 b1 d0 6b e9 37 69 09   &q..x..,%..k.7i.
+    00b0 - 9c ad 09 a3 06 9f ab af-bd 70 a2 86 cd c7 74 ad   .........p....t.
+    00c0 - c7 35 df 2b 9f fc 87 f5-23 a2 4d cc 3c bd ab 85   .5.+....#.M.<...
+
+    Start Time: 1577109625
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

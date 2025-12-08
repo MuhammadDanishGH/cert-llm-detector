@@ -1,0 +1,76 @@
+https://ilmuadministrasisebelasapril.ac.id/img/redirect.php?key=baxia
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ilmuadministrasisebelasapril.ac.id
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHNjCCBh6gAwIBAgIRAPZlFn9dCvPurEg9DKmHZukwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA5MTIwMDAwMDBaFw0yMTEyMTEyMzU5
+NTlaMC0xKzApBgNVBAMTImlsbXVhZG1pbmlzdHJhc2lzZWJlbGFzYXByaWwuYWMu
+aWQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDNjC4D1kSeaAQA9ztD
+Q03Kd9LoJzujVFbyfz5+p0MNDDIi8zxoFBDSgHSgwlkfxOQ1IiKOrVjfVzEm08wR
+hlH700+KSjj7WmIE4Ly+cI7rbACc7AO+aXhwWSRLCcsmBQc8q2G5g+VX7ADzBPVs
+1abPJuKmgv/td//q1/sdgNol7fKgmzN/fg6uTFpKq4DqQgiNZ4Ae6IL+z0WVSjny
+cqLuMZ7zYKGL2nEhrgQsFxUoHTa8r5wjbfcdgfpIHL9gE7GzbEI9/27CqC2mQ0bT
+E5HJE1IT/IPUfDOBFDUTuPcSN+ylEcaNb7awNqWg8NHaoa9+8cqVIz4P2r2Qq+Yo
+4ILVAgMBAAGjggQKMIIEBjAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrH
+ZTAdBgNVHQ4EFgQURpVKhzhWDNTbSMCVa1bXF8lirIMwDgYDVR0PAQH/BAQDAgWg
+MAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkG
+A1UdIARCMEAwNAYLKwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9z
+ZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6
+Ly9jcmwuY29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3Jp
+dHkuY3JsMH0GCCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5j
+b21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQw
+JAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQUGCisGAQQB
+1nkCBAIEgfYEgfMA8QB2AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDX
+AAABe9vo7gAAAAQDAEcwRQIgRCFFHj+YC115xlCnUp6XdeVr9QHbQcQscmewHdfJ
+LvACIQC5MgBgCE1GOu1kNQWQ/qS1Q/erW84Gvap80l5tb+NFSgB3AESUZS6w7s6v
+xEAH2Kj+KMDa5oK+2MsxtT/TM5a1toGoAAABe9vo7coAAAQDAEgwRgIhAKI8uF7W
+w92fERAJzdAmbnMZyc6m1TU95z0G7d0bFyipAiEArTEKa9ND/moErBCsUAB1SgeK
+L/gsYqhQLar0cmrj+sswggFkBgNVHREEggFbMIIBV4IiaWxtdWFkbWluaXN0cmFz
+aXNlYmVsYXNhcHJpbC5hYy5pZIIpY3BhbmVsLmlsbXVhZG1pbmlzdHJhc2lzZWJl
+bGFzYXByaWwuYWMuaWSCLmNwY2FsZW5kYXJzLmlsbXVhZG1pbmlzdHJhc2lzZWJl
+bGFzYXByaWwuYWMuaWSCLWNwY29udGFjdHMuaWxtdWFkbWluaXN0cmFzaXNlYmVs
+YXNhcHJpbC5hYy5pZIInbWFpbC5pbG11YWRtaW5pc3RyYXNpc2ViZWxhc2Fwcmls
+LmFjLmlkgip3ZWJkaXNrLmlsbXVhZG1pbmlzdHJhc2lzZWJlbGFzYXByaWwuYWMu
+aWSCKndlYm1haWwuaWxtdWFkbWluaXN0cmFzaXNlYmVsYXNhcHJpbC5hYy5pZIIm
+d3d3LmlsbXVhZG1pbmlzdHJhc2lzZWJlbGFzYXByaWwuYWMuaWQwDQYJKoZIhvcN
+AQELBQADggEBAH1ynLG6Iqv77uVG75W6GPxywN2PAhonO01bKiR7ixmULJP+o7vA
+ouUb4VzzVIs+6SDGTcz5paOcanAsN9ikv4+0YXdbCnSJpzBF9j2lOJ71ZDj2KVD3
+97/tjbzVq7aQbP0OhgXrgJwGcD7ZXuScChHPoBsOo/WdWWzKaVZlsVB4DvlmoOCF
+5IKbK2I88lHTRO3Ka1f8lPi8SVIAPTZi8pS1i1vauxm1pM+WYgGQAvNANmCmoTDX
+3VubeUlQ9391BN7n+XmFvrhRvo5nYb2wtLbDFfmdB55iDx4wu1M8IT0b5VYltLiZ
+B5gwfl31zKajSYO1aJ+s5l8HT0HYLnYRXvY=
+-----END CERTIFICATE-----
+subject=CN = ilmuadministrasisebelasapril.ac.id
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5285 bytes and written 408 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,92 @@
+https://parkinfratech.com/wp-admin/js/shuga/Universal
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = parkinfratech.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFbzCCBFegAwIBAgISAyZaR8vglPiX7GsZKTHwJLqvMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMDkyMDE0MzVaFw0x
+OTA2MDcyMDE0MzVaMBwxGjAYBgNVBAMTEXBhcmtpbmZyYXRlY2guY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyXQGQcsUPpsstpL3Yk2KKjFx81dC
+igQy2jsXVFnDEJcxyWD+XwAXVaQhhZjw3frfswQPbfkYyLKximBQvKtNLVhNWJhk
+xD+RHjy78Vb6zDf4hAcUFIb4AwZIOyTCBmq1gsDRd/FOfa+RRmGa3YZ/z3f74+YW
+/plsr4tWcAPpKoU/78Z8KT6bsDtJiXmEFzpJmFxPuu5vifwV5mkz4MknwY5RZI+G
+uzfGOWkbZYMTg5MrSkaek63Zx/vYD0qVKOXk5t6lqHUZUUXXyJMkhyKp4Fb55bTQ
+WZtDbCJHSnObA0yBbneyMcg1FimLP25uVfSMdWa+JicBPXIX0qvrSk3HCwIDAQAB
+o4ICezCCAncwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSo8avkU2AfDfoRvnRH1kTi
+V9PmgDAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMDMGA1UdEQQsMCqCEXBhcmtpbmZyYXRlY2guY29tghV3d3cucGFya2lu
+ZnJhdGVjaC5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEw
+KDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggECBgor
+BgEEAdZ5AgQCBIHzBIHwAO4AdQDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd
+3fHb/gAAAWlkTrvUAAAEAwBGMEQCIAvWeXhU7GoBIHL6dbKC/x8kZMba3lBE/UYE
+DZigg6OfAiBpj1s6sOMpi/qQWN/riyE+ZK5hIbM8WPSkk/0lXzxhEQB1AGPy283o
+O8wszwtyhCdXazOkjWF3j711pjixx2hUS9iNAAABaWROvckAAAQDAEYwRAIgekiJ
+uTf4rvSQl+6OOsNaxoNccUyJLfBIsV3g4/PpuxECIAWZFqYGPIAosS1kN79QLZTB
+IBLKDqOO/kQgW8FztjapMA0GCSqGSIb3DQEBCwUAA4IBAQAtKaOVF84UqZ9uZAlB
+rjv2vobaWFuKvReIRzvSalyUHHAHGggeAgTuHCpNFoCmF6yDcSGaTBEElkAd98DV
+3TMyleTtUmMatN1dwUx7q3HdLfKgTvsoOAL7SBkTe6S4VVowyBbjMhQaIByH9zDP
+W82d5KHaBTYdRUsj1s9ZNzFr5es0l69Mw7WB5uCWBSZfLNil4s1wGZSQzIpjt9J2
+cp8F2VlKFSoejfrunfeaONKIk8tH4OTjscZP5rrX4IOukAzVj9mlYB55IDiTFlnv
+iNoOJZ7GinCpnphgXH0P6RCTNTK9Fjpp7CGwLpej0j9gu2ih5fQxWoXk55lMRJns
+Z8Ma
+-----END CERTIFICATE-----
+subject=CN = parkinfratech.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3278 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 19058E0AF89FB8607B03F8B05EFC283BCE36A55463D5FB55684663FA4305E677
+    Session-ID-ctx: 
+    Master-Key: F084FAC45DAEFEDE0A588BAF7FF5A5126E495F64E8846844E638763858CE0EDF74AA1FE65DD7353A88638B0B0989C7C7
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 98 00 86 8d d2 ca 22 c4-6a 52 cc 40 5f cf dc a2   ......".jR.@_...
+    0010 - 11 e4 d8 df 08 f4 64 ee-2f 92 4a 34 49 a1 d1 8d   ......d./.J4I...
+    0020 - 5a cd de 36 cf 3b 56 98-d8 05 6b c2 19 3e cb 13   Z..6.;V...k..>..
+    0030 - e2 76 a0 19 8f 0e 25 f4-24 d0 98 9b 55 d0 9b f6   .v....%.$...U...
+    0040 - 7a 1c a1 85 2f 0c 52 f6-50 5f 1c 43 64 f4 79 4f   z.../.R.P_.Cd.yO
+    0050 - 0f 8b d2 60 7b b9 6f b6-af 21 a9 97 b0 ba ae 21   ...`{.o..!.....!
+    0060 - 36 b5 b4 a2 a7 39 b7 f8-e9 25 24 01 e1 96 9c 4f   6....9...%$....O
+    0070 - 3c 5d f2 65 fe 43 49 e5-32 cc 78 e9 23 e3 e9 3f   <].e.CI.2.x.#..?
+    0080 - fc 34 22 39 46 e2 0b ee-81 86 dd 9d 3e ca 42 20   .4"9F.......>.B 
+    0090 - c1 97 1e d5 62 83 be dd-9d 34 ba 20 21 fb 9f f0   ....b....4. !...
+    00a0 - a8 c3 6c b2 56 f6 6c 73-3f a6 94 a5 c3 ed 2f 3a   ..l.V.ls?...../:
+    00b0 - 42 52 41 ac 75 fd b5 f8-1f 71 23 af 76 97 45 ab   BRA.u....q#.v.E.
+    00c0 - 8c c2 f5 72 a8 d9 e9 a3-69 b4 d0 bd 58 36 42 77   ...r....i...X6Bw
+
+    Start Time: 1556974825
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

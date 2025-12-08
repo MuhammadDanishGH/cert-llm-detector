@@ -1,0 +1,72 @@
+http://gruppwavirall2021.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = webmail.gruppwavirall2021.duckdns.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGXjCCBUagAwIBAgISBFcqZoa96cz+kAoQ1Ctijq2IMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjMwMjA3NDBaFw0yMjAyMjEwMjA3MzlaMDAxLjAsBgNVBAMT
+JXdlYm1haWwuZ3J1cHB3YXZpcmFsbDIwMjEuZHVja2Rucy5vcmcwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCu4ImcjWYOQITgVobytK1QsHG30zq4oqh4
+dP1d7AK0hPaY3TZc7xZv/vzI2YKPSROGLi55Jl16CYZ8KbJPkdALqBFgUcIZ1dBx
+x4s7cBY3RwQ/1OpCkejbY5l2kWWc45LzDakkCpHVaAGvgAhTIiD3ZL9jZRTjvP9Y
+dvMI5jBKFnhXcyDvFG1xbk4tgStuRf9Rwk6lgxJKyihZ9QuUgVxpffFR88JqTXCL
+/CAHmTvyEah2wsJ6kGsG8WAOCWc/azdTNzik3LvUuGE+iRTeElrBv9yTcvxNWJRm
+Ug6tPbaVuVnWs9Gwk7hVIDe3fXSvULPVBy80eL/UqWCPT3pwasDZAgMBAAGjggNu
+MIIDajAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFBcb2dbdwLRCrHymllekECWh465T
+MB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkw
+RzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAC
+hhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMIIBPAYDVR0RBIIBMzCCAS+CJGNwYW5l
+bC5ncnVwcHdhdmlyYWxsMjAyMS5kdWNrZG5zLm9yZ4IpY3BjYWxlbmRhcnMuZ3J1
+cHB3YXZpcmFsbDIwMjEuZHVja2Rucy5vcmeCKGNwY29udGFjdHMuZ3J1cHB3YXZp
+cmFsbDIwMjEuZHVja2Rucy5vcmeCHWdydXBwd2F2aXJhbGwyMDIxLmR1Y2tkbnMu
+b3JngiJtYWlsLmdydXBwd2F2aXJhbGwyMDIxLmR1Y2tkbnMub3JngiV3ZWJkaXNr
+LmdydXBwd2F2aXJhbGwyMDIxLmR1Y2tkbnMub3JngiV3ZWJtYWlsLmdydXBwd2F2
+aXJhbGwyMDIxLmR1Y2tkbnMub3JngiF3d3cuZ3J1cHB3YXZpcmFsbDIwMjEuZHVj
+a2Rucy5vcmcwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAm
+BggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEE
+AdZ5AgQCBIH1BIHyAPAAdQDfpV6raIJPH2yt7rhfTj5a6s2iEqRqXo47EsAgRFwq
+cwAAAX1Kw2sUAAAEAwBGMEQCICvuyxMnUh4ijmFWp3WpFmcaWJyU0bTPpCj2Mv4Q
+S96RAiAymboxXqn2xbIwCneaLI9IgAweGytITJwnZjiSpLAQ/QB3ACl5vvCeOTkh
+8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfUrDaxMAAAQDAEgwRgIhALJ3GiD+
+rOjk4ympo33qtOAeCAAUSpwlvdQe/cv3LP0uAiEA+DYLYcza+5Mlby84NeAXn9Me
+uoU/uCK1ANBb0bIrXs0wDQYJKoZIhvcNAQELBQADggEBALiwZySgxyZrK0lPKTbA
+6F1x0LGqaRE2fGONkd309fOn9Ulj2auCySRIrb7vrL8gqWUigoq0nnfHOvBs67M/
+YItUAqFePwi1BT5AcnMb1lMy5BOX1Dd+mGsUr2GlNziw7sw3kSncnKzBIv0twASl
+5QF5hoMZqMKML9HeBOEtthctaeLC1E3CYpMWdjnHg1OkbobrHa0g7YloYQfu6XgY
+4sB5RtFSPGQZZgkCF5rhoenc8wV1tk0JEOvjS2AikXAKTWMFJxjNoqIBC0ALIi1A
+sXmCBCzbeXY4QLsbmzE3rqAvLbL4IpRNDhGOHneM6kn6+Je9Z64UHHsvGlzM2Pwz
+fk0=
+-----END CERTIFICATE-----
+subject=CN = webmail.gruppwavirall2021.duckdns.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4890 bytes and written 403 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,79 @@
+https://qa.smbc.card-taikai.rest/mem/index
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = qa.smbc.card03-taikai.tokyo
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHsjCCBpqgAwIBAgISBGngCh3DKVo3iofR9b8UDfNxMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MDQxNzEzMjVaFw0yMTEwMDIxNzEzMjRaMCYxJDAiBgNVBAMT
+G3FhLnNtYmMuY2FyZDAzLXRhaWthaS50b2t5bzCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAJumpCgTtUCivUALjZ8HBVDnaald1qtkX+92gfXRZokyqnRV
+dRXi4KVY01pFpzBQUOHPsgeQkphzaYXFjg2NPuIApwBwblqtTvlDoLBFtiqSkJBG
+LLB6nBR5dmo6EX6v7lWe/zma+JdJhEPiRJWI/1M2KitkokACMmk6bPhXgCQvor/H
+OuhAmsQTpVfFKJagWXdjH/GnB0+FCFffkDRUqMaCvcGNI4hwTETZjmAnViwApfh7
+nXWstcU6VakJS6fn5AZK16TgZP4F4yniQu2G5dDHJlx76I+lCkVA17uQsQwbuxIN
+R5DySC/N5xWbvTCUIEMFKwKYzpxw06VLJfkyCwsCAwEAAaOCBMwwggTIMA4GA1Ud
+DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0T
+AQH/BAIwADAdBgNVHQ4EFgQUfowAolg/G2U6kFCJcsKReV0MNJ0wHwYDVR0jBBgw
+FoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUF
+BzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9y
+My5pLmxlbmNyLm9yZy8wggKZBgNVHREEggKQMIICjIIXcWEuc21iYy5jYXJkLXRh
+aWthaS5iYXKCGHFhLnNtYmMuY2FyZC10YWlrYWkuY2x1YoIXcWEuc21iYy5jYXJk
+LXRhaWthaS5jb22CF3FhLnNtYmMuY2FyZC10YWlrYWkubmV0ghhxYS5zbWJjLmNh
+cmQtdGFpa2FpLnJlc3SCGXFhLnNtYmMuY2FyZC10YWlrYWkudG9reW+CGXFhLnNt
+YmMuY2FyZDAxLXRhaWthaS5iYXKCGnFhLnNtYmMuY2FyZDAxLXRhaWthaS5jbHVi
+ghlxYS5zbWJjLmNhcmQwMS10YWlrYWkuY29tghlxYS5zbWJjLmNhcmQwMS10YWlr
+YWkubmV0ghpxYS5zbWJjLmNhcmQwMS10YWlrYWkucmVzdIIbcWEuc21iYy5jYXJk
+MDEtdGFpa2FpLnRva3lvghlxYS5zbWJjLmNhcmQwMi10YWlrYWkuYmFyghpxYS5z
+bWJjLmNhcmQwMi10YWlrYWkuY2x1YoIZcWEuc21iYy5jYXJkMDItdGFpa2FpLmNv
+bYIZcWEuc21iYy5jYXJkMDItdGFpa2FpLm5ldIIacWEuc21iYy5jYXJkMDItdGFp
+a2FpLnJlc3SCG3FhLnNtYmMuY2FyZDAyLXRhaWthaS50b2t5b4IZcWEuc21iYy5j
+YXJkMDMtdGFpa2FpLmJhcoIacWEuc21iYy5jYXJkMDMtdGFpa2FpLmNsdWKCGXFh
+LnNtYmMuY2FyZDAzLXRhaWthaS5jb22CGXFhLnNtYmMuY2FyZDAzLXRhaWthaS5u
+ZXSCGnFhLnNtYmMuY2FyZDAzLXRhaWthaS5yZXN0ghtxYS5zbWJjLmNhcmQwMy10
+YWlrYWkudG9reW8wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEw
+KDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgor
+BgEEAdZ5AgQCBIH2BIHzAPEAdwB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZ
+fiLw1wAAAXpyuZ/wAAAEAwBIMEYCIQChKU2rn2JDbC/9H+hoGsKLwf4Wqxb8UIzU
+ijcoPF/5wwIhAKd9Hb3WqtFo7pZT1+leC5AGcwsmCQQC5mz46GreR5i4AHYAb1N2
+rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAF6crmgtgAABAMARzBFAiEA
+vrOmrsejDYeSgwzXXgkzbyT6AfBYKZBda6I/RLNiEH0CIChUbFhWaY1ATCH0A8P/
+1T9tetpQGbY/quyWpJ05mh6hMA0GCSqGSIb3DQEBCwUAA4IBAQBFoMc4DrE9MpFt
+OjU78h5+rcJiSpShL58/sA8U7yst73NXlSHKWkvOsQ4TFGekOfWtNNS78jkG+gSW
+cbv7tbrQDh3hSfAuKUA12jQuUGUdYBOE0USmeC3i2TIFjKd+OlZvLDUPCFNemx8m
+WNNlR2k/FxpkHPjzaAAh5KsN3g7Ac+Cg5f59Hqjux79NrGWcIX2kAiVMosUzVAZ3
+UiYvv1A0WArDJlDYUCBDZ0A1S2ejlMawDRzYXjAIaVGxIt5GXa3DgnmJJ4zVF2YK
+gRb06shSqFKjpd+IlUR7zo0byIeg/vzzucL83UUEzHFpl9R2eYueijOa6o5/FSu4
+Qx6G4/Bq
+-----END CERTIFICATE-----
+subject=CN = qa.smbc.card03-taikai.tokyo
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5230 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,71 @@
+https://dispatcherror-mypo.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = dispatcherror-mypo.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGUDCCBTigAwIBAgIQP9N0dVoiG3jLqRPspBvc9TANBgkqhkiG9w0BAQsFADCB
+jzELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEYMBYGA1UEChMPU2VjdGlnbyBMaW1pdGVkMTcwNQYDVQQD
+Ey5TZWN0aWdvIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB
+MB4XDTIxMDgwMTAwMDAwMFoXDTIyMDgwMTIzNTk1OVowITEfMB0GA1UEAxMWZGlz
+cGF0Y2hlcnJvci1teXBvLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBALcK0nPAxTLx1crS36bOauIEVu4xSEDTeupMZaPD9j4ThH5c4LUX1POdL6It
+KoWcZgiJSMGoj1RfykooUu3vxsRmlVA7jxnBwpF5tCe4fnYrHEC992nbEcWBCVlV
+91yrPi9Jzl3FXmXcb5vuTD2iyfYg9l/ohtxjrXuNazyeOenmPUNJXOSwu9dyqipv
+Hicidgam3YzOxq6dXHcVgkUbTpBa6SesVLQ5OzLn/1rY9XN2zH5+OJAwV2mY/oE8
+RVlOKTGVbRs4kwSxyJd+cSIrCl2Mj/ErwNi8mbYNHo/DvbUKbxavdCOI6k+N7meV
+M0Qo8cNWTu/MlMTvpvojeQ1wVRECAwEAAaOCAxMwggMPMB8GA1UdIwQYMBaAFI2M
+XsRUrYrhd+mb+ZsF4bgBjWHhMB0GA1UdDgQWBBRw0xAl8vztA1ULjBhaescXuqtp
+tDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQICBzAlMCMGCCsG
+AQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwBAgEwgYQGCCsG
+AQUFBwEBBHgwdjBPBggrBgEFBQcwAoZDaHR0cDovL2NydC5zZWN0aWdvLmNvbS9T
+ZWN0aWdvUlNBRG9tYWluVmFsaWRhdGlvblNlY3VyZVNlcnZlckNBLmNydDAjBggr
+BgEFBQcwAYYXaHR0cDovL29jc3Auc2VjdGlnby5jb20wPQYDVR0RBDYwNIIWZGlz
+cGF0Y2hlcnJvci1teXBvLmNvbYIad3d3LmRpc3BhdGNoZXJyb3ItbXlwby5jb20w
+ggF9BgorBgEEAdZ5AgQCBIIBbQSCAWkBZwB1AEalVet1+pEgMLWiiWn0830RLEF0
+vv1JuIWr8vxw/m1HAAABewM2gEIAAAQDAEYwRAIgY7TTZDCIlVWymqAOnpbnppKz
+sD3KBcBUrDjo5ZXhBPgCIDFUJ6rVZZ0j4JyHXyVclFi+iMbUiOdMzeGQFOJq/4z5
+AHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF7AzaAUwAABAMA
+RzBFAiEAkA/zyuto1FN4V/FvWGY3Y4sXy17z53A+ss8xOI4p4i8CIH3oyyex30LF
+X19tZDXeC2OrwnY2TtqO7aL69oJTOTA9AHYAKXm+8J45OSHwVnOfY6V35b5XfZxg
+Cvj5TV0mXCVdx4QAAAF7AzaAIwAABAMARzBFAiEAnBrR6qKWFpoeCqBLrUAeV4c/
+KO1oViBLz0jIU9x06gECIBdVRJLWvzQ47zOVUJD5D7smIZ9xEpibQJcnonAkYJ//
+MA0GCSqGSIb3DQEBCwUAA4IBAQAUlI2EZfWRYDzGXaG2bBVONjhSKS6c/NfiTMkC
+FQmOYf0naIa/MadhjictYSR0Z7gJWGkIsNOGAR72msLgXIKX3mKaCzlnTThJ7NiL
+Y3PFHJeqaitYn6mPZSOpctMRRP8jeLG/hj94KulRoPOnwPPRI40uFx2JyU1HwppS
+Rdl34DNeoEchFosNtwzPcnL2xJK3MKSG+G5n80LRw9sirwNyUSgY+S3JBrJNsRjf
+41/XnGoTaX0tCKaDSnohEjHT7L6xh3+Xc1h1DxKpVRU6d2RFsAtrGsDcl8VS7wSu
+sVZsAnk1fwEz2kYeRn/BSpyGMo+uBb7okL4B0olxxxnmVgRq
+-----END CERTIFICATE-----
+subject=CN = dispatcherror-mypo.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5162 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,92 @@
+https://www.tibettoursikkim.com/br-mail/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = tibettoursikkim.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdjCCBF6gAwIBAgISA8C1HDyM2VPIyrd7nXZGoCviMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMjIyMTUzMTVaFw0x
+OTA2MjAyMTUzMTVaMB4xHDAaBgNVBAMTE3RpYmV0dG91cnNpa2tpbS5jb20wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC+ZOaj8PihVwSLAFa20+GdRIPu
+hzkIISxXh0GRGunVgw/ZvkIO7uYP7xLGkYxXuKJ4JDxF6Dfi+nLjKRL22kcQFDjv
+mDLLqkfXITRNcnK07W1bybDg9kzfUNnlZAsSkIMClDJeuSRmJ/uWqh35FUEIBWJB
+bWn1vUQ+5Ex08EVJrlSynQlwLq9MbyjyWGDhQ6TtL3nKJkRVyFsTJov+M2o1tKou
+Fgf6/1NZyRE7QfpuXVVWRK/nr4E2Gm4ML20xNCjkKsXCtPq4mqSJF6sIituZZ0oQ
+hwhRkM76oBc4Oss9ZZLYotXUUtZdKiSZUkMp1rOSi6kFLAj5nQPs2OQJL1FPAgMB
+AAGjggKAMIICfDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFF3MPEH7BF5FH2bNYrxS
+Y8ZK6rDnMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUF
+BwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZy8wNwYDVR0RBDAwLoITdGliZXR0b3Vyc2lra2ltLmNvbYIXd3d3LnRp
+YmV0dG91cnNpa2tpbS5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC
+3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcw
+ggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdQDiaUuuJujpQAnohhu2O4PUPuf+dIj7
+pI8okwGd3fHb/gAAAWmnm73+AAAEAwBGMEQCIF2ZiomzErusuleIB2pNi0HRpUch
+JCWrLFE/4s4C35JGAiBlwKPf/0bdAA0M+R2wICpjKE6fSzxJTdZt1BOCRn7V0gB2
+AGPy283oO8wszwtyhCdXazOkjWF3j711pjixx2hUS9iNAAABaaebvf8AAAQDAEcw
+RQIgKZMDrEB2EIUW/LeR7EPNFbNzJCUIWWV3kL+TG+CHdJMCIQC0llwc5DM0KEct
+XmkWnvuSnuVRAUoHjQgy0aBcTV8PZjANBgkqhkiG9w0BAQsFAAOCAQEAeOmb3xOh
+xyt+FxSv30CW025oaass2bi5bbpRw04ew1QXZBO9gF6zWAhxUCTuRid3Um16ton1
+XodD1XPflboYrMg5G13n778aOktNZfLnB16OGjv6bUTLxHFSvs7XhDDymVoAgTA3
+aabdszqrgp7qWN9g+cleOtTxmjMSMlfSADsqSm6o1xEWswVY7ma15Ze9IswbtOC5
+mGaKDPbZVMVnvhURYerFx3z2X2r7uK1gvcYgu7LljgQR9xJ5F49BzkmwPWXdC5wY
+GfduWzGx2jssB0bK4xlnM696Uk6k3gD/VdhQNibOeB3RheNckZv63QTZUy99QK3O
+NcYe6bIopcipvQ==
+-----END CERTIFICATE-----
+subject=CN = tibettoursikkim.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3285 bytes and written 461 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: A966635735F25D02CBF0A2B969F6BDA905555DEFFBEA88EF8ED16D68463A2039
+    Session-ID-ctx: 
+    Master-Key: 5965FEE5599C64DF7963C526012CF685D309BE209743D9473CB98BDB8A4B62D1A405AF7298C29027D5DB1A27D109C980
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 87 a9 9a 27 97 cf f2 1f-4e fc fc 2f 60 77 62 d3   ...'....N../`wb.
+    0010 - 56 03 48 8e b3 4a b0 7f-29 90 54 e9 d3 41 a3 01   V.H..J..).T..A..
+    0020 - 22 db 1b 5b a1 ad 78 5a-25 09 15 db b3 47 31 71   "..[..xZ%....G1q
+    0030 - d2 36 01 a5 6e cd 57 cc-1e 19 da 11 47 1f 5e 3b   .6..n.W.....G.^;
+    0040 - 0c aa 6f e5 f2 dc 2d 25-2d d3 7c a9 28 bb ce 21   ..o...-%-.|.(..!
+    0050 - 24 21 7d 10 c2 e9 5f 32-d9 1e c6 2c b3 8c 2c b6   $!}..._2...,..,.
+    0060 - 9e 69 91 b4 da eb 2c c5-cf 4d 5a 43 97 2d cc 55   .i....,..MZC.-.U
+    0070 - 3a b7 a9 82 53 be ff cf-cf 20 b1 b5 cd 27 38 02   :...S.... ...'8.
+    0080 - 42 47 97 34 9e 26 dd db-5d e0 b4 82 e7 2e 7f 7c   BG.4.&..]......|
+    0090 - 28 6a 5c c2 ae 4d 6d d0-e7 86 7b d7 6f 78 08 af   (j\..Mm...{.ox..
+    00a0 - 33 78 b0 73 ff be 2a c9-07 e9 41 f4 dc 94 07 75   3x.s..*...A....u
+    00b0 - ea a0 f3 98 07 48 30 4c-66 68 38 92 c0 20 2b fd   .....H0Lfh8.. +.
+    00c0 - 93 7f e8 0b 78 04 9b dc-b4 08 bb 1f 30 5a 4c 24   ....x.......0ZL$
+
+    Start Time: 1557666021
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

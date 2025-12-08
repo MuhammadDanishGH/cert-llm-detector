@@ -1,0 +1,70 @@
+https://sourpresgrade.me/northdaughermonser/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = sourpresgrade.me
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGBDCCBOygAwIBAgIQCKusfEo7dtoJxjAtaIoFgDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTAxNjAwMDAwMFoXDTIyMDExNDIzNTk1
+OVowGzEZMBcGA1UEAxMQc291cnByZXNncmFkZS5tZTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAKyVR9z7EU9GJK839S6RQeFufCI4AMqDP099v/Cxei3S
+jxnZJd8egvKns5DiE1uDITnrFcUmtBm5bw0aNDs6MdT79P2If1valVhu/JXNLyZA
+fDbiueIzvtRPdjE2PNJCMZw6JESoMlIdBRtldS6RliWYO66mh5kiPcZNymxHfMhg
+bqr7TKi5K2ncw/E+Uo9+cL5Txm4rqAt58KETWYxQIF5Q4yhmsRtjERoCfbAplqiS
+Xfzt37fwQL23OND3VhpzDSm1qqCW1kee6S9M1hvsoh39p4huY2Wyhvnl5qFA+Htf
+be9tnHMzstoUToREKzlms3pVW6CZaEVsrew/eAPS6+kCAwEAAaOCAuswggLnMB8G
+A1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBRrz18GsA3k
+9imVYUPuwXWVvnvW9DAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIx
+AQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZn
+gQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEE
+cTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJ
+bmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDov
+L29jc3AuY29tb2RvY2EuY29tMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYARqVV
+63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF8iGY8PQAABAMARzBFAiEA
+iu0VNUASnhE9epIOkDl3SisSlfRqfNjJr4InZX9oVg4CID8cbZqTSOJaRkECo+ie
+DSBZfnrHeronFvdf0zXy+7VoAHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jw
+kGKWBvYAAAF8iGY7/AAABAMARzBFAiEA10tZGsD0pAV3mHbnycgvvWDeGjfYTdeW
+mOR3YeJgGdkCIBvx0KePhuR3UQooANurtF+Y7saYOlPa56vmdbKf7/cRMEgGA1Ud
+EQRBMD+CEHNvdXJwcmVzZ3JhZGUubWWCFW1haWwuc291cnByZXNncmFkZS5tZYIU
+d3d3LnNvdXJwcmVzZ3JhZGUubWUwDQYJKoZIhvcNAQELBQADggEBAG93tNIujFN4
+/hVbSdmxmQKh04xPjuDtIjpQRxwwO/t228MOAh+7kSNoxOAVziO7b3eJ5B8jAllC
+neraQXloEUTajumcK8B0zuAIvAvAsZJ7gHEcBR1lfwKeLlrVlvfiMfoZyv/iBVTx
+Aetj0mxGKG/KSg3PvOIBBnpa0TEYI/f5kC/Whf1bvSVyvhMAAFgD2XFHoVOCAD4+
+f/q3PP1mE3yOmDgQxw2/E11GbHrylxvmS4I3V4cYx80JjsdoxejyqfxQLCNCRtyu
+2sDdyFF6CfB/guTNfGNKaxisnRl0I4gnsX1S+YVU+pRB2EBm7vi8aYooJrMiDT7j
++cfCxU888W4=
+-----END CERTIFICATE-----
+subject=CN = sourpresgrade.me
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5049 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

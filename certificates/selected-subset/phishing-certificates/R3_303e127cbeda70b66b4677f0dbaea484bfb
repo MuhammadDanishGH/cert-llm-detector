@@ -1,0 +1,66 @@
+http://radioilhadamagia.com/admin/bd/dhl/source/index.php?email=barker-mcdonald@cn.kwm.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.radioilhadamagia.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRzCCBC+gAwIBAgISAwPhJ8vtpwtmtGd/DbrqSEv7MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTgxOTI1MzdaFw0yMTEwMTYxOTI1MzVaMCExHzAdBgNVBAMM
+FioucmFkaW9pbGhhZGFtYWdpYS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDa5vjtYHasxn+cgudNfCImaWFli/wj838bIwpKR0zDHUUXuskixJaj
+37GurNctybRFL2/KYPv7q9yZoS+fTYlsfEqV0ZxsLt5+in5vX3c4C/apQcg+pHXy
+CgaDareHnMgVCHOlWtc8xA7kzkSwD7Z8AkX59jyLWqlth3knU9VVUAc5VGOOHr89
+MDzeD9zIrvagI/Z4MeE1PSNagq6CwZm96vBt1rlJgbQTZ2y5x+EHZjdUjtd45hOx
+P9bLx3HAYQVmzmVst1cpyZC5FnXBezaj7Pt5gye83viywUZQNmemxQM65HpC9UGq
+1FMyTNfJe8p4Ld3q0Z1NMnQJ1YBdpOIDAgMBAAGjggJmMIICYjAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFNhLHj1PPKSTr3MeirDS7aw6f46GMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMDcGA1UdEQQwMC6CFioucmFkaW9pbGhhZGFtYWdpYS5jb22CFHJh
+ZGlvaWxoYWRhbWFnaWEuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAXNxDkv7mq0VEsV6a1FbmEDf71fpH
+3KFzlLJe5vbHDsoAAAF6u0uv2gAABAMARjBEAh9KjlxyJI0TItygcJxH9E/s0a7J
+VyIRJIkZ7pb54rN4AiEAlzXIkRZhnHaRwUlpKlaCsw3rJTKYEHP1T58ahElwHYUA
+dgD2XJQv0XcwIhRUGAgwlFaO400TGTO/3wwvIAvMTvFk4wAAAXq7S7AgAAAEAwBH
+MEUCIQDjvTDwTqh8ETmoFGhurxKXrURgE2SUs/O11nIwpw0ErgIgTv07ozHNF5e1
+FHTlzhNM4Sk7JudN0bLydb3IVuXTz8swDQYJKoZIhvcNAQELBQADggEBACwI7gqX
+z3JFmAZBVPq3EzzZeHb7DQcS16xvlHqFtajtenkQ/IHS4Ua3HUsrcCCmugg66cG2
+xE4b4M2osRXiJRmCN4gncTGq58wb60o+LBoeIFzPTgC1WWdZqkEr7MJKQACHT++r
+W/CQL9zHu7BnTqXt0y8WyNwCqmJCz6HVC2yyGIVxHtPVWIvQ2xDT9vjaR7Y6suHY
+fVFPgfIh6sNedJyuLDFL8YNF3jJLwSe+sZ6w0wa+yWCb3wou7T2BagiTiFhNCEU5
+Q8qIPhVOXJc3TyiTWC8llzSDWxn4oFRIy16eXPC2g7yEJC/E378VA5JfHSeCRzrF
+K+QhUxpsaQ7ApDE=
+-----END CERTIFICATE-----
+subject=CN = *.radioilhadamagia.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4611 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

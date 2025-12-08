@@ -1,0 +1,91 @@
+https://oficirama.com/XoomByPaypal/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = oficirama.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF3DCCBMSgAwIBAgISAyZbEqXPqNm7LgkAVIWj7cD3MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MDIwMDU2MzNaFw0x
+OTA4MzEwMDU2MzNaMBgxFjAUBgNVBAMTDW9maWNpcmFtYS5jb20wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC3+hh7wenoUM58kb+d2XYOVuA8tToryNUK
+fVK966RJnySFCzxM+XNkXDEk9hs0mXHV51+PqGrJwJKfglLG/fahTrczdMWMmQEa
+u5uAQTt16wE9s6rMnpwRELx37TmNERZF9nKg3DY43DZ2VcMfGGMFMm8r3JB6bWvD
+SMTVIeSL6AD4aT01x5Jp4rUGaLT0SrFIjFhDu7xgTxjiwioVcLr1mUhPiIy5DHf8
+9n2mf5wm1+ZebXopky5YO2M/gfQ1fF+UlAs0bvlCfor9eouOrdSWUXAW7hxz0mvC
+eMlwcG26qRq1EyOakK0ar6sKLx0+uMaNLEQVOC6Q4b8Daxo4HNl1AgMBAAGjggLs
+MIIC6DAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFHNAE5ssSAuX552n76jIqnlPjj2B
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wgaEGA1UdEQSBmTCBloIaYXV0b2Rpc2NvdmVyLm9maWNpcmFtYS5jb22CFGNw
+YW5lbC5vZmljaXJhbWEuY29tghJtYWlsLm9maWNpcmFtYS5jb22CDW9maWNpcmFt
+YS5jb22CFXdlYmRpc2sub2ZpY2lyYW1hLmNvbYIVd2VibWFpbC5vZmljaXJhbWEu
+Y29tghF3d3cub2ZpY2lyYW1hLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AHR+2oMxrTMQkSGcziVPQnDC
+v/1eQiAIxjc1eeYQe8xWAAABaxXnEQEAAAQDAEcwRQIgd+XPtOiE/aYsIdo8oCW2
+Ma2F7stbtlBKlQt5o/1ACsYCIQDfhflFn1lxXUg8dhtdwllvYHUwXmB2af/Lxmrj
+R56NMwB2ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABaxXnEO0A
+AAQDAEcwRQIgBBQ2g1WjwRc4QIymSvA3qK67blPO07tfIwCJSiNV+hcCIQDimC/5
+tr3B9T1KFTYVGuUvZywbihNqauBROCOhOXs2ZzANBgkqhkiG9w0BAQsFAAOCAQEA
+Le3VxzPafndhJ3L6O4DCWGQl/d2AYF47cKdJ3FGcxm1V2shiTDmnx9P18iJUgC4/
+yv3NQPOXagpJLj7gNi2uP+/D+nJEDHb/lNQS1Yiw8etwHr50SOIYXcDhwxZer725
+1tJXM0y7GrUgNcc0sqt6+cYJ72KMfVmX2fLN++4C8IJrckAzk+MJ6G07sLbHWSKs
+E2mPIS7uMRVY0H3Whj1GeuUBmCou67cahskYE2WQiG9SNEK0F53JsE1zhlIiYhVe
+TFTmwe9Asopu0aiE76nuKY/Irmfo9AjvtQO9UqBM8piBqjpDK7/TCg5FELJv4Pv1
+wyFY0UQVQBNrQloBl+j7Cw==
+-----END CERTIFICATE-----
+subject=CN = oficirama.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3304 bytes and written 418 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: F7F29419B3498A1D1C7306B723C9AC3C9B2821DAF554A8115E0F001AD5477535
+    Session-ID-ctx: 
+    Master-Key: 0E0E1BBDA41CC8AF459BF4667052B0C78495613D648600FA05077650A9F897CC66E8995AC4E8C587C5430961E5EE1E04
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 53 7f 70 e3 4e d5 35 df-84 43 87 5f ef 11 f4 c0   S.p.N.5..C._....
+    0010 - 3f cb 89 79 81 8a 1f b3-69 2a fa 20 55 e9 fb 79   ?..y....i*. U..y
+    0020 - 58 0b 45 7e 63 f4 87 33-e8 9b 8d c7 3f 6c e0 a8   X.E~c..3....?l..
+    0030 - 12 cb 1f a3 4d 82 28 17-f9 df 59 f7 44 df cd e6   ....M.(...Y.D...
+    0040 - 96 db aa 6d cf 99 bc af-14 08 ef 4a ef cc e5 ca   ...m.......J....
+    0050 - fe 39 42 5d 3b 98 8a 21-5f 31 e1 7f 55 1b e3 57   .9B];..!_1..U..W
+    0060 - ef 01 14 4e a4 d4 4c 13-b1 9f 9e 4b 77 3f 06 81   ...N..L....Kw?..
+    0070 - be 5b ae e9 c0 b8 43 3e-0d 2b c4 1a fa ae f5 51   .[....C>.+.....Q
+    0080 - 06 a4 ba 54 34 14 bf 87-8e a4 ca 6d 5f 22 a3 32   ...T4......m_".2
+    0090 - d4 87 60 b0 65 ce 4e 58-c7 99 d5 fa bb c8 72 c8   ..`.e.NX......r.
+
+    Start Time: 1561554029
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

@@ -1,0 +1,70 @@
+http://new-web-exodus.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = new-web-exodus.com
+   i:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+ 1 s:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+subject=CN = new-web-exodus.com
+
+issuer=C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3998 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

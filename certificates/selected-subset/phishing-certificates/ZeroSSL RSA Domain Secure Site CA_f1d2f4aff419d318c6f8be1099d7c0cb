@@ -1,0 +1,71 @@
+https://onlinebanking-regions-review.otzo.com/review
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = onlinebanking-regions-review.otzo.com
+   i:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+ 1 s:C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGmTCCBIGgAwIBAgIRAPHS9K/0GdMYxvi+EJnXwMswDQYJKoZIhvcNAQEMBQAw
+SzELMAkGA1UEBhMCQVQxEDAOBgNVBAoTB1plcm9TU0wxKjAoBgNVBAMTIVplcm9T
+U0wgUlNBIERvbWFpbiBTZWN1cmUgU2l0ZSBDQTAeFw0yMTEyMTEwMDAwMDBaFw0y
+MjAzMTEyMzU5NTlaMDAxLjAsBgNVBAMTJW9ubGluZWJhbmtpbmctcmVnaW9ucy1y
+ZXZpZXcub3R6by5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDK
+UckXKBlteITWLHkFQ3jb518CX7jIIBcPSr7+DGAKrw090VwfZj+/31EkdhqMVokq
+wy39qhZuGqbxo95lYtKOw/ILJ+ES3zReS9TAbYRVg5OME3Um8AIr4Z5tljigCoyH
+phqFgvK3j0CBV311jLb83mmicpGoJ3bZTN0bQLHO8BXzI9tzsVzTZ7L82+ttTXWx
+NhgQ7igI5MPtdrDLk9BURU/GU3Yrw1p5YG41NY0fKCji96b4/uf0DgbSNzHajLQq
+WTvP2uzaED5g7EXhld6ZG3l/Eg3+fpO0ieJaM5GQzpNATZA5z13aMil0Q1N4PXwV
+HP6wchx4G4u4J5hF53vlAgMBAAGjggKRMIICjTAfBgNVHSMEGDAWgBTI2XhootkZ
+aNU9ct5fCj7ctYaGpjAdBgNVHQ4EFgQUKF8pzjPe7nViCjWGExAS4oK/HVowDgYD
+VR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAk4wJTAjBggrBgEFBQcC
+ARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGIBggrBgEFBQcB
+AQR8MHowSwYIKwYBBQUHMAKGP2h0dHA6Ly96ZXJvc3NsLmNydC5zZWN0aWdvLmNv
+bS9aZXJvU1NMUlNBRG9tYWluU2VjdXJlU2l0ZUNBLmNydDArBggrBgEFBQcwAYYf
+aHR0cDovL3plcm9zc2wub2NzcC5zZWN0aWdvLmNvbTCCAQQGCisGAQQB1nkCBAIE
+gfUEgfIA8AB2AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfavo
++YgAAAQDAEcwRQIhANH6I8OU9xQjbJTljKhe35j0a9iojyBGvJxuebPdBtuJAiAt
+muNEp8cJdwGJ4rRqPWV/8/oy24UIYeFs2XsKZjcEAAB2AEHIyrHfIkZKEMahOglC
+h15OMYsbA+vrS8do8JBilgb2AAABfavo+ZMAAAQDAEcwRQIgK5fLgAoeF8HJxkfL
+cADARGdrYnoU7n024WmyQ+ffx30CIQDciAL+AEbOOEtLqosYJJLjhWa7OPDi69q+
+baJBmErZgTAwBgNVHREEKTAngiVvbmxpbmViYW5raW5nLXJlZ2lvbnMtcmV2aWV3
+Lm90em8uY29tMA0GCSqGSIb3DQEBDAUAA4ICAQBLgjcnEKu8rtFEKTZWV1f53opa
+CifYm1Xe48hY/pCw/lzKCgo9H4CKrau9+kcRhugIsbeIKN9Iuymq1vrRJOaT7YcS
+YwaDINJFLA5UZzzK3Im0vBYdveTiuwD0CDfu7W6YYprmZDC/mY/9qa6SjUFpJG61
+yyyzTrXy0/D9SSszCEGTVuDLdxxnqGaz+2S9jDfR667iDWybr7Lwd+uZlsFNjDs+
+V9KZIcKrawumwvakRGNb1KwZ7uRziVaAHiysK+/j8fClAhN9qOO7TCcS6RxH8beS
+HHuuz/KeSRKGIJPhg7FNPmM7YfvbsqhNWvCcPSI06zyCu3ir6KpjETL8SW0lTh4y
+5LrNL/bTMouEboF5I01DNLwRxV7W0PjUVnqd9tx3Y3SDPBQ6XqhqjzmWiGVyo3Yv
+fJfnqUoAnkMM1yO0oaGIoLUIUi0vsBb6xy0CukYhJ+uIikbOo2W/LvhD/E2fcJxA
+adzrW+DTioNvZPtLq4+9Dz7bspDkInCL5lNDI98eZUlH1RSIoKbIdOlYIZGfoS4y
+3Sx4j5i/+mITM/aA0hAsIc/2j7lWRjHWE+PpuO3DmieJT+HiaNTAhsa6TnioclyV
+ALOARMzWEzE1Tj82gniWwmihHqrk+PpcfnCTBEYYwodYMy3SV3jR+lTRjCa9cJCY
+nYo48/2RILeQ05Md6g==
+-----END CERTIFICATE-----
+subject=CN = onlinebanking-regions-review.otzo.com
+
+issuer=C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4011 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

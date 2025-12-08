@@ -1,0 +1,66 @@
+http://mywallets-sync.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.mywallets-sync.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFQjCCBCqgAwIBAgISAyV6gq3RPztJsh1xYVbMf/W5MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDEwMDE2MjhaFw0yMjAzMDEwMDE2MjdaMB8xHTAbBgNVBAMM
+FCoubXl3YWxsZXRzLXN5bmMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAn6be+8hxDWHlOmj2YDqh8iDOwpuTsB0KpADUuafkXUO0j4o8UJZjBSzT
+u3//HaEfme7C3Tp5VssKvDBbqn+sC4ZGMtuQocMunsBbE8VenpvaDzM5QZMgz/PN
+4q5kD7RXcnWmEowT6UG1YyGBlp4vp6rtOVWiaOroLfHYpwIm4vsiMgDhhv6dwhzW
+nQKX4Dc/M0++jm1KsQJiQMwe4ZMAXcYHXi+AKpYuX6sLGuh76+lqI8Aw2Ti/Ciz8
+i+3pRjE/24WpEswdgjWWPoc6pcB5aJo1ych1Ux8hepcipfiAOZU34UX7HIIHceIF
+XmZ5pyXy780Ao7LjqInh89Rz9s8T8QIDAQABo4ICYzCCAl8wDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBQPm74syrNFR4KjbHrXU0f6blLG+DAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzAzBgNVHREELDAqghQqLm15d2FsbGV0cy1zeW5jLmNvbYISbXl3YWxs
+ZXRzLXN5bmMuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEB
+MCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYK
+KwYBBAHWeQIEAgSB9QSB8gDwAHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jw
+kGKWBvYAAAF9c5B8FgAABAMARzBFAiEAnKMmT0Hdsdk2uFAvO1AUGR6LgRPrNRro
+ePm4bmLPNpQCIDjsNMgFkZWHI22Z+6Ahy5tJr0PjHDYubtGOy9R0nNYOAHYARqVV
+63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9c5B8SwAABAMARzBFAiB1
+JipWiCydEld1ImMt1u6Uo1AA+DJrd3Yc5E0Q5ifZkwIhAMc/cIPhpmUS6mkx38AX
+jsEdR9/DIEMMMaExn9sWo4/2MA0GCSqGSIb3DQEBCwUAA4IBAQB4SVijLALL/inI
+fuuRFMjYtszcT8AdLDZGAUqHLxet9yNZq2/JaxCI/VHIYbHUwpb3zTQYNfY5PTI5
+ipAseyQaEXRQIp4cOMKHcGNUvOR4y9Jd2J5lRFbCxcAxY7fj6NW1YVje79SdH2/+
+TvgNzcw8AGhnT6YW3WQIaerR7FZ8vdi74xi73PwpEQGENs7SIyIx7Twwxq6IJmjb
+uiLRqKaTRXDvdqT7gI8y2KwQ3W8LUdwP64daNwohFCtN+8NYklI1ZXewSao1a/LH
+775xDxsR059IR/pepkruWKBwJS8883y3XXrJU255fGEAsQjO7I5CsBkstQnUiHUl
+Hl+vk+no
+-----END CERTIFICATE-----
+subject=CN = *.mywallets-sync.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4606 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

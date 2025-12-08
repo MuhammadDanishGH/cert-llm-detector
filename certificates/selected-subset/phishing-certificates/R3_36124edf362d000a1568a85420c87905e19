@@ -1,0 +1,98 @@
+http://access.voicemesage.download/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = access.voicemesage.download
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+k0LnENzHTK3qfHz7gmMM
+-----END CERTIFICATE-----
+subject=CN = access.voicemesage.download
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5253 bytes and written 447 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: E41B20CBD6C0DC93349F4EC2B569CB4B4D055A309C564257D9A9E761EA3FD870
+    Session-ID-ctx: 
+    Master-Key: 484B19C77BBFD6FA44F64EFA42585F1607984AF2BB99519875276747C0DD254DF1128CEDC2932B9FD691F6EFEC6D2408
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - b9 4e 2a ee d5 87 c0 40-1c d7 6f 5f ec 7e 18 1c   .N*....@..o_.~..
+    0010 - 3a b2 49 e9 ce 94 aa 6a-fe ec f5 94 e3 ca 50 ab   :.I....j......P.
+    0020 - d5 7b 7d d0 a5 15 c0 c4-0e 3f af f7 bc dc 81 05   .{}......?......
+    0030 - d7 5a 7a c3 17 c8 51 24-e2 00 21 d4 a9 f8 1a 77   .Zz...Q$..!....w
+    0040 - e6 e5 e1 73 aa a6 c9 c4-34 b3 44 d3 63 f4 81 24   ...s....4.D.c..$
+    0050 - 02 5c 02 4f 17 2a f6 f0-1a fb 6d aa a1 ef 0f 31   .\.O.*....m....1
+    0060 - 28 f1 74 57 72 74 3d 64-3e 3d 75 be 7d a9 4d 08   (.tWrt=d>=u.}.M.
+    0070 - 03 df f0 18 85 16 52 72-90 c6 c1 2d b5 79 c1 fe   ......Rr...-.y..
+    0080 - 79 bf a8 41 ed ff 2e 5c-60 d7 8d f5 d2 24 db 01   y..A...\`....$..
+    0090 - 17 b5 67 7a 63 74 7f c5-91 ab 58 27 fb b8 8f 45   ..gzct....X'...E
+    00a0 - e6 92 0c ef 90 23 7b d2-6e 2b 3b 4d e9 32 4f 80   .....#{.n+;M.2O.
+    00b0 - 32 b3 3a 7b 52 19 75 f3-83 72 ec c6 e1 41 b8 af   2.:{R.u..r...A..
+    00c0 - ef 55 92 55 3b 9e 68 c4-3b 05 03 c3 12 7b b6 e4   .U.U;.h.;....{..
+
+    Start Time: 1641778702
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

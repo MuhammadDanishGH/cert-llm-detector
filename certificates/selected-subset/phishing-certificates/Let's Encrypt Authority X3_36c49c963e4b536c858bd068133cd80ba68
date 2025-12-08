@@ -1,0 +1,98 @@
+https://www.finbusinessforum.com/app/chase/chasefull1/jpchjkaj/chaseallnewinfo_ad_3/Validation/login.php?cmd=login_submit&amp;id=bec53842efb18fce9571513936115aa7bec53842efb18fce9571513936115aa7&amp;session=bec53842efb18fce9571513936115aa7bec53842efb18fce9571513936115aa7
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = finportugal.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGaDCCBVCgAwIBAgISA2xJyWPktTbIWL0GgTPNgLpoMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTExMjIyMjE4MzVaFw0y
+MDAyMjAyMjE4MzVaMBoxGDAWBgNVBAMTD2ZpbnBvcnR1Z2FsLmNvbTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAJyu1lCn2z0I/W4UaDhesVBjhRSthCtf
+Foz5oS8EULDiAaS/WwTAseS3Gp79T8XBjorcjufPXqT9orfmKQuBUQmFkhako5Xs
+fACX9j+lyjXMUe8znRMHlwlb1K+NtPCySWnncqUf+eLa/YWOnEIE83/kbZJtgOY+
+p78o+jLU2gR3+/qKq65kiETaUAB5JsdHu0Hok9cS3O7WgMpI4cLCgC1G/hB+Uhtl
+2gOH2QmQfgBmjWb83lmKNSDjSREWejt9DTvz+dYFE5UcgBLn04dNzVMGFi0mI1DI
+ognLlnfPT7tZzCJYlzuw/4M+dF4c1xrK9YNz5ZbZz7BfhoimHiWZDhsCAwEAAaOC
+A3YwggNyMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUDFtrdOpJnrMMEuG4srFcterf
+QAswHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnLzCCASwGA1UdEQSCASMwggEfghQyMDE4LmZpbnBvcnR1Z2FsLmNvbYIcYXV0
+b2Rpc2NvdmVyLmZpbnBvcnR1Z2FsLmNvbYIWY3BhbmVsLmZpbnBvcnR1Z2FsLmNv
+bYIUZmluYnVzaW5lc3Nmb3J1bS5jb22CD2ZpbnBvcnR1Z2FsLmNvbYIZbWFpbC5m
+aW5idXNpbmVzc2ZvcnVtLmNvbYIUbWFpbC5maW5wb3J0dWdhbC5jb22CF3dlYmRp
+c2suZmlucG9ydHVnYWwuY29tghd3ZWJtYWlsLmZpbnBvcnR1Z2FsLmNvbYIYd3d3
+LjIwMTguZmlucG9ydHVnYWwuY29tghh3d3cuZmluYnVzaW5lc3Nmb3J1bS5jb22C
+E3d3dy5maW5wb3J0dWdhbC5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYB
+BAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5v
+cmcwggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQBep3P531bA57U2SH3QSeAyepGa
+DIShEhKEGHWWgXFFWAAAAW6VaPoDAAAEAwBGMEQCIEv+YAl5ujoXT5KY/vK1IJNO
+MvkcDrM57MRol+dgPCPEAiA+MlUzjXbpLhn53F0Fmff/w6XbfUd1Ck56vZWMaY+X
+vAB1AAe3XBvlfWj/8bDGHSMVx7rmV3xXlLdq7rxhOhpp06IcAAABbpVo+hwAAAQD
+AEYwRAIgdIQNHMjTfTnjyxmWYIye3GfwzBCoBSEd6tourbbDYf4CIAyxCaeONvDQ
+PdTKeGzYSPLkHDWZ4CnvthkyXu0HQ+9KMA0GCSqGSIb3DQEBCwUAA4IBAQBlGa9M
+svIBxp3F8zWXQoAxzVlnaQUCYM0Sh/fFvmwXmF7DmAdT1xOYnVbALyyMc8XKPkd7
+LPt5RK7+izyzmCjILUuZchVyqwuPpV3VIgd/ghTAA/tQWtzWqpQAWMQZ7TVqrSsa
+rk71jG36ZMHlMuQlYcFqhwnwCs3/AX+9otKlcK9n6vjsq3ZzlfEpo2NvDz/grLNj
+tw9fi8UpMFXGr28TD0t8jbpl91/0vfBrFNs1VsiuN6MUMVoLX57wWdkGP5UTK8l+
+HXExSgIDLNNHRHzjpqoLRMsN5q4xsqFp6A33LFxEHVxRIFPgbxa9cHX5A3hjq4k5
+Qoq1lnAy7Qh+ge8e
+-----END CERTIFICATE-----
+subject=CN = finportugal.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3543 bytes and written 462 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 9C6292599646BF5A09DD71479BF88BDF101B5A0EB949836BDC1C0CE7FECC6452
+    Session-ID-ctx: 
+    Master-Key: 0A01594CD653B2F4850CF9894F5B5A15C200D799566C5058D0B4EC7EF471AF8558233D6F27EBE21AFA19913496C4FE98
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 4a fd 82 71 a1 19 d0 81-fe 63 7b 1d b6 6f 29 00   J..q.....c{..o).
+    0010 - 34 db 3c d7 e6 0a ca f7-04 95 8b a2 80 99 17 3f   4.<............?
+    0020 - 41 44 e7 2f 5b 25 5f c3-73 5c 44 3c 3b 4b d1 b4   AD./[%_.s\D<;K..
+    0030 - e2 27 7b 11 df 51 84 cc-eb de 41 e2 f7 2e 7e 45   .'{..Q....A...~E
+    0040 - a9 2f 2f 4e 5d 7d 57 d0-fc e6 4c 9e de 1e 67 29   .//N]}W...L...g)
+    0050 - e3 f6 da 98 97 e2 51 13-ea a0 55 42 ca 79 b8 61   ......Q...UB.y.a
+    0060 - 00 28 22 3f 7b 10 f4 97-dd 3d 0e 62 e3 dd 1c 9b   .("?{....=.b....
+    0070 - ca e2 9c 3c fb e0 f2 e0-ce 97 16 8a 22 d2 8d cc   ...<........"...
+    0080 - ce a3 94 02 aa ff b3 80-8f 1e 47 98 09 da cb 4c   ..........G....L
+    0090 - ce 5f 0b f2 a9 3c 87 5a-56 7d 78 61 ff 93 92 6b   ._...<.ZV}xa...k
+    00a0 - 2a e8 cd 6b 7f b8 ed fb-c7 37 4e b7 8c db 4d 4c   *..k.....7N...ML
+    00b0 - da 91 6f 3d d2 1e b8 55-e8 04 4b 25 28 a5 fa 68   ..o=...U..K%(..h
+    00c0 - ec d2 24 a7 79 5e 6e 48-46 19 54 19 c6 6d 35 0f   ..$.y^nHF.T..m5.
+    00d0 - 1a 6f f4 e2 9a c8 0f 11-6f 69 46 c7 e9 04 30 5b   .o......oiF...0[
+
+    Start Time: 1576850436
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

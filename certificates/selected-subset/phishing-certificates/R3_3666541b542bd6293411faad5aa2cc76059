@@ -1,0 +1,92 @@
+http://usps.app-securityupdate.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.usps.app-securityupdate.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYTCCBEmgAwIBAgISA2ZlQbVCvWKTQR+q1aosx2BZMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MTAxMjQ0MDdaFw0yMTEwMDgxMjQ0MDZaMCoxKDAmBgNVBAMT
+H3d3dy51c3BzLmFwcC1zZWN1cml0eXVwZGF0ZS5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCg55v+TJQaa7Y1+/sJc/U/RkhfnFy5eJRZH625mtYI
+uAajXs46Kp+Vc2KgCuNE1J0YvZRx+louCWX+oY6peJepOJnLqEAhUOow6pqbpNWq
+CZstgTZOf84nc3sRftVDp2tJXxfWYy5GPcKtti2u2loHuVaBBekZHIYs9YaWR7WD
+kMdznRpr/i/FvOguSLqikr2/Udeap2eq+icXVRhygBhdVDD0vTHLogPXc1mfzryI
+Dy8vCa6dz9li4cKf+bQEYgXmqBNBJCY9IEi0Yc3v6DvWDIIceNpQeUqdTZhVflLj
+v+goHFdp+SvnMhnJtE3fpOhw8yYB+XoKVnMvcJuNKM6HAgMBAAGjggJ3MIICczAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwG
+A1UdEwEB/wQCMAAwHQYDVR0OBBYEFAceR2VRdmF9hROJmdoljWs60nylMB8GA1Ud
+IwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggr
+BgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRw
+Oi8vcjMuaS5sZW5jci5vcmcvMEcGA1UdEQRAMD6CG3VzcHMuYXBwLXNlY3VyaXR5
+dXBkYXRlLmNvbYIfd3d3LnVzcHMuYXBwLXNlY3VyaXR5dXBkYXRlLmNvbTBMBgNV
+HSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpo
+dHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA
+8AB3AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABepCpO1cAAAQD
+AEgwRgIhAO9Cp97RXN5Eg4dEoeL/p0oRToM/Jn4FLRsWNpKyAnNbAiEAnvu0oQUj
+YxTi+bQW38BJiujBX96WTsfd8HLk0v1CKEsAdQB9PvL4j/+IVWgkwsDKnlKJeSvF
+DngJfy5ql2iZfiLw1wAAAXqQqTtUAAAEAwBGMEQCIGM5rHmX3TNyqAAWQmzMhDlK
+GJpLfE9pb+KcLLTmKMUOAiByRjeSdY45EEotkWGV0mwJheUnvp45Ut+cHf49rn70
+OTANBgkqhkiG9w0BAQsFAAOCAQEAm1K42KMtuaQKfJadlFZpD3rNkORIboFCqXCk
+UWRjKaKH28wVt+uJ7XuF8hT7Ylglop8bjYsiL1dEx0yHzqNdcZA0vkqlxFicBXs3
+yuuvgPF+y23A0j/mfGsDc8HBd4Zu4n1nzgVtGKzU8F2dJ7Bxkb95/Pk46DD3svPu
+nxIx2ro8AY1TcRFs+J4ncOKMBfbSl+OQqERT2pPgmW5KLIfNlJfDFFBQzJxoAdy8
+Nqao9ZvOcw/VG4sriQs9y537zIB7G2Q5RDoeBuxypgkwNgGcClMFIIpM8ykgPw4Z
+H1XvpLJcd3fgBnsATxh0dQEMfMGHV7igAbCT63svC0FYln2+Pw==
+-----END CERTIFICATE-----
+subject=CN = www.usps.app-securityupdate.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4728 bytes and written 422 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: F171F1D64325988ABD6FC9CFF1AD0470DB64C9C2AD543F63FA444A741B92D8AD
+    Session-ID-ctx: 
+    Master-Key: D24CE436092013E5272999656313AF780949347CA97348932230A6B29C332A70731D1CBB520BEC4C35F9C2C08134E119
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 7b a1 97 c7 34 1f f1 50-78 ba ad 80 d6 bb fa ac   {...4..Px.......
+    0010 - 67 c5 9f fe a2 ec e8 d1-bc bd ef 9e fb e4 a4 76   g..............v
+    0020 - c2 de 86 d6 5d 6d 59 ab-73 19 a9 eb 70 bf 36 e1   ....]mY.s...p.6.
+    0030 - 71 c6 bc ba 1e 37 59 f8-1b dd 26 b2 f7 ec f1 3d   q....7Y...&....=
+    0040 - c3 bf 66 d4 50 bb 5b f7-1b 92 72 16 7a 03 b4 cd   ..f.P.[...r.z...
+    0050 - f5 c5 e7 6a 10 e7 42 0d-6a c3 f8 c7 8d 77 6f 34   ...j..B.j....wo4
+    0060 - ac 57 da b0 96 2c ff be-3d 17 4c 6a 29 41 9b 97   .W...,..=.Lj)A..
+    0070 - 3c ae 9d 4f 14 b7 30 d8-f5 9e 1c f3 dc 3b 47 51   <..O..0......;GQ
+    0080 - 97 7b f2 06 86 56 46 db-7b 27 da d7 b2 ee f5 d2   .{...VF.{'......
+    0090 - ff 48 bb 01 6a 22 26 1b-8b 03 74 99 90 79 19 c1   .H..j"&...t..y..
+    00a0 - 48 ad 4e fe 58 1e 05 cd-e1 65 e8 c9 72 f0 74 44   H.N.X....e..r.tD
+    00b0 - 85 94 0a 61 c1 04 f8 f6-c6 8c 34 a6 0f 46 e8 8f   ...a......4..F..
+
+    Start Time: 1626053776
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

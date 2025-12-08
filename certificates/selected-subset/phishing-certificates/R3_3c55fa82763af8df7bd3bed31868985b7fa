@@ -1,0 +1,66 @@
+http://amaozn.moucewh.com/signin/?openid.pape.max_auth_age=0&openid.return_to=https:/www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=http:/specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http:/specs.openid.net/auth/2.0/identifier_select&openid.ns=http:/specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amaozn.moucewh.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPjCCBCagAwIBAgISA8VfqCdjr433vTvtMYaJhbf6MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjkyMjE4MzJaFw0yMjAyMjcyMjE4MzFaMB0xGzAZBgNVBAMT
+EmFtYW96bi5tb3VjZXdoLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBALv1zaapRZZfIWc66sswiY5ld3M1r2uiBBwTB9H0iRE52RkyHsr3+ESc0f59
+V7MRrNCc5nAkz43eZGiDGxga0eFOVFdCtyhhxUS8vM/uERD2wpuYHhYpj4IpyUFI
+XLKXcUW0TuoyCa6BBFeIKk/fhR6BFlPLvThZr7bdiEIEUrQztYpQxl9hhtQZ2nkd
+wi8RnpK/u7VLqcPzOpW5NZ4YD8fW4QyMzCKPiSmJv0/zyIrX6i0UEiFQKWxlrA3U
+rbDRfQWh4XXBogCNY4uJs24yXcnc0VHfUC1z4FhYpfLwFL21k0KQyJfsL1ACPC/C
+t7Q76RFnEuiW2pLrpb1RlcAN370CAwEAAaOCAmEwggJdMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUFQ+vvmrZ9W8XmYqBf1XI+X40UyEwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wMQYDVR0RBCowKIISYW1hb3puLm1vdWNld2guY29tghJhbWFvem4ueHhj
+cWNhci5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAm
+BggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEE
+AdZ5AgQCBIH1BIHyAPAAdgBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG
+9gAAAX1t/ihHAAAEAwBHMEUCIGsKh474CCMkUZLwfkfRJrykRHp0qe0g446ZuiHX
+yDhwAiEAlqDBch2+gsHjrvNenAbmIby0lPW7Gthd/jgqUHgCKwsAdgBGpVXrdfqR
+IDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX1t/igkAAAEAwBHMEUCIQC4G1UN
+hC4MMY4+kJrla0RXjAXJZjd0Hh36RDtYjcOUYgIgHDqGviRQPSsT2ZVgBxpaKMGx
+UKMnuRVHQ+dHAgaXDY8wDQYJKoZIhvcNAQELBQADggEBAGpWc7stCVk03s67/a/s
+yUEccrFtcsPo3OWwJcLyzjkWDt2wfRDGuvWI4dv+CxQZzHLvbRvtOf51PAtkOzGU
+NiSqWoVl6S/8wAQf/L8A9X7+qVl3sLpZq/lnHjtKIE6dwrQfabQoGmkG7GSALQ9w
+9gSjAqCzZNNOqp2qyIoiJkYxzvx2TPIi0cWcOzZ8Q+OU3nuiaQc/ToUUrTWgO/ni
+DPFKA+b8yh7HH6MuvIvxviK5BXLdw+/tW+rv8Q4Bt90mS+m+lf1TBa/Q7uF8bLKS
+hjTiq2sygOMQKPxjkvFGPnoiI0BP2XcZmCt6u2Qas7Ohl5ZyFmETNJBAV8NUOg4p
+u5U=
+-----END CERTIFICATE-----
+subject=CN = amaozn.moucewh.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4602 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

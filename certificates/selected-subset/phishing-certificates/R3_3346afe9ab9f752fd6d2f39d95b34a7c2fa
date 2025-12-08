@@ -1,0 +1,67 @@
+http://m.facebook-managepage-916123.nepallife.com.np/connect.html?timelimit=0016e8da02d5fa2c8fff28d9cd857f63
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = m.facebook-managepage-916123.nepallife.com.np
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFkzCCBHugAwIBAgISAzRq/pq591L9bS852Vs0p8L6MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMDQwMDQ4NThaFw0yMjAzMDQwMDQ4NTdaMDgxNjA0BgNVBAMT
+LW0uZmFjZWJvb2stbWFuYWdlcGFnZS05MTYxMjMubmVwYWxsaWZlLmNvbS5ucDCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL6GRI8RBtDZWBNcGebymSRw
+M3lDZx6OJHdg0HfJEowa3/ncApSVsNS1Ws8dQeojuAoxY4ozNdamCW3Otd1EvhX1
+7SaTTnY8qVOBId0RD3xlU+hBRSOQbPb9mEPnt8ThxXn3oKVKlClPHRDCzfFUuLPL
+Eymi6rEUkg1CpK/IZ1aRq7yQqH15hVK4psf/uJdOmdn7G/HMuxb2Q8NDLhYrkzLK
+vvXZRDcZTvsFIfl7+J5z6pNAyoKZUH7Vt+LtN41tf+5aenuHYpSrbh9BUX9At2fa
+tZGRhXi47H2mmIBRFN1pWa2OPQZdCXRB1J9b1+YnWsv5pJAxtfzOdLyio1spgdEC
+AwEAAaOCApswggKXMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcD
+AQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU5Ea+4Hz4R+vncyrn
+DKvxljcO5hUwHwYDVR0jBBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYB
+BQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYI
+KwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNyLm9yZy8wawYDVR0RBGQwYoItbS5m
+YWNlYm9vay1tYW5hZ2VwYWdlLTkxNjEyMy5uZXBhbGxpZmUuY29tLm5wgjF3d3cu
+bS5mYWNlYm9vay1tYW5hZ2VwYWdlLTkxNjEyMy5uZXBhbGxpZmUuY29tLm5wMEwG
+A1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEW
+Gmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB
+8gDwAHYAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tLx2jwkGKWBvYAAAF9gyFRkQAA
+BAMARzBFAiBFM4AQf4ZKx3nfFuuPfMZyZCEt4svw96AOIDcSj9eSmQIhALM9+M+K
+QiArqY/yIdbsW4Eol/ezW/oveepL3xSpENHqAHYAKXm+8J45OSHwVnOfY6V35b5X
+fZxgCvj5TV0mXCVdx4QAAAF9gyFRiwAABAMARzBFAiAOJ1RNeFYOm9Nu0s2VKrtN
+heI7bfVApuVqoZtTbJZEQgIhAODUs4x0qfmucfbCTOZ9pMhq+b0aD9blMOpyqmH1
+CwZwMA0GCSqGSIb3DQEBCwUAA4IBAQBlI0xDE7iAdLAFX9PpkT/RCHZsbgCrhH4u
+GO67pIctJdloQD70eCxF5bdhaHGt9QynKunjs3lU7tnJxO9j89omeROKivschKao
+UQS1CFH23lIfKIk2RxgM/EXfv/h7qCUYTjKWKbaVTSGFkTQ3nIK3+1LcElOsyU+g
+6MnBnaR3Z0EIz+2XMEUPsSEuMjuHLjJCYpMujNhs5XwVsPoRbLnvQP0UNgbPYZ1T
++TNY1Dg79LOhwVAl+LuaWAgfFDnnX0vT1AgKJTLxQG6mNPd3FBX+w5HBWnVVdd/0
+VBipmGP6AOEh5FwQMUMsOOkTbFPi00nZmcnOB7B4/UpAmXGv6lHb
+-----END CERTIFICATE-----
+subject=CN = m.facebook-managepage-916123.nepallife.com.np
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4687 bytes and written 419 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

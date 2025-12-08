@@ -1,0 +1,93 @@
+http://ris-egy.com/js/us/delta.com/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ris-egy.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFzTCCBLWgAwIBAgISA6CyR/oYtuCpc0LKPXGkDLgXMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMzExMTM3NDVaFw0x
+OTA2MjkxMTM3NDVaMBYxFDASBgNVBAMTC3Jpcy1lZ3kuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4piXu4QEdMOhPPPQM0Z3X+EAhr5qM6uKtUYE
+1apKyNOYACbdvflOP7gazeep512Pu1Y2pqjzQVhs4xAZcTBR45SOjzRhQ4Eyp07m
+h4iTwJ2cL0slPzh8VDtkyiEXH4E0+vPqaa1qHX4m8Q0Dtre/nitbAQ2WiKc/S/UM
+hMyufF3+2iyCpzuYQ6fLfez2ypRBTiuvuT/gaYa4AFJRtMAoFCiAI+k+Kbiif16q
+QK9SgZY03IfQTrtW6Jtta9CMb5UB7g9B8TYveZ5oo/lj/McFWDpstjzictOhzsWq
+KEUNQnA+I74s/JgwyY3D7wxaWwWvjLV1Cu4uFF4d33OQhzhadwIDAQABo4IC3zCC
+AtswDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQx8l8nybN2mfJ2aPXPWPnGUwrJGDAf
+BgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRjMGEw
+LgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5vcmcw
+LwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5vcmcv
+MIGTBgNVHREEgYswgYiCGGF1dG9kaXNjb3Zlci5yaXMtZWd5LmNvbYISY3BhbmVs
+LnJpcy1lZ3kuY29tghBtYWlsLnJpcy1lZ3kuY29tggtyaXMtZWd5LmNvbYITd2Vi
+ZGlzay5yaXMtZWd5LmNvbYITd2VibWFpbC5yaXMtZWd5LmNvbYIPd3d3LnJpcy1l
+Z3kuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHW
+eQIEAgSB9gSB8wDxAHYAdH7agzGtMxCRIZzOJU9CcMK//V5CIAjGNzV55hB7zFYA
+AAFp08F4/AAABAMARzBFAiBRb45YhoX9STh1z+3k0ngqUTAiF9QKVdaHwyYDuog0
+UwIhAKrZtjvOMOZa3dPIn6uxJ8BS16ouEHgy+du7Qhg75CrIAHcAKTxRllTIOWW6
+qlD8WAfUt2+/WHopctykwwz05UVH9HgAAAFp08F5BwAABAMASDBGAiEAsQsa8cYp
+gWPkJxzcV1WrvhGdgqB49EO/9aRlBktYxisCIQCHK+Qz5hZy6TK52maeUZEMZUUr
+kYxXRht9cX3ZI3p8dzANBgkqhkiG9w0BAQsFAAOCAQEAbyxn6KpGcUoVfDH+gtAK
+JXP6a+AuVJrAzZzjGdeH2AilNB41DwPe5VORauYm6lJz/HL9bCPUVwO0rBLgz8to
+29EFRXeOm5r6taR+3qqhc/tgmDsgXxgoCVB2Y8jsii/XjjLi9j7b0sSoaacnW+ma
+zfg9EjpDlNlgr2xRzGKZrqwAwqBzeASgZvyPzvOKvzgz8pgXwvX7391NQy6uMGbK
+UBsgANBp36sAOYce/+DKqNqfnFSSyq7AQIWzISkp/CeyAl91seoM1kw3K8TmslUI
+A/OpBKQKCf4xcSRmekxh9H0B7VKs7yA7ikREV+Ca24K1ZNt7uEgf/2zx+xw5DEf8
+Dw==
+-----END CERTIFICATE-----
+subject=CN = ris-egy.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3327 bytes and written 416 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 74211034954B81229CA5E9C0ADD159CDDA729A156EDF5A1992365DD63B630DE5
+    Session-ID-ctx: 
+    Master-Key: 0EFE104F9E69D7C2E6FD09C84DC02A2756D41202DC07D90DCF6BDCE12318F5F3DFA75C69E5E927A22006E5AAE193BFA8
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 03 f5 4b b7 4e bc dd b4-70 b8 58 8e a0 95 65 dd   ..K.N...p.X...e.
+    0010 - 95 b3 ce d5 07 60 27 5a-d1 62 b5 88 25 34 4e 81   .....`'Z.b..%4N.
+    0020 - 6c 77 84 db 27 11 b1 8a-f6 b9 8c 72 cd 77 12 e2   lw..'......r.w..
+    0030 - 8e 3a 19 f7 ec b8 29 be-48 00 8f 0e 76 c5 59 a6   .:....).H...v.Y.
+    0040 - 42 07 ee 8a 39 84 c2 84-03 53 07 1a 3b 8a 60 2b   B...9....S..;.`+
+    0050 - e9 92 64 68 e6 89 41 1d-6e 2d d3 6a 1b f3 ec 71   ..dh..A.n-.j...q
+    0060 - 87 a8 82 c7 6b 62 96 fa-0a 48 d7 b4 9e ff 4e c0   ....kb...H....N.
+    0070 - 6c 10 55 a3 06 a3 47 d4-8a 48 6c 54 3a 7a 1a d3   l.U...G..HlT:z..
+    0080 - b0 0c 2f c0 8a 5b ae 0f-31 60 8f a2 ba 9d 6e 60   ../..[..1`....n`
+    0090 - 51 73 3b b2 d0 ee 6b fa-6c e6 eb 0b f5 48 b1 83   Qs;...k.l....H..
+    00a0 - 70 33 ab 22 99 9a 8f 2b-b1 07 8c 85 a6 24 7e 4f   p3."...+.....$~O
+    00b0 - 7a 83 60 e2 8e 4a b4 7b-ff 61 c4 e1 0a a4 7d 22   z.`..J.{.a....}"
+
+    Start Time: 1556110819
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

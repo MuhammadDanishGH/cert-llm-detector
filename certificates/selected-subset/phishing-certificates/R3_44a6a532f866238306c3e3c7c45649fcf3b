@@ -1,0 +1,93 @@
+https://allegrolokalnie-pl.0358494.space/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = 0358494.space
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMDCCBBigAwIBAgISBEpqUy+GYjgwbD48fEVkn887MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDEwNzA3MjNaFw0yMjAxMzAwNzA3MjJaMBgxFjAUBgNVBAMT
+DTAzNTg0OTQuc3BhY2UwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCr
+RYPcUvepbnXzDvgYgCZRtiTIpzyCnrsLvitMSRmY4iAJJ1P8yjOpOGwgkjZ/IBsU
+7pQBuRFUGrLhOdFbauWIe610FcNgZ5psoEUMtTm/kw5YJhJnfszuS3TIQUtz4QVt
+NDSYG9JrJnpeRJ6Gd48yKNgKdTqmpdK2/Sf+Bo44CAiPfaKjjMxCb7mQA9cRyFbz
+CbL94nAmyD0BTeRcPtdIuIh0D65d5baYTBPMNK4VfWEwWvCSu/jU56QkALgN3t65
+fYJzO6DzI3tj8cHcABKN/ATxwVgtA9uL3aOAk9Z+H8UD3QYv8vEF523G29y8e+O/
+wxxw3fBdXt7DHTCpcLa/AgMBAAGjggJYMIICVDAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFDiVrgMCuHugahSSWkihMXYOTxVFMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJ
+QOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3Iz
+Lm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcv
+MCkGA1UdEQQiMCCCDyouMDM1ODQ5NC5zcGFjZYINMDM1ODQ5NC5zcGFjZTBMBgNV
+HSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpo
+dHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA
+7wB1AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABfNqJ6P4AAAQD
+AEYwRAIgb/5UZTf4YAQHGScFeNJt3RT8ZBhw9TKYj+1hMU6QRHECIHQLB6E02i8f
+/kNHJ28biDHFQqT/WwG0AazLZJWSdM72AHYARqVV63X6kSAwtaKJafTzfREsQXS+
+/Um4havy/HD+bUcAAAF82onpMAAABAMARzBFAiEA6hpIO7VZ/M9WwVFANumefYZI
+CE2An+2Ck626D0fOOccCIF0sqcU/KRh8whHuWMP7/paS7OxKTBcpBsE4xJpb4pEX
+MA0GCSqGSIb3DQEBCwUAA4IBAQAcUoCRtt877tfeU34fpJ1vxifVrLMNU5OXpLdi
+LlOORYE75jedGtKopUhfN4DEGUMhAlrrEAX9idB9OF1W66MbykWlpNuwO8sVJDjx
+7s+eUMfAm6VyXk2zy8ryu2GLyioou5DHaD1hJJZ0Y4GBmHZjQ3ObOkQksk3hoWqH
+QWrQVTfDoIz5ufLcna4igK1+PjTNoqNR7gUoSpxN1XEGHbw9FU6y8fGrDCjCTkOU
+31/K+WEHltAvaN1HbQdtOGsA+S2l3wFlFCSgzuqRorLboIxE6r+4O23HP8ZP6E1X
+G7NegyFCu1VFnpsGPXICEKEjQK1Ok0g8GvgY7nm+oDCModZm
+-----END CERTIFICATE-----
+subject=CN = 0358494.space
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4709 bytes and written 411 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 2996585911BA4D46D710B586F0851CB2C6633AC437947381FF32C4B3F19D74EE
+    Session-ID-ctx: 
+    Master-Key: 69CDDD3627C85F80BC8F3974613C1EA3CB6046FE98C9D647DC588966DA92C88472F5E7D0706EA66736BF844922DCAFB2
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - cf c8 6c 86 d0 43 67 a7-c7 a3 b1 67 2a 19 a3 cd   ..l..Cg....g*...
+    0010 - c7 be d5 2b 20 51 6f 0b-91 85 ee 11 71 3c 24 73   ...+ Qo.....q<$s
+    0020 - ff 1f 80 a8 1f b8 65 fa-5c 8c c6 48 e9 9d 5a c6   ......e.\..H..Z.
+    0030 - 5f 5a f9 b9 1e e6 3b 60-04 da 5b ea f1 51 82 a9   _Z....;`..[..Q..
+    0040 - fc 32 ed 20 6a 4e da af-9b 2e 21 55 87 7f 82 d1   .2. jN....!U....
+    0050 - 44 a4 c4 47 8b 1a b4 b3-01 06 c0 3c f8 18 68 0d   D..G.......<..h.
+    0060 - 5d d1 64 8f 90 6e 22 cd-92 6d 33 a8 15 aa 8c 3d   ].d..n"..m3....=
+    0070 - 76 f9 2d f0 b6 a5 dd bd-b7 f1 81 e0 40 ef c2 0f   v.-.........@...
+    0080 - 66 06 f9 93 ba 6c 8b 7a-a4 43 94 cc e5 6b e0 e1   f....l.z.C...k..
+    0090 - 4f 9d 8b 88 f9 cb e4 03-e5 fd 9b da a0 02 af a6   O...............
+    00a0 - 6b bc 4c 41 4a 71 61 ff-b4 94 93 2e 9c 8f f9 ef   k.LAJqa.........
+    00b0 - c3 1a da b6 60 39 51 85-66 b9 8a 2e c3 3c 72 aa   ....`9Q.f....<r.
+    00c0 - d6 a7 c7 69 a5 b5 19 72-cf 84 eb 9a 2d e6 5e 0a   ...i...r....-.^.
+    00d0 - f4 48 97 c1 f5 3e 85 c0-f8 3b dc 53 2c 86 fa 22   .H...>...;.S,.."
+
+    Start Time: 1635975054
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

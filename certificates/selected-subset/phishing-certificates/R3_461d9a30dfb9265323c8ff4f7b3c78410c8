@@ -1,0 +1,70 @@
+https://product.ortax.org/AB/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = product.ortax.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+-----END CERTIFICATE-----
+subject=CN = product.ortax.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: ECDH, P-384, 384 bits
+---
+SSL handshake has read 5251 bytes and written 783 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,75 @@
+http://www.nourinfo.com/tools/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = nourinfo.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFYjCCBEqgAwIBAgISA59O1fGhbPcijvt1EEScoDBGMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMTExODQxMzRaFw0x
+OTA2MDkxODQxMzRaMBcxFTATBgNVBAMTDG5vdXJpbmZvLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAMIu1YDPJUQPHjfaDM7vZJWoo5gwyYRNQyiw
+bWnrHBZ5b0gZ6bBJzKdxmzgAoB2ZLpnlattDwpgx0VOQ1KOwRxt5U/kvgCOugOic
+GJNbJH0PJ7x34/q+sLqVnDUIXg+sw5Y/eMTFsIGCFVkhktuu8K1jPFkYNK/K9r2e
+dGGfajlVMMImbyAMjSwf0prh0NS/tBwIqP6CAwppg260qhMRBFzO/eQA3Ht4VMJI
+OYoisNSdMHPNd+kEFdrnuAhQn1n23Znty0RtR1Q+AYzWeEO1q4FyX32X216qrHIu
+8ZM7kJJtmYNDzLWNuBVBtmBmXHffrVF8W0a+8779U+pQ0+DVpncCAwEAAaOCAnMw
+ggJvMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUcCp9SLml9uLcFt+Ljx+j36DGSBww
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzApBgNVHREEIjAgggxub3VyaW5mby5jb22CEHd3dy5ub3VyaW5mby5jb20wTAYD
+VR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYa
+aHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHy
+APAAdgDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWluRkv0AAAE
+AwBHMEUCIH7AjbZegMILolk3OPiJ8HjS0DUYqTNj0JCsPnXHqo/fAiEAwnhfn1A3
+fdOCHkUnohzOmq8y/25naSwzpZ0M/8nMnHcAdgApPFGWVMg5ZbqqUPxYB9S3b79Y
+eily3KTDDPTlRUf0eAAAAWluRkpVAAAEAwBHMEUCIFEd9SA5+/dwf62bY5mWBWRY
+uhoCARDSe38J6EKN0Sv+AiEAyW8blTWfI+nG926F+I+yKbQbPdu6+rNw3gBnNYmw
+xwswDQYJKoZIhvcNAQELBQADggEBABTquNTlakhpdePODmnfQafelxE0pXAxUzTH
+1WvL57Cg6V+VZRtBxBJkmE/Ev0xM2fuWhIF/nuoWWvKbwjD4sBANKviekKnMM4ae
+NWlKmIqN2Y/hpucnXyKNfG0hU3xW6VNI3HF8+70lBaD+IYORKeQC4Yvw7/ElBeUu
+8TKf6984fHNVIaC5gX2gDY8q1oMe7OPnYSD2JG1KF5ARljZdS6DgSEf+pc42bvN2
+pYkuI/bpGucT3TeAvBJNLVX6PFpdtic/uSPDBLRluJAzQsUtNJXFy25MrsRxOhYO
+4rVSOvlVxV7AzqqseAxFQLRaScsOboi5wRADXTt/SvQNYoYnZLU=
+-----END CERTIFICATE-----
+subject=CN = nourinfo.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3070 bytes and written 454 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 987804CEC837636635DBA3C9F8EB18FAACD4525B85678BAF068B9C9EAA8CF93A
+    Session-ID-ctx: 
+    Master-Key: D21432D67807A7E980317D474D69BDE54811177F87793E0EEAA0215236D8052D1DEB66ABDB2A8229B721FA457414E20D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1555246820
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

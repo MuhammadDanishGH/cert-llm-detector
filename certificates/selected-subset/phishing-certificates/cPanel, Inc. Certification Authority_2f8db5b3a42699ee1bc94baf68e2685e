@@ -1,0 +1,69 @@
+https://htxairnet.com/index.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = htxairnet.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF+DCCBOCgAwIBAgIQL421s6Qmme4byUuvaOJoXjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTExODAwMDAwMFoXDTIyMDIxNjIzNTk1
+OVowGDEWMBQGA1UEAxMNaHR4YWlybmV0LmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAOSHwFJhmcMAunRMUXvDQWbMOSgOcUmeVi7MJ4ak1avdzAEV
+FRgFfeSC1VNnJqBhIdBdrWaq0ms7vM2RXZekDPqaKkH1WfyzSk7+i+Q82BDK4bj8
+X2jk3WL7EcU8Vy7zmYOHKSF8IPfR4MtWbSXkVtjOn6euNabdPjl7zbmu73LL2tys
+gqEB0tAzsQ+wt3bNTPLqCh0tTW4FSXL5mzKxXqzLaLenUoPl2qA+9/Wqu2btrddn
+EIbM+Syd3OpilkBeV6CHAhUI38VluvUeNfVeDRGdWikslshDNuB39O3u3KXUsw/r
+C9CuQIcl5dV6QEtVP94KwduLaU7e9b6x1/2Sa28CAwEAAaOCAuIwggLeMB8GA1Ud
+IwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBS8ZcYotKaOWWQO
+9q7Bjj7vQrYvODAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQIC
+NDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwB
+AgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20vY1Bh
+bmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEEcTBv
+MEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJbmND
+ZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDovL29j
+c3AuY29tb2RvY2EuY29tMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHUARqVV63X6
+kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9MXooSwAABAMARjBEAiA31Xcx
+69r2fcb60iOlJgMPUtcZQn5WkJhae2Q2+XkRSQIgWFMPGtOX4TGrxtPcz7ubRK2o
+PchKHKS1Sp23XRtPfvgAdwBByMqx3yJGShDGoToJQodeTjGLGwPr60vHaPCQYpYG
+9gAAAX0xeigEAAAEAwBIMEYCIQDJJG6Hb/ovardm25G6Q8z+Ts6q0vUHjb6yR4gu
+1XTmswIhAL7yhK7qH6N9R20SySLC0tShLFDwnjxWxBwMm8zbElfnMD8GA1UdEQQ4
+MDaCDWh0eGFpcm5ldC5jb22CEm1haWwuaHR4YWlybmV0LmNvbYIRd3d3Lmh0eGFp
+cm5ldC5jb20wDQYJKoZIhvcNAQELBQADggEBAF/sZA7emngvVVXt9E8qPDM5e2nM
+Nym1lkvjx1/FB/6nGgcjwOViVzjff5k1C2j37419gP18ZwJp2n3F0he2WGpeUTiy
+NVZHSdf/TEtQyDmRPIiaw/W1SK1ddUAlrdvUgM4XJScwRdJTstZnAQA4xuZYQCnO
+sj7X4uDultXUhSMD04sHYpwDxVuB7semgMh2TZOoh4H5yHDxBxGRdX82Qlng8N7d
+gSzd1vTjd57JQBiGNqG98mWhNmnbAsE6F//XTVZ39Bcqzj+XLfayEoAzXT4N3MHh
+TFx6DjrTbgMzKtx8Izp07eMYPe/pZtDwQxkpi/MY5/tN1dbkQcdQXchkYV8=
+-----END CERTIFICATE-----
+subject=CN = htxairnet.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5037 bytes and written 387 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

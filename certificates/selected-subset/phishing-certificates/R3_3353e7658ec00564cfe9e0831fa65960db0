@@ -1,0 +1,65 @@
+https://etc-peiban.sytes.net/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = etc-peiban.sytes.net
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFMDCCBBigAwIBAgISAzU+dljsAFZM/p4IMfpllg2wMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTIxNzA5MjNaFw0yMjAyMTAxNzA5MjJaMB8xHTAbBgNVBAMT
+FGV0Yy1wZWliYW4uc3l0ZXMubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEA1Z/oVE2Ux7dFDuzR04A8cDZUE+LB8aJ+mOmYvoFTotD5nnyRBUbeJ2a7
+RaEsUsc9cY7ZHJCjxAZK+D1M28euHKR/r7HVhcffPjYjiQ8lIIb0s0Q1K+tcReex
+1B2CVKFSZlhgYwrn/plHHIs5j3uCbqs6KMjS6ptkJ/pH1z0FBUOdG1xigcVNNprO
+IJW65CM3QD1n6Lx5/9ISs6GOkSaaKabvy5QTn91BRddhYbcVRAlB22X5d8QteGZW
+G5aZ0mse4B+cIEcYptDp2LgRGL++EPfX6CHG8fTiXywanRRnMD9AAM3QkzfsarlS
+ugV7oUK3ryWWbkBl79OQ6X7ESzsHTQIDAQABo4ICUTCCAk0wDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBSShGdEN/UclMlmkOt4QR6gfioQGTAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzAfBgNVHREEGDAWghRldGMtcGVpYmFuLnN5dGVzLm5ldDBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3
+ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfRVXAh4AAAQDAEgw
+RgIhAIrA9aHWgJ8Eu12axnZLUQrCCaWFecxiPH973owwIzp5AiEA/k01YGyvObe7
+l3UpQC6VATTzkxboHLvoGN9iDkQ1tnMAdwDfpV6raIJPH2yt7rhfTj5a6s2iEqRq
+Xo47EsAgRFwqcwAAAX0VVwREAAAEAwBIMEYCIQCSiJpRTk+Q6V94f+eJoUDRSfUl
+eaiXG3WZLsByhOFXDwIhAKA69LPAjYCubFzX+Ctv4GxcOkcAR0qpjK5K+ojkb79P
+MA0GCSqGSIb3DQEBCwUAA4IBAQARAhvGJ83HRLWpO0LjnPpaxexO2HvCutjavABE
+icfJnsPJv/62DnYcqdS7msJHTSM2BH7c8bfYK5ulfIy23kbwl4JuotbdKCKmz0MF
+BLHuZTTv+XXn7Ri5r/jhIzMreJyYwVwEtISeW0oeC+zyJ8UHGcM2dSgY19EEp6S4
+P18uO7AHXBKUKAojUxaqNSKlauS/JVhk/zprDegh3+8HTyA5PPwehyIYX057dr9P
+xnjlx0ZqcpSStJEZY1ABPStf63tg2ZyMv4PLA6+0C1EpW760Yc3qnjHUGkrg7wXt
+41QJ7JERcYtl2zzU7uJYas8Wb3kyAP3EW3sqqHxhxlwaDxeM
+-----END CERTIFICATE-----
+subject=CN = etc-peiban.sytes.net
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4588 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

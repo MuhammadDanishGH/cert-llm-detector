@@ -1,0 +1,76 @@
+http://365mobile-authorisation.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = 365mobile-authorisation.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHHjCCBgagAwIBAgIQCGipc/3PSwuJIgqhzluItjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDgzMDAwMDAwMFoXDTIxMTEyODIzNTk1
+OVowJjEkMCIGA1UEAxMbMzY1bW9iaWxlLWF1dGhvcmlzYXRpb24uY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5112c3+h8mpS20zUdhLhsMUDOs68
+WO4PHHFfksPvwneTAXQGcXw/zkP1DnY88c0HDMBSaSWp8lK1N1ZQJG0dMmKcV0kV
+PTJGra/RzD7+Keg45pHfOrCfFjp7OlBlxPZlS6Tg8/5BsuFx9PxTT7+yD+p+kf0d
+3DGUVDYqNsTI8GfPKfp9ut0PNjMJWl0rL6jdMF2IGdzsTYdCu9QJi/aALXVuzfoG
+CzJmzLzopHxmwEg1lTOWlBUEM8CVK44vtpLlF+lofJEk1sI/fQjAkVBYvRV1s8Gr
+nWjJ766sWuL75r0IiDAT3Zd0B/Ki5i2qT5lk6FM+vzyRwtAiIrYWtMcmHwIDAQAB
+o4ID+jCCA/YwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0O
+BBYEFPwfbJqJZBKZdaC1zWRVqg9fh4b/MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMB
+Af8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBA
+MDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5j
+b20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNv
+bW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9
+BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUF
+BzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0
+BIHxAO8AdQB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXuWzegq
+AAAEAwBGMEQCIEOrAtSPAChWQdB7/EuaBLq7e87e9niF1r7ljgOVT7qkAiAQAxVz
+PCR/SXZvVH55pcWdC47j1seGDrh80LGWnL66qwB2AESUZS6w7s6vxEAH2Kj+KMDa
+5oK+2MsxtT/TM5a1toGoAAABe5bN5+oAAAQDAEcwRQIhALe+5EKXmZvir64+HXMO
+JF/CBfGs6LXUwRS6VOmPsOFGAiAmYguHHF9N6Aza1/8SMhWku1NgRmnDVrfYBpoR
+rXmqaTCCAVYGA1UdEQSCAU0wggFJghszNjVtb2JpbGUtYXV0aG9yaXNhdGlvbi5j
+b22CKGF1dG9kaXNjb3Zlci4zNjVtb2JpbGUtYXV0aG9yaXNhdGlvbi5jb22CImNw
+YW5lbC4zNjVtb2JpbGUtYXV0aG9yaXNhdGlvbi5jb22CJ2NwY2FsZW5kYXJzLjM2
+NW1vYmlsZS1hdXRob3Jpc2F0aW9uLmNvbYImY3Bjb250YWN0cy4zNjVtb2JpbGUt
+YXV0aG9yaXNhdGlvbi5jb22CIG1haWwuMzY1bW9iaWxlLWF1dGhvcmlzYXRpb24u
+Y29tgiN3ZWJkaXNrLjM2NW1vYmlsZS1hdXRob3Jpc2F0aW9uLmNvbYIjd2VibWFp
+bC4zNjVtb2JpbGUtYXV0aG9yaXNhdGlvbi5jb22CH3d3dy4zNjVtb2JpbGUtYXV0
+aG9yaXNhdGlvbi5jb20wDQYJKoZIhvcNAQELBQADggEBABkIrZX+XD3awfyX+mQQ
+w1ubU7YSAq2kVHFopViG1X27NEN/zMc/es+roDLXL16Xpa8+cgCyMHdj4zJcru4d
+V8ZxqQDm/smvAnkx3UynPzUMFE/YTxsvdHQwb190YJ5KzIuREU37r4wYzZfs78i3
+d21UmZp0ROFLJyv//81vxoUyYbacuxWFB98Tv4Mjh/T/kmzuUgCrLK+C4WwKWEEU
+gcVqbi/52BFnXOLG8ghP3F7QEwy5ZHTz6evav91RKHVScfNyE7Ycd+yssL063iys
+2DSa3QLHAgVjtPYgBWmz91d6fVf7oREYTtIeo/5vNDs6TGdXPCg2N3VY60NLDkbO
++TU=
+-----END CERTIFICATE-----
+subject=CN = 365mobile-authorisation.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5261 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

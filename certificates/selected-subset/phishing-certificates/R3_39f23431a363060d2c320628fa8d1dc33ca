@@ -1,0 +1,65 @@
+https://belivebox.org/order/1627378113527
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = belivebox.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFHzCCBAegAwIBAgISA58jQxo2MGDSwyBij6jR3DPKMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MjIyMDUyNTJaFw0yMTEwMjAyMDUyNTBaMBgxFjAUBgNVBAMT
+DWJlbGl2ZWJveC5vcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDD
+LZdFemKZGsFYX/UjSGfQ4NBrWIV3CPkvdkMCYzpxQ9gR0cqTk52IBfb+DEWYnmYJ
+k+PCE5cmimwyNctQAF8RWCAElV7xSYO7zb+wHfOj7kPI+YfqrgssQ2WFTwq7kMc3
+raBoaHB1PqWSUPFZWAjOoqmzBZQr5PMjWsG3XQyBMZ7v4r7rUZtttoi4Xh5b8bnR
+e9tJowKgW/wcwM83tQRgvPw6lmNP9gVtCRZ4qOAe6flOb63o0LcwHBTLLZ+lRp9O
+NhGepIpF3hnJlfumSf9yFaOrN+6UQzlJu+XDwGSRFjT+XW+k1bmCsjhcumnHJgSe
+BP2d7LtAt2+AsGqrKrerAgMBAAGjggJHMIICQzAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFB0D46GheEKcYVKvT7zXuGUbt+FjMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJ
+QOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3Iz
+Lm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcv
+MBgGA1UdEQQRMA+CDWJlbGl2ZWJveC5vcmcwTAYDVR0gBEUwQzAIBgZngQwBAgEw
+NwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5j
+cnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgBc3EOS/uarRUSxXprU
+VuYQN/vV+kfcoXOUsl7m9scOygAAAXrQNQG1AAAEAwBHMEUCIQDyTeHrRWj6k2Zg
+ypwhtlWKc0Yw9pYdQ8PUnJX18khDsgIgL6717ck/QnmDBrYgGY4aOa5Q+CHlqxFV
+N25g++0JqA4AdQD2XJQv0XcwIhRUGAgwlFaO400TGTO/3wwvIAvMTvFk4wAAAXrQ
+NQHMAAAEAwBGMEQCIBc6qBI+8BctL6u3Jwlw+IrZumSquAb+lx/HDlomc4F7AiBO
+tQk3sc+6j7A9zXovoUi3geYN6Mttb/WbaHFm+8nOJzANBgkqhkiG9w0BAQsFAAOC
+AQEAr95qoDgspzaSUY8k7+sMrmjsjad5csIqp6ZNfVqf4D5IDy+MpkmeqLZHMT38
+knEv9ZZjUUsc05/68Z7o69vfA5zy78hKuYMoVa7yGdYXRpQNn4drCWTpxMc5E++1
+/Q04Sa4dpq4+uDFTMhgV2+zLkS6IYJw86lrG65rZRXpV2SGe9cbACZME1ohqKmQO
+ZSwqgRazNu0b3np1P2oilki9VKUQRcT8y9n9gEZoYhcAeKiTbBCF0R6jErlNd81k
+wPgnHDXNztABoFSlqFPl1KDLskhCJPZCIzKICrs1i9+nDE88udgMyRpkpApNYh+F
+in1Ohyfj0Vk2ssCHBSfkRXmp3Q==
+-----END CERTIFICATE-----
+subject=CN = belivebox.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4567 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

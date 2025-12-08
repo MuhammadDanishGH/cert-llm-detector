@@ -1,0 +1,65 @@
+https://steamcomminuty.link/83781904184
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = steamcomminuty.link
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFKjCCBBKgAwIBAgISBE13Yh5ApRMMRWTX/dCbd4pKMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MTUwOTIwMjJaFw0yMTExMTMwOTIwMjBaMB4xHDAaBgNVBAMT
+E3N0ZWFtY29tbWludXR5LmxpbmswggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDToBnJ3jhq4PhyuU3PmYuhZN1VWea3tmp4qY+0P8CnOvhSlT2GQoboqqD5
+oPYoWr7DrXjEzK8ZoBGKbTzMoKLrmBkrMRWkSfHUDTLiHdEzMuZMZDbQOm78QKYz
+gD2/qJKcR11+/nZhmmnzeIc9DgStodaHLFM9Wj5AdTi5FxXAJZcDOHER3d7UruAr
+ggMKqyumcvFABHnc80rjAf3w3FcoMBOR9patQial0EeJzzT18Dp/L16ob9SWAG3m
+qEiCj17hB6uk8Oxf6znoOFIHoC/WodPHnM4WOn1GTJ+qZo1lV7pskmmcUYO2G/ic
+BB5CkesXDaQWxYmEI97gQIg61jllAgMBAAGjggJMMIICSDAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFOkQwNOPc710zmmWu4r5MmGZDkRSMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMB4GA1UdEQQXMBWCE3N0ZWFtY29tbWludXR5LmxpbmswTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggECBgorBgEEAdZ5AgQCBIHzBIHwAO4AdQCU
+ILwejtWNbIhzH4KLIiwN0dpNXmxPlD1h204vWE2iwgAAAXtJU6DPAAAEAwBGMEQC
+IAG/qV4XW19AFR7JL9dtmgGmxJD6ljw8eF3WrQovkXErAiBksY9AaZR/fObazDvJ
+WNHZN7F7bdKGI572/5QNrx6+mQB1APZclC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8g
+C8xO8WTjAAABe0lToL4AAAQDAEYwRAIgHGF0KH03JV8wQeu2kos1MKTINYpwZWUg
+ywy9uC7ZaD4CIGM16Wgigc/YK93n8rhWf7rCNIG4ZngbdWDEXjCDlfFkMA0GCSqG
+SIb3DQEBCwUAA4IBAQCIk2k9h1FJSyjwqd3ghM3m4meAqf4BK/WitvA8iWqS3bGy
+hMcWFvRjNG9KBm2OnAxIA4vLRA8xJ9BtLZsyV8QSFbOTcVLulh++LRRJtq9VoQGU
+Gf97Jib5BBF8TRSrxU5vcFp2Yb61nVnTg0s3O6NzityB+6CpLHo1CwPBDVfFiGKP
+8k3HO1mtl3rgw9zIF8T+aNh3Lc5j5LkLtaloB+PDPny1XaT3ghN6HPavOyOs0MRQ
+/8on2KroHNIB/1J69wOQjoDy9z5lRWF+qlfnpEEUFoiWshHmoZH8S38Jvh3tdM+e
+/Ymeoz7tpvVu2kfhVyu+aAkiIZpoE/6jmP8+FNBK
+-----END CERTIFICATE-----
+subject=CN = steamcomminuty.link
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4582 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

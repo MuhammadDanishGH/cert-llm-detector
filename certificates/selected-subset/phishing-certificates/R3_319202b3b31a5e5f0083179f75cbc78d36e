@@ -1,0 +1,66 @@
+http://an-post-delivery.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = an-post-delivery.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRjCCBC6gAwIBAgISAxkgKzsxpeXwCDF591y8eNNuMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMzAxNDA0MjRaFw0yMjAyMjgxNDA0MjNaMB8xHTAbBgNVBAMT
+FGFuLXBvc3QtZGVsaXZlcnkuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAudENP6WMJKkJKD5T2jh6nYVtWpDlT/BYfH6M82asN6WzMf4RVzi0Yy9X
+4uXRAPk+lmuaKd1SVI+zFLsbqoP2OHECPzWmbRYe3Ti35O1Lbu8z4xC3EitXk7p7
+wjR0Y+wUHxmOSMALkFATXtCmkM1HG8tdTmX94ww4u/06qwLQNnOFjt46MHQ2rM+b
+cFtlajt8VM+MoQc7/sKFG12Hj+SGB83xAIAki2UlpxpyMKsBoVsmEe00uNLk7arP
+OblO8UG3EqMarqqI8HdnpUCUmo8858bQv0FoGdrjdEC5sL7xOQawK5OChiadEvvb
+2Bf0MiBhKKfIoVg8hVSC4IDD+S23BwIDAQABo4ICZzCCAmMwDgYDVR0PAQH/BAQD
+AgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBQAArFp0t16s3r46XudXsQHXXsEmDAfBgNVHSMEGDAWgBQULrMX
+t1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0
+dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVu
+Y3Iub3JnLzA3BgNVHREEMDAughYqLmFuLXBvc3QtZGVsaXZlcnkuY29tghRhbi1w
+b3N0LWRlbGl2ZXJ5LmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLf
+EwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCC
+AQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AN+lXqtogk8fbK3uuF9OPlrqzaISpGpe
+jjsSwCBEXCpzAAABfXFgHjAAAAQDAEcwRQIhAPCieDgClGbsgL6YndKA0lg/ohOY
+ndeilwlrI+ZpyNGBAiAWwo0sYwxJsbsg/4ruXHXqkyAuPsR7XpvqjFDItB4XJwB2
+AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfXFgHoYAAAQDAEcw
+RQIhANS9hVnHt02U7cvUPFtTsXxz7Es10ZhMeng/ksUTmpP/AiBRUR3cJwwtjn8q
+wCq1RKUDpdwT3Z22UBW2Bw+2jM1vtTANBgkqhkiG9w0BAQsFAAOCAQEAV/7qfdTp
+jOPogUaB48v2FqVoSumt+iPE7IJ23LwJj6bJni8SrWhaap11WDP2SrS7r0bhXWOu
+a3evHMK73gFZh9oHwpyvC0il6TLbO927ZjarxjRGX2suW6Hs3JrHAVuPbMb4umiM
+swpFyGtsMYqxxEyFaWTvXYf9FeG2QHSK7CjazlT1xcDL6NR0j2kxd43s7Mv//q3A
+PSIYQOk/IMwIvZQ3rpsxehL/aH81LlmAMreZ1y7Zym9Bi9wqQBpST980SllX5Ido
+xr+RQRMxjPZHiCS5xbxBb1P2lw992XsNtnnEjiwtIlswxOHRCeEmV0wBkEcmGwIm
+HQhCoZFzmrUYCA==
+-----END CERTIFICATE-----
+subject=CN = an-post-delivery.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4610 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

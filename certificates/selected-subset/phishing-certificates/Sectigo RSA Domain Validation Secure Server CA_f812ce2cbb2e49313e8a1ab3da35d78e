@@ -1,0 +1,71 @@
+https://www.allegrolokalnie.online/allegro/oferta/id2176559844353/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = allegrolokalnie.online
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+ 2 s:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGUTCCBTmgAwIBAgIRAPgSziy7LkkxPooas9o1144wDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMTExMjQwMDAwMDBaFw0yMjExMjQyMzU5NTlaMCExHzAdBgNVBAMTFmFs
+bGVncm9sb2thbG5pZS5vbmxpbmUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDhILKb8yQziCes072d3iCOyKr+WMgXiR6DQNdwxv/lQH4NOZ2Nqpgg1oNt
+PfYXpQKypT77UL+w7lNWClfXxIlRlLNXtqE5kjB+iMPgK4ISBNzMOuHvwOBApLOx
+b5da9Z9lZ/cD6gfuroHalX41Cdy5GIQVsPcAVWF1z+iPnnFlPzgBpbUzrcHf7zeg
+hBGsdJnU+cD/xaDy5txnDq0UKNMDvDpsWUALPnOnhMXe4hcZsAlpcOaDd8BKjvml
+Lc5HQggKuGfzfXpaVXjvkH7gr4Tqm3NIyfG/H6s2Gy50jxfBR+mR/fObCPygosPX
+jm1sBchbrQl5/BznUgPgFtGTo7YfAgMBAAGjggMTMIIDDzAfBgNVHSMEGDAWgBSN
+jF7EVK2K4Xfpm/mbBeG4AY1h4TAdBgNVHQ4EFgQUWfk7RLFLBZ1pqkyqPLExXiEv
+ukowDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQECAgcwJTAjBggr
+BgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EMAQIBMIGEBggr
+BgEFBQcBAQR4MHYwTwYIKwYBBQUHMAKGQ2h0dHA6Ly9jcnQuc2VjdGlnby5jb20v
+U2VjdGlnb1JTQURvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJDQS5jcnQwIwYI
+KwYBBQUHMAGGF2h0dHA6Ly9vY3NwLnNlY3RpZ28uY29tMD0GA1UdEQQ2MDSCFmFs
+bGVncm9sb2thbG5pZS5vbmxpbmWCGnd3dy5hbGxlZ3JvbG9rYWxuaWUub25saW5l
+MIIBfQYKKwYBBAHWeQIEAgSCAW0EggFpAWcAdQBGpVXrdfqRIDC1oolp9PN9ESxB
+dL79SbiFq/L8cP5tRwAAAX1RlvkgAAAEAwBGMEQCIH0r8YaEysmxTpIwJ2tkGuNB
+dvIcvfWSoEl2lG51Yb0CAiA3PpN1hhr1RYUBqpkOWIpp7aKMGTFVD9y24EvK+22l
+fAB1AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfVGW+NUAAAQD
+AEYwRAIgLF5YmOZ7MSWaVQSPVFpt78LG0xGF35DdG7BdFkcy/Q8CICVtgbTrf7qH
+cyZLedGctWLS+YVwAKEJ+1YI65P8l3OoAHcAKXm+8J45OSHwVnOfY6V35b5XfZxg
+Cvj5TV0mXCVdx4QAAAF9UZb4rAAABAMASDBGAiEAgaQVxsohBwY9RbLC35vj6NA0
+mG0pz/dt5q44eqe5Bo4CIQCZLkgwdnCGAQXPCwGSBTOOKZXdPQzZhsUNZ9cfsrHg
+XzANBgkqhkiG9w0BAQsFAAOCAQEAui0JUVRByLAktW3jCql/15nedKIsWmVj2u3/
+6VFTNz74zi4kqC2Xfc7i1rM1aC4jgBuuwlW+MxZv8/aNNKSiBu1WNP418Ry6SroA
+MgH4lezxgkv0/izkMrlqKTWeOjipnAgOM30XssD9r6ZYvXhWRElsSZDfPCw3XXtw
+/O7Pg5b4i6VXpnzCp6vvNMyQh+FACfSLgfZdztD2futP9BbVKRB6hpRn7VZyTBbk
+tUnCol7LqQVjYIwJlxMfA6DVjfVsUhuwsty/l43Fl9prKBYz/PPjUsw6QMtfP7+d
+24BBk46YQAnCPVIIRqRp7pDa2IsSnRcys+V3cFifFHS1AncqdA==
+-----END CERTIFICATE-----
+subject=CN = allegrolokalnie.online
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5163 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

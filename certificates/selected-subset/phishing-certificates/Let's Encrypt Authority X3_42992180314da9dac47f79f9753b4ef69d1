@@ -1,0 +1,96 @@
+https://www.techcruz.tk/wp-admin/images/_images/home/login.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = techcruz.tk
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+iZMX1Q==
+-----END CERTIFICATE-----
+subject=CN = techcruz.tk
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3759 bytes and written 453 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: A3078C39847911152A1483BC93280C27532B5398F38D3A638AD2773854AD2936
+    Session-ID-ctx: 
+    Master-Key: C60FB7EA4314980CCB1224D244EDC5667C5E396054CA76EA87D24B0830DBFAFDFE4FB7C302343552CA322B4021ADDF6B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 5d ba b9 75 99 3e 0d b5-d5 8c 1f 5f 0f 5b 61 bf   ]..u.>....._.[a.
+    0010 - cc 5b 92 64 be bc 2c 59-4a 8d 7e fc 99 87 7f 07   .[.d..,YJ.~.....
+    0020 - e9 3e d1 24 55 ef 83 5e-b3 5e 23 7f 34 39 d1 52   .>.$U..^.^#.49.R
+    0030 - 6b a1 08 31 8b 99 26 d6-f4 6d d3 a8 41 a0 1d 5c   k..1..&..m..A..\
+    0040 - 56 ac eb 16 c3 ac 82 60-bf 1f 16 d8 49 f8 ac 7a   V......`....I..z
+    0050 - 58 76 a8 fe 61 e2 18 3e-75 05 89 43 94 07 e8 fa   Xv..a..>u..C....
+    0060 - e3 e6 db 01 49 94 1d bf-ea d1 28 bc 34 25 90 c8   ....I.....(.4%..
+    0070 - 95 a1 a0 dd 7c 30 94 3a-ef 45 5e b8 7e c1 4b ff   ....|0.:.E^.~.K.
+    0080 - e7 8f 23 3d 45 d5 dc 08-0b 38 ab 10 e8 4b 2e 08   ..#=E....8...K..
+    0090 - a7 be 3c 9f 85 d4 29 06-3c ca b7 e2 87 45 15 d7   ..<...).<....E..
+    00a0 - 11 99 68 d6 b1 e6 dd 09-74 03 8b 79 62 b0 20 2c   ..h.....t..yb. ,
+    00b0 - 3e 4d 52 6f a4 e9 52 06-f1 6b 55 ea 6d 74 06 4c   >MRo..R..kU.mt.L
+
+    Start Time: 1558530033
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

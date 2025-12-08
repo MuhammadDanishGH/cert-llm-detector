@@ -1,0 +1,75 @@
+https://azamzonasd.hopto.org/signim/?openid_pape_max_auth_age=http://specs.openid.net/auth/2.0/identifier&openid_return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&openid.identity=_select&openid.assoc_handle=jpflex&openid.mode=checkid_setup&key=a@b.c&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.ns=http://specs.openid.net/auth/2.0&&ref_=nav_em_hd_clc_signin
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amumumas.gotdns.ch
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG7zCCBdegAwIBAgISAxq5fD03EZYyFdvCJRRBJs7CMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MjExNzMwNThaFw0yMTEwMTkxNzMwNTZaMB0xGzAZBgNVBAMT
+EmFtdW11bWFzLmdvdGRucy5jaDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAMoTpkCvvMasZavcknFP6qmGnOgFmqrFhzSpLPATqAtHUv+9hay+v8x9tHjE
+nEQ/XDA1k8IFgEVSYv1U3khoPsqiWIxFrGbD+2R8bbVDQvdxVdrJvwyMC4Nbww+x
++tbuQLDYBhGV7T/fhbdNx/phn3631d6AqijldpzKnPtx1bxTExYC6+NEaz7NlzAm
+fk0wZjs2gGlgEU03pHXXt3IYghtC5v4ROcuPzq1mQTkh0HmFPyHWvBdtD0A+UAPa
+Cn5kQAfv08cpgwCzdV8L1NH2/EUfxI8hGtflRG2CjmgBO9w2bbIJa851FTq9heau
+Lhp+7JzPn4L7zzu0jFJxi2Y42hsCAwEAAaOCBBIwggQOMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUKysOHUXF/SPQNUw3XBuZT3wJrbgwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wggHeBgNVHREEggHVMIIB0YISYW11bXF6b20uaG9wdG8ub3JnghNhbXVt
+dW1hYW4ubXlmdHAuYml6ghJhbXVtdW1hZC5teWZ0cC5iaXqCE2FtdW11bWFkYS5n
+b3RkbnMuY2iCEmFtdW11bWFzLmdvdGRucy5jaIIZYW11bXVtaGdmZC4zdXRpbGl0
+aWVzLmNvbYIVYW11bXVtcS5vbnRoZXdpZmkuY29tghhhbXVtdW1xd2EuM3V0aWxp
+dGllcy5jb22CE2FtdW11bXNhZC5nb3RkbnMuY2iCE2FtdW11bXNhZC5ob3B0by5v
+cmeCE2FtdW11bXpvbS5ob3B0by5vcmeCFWFtdW11bXpvbXF3LmdvdGRucy5jaIIT
+YW11c2RmZnp4LmdvdGRucy5jaIITYW13bXVtem9tLmhvcHRvLm9yZ4ITYXphbXpv
+bmFzLmhvcHRvLm9yZ4IZYXphbXpvbmFzZC4zdXRpbGl0aWVzLmNvbYIUYXphbXpv
+bmFzZC5ob3B0by5vcmeCFWF6YW16b25hc2RlLm15dm5jLmNvbYIUYXphbXpvbmZk
+cy5nb3RkbnMuY2iCFWF6YW16b25nZmRnLm15ZnRwLmJpeoITYXphbXpvbnNkLm15
+ZnRwLmJpejBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYG
+CCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQYGCisGAQQB
+1nkCBAIEgfcEgfQA8gB3AJQgvB6O1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9YTaLC
+AAABespVzZ4AAAQDAEgwRgIhAOUC5GS+XTGnXs7dPr4tiTlNHLkQrOI49eY1xapY
+6l9pAiEAimd/FBF38bTIaclxO98IltW+9Km5A0KzqRXxLjFyaUsAdwB9PvL4j/+I
+VWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXrKVc3EAAAEAwBIMEYCIQCCb3cu
+2tr+DyWqyv/smalnj1Z95y1ttmPdbvYEAyNdKAIhAMqxvkiFbVHi676sHvBKcuvl
+ccdz9jMvjpqjzJSuwYVcMA0GCSqGSIb3DQEBCwUAA4IBAQAtSLgS11oQ7qw0QMs1
+CFQ4EqW2F5N1IPccfaN0G0CQfzzKrqd5h6xOBROL2q2vUcHiIK8HJ7cNy1LmnZKK
+4+3xE+rKX4jrrOTi0tD/5E3Gpe7/VOq9rKELz0hRa19dB2CsEaKXCvMre6xN3m4J
+ksRaaQ1db8xWiTb+0LJ6E74fKRnVqB1kTOauAlJpfuRbM8iwkb+mzZ/4Xx6Me4CU
+TI6UEuxo5cSOaoR13kdDgMj7mHX5q4qsuPrhDwn/Yo3tonX3tO2b2oUnH++t5Amu
+rVA89YhOzKbZ+UK3qDgRmSzKbMNBjTl5d7R+WKKHkZeQkHCfbHHePDXfi015oGmj
+Qh3s
+-----END CERTIFICATE-----
+subject=CN = amumumas.gotdns.ch
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5035 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

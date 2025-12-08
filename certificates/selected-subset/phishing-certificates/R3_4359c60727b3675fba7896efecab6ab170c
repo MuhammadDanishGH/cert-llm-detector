@@ -1,0 +1,93 @@
+https://secure.oldschool.com-14.ru/m=forum/forums.ws953
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = secure.oldschool.com-14.ru
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOjCCBCKgAwIBAgISBDWcYHJ7NnX7p4lu/sq2qxcMMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA1MjcxMzQwMzBaFw0yMTA4MjUxMzQwMzBaMCUxIzAhBgNVBAMT
+GnNlY3VyZS5vbGRzY2hvb2wuY29tLTE0LnJ1MIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAvl+JFuAcjgiUd6ElwA/0tEJTPahqaHy6+WVyL7J+COS6jjKo
+hm+5ppHEtWlJad1Elb3xvJ9FgPH779yQ9AXCN0PQDTmRg+eHNHPpI8fpQlzyvprj
+U8CM8L18FGo2apLR6kohRHZdJBwDvNV0DUrIlsny/SduT8Ypucbe+2jnFxKLhSYd
+8KaX/AsXpAeVZC70o5IdtNdAEu/kDiEBy15+x9KpA80Kbfr+ZCNx93MByBwWHOGn
+g7X4PY+ly6c7YdYRM3+94TIAtKwK7YUN2bflJUWUn9H+0GhKWBLX89DE1EobESCS
++xhWYovVPgcfMxPRAHKHIjGPlVATG8lQC+0UrwIDAQABo4ICVTCCAlEwDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBTQKtk7oeVILnaOW5qp7VkUY/OuVjAfBgNVHSMEGDAW
+gBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUH
+MAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3Iz
+LmkubGVuY3Iub3JnLzAlBgNVHREEHjAcghpzZWN1cmUub2xkc2Nob29sLmNvbS0x
+NC5ydTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsG
+AQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkC
+BAIEgfUEgfIA8AB1AFzcQ5L+5qtFRLFemtRW5hA3+9X6R9yhc5SyXub2xw7KAAAB
+ea5FCLgAAAQDAEYwRAIgPr9hsa5qwe2I1Bacjwz3l6471NsEmd7nl0oXBFRLuugC
+ICIOfOfas+nHlWaZYMS3Xa+hCBBuluxMzWYupGXIbbJUAHcAfT7y+I//iFVoJMLA
+yp5SiXkrxQ54CX8uapdomX4i8NcAAAF5rkUI7wAABAMASDBGAiEAjXkn93OhKGKW
+pcfpvaD0V2GEyB2FWX1YvwpXVsb9urwCIQCQ2aUVP7QM6n2tPawjluTouFcguj21
+Y1iQTAYCF3FYqjANBgkqhkiG9w0BAQsFAAOCAQEABzANWytf/hRW7po0jIsU8fg4
+ZuhIH6n6Yox2U+m8E5BFH5QuDml3udeHZyPzSMGYmAF+oPPjMcKPif9LcZi+tH0i
+wb1ENqMMl2AblbFuDGo55adg8GkM4vn5tb8K5tudZkivGPEryZgn9MKTK2JWOSL2
+FpM3EADtY0AKxbPb2LM018oNLeVItB+x4uwPjis/UfY7jHjWYOtK9vxsVpx1gRcH
+BtkWSZo7xXap4B6A0g0MieDhrJcnUJW35lSDx+fmHsSPdbZXAnGEd9hiYJSZZbhh
+hhtx+ydPb9vZ/ZSKBEOxcORgN+GGnFVa1U19h/AdQjnbIgy8XW3oHk4xRtGeVg==
+-----END CERTIFICATE-----
+subject=CN = secure.oldschool.com-14.ru
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4756 bytes and written 454 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 63A7AFED486A2296CE361F05638D1AD137F92B3C84FEB7DD755A6A64B0707AC8
+    Session-ID-ctx: 
+    Master-Key: CD26912597DFB3931118C720EECBDF5A3505DBD36B111E620C387BB3D36239456C153F8134A830FC280112E303FE6E5B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 8c eb 6d c0 33 02 ef 46-01 c3 2d d6 3a 79 8a 95   ..m.3..F..-.:y..
+    0010 - 71 5b 5a b0 cf 1f 0a a0-af 2a 76 57 a7 cd e9 3f   q[Z......*vW...?
+    0020 - 7d c7 75 76 51 29 3a 0f-68 43 66 cb c8 14 d2 47   }.uvQ):.hCf....G
+    0030 - 25 24 9e 4b 95 f6 d3 e7-17 d8 2c ab c3 d4 39 25   %$.K......,...9%
+    0040 - 5a c6 1a ac 93 b7 aa ef-bb ae 64 a8 00 2e 16 ba   Z.........d.....
+    0050 - 14 95 4c f8 f2 92 df 32-4f 0d 5b 8c d7 74 ed e2   ..L....2O.[..t..
+    0060 - 3f 8d 2b 86 70 57 52 32-ad e1 ff c5 c1 ce 6c 73   ?.+.pWR2......ls
+    0070 - 7b 8c 5a e3 72 4a 1e d6-f3 d3 33 f1 ea 28 ef 0b   {.Z.rJ....3..(..
+    0080 - d4 c6 e2 1e 00 d9 81 f1-79 ec 89 fc 00 e0 e0 51   ........y......Q
+    0090 - 8e 58 15 e1 6b 94 a4 c8-84 5c 5a d8 cc 39 e9 9a   .X..k....\Z..9..
+    00a0 - c6 f8 4e 2f b3 9d aa 1e-15 57 c8 49 f2 0f af b6   ..N/.....W.I....
+    00b0 - 1a a8 30 50 21 e9 7e 3c-2e 47 5a 41 bc 8c c2 07   ..0P!.~<.GZA....
+    00c0 - d6 f7 dc ed f1 6b 2e 88-95 6c 35 01 5b 6f bf af   .....k...l5.[o..
+    00d0 - b7 e5 fa e6 e5 a6 09 2a-94 ab fd 6d 1a 60 53 a0   .......*...m.`S.
+
+    Start Time: 1626305696
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

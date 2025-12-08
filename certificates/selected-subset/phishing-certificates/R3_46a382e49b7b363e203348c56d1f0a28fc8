@@ -1,0 +1,75 @@
+https://amexonlinelogin.hficenter.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amexonlinelogin.hficenter.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFQTCCBCmgAwIBAgISBGo4Lkm3s2PiAzSMVtHwoo/IMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MzAwOTExMTdaFw0yMTEyMjkwOTExMTZaMCgxJjAkBgNVBAMT
+HWFtZXhvbmxpbmVsb2dpbi5oZmljZW50ZXIuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA2zptFDOqYDsF7cK4WI50a7I7KVziCuHrc8LYXaSOVXQU
+K3mUZJz3ZWr86Z4ycIqVkBpdJHfwqWOWzFdopU5eJEz4HZJeoTHSzzehGUMlPd25
+/Oz93f86aYptyRIfp2Ez27txZ4ndyVz+EkgUvQsH255He2JiDc6wPGHm0AjHHIdM
+77OLIOgTV3oKlggSFOeDgDhjj9Ay8SgmEZW0CVgfzhFK1cOplOhAp/s9bSK1Pds2
+uB9ZWxDn/HHhOFyq8jP+Coaqv2ga8qrONiQzrVfLhYy4mLAsG3jFt+Qy8MIXnlPh
+odN0AgkN+qNI4XGFhssgFdqsG8+pdgH8DkmQMHozXwIDAQABo4ICWTCCAlUwDgYD
+VR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNV
+HRMBAf8EAjAAMB0GA1UdDgQWBBQoq8UAO3njq0WT/XZaYq3xybRUZDAfBgNVHSME
+GDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYB
+BQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDov
+L3IzLmkubGVuY3Iub3JnLzAoBgNVHREEITAfgh1hbWV4b25saW5lbG9naW4uaGZp
+Y2VudGVyLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisG
+AQQB1nkCBAIEgfYEgfMA8QB3AFzcQ5L+5qtFRLFemtRW5hA3+9X6R9yhc5SyXub2
+xw7KAAABfDYv1uUAAAQDAEgwRgIhAK2gee/SI/sw5vBrBH5O7C8s8i6XLYx8biSc
+k3jjOHdjAiEArU72b4xWWzgh2lOhS5vDBNOiT2HVaSfgOVksIZR9we0AdgD2XJQv
+0XcwIhRUGAgwlFaO400TGTO/3wwvIAvMTvFk4wAAAXw2L9bSAAAEAwBHMEUCIQDN
+r4bamvXmqOSEejtqUS/i+v7b4oJ4rPGO+7QzxqbkjAIgWnAwkkYuqfpuIKavYKn6
+DYduZyP21gJAkZ51Itre0JowDQYJKoZIhvcNAQELBQADggEBAAPCXATXL6JnB7oO
+LjSx84vUI1ce/rZf5j0To9loHjnBhBZrrBYlotA/zc6W7tMxeGuHeAmBFUGj5957
+YIQb7TiCW9s+Bgk3oMjPRReeVu+iaPrCok2/kSoF7PI0+xDna8Xs3XQR4sGTqhp7
+Kz9l/upQRPZoyw0aXdNdAau6x6XX3PhwOuYTY+SCkm3kJ+nx3lFunOoOeEus79Z+
+4ksBmSzWyBT6U3YEAnrjCLskKLHeQt+ujTBtgN1xEZHwDRKXGELLkLT01Hy6AKfg
+BLhAt9MMCUIsIZiED97VcLmwXSXiBq4TZ8K51xge+Q4e2XeQpN+OkNXFyv0K7rdC
+3qKdC98=
+-----END CERTIFICATE-----
+subject=CN = amexonlinelogin.hficenter.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-384, 384 bits
+---
+SSL handshake has read 3182 bytes and written 481 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: E02C0000A688B3F21F77237775B89C7B544B3F0D9E9470AC9AE65EF4D05B12CC
+    Session-ID-ctx: 
+    Master-Key: 2131F0DB0D806DC9AB5091268529F1C74A3FA2CB489F6257895E24B94EA7348B3CF8DA56D562DC2202008562AE03CD74
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1633059870
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

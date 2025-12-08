@@ -1,0 +1,62 @@
+https://magazineluizaonline.com/KAIsnudnuanadad54da/index.php?o-de-panelas-tramontina-antiaderente-de-aluminio-vermelho-8-pecas-turim-20298-719/p/144131100/ud/panl/&amp;id=2
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = sni.cloudflaressl.com
+   i:C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = CloudFlare Inc ECC CA-2
+ 1 s:C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = CloudFlare Inc ECC CA-2
+   i:C = IE, O = Baltimore, OU = CyberTrust, CN = Baltimore CyberTrust Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIE+TCCBKCgAwIBAgIQCr1k98x+OH1TGOYYeAHyHTAKBggqhkjOPQQDAjBvMQsw
+CQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDVNhbiBGcmFuY2lzY28x
+GTAXBgNVBAoTEENsb3VkRmxhcmUsIEluYy4xIDAeBgNVBAMTF0Nsb3VkRmxhcmUg
+SW5jIEVDQyBDQS0yMB4XDTE5MDcxODAwMDAwMFoXDTIwMDcxNzEyMDAwMFowbTEL
+MAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1TYW4gRnJhbmNpc2Nv
+MRkwFwYDVQQKExBDbG91ZEZsYXJlLCBJbmMuMR4wHAYDVQQDExVzbmkuY2xvdWRm
+bGFyZXNzbC5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASJgbrFI3ZeIKAF
+y40RIE5P0tsiI283peTqn9gZ0XmxFsN2pEsIOPT1LxNLxVY2bWfV5Bwp3UIpbVdm
+OJlDh+sSo4IDHjCCAxowHwYDVR0jBBgwFoAUPnQtH89FdQR+P8Cihz5MQ4NRE8Yw
+HQYDVR0OBBYEFL/5swNGzReqLTYV0rYJAch3ZJ9NMFQGA1UdEQRNMEuCGSoubWFn
+YXppbmVsdWl6YW9ubGluZS5jb22CF21hZ2F6aW5lbHVpemFvbmxpbmUuY29tghVz
+bmkuY2xvdWRmbGFyZXNzbC5jb20wDgYDVR0PAQH/BAQDAgeAMB0GA1UdJQQWMBQG
+CCsGAQUFBwMBBggrBgEFBQcDAjB5BgNVHR8EcjBwMDagNKAyhjBodHRwOi8vY3Js
+My5kaWdpY2VydC5jb20vQ2xvdWRGbGFyZUluY0VDQ0NBMi5jcmwwNqA0oDKGMGh0
+dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9DbG91ZEZsYXJlSW5jRUNDQ0EyLmNybDBM
+BgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3
+dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjB2BggrBgEFBQcBAQRqMGgwJAYI
+KwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBABggrBgEFBQcwAoY0
+aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0Nsb3VkRmxhcmVJbmNFQ0NDQS0y
+LmNydDAMBgNVHRMBAf8EAjAAMIIBAgYKKwYBBAHWeQIEAgSB8wSB8ADuAHUA7ku9
+t3XOYLrhQmkfq+GeZqMPfl+wctiDAMR7iXqo/csAAAFsAmXOGAAABAMARjBEAiA/
+Qe5s5/d8pyMA6FCXdFI5jZBNhANszm1jypziz/tAsQIgXL1CzETJkNWrjV+ZCa1Y
+MKg1hYyOoziYDO5XHJGK4McAdQBep3P531bA57U2SH3QSeAyepGaDIShEhKEGHWW
+gXFFWAAAAWwCZc1nAAAEAwBGMEQCIAjHdraGuzfUvcRV9XkdyCiB+KaKufygj8iw
+Vc4VRzIkAiBh1Yv/cw4n7Zskm1/JFreONLTXPbD43+g0583+rexHOjAKBggqhkjO
+PQQDAgNHADBEAiBgp/0OojBry5eqApJRFmxPqCK7rW7GxW/D7F3/aJfkuAIgWlzT
+TECLotSrtrHG33QZkTOtGCnG0QbqdfeFsuU3Gcw=
+-----END CERTIFICATE-----
+subject=C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = sni.cloudflaressl.com
+
+issuer=C = US, ST = CA, L = San Francisco, O = "CloudFlare, Inc.", CN = CloudFlare Inc ECC CA-2
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2523 bytes and written 415 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

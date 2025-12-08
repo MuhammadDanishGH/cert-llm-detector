@@ -1,0 +1,95 @@
+http://viviendoeninspiracion.com/wp-includes/Requests/Exception/HTTP/login.php?cmd=login_submit
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = viviendoeninspiracion.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGDDCCBPSgAwIBAgISBLng7kqgmKWD+iWVw2jZ7jtgMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MTMwNzA0MzdaFw0x
+OTA4MTEwNzA0MzdaMCQxIjAgBgNVBAMTGXZpdmllbmRvZW5pbnNwaXJhY2lvbi5j
+b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDGKI5Sp688DUTrfGrX
+G3BxD5nExpie6QlLhn1XtX9lkLS+wKQUYoe2Sy9NZtx/+FwjjNoa4Y8HqvWNvJSQ
+DENI6b5evrgCfJfh5ILcyJAtn6rFGE4vkzEVPtNxdzA0l6zGnvC8uL3l/J57WGeQ
+2dqNB9bn+uE6xOPinNc9sIaqBMyHhd7MJx/LTYmFj4rclnq+7wzijV1mb0kcoaQZ
+uO3QoKBrQhl3kXHlm4VZRPV7rWnFrV61YhCzEWgnKTrfhV0F/ARtah7CT6f+Q26X
+5MgZhlIhxzietsKHh4rD+SP28VYM3ifgSA9TV5RMV6QZstCgotjNd+BGW3wkWS6I
+y7eJAgMBAAGjggMQMIIDDDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFHXCvHQLr4JM
+p0a9rgCDUHShY7qPMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8G
+CCsGAQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxl
+dHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxl
+dHNlbmNyeXB0Lm9yZy8wgcMGA1UdEQSBuzCBuIIebWFpbC52aXZpZW5kb2VuaW5z
+cGlyYWNpb24uY29tghl2aXZpZW5kb2VuaW5zcGlyYWNpb24uY29tgit2aXZpZW5k
+b2VuaW5zcGlyYWNpb24uZW5wYXp5ZmVsaXpjb25saXouY29tgh13d3cudml2aWVu
+ZG9lbmluc3BpcmFjaW9uLmNvbYIvd3d3LnZpdmllbmRvZW5pbnNwaXJhY2lvbi5l
+bnBhenlmZWxpemNvbmxpei5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYB
+BAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5v
+cmcwggEGBgorBgEEAdZ5AgQCBIH3BIH0APIAdwDiaUuuJujpQAnohhu2O4PUPuf+
+dIj7pI8okwGd3fHb/gAAAWqwONtdAAAEAwBIMEYCIQDX0q/TRAq5zp68nX9YcRH2
+BI6fmlRimbSvYjSClrPOdgIhAOcRcQMARX50reS7TiEMve97Gktf0vzFTwVVhT7O
+3uaMAHcAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFqsDjbSgAA
+BAMASDBGAiEApMhb2tCpDj6z4EnFHvy8rzFXmvvn9/ZFx9HJvunpD1wCIQC3nI6f
+pE8ZfnLxAZOpjXvM+dZqmYkfMqd8S4H8IFzRjjANBgkqhkiG9w0BAQsFAAOCAQEA
+Yzz6WokjdMYBVWikr7xHgo9IZqDIBSTCW0zpaDDwT0CPARQpAmpFtwpJnyNXzH1g
+xPZOA9y4vYfcoAInHu81RKSZmJl3b+8lxU9GB6Fq/YkHOh87BW05vtuPfwzDrZUt
+sK3qY4sTgVeibmiOtWh/rJac3x2dl6C0l51GvX72mfWIxUyLCavs+AM3874RfhCn
+ln8xNB4pw6pShRwQRj8tIeE8+b2U0B2/B+hUPT1DDYD66LgVBWo6oU8KzDnF981c
+fmsQaYVpV5cfchfufWsEqRT26Qf0/dyNa6RTijLLxccPu7BZzoe464XloUscbXZ6
+9l57n02ieMz+Z56Xen3KKg==
+-----END CERTIFICATE-----
+subject=CN = viviendoeninspiracion.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3406 bytes and written 430 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: E157ED644E8E8EA048B758ED0EAAB4906A0B0E0E9632DE23F7B312D18B80A796
+    Session-ID-ctx: 
+    Master-Key: ABE0D4F504F797EA7846809E0BC7A3827DCF2E5BF3CFA10428A487156B67633224C2D285BB9EA75F1DE76AEFCAA3F74D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 6d ab 33 08 92 97 2e cf-c1 8a ad 33 bc 95 5e f5   m.3........3..^.
+    0010 - d5 dc c8 aa f9 38 9b 89-79 41 89 19 8e 39 50 34   .....8..yA...9P4
+    0020 - 01 52 c5 73 8a 20 9e 08-95 33 23 71 06 e5 be 51   .R.s. ...3#q...Q
+    0030 - 68 52 cc c8 7a 00 93 10-e8 20 d9 ef 67 0f b1 54   hR..z.... ..g..T
+    0040 - aa 15 5f b4 ef a9 01 9b-d5 ee b4 65 59 c3 f8 3e   .._........eY..>
+    0050 - d3 17 22 8a af 91 73 22-cb 3b c4 79 3c 4e b5 17   .."...s".;.y<N..
+    0060 - c9 f0 c6 ac e5 10 88 22-78 1a 99 48 e9 5c 39 56   ......."x..H.\9V
+    0070 - bc da cf ef 81 0a 60 1c-e7 30 2a 13 d3 1d 11 cb   ......`..0*.....
+    0080 - 5e 8f c2 aa 70 b5 ad 1b-82 91 84 45 72 5d 7a df   ^...p......Er]z.
+    0090 - 45 3b 35 e2 a2 2d b9 5f-1b dc a1 20 39 52 3a 76   E;5..-._... 9R:v
+    00a0 - 13 1f c1 07 56 6a 9c 8d-53 44 89 64 c7 66 7e 3d   ....Vj..SD.d.f~=
+    00b0 - cf 61 a2 04 bc 2a b5 1d-e5 64 de b2 d9 11 91 1d   .a...*...d......
+    00c0 - 9b 48 a3 a4 64 1a 2c 89-ff c7 76 ac db de 02 e6   .H..d.,...v.....
+
+    Start Time: 1558098062
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

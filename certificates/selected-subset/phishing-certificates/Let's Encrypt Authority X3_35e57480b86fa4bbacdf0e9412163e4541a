@@ -1,0 +1,94 @@
+https://www.adblegal.in/wp-includes/widgets/er/DHL REVENGE BY ALIBOBO/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = adblegal.apnaghar.online
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGEDCCBPigAwIBAgISA15XSAuG+ku6zfDpQSFj5FQaMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MTExNTEzMDJaFw0x
+OTA4MDkxNTEzMDJaMCMxITAfBgNVBAMTGGFkYmxlZ2FsLmFwbmFnaGFyLm9ubGlu
+ZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM2O1z5Ij0P8ZJ3Skkpm
+gVpCknSCtXUfN9rxBhShFEliFaM0ZsPr10gP+AQRCvvkQBVtiYTlpSxrNUhm3+NO
+T4WpqvYYprGUxdnkPFkOy83HGYcqDu8CzrXbDQKxWZOZHwVQolO+gZVpqs/xrMNt
+oD+vSSk4beS/c9p1pcZRXnklbMBKzxXeO6ZBKh0OpngfPu0r309SsoXKQfY148ut
+X7Fa17b6Mr+lwSn251k1EqnmUtKixBmcDr9znm4DAU+jpIBnIlvrNECI2UkMHQ5n
+4k2AZSOHaafKbGQPttD+/rRyhilND0y3W6wOEwqR0K6FbtXYWKXc7k6BsgVbUsOU
+RP0CAwEAAaOCAxUwggMRMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEF
+BQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUWOfDsORx6MQJ
+MKSpg+q5LcDN/zgwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYI
+KwYBBQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0
+c2VuY3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0
+c2VuY3J5cHQub3JnLzCBywYDVR0RBIHDMIHAghhhZGJsZWdhbC5hcG5hZ2hhci5v
+bmxpbmWCC2FkYmxlZ2FsLmlughhhdXRvZGlzY292ZXIuYWRibGVnYWwuaW6CEmNw
+YW5lbC5hZGJsZWdhbC5pboIQbWFpbC5hZGJsZWdhbC5pboITd2ViZGlzay5hZGJs
+ZWdhbC5pboITd2VibWFpbC5hZGJsZWdhbC5pboIcd3d3LmFkYmxlZ2FsLmFwbmFn
+aGFyLm9ubGluZYIPd3d3LmFkYmxlZ2FsLmluMEwGA1UdIARFMEMwCAYGZ4EMAQIB
+MDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2Vu
+Y3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHYA4mlLribo6UAJ6IYb
+tjuD1D7n/nSI+6SPKJMBnd3x2/4AAAFqp6tNoQAABAMARzBFAiEA71qeM/DxLRaw
+l95/grlOJC2+TcQYjF87kfcw6AACrj8CIE4tZXd33wK3gT39SGm6K/ak9MHyCtCS
+00Ifkqq1qvEyAHUAKTxRllTIOWW6qlD8WAfUt2+/WHopctykwwz05UVH9HgAAAFq
+p6tNygAABAMARjBEAiBO0zb3L7X9h1tspAnU8/7+aqv7BBI/fJkM5TTBMyGyigIg
+JfrUYQOb+eQBwDakdTfCdP3WAUPk+GGnHX/TeP7is70wDQYJKoZIhvcNAQELBQAD
+ggEBAHd3rea2is/SOmrxhJsd5VzxnHUjk2CLWv436qZEwkUNZo6xGAUj+eoHH3eK
+/iERVKH1LWR7KjO9ILqW5AIANs+xn3B2mXuR+Ks8eonVFBUBO/a/hoM60U/8cyI+
+RlTFUE1LqiNAHc8u4cvksSiOpco4MPVbZutFupLbFMrL7BnHCp2LLQ9uVsNmmDaZ
+zM+IZFXm2ZcRE6E1CnJ4YwHDrkVgP9/H8mluSj7lpKNmzcK7Ik4r7NCfQbbxWAWH
+K/rXb23mkHzQeLSkY4C7dCDLMtj8LXFDzg5ga7vAVaXSPD4xiA0n+pEddVss8xLJ
+1jep5ev49LVKP3LocJHxRKesKmc=
+-----END CERTIFICATE-----
+subject=CN = adblegal.apnaghar.online
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3394 bytes and written 420 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 09D5C5C5AA94A57F55D695C0C1E35043956337E69B947EA9D0661A26E6EAC550
+    Session-ID-ctx: 
+    Master-Key: E3800E4A88311775CEA55DE93AA394503F3D8A24947D7605D255A9C4F3EBFB1216D369602E754FBAFF02B19AE5B6AA17
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 10 ca 6d f2 4a bb 92 0d-ef 6f 5a 6a c9 7b 5c ae   ..m.J....oZj.{\.
+    0010 - cd 4a dd d4 92 61 a7 ff-2a 9b d4 47 0f 9e 88 99   .J...a..*..G....
+    0020 - d7 c8 83 5a 14 4d 06 e5-69 a5 95 7c f7 ca 0f 22   ...Z.M..i..|..."
+    0030 - a4 87 41 f8 95 4d a2 56-9f 69 03 9e 62 23 bb c7   ..A..M.V.i..b#..
+    0040 - 6d ae 9d fb 97 0f e2 7b-f0 2b 93 59 82 f1 89 c3   m......{.+.Y....
+    0050 - 55 9a c2 7c 03 50 c6 4b-60 bb a0 54 f4 12 87 25   U..|.P.K`..T...%
+    0060 - 8f b3 8e 00 83 17 2c c3-13 b1 34 1b 94 6d 9c 5c   ......,...4..m.\
+    0070 - b4 36 93 83 da 10 dd 22-b6 0b 2d fb 24 7f f2 3e   .6....."..-.$..>
+    0080 - 8b c4 dd f1 b9 d3 ad 99-4c c8 50 0f ea a9 36 98   ........L.P...6.
+    0090 - e2 40 85 32 f2 3c dd 4d-9e 50 7c 36 d9 bf 98 5f   .@.2.<.M.P|6..._
+    00a0 - f4 79 4b b2 ae c4 dc 68-5c 70 33 15 5b 08 63 af   .yK....h\p3.[.c.
+    00b0 - ce 16 50 9d 8d fd 03 37-7b ac 57 fc 2d da 1b d7   ..P....7{.W.-...
+
+    Start Time: 1558789230
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

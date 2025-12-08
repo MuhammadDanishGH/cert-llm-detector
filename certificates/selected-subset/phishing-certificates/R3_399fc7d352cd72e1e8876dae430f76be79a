@@ -1,0 +1,65 @@
+https://amazon.tjluck.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amazon.tjluck.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFJzCCBA+gAwIBAgISA5n8fTUs1y4eiHba5DD3a+eaMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTYxOTE3MjBaFw0yMjA1MTcxOTE3MTlaMBwxGjAYBgNVBAMT
+EWFtYXpvbi50amx1Y2suY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAn7fbvm3a3r0tRSsmekvFMIlMM3HLpJ8uNsbocH7lB0GAivJWXvi7IoheWYjT
+FxJhfYmA/C5KUf9H6GLTeZkzRXj8MyXUERMReNFbK+iCxnb8CdvSdNz5aNIvBVmB
+0J6jRMjGuKTUGzZQfmobn/OiaFHasVBg0ATDK2xiTFxIB6QWjRFKhBvMH40IsZjO
+trOj9w7mbEuocpUjFNnmI9T/ef6KHWMxhP5700CxrvAH/cyqeDXblYKpJmVfihzN
+Rq/J+J3FMjYpNaRlqQqkjIvx0KDbYWgS65zJ2aXJKW5tfbXd0dtQ6Tgj91ChUZKM
+/nbELu6bcROBlncsglOl/krRZwIDAQABo4ICSzCCAkcwDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBQEuM2S73TdGVimYTNP/Q23bEem8zAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzAcBgNVHREEFTATghFhbWF6b24udGpsdWNrLmNvbTBMBgNVHSAERTBDMAgG
+BmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3Bz
+LmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1AEalVet1
++pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfwQuqFAAAAQDAEYwRAIgRhbR
+Me1ce4rs6TG32ku9Q4OEfKkHQm7N71vDYanMzfsCICjPxyY3QZoiW6q3nlV2EabO
+TQnRuX228Un5B0DvLT0BAHYA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERc
+KnMAAAF/BC6qHgAABAMARzBFAiBoaDJZr62GtrJUv+73M7EuzviWWPe+5sh72H71
+VTyItQIhAMgXPAqEoaw2vSlVd/iMOC3KlpgRp2keOibC/xdTXNc3MA0GCSqGSIb3
+DQEBCwUAA4IBAQBsQ+KQt32xzHdkW4IwGUdBMowkIWbEHgGuuuIS0iG9jmJcbh4m
+I1l/ASk5oA42UCr+1q1SzG4J73fkCrv8om3G/YYsDmi/5TiKH6Y93ME36L5qcATY
+fHVV+xbPHmFXdW+iTyObo5pTxye9mh58ZOjGw2Z2EqDRrc/UiAcsr4bvzRvIUS3w
+HNUkA8nkaRudia5BafiQzTQdshoncuGGct1cbsEedgh+Yt/mffJaZf4LgRF9aLyo
+HynlCIDuhhK4XV6kOCv6f78P09hXJXSt+5ysjILp3S0DBO3mPeckXG4HYRTVwz1O
+Z5ryWJrdxH3dG9Ji0TPIEuIj19NRHe7rfUGa
+-----END CERTIFICATE-----
+subject=CN = amazon.tjluck.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4579 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,96 @@
+https://resolution-centers-neededticketsid-pyplservice.wishkuat.com/signin/?country.x=GB&amp;returnKey=Mzc2Mjc5NDA1OTAxZGJlYmE1NWUzZjA3YjA0OWQ4Y2QyZTQ4YzU1MA%3D%3D
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = resolution-centers-neededticketsid-pyplservice.wishkuat.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFrjCCBJagAwIBAgISBHiBLzKZIBOcD9hXNHR0j6DLMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MTUwNjE5NTJaFw0x
+OTA5MTMwNjE5NTJaMEYxRDBCBgNVBAMTO3Jlc29sdXRpb24tY2VudGVycy1uZWVk
+ZWR0aWNrZXRzaWQtcHlwbHNlcnZpY2Uud2lzaGt1YXQuY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4mug2mGrZXp99h9cmPneINv4H5V28Tg+zxt/
+azu0HrdfLvlsc/VXPflD+IOqW5ka8mG1knRs81y0kSjJ2qijMbC0yZFmjRfufVaD
+4so1zZZmJLpnWOaVmhvAY1NY0Bfa7xUowsvt7CbYALFMnsml/Z2q0z3NxoXAIQ3f
+lWvRObADXekOb9vspHnT6OTrRk6oY8RlTPPip0vgTZZPuCVhapUVw+YecD4EEEEV
+mQgJUEJKn57w+W6HaV409BASFLVClOctsw4j8xL1u2GtWuLTZW/DS1xstP+H26+O
+s+hawG8AQs5/ayhX1i3ptQpfgjSaNaTVHd06PCi+J3Fg66yKawIDAQABo4ICkDCC
+AowwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTyta5LRwDww4o0a7uRWZfJhpBA/DAf
+BgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRjMGEw
+LgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5vcmcw
+LwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5vcmcv
+MEYGA1UdEQQ/MD2CO3Jlc29sdXRpb24tY2VudGVycy1uZWVkZWR0aWNrZXRzaWQt
+cHlwbHNlcnZpY2Uud2lzaGt1YXQuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcG
+CysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5
+cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHUA4mlLribo6UAJ6IYbtjuD
+1D7n/nSI+6SPKJMBnd3x2/4AAAFrWgG+AQAABAMARjBEAiAqdeJCtzIB5cS4pFoa
+lmfAV7Ws+D9uL+z1+Oz8hN/KbAIgfaVW+3YI8YMMKKIbXp27LWVm5Y9ZRCRnJhBg
+t6yA2fsAdwApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAWtaAb3z
+AAAEAwBIMEYCIQCj99ewSRGlLq41Ccxt2Wk/X46JLeXp0VmfklnzZ2ZGMQIhALTh
+ynk1i8seBZ/A1yJ4cqx7mlQ9hxFPg/IRcmPmSH9hMA0GCSqGSIb3DQEBCwUAA4IB
+AQB1FRnEgMA2A7WNNNdU+vpHZTORKuPIkkoBJfPQhzI654BKINdWk98EZ4YrtOZp
+RV/7qmrwLvWyKTj3i2vvbcLUNw4OIDMWvhGiyFDqXIFLUb45kTAbYeDu0rO3FfQj
+M4RTdpuT7gcYs/D3r2s+ZsD8+Hs3Db8JG1JUTe/NY/s2+DKBvp4XLW2U3g9ccXc9
+2+OtukHg+3UnKojbOAwOqkUq1yaVVRL7l9/PZ/GPPX1h1NQUZg0xxypAhKVCkGXA
+/lcXeYE550EqAAA5HMliZIzQtzG+U/xjK32Rr0jv/I00wc+YB0BbkQz72RPHaWSv
+volNDMFVpnBkOEzxez+r7oo4
+-----END CERTIFICATE-----
+subject=CN = resolution-centers-neededticketsid-pyplservice.wishkuat.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3389 bytes and written 497 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 98FDB344DE68E682C27738C60327B8FFF1FDDF999D7EAF95410B528A4F834F83
+    Session-ID-ctx: 
+    Master-Key: 9BF389A075AD499FFEBC992F63B9880B27DFFFB6D973ADF89280C5C622CC7C35373D65016E5D10F8EBBC6F4CF6E96816
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - aa 15 fe 38 92 b9 35 b3-26 58 51 f4 42 a4 40 58   ...8..5.&XQ.B.@X
+    0010 - 5f fb 94 d2 8f 2f d9 20-46 57 88 f9 78 e4 07 7c   _..../. FW..x..|
+    0020 - a2 c8 d4 32 39 4f 58 aa-0a 55 79 81 b8 90 82 98   ...29OX..Uy.....
+    0030 - fb c9 a6 c0 d2 26 51 9a-98 d1 af 3c a6 4d 6f d2   .....&Q....<.Mo.
+    0040 - 36 d1 72 b7 d6 f2 11 9b-f2 20 41 bb a5 e8 8d ec   6.r...... A.....
+    0050 - e5 1d da 6d ab 20 d7 d6-6e 18 ec 86 52 1e e4 89   ...m. ..n...R...
+    0060 - 04 31 46 75 39 c5 dc f8-e1 8d 45 c3 47 c9 ad 04   .1Fu9.....E.G...
+    0070 - b3 49 49 b8 0a b2 ff ae-b3 ec 9e 88 ce f6 db 77   .II............w
+    0080 - 59 8e ae 7b 1a d1 f6 b2-40 30 14 21 c0 c8 4f f6   Y..{....@0.!..O.
+    0090 - c4 8b 70 e4 da fd 30 d3-07 28 21 f9 5c 1a f0 5f   ..p...0..(!.\.._
+    00a0 - 17 5c 09 78 63 ea 8b 96-0f ed ee 43 36 5f 52 47   .\.xc......C6_RG
+    00b0 - 74 30 ef c3 74 80 3b 33-06 a6 4b 09 e4 9c ae 00   t0..t.;3..K.....
+    00c0 - 5a 06 a6 ff 1c ab 32 d3-88 56 d8 3a b0 4f 33 7c   Z.....2..V.:.O3|
+    00d0 - 11 2a 5e 39 7d 0a 50 20-08 08 a4 b2 ba 75 62 f6   .*^9}.P .....ub.
+    00e0 - 5c 81 e4 62 71 05 ab ce-32 ee 4e 8e b8 e0 f9 ae   \..bq...2.N.....
+    00f0 - 74 f5 a3 c3 38 59 8a 2a-17 6c 79 83 56 f2 72 4b   t...8Y.*.ly.V.rK
+
+    Start Time: 1560690022
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

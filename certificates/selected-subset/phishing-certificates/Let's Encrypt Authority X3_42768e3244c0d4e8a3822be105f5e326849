@@ -1,0 +1,76 @@
+http://fucinadelcodice.it/Source/lolpy/signin/Security/myaccount/signin/?country.x=DE&amp;locale.x=en_DE
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = fucinadelcodice.it
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdTCCBF2gAwIBAgISBCdo4yRMDU6KOCK+EF9eMmhJMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xODEyMjkxNDAxNTZaFw0x
+OTAzMjkxNDAxNTZaMB0xGzAZBgNVBAMTEmZ1Y2luYWRlbGNvZGljZS5pdDCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM4J6UMOIHMi5141I2n2bxpyJBjK
++CT0A2UCHLwVeexTteJUUTYXiDyVDNmPtFR3Ddrkbs56ADgJQRip9eQc+2/Jf+VR
+xJ5y9gB7ACq4KzEGMG2OPb6AoOwUhPufWp3KkSFAuDMopnV/YbZYvhgvGlQBY1Fk
+cHcAoymPpZi5soi9evBETKWMuVGGfEb0RX0iDkr8ekyTlOloX5dq9Vj6zeP4R+NX
+n9Anntt1T/GdD2uSqZW+eDzhHZukUfPIPWU550eFZS9BjHE6z6aqijIg+IH5wA5z
+Uo8RLU+jIwSeJpmRtCm6IwgQ1WHe9+2IEnPin9obOYDsaqY+pjY9RKz2UcECAwEA
+AaOCAoAwggJ8MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYI
+KwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUzhCHzMZzLTvRoiKfkpdU
+GtU4KocwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUH
+AQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5
+cHQub3JnLzA1BgNVHREELjAsghJmdWNpbmFkZWxjb2RpY2UuaXSCFnd3dy5mdWNp
+bmFkZWxjb2RpY2UuaXQwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMB
+AQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEF
+BgorBgEEAdZ5AgQCBIH2BIHzAPEAdwB0ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3
+NXnmEHvMVgAAAWf6fGffAAAEAwBIMEYCIQDuvXbJP1nDO2qyUkifodC3zD4egJ78
+udqltwCdrz9towIhAMxTl7bDguTVfF/0+Cx5qY5K1lycWtaGYTL0G4v/m8AfAHYA
+Y/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFn+nxn4wAABAMARzBF
+AiA7kMWWExP8zncJBS/DDnhR2E5UNZWMZSk9t66INvX/rwIhAJfxLvonTOpG7R1x
+3yXv8zbW4yOYY9pbff13oYVngCKiMA0GCSqGSIb3DQEBCwUAA4IBAQBrGmxEWpjB
+QgZQ2DA6A8uvDX8/1GLC2bvx3/jYi3iB7vXPQyT4eZz6yevMMenB6z0NyUN41lQD
+Y0nZGum5yFanRXjTpnIJ0IDW8LM4NVYVqjLYNqr3G+dlKZ0oNuSnMByhV7sSi0Hx
+VpPHajzoHkOMilX9vKQfJPi/CKPGHBRYthmXUEiTU+4pKHzbbEvfWKaVUyINb4jx
+URLid+YvNjwsmTaH4hVlJgK1+Z7gKxHc377YF9cLAWiLRgQB7W4w1s4OBocMissF
+iPs1thO1rewLgAdsTv2Exn4/4WXd9UD3sdoMessxURMceVcEhEd0o63UqljxN6tm
+yXCk5dp19CKE
+-----END CERTIFICATE-----
+subject=CN = fucinadelcodice.it
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3089 bytes and written 456 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 333B668087CCB535AE847CB0C65F929AE61433CC0E7BF638995F43B3EAC21212
+    Session-ID-ctx: 
+    Master-Key: CE32F9A112456D82242DF19723A8210125DE98103C4C7C76DF9BAB86934C903DF1983836329292AC5D1BC348F1DDDBE5
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1548943238
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

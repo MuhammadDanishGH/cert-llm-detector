@@ -1,0 +1,64 @@
+https://ravinshinebeauty.chipukatz.com/assets/track/usps
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ravinshinebeauty.chipukatz.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFZjCCBE6gAwIBAgISA3FjAzgO+6YudEWjFj9zYqubMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjIwMTMxNTNaFw0yMjAyMjAwMTMxNTJaMCkxJzAlBgNVBAMT
+HnJhdmluc2hpbmViZWF1dHkuY2hpcHVrYXR6LmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAK4g5NyPfe1BZ09zpltGVDojmCCkLHtC8SVQzWZRuyoW
+67VAmOCJpY1iedZiMm9vE4WzR/dRmI/EXER3EfO1BIdajgEMx0qbH9iD8O+pRowX
+5cz+uwbc/2kFVnDOxsuQHwvc02vikcr+339PI3RBF/312lugHLsLj8+mHXmQFI59
+oaX3k/XDkX95kFEW6F9aqDdE+OSAp4PlcoXgf/HEgaEGFmLjY2x7pb8Xy3CpiBcl
+W8ADKwPe1sxKaS2oy72cf/i3ARpEUMTRpY8Sawkhu/Wk/7Yq79oNhnwTiCVi4n+a
+gBant3SqWvghrmZei7uT1RFjgfipzxP1zIe88SWEpLsCAwEAAaOCAn0wggJ5MA4G
+A1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYD
+VR0TAQH/BAIwADAdBgNVHQ4EFgQUKJ+pTg/DobarQXILvIH5sn5aVmgwHwYDVR0j
+BBgwFoAUFC6zF7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsG
+AQUFBzABhhVodHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6
+Ly9yMy5pLmxlbmNyLm9yZy8wTQYDVR0RBEYwRIIecmF2aW5zaGluZWJlYXV0eS5j
+aGlwdWthdHouY29tgiJ3d3cucmF2aW5zaGluZWJlYXV0eS5jaGlwdWthdHouY29t
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB
+9QSB8gDwAHYAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF9RXxM
+6gAABAMARzBFAiBApH8tIEYxxwlXQfrrBlal2jky/3jgljJiXopAGPNvqAIhAKk9
+7Wispdxti3terIPtI9R7FxzI98w114N75aqmp7EwAHYA36Veq2iCTx9sre64X04+
+WurNohKkal6OOxLAIERcKnMAAAF9RXxNGQAABAMARzBFAiA8GRL9jBUXSnh78prt
+Rk3Zr5zwCyYmxDq2ln/JbbdyJAIhALnTc35hx5WhK2isZdteauZafLtp6gUThuuU
+MQLpyjicMA0GCSqGSIb3DQEBCwUAA4IBAQBMyWlbVbZr6KtDSqjKt5AKsIzIiwmw
+OsECUFbU8/xqGmOqLkNhZN8tHzro4v9nyO9Bumq1TraOTAc5gmCMeLpfngSLnVdX
+P7WqQNUbf+LXBpXd42IIRHzN2VTzn84f7gI32D0R+/s27pKHSdirAxgsHRtAaVVB
+8g9QNLuIVeHuF+UYNCuqQGzw3lag4jN7k4p+4K8t5BK3aofW5oe/7oUgVZOlDIKV
+U+1NyH9mOnNFMxoQHdMYIYS9+lNK4AIiC9spApWqE/rMAO687Rn2YWKOTPTp2R6X
+30x1hFO2O2FMYvQkEvpqA6OVuxHCXdvTsBTdPLZFu4tL+PQGonDbGRoo
+-----END CERTIFICATE-----
+subject=CN = ravinshinebeauty.chipukatz.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3257 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

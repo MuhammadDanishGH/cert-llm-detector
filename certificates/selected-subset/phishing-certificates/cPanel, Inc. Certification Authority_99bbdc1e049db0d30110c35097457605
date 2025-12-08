@@ -1,0 +1,72 @@
+http://ccadding.com/shopify/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ccadding.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGbTCCBVWgAwIBAgIRAJm73B4EnbDTARDDUJdFdgUwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMjAxMDYwMDAwMDBaFw0yMjA0MDYyMzU5
+NTlaMBcxFTATBgNVBAMTDGNjYWRkaW5nLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBANzMERLcKnB+PGM6M6RiACWVIBMLK2oxs0n/a2BV2besoi3i
+7CXLYJyAUwlFwoMDBRsWHVYtB1osDNraQCjPYCKlrIfPuOJOleGbfrI2D6GyfBBs
+5+pyBo5dpP7BJUtcDapgX73q0Gf6PS+xhMnLicz0Vil8I2dqFbkWy8Rxq8m1OWjU
+x9Q7HfchQFMot2ZvYCy38J23Nlh3iC6u27U/8TBrQNWNFHceY93tG+zvdUdZ+2YB
+8SSUPb8HkQOaRGSSyvZA4+IYzqTD/BWh3TCOfzyoZS3eChpfrxQXgcSeE4gCHhFf
+YOErrSdJ9cXYCwf9CoRA9SPfrrN+BSa9zqb4WyUCAwEAAaOCA1cwggNTMB8GA1Ud
+IwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBTHneoB6aZ6sh/U
+0CiealTqjbGvIDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNVHSUE
+FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIxAQIC
+NDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZngQwB
+AgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20vY1Bh
+bmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEEcTBv
+MEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJbmND
+ZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDovL29j
+c3AuY29tb2RvY2EuY29tMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcARqVV63X6
+kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF+MBQolwAABAMASDBGAiEA/dmU
+68PdkTbVASJu4STQ5JjkqzottnNfdLQBH3KL25sCIQCe4dALPlpQejgwvE7l2nfg
+OaaxsPtY5b2jHDw3XvtU1AB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBi
+lgb2AAABfjAUKE8AAAQDAEcwRQIgCCUhK0+RB1R/i0iu/0s7HuqsqoGHgTCbc87g
+W3hUR0ACIQCrzPoFklkji9evHPry1fol37KZ6cy2NX/a6458btqMJjCBsgYDVR0R
+BIGqMIGnggxjY2FkZGluZy5jb22CE2NwYW5lbC5jY2FkZGluZy5jb22CGGNwY2Fs
+ZW5kYXJzLmNjYWRkaW5nLmNvbYIXY3Bjb250YWN0cy5jY2FkZGluZy5jb22CEW1h
+aWwuY2NhZGRpbmcuY29tghR3ZWJkaXNrLmNjYWRkaW5nLmNvbYIUd2VibWFpbC5j
+Y2FkZGluZy5jb22CEHd3dy5jY2FkZGluZy5jb20wDQYJKoZIhvcNAQELBQADggEB
+ACwWFA/uP0iH3JiR0Ft15f8RGb4UYjlsCqjvIT/HQjeT1owTakxqZxFr/lWj6Esc
+4TKkLYdWbwP6SoRzK35tklvB8Rx23980G1gE3IfsUfoAHrAsSUMivfAdAx9sEVXX
+KETer10TaLCdXMcGwUxafm004rFthnfdpMyGvA3MlvVbTczvlyvjehg1M6uEq0DY
+Xiq6kB8+nFaAE9GwsFjGhH55+s+nABVZEruLttt85fHILVvJMaP0D2SQAYmnbp88
+F4RuOnQZkZWf9A/V0kP/ADjeTYZ7eHbRT9LB3oyi15Cixwp8T/znpqNAADfIMvFp
+qWY5j2/Jm1B2mGr/WosZWME=
+-----END CERTIFICATE-----
+subject=CN = ccadding.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5154 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,97 @@
+https://www.lesamisdegoulier.fr/wp-includes/BOA/bankofamerica.com/bankofamerica.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = lesamisdegoulier.fr
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGeTCCBWGgAwIBAgISA4HHVGgIeHxC6KjccSJnm/OdMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMTUwNjI5MzFaFw0y
+MDAxMTMwNjI5MzFaMB4xHDAaBgNVBAMTE2xlc2FtaXNkZWdvdWxpZXIuZnIwggIi
+MA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQCvcnIzh2KqbmOjLjKmVxkY59M4
+z4zpzkW05OoAuc2vr2okA5xsYAj3sIxIElAsn2xPsdcvjFp8GNFmyR8CUQ3WNdgU
+pLsdHj2fWirjktY8IMwbZ6sdGJFCFiOKgScEkzSpGLoAsowfe+9Pg8pwwboCOMBm
+D2bGKIeY75lHHM4m68PcSUEuL/zmRSb0RCHTKGBtUacdVbhulsIsLbr10k16Oj6J
+t2vEc658kfHenlmWgJOy9DgK3h7/96BufhBe62Vf+kLQZn8Lj/XdHrIkhJIHST+e
+bBaydjzRIK6VxXzIEKtyuB3xYShmbntzyPTnhY0j53Y2x0QTTZWwwj8av3ywL3M9
+JhyeonxvzPiyS1Buis96TPHWKcFvjZ1XbyGUe90aMF+Lp1sybp2aBAbAMU5Wn2rm
+2BbNF2JlTHLSC4DYlYApuM+g1L/pj/FoE9tXM0BQxwDJo8UtCd6XPDk9Hpv9dyuj
+TmCN4IY9voTe+9I6GOS2h4QHC9cHpyVu6XMpFB7yEKBmBjzdUJhCpNuJHYcSheZ2
+5MdKnKqE9ZCwT/LjXEkJIckd8WO1pQvYcerxIq6ZiBwPmgMxJg776JqDrStQ18Z/
+ivsqcQ4gjWCNPJ3eG5ZQfQoEcm4paWwR+vHAnhekF7m9GnPHYGEZ52UnfCrXgRwC
+H90PClhoByla7MunPQIDAQABo4ICgzCCAn8wDgYDVR0PAQH/BAQDAgWgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQW
+BBR2LSmFh84E1k9FPnNKh8uvSx2ytzAfBgNVHSMEGDAWgBSoSmpjBH3duubRObem
+RWXv86jsoTBvBggrBgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3Nw
+LmludC14My5sZXRzZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0
+LmludC14My5sZXRzZW5jcnlwdC5vcmcvMDcGA1UdEQQwMC6CE2xlc2FtaXNkZWdv
+dWxpZXIuZnKCF3d3dy5sZXNhbWlzZGVnb3VsaWVyLmZyMEwGA1UdIARFMEMwCAYG
+Z4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMu
+bGV0c2VuY3J5cHQub3JnMIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADyAHcAXqdz+d9W
+wOe1Nkh90EngMnqRmgyEoRIShBh1loFxRVgAAAFtzlJrswAABAMASDBGAiEAk50m
+HaKQwGSXvI7dRA74dV9Le1W9OUlC4/ux+K9Wy/oCIQCzF9PRquOxERQ04IEiHVPS
+mvoLiA6RQIfA1xoy/HjpJgB3ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVF
+R/R4AAABbc5Sa60AAAQDAEgwRgIhAMMzGyJD8EPtQBv7E270AVNWJsoYw/DOTDEy
+7ZTKbNXvAiEA6NJnOCsus31SA95sOTjZ0p6P62y9xRtz1xD+KQxpW0YwDQYJKoZI
+hvcNAQELBQADggEBAJuK9XUjxFVCY4KSYdKfWXkqA5Sg+xGP/nRtPOF1z0Dx4Xnf
+qXttYvuHbX3wh4rZOu3bhCB07i/+gkB68WfE6/GOU+YixAj3BW2XWIIdowI4ZcvM
+F08qt1HDKMkxp7rsfUT6zdp4tXek8nba+A906U9bYSHdrpDdJbvxac4G+MjO0/F3
+dZcAVQr4E8ddjVKynMMY1Jt2QKu7YUxNJgEHPaQ4+WmZ9aSKThul2p8wu1L3lSZs
+JXCU2ulNV4LDHdKRZTVe8z9g0Tz3QPBKfvMHQxPGdkzH9PXh3TuuvcHgdYYJIYG8
+RbpntZlDayL3+LR01RLdIlXTA2iyl6BmSMaT1jY=
+-----END CERTIFICATE-----
+subject=CN = lesamisdegoulier.fr
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3796 bytes and written 461 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 452524F598EA8B448A3C0F97203C76922A26A1F30B5814BC328BD1261FF28842
+    Session-ID-ctx: 
+    Master-Key: 85466A8FA476D40B566448E70DCD66618BD8E5CFAEE8F39D6DCEBA8A53DE96A8896D049F7864883B914753A722F7D77C
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 5f 62 de 09 34 41 ac 10-f5 84 0a 7e 96 68 59 e5   _b..4A.....~.hY.
+    0010 - 49 bc c0 99 f1 47 28 af-b4 50 6e e7 27 8c 4b 31   I....G(..Pn.'.K1
+    0020 - b9 94 d6 e9 05 c5 2f 5d-2d b1 31 66 b9 91 77 5a   ....../]-.1f..wZ
+    0030 - f4 b0 71 af 3f 45 97 19-1f 03 02 a9 cd 28 96 02   ..q.?E.......(..
+    0040 - e6 7d 7b aa 8f 95 65 40-0a c3 b0 07 d8 70 14 cd   .}{...e@.....p..
+    0050 - 7b 3b 56 92 06 4a d0 4f-6b 77 09 58 0e 00 b6 e6   {;V..J.Okw.X....
+    0060 - c8 a7 fb 3c 57 ec 31 41-d0 c1 94 d6 23 39 5f 75   ...<W.1A....#9_u
+    0070 - 18 59 cb 97 38 40 34 9b-5b a3 40 5a fc b1 8e ac   .Y..8@4.[.@Z....
+    0080 - 28 85 77 cb 10 41 2d 2e-1f 08 b9 2f 2f 0f a5 57   (.w..A-....//..W
+    0090 - de 5e d9 76 49 9c 9d 5a-c6 73 06 ce 3d 0f 11 c1   .^.vI..Z.s..=...
+    00a0 - ee 50 26 2a 71 81 d1 7a-30 40 59 96 85 82 4e aa   .P&*q..z0@Y...N.
+    00b0 - 5f dc 93 7e eb b1 ab 3e-fc 5c bc 1c 96 1e b7 07   _..~...>.\......
+    00c0 - a2 b2 03 52 b3 52 60 5d-f3 14 d1 cd 55 83 6f 8a   ...R.R`]....U.o.
+
+    Start Time: 1573135242
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

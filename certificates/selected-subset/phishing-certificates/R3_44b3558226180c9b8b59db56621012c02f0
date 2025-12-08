@@ -1,0 +1,66 @@
+https://olx.postexpress.icu
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = olx.postexpress.icu
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRjCCBC6gAwIBAgISBEs1WCJhgMm4tZ21ZiEBLALwMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MDgwODU1MzZaFw0yMTEwMDYwODU1MzVaMB4xHDAaBgNVBAMT
+E29seC5wb3N0ZXhwcmVzcy5pY3UwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCou8WF1c7opEfVzqPieo6x/m1KHqphyXUdLPiIItLniNOcYmQQtzfE2Yh8
+dno6WXqsgiQvebdipFXbsadgXAmEaQshU3gqqhP5SdtIc4Ryy5ng7gMqBEBZ4Iyz
+z57fdp593jbiRyCepQvktHTB+dP9JpdcjrrJ9bz/ozTqSC3bG4jTzi9HnZ5rTJqB
+HFxYkUjKZ/WbeAzXuTA0ECN6rqUw3CRDpf+cJ0OG0E6mQTth2E1eDy/xPIrErMjZ
+IqiANOiMHUOSBkdzFBGATn1tTXyz0Jbs7hEAmf4s0b9AFQu23yYsZcEFFNC4TS/1
+yTaIbcwb19KufKa3KcIbx6WTZgP5AgMBAAGjggJoMIICZDAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFO5UMGfkwMHnY+Y79Aif6qENBAopMB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMDcGA1UdEQQwMC6CE29seC5wb3N0ZXhwcmVzcy5pY3WCF3d3dy5vbHgu
+cG9zdGV4cHJlc3MuaWN1MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+BQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8u
+apdomX4i8NcAAAF6hYtNNQAABAMARzBFAiEA9boo/24avPfWJvwYdN8nh+egZ/vt
+deeBLi50dxsAI6sCIDU9NrRc2H7eELY9+77mP4vPIEft73wdmz4AylgIXhi4AHcA
+b1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAF6hYtOigAABAMASDBG
+AiEAr1Z8yQexeleM4lGvmV4tl3Nf1PwL8ZIQNgUT/B5ZFq4CIQCtDbN2US3BwcpQ
+2fP8z5F7UwGahBM7wH3risl+bh+mmjANBgkqhkiG9w0BAQsFAAOCAQEAGcfX2Pal
+LY4ic1Ks3SdA9veDr2dICu10kW1L9mHdszQ5cayXieoWhswk6TyTowuNyoBLjmWG
+xRY1EDbtxk//bPB/kWqJwgGaXQ+uyIXUm3PCHtqkJc0CSFxcCgNuZ8HpRDzneAVc
+igYWdbXygVOOYfMl1JdjCQMP4+alELmr/aLW1u2BQW2CWHKjg/DabPi3n9IbAh97
+KJf4UkVs0GOSOejcx0v7FUFkPOEtTfAxGha+qFoHJH7lzQ53+6QHThpj4buBPI8B
+cQRni38TdQLeQy1wtQRaxAYFioXLUSns+KS9tx57JMMoDjHo0olaV2qPOETzmMS5
+MMpA3NnNwANSyQ==
+-----END CERTIFICATE-----
+subject=CN = olx.postexpress.icu
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4594 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

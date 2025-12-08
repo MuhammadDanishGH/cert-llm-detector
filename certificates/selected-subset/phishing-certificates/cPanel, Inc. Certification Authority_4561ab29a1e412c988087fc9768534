@@ -1,0 +1,73 @@
+https://cloudmailbox.eu/sign%20in/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cloudmailbox.eu
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGozCCBYugAwIBAgIPRWGrKaHkEsmICH/JdoU0MA0GCSqGSIb3DQEBCwUAMHIx
+CzAJBgNVBAYTAlVTMQswCQYDVQQIEwJUWDEQMA4GA1UEBxMHSG91c3RvbjEVMBMG
+A1UEChMMY1BhbmVsLCBJbmMuMS0wKwYDVQQDEyRjUGFuZWwsIEluYy4gQ2VydGlm
+aWNhdGlvbiBBdXRob3JpdHkwHhcNMjEwOTIyMDAwMDAwWhcNMjExMjIxMjM1OTU5
+WjAaMRgwFgYDVQQDEw9jbG91ZG1haWxib3guZXUwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQCsxrjBU6sNMhz2q+PEU942ZQsgvHtyp8mD74ikE4+v1VjV
+C+0O19/9VA/QEB1WcAIeG1auU3+frD5aP0YDc61neNlNv48VrUe9mzWHvT4AwYLd
+5fNGOB0EKA7XkF+nvLtwNn/fPzlfWm5Wp1HfVG9HXDFcENujveh8dRxGFabEucDE
+7fiktGo71bzy0W0q4RLgglUPcTs90tLrNZAfcjJGSOVxsfS0ERj+y1YEIpWdvirT
+4cnOxCaKi5u1Lg03b6rE0CdjgExgK6tM0mKqQrN2MtMC60Fa2cCtIkXL/9TaJY13
+4IjZVnGvSbs0wSFTrGd9iac3Tvmi+2lbmCXQ2FxnAgMBAAGjggOMMIIDiDAfBgNV
+HSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUGLG+O7HukgN/
+HBhaNmocigNYzWMwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGyMQEC
+AjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYGZ4EM
+AQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29tL2NQ
+YW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEBBHEw
+bzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVsSW5j
+Q2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9v
+Y3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AH0+8viP
+/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABfA93DWYAAAQDAEcwRQIgYwhd
+QrYqU5z4cHSDzfIsom8TL+atRaSjicp6qu7FDnICIQDr12tWvb3t15zTOhnl/WXy
+Zw6eJr0YBm3FcoPEsUPr5gB2AESUZS6w7s6vxEAH2Kj+KMDa5oK+2MsxtT/TM5a1
+toGoAAABfA93DTMAAAQDAEcwRQIgCx4zGcOhvtXsFTj9iUa1JJ3KfYfrxx+pO5zO
+QRmiIooCIQDjCLFBwon1ci1NyUEa1rosHkSp1nvfSHBUUO1sQ2AcfTCB6AYDVR0R
+BIHgMIHdgg9jbG91ZG1haWxib3guZXWCHGF1dG9kaXNjb3Zlci5jbG91ZG1haWxi
+b3guZXWCFmNwYW5lbC5jbG91ZG1haWxib3guZXWCG2NwY2FsZW5kYXJzLmNsb3Vk
+bWFpbGJveC5ldYIaY3Bjb250YWN0cy5jbG91ZG1haWxib3guZXWCFG1haWwuY2xv
+dWRtYWlsYm94LmV1ghd3ZWJkaXNrLmNsb3VkbWFpbGJveC5ldYIXd2VibWFpbC5j
+bG91ZG1haWxib3guZXWCE3d3dy5jbG91ZG1haWxib3guZXUwDQYJKoZIhvcNAQEL
+BQADggEBACKiImCipRe8i7KLHjR99J9WlGqNih3MHxhFqhYqPpvk3Wz+lUJWmQf3
+EywNQrZQW2Cxan+SS/cHIwitp0mQW6FXTSx1LbAL1Uz/jf/JTcnMenhHotsthYoy
+zsr+ZUVmbHkGzi6hWe4GmCTfEst7Bp2zZm8ZzD8ucAIZIioTaAaND8Go95sfeKHU
+6F44fqjMnIYDwThObkV+3Q0d3Oy4ErvJBR92KGiZuVEbz7ZZJb1Ta1R4j2WQtFHC
+dZfVV0QiwU0clNsnUnoUP2A8/WkKwOsAu3J96sI62LUQ2YynuVZaiy2+8Xm3+eG5
+XHfjB0OIWdiJvt+KzH5oT+VStGOK/eY=
+-----END CERTIFICATE-----
+subject=CN = cloudmailbox.eu
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5138 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

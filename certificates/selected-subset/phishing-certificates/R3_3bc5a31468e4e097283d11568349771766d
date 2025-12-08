@@ -1,0 +1,59 @@
+http://drskonorge.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.drskonorge.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEazCCA1OgAwIBAgISA7xaMUaOTglyg9EVaDSXcXZtMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MDMwNTE5MzhaFw0yMTEyMDIwNTE5MzdaMBsxGTAXBgNVBAMM
+ECouZHJza29ub3JnZS5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASOUC+h
+oVtzQ4cb1YOyv2D+XPcrs3jp2zgVgzZS3AnmOiHZoBjhox9CmwBMlFm3KYE/G9bu
+09b2g3RV6bfVhy34o4ICWzCCAlcwDgYDVR0PAQH/BAQDAgeAMB0GA1UdJQQWMBQG
+CCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSvzlez
+WYg0w4rLkiVilQSkKpHpyDAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTC
+xjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNy
+Lm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzArBgNVHREE
+JDAighAqLmRyc2tvbm9yZ2UuY29tgg5kcnNrb25vcmdlLmNvbTBMBgNVHSAERTBD
+MAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8v
+Y3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB1AJQg
+vB6O1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABe6pQD0oAAAQDAEYwRAIg
+D058c6zyxMPogOkuKJW2t1U5ugaFWJkxi92Sj1lG/U8CIE7TqvhQB2kkkTUiV90+
+JxVOhV7teOpmKMzKAO7YjR9rAHcA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98MLyAL
+zE7xZOMAAAF7qlAQ5gAABAMASDBGAiEA93Mym/OTdQPn1Jzh+s6RWn/U0UeK+8H8
+rks3lxQlyPgCIQD0C7MQqV4vncp/rBRd0h5AU1ivPl19U4ivtxIcI68YtjANBgkq
+hkiG9w0BAQsFAAOCAQEAsTg3/s8XLMTapIqTYQ4CTjplcZRTkapULGJ4VRlFkNZi
+UrYXKgIUEN2/W/eARWcy185JjBBygHagOet8/YWI/198TyTe6s/4DQpl8gZ2r382
+rK8cepKgVg5JjdOa+jEIzPwL0zce6X5uNGYBoUcqjTPZb60IPSWEjD/iETHtmVF4
+H2xbzIbtAf5SWolsSdl8x/CM+RWYfVF5fsdw8cLU2I+X2Nv9qft6ef0rdeGbLswd
+2+P2L9DLlXvmoWEI5Iq7wmfn8HJ086Dr1IZgEoTIN74yZnajGLD2TRfug8zMkJVr
+Ts3O0Wn/Og/kkN67EL21ruGYKTaUrCG3sRWHbl5wMA==
+-----END CERTIFICATE-----
+subject=CN = *.drskonorge.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2579 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

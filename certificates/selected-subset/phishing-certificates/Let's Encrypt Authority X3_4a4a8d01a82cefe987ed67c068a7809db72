@@ -1,0 +1,92 @@
+http://cruiseinnalexandria.com/wp-includes/js/us/delta.com/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cruiseinnalexandria.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFhDCCBGygAwIBAgISBKSo0BqCzv6YftZ8Bop4CdtyMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xODEyMTUyMzEwMjZaFw0x
+OTAzMTUyMzEwMjZaMCIxIDAeBgNVBAMTF2NydWlzZWlubmFsZXhhbmRyaWEuY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4ju2MWWobc4KSQvNQNvi
+t2+2R0quYhVsGTmec3++547BVsAkjUVKcmVJmqnQRfEksZUoQIhz96NWTX2Q2A1A
+9qJUXVV5UFoy4rKZ+Fjqym79ODOAcHHZK5ml/hzCAwlxA09Qglai+Ob3krQkqmxo
+BOHLaMXZDnFzA6jUUh8TONGcvDgYrcNKft9Pc8fs6jQRpNdwGWMNU8gOMK+xMgVp
+DiW5X8kiLAfwKChS19fS4vQjneqTEkJeROAJii+SS22ten0X1Tx2VsX0VSYC5ENa
+8TGPPDxDAmkJYIeu31buvXRGrlIIa5QSgx7rKqEsCZ9BmfsVcWiLhlI6d0hXD0KJ
+RwIDAQABo4ICijCCAoYwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRexrLQo0qifaEN
+/UOfpzY6fuwZPTAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggr
+BgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRz
+ZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRz
+ZW5jcnlwdC5vcmcvMD8GA1UdEQQ4MDaCF2NydWlzZWlubmFsZXhhbmRyaWEuY29t
+ght3d3cuY3J1aXNlaW5uYWxleGFuZHJpYS5jb20wTAYDVR0gBEUwQzAIBgZngQwB
+AgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRz
+ZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgBVgdTCFpA2AUrq
+C5tXPFPwwOQ4eHAlCBcvo6odBxPTDAAAAWe0WYvVAAAEAwBHMEUCIQCPaRir3Rr6
+yS+y3Gh6pCbM9DoJYIXMayRR+SmpYAakmwIgTCIstvcj1Kp8u7NXzse/Y2X5byAI
+u+ug4fKnxy5OsjMAdwApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAA
+AWe0WYtXAAAEAwBIMEYCIQCJFkXRKpj2YAvYl77IXPf2TZT8OtP96P/yVLJl9m+n
+fwIhAPTOzimIDLGxwemouesq1PUAW6WFEjwAQaLKiUqb5yC2MA0GCSqGSIb3DQEB
+CwUAA4IBAQANpgrs8ESwOr+wpPb7Fv5QZGaTUrEqCIgTGVKNnxtEmkLHr61utVr/
+su9DaYck9c6loEk6w0nJQv9VwCwjnItkudBeSH+8Z8cX2/PZax8djyvX9XXPZEBp
+fO23HMWlVCkVbS8lerLkMX5H9ujv3ts/xYNqM6EZP+Os7BCaikkdpUzeeZ1wDjg6
+58q+/r6/a5+fEMn2ycp9dbyP1gT10RehXrfQy0Nn8B8meWM8JyWKDP5CIhYV19tm
+vYt7+j3CSzzIxM3x4HAQNKXQ5FbwkPRz6kwogckkpAOjwVsvCl7SpTg4SuUzxD7C
+DEOycXtDwMyQxTVj6k7w2wV/06YIZX8s
+-----END CERTIFICATE-----
+subject=CN = cruiseinnalexandria.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3270 bytes and written 428 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: C1AD82C1A5A30A782D40C21103368F4A149603CFB1DBF29B08580E007BE711FB
+    Session-ID-ctx: 
+    Master-Key: 622053FD40AEDA05FEB167D4FF98FCB0E6058EF56DD512925BB33682EB5AA7A07F5AAC26DA0D886A7F7726EBBE1BD3C1
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 84 8f e3 05 5b 1d 67 e7-77 b7 ac d7 15 7c f4 46   ....[.g.w....|.F
+    0010 - 24 d5 05 ad 9c 2b 5a e3-b6 15 5a db 35 3b 96 09   $....+Z...Z.5;..
+    0020 - e1 8e fc 1d b2 e0 dd 11-96 b1 1f a9 07 d0 8a f4   ................
+    0030 - 01 5f 43 61 55 8b a6 f8-f0 41 15 6f ee 3f 3f d3   ._CaU....A.o.??.
+    0040 - b8 b5 ad 21 94 61 c8 db-9b bb 9f 79 73 f8 c9 ea   ...!.a.....ys...
+    0050 - 92 d4 be ec 4c d8 33 b3-34 7b 4c 5f 42 fd 6c 7a   ....L.3.4{L_B.lz
+    0060 - 8d 89 17 33 ec 8f 51 1e-ea d0 8a 37 17 4b 14 4c   ...3..Q....7.K.L
+    0070 - 1f 31 07 46 6d a0 2a 44-5c c3 50 a8 2f 81 14 bc   .1.Fm.*D\.P./...
+    0080 - de 64 f3 ce 30 13 d4 4c-97 8b 4e 5c cc 56 6e 9a   .d..0..L..N\.Vn.
+    0090 - 51 f4 e1 8e ef 66 04 a8-f0 ab a7 db 45 d9 09 73   Q....f......E..s
+    00a0 - 6f cd 16 ab f8 f9 f6 23-c3 8b 50 85 32 fc ac cb   o......#..P.2...
+    00b0 - 03 0a f1 2b f1 92 a3 87-ce 2d 1f 62 e3 d6 6a df   ...+.....-.b..j.
+    00c0 - 89 08 5f 06 0a 2d 72 8f-5c f8 90 c9 54 8e f2 34   .._..-r.\...T..4
+
+    Start Time: 1549893618
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

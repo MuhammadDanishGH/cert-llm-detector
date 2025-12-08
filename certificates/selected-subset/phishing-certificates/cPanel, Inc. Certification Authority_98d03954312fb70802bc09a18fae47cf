@@ -1,0 +1,71 @@
+https://ttbf.com/crteed/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ttbf.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGSDCCBTCgAwIBAgIRAJjQOVQxL7cIArwJoY+uR88wDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA4MjEwMDAwMDBaFw0yMTExMTkyMzU5
+NTlaMBMxETAPBgNVBAMTCHR0YmYuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAtHUWChP13Fka/amMGXnyJVaaL9Pc774ePO+EvIF6SAaPp79f9Icb
+Syg7s5M4VRXkyL9cGvva4iWSOxGITDwmwPKV3CB+y9dFIdK+yX5lH3Xem8DBBvYn
+nWarT/hCz3p1DSHtQal95XpfpYsyh3Q3HhkoelMtvjymhmL3WAQ4fFF5Ek/E4/Lf
+3NlsYVSTvaOAtBnibaMXVfUKyB9dA6i+iV9EFBC14f1D4A9aec9wkpUrk4ECw02j
+Y4gNMZcADBqEgFzP1Iq/JcqT34SheM0GGj/5ZI7VnNVmL/forZmoZwld7R1osFic
+qm0XWMK3dtCoGIsXG73vNfefUxr478C+XwIDAQABo4IDNjCCAzIwHwYDVR0jBBgw
+FoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFMol7dqBzNvoSvJKUGHY
+8VdpkqNCMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQG
+CCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgI0MCUw
+IwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATBM
+BgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9jUGFuZWxJ
+bmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRxMG8wRwYI
+KwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRp
+ZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5j
+b21vZG9jYS5jb20wggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgB9PvL4j/+IVWgk
+wsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXtn50gqAAAEAwBHMEUCIQCSG5Rqa8CE
+uvzz8ZR7sS6lVACnoaRObkGwTL/VuKOD/wIgPgY+UnOZvUbG1EfLHjZrpsnQzHtG
+yDt/v+HxPkVPOcoAdgBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOWtbaBqAAA
+AXtn50fvAAAEAwBHMEUCIFeTIABMmyRaVK6BX+5ibBikySuz2Tjzt3JeVuN51+PD
+AiEAs52vE4pZxQMMJY8F6r8BHe3DORPN9n5VVIahaLI3tA8wgZIGA1UdEQSBijCB
+h4IIdHRiZi5jb22CD2NwYW5lbC50dGJmLmNvbYIUY3BjYWxlbmRhcnMudHRiZi5j
+b22CE2NwY29udGFjdHMudHRiZi5jb22CDW1haWwudHRiZi5jb22CEHdlYmRpc2su
+dHRiZi5jb22CEHdlYm1haWwudHRiZi5jb22CDHd3dy50dGJmLmNvbTANBgkqhkiG
+9w0BAQsFAAOCAQEADrI1zeU0Xb7bjbEIdh9mDWaKttOiRaFM9NeaAVcNUY1eJ47p
+zxjZNrSDylEqSlNL3MUU1+OoAoTGDMnDKIFtjlxQiyfw0PFLFFZbaWLSoszTlIat
+QGRQ9UUgRQkDSP7hlAQhKJazsX2wEGDnxSCCFlAybkTVzuu+NUx6X02iWjKljU/P
+x+GR4uuv4GtvwMJxbz3Tni/mj0eAf5VBlvtiaYvJOL+NDWG7d5ACRyBBMVZtvvPu
+Ib9WqxjhqOXYKg01Wj/zfxCHJh7qtxS9v552qQVi3fKZfEPzLO6mHckwA69vV36t
+lcfhpf9cm5ql7Vz+9QPNc8GtwIYXF/CWX3Q1uw==
+-----END CERTIFICATE-----
+subject=CN = ttbf.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5117 bytes and written 382 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

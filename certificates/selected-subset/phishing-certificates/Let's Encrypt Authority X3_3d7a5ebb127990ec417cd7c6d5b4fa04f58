@@ -1,0 +1,76 @@
+https://paypalassistancefrance.com/MD5HasHRWwnfKejrT5ZAS4WhAsHkL6o0p2W/1542c07feffb13246dc206bca61663f7/view/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = paypalassistancefrance.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFjDCCBHSgAwIBAgISA9el67EnmQ7EF818bVtPoE9YMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MjAxMjU3MjVaFw0x
+OTA5MTgxMjU3MjVaMCUxIzAhBgNVBAMTGnBheXBhbGFzc2lzdGFuY2VmcmFuY2Uu
+Y29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4oxJVi9r/6dfE1ac
+FYtpZrnN7bjCJQ6IE37R6iilhE5B1VJTdZMye0vx8J/0cGEk6uk+lgpUgVhAeWgq
+iPjLrAIoz9DANk5mg9Gis6Q6hjS+BiVszBq/uw38ElQBWUH7bxfOVp6EMoV6kV7i
+y4A+Ago2Tb5Tbj+h2VGblicYA3uT3W/kQH2rZMznh6Ua1OlCa/3qOkHo4aUNjDWq
+JnF4rsQREjS5XtRR0V8mz7YCJXOwPylNKLFfbNm2qVHPP7QgsDHNn9ynkVsfLKd6
+dPqeJpwN6sde4TCzwxGsHtxeEGPMLQbYZAPXAQLQs2EW1ciOS4bMlpETgrtip55e
+2gSurQIDAQABo4ICjzCCAoswDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRNWrmK1p1F
+nyzgP8x29v16clBWETAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBv
+BggrBgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5s
+ZXRzZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5s
+ZXRzZW5jcnlwdC5vcmcvMEUGA1UdEQQ+MDyCGnBheXBhbGFzc2lzdGFuY2VmcmFu
+Y2UuY29tgh53d3cucGF5cGFsYXNzaXN0YW5jZWZyYW5jZS5jb20wTAYDVR0gBEUw
+QzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDov
+L2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgB0
+ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWt1LYGxAAAEAwBHMEUC
+IH1mNO4VP8QlXVContS8KwO8FmDtEJISNxX1z5zHuq7bAiEAjL5Nb7E+lFF8uka0
+bbbRIyJkuWTpy5h/fD78FPmRisIAdgBj8tvN6DvMLM8LcoQnV2szpI1hd4+9daY4
+scdoVEvYjQAAAWt1LYHPAAAEAwBHMEUCIQC7j1EhJcjB/sWDW+eawb+CUqu6WaMF
+5+RnyuKS+wWLJAIgG+kNGvxSnLtHqLAImNgGBXSAqWZQ3eZCG1A3J5SkLBowDQYJ
+KoZIhvcNAQELBQADggEBAGd1i+1KD57EM9MvWZ4pHhFe0XAzIHeB0MT1uAaRuomm
+YFl3md/FKEe5HuCGeZDfi3GFOjbzYwYOlK09Pj837NU2FvlhkotvM+j7K8uSvebP
+Z7su7pUz8LAjqQxG5NuXYhHYNKaDDz4hxP6eWQeV8pehWGXBpl17SqmwmVxQbamK
+W6D+HZnWozl1CfXak9PC+Js39053xK2XTcRAO07xVuInCLJap9XHuu2KDUJvyGbE
+qYSZq/bkd7mnB0yt58wktaHvhzo95ADYB4TzASr21d0OHtOoJlV4OdHD3Pq23Fim
+p4tSDne+PcasovKIQGp8koFpDo5Ia/GjqD+9qDVF2Wo=
+-----END CERTIFICATE-----
+subject=CN = paypalassistancefrance.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3112 bytes and written 464 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: D7E30EE46DCA1CDFF022C21FBE6E3B7642FF5C0C671383695F9366C12E361B47
+    Session-ID-ctx: 
+    Master-Key: 5F0D4C7FA3BE4A5838AECC51E3A4CB7B098AE00DAFB7C8642274E86D6ABB79539B01BD18E71716E078530F253C39E473
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1561467642
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

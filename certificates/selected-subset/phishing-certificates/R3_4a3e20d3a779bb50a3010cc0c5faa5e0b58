@@ -1,0 +1,66 @@
+http://joinzgropsviralss8.servebeer.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = joinzgropsviralss8.servebeer.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFSDCCBDCgAwIBAgISBKPiDTp3m7UKMBDMDF+qXgtYMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTkwMzUyMjhaFw0yMjA0MTkwMzUyMjdaMCsxKTAnBgNVBAMT
+IGpvaW56Z3JvcHN2aXJhbHNzOC5zZXJ2ZWJlZXIuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAvYY1+OEFZrKp5dvMkkHmpNVB7Pgj+ZGoLVd31U2k
+PVrqjU8mHqXyfg9yzRoNWL1RhnN0Lbr1vj684U4DV7TC/1fZI9uuVgEEsgrfXUSR
+Oz+Zgt4FnVAUiJb7/8JC6Nr5MyR2A039JLfyqA8axSQo2L7E9QN3x1H1F+rGqva1
+JNJu7Uerpqdl9zmJnEVlbyI8KXVOaWSrvyd8B2uX8MALI0oI1KkrKaGXF4pfq2N3
+rbtXS3e/Rp1bWl/FTbh9cVRiuNB6St8eZF1RTZ3aIQZgTPMlgctaNzGEyUVwBQXI
+yrOvc8RhUat5TUD6vbAu7F+kr/BGfPTcuI/yQx/BVHnJsQIDAQABo4ICXTCCAlkw
+DgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAM
+BgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSfQ9b9aLwUgHuYHil+loo361D28jAfBgNV
+HSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYI
+KwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0
+cDovL3IzLmkubGVuY3Iub3JnLzArBgNVHREEJDAigiBqb2luemdyb3BzdmlyYWxz
+czguc2VydmViZWVyLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLf
+EwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCC
+AQYGCisGAQQB1nkCBAIEgfcEgfQA8gB3AEHIyrHfIkZKEMahOglCh15OMYsbA+vr
+S8do8JBilgb2AAABfnCt2N4AAAQDAEgwRgIhAOco2T/yKlwF4e4D3JC4I1Uy62iH
+x/RT7+kikbA5q66DAiEA7a3DXVpfrmhNP0dP/5hogxc3CbPagmvmO1FonZvCIPkA
+dwBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAX5wrdlgAAAEAwBI
+MEYCIQCGDlISp/AVS70ULMCB5K7VGyyhGk1IBRVCWTPsMEXv2QIhAJDE9zqr9CEn
+FfrDoAzQovzPtk841ZPjQnWh5MEsJTBxMA0GCSqGSIb3DQEBCwUAA4IBAQAfBmK8
+A6RGmAb+xqNK9MW/Mtpv5gL4hK6gehokUakUTqH6P0KGPoz4sp7iy38UF5LfS2sd
+GcIO5kg9GA0aUNi3UFGoOwdAYOO9DAacZ3nk9gelc0iBeUd9wO0vTdOptdzejBWG
+N91oCHPHdVhD66lXWIL06alxsqcGuFtXBRDBRHrdipfnnpiLUFUk1a6MPAd9kFDA
+hZThw1buwh03oy5RIMYSlRiB+iQpHcjUGvimuVLrcP1MIjxcak6CTuCiH/EZ8xjl
+Nl1SWbOUW88yg41IYjaEfqjOX0uMvh+YCLEfz1WTcAtJnW2rbyFwItgkLZSXc9gD
+wv3tvuhrzW7HF0ON
+-----END CERTIFICATE-----
+subject=CN = joinzgropsviralss8.servebeer.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4542 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

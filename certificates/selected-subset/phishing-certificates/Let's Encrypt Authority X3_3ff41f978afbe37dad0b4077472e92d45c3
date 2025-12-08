@@ -1,0 +1,91 @@
+https://delta-hydraulic.com/paypal/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = delta-hydraulic.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF6zCCBNOgAwIBAgISA/9B+Xivvjfa0LQHdHLpLUXDMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MDcwMzU4NDRaFw0x
+OTEwMDUwMzU4NDRaMB4xHDAaBgNVBAMTE2RlbHRhLWh5ZHJhdWxpYy5jb20wggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC76e1jB/tHYTPx/3zywcW/Y9F9
+nfaGFGvJSjOalIR3z7ObpN/SU/9r+xx/McB7Larf6xRvXq3qmLaJaBh/EEBDrKNt
+Ul7TJ/XFIiISc6QGQVDIfcdX2GY8s/9uFxS88kZGb24us/r7TCFYmlqVvYm4eRhW
+Hpla140p9MFhZxc8/B8OgVDRlwnawsEdjZ/VEMk1oVWMOX3qt1lyPOLdIS+AA9qO
+yw1VurhiEa8VamvmO657TB8cD6wDs1XWhglAa9CRWMMKbkdgzyDJLFgY0khW7Gck
+X2wYI+vwKlExvaNtvcZ/U483UyGhglgeHiiJBFnpXUK23lCKawwssSUsWcPDAgMB
+AAGjggL1MIIC8TAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFBxCKmYcUuISOUB3OIay
+g4RAH2GFMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUF
+BwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZy8wgakGA1UdEQSBoTCBnoIaY3BhbmVsLmRlbHRhLWh5ZHJhdWxpYy5j
+b22CE2RlbHRhLWh5ZHJhdWxpYy5jb22CGG1haWwuZGVsdGEtaHlkcmF1bGljLmNv
+bYIbd2ViZGlzay5kZWx0YS1oeWRyYXVsaWMuY29tght3ZWJtYWlsLmRlbHRhLWh5
+ZHJhdWxpYy5jb22CF3d3dy5kZWx0YS1oeWRyYXVsaWMuY29tMEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcA4mlL
+ribo6UAJ6IYbtjuD1D7n/nSI+6SPKJMBnd3x2/4AAAFrysxxwgAABAMASDBGAiEA
+mrSnKgCNOa5W5+i2FGz5Rc2Cgnpia7FzUmYuPSCbsNoCIQDsofZfV8aMWUNZ9qIj
+6lteDi4Hz07yQiv0AKJkKV2scwB2ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM
+9OVFR/R4AAABa8rMceQAAAQDAEcwRQIgRYkfQd/ExCi56zfpwzcwHOnN1l4jCAZg
+OH+gKaRkT7oCIQDjNVFzKGoR/LavFiyRlw4vje0SuUD9+SLAKxkFI4l+TzANBgkq
+hkiG9w0BAQsFAAOCAQEAYi0PCUMLt5GpqCkkVoPNTcYvJTk1N8vOakwI5XzRbWTM
+DZ3VK8Tgg1oc1IHecxFyeay4mOajN6civoQk151dM2PN8E7DPou36bnl7g+BgQJC
+NOx7CScyM8MSgBzNI4BYHx2GAY1GbWLko4nHL3uzyCNOE/icIJqmyQbuP+Z6Ma6C
+Xvu2JIqEb6LvbZz6X0hX5f0hHt7Y5N/dMWc6ckHA4beEFbsDPZdSlJfg8o7nAFiz
+hydXvbyesQV/6yDZ9Zlk595Zn1BEEnPzMAVxnuhCnZGGkyOzWt+4E8rWDCmy+Qy4
+F2beibpaHnrlK70OvgDHLNfd5dbVIwbMdj3AJllgWg==
+-----END CERTIFICATE-----
+subject=CN = delta-hydraulic.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3319 bytes and written 424 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 8AF6A990DDDC06A7D16B05C413AB9D4AD324680EBD3403E564AB5FB50443E7F4
+    Session-ID-ctx: 
+    Master-Key: 665ABE415948341E19374680B932572FB9CA979842E83A734815C7E31E09B109C339CDD3E9B024CDB601CDDDDDC36BB2
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - d8 62 a4 81 0f 64 d4 5d-45 79 7f 4f f8 a4 94 e4   .b...d.]Ey.O....
+    0010 - c3 ab 21 15 b3 53 f3 17-69 b7 3a ce 3b b4 26 06   ..!..S..i.:.;.&.
+    0020 - 0d 3b 81 09 57 17 3f 95-24 ee dd cf 36 7a 4d 21   .;..W.?.$...6zM!
+    0030 - d9 ce 54 b5 dc ed 74 97-4f 05 22 65 eb 5c 37 56   ..T...t.O."e.\7V
+    0040 - 3f 46 2d 7d bb af f5 f8-17 2c 49 1c 4f 2c a9 26   ?F-}.....,I.O,.&
+    0050 - 4a 28 d4 3a 1a 5b e8 55-df ae 72 01 96 e9 37 b6   J(.:.[.U..r...7.
+    0060 - ed 1d b4 32 7f ef 93 54-1b 5e 86 d0 51 30 e8 48   ...2...T.^..Q0.H
+    0070 - a8 92 b6 57 c2 6f 42 1f-9b 65 26 03 9b 1e 13 f2   ...W.oB..e&.....
+    0080 - 28 86 ed 37 08 e3 ec 1a-1c 4d 99 06 d0 de 6d 87   (..7.....M....m.
+    0090 - e1 47 2e f5 3b 39 e2 be-1f c6 8f 30 22 fd 87 61   .G..;9.....0"..a
+
+    Start Time: 1563714026
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

@@ -1,0 +1,81 @@
+https://sevawebsolutions.com/dhlenSA/a1b2c3/2f2e2681e2a6377d339a9a0f5a553f8f/start/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mail.manishkumarmishra.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIHzCCBwegAwIBAgISBKuACYjeB1uUXSVvdIRyai8TMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTAxNzQ4MTVaFw0yMjAyMDgxNzQ4MTRaMCUxIzAhBgNVBAMT
+Gm1haWwubWFuaXNoa3VtYXJtaXNocmEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAuvnUpodRPWCGIzockYpg31PViWDGWSwy5t1FReB3qH/A4fcn
+DZ2Pr0tw6u7QqcgRHvJzxIcTNBKPlxR1R+uofUz9wqMKUbkbk0+e+ItcoCsUZwws
+oIYZkimMxE69eVuE2eMsUg9zluW1fYncfWYTf4u5GKQaL9uLofITZXrycQpkNplN
+fjJsqpPS2kn+OMf7oLlZ/d7kcIiAycx1l47W183UzQQa7Tab6Zu1rP9igIeFL9hJ
+4MocqgVy/PnWICIN2HHFei01VeUB1TmveeIM86Yxylgg1ID/WX5Q1DZ7u9Fct2U9
+afakG0QudLFzAItaU/YeW4y90IcvWj5k1nwdXwIDAQABo4IFOjCCBTYwDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBR4bURA9nbXnV0vWcDypAFCAqadGzAfBgNVHSMEGDAW
+gBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUH
+MAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3Iz
+LmkubGVuY3Iub3JnLzCCAwgGA1UdEQSCAv8wggL7ghxjcGFuZWwubWFuaXNoa3Vt
+YXJtaXNocmEuY29tghtjcGFuZWwuc2V2YXdlYnNvbHV0aW9ucy5jb22CIWNwY2Fs
+ZW5kYXJzLm1hbmlzaGt1bWFybWlzaHJhLmNvbYIgY3BjYWxlbmRhcnMuc2V2YXdl
+YnNvbHV0aW9ucy5jb22CIGNwY29udGFjdHMubWFuaXNoa3VtYXJtaXNocmEuY29t
+gh9jcGNvbnRhY3RzLnNldmF3ZWJzb2x1dGlvbnMuY29tghptYWlsLm1hbmlzaGt1
+bWFybWlzaHJhLmNvbYIZbWFpbC5zZXZhd2Vic29sdXRpb25zLmNvbYIVbWFuaXNo
+a3VtYXJtaXNocmEuY29tgiZtYW5pc2hrdW1hcm1pc2hyYS5zZXZhd2Vic29sdXRp
+b25zLmNvbYIfc2VlZmFzaGlvbi5zZXZhd2Vic29sdXRpb25zLmNvbYIUc2V2YXdl
+YnNvbHV0aW9ucy5jb22CJ3NtYXJ0a2lkZmVlc21vZHVsZS5zZXZhd2Vic29sdXRp
+b25zLmNvbYIdd2ViZGlzay5tYW5pc2hrdW1hcm1pc2hyYS5jb22CHHdlYmRpc2su
+c2V2YXdlYnNvbHV0aW9ucy5jb22CHXdlYm1haWwubWFuaXNoa3VtYXJtaXNocmEu
+Y29tghx3ZWJtYWlsLnNldmF3ZWJzb2x1dGlvbnMuY29tghl3aG0ubWFuaXNoa3Vt
+YXJtaXNocmEuY29tghh3aG0uc2V2YXdlYnNvbHV0aW9ucy5jb22CGXd3dy5tYW5p
+c2hrdW1hcm1pc2hyYS5jb22CKnd3dy5tYW5pc2hrdW1hcm1pc2hyYS5zZXZhd2Vi
+c29sdXRpb25zLmNvbYIjd3d3LnNlZWZhc2hpb24uc2V2YXdlYnNvbHV0aW9ucy5j
+b22CGHd3dy5zZXZhd2Vic29sdXRpb25zLmNvbYIrd3d3LnNtYXJ0a2lkZmVlc21v
+ZHVsZS5zZXZhd2Vic29sdXRpb25zLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3
+BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNy
+eXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AN+lXqtogk8fbK3uuF9O
+PlrqzaISpGpejjsSwCBEXCpzAAABfQst3mkAAAQDAEcwRQIgFbJiXPuDYkGmCnB6
+5Qc8hEACSSCTbBeGVU+E6SlcA08CIQCoAWxIZnO5hNlKEI5f7grwOgK29oTZ9qjT
+eCXX7IaoiAB2AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfQst
+3pcAAAQDAEcwRQIgEMauvkYDCi4XHgcKlo5KLZdkJ8LiqZFla7aXH0szhOQCIQCm
+M4/mFr/C0ASXrECL+AB69qZUvFFFw/2o8iFuti/e3DANBgkqhkiG9w0BAQsFAAOC
+AQEAlLv77NRv3xBhHH4d5BeQvqKIIyiQzUnIoZyp6Tiwv99vhcMEZ3OT+az30ba8
+kGEmBpB13GvFSfRjt4qJxHgVjDaHU5FzGnwzbpeblpuoPAyoIMlz+zGlWRKCHUgq
+BO1RFcwbvkK/b/ipJOmc0ywp8WIJqMnOayV2K5AKXtYl2ItsEIgMIoclZYpZGncn
+38DbTbRjA4EHxPekIsaw+YCv5wW0LpfTz8//Fu/wV6wTH2y+XTg4/fPxeiW6OwI3
+Ayt4nJm7c/J0UqVxUgQfFwskVHucndQnxLYmnsa1XAwi5/sxM2G7wIizVuEhLVZ3
+zfjrfYxeLBCgrAoRbwCUe15Rjg==
+-----END CERTIFICATE-----
+subject=CN = mail.manishkumarmishra.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5269 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

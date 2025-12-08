@@ -1,0 +1,69 @@
+http://x-finitycomcast5.viewdns.net/true/login.php?access.x51362871355&&data.x=en_566ad531c31ac04bcebe58fbb
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = x-finitycomcast5.viewdns.net
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF7jCCBNagAwIBAgIRAPp3kfe9aujQd+C1McUCQKMwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMjAyMjUwMDAwMDBaFw0yMjA1MjYyMzU5
+NTlaMCcxJTAjBgNVBAMTHHgtZmluaXR5Y29tY2FzdDUudmlld2Rucy5uZXQwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCr5TlC15WaKl8cRPJNWgYWaVJB
+Ea/J0S5pyRDTXSBl4fjXsIFMQfC+xA7OIPAK9KRsgmzL/On2KVidsg/lDSyJVpDE
++SOHvsy4R/jOkbzbpxX72w024LTPybtJOK3qXEdO5OOvWI5DgnxGK6IB6xLpQyxY
+Rd2LY65dgD46eiRGFPM1W11kXz8xzVtFs+5Z3CmoOhHSGZt91x+unL0+GQM60zOR
+0TuGh8SvD2vFDUvvnoYAZeb8gxPgjJX45D2/Smc88CLZSP+wm9OnKlksH78ItNbc
+yWwiSj5qQn4/uMUyOXTwCA1yt4dqPOkSEwyjed9e53mZ6CVdgpQQtfJUKTYBAgMB
+AAGjggLIMIICxDAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNV
+HQ4EFgQUKIpV6dYzsb+oMqJJ27lO/Pi1XPgwDgYDVR0PAQH/BAQDAgWgMAwGA1Ud
+EwEB/wQCMAAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARC
+MEAwNAYLKwYBBAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdv
+LmNvbS9DUFMwCAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwu
+Y29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3Js
+MH0GCCsGAQUFBwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYB
+BQUHMAGGGGh0dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQIGCisGAQQB1nkCBAIE
+gfMEgfAA7gB1AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfzFX
+2JUAAAQDAEYwRAIgTNxuqJ67F0AsghVYn+lklOOqrB9Cz17cU/bKSWyW8NYCIGrO
+PNcfoKgq9GSFbwLdK6jWbUyxXoWVqUlfga/vS6pIAHUAQcjKsd8iRkoQxqE6CUKH
+Xk4xixsD6+tLx2jwkGKWBvYAAAF/MVfYWwAABAMARjBEAiAKCuwuTP2um04ffZUh
+Og6Q5bELqrR3PRzpCl6f/yQlMgIgUNnPiWY0PiFXsAmqcCHH7l2jra0Ha02VhBP7
+007O3oIwJwYDVR0RBCAwHoIceC1maW5pdHljb21jYXN0NS52aWV3ZG5zLm5ldDAN
+BgkqhkiG9w0BAQsFAAOCAQEAB6RS8f4jtT+pTzpJAWH7oCRfMix+Msp/V0plVXuZ
+YG3B7jyKDGXjpiT0PU4wSLFda6+pz/omAV8v/9tDCpo4yeiXKRv2Er99jhmQaFYw
+VY4Ep8JX1uEWIkMey6o5u7gh1gs6tEXF6vmmjf8tT5ic7sW7SaT957WotcMg/Zpf
+UN/CuHe2tC7FMah8HG4/wscujVux9+P7ae/WjMY45vL6rHSyDsLKURl7Y18EFTC/
+Zf09J+np7XopPte7NNg5dJ9usJ9732Wzkw7Q+DGv4qMVP20+9zZC1ZiFT0vw4lz7
+yb7nysKvW1WrXz64fpRzSEM4TRKPevwq0b+163DSaoEdxA==
+-----END CERTIFICATE-----
+subject=CN = x-finitycomcast5.viewdns.net
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5027 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

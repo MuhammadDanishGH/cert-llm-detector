@@ -1,0 +1,74 @@
+https://pinkdiamondstyles.com/RSD.K12.PA.US/outlook.office.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = pinkdiamondstyles.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGvzCCBaegAwIBAgIRALxlqc/q35fEYej4WKdmcOYwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA5MjkwMDAwMDBaFw0yMTEyMjgyMzU5
+NTlaMCAxHjAcBgNVBAMTFXBpbmtkaWFtb25kc3R5bGVzLmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAKbE/5O11d7w4j796UXQrig5KirTyLnlnvSs
+UHuBPSuVSRpLOQfWRNz6+1JIkoRyqbzLOLIgPr9mNYWs/OoCMTN3d8JjVE71fvCG
+1Ltstjkgnm+P30LMB9JjKhOKHB0A+mfaCM0nrcz5ciasp3hftWNANFNdDdHCZSDO
+qpJjE4Q8crGeafU2CLUrAFLvzlXc7IZZU5S0zPilJxyxf9CmopuBhwp+M8TbUiiz
+iCJs/sTwYhUTVNRWPVSAD7pCAj2tN6wE6gV6TLwClaZfzJoDpuZaNUPAbqC8BMm3
+w8z65idlnfbXPMqnnu27X1/p1qNFuMHJzwHLOXzSbUFiDSIAXUkCAwEAAaOCA6Aw
+ggOcMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBSo
+FtujmT8zq4QBXVl39zKcEAnfyjAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIw
+ADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0Bgsr
+BgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQ
+UzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYB
+BQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYY
+aHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBBgYKKwYBBAHWeQIEAgSB9wSB9ADy
+AHcAfT7y+I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF8Mn33yQAABAMA
+SDBGAiEA9sqooyzfbNKv5EB1Dm6cJBrfEUd3UKKht6/ZJP5dI0cCIQCdaOLGD2ty
+8GPGNoI9b/AOAmxuyDb8/12+zWX0Nmj8hQB3AESUZS6w7s6vxEAH2Kj+KMDa5oK+
+2MsxtT/TM5a1toGoAAABfDJ9950AAAQDAEgwRgIhAKcGYOYCYuosfee0Cm/AFJoM
+LDDJSIPQY2+FEnM9SLhKAiEAxSYw+HfyAnZVjQwyN6AeGQ4u+iQfVWaQnTbVf/uS
+37YwgfoGA1UdEQSB8jCB74IVcGlua2RpYW1vbmRzdHlsZXMuY29tghxjcGFuZWwu
+cGlua2RpYW1vbmRzdHlsZXMuY29tgiFjcGNhbGVuZGFycy5waW5rZGlhbW9uZHN0
+eWxlcy5jb22CIGNwY29udGFjdHMucGlua2RpYW1vbmRzdHlsZXMuY29tghptYWls
+LnBpbmtkaWFtb25kc3R5bGVzLmNvbYIdd2ViZGlzay5waW5rZGlhbW9uZHN0eWxl
+cy5jb22CHXdlYm1haWwucGlua2RpYW1vbmRzdHlsZXMuY29tghl3d3cucGlua2Rp
+YW1vbmRzdHlsZXMuY29tMA0GCSqGSIb3DQEBCwUAA4IBAQBAHR1t79CLLL+ptCnb
+RjCpu3DDiY27rFJ1QpTs8FHlcRFWQtnUCdiEJkBZmKLHj6FvPOBS1mNePuUu9Oav
+5O5gcYQZj7qui3ZiT10yEK0RnjxeKnQYkjw50cG9MPzjeDyYb7yBYGc2z4yXxFmW
+I6PGTTh0Vl4UfyPCKFACPRZMewayZYiDoj/gqdHMcKzKxPRQq/bigz48eTeh7bo8
+lN0EdZfbF+DgHOzVKAnOMyd/jZLsrfr4uy6OwwTP85eIX1T0M2rKaMQMz65s5HXI
++DQKOWAlgBawNwrf4PF12jCcL7s/5yTFZ9BqAFd5W95NafPfB0BWzVKB3s7uxptu
++NyS
+-----END CERTIFICATE-----
+subject=CN = pinkdiamondstyles.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5236 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

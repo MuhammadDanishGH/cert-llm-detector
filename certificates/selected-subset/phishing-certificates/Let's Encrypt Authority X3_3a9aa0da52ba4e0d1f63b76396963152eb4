@@ -1,0 +1,99 @@
+https://clapsociety.org/wp-includes/pomo/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = clapsociety.org
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHBTCCBe2gAwIBAgISA6mqDaUrpODR9jt2OWljFS60MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA0MDIwNTQ4MDhaFw0x
+OTA3MDEwNTQ4MDhaMBoxGDAWBgNVBAMTD2NsYXBzb2NpZXR5Lm9yZzCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAMsP+0yiXR9aqLd+XsbX6cSLx5dewmY0
+ADxMGvFC+zcT2CakMD/D5htGJiwynrKuzPUyFGbY3avW36e0hzDOwvNi4V3JyfNb
+X5uVj1yA5vOwv5Rv3EEkjhQmWQOK1aRrebqTbEqf8wtb0wOT197G7llv/wd9vsro
+S5J0sPrQnmQ5X+znNaTzcYCSRNByk9IIThVE9YLeI5/F8xe/qouQC/8r73dTg55X
+3sWIkN/NQmMGscZ99rIsZff8y8JlIjAO1qDImoen08dir0qs2IDkPt19N1Lf+hoC
+oRzvwmNW8ZJKjjhOqUlVPhhQxfsi6XiZ/5OODhCwmsTlDvzFw8FBuAcCAwEAAaOC
+BBMwggQPMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUtXCYjBpVr6Ec5icbQCviUslO
+CIMwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEE
+YzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQu
+b3JnLzCCAccGA1UdEQSCAb4wggG6ghFhcHBsZWhpbGxzYXJ0LmNvbYIWYXBwbGVo
+aWxsc2FydC50b2V3cy50a4IeYXV0b2Rpc2NvdmVyLmFwcGxlaGlsbHNhcnQuY29t
+ghxhdXRvZGlzY292ZXIuY2xhcHNvY2lldHkub3Jngg9jbGFwc29jaWV0eS5vcmeC
+FGNsYXBzb2NpZXR5LnRvZXdzLnRrghhjcGFuZWwuYXBwbGVoaWxsc2FydC5jb22C
+FmNwYW5lbC5jbGFwc29jaWV0eS5vcmeCFm1haWwuYXBwbGVoaWxsc2FydC5jb22C
+FG1haWwuY2xhcHNvY2lldHkub3Jnghl3ZWJkaXNrLmFwcGxlaGlsbHNhcnQuY29t
+ghd3ZWJkaXNrLmNsYXBzb2NpZXR5Lm9yZ4IZd2VibWFpbC5hcHBsZWhpbGxzYXJ0
+LmNvbYIXd2VibWFpbC5jbGFwc29jaWV0eS5vcmeCFXd3dy5hcHBsZWhpbGxzYXJ0
+LmNvbYIad3d3LmFwcGxlaGlsbHNhcnQudG9ld3MudGuCE3d3dy5jbGFwc29jaWV0
+eS5vcmeCGHd3dy5jbGFwc29jaWV0eS50b2V3cy50azBMBgNVHSAERTBDMAgGBmeB
+DAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxl
+dHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AHR+2oMxrTMQ
+kSGcziVPQnDCv/1eQiAIxjc1eeYQe8xWAAABadzOG4IAAAQDAEcwRQIhAM6pgxol
++WS55EniIqYzMbR7lN0P5NYp0k7KdPyi8ty1AiBejiNBLI4opFhCCbQRUxJDHQgm
+/MWUgeX8ezFbEGmCJgB2AGPy283oO8wszwtyhCdXazOkjWF3j711pjixx2hUS9iN
+AAABadzOG5AAAAQDAEcwRQIgSz5LF7EqFp9gv4j2EHpFkYFs5b5Et9ptJcns2D+w
+PJQCIQDXT+3LafVTci8jHV5w7bswdVTPYS+nwF2yjzmelCRLRjANBgkqhkiG9w0B
+AQsFAAOCAQEAZhyqirGu1LKrsvz5kAkRSi2Zl/ookXo47LhlClDORMRFh7o+9f1x
+7yHtlqMEi7lxiks+x0M1echWx5kpE4ruObdFsV49m3bAOiUGmKDgT/NTKE1qZ058
+IHIjbpfDXCIBFXgZv+RXSPFomFrgPxyLKzEQieETPU3jZ1DQIV9O+OQzegyVtHyI
+sjc0z+QGA8pBnWhcxmtjShDFDRN7PjTsg3NMtndCy1Krtg9Uy9Hat3hihNlMrOxM
+NKOugKlvrZsdGdnpS0qe85mR98QoMGE1dVoeTLFUT/qs3/ZFGtl97zWmemBr74JK
+O6Z054xA/JZ6DiT1b0oB7Bg7dHJBYbHUvg==
+-----END CERTIFICATE-----
+subject=CN = clapsociety.org
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3639 bytes and written 420 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 571E48D988B28F9287EC93FDA898D66D9D289CF979835DD16AC7BD52EAD32577
+    Session-ID-ctx: 
+    Master-Key: BEDF3B0D5D124790112E1BE98BF19E6749FDF3CD60855C1581AF1C81329FD4F000A66C020BBAF522116BD5DB6DF6E495
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 74 38 46 08 bc 48 4b 49-7b 10 d1 24 cd c7 53 fc   t8F..HKI{..$..S.
+    0010 - 42 11 75 2f b5 66 94 f8-9c c7 7d 04 80 24 21 43   B.u/.f....}..$!C
+    0020 - 8a cd 70 96 0a 06 f8 4a-d4 05 4a 09 d3 21 fe 90   ..p....J..J..!..
+    0030 - ad ca c9 87 71 11 f2 25-b6 1c 6e a8 38 5c e3 f1   ....q..%..n.8\..
+    0040 - e8 93 3e ae 57 72 36 c4-83 99 3a 09 9e 23 69 9a   ..>.Wr6...:..#i.
+    0050 - 4f fd 15 e3 a5 5a 7c 0a-7f cf e0 33 c6 da 32 56   O....Z|....3..2V
+    0060 - 54 9c 20 48 7e c6 9d 2e-63 d8 b5 fc ad fc b8 c0   T. H~...c.......
+    0070 - 9a 1f 2b 09 e6 55 f4 be-a4 a2 e2 e5 15 68 66 fa   ..+..U.......hf.
+    0080 - 7f 57 70 89 a0 25 49 08-e3 99 79 51 43 86 ff 4d   .Wp..%I...yQC..M
+    0090 - 18 4a a6 46 e7 04 ed 78-59 ca 49 3c 35 05 96 7b   .J.F...xY.I<5..{
+    00a0 - 81 00 1f 24 8d 2b fd f7-1d e2 9c 76 57 68 f6 ef   ...$.+.....vWh..
+    00b0 - 46 a1 2c ce e6 96 7f a4-c7 52 a3 1a e9 89 05 04   F.,......R......
+
+    Start Time: 1559134833
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

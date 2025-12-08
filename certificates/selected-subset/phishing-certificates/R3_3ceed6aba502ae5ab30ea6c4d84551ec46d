@@ -1,0 +1,65 @@
+https://17750-1884.s1.webspace.re/sky2/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = 17750-1884.s1.webspace.re
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOTCCBCGgAwIBAgISA87tarpQKuWrMOpsTYRVHsRtMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MjUwNDQyMDFaFw0yMTExMjMwNDQyMDBaMCQxIjAgBgNVBAMT
+GTE3NzUwLTE4ODQuczEud2Vic3BhY2UucmUwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDqRCaDJKeXs1vXBZVF9LcAbrnvRr9TfhAN+ReA/ffYuj6oBb1n
+DBeqWW/ZdtCVGfVfuTEBaFRtV7OyNwP66V+WLEKHYP+xsEidxZA9oU2zU76RksUS
+Qot5T52aUTqE6dNqsaXM3kJM797VfRw/DofGTk+V9vDczYm+YiCaR5AdqA4mV/+V
+67AUCT7slm+c7a1yZJ/Huf++azGm66AEsc+Gjdx+1WC4jayn65VVbjUhi9DPpvBn
+m6QB4kMbZhNQt6v1DdzCpfzFHZUog69U0remBU10H//8LZvxigE3NkHT2mHgCVnm
+t22Lx332TdEf2oTaichVB2i7GyJOOCyF5U2bAgMBAAGjggJVMIICUTAOBgNVHQ8B
+Af8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFKICueZv2X64fMSwtUOMUqNtYikZMB8GA1UdIwQYMBaA
+FBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcw
+AYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMu
+aS5sZW5jci5vcmcvMCQGA1UdEQQdMBuCGTE3NzUwLTE4ODQuczEud2Vic3BhY2Uu
+cmUwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEF
+BQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEFBgorBgEEAdZ5AgQC
+BIH2BIHzAPEAdgCUILwejtWNbIhzH4KLIiwN0dpNXmxPlD1h204vWE2iwgAAAXt7
+1GKpAAAEAwBHMEUCIBL+ZuZAtksCiMprDyEk3zhqwhkV12XyQkGDlYuWzvdRAiEA
+vwQ4K7nQ/5RpzV5aQE3tKatwFwA9PqPS6uYYchjBiCMAdwD2XJQv0XcwIhRUGAgw
+lFaO400TGTO/3wwvIAvMTvFk4wAAAXt71GSTAAAEAwBIMEYCIQCyjJa17x2LZ+ZT
+//TaUJaOavNgV2vXoBO2sERe4dcUjgIhAOASREDXFVr+p3sS2oEWehjGq5528yMP
+GVWLHa15gjkUMA0GCSqGSIb3DQEBCwUAA4IBAQAwl46kkOU+IUO1M1bOFjHsvQB9
+6j3eMAHLDDE7WIuvdJ5vNF+x7pUKcrxA/K2qlcB6z69s5zWs1ao2t09MgIYTQFYs
+LPfCjGzxzlKz6Trix3OSEzzGSWmvwO5aYrcsrzlR9eGVJZ07l7TIf78iLUiRvCyV
+aCsWoLfQfylLJDuW7rOTVePfXFHwl875s9UrPn1QVDbtelM35I56Rz7Gsk+TsAcG
+y1cMi2FvnOacLl/RM981AhGqSy/vnugqqqAdT34q8Ih0gMmSJLg46pc0DpWgAvpB
+geWDehRWUCgF6JyPZauczopSuf3Qxq1EafvepnezYqAe4xk8feLndLq0klC6
+-----END CERTIFICATE-----
+subject=CN = 17750-1884.s1.webspace.re
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4597 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

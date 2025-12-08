@@ -1,0 +1,65 @@
+https://nttdocorno-login.emnlco.cn/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = nttdocorno-login.emnlco.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFOTCCBCGgAwIBAgISBKczH/0f0ZFPvChPNaBUlQGKMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMTgxNTE1NTZaFw0yMjAxMTYxNTE1NTVaMCUxIzAhBgNVBAMT
+Gm50dGRvY29ybm8tbG9naW4uZW1ubGNvLmNuMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA3R8nPGiCiWZ5tuOm+1L+fDjgXuL0M/T9B+6zjdA1HBV6ZYWv
+Zri0knDzbMoRtxmMlWAzhTv5vQOFUNAjP3GyuypiCvsTvQHRe8VZ+tq5CS8HJIXP
+aLVhwKnuhYS3WtBcY2BHhGXzbGOgsQqrlbb6zdLGOTBh5TbDRU+MFj3nt/K2k8ks
+bYb2AffrF7q3mJpb186AoRlrgTySeWJtHQc44vxf1UGm0N8rgCLvdt+ySXc/pJht
+XCOmTS680xyn29gTCRXYbZAzwDTFo+izBgDqKenaVKTFi8RxxPyZPrkkC2nqk0V2
+4wNLuS9dvDcckQPUUHeD2Bl8lT2BrVLf+62cuQIDAQABo4ICVDCCAlAwDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBQxQS6LpPEvvuT6qYY51wOTuGYyHDAfBgNVHSMEGDAW
+gBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUH
+MAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3Iz
+LmkubGVuY3Iub3JnLzAlBgNVHREEHjAcghpudHRkb2Nvcm5vLWxvZ2luLmVtbmxj
+by5jbjBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsG
+AQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkC
+BAIEgfQEgfEA7wB2AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAAB
+fJQwJukAAAQDAEcwRQIhAKWDIjjg/y9vo/TAfUlpLDDHmxFxmdbtsUHhff0nExo0
+AiAIVw4HjUWuMHXPc1RGpokPDzuzm0rQTV21/a9J8Kx9TgB1ACl5vvCeOTkh8FZz
+n2Old+W+V32cYAr4+U1dJlwlXceEAAABfJQwJvMAAAQDAEYwRAIgFDGz9oyUdqJv
+E9qTrUgxYVRNLhUB4KxwGZvCCH7CKC8CIEPQ4owMpD9dVZ73NELfPvqrKe7WhdiY
+BY52FiueyPqsMA0GCSqGSIb3DQEBCwUAA4IBAQAlarchM8g73P1gHw8EbKggAKuQ
+joQk6JDmwQX+g6XM0lCjNXJarSXBVfd5X6UTwECnzWh+C/+WYXHLuMQKSQ7gi2V1
+RJ/gOOk7yfb/tHMmIB32u2y63gLCej+6BbAX3OyPk278WkBd+TU/4yubBAdCf7qJ
+xeWeRiXTYDtKaenF/u6KKDZO29Zc5OH9dXgpgbOPuXooeNJHbw3oWRom1ZcQwK4R
+DLJqV1MpT8X7sy907BjP/1svRdCgEP+4i6ARkbKeD8omJwrF/VNUQc64RGTr2XHs
+U2JysoPj/cTQQJ4Hd8Ca+VVOgQSzUUy6bb4HrnY8L7XY1x+mwHvTHGZm57R0
+-----END CERTIFICATE-----
+subject=CN = nttdocorno-login.emnlco.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4597 bytes and written 400 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

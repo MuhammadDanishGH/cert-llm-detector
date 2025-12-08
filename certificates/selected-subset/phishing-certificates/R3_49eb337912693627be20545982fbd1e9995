@@ -1,0 +1,65 @@
+https://42ideas.io/netfIisc/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = 42ideas.io
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFGzCCBAOgAwIBAgISBJ6zN5Emk2J74gVFmC+9HpmVMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMDkxNTExNTJaFw0yMjA1MTAxNTExNTFaMBUxEzARBgNVBAMT
+CjQyaWRlYXMuaW8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDNl+1J
+cOvrVURPeGgij2SVqmO7WYem5PtnZ/uHNMtzBkUlcT8tY9nepUpDwzEDfdtaGZus
+wj+61ubMPdFyxcilNeBa2ICUZ3ED7fZDSrkqptCXAgr3dmpD82VJEO7+tana2vzM
+0Su15Sg7EqqSgmh5KC10whzAwfsEYui0IhV2DSCdaB0ypSlEoIJazmFrat8ot9M/
+3d9F0BJ+IeNAbfsNA8HkK0sQ8PUEV4CKdmx+61g8S6G5+q8EANT1WVeUI0T8xRHn
+uTsaUji4TUqe1bXOdH9Dbz3PmQ95OGRvEvbbv4T1wQ6pTzeH2J4W2Tr8wWjdE9HT
+jNzKpmeVbPZUS1OVAgMBAAGjggJGMIICQjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FJ+R0aqDZuAgggHJehg/ruYWVUhmMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYf
+r52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8u
+bGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMBUG
+A1UdEQQOMAyCCjQyaWRlYXMuaW8wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYB
+BAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5v
+cmcwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgBByMqx3yJGShDGoToJQodeTjGL
+GwPr60vHaPCQYpYG9gAAAX7fQWaiAAAEAwBHMEUCIQCbVBQFGf5bgF7kSbmtQBrp
+jVeirZcMRqOiGqceaPlgAQIgRT5aLW1Sy7S6iuM38BBFBMteGMGMN2IrQYQkeXkJ
+AXkAdwApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3HhAAAAX7fQWaLAAAE
+AwBIMEYCIQDUkWVK2g4eg03yY4fBBvjbW37Etql8yfG/pHHeXJNOyQIhAPn25wNI
++DDC8mY9Bxz4tYDayTa+rEZPCS6BGCTeNY1nMA0GCSqGSIb3DQEBCwUAA4IBAQAi
+lWM5tNOlNj8kuqvtFYi9bwY3P+C+IpWbRlOOCEPErwd476Mwu2dO8iUeLoZuif4D
+v4h/J5wDHEJsIFfZLBgNIhYtf5wjADxGNNjut4bdHUaOpYjc41VYCHgcm0ruHgA4
+3+B46Rw5U56lT+rcgN+TpO7CAHzXQ6jE3HNePTv+rak4+6ucSO7BOejgOOpNAzF6
+tshm9lAJzS6+9n78evIkQRmRduUhD6gxDzVHFT0QNNbCc1zugp/LCmbxF6G12v7C
+14eFEj9fMtDCPGxiIPB/cKJ7D1QjkbLUvA+CoA1/g5+rJEBMMhetU9kf8DisJWtP
+Mg5O0hCdrXqDIktRs561
+-----END CERTIFICATE-----
+subject=CN = 42ideas.io
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4567 bytes and written 384 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

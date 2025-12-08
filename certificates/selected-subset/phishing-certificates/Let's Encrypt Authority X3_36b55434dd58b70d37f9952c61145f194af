@@ -1,0 +1,98 @@
+https://www.sketchpad-velazquez.com/yoga/exposition/conjure/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.1401-colon-tome.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGbDCCBVSgAwIBAgISA2tVQ03Vi3DTf5lSxhFF8ZSvMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMjEyMTM0MTJaFw0y
+MDAxMTkyMTM0MTJaMCIxIDAeBgNVBAMTF3d3dy4xNDAxLWNvbG9uLXRvbWUuY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzXc25S09TaXH9rOy54Jl
+LKGlyC05GlS1DWNty31zQe7Nc69eKhqpfOI5nAO0kAj7r4mGYmZm7sDrDzNy+5z+
+tRxtr5Bjgbma3ENuALGu93XOw1OURQ7qeiQ2fgpugNPvf4hyKnVt4+DEchbCtjWE
+p8MV/W0gZZDJa0OOglpPVLmG1Eb8NDdhuO1opC9Fii2KuIhf0MMeR1GxT8loF9WS
+kmU2JPTC/cdwxYt6PT0hFx05LNyFxqkTWwIxe5iwpo/qrVN/z9siXrBzqPM5OqX6
+0o+ESgInLiJFpsbfrhKF0qWphkpglLBYBRS05gDavmbFC+UPs3zGW3pZV085ABM8
+swIDAQABo4IDcjCCA24wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQgjTWxWUTUR19W
+ZIhKDKepYVM2yjAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggr
+BgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRz
+ZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRz
+ZW5jcnlwdC5vcmcvMIIBKAYDVR0RBIIBHzCCARuCF2NlbnR1cnktZGVjb3ItYWRv
+cHQuY29tgg5mbGF1bnQxMDc4LmNvbYIOcGxldXJhMTE2Ni5jb22CFHJ1c3NlbGwt
+Y2FyZGVuYXMuY29tghd3d3cuMTQwMS1jb2xvbi10b21lLmNvbYIbd3d3LmNhcGVj
+YXJkaWdhbnRyaW5pdHkuY29tgh13d3cuY2xhc3Ata2luZC13b3J0aHdoaWxlLmNv
+bYIcd3d3LmNvbnZlcnNpb25ibG9ja2hvdXNlLmNvbYIdd3d3LmxpbmVtZW4xMjAz
+d2lsbGlhbXNvbi5jb22CG3d3dy5waGFudGFzbS1wcm90ZXN0YW50LmNvbYIbd3d3
+LnNrZXRjaHBhZC12ZWxhenF1ZXouY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcG
+CysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5
+cHQub3JnMIIBAgYKKwYBBAHWeQIEAgSB8wSB8ADuAHUAXqdz+d9WwOe1Nkh90Eng
+MnqRmgyEoRIShBh1loFxRVgAAAFt8HTW7wAABAMARjBEAiBh9ScZpSzdO1vu8+Kd
+v62SL6hu3yJPQGTHCEpkN8P+iQIgBGzhsHRFMrlvJn4lEp9Kki5rekhV8iXhDJIS
+4OTPeyoAdQCyHgXMi6LNiiBOh2b5K7mKJSBna9r6cOeySVMt74uQXgAAAW3wdNbd
+AAAEAwBGMEQCIDRu4triL+2wovSPLuyqoi/j9hk6lzVTbPlLt8KhoCUAAiAMg3RF
+tVnV7RT9IfvwJd0HPp3mO+Pc5H3BHLi4sYJmtzANBgkqhkiG9w0BAQsFAAOCAQEA
+Uf1hbaSIbiteLyeJwpJ24v9ovtJ/7BzJ6n48kLCyrS/DqvUfjoMqDEeXJfHN800Z
+jEiCEbYf6gSbcb9xs5GOOH2tZW3Ep8ivLLd8EHuvIpyZUimAX/mrff7bc9opMn4G
+bWFCcwi9NBzZki8TbnCmPpuT3PNZbVWAc+UvMXC9Sl5NqCHIrQW58fWSKuDs01v+
+rNunjxEKiAxD0JkKckoch1tVv+iVkKFRvGcGSI01kWXeMDWSvvhgbOTkomu5pNJT
+lfzpczlK/HWEQW1LQsV9qANReNPlER++Gd5liOYgbfQ0lDdJVMPdSm+XFbIWPjK2
+G8q2O+N9jX5ZPn49nm3FfQ==
+-----END CERTIFICATE-----
+subject=CN = www.1401-colon-tome.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3510 bytes and written 424 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 5EDEF9D3E5F5313F5DB774F790EC1714F14F344068B329DDD76E4E9DAB5B598E
+    Session-ID-ctx: 
+    Master-Key: BD64E951B370FE6A7460FC5383693BC8688585CB9D1597835FD9C9E5E7F1840B60DCED177CFACC4C0A6AAC94A12A07F8
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 75 92 98 11 14 c3 42 a0-ab 56 a6 1a 73 40 38 02   u.....B..V..s@8.
+    0010 - e5 c4 1a 60 5e e3 09 17-35 fa e8 cf 0c ca d2 3e   ...`^...5......>
+    0020 - f9 4a 49 06 23 3d bd 31-5a 48 24 ea 8d 0a 23 f7   .JI.#=.1ZH$...#.
+    0030 - f4 70 bf 94 f5 e0 8a 2e-a1 91 2c 4c ff a0 cb 19   .p........,L....
+    0040 - fe 21 83 15 7f cc cd c9-48 1e 09 d5 9f d5 ec 8a   .!......H.......
+    0050 - 89 3e db 53 fb 19 74 e6-e6 47 ce 4d 7c 9c c2 2c   .>.S..t..G.M|..,
+    0060 - cb cf cc f5 47 7b 0e bc-27 95 94 41 62 ca 4f c1   ....G{..'..Ab.O.
+    0070 - 78 25 32 79 6e e7 bd 33-86 16 ac ae 61 d7 a6 20   x%2yn..3....a.. 
+    0080 - 02 70 d4 8a 13 c1 97 c0-ca 12 41 b6 58 89 2e 91   .p........A.X...
+    0090 - 37 05 3a 36 10 af 21 01-31 50 d3 a5 24 45 9a bf   7.:6..!.1P..$E..
+    00a0 - 25 59 1a fe 04 d8 7d 67-d8 bf 45 0b 12 7f 18 e5   %Y....}g..E.....
+    00b0 - 14 24 09 10 64 70 dc 4b-45 0f 2c 70 21 b1 a5 20   .$..dp.KE.,p!.. 
+    00c0 - 69 ae ab ec 37 75 00 13-b4 3c 70 69 2e f9 30 b4   i...7u...<pi..0.
+    00d0 - 47 ca 46 a3 ab 80 9c 34-f7 13 97 37 f7 7f 4a 54   G.F....4...7..JT
+
+    Start Time: 1573135262
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

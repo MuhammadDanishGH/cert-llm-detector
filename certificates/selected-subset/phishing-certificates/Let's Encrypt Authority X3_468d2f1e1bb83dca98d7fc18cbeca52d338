@@ -1,0 +1,93 @@
+https://manumetal.rw/gt/Client/?email=info@ibm.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = manumetal.rw
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFyzCCBLOgAwIBAgISBGjS8eG7g9ypjX/BjL7KUtM4MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xODEyMTkwNDEyMzdaFw0x
+OTAzMTkwNDEyMzdaMBcxFTATBgNVBAMTDG1hbnVtZXRhbC5ydzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAL5kQ/m/7atf7Eflny15/o1nYNLPDfVQwVTQ
+huDVmq8RRaDrz0XZHMScto+RKSHLcoGSBL3muFNafPfkA7FG2NOjXcf2aQAVMZw+
+/32BBaqjI4Ty98jD0rCTDsMlCCRAWGSfo3BOqSuuLw5orvSEFPVjrSPiS3ahAfLs
+DcuW77zTubDk8pzsMJUK8qIhINTzveDPFD//JK3V+QRambHrics0ObIc+xvx6dkj
+ncpSOLbCFbtCtERj1e3i86EbCmhnrrYXRXGIG+h+yqdf2J0D+fHQB8IuYml5dcFb
+0bu6zIwR3OJknBRK6MkKB6UKHDQ00OD09JM5oTPR1+VAdRHCdKMCAwEAAaOCAtww
+ggLYMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUMA5MeFFok3iN6GLWpkEGNtLh114w
+HwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBh
+MC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+MC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3Jn
+LzCBkQYDVR0RBIGJMIGGghNjcGFuZWwubWFudW1ldGFsLnJ3ghFtYWlsLm1hbnVt
+ZXRhbC5yd4IMbWFudW1ldGFsLnJ3ghR3ZWJkaXNrLm1hbnVtZXRhbC5yd4IUd2Vi
+bWFpbC5tYW51bWV0YWwucneCEHdobS5tYW51bWV0YWwucneCEHd3dy5tYW51bWV0
+YWwucncwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggr
+BgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5
+AgQCBIH1BIHyAPAAdgB0ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAA
+AWfE4UXtAAAEAwBHMEUCIQDWLPCj7vJC/U7to5UyLWXm8DivznAVeldflc+jZ66E
+DwIgKNqm/zTC6UJLbmK8Go1JVqh38MNbUh4nSK5A/2PN2FgAdgApPFGWVMg5Zbqq
+UPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAWfE4UXSAAAEAwBHMEUCIDouCyHr1oH6
+qoul/bL2hlL0ll1Dt3JT56tbKkHKfLb/AiEAuNnXcWaM2HkGBOyy/67oL3T8Yi6q
+Ajv3VYLbeyBtWnwwDQYJKoZIhvcNAQELBQADggEBAJbaVWST1uwK+N9GzwXg1sJ6
+h0yDRvCi/92lwGOJgLl6g8IMMBB/7Ud5s1VKV0lG6uk+2gGFbR6jbSHw+Ut5fJ/8
+W2B5qiYr+SF6zMVtOqHYdxyF7bD72ukaUTg556CbRkBs8eFA6+Ze+oYEbasQXSuq
+R+nJfwaoc3ipc87MjbAk36+kiV/qjnBrwHu3Tvz+mgNQU4cgCM2iCq/VdCkLWa+4
+kYbzWT/UWIidPEZvMPHf5lYgZVjNDp10drFiT1ggnD23zT3VyX2UQkN50EC3pwke
+U1AwoxH+ox/rDSQaxIfZr8/6mcedIiQdVvdZhSLxfr80SjCPqr+sM8dEe4OMrlI=
+-----END CERTIFICATE-----
+subject=CN = manumetal.rw
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3370 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: ED3B9CF3920FD8261DE72EFE0D6DADB39FDFDD7B7E21C7B79F89798E399948AA
+    Session-ID-ctx: 
+    Master-Key: A3D4267745B48CE3E173E18362F5860FEA9732551F8ADA22C6E4F7002073B2393C2A8641CD49AB14A5DDC8EFFD69CE5D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 6e c2 42 c3 7c 27 01 e6-ab b0 7e e8 b4 52 03 0e   n.B.|'....~..R..
+    0010 - 28 95 e8 95 cb 18 a8 93-b1 5d 6d 1e c8 31 52 2b   (........]m..1R+
+    0020 - 08 1b ed 94 d7 70 ac e6-ba b4 e4 38 c9 18 ac 05   .....p.....8....
+    0030 - fe e8 d3 88 7c cd ff b7-e0 ab e6 af 5a cf 91 c4   ....|.......Z...
+    0040 - 71 e7 3f ac 1c c6 6f a9-16 26 c9 a9 0f c8 ce 1e   q.?...o..&......
+    0050 - 99 88 b5 7c fb 47 0a ab-6b d1 1c 8f b2 49 10 6d   ...|.G..k....I.m
+    0060 - bf c4 37 dc ed 7c bb bd-42 7a 09 74 87 30 55 b8   ..7..|..Bz.t.0U.
+    0070 - 48 e7 a7 be a6 23 a9 ef-57 d2 f4 05 9e 1b 1d 0b   H....#..W.......
+    0080 - 73 78 20 ee e8 b6 bd 2b-d7 df fc e4 ca 59 8b f5   sx ....+.....Y..
+    0090 - 16 ac a7 40 0f 10 8d 76-96 27 70 74 8d 30 b1 1c   ...@...v.'pt.0..
+    00a0 - b1 54 b0 34 79 75 ea 04-99 d9 67 82 24 02 d9 ed   .T.4yu....g.$...
+    00b0 - f5 73 8f 08 5a 2f 70 eb-fa 93 bb 70 a1 db f8 b3   .s..Z/p....p....
+    00c0 - 7a 5b 16 5f ab a1 d9 a5-5c be ba ed d4 22 3f e6   z[._....\...."?.
+
+    Start Time: 1550412015
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

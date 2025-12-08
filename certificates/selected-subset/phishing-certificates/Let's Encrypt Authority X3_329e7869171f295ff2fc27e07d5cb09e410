@@ -1,0 +1,97 @@
+http://ccjd.timonera.com/dxd/07819/online/authentication/authentication.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = ccjd.timonera.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGhTCCBW2gAwIBAgISAynnhpFx8pX/L8J+B9XLCeQQMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MDYxMjIwMzRaFw0x
+OTEwMDQxMjIwMzRaMBwxGjAYBgNVBAMTEWNjamQudGltb25lcmEuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw/ziviIwbdL0plViYH0A7UG2S/2R
+0Xlk0JY6l5CIYPBq/TycmLc3WzGjjWap09T0xosWBzQ5jIe9H1tfImjCa7ESQcqX
+83e+/JMs9gpSrGiVleYcuEdW1jLVjap+LD8U6vN3xs/e8lTDsxFR/0XhJmyE7qqD
+rcxLCOIE02twGCVbUr2ui6P7qlQrQjQ6g9S8YysnpV8typIDI86bdqhL3u30H4qI
+cRIZ5gtbfmlVtTBG1vLcTP5WtVA+X0baJK5TfBQlJzJpFLhUh7fQYUtiQIPMCugK
+tRQRnWKo5iP3feFFsxkutuu3wBzlrvGqP2RyoZe2zvhqQwIsKge6AvaTrwIDAQAB
+o4IDkTCCA40wDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBT5vNUNo3qv0r0oJndPTWuG
+jcFGDDAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMIIBRQYDVR0RBIIBPDCCATiCEWNjamQudGltb25lcmEuY29tghdkcmVh
+bWNha2VzLnRpbW9uZXJhLmNvbYIWbWluZGEyMDEwLnRpbW9uZXJhLmNvbYIWbWlu
+ZGFuZXdzLnRpbW9uZXJhLmNvbYIVbW9yb2tyaXMudGltb25lcmEuY29tghtwdXNv
+bmdtaW5kYW5hby50aW1vbmVyYS5jb22CFXd3dy5jY2pkLnRpbW9uZXJhLmNvbYIb
+d3d3LmRyZWFtY2FrZXMudGltb25lcmEuY29tghp3d3cubWluZGEyMDEwLnRpbW9u
+ZXJhLmNvbYIad3d3Lm1pbmRhbmV3cy50aW1vbmVyYS5jb22CGXd3dy5tb3Jva3Jp
+cy50aW1vbmVyYS5jb22CH3d3dy5wdXNvbmdtaW5kYW5hby50aW1vbmVyYS5jb20w
+TAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcC
+ARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1
+BIHyAPAAdgDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWvHcYbz
+AAAEAwBHMEUCIQDa89UO61UApHcbPSfHxT7c1e/QeE3zgPRxVLIJ1qeWuQIgdE+s
++AolYUra6JPwq4ZZjMCPgagGfwts404klfHK/9IAdgBj8tvN6DvMLM8LcoQnV2sz
+pI1hd4+9daY4scdoVEvYjQAAAWvHcYjZAAAEAwBHMEUCIBIeRXkAVjcc4HWafYtI
+BrUvMQUBVN3KcfBENApYcYF6AiEAr1x5DYlvaLhybPKKkUsQx5fTzLElxK1DlP/5
+pbhJHTAwDQYJKoZIhvcNAQELBQADggEBACER3UjvelbpYVExolF9N/qropvlJiG+
+0q87izqFR1pmr4bx8GMEpUxXRiIELw9daC6LnnH5aqxsYEA3jz0T1+0EUmfTv5GY
+hQHwvsxu0dyNOJ0Ar9ZNXTtso3MCqJJU/H8U//JIyw8U4lYh62DqkrLxa6cd0Wvl
+7RtrsMmCRTWUDrZCGhZk3QOH9TYvtkTL1X261ZoVdZ77YIQz2jx7wORPLylTT4mj
+XXf4y4fciJWbVefTSulpeJ3PmpSryJr5jTjcE45ciTeZBivgZmihNAEF9ZjsbXZf
+tmWqHJ7E9wAbQ/sooaZdjMGGQKvTo7aRIESn5EFD606Alhfb9+0GUjo=
+-----END CERTIFICATE-----
+subject=CN = ccjd.timonera.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3556 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 5BFDD2FD51B4C4FA0939D7503CE0EEEFAEDF7C25789EBA033FF0847A2947C6B5
+    Session-ID-ctx: 
+    Master-Key: CAA0321E4C7283EF2248CE3ADBE45E487C13390CA9350782B0D58E7FB20B42AB6CDE19478B1EA2C7FCE8948B4EBCB008
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - f7 f8 3e 7f ff ed 5d 54-51 60 68 87 fc c3 3f de   ..>...]TQ`h...?.
+    0010 - 44 90 ad e9 2c 31 88 aa-81 64 28 e7 71 15 e1 c5   D...,1...d(.q...
+    0020 - 32 be 16 49 8c da 7b 8e-94 bb 23 76 16 c2 ad 82   2..I..{...#v....
+    0030 - dc 5a ae c1 d4 b2 40 9c-8b 42 7a ad 70 61 2b 62   .Z....@..Bz.pa+b
+    0040 - 36 8d 30 fe c0 45 a2 9e-08 4a 5a af ca df 92 cc   6.0..E...JZ.....
+    0050 - de 8f 15 0e 38 44 73 26-a5 57 d6 4f 11 9f f1 be   ....8Ds&.W.O....
+    0060 - 26 29 b9 a7 02 b1 05 32-f1 95 27 f8 45 61 b8 e7   &).....2..'.Ea..
+    0070 - a3 b5 79 56 ef 5d 30 70-db 3f a7 2a 24 2d cc 87   ..yV.]0p.?.*$-..
+    0080 - 76 19 4a 45 dc 3d 44 4a-b6 9c 28 52 7b 7d 15 59   v.JE.=DJ..(R{}.Y
+    0090 - 3d d8 32 f4 89 ea c4 1b-e9 e9 48 55 5e 80 bb 50   =.2.......HU^..P
+    00a0 - 3d 83 7b 53 ac 74 8d 06-33 3e 7b ef e1 70 64 0b   =.{S.t..3>{..pd.
+    00b0 - 18 64 e0 22 5b e7 ef c2-75 b5 ed ae f7 f5 21 8f   .d."[...u.....!.
+    00c0 - 1a 95 71 3d 51 44 89 f9-a8 25 ae c0 25 33 43 73   ..q=QD...%..%3Cs
+
+    Start Time: 1563022825
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

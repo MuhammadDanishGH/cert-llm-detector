@@ -1,0 +1,66 @@
+https://raktuen.maxoox.com/member/RakutenPC.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = raktuen.maxoox.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPjCCBCagAwIBAgISBLJAcqxm/v4/RMFwYbOgphlXMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMjEyMTA1MDhaFw0yMjAxMTkyMTA1MDdaMB0xGzAZBgNVBAMT
+EnJha3R1ZW4ubWF4b294LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBALzlsis627Ycq0UgpVgdflRqte8cEzVgE2YhZSrudvk1Mp5cyteGrIJe0YtA
+ctFBp4787nFr/xgeV7701NJD7ujY1XFsfp8tdeWA5p4WP8mDEVBwR9giAE/dGduP
+PPA0C8mtW2uFZQRJeykJS8qXq+yNgFS7QYXJQCFDLhnQmw0ya+l3KEJEDOIUUsux
+Afwe/kE88TcXXGR+9+j++kTnV2dBEJRppk4WL9LAc3Kiq4mZyQIrEAFr1JahNbuF
+2jNtJVZofRt0o21sNNBnHhQPC7btc97gbgPaUo/iKa1zmEMW66C0Sseld+Pb9ZOx
+LjpjILrzZFVfnmNzp6tg6V6KQZUCAwEAAaOCAmEwggJdMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUVeI15Du5GtukI/nr3rps0hHKAoQwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wMQYDVR0RBCowKIIScmFrdHVlbi5tYXhvb3guY29tghJyYWt0dWVuLnRq
+cWhibS5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAm
+BggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEE
+AdZ5AgQCBIH1BIHyAPAAdgApeb7wnjk5IfBWc59jpXflvld9nGAK+PlNXSZcJV3H
+hAAAAXyk4u8iAAAEAwBHMEUCIQDWYXIRX7MiM0P9G05JLgtQ7t4ym95DrN3NraF1
+t1sMuQIgANUIZCKg0JEJzOQ2cVq7mmj/RtbFXv1jyxFDFXI/G7MAdgDfpV6raIJP
+H2yt7rhfTj5a6s2iEqRqXo47EsAgRFwqcwAAAXyk4vEmAAAEAwBHMEUCIEE3zBlf
+Gm0SUbIVqO9pVeOOE+y8Jgy2RQn4oRuMJWNnAiEAzeF2ICJ4ihYiyeOIF+endV8J
+Z3MqYHpjfRRObjOczHowDQYJKoZIhvcNAQELBQADggEBAFp9RrXAr38ynASnjODT
+SPnCyUXJqC0/cW82TSzGSnMcipa0oP25b5TsvUXvRCy13ZQM3JJZlpbE9/YSHm1o
+bujeTf5m8E1B0YBi6WEseCw3o4gwWnFvCjwbAKevqRRfLkvBbA3CkRBHOSMtQ7Mi
+42dYsP8SUuIje5I9qiLVWGovpeGaLbgoUnDIscUYsB4s67sRq/2LsooiryUmEEAP
+CqMTYg7uQZcn22jKaK0FtEO9SPd6sl/vVqtqWwdE6Nq9yMefTo9otILwsK0J2Vn5
+cKt/x6T2uGGpak8at2CUY0Aq2kZYxlIwCYKPXB0Bcj8zVEd9CaEdBUdCuVIaexbE
+guM=
+-----END CERTIFICATE-----
+subject=CN = raktuen.maxoox.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4602 bytes and written 392 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

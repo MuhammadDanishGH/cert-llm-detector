@@ -1,0 +1,73 @@
+http://rossleeonline.co.za/View/xx/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = rossleeonline.co.za
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGrDCCBZSgAwIBAgIRAJzePUIGXDWpcNwo/QCebGwwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA3MTUwMDAwMDBaFw0yMTEwMTMyMzU5
+NTlaMB4xHDAaBgNVBAMTE3Jvc3NsZWVvbmxpbmUuY28uemEwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDM0cMRjH1ZO6CmIDphOLvsrUI5jKczfU9/xAKv
+4Vktylk+aMLeATAy9+K1fHL3u0JJaooEmKlww6kHpIudsuzsxeDuKOEu03aJWOqD
+gTsdzCRz2U2oUTKunx+nUJ6ypgnP3ayAKNDDrEUoUIgZMeL2sceQ2Y8joJ8qWlCw
+jMgj+qfJj9K66sV4yj1hrOqpcP/8Zfc8ODp9pGtTdmXR0fWxOThqjkXvMQ84mRoS
+TDte8wsUlvUCVewt+AJOEuWyOs839HamgWi0zj9oj6+fKNNI1uNoYP2HoXWd8CwM
+v4jrnFcAU9HxYCItypS3ziBUthTwY6q0DwXbW4HQhm1v02eDAgMBAAGjggOPMIID
+izAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUUA6R
+3gp+Rv1pItk8Re1VjPNyuEcwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYB
+BAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMw
+CAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUF
+BwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1Bh
+bmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB2
+AH0+8viP/4hVaCTCwMqeUol5K8UOeAl/LmqXaJl+IvDXAAABeqx5jZwAAAQDAEcw
+RQIhAJXzF7TGb1afwqvgDNW7fVF/ekC2lVGe+6no77sCsxDdAiBv9CPGA5LOH8xB
+MYokfpR3KvVByheHjZ1boGNvH6A3ZQB3AESUZS6w7s6vxEAH2Kj+KMDa5oK+2Msx
+tT/TM5a1toGoAAABeqx5jaAAAAQDAEgwRgIhALnN0DG+PxVeHGRr+yG/tK3ykT+G
+LaTQNx3h7pmM8+EkAiEAwItv0LRP4WdtsVyP+Eu0SToBVHFo6v+ikP4M+Ts3NHow
+geoGA1UdEQSB4jCB34ITcm9zc2xlZW9ubGluZS5jby56YYIaY3BhbmVsLnJvc3Ns
+ZWVvbmxpbmUuY28uemGCH2NwY2FsZW5kYXJzLnJvc3NsZWVvbmxpbmUuY28uemGC
+HmNwY29udGFjdHMucm9zc2xlZW9ubGluZS5jby56YYIYbWFpbC5yb3NzbGVlb25s
+aW5lLmNvLnphght3ZWJkaXNrLnJvc3NsZWVvbmxpbmUuY28uemGCG3dlYm1haWwu
+cm9zc2xlZW9ubGluZS5jby56YYIXd3d3LnJvc3NsZWVvbmxpbmUuY28uemEwDQYJ
+KoZIhvcNAQELBQADggEBAHkb9KwDtgSajfOkk+E0kmApAASEftcHMf/Z1uVzPsgq
++KssY49jCstiPggrwuqn6rDuYN0umRfW4uHN4X6MFwTKGBeEHAOU9U+dlNqFBDMn
+/muNA+aaISp6r+eW3hS98uamnmxo7Nh4qSjxlA7uwDH5dUb93XMWvhP4PCRkPavY
+XlXnjDvpm3wLtbRRyyktC12NeZ2nB5ZgPuXcyTwm/HWeYqgSQM+hdyznCTEiNy/t
+zecgmZ1aMe0MOnC0YkXEjPLQcPpnTqhjjlKUjxWcamBTq5v+X67xbUq7vC1Lt1yI
+aQ749iqqfIEEjnQKKHtDzYRzu1oNIl8qf/8apkKi1KE=
+-----END CERTIFICATE-----
+subject=CN = rossleeonline.co.za
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5217 bytes and written 401 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

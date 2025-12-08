@@ -1,0 +1,71 @@
+http://accounts.senpchat.com/accounts/welcome/74285/rest/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = accounts.senpchat.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+C0g=
+-----END CERTIFICATE-----
+subject=CN = accounts.senpchat.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5028 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

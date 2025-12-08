@@ -1,0 +1,69 @@
+https://news77.dvrlists.com/app.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = news77.dvrlists.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF3zCCBMegAwIBAgIRAJ99mwXx8PWR23GKLivpnQkwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTEyMTMwMDAwMDBaFw0yMjAzMTMyMzU5
+NTlaMB4xHDAaBgNVBAMTE25ld3M3Ny5kdnJsaXN0cy5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQC/kIjLklNYmq9kXqDMHDjETSECaVTbU/JsmqiJ
+SBV/fWSUmn63JJ+d6qyxl/mLe6Tqhtixxlbgss1oeLB1+XcJgyv/2oDf+9oenobB
+1o8HK8caHKswMTxXT0RW4o4ElSGdtXVzZhEJTBQBy2wYmEo/zZPh1Ar+YWp4Ua1/
+2HLbOlKlG8D23lQJT0sJqA90rmNXzrY55HouTkAHAa/Fq4j5SqOKiaPRsrayBKUq
+s3wF1RUBqLmc+EZrg0D9TSnTeQm69OIWfWuollCe5ZYH98r1f65YSxyw3h5+Ox2M
+OYomR5cH8epSuUljNCY5LvAWA4Wjezy2NfXwDchAT1ieZYktAgMBAAGjggLCMIIC
+vjAfBgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUSEAE
+ILJMtRKyaJlXcm5f1zN5ihIwDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYB
+BAGyMQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMw
+CAYGZ4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUF
+BwEBBHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1Bh
+bmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0
+dHA6Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3
+AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfbRZWJYAAAQDAEgw
+RgIhAMWhJJbD3td6uRTJkS3VcJqxFyjuL7OKRHQDKOdPEhfUAiEA/VB5Ed56A0A0
+QT4h5RPxdD4OE9eDN0etMG2VccLAelIAdgBByMqx3yJGShDGoToJQodeTjGLGwPr
+60vHaPCQYpYG9gAAAX20WVh0AAAEAwBHMEUCIQDbG4TUjuKxg1qi2LSLoPxdXcux
+od7tMF8n6CZt3IiK5wIgHLWaARF71DZJbPIVCPBSb9ZWQR3Cx9hF+dFFIkosjm4w
+HgYDVR0RBBcwFYITbmV3czc3LmR2cmxpc3RzLmNvbTANBgkqhkiG9w0BAQsFAAOC
+AQEAO4wVFSLxl/U4GTfmKQuJwmogxqe40vAkSjaZMgvbhr3uL5MElDgeZL81ABP0
+f8uOJiUYgKY51T16Aa+n0cvPVB8XQOerN6WssF6sXFtjyqPaf+ZgClBXbPNxHdN2
+oCZ0Wle1MlJYPLBM2eozulfiStfA2PaiU3p6Fn2BWWR/ft3JGAQU5HzqR/C7usw5
+yHFSLtTx/6X9dWD/RS0iDUHcM+zs98PMoF3fGL2SN5sCVqQmwP7onhfj8ScqV63e
+r6gaYayrAQKupD/KHOCKAMHi/TKTMGndPpAslF2HPZVxAJipuQBQ/wh5hO6ASTRL
+fKbf535fDvH7wc8l5Bvr9myNOA==
+-----END CERTIFICATE-----
+subject=CN = news77.dvrlists.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5012 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

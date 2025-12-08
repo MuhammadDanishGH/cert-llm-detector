@@ -1,0 +1,94 @@
+http://app-itaucard-banking.acessomovel.com/itau
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = app-itaucard-banking.acessomovel.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFqjCCBJKgAwIBAgISA6mC3NXisMM142XW6zVNYathMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAyMjYyMzMxNTJaFw0x
+OTA1MjcyMzMxNTJaMC8xLTArBgNVBAMTJGFwcC1pdGF1Y2FyZC1iYW5raW5nLmFj
+ZXNzb21vdmVsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANrf
+wcBJ1ekJidcFMnoKg1B7sJpHSKFr80T7eeTG7qLTP1Bn3ccKioTrJn8Ti1bhSqFI
+BpdGDADOTdnRgb11djI6e1UTeAiXlc9ZJIDv6Q1MtH3vpG3tT5Y8bd1xWTowow07
+xQa8jsP+Or7kg351FLXeVjLyhUREsceg+VDP0zwbZWKotbAWU259essGW6qsLhRM
+7Rszqq3RbSxqlloy32OrRKWhKXxt3eFmHJB6zACHDeNR7kr8EiOyLSX9mygb+DSQ
+1hYokZBBPb05VuftSzd6DeAlXKnVdW2GaIW4JvzBa668JM6VKMTQ3T/iuBxnLoVx
+Za1UMvXxxVUMYg9oauUCAwEAAaOCAqMwggKfMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQUicCBapceLN3U7n3LumB0ljnsEPgwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3
+pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2Nz
+cC5pbnQteDMubGV0c2VuY3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2Vy
+dC5pbnQteDMubGV0c2VuY3J5cHQub3JnLzBZBgNVHREEUjBQgiRhcHAtaXRhdWNh
+cmQtYmFua2luZy5hY2Vzc29tb3ZlbC5jb22CKHd3dy5hcHAtaXRhdWNhcmQtYmFu
+a2luZy5hY2Vzc29tb3ZlbC5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYB
+BAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5v
+cmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgB0ftqDMa0zEJEhnM4lT0Jwwr/9
+XkIgCMY3NXnmEHvMVgAAAWksXWq3AAAEAwBHMEUCIQCm2oGMyGA/WG0cPwSLiQYC
+n/rMs4lgJmHwv/5tjL+lgQIgRpNqirsuvJMchQx/vwch6LPHm0vieMlQqA9Yokgg
+tSQAdgApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAWksXWigAAAE
+AwBHMEUCIQDDXdXs9N502KXfJRu/ZaLVQ4hifNmi38RcIfyvxZXWfAIgHXCoIHZd
+DJrDnrnbUbvhFEZU6pIme9Jfr+/vP4N7la0wDQYJKoZIhvcNAQELBQADggEBAFsI
+C8iU0NWObkrpiUCICLTo84VDlM/5fcQtW+be4JRySPnsDulkz/Fd3J0hiYAU/GkQ
++Cp51bCkVqj7pH8krRzXx64k0fGsYtcu12iq0zpBVrvFUCEaumwA0A9+JuUj5tqu
+cLWF91IeAjb1LZ+f0LXCKUN4eY410Qt1g1k7ABSgMD9H1pVvuDnEbs+tJr0XjRtl
+dajM9v3zlOsvCN+JnUE7CG+oFLfnhMEfCSja9pGqTp0kU8ZEV4nqFiF411XDk4q6
+s1VS0A4qTBcLLysF8/7Lig4ji5punMCpKjqfKyCtTQRrJbGxMySvtB3cyt8Bc+lI
+GWkJLT+5hSQ5tPLQMdo=
+-----END CERTIFICATE-----
+subject=CN = app-itaucard-banking.acessomovel.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3353 bytes and written 474 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: A7C1A18512833C05E23FBBF974A4FB57346DBFF46A3464A531B4375817852001
+    Session-ID-ctx: 
+    Master-Key: 2A850B569A9D0243039CF5768E7C0145E4C4116C86E5CEDF0680358E690A3C53A7ECEB854E313E2F3AFB6A7DCBBCD3E9
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 600 (seconds)
+    TLS session ticket:
+    0000 - 3d e9 45 9f 72 de 16 b4-d5 48 01 0c eb 97 0e 61   =.E.r....H.....a
+    0010 - ca 9c 6d 11 7d e0 75 ee-fe 13 c4 99 f6 e6 c0 e5   ..m.}.u.........
+    0020 - db 1c 02 25 8c e1 70 54-0e 05 f9 46 53 55 b6 1c   ...%..pT...FSU..
+    0030 - 5b 54 4e 59 22 58 44 89-f6 be 6f 31 98 a5 7e 8d   [TNY"XD...o1..~.
+    0040 - ef f0 8c 3b 77 b2 0b b3-6d 15 13 b7 0a 8e fd 17   ...;w...m.......
+    0050 - 48 e2 b6 82 a7 c2 0c c4-2b 71 71 48 97 a0 37 1d   H.......+qqH..7.
+    0060 - 52 94 d7 e3 70 50 77 e3-94 f8 04 d5 07 01 d1 35   R...pPw........5
+    0070 - f5 f0 fc 0b f3 cd 91 3e-9a 99 96 26 a1 26 f2 78   .......>...&.&.x
+    0080 - d0 55 a4 39 2c 52 6d ac-3e 80 e0 14 65 2e 79 e8   .U.9,Rm.>...e.y.
+    0090 - ed 71 13 c1 19 4d 07 92-ff 84 f1 87 df 6c 8f 78   .q...M.......l.x
+    00a0 - dd 4a 60 5c 60 9f c4 da-6c 9a 9b 20 ae 6c 14 b7   .J`\`...l.. .l..
+    00b0 - 39 63 db 0f 2d 34 56 e6-f4 f1 2d ae cd cf e8 02   9c..-4V...-.....
+    00c0 - 45 d9 0a 1c 3a e8 49 39-24 d3 50 23 93 ef e5 4d   E...:.I9$.P#...M
+    00d0 - 48 4a 26 99 d9 79 94 73-ad 73 51 5f 47 30 ed f1   HJ&..y.s.sQ_G0..
+
+    Start Time: 1551448814
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

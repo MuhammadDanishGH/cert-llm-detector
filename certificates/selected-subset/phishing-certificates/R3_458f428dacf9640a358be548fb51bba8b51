@@ -1,0 +1,59 @@
+http://www.schillermano.xyz/kecny/dds/ddfk/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.schillermano.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEcjCCA1qgAwIBAgISBFj0KNrPlkCjWL5Uj7UbuotRMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MjYxMTE2MDNaFw0yMTExMjQxMTE2MDJaMB0xGzAZBgNVBAMM
+Eiouc2NoaWxsZXJtYW5vLnh5ejBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABC5k
+dzSNOaAnBcTa7r1a+ifsRdBorAjsvJ7zSH9QT2MEFlYFIUrnziDFywkRaaaT8UiC
+ZjhU+R3cppAA1zRshrCjggJgMIICXDAOBgNVHQ8BAf8EBAMCB4AwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFB8V
+bDCzaOQH9EKzya6aAwW5d++FMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52L
+FMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVu
+Y3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMC8GA1Ud
+EQQoMCaCEiouc2NoaWxsZXJtYW5vLnh5eoIQc2NoaWxsZXJtYW5vLnh5ejBMBgNV
+HSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpo
+dHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA
+8QB3AJQgvB6O1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9YTaLCAAABe4JjfdwAAAQD
+AEgwRgIhAMuFz8V3Z2eMlDFxwoK+FhoE6P1lNSlEjNfOesZFyfrFAiEA8CFqkZdW
+czJiLqYC+OVFlZG4HFE/T1C83+kQr8Cq0Z8AdgB9PvL4j/+IVWgkwsDKnlKJeSvF
+DngJfy5ql2iZfiLw1wAAAXuCY34BAAAEAwBHMEUCIQCLeLcbLh3fHCHF1fE2EoLI
+CSVhTLuaALcACQu7JkRepgIgYyypXM8MWRFLqfFAVZ5gXBTMAziyQqo8w/URL7Ad
+GP4wDQYJKoZIhvcNAQELBQADggEBAGpKOf2Jrwttj7RaLSXCGPK9ySofnAiLT/P5
+kRTbL1mZ1FJdgX441u0eyRhPaR68oM+TU7zs6TS+vLn5OaQjOyQRgXYYDXy/69Jj
+tAG0wsROm+L7+gP2haMCofFzfBH5dFFuc+X0d42TprUUwxq/PReOpGC1lfKvw8KN
+n5KmPD4jUrstKm7dRyydfgSByT37ChhSeET3LwBZvoIm0v7Ro3CPEQdZhfI2ddTA
+rPBPCkEyQYItLfOXWsR9OO7oBTT/JDR93XjnUezg83p4AqlNAhFCGT3HKNB7m+fU
+q/jQtGnaFLBTO4y9FZrglSqHTeQnof5RPfL/C8DmUmyiSQ+k3l4=
+-----END CERTIFICATE-----
+subject=CN = *.schillermano.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 2585 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

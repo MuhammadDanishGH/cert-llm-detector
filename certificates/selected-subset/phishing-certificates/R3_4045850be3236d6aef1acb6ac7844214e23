@@ -1,0 +1,63 @@
+http://beiradorio.com.br/imageeee/zas5wet7oeyaafyg28y4teia.php?secure&share=jbj0e416456972799012ea87d0dafea75fe56fb13216af809012ea87d0dafea75fe56fb13216af809012ea87d0dafea75fe56fb13216af809012ea87d0dafea75fe56fb13216af809012ea87d0dafea75fe56fb13216af80
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = beiradorio.com.br
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFPDCCBCSgAwIBAgISBARYUL4yNtau8ay2rHhEIU4jMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMjcwMDEzNTNaFw0yMjA0MjcwMDEzNTJaMBwxGjAYBgNVBAMT
+EWJlaXJhZG9yaW8uY29tLmJyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAqTY9ZkD89NLN8+jKv6B+sP6VsUoLdZMMlZuGrl33AOBCjw12xj7hQZ5OOQtc
+aSRXiPa7Yhxy9vSDBTRlah51ci4d3PYQ6LmNXxl8CVMxcSAdV7lwAp1NcskIsv5P
+U1mj3sUl+VfWdheCwQRTzzNW/fPuYJ9rti8qnwie56GeLj2lq2TT2MXhTPyk8s7v
+ib+X/xTsuZjyBT7IsuVIZKnz8WpMX36YQM3Iie7XirX/6ynnFdQgLwptp044NnbO
+fdLyPX0m8ALVLvMi8Yo3AyoYZB0qMtWRddIo3i9AQF/16cH+fOhoTPuP1Uu29F0s
+BsMtLzB+lxO02PY/gZAqOU03KwIDAQABo4ICYDCCAlwwDgYDVR0PAQH/BAQDAgWg
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBSAtWgFfrpX0cYC2DaHlW2m+gPUQTAfBgNVHSMEGDAWgBQULrMXt1hW
+y65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6
+Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iu
+b3JnLzAxBgNVHREEKjAoghMqLmJlaXJhZG9yaW8uY29tLmJyghFiZWlyYWRvcmlv
+LmNvbS5icjBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYG
+CCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB
+1nkCBAIEgfQEgfEA7wB1AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpz
+AAABfpkYnCoAAAQDAEYwRAIgcid85S4U62P1ZiSN7xSyzYSRhDpiKbMCZTK2gsIr
+P6QCIEK+1zEE45cn9ig6qUr7Duj+X7Fe+oqJ3+/hGP8bxNzHAHYAKXm+8J45OSHw
+VnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF+mRieUAAABAMARzBFAiEAu1TlQh+C
+NOkrawC44491DvlM95Qv43o1h7znd0YBh0sCIGXJj06oxiiaePLemgZY1evp8MVS
+HrN658jXnFIHIzF8MA0GCSqGSIb3DQEBCwUAA4IBAQCbFzOsuQaV5d6rjVRw7RpW
+onlANJT+8lfka3q8z0zwWaNgK/ENy6VFPPHe2jxV8T+LETSSE6V0TCZLHj/DXQEU
+EbrYjHUzJ6IlYvOj5adbVw67JFMRJTEPR7iKC16AYGP6fKW5wgWZEovqhpXlPD1B
+q4bdPD8YkTe8k93dKxas/JSTu70vL4nlMtAtQPCXC+wrM8n0gmCRYUp7FO/zMJnF
+G+Dyr8hqyf/ff4mquAM2axNpqaEUlq9pZK98TbpFoEmaP+JkyFi15VlxRZRogOfq
+HcoaTlHF2CQp6BaV8gwwgJ4d/1+XKsEtsT04UatcdrnRY2rYKJ1LRLwAj/roNeTO
+-----END CERTIFICATE-----
+subject=CN = beiradorio.com.br
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3215 bytes and written 391 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

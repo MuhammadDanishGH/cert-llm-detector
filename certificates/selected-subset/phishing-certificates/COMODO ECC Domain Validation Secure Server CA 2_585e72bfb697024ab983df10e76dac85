@@ -1,0 +1,82 @@
+http://www.mdacuae.com/zip/Chase/Chase
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:OU = Domain Control Validated, OU = PositiveSSL Multi-Domain, CN = sni38301.cloudflaressl.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Domain Validation Secure Server CA 2
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Domain Validation Secure Server CA 2
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIIPzCCB+WgAwIBAgIQWF5yv7aXAkq5g98Q522shTAKBggqhkjOPQQDAjCBkjEL
+MAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4GA1UE
+BxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxODA2BgNVBAMT
+L0NPTU9ETyBFQ0MgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBDQSAy
+MB4XDTE5MDYyOTAwMDAwMFoXDTIwMDEwNTIzNTk1OVowazEhMB8GA1UECxMYRG9t
+YWluIENvbnRyb2wgVmFsaWRhdGVkMSEwHwYDVQQLExhQb3NpdGl2ZVNTTCBNdWx0
+aS1Eb21haW4xIzAhBgNVBAMTGnNuaTM4MzAxLmNsb3VkZmxhcmVzc2wuY29tMFkw
+EwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE86ERlDTxZ3+dKCnBV60RY5HDZ6hYCeN5
+7atFsvjd4C/6Ed2h49JzsUZiSI5zO5N27KuB3XhHh5XrySlAE6sq2KOCBkEwggY9
+MB8GA1UdIwQYMBaAFEAJYWfwvINxT94SCCxv1NQrdj2WMB0GA1UdDgQWBBToMMDr
+GuUwhoUSqrY8UWhK2JKD1jAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH/BAIwADAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwTwYDVR0gBEgwRjA6BgsrBgEE
+AbIxAQICBzArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8uY29t
+L0NQUzAIBgZngQwBAgEwVgYDVR0fBE8wTTBLoEmgR4ZFaHR0cDovL2NybC5jb21v
+ZG9jYTQuY29tL0NPTU9ET0VDQ0RvbWFpblZhbGlkYXRpb25TZWN1cmVTZXJ2ZXJD
+QTIuY3JsMIGIBggrBgEFBQcBAQR8MHowUQYIKwYBBQUHMAKGRWh0dHA6Ly9jcnQu
+Y29tb2RvY2E0LmNvbS9DT01PRE9FQ0NEb21haW5WYWxpZGF0aW9uU2VjdXJlU2Vy
+dmVyQ0EyLmNydDAlBggrBgEFBQcwAYYZaHR0cDovL29jc3AuY29tb2RvY2E0LmNv
+bTCCA38GA1UdEQSCA3YwggNyghpzbmkzODMwMS5jbG91ZGZsYXJlc3NsLmNvbYIY
+Ki5hZnAtY3Jha2luZy1mb3J1bXYzLmZygg8qLmFpbXNncm91cC5jb22CFiouYXJt
+c3Ryb25nbGF3eWVycy5jb22CDyouYmVhcmZyb3N0LmNvbYIQKi5jcGNlbWlyYXRl
+cy5hZYIMKi5jc3RwLm9yLnRoghIqLmZyb3N0cG93ZXJlZC5jb22CDCoua3doY3Bh
+LmNvbYITKi5sYWV2YXNlY3VyaXR5Lm5ldIIRKi5sYXNlcnBhY2tlci5jb22CDSou
+bWRhY3VhZS5jb22CGCoubXVuc3RlcnNlcHRpY3RhbmtzLmNvbYIQKi5teHNlYXN0
+b25lLmNvbYIQKi5teHNlYXN0b25lLm5ldIIQKi5teWdlb2VhcnRoLmNvbYIMKi5u
+Yml0ZWsuY29tgg0qLnBhdWxpbmhvLnVzghIqLnBvd2Vyc2VydmxsYy5jb22CESou
+c25vd3l3b2x2ZXMubmV0ghYqLnNvbGFyZW1waXJlZHViYWkuY29tghQqLnRlc3Rt
+eWZpcmV3YWxsLmNvbYIOKi50aGVsYWV2YS5jb22CEioud2Vic2VjdXJpdHkubW9i
+aYIOKi53b2Vud2hvYS5jb22CFmFmcC1jcmFraW5nLWZvcnVtdjMuZnKCDWFpbXNn
+cm91cC5jb22CFGFybXN0cm9uZ2xhd3llcnMuY29tgg1iZWFyZnJvc3QuY29tgg5j
+cGNlbWlyYXRlcy5hZYIKY3N0cC5vci50aIIQZnJvc3Rwb3dlcmVkLmNvbYIKa3do
+Y3BhLmNvbYIRbGFldmFzZWN1cml0eS5uZXSCD2xhc2VycGFja2VyLmNvbYILbWRh
+Y3VhZS5jb22CFm11bnN0ZXJzZXB0aWN0YW5rcy5jb22CDm14c2Vhc3RvbmUuY29t
+gg5teHNlYXN0b25lLm5ldIIObXlnZW9lYXJ0aC5jb22CCm5iaXRlay5jb22CC3Bh
+dWxpbmhvLnVzghBwb3dlcnNlcnZsbGMuY29tgg9zbm93eXdvbHZlcy5uZXSCFHNv
+bGFyZW1waXJlZHViYWkuY29tghJ0ZXN0bXlmaXJld2FsbC5jb22CDHRoZWxhZXZh
+LmNvbYIQd2Vic2VjdXJpdHkubW9iaYIMd29lbndob2EuY29tMIIBBQYKKwYBBAHW
+eQIEAgSB9gSB8wDxAHYAu9nfvB+KcbWTlCOXqpJ7RzhXlQqrUugakJZkNo4e0YUA
+AAFroPf9gAAABAMARzBFAiEAmfFgmuipMwFOZ21aq8CiTlc8fK2pKqzG5GzFpnq/
+5fICIEmunzzi2cyxNkiDRTTbPgX26hciMSdO4zoQ4ijua9tZAHcAXqdz+d9WwOe1
+Nkh90EngMnqRmgyEoRIShBh1loFxRVgAAAFroPf9tAAABAMASDBGAiEAwVVeZ0ee
+vn3Mi9iVz3lJErPQGSMfMgGZ2y0VdjUHppQCIQDpOpwUFQmiEr5NRZEvI18sV6WH
+SWwJpioHTYyg8DIq+DAKBggqhkjOPQQDAgNIADBFAiEAxPFfCwIXVEqmsfht66m7
+A1/rlwqjVcg5YVbxuDMRcTUCIFuuN7olnFu0IYv6h2MiXP8KgaUjaExxZ7JlV/Rp
+e9/o
+-----END CERTIFICATE-----
+subject=OU = Domain Control Validated, OU = PositiveSSL Multi-Domain, CN = sni38301.cloudflaressl.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO ECC Domain Validation Secure Server CA 2
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: ECDSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4341 bytes and written 407 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 256 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

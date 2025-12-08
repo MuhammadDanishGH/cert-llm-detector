@@ -1,0 +1,91 @@
+https://www.maesierra.net/umde/Absa%20Online%20-%20PROFILE.htm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = maesierra.net
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFZDCCBEygAwIBAgISBFss4kPtKZW21/uzSUPKnP1uMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MjUxMTIyMTZaFw0x
+OTEwMjMxMTIyMTZaMBgxFjAUBgNVBAMTDW1hZXNpZXJyYS5uZXQwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDkTzvILnuKdUPlRZ77NnOrJw+sRpNHhMIu
+4LAdqYCPE6NVKrzhHouwJKAmPtpiVfxLiA/m0VNRAGM8wrBPwDgYBFJFkbgGg/UR
+G9qCOYCcvCxue9UuCRpIXOaDOECWcWJCm3OYuEiHn1aCifhLlPPgPp84BGapAoUt
+RAmUiZNwIDOex3KNHLNevzfRkL6Wnn4OPdb5KV1LcJR6DFy5qJueWIebg6P3E8pa
+CnrEDfIsPjJMMBmpIGLuqavGiWkRl7KAAu0Amgkz/9ZIRjWICB67RfAGnzZ/R+mB
+PhhQqzWHsZbPf8QJ01p3Ubc8nyv1akpv4JMLMGvlDTVPA2iBiZZXAgMBAAGjggJ0
+MIICcDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFPLjhlMyRPoIFg+3nnolGt6kaT36
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wKwYDVR0RBCQwIoINbWFlc2llcnJhLm5ldIIRd3d3Lm1hZXNpZXJyYS5uZXQw
+TAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcC
+ARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEDBgorBgEEAdZ5AgQCBIH0
+BIHxAO8AdQBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAWwpFPv+
+AAAEAwBGMEQCIDcJdotqINDUblOUwUM5edR6cd8VjvXvUDlkmohrovWqAiAkvvL9
+J2W72svv0SK8TqBTqGxk55dujv1MfOCOWY199AB2ACk8UZZUyDlluqpQ/FgH1Ldv
+v1h6KXLcpMMM9OVFR/R4AAABbCkU+9kAAAQDAEcwRQIhAOf6A7gHBUkzICSZMErH
+xlZV52fppDkJLDN7MbW9DQUMAiAB1dpaBvCKtnSpi+T1UlXBaC9B813BFEJTLBlj
+EMrBSzANBgkqhkiG9w0BAQsFAAOCAQEAbzg/zaNon5NTKOvpUHeO696YSzGlZag9
+79C+V9pixE83Y8Gl881bBe+3ktOlKIYRPKMSHLp8fqo0JISHQVwRgFXDtgO+We7U
+yvhilpTd2a3egQX00PwsQmWLz4PgxZG3yuQUP5VbgxuXUXZfs0jiEyAQ9MpDqfNh
+REl45E+Ov+Vy7rtb7LhumN07mYyPm2cRo4EJdytd7mE+Weu83osfcxCWo2NWY8oI
+ZhCr2aZawLaZE+pJIQR1iYe3TiyN0Bft8lweeN7kx0BO5TuwU1/UO1WmBEHYnCRN
+XYe98FLtgQhS8V06TxH3/ynqaTr4WZ8lUe3eN9Cci/cmsvDLTojAuQ==
+-----END CERTIFICATE-----
+subject=CN = maesierra.net
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3230 bytes and written 414 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-CHACHA20-POLY1305
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-CHACHA20-POLY1305
+    Session-ID: 712DB1A0A3BDCB74877DD8F2DE36591985222BE5157827F2668FF663E0CBA6A4
+    Session-ID-ctx: 
+    Master-Key: 962BCC67373902ACF1BB39A6E48203DF4DB3142E9AB82D46CD126C07F089A7FD667936B8546E96D774461A8DA7588F0F
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 98 9d c6 83 7e 7f 08 f0-71 3a e8 ac c3 43 1f d9   ....~...q:...C..
+    0010 - 3e 4e b8 7a e8 59 7f d7-39 4e 3b 63 d6 46 18 ce   >N.z.Y..9N;c.F..
+    0020 - 19 0d 48 50 80 66 e3 14-16 94 3d 7a 23 68 25 85   ..HP.f....=z#h%.
+    0030 - 5d e3 7a 93 fa 71 94 73-6d 83 de 5d 2f af 63 fc   ].z..q.sm..]/.c.
+    0040 - 53 18 3e 12 80 df 5a ef-ba 21 f3 f2 8a b4 6e 64   S.>...Z..!....nd
+    0050 - e2 42 c4 0b f2 90 ba f5-38 c8 55 63 9c 34 d4 38   .B......8.Uc.4.8
+    0060 - b4 af 7c a4 09 1f 3a fc-c7 2e ac 63 d0 49 0f ae   ..|...:....c.I..
+    0070 - c8 1a 92 17 19 b7 15 93-95 37 22 a9 70 0e 03 f9   .........7".p...
+    0080 - 59 8b 60 50 71 27 1c 6e-15 dd 9f 97 da ce ca c7   Y.`Pq'.n........
+    0090 - 83 9c c7 4a 43 63 ee 38-c4 06 1c e2 84 21 09 4e   ...JCc.8.....!.N
+    00a0 - d4 d3 a4 9a 1a 52 b1 91-e1 35 52 f5 2e da ec f0   .....R...5R.....
+    00b0 - 3b b3 dc 3d a5 20 22 df-66 d7 2c 7f 9c da fb da   ;..=. ".f.,.....
+    00c0 - 93 d7 40 56 61 61 12 e1-cb 20 08 70 96 31 0f 00   ..@Vaa... .p.1..
+
+    Start Time: 1568725238
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

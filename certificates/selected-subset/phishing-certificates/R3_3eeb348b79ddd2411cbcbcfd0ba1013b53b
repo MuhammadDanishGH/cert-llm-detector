@@ -1,0 +1,65 @@
+https://loguin-ing.com/login/access.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = loguin-ing.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFIjCCBAqgAwIBAgISA+6zSLed3SQRy8vP0LoQE7U7MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTEwODA0MzdaFw0yMjA1MTIwODA0MzZaMBkxFzAVBgNVBAMT
+DmxvZ3Vpbi1pbmcuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+44rR8CXtR7kwONhNeXDS1d4kihF7+WtlmUk7JBLwFrSFJcrPIFQrvOeb6Bx2+xCK
+ngpciczCpzyo9mLV3J+ZUL1xpue+l0UA794bpDOfg1xCWWox5aTAQ6/L/WZciISX
+4cQArELdHUEaCMPbC9MgdTYhS/aXaCwxYJb0qNdcHmgyZeX3IOvpAXs+ZkcdinZJ
+XrXSwjcNBve58LhCUzOoAYWXT3YJsX4t1GIdti+MHqqWs9aRetsH9LOhSXNUDqAc
+/gB1H6ulAUEUl1ZDNNE6gZlynN2bjCAL1IX2mBmyjyhfca2uwwA4w5AYl42jNcXB
+55np7snUHZqQR0LB6H2uyQIDAQABo4ICSTCCAkUwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBQiF6Ap8+uXcdlGHql/iZULG0LJIzAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzAZBgNVHREEEjAQgg5sb2d1aW4taW5nLmNvbTBMBgNVHSAERTBDMAgGBmeBDAEC
+ATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNl
+bmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AEHIyrHfIkZKEMah
+OglCh15OMYsbA+vrS8do8JBilgb2AAABfugG9qEAAAQDAEcwRQIhAIgBLZO1fSp3
+7CvpVY9A1cR0eI8H72/5/8VI+ntrn+poAiAm+TEvWcTPrKmlxyhTAWUmUlnSE+NK
+yeqvVrne3FVbMgB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAAB
+fugG9osAAAQDAEcwRQIhAMM8ORmht8a2DbtV+jSRDB67xfAWSGNdFqCCoyiwL1H+
+AiBCQ1az0Bty7o8BgNP3pms7T9Y3doQLosgQQrZBvYI6fTANBgkqhkiG9w0BAQsF
+AAOCAQEAN74zxIZ2c1hs+neMR5TSp0Sbj18xTOoH3MJLEb7heTdOGWXUJPN7t1h9
+8Zk5nz6UnV5pUI/JZVAx8t7/Jp+WVfJQqffgofU/KvMMxHGpMittVA+KQj11LYkv
+orYKDnLwCsv3iv09WOjYaH6LVJdWp45CMphvzJbiltsl34UPEsiW+LcEH3nQtCpI
+PXsKEsElhV2w9OEAcRdP4jjiUXhO728onJy3X4HoQKse++1WT4tGJ+Y+NPv466sK
+OiCmBjfoIk386o/ezr/jKN0F7tv7JlnevQ16wvbIKtn6QKOCTDpH4BzwNgsHBmVC
+TKHBiFVxmfWekyjpPrP+S+o6uBIU4w==
+-----END CERTIFICATE-----
+subject=CN = loguin-ing.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4574 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

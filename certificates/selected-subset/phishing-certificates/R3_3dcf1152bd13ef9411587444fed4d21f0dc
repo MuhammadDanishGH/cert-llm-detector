@@ -1,0 +1,76 @@
+https://go-app-irs.gov-coronavirus-assistance-center.online//r/bm8N51q
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpanel.go-app-irs.gov-coronavirus-assistance-center.online
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHIzCCBgugAwIBAgISA9zxFSvRPvlBFYdET+1NIfDcMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMjExOTExNTlaFw0yMjA1MjIxOTExNThaMEUxQzBBBgNVBAMT
+OmNwYW5lbC5nby1hcHAtaXJzLmdvdi1jb3JvbmF2aXJ1cy1hc3Npc3RhbmNlLWNl
+bnRlci5vbmxpbmUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDHB6jM
+VGdq18bqhU93siCl2t5Z4YqAGYt90+JUEvGFyQTKgMj+4U7Lq03VUvmU3b1cSGTu
+lec5qdn2OMzalBGNu7+aCdMjDdiylfA3dcylbvg/FTPyHP5HESd2w+6fdtYxFlk9
+hxlppfnLEDlvwNJDdvv/ht56tWV0nCOemM0hglchjhnezffULeOi/ZZGNEo7aLFv
+yo2PG2arEZdrliBtjN0mYPhwagDt9Y5YrngVPnUb4vsb+rdB2cuWyq8L7aDVToBn
+nqImb6LDWp9ecKwWxLj13yMks6SkjdrN0oT9RRpO4VZ6Svu9zp0c5159e+iQemXT
+S4T0KtuX5lc+5+1pAgMBAAGjggQeMIIEGjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0l
+BBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYE
+FLnSfZaVf+7qNX6AolYgLsr553nlMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYf
+r52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8u
+bGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMIIB
+7AYDVR0RBIIB4zCCAd+COmNwYW5lbC5nby1hcHAtaXJzLmdvdi1jb3JvbmF2aXJ1
+cy1hc3Npc3RhbmNlLWNlbnRlci5vbmxpbmWCP2NwY2FsZW5kYXJzLmdvLWFwcC1p
+cnMuZ292LWNvcm9uYXZpcnVzLWFzc2lzdGFuY2UtY2VudGVyLm9ubGluZYI+Y3Bj
+b250YWN0cy5nby1hcHAtaXJzLmdvdi1jb3JvbmF2aXJ1cy1hc3Npc3RhbmNlLWNl
+bnRlci5vbmxpbmWCM2dvLWFwcC1pcnMuZ292LWNvcm9uYXZpcnVzLWFzc2lzdGFu
+Y2UtY2VudGVyLm9ubGluZYI4bWFpbC5nby1hcHAtaXJzLmdvdi1jb3JvbmF2aXJ1
+cy1hc3Npc3RhbmNlLWNlbnRlci5vbmxpbmWCO3dlYmRpc2suZ28tYXBwLWlycy5n
+b3YtY29yb25hdmlydXMtYXNzaXN0YW5jZS1jZW50ZXIub25saW5lgjt3ZWJtYWls
+LmdvLWFwcC1pcnMuZ292LWNvcm9uYXZpcnVzLWFzc2lzdGFuY2UtY2VudGVyLm9u
+bGluZYI3d3d3LmdvLWFwcC1pcnMuZ292LWNvcm9uYXZpcnVzLWFzc2lzdGFuY2Ut
+Y2VudGVyLm9ubGluZTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEB
+ATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQG
+CisGAQQB1nkCBAIEgfUEgfIA8AB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1d
+JlwlXceEAAABfx3pjMYAAAQDAEcwRQIgTfAaPE9offmbXnMdynCwkXo38DBYA+w8
+HEQwS66spFMCIQDyyQOHwLKOhPCk7g3jir8D7ZUi78VdoX3zfwiXw6S58wB2AG9T
+dqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABfx3pjlYAAAQDAEcwRQIh
+AOjc7C6G32m+oMSDJ2crrXd16NdC5CyswxxbfJDmkYNnAiAqZ1OJU0D/BWyCHfp+
+ArvK5Fs6H/hTl5X8QdHNxPVdUDANBgkqhkiG9w0BAQsFAAOCAQEAIuzm165VK1uX
+hOHEX0XX90kD2Y7ZKpK9coWlx7WFtEy1MnhVF+VlcfFx4JhKWYhEwj7t0p5LTIKu
+lNC5xUre8cIDfM40cQJdP7JnZgqVCuwjYxwACrAX3tVcaPn7T6DUuh5/Q5USsPiC
+VyuJ6iGAvOIOaskrTmamm7tnVtnRnAmU+B9rLznPCmW6t2KF4l63ncMSZF6pucUe
+mo2bypilgPGeqQQWDg2fwmXaVNuJYrCytMt7C7dz1A09MyES6eir6JfTpP90e4eb
+9h+XDgSUWRKzZgd5/RE+0p8JgsFZ1yTuO9GgxwWBww/YSaVIdeQP1brynIjX2dSb
+aXns3b9GHQ==
+-----END CERTIFICATE-----
+subject=CN = cpanel.go-app-irs.gov-coronavirus-assistance-center.online
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5087 bytes and written 425 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

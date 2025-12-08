@@ -1,0 +1,95 @@
+https://raumausstattungweber.de/product.office/?_AP__=arcie.lumanlan@cwc.com.ph
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = raumausstattungweber.de
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGBzCCBO+gAwIBAgISBBkXCvvm7U2hfad1UCerTUx3MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MjUwMzU2NDRaFw0x
+OTEwMjMwMzU2NDRaMCIxIDAeBgNVBAMTF3JhdW1hdXNzdGF0dHVuZ3dlYmVyLmRl
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqIXsVv8DWCYkioGKeJzM
+b8A5FO2dhVoHSFJ+v1tdKX9TXsCYlED1EjjRzqg77hx1t8ZndehoS2G1BBUQDLhW
+QZxmdrbkDPACOkAWGubpEV3vvrzhj9BpMwI6jXC4jGY5SRvyaAV3DOjLf6FZfHXq
+6Zsa6YK67kOotGS8AqGum0zgbNGqB51axsDYv1xdRehRKXGxUvnEDrmhfrD/Xftl
+2BZxKHrnzAcAjqUbVFMyt62++KMrH0cY4+jHC1lYYWikIJ18RuhhNZoghfXcpuEv
+gY7aM1cWe+2q8MZMB7GjOu2mwHPdaVh9VnGR07DugN0EkxAfsKV3lScwnMt8F2ZC
+VQIDAQABo4IDDTCCAwkwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQ+qCponi1YwMIt
+pupKsEX3nEfKKzAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggr
+BgEFBQcBAQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRz
+ZW5jcnlwdC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRz
+ZW5jcnlwdC5vcmcvMIHBBgNVHREEgbkwgbaCHmNwYW5lbC5yYXVtYXVzc3RhdHR1
+bmd3ZWJlci5kZYIcbWFpbC5yYXVtYXVzc3RhdHR1bmd3ZWJlci5kZYIXcmF1bWF1
+c3N0YXR0dW5nd2ViZXIuZGWCH3dlYmRpc2sucmF1bWF1c3N0YXR0dW5nd2ViZXIu
+ZGWCH3dlYm1haWwucmF1bWF1c3N0YXR0dW5nd2ViZXIuZGWCG3d3dy5yYXVtYXVz
+c3RhdHR1bmd3ZWJlci5kZTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLf
+EwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCC
+AQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AOJpS64m6OlACeiGG7Y7g9Q+5/50iPuk
+jyiTAZ3d8dv+AAABbCd9FfwAAAQDAEgwRgIhAJaEcVGSnnbpMxN+2EB7j8RTqTq5
+rKKq/pAT0z1yzuMYAiEA/g+SUyRs+f/uIUsrFR8QbMUxve+hVAfcsvMCWxMWizoA
+dgApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAWwnfRXwAAAEAwBH
+MEUCIAqIWvQJtSg6dwdMAGDxER5qyp1onnroL09bSAz/t5Y0AiEA5DQ+v2KlayDB
+q80/vGQqfhoUG0KQtEKwVKqPoN9BjY8wDQYJKoZIhvcNAQELBQADggEBAFEf8j7Q
+MNYe8Q8qDf1BXAvdmkBKhC7WDf9VhrD2jScVj/SiASpUDIe8yGs0rUbI8MhE262b
+hOthR+3oSeeUeX0kvaYErRTSWTPFCCYwErpkrOX/LGCSi3BfOO+GzrLWalXDzFx3
+05k0pbfg3i+Kq+O8gCMjy9em4CFHCYjUYaJEr+HaHbNYihs7ZCvKlwI5gDXaZBjl
+leK5AOP6v919Q/QUsxxhRgTg5ppMfgshz9s+uQMKxP0YdQ0woWf7NbNnZThY+qz+
+SuZly0K1smwBUI4fsqPFN8/rwxxRcAHmf07bpn6iWEo1uS9by6MOd3b/2TuJk+JD
+46WEtdTg1+SPJ7o=
+-----END CERTIFICATE-----
+subject=CN = raumausstattungweber.de
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3430 bytes and written 461 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: E698E34822DB56411436F8D0295FF24F4EC6D34FAB9757E21418DB4B91F5BCCE
+    Session-ID-ctx: 
+    Master-Key: 0CA542BEE5623CE3F6B083958607514E37F87318EA48FD0A9CDBF5F7A03357B6D65D37D027B29C8A61844DFD7C2E70BB
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - d6 4c b7 db c4 e5 b7 b7-72 e1 c7 73 8c e2 df f3   .L......r..s....
+    0010 - b4 db c2 e5 23 04 35 b2-66 15 d6 12 e7 01 6b dc   ....#.5.f.....k.
+    0020 - a2 d2 3d 5b d9 24 9b 35-a7 55 12 18 ae 36 fb 71   ..=[.$.5.U...6.q
+    0030 - 4d 07 f7 be 57 d4 62 73-70 23 27 d7 d8 e0 4c e0   M...W.bsp#'...L.
+    0040 - bd 42 2c db 0a 62 50 0e-33 c3 c5 f1 a8 e3 96 74   .B,..bP.3......t
+    0050 - fc 4b e1 e0 dd 61 31 54-25 a5 aa d3 1b 04 ec 4a   .K...a1T%......J
+    0060 - e4 a7 b3 5c b8 9a 5f d8-18 48 49 87 03 78 f3 c1   ...\.._..HI..x..
+    0070 - 44 25 a8 cd 0a 75 d4 4c-9d 78 51 92 84 24 d7 2a   D%...u.L.xQ..$.*
+    0080 - 8d c5 54 02 1e 62 0d ce-5d e3 8d 33 9d d8 cd 6c   ..T..b..]..3...l
+    0090 - 51 6f 3e ef e9 67 9d 15-e0 e0 e2 71 3f b1 fa 3a   Qo>..g.....q?..:
+    00a0 - 95 43 06 76 7c d5 14 d6-96 be f1 9f 16 38 b6 3e   .C.v|........8.>
+    00b0 - 20 3f 9c cd df 70 9d a5-76 4c e4 c2 0d d2 ac 65    ?...p..vL.....e
+    00c0 - d8 39 44 ce 16 b0 f9 f0-0b a2 15 8b 05 2e ce 8a   .9D.............
+
+    Start Time: 1565010030
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

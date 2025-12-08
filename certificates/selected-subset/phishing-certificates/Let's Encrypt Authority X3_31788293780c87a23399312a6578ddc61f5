@@ -1,0 +1,93 @@
+http://tejkro.com/common/http/bankofamerica/Secure_SSL/login/id/
+----------END URL----------
+CONNECTED(00000004)
+---
+Certificate chain
+ 0 s:CN = tejkro.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFqTCCBJGgAwIBAgISAxeIKTeAyHojOZMSpleN3GH1MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xODEyMjUyMjUzNDJaFw0x
+OTAzMjUyMjUzNDJaMBUxEzARBgNVBAMTCnRlamtyby5jb20wggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDacsEwPOHVtcFelSCJJ7nDSrG9UK4E2QalRSH4
+z1GxzCrO5usi4N0iGt4cv8JGoND8zznsmS6HYtf4xq2zwReULTEsN8c3GXGu22G9
+kkU8KF9dOQP3fblxwSOkQpXfDobQIDvb3VwRvS0nsUwlYQTZGiG1WMKjbQei6j+T
+vNQDlkHEOmsaJO57+HyYVQcTwuZJJlCY4nUIxPJLnF514pNLIPjDp70Lb8NorTpe
+68IN3TWkhzYwu+PjvgoG28NzJs9DsJaV6/QQUTbfHB7Pb6VjNUPHDH91qp1UmQVa
+BE8o1dEi5mIobk2jC9yBRCFYRy91xyFJ1GPKsdDr2BeHuk8rAgMBAAGjggK8MIIC
+uDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFKPm/MyHIqmLrZeD7Yx5IDabWQ/dMB8G
+A1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAu
+BggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAv
+BggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8w
+cQYDVR0RBGowaIIRY3BhbmVsLnRlamtyby5jb22CD21haWwudGVqa3JvLmNvbYIK
+dGVqa3JvLmNvbYISd2ViZGlzay50ZWprcm8uY29tghJ3ZWJtYWlsLnRlamtyby5j
+b22CDnd3dy50ZWprcm8uY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQB
+gt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3Jn
+MIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcA4mlLribo6UAJ6IYbtjuD1D7n/nSI
++6SPKJMBnd3x2/4AAAFn58nQJQAABAMASDBGAiEAu2Hhwu2Hql4nhd7N3zxIYama
+uVYzT/7f36evwf4CcbICIQC3e2tR+0qnSBBkSAFfiVJxLEhBLCn4DQ+0GiPqQHwX
+uQB2ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABZ+fJz/kAAAQD
+AEcwRQIgT5TRiMm/I3zQyEF7NoD3HX/NOEfa7ISXXuhydSus7hMCIQD+BPlcgPBT
+UfrWYiT8aK4Yzdvf+06AJ7qQ0vwN/6ah2DANBgkqhkiG9w0BAQsFAAOCAQEAeUBC
+K4vhWbD+tFYoMl/P3/Ug1R8CNj8IYL6uNhYXD08yqAq0ywtu33MewKEPIhMd3+k6
+wBAAGch6miL4+PHpbdpD25CGYcCLWHfMXfScswKDrCYlSh7Bqi4caH+bROtnKqhQ
+xpTpMFK9U7cNnL4KaDvp/vxeiI7FrWX7Hifbf5jNeS3/iowvFvuX0iGH4vDJlh0Q
+HEud2+4wdKFxJygVbcTXWPJnRcjh4etsyoHzFWEYXk4/g+azYoYY+EY2PTC+/Fg9
+KyLwSOKY8Y0xSIKgrI8GVgSx4B5Ih120PhltyQbn1dT6kIebWVdVL8WSRlwnuCim
+K9mj77fzt+otq0bwkQ==
+-----END CERTIFICATE-----
+subject=CN = tejkro.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3336 bytes and written 448 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: DD69D5CF2AE5C234C4DBE78EFA42FF95CBB7CC70E3A3BC9F87546A2474B7EE35
+    Session-ID-ctx: 
+    Master-Key: 7AFA2955AD5354F416618E48D7153F16F9A8A73A075BC085EC2B06BB7248473CD991788471F19B63269CA22C1C0729BC
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 7f 71 d1 ae ca 63 86 32-7d f8 d7 b3 ae 08 98 89   .q...c.2}.......
+    0010 - 79 3c b3 71 2e 91 46 cc-15 f7 d7 25 dc 68 d2 39   y<.q..F....%.h.9
+    0020 - 6a 4e 97 37 f5 5a 8e 38-e5 95 a4 09 f2 6b 87 bf   jN.7.Z.8.....k..
+    0030 - e8 37 ae ca 09 ea 87 11-72 d2 ab 15 46 b6 a3 bf   .7......r...F...
+    0040 - fb 93 f8 11 f6 3b 91 90-19 ac 82 5a 81 52 93 e8   .....;.....Z.R..
+    0050 - f9 c8 23 5d ed c2 ac 30-c6 e4 89 7d 90 43 05 e4   ..#]...0...}.C..
+    0060 - 13 7e 2b a3 b6 51 7b 2e-73 43 b1 cc fd 59 0b ad   .~+..Q{.sC...Y..
+    0070 - bc c0 60 89 8a 8f 58 9b-24 a2 9f b3 42 fd f4 44   ..`...X.$...B..D
+    0080 - f2 93 e0 dd 60 05 40 0c-e8 de 46 3a 0b 9e cc 56   ....`.@...F:...V
+    0090 - 82 93 e7 f4 77 75 3d 11-ae da 21 ae 9d 99 b4 5b   ....wu=...!....[
+    00a0 - 2f 11 0a 77 9a 8e 59 75-96 1b 08 f6 ea 99 79 c7   /..w..Yu......y.
+    00b0 - fb 2d a9 e2 cd ae 25 ce-59 69 fa f8 1c a9 43 48   .-....%.Yi....CH
+    00c0 - 44 b8 c7 73 d1 5b c0 2e-f2 a1 f3 8e 20 7d c1 43   D..s.[...... }.C
+
+    Start Time: 1547474416
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---
