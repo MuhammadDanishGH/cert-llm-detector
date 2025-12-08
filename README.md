@@ -55,8 +55,8 @@ A novel approach to detecting phishing TLS certificates using **pure semantic an
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/llm-cert-phishing-detection.git
-cd llm-cert-phishing-detection
+git clone https://github.com/MuhammadDanishGH/cert-llm-detector.git
+cd llm-cert-detector
 ```
 
 ### 2. Install dependencies
