@@ -88,7 +88,7 @@ certificates/
 
 ## Usage
 
-### 1. Generate Subset (Required)
+### 1. Generate Subset (Optional)
 
 ```bash
 python sampler.py certificates/
