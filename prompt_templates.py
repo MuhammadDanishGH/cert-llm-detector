@@ -1,62 +1,84 @@
 """
-Optimized prompts with few-shot examples for better accuracy.
+Optimized prompts with intelligent certificate parsing and few-shot examples.
 """
 from typing import List, Tuple
+import re
 
 
 class PromptTemplates:
-    """Enhanced prompts with few-shot learning for phishing detection."""
+    """Enhanced prompts with certificate field extraction."""
     
-    # Few-shot examples for better learning
+    # Few-shot examples with ONLY meaningful fields
     FEW_SHOT_EXAMPLES = """
 === EXAMPLE 1: PHISHING ===
 CERTIFICATE ID: 0
-Content: CN = newrecipient-device-confirmation.com
-Issuer: C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
-Certificate chain: Sectigo RSA Domain Validation Secure Server CA
+URL: https://newrecipient-device-confirmation.com/Login.php
+Domain: newrecipient-device-confirmation.com
+Issuer: C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+Certificate Type: Domain Validation (DV)
+SANs: newrecipient-device-confirmation.com, www.newrecipient-device-confirmation.com
 
 ANALYSIS:
-{{"id": 0, "label": "phishing", "confidence": 0.95, "reasoning": "Domain 'newrecipient-device-confirmation.com' uses suspicious pattern mimicking banking/payment services with 'recipient', 'device', and 'confirmation' keywords. Legitimate services don't use such generic compound domains. Uses DV certificate from Sectigo which is common for phishing.", "red_flags": ["suspicious_compound_domain", "mimics_banking_language", "generic_security_terms", "dv_certificate"]}}
+{{"id": 0, "label": "phishing", "confidence": 0.95, "reasoning": "Domain uses suspicious compound pattern 'newrecipient-device-confirmation' mimicking banking security flow. Path '/Login.php' is classic phishing. Uses DV certificate from Sectigo (common for phishing). Domain has no legitimate organization.", "red_flags": ["suspicious_compound_domain", "banking_keywords", "login_page", "dv_certificate", "no_organization"]}}
 
 === EXAMPLE 2: PHISHING ===
 CERTIFICATE ID: 1
-Content: CN = polkakesvvep-trade.com
-Issuer: C = US, O = Let's Encrypt, CN = R3
-Certificate chain: Let's Encrypt R3
+URL: https://polkakesvvep-trade.com
+Domain: polkakesvvep-trade.com
+Issuer: C=US, O=Let's Encrypt, CN=R3
+Certificate Type: Domain Validation (DV)
+SANs: polkakesvvep-trade.com, www.polkakesvvep-trade.com
 
 ANALYSIS:
-{{"id": 1, "label": "phishing", "confidence": 0.92, "reasoning": "Domain 'polkakesvvep-trade.com' contains nonsense string 'kesvvep' which is likely typosquatting of 'Polka' cryptocurrency. The term 'trade' combined with crypto-related name is a common phishing pattern. Uses free Let's Encrypt certificate which attackers frequently use.", "red_flags": ["crypto_typosquatting", "nonsense_characters", "trade_keyword", "free_certificate"]}}
+{{"id": 1, "label": "phishing", "confidence": 0.92, "reasoning": "Domain contains nonsense 'kesvvep' likely typosquatting Polkadot/crypto. Combined with 'trade' keyword = common crypto scam pattern. Free Let's Encrypt certificate. No organization info.", "red_flags": ["crypto_typosquatting", "nonsense_string", "trade_keyword", "free_certificate"]}}
 
 === EXAMPLE 3: PHISHING ===
 CERTIFICATE ID: 2
-Content: CN = kalnaholychild.in
 URL: https://kalnaholychild.in/psyy/pre_qualify.php
-Issuer: C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
-Subject Alternative Names: cpanel.kalnaholychild.in, cpcalendars.kalnaholychild.in, cpcontacts.kalnaholychild.in, mail.kalnaholychild.in
+Domain: kalnaholychild.in
+Issuer: C=US, ST=TX, L=Houston, O=cPanel Inc., CN=cPanel Inc. Certification Authority
+Certificate Type: Domain Validation (DV)
+SANs: cpanel.kalnaholychild.in, cpcalendars.kalnaholychild.in, cpcontacts.kalnaholychild.in, mail.kalnaholychild.in, webdisk.kalnaholychild.in, webmail.kalnaholychild.in
 
 ANALYSIS:
-{{"id": 2, "label": "phishing", "confidence": 0.88, "reasoning": "Domain 'kalnaholychild.in' appears to be compromised hosting (cPanel infrastructure exposed in SANs). The path '/psyy/pre_qualify.php' is highly suspicious - legitimate sites don't use random strings like 'psyy' and 'pre_qualify.php' is typical phishing page name. Multiple cPanel subdomains in SANs indicate compromised shared hosting.", "red_flags": ["suspicious_path", "compromised_hosting", "cpanel_exposed", "phishing_page_pattern", "random_path_string"]}}
+{{"id": 2, "label": "phishing", "confidence": 0.88, "reasoning": "Compromised shared hosting (cPanel SANs exposed). Suspicious path '/psyy/pre_qualify.php' with random string. Legitimate sites don't expose cPanel infrastructure. Phishing page uploaded to hacked site.", "red_flags": ["compromised_hosting", "cpanel_exposed", "suspicious_path", "random_string", "phishing_page_name"]}}
 
-=== EXAMPLE 4: BENIGN ===
+=== EXAMPLE 4: PHISHING ===
 CERTIFICATE ID: 3
-Content: CN = www.google.com
-Issuer: C = US, O = Google Trust Services LLC, CN = GTS CA 1C3
-Subject Alternative Names: www.google.com, *.google.com, *.appengine.google.com, *.cloud.google.com
+URL: https://volksban-k-de.com/
+Domain: volksban-k-de.com
+Issuer: C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+Certificate Type: Domain Validation (DV)
+SANs: volksban-k-de.com, www.volksban-k-de.com
 
 ANALYSIS:
-{{"id": 3, "label": "benign", "confidence": 0.98, "reasoning": "Legitimate Google certificate with proper organization 'Google Trust Services LLC', matching domain name, and appropriate wildcard SANs for Google services. EV/OV certificate from Google's own CA.", "red_flags": []}}
+{{"id": 3, "label": "phishing", "confidence": 0.93, "reasoning": "Typosquatting 'Volksbank' (German bank) with hyphens 'volksban-k-de' instead of 'volksbank.de'. Uses hyphens to mimic domain structure. DV certificate from Sectigo. Banking brand impersonation.", "red_flags": ["bank_typosquatting", "hyphen_confusion", "german_bank_impersonation", "dv_certificate", "brand_impersonation"]}}
+
+=== EXAMPLE 5: BENIGN ===
+CERTIFICATE ID: 4
+URL: https://www.google.com
+Domain: www.google.com
+Issuer: C=US, O=Google Trust Services LLC, CN=GTS CA 1C3
+Certificate Type: Organization Validation (OV)
+Organization: Google LLC
+SANs: www.google.com, *.google.com, *.appengine.google.com, *.cloud.google.com, *.google-analytics.com
+
+ANALYSIS:
+{{"id": 4, "label": "benign", "confidence": 0.98, "reasoning": "Legitimate Google certificate. Proper organization 'Google LLC' matches domain owner. OV certificate from Google's own CA 'Google Trust Services'. Appropriate wildcard SANs for Google services.", "red_flags": []}}
 """
     
-    # Enhanced batch prompt with few-shot examples
-    BATCH_PROMPT = """You are an expert cybersecurity analyst specializing in TLS certificate phishing detection. You will analyze certificates and identify phishing attempts based on domain patterns, certificate authorities, and contextual clues.
+    # Enhanced batch prompt
+    BATCH_PROMPT = """You are an expert cybersecurity analyst specializing in TLS certificate phishing detection.
 
 KEY PHISHING INDICATORS:
-1. **Typosquatting**: paypa1.com (1 instead of l), g00gle.com (0 instead of o)
-2. **Suspicious compounds**: secure-login-verify-account.com, update-payment-confirm.com
-3. **Brand impersonation**: Domain doesn't match Organization field (CN=paypal-secure.com, O=Random Company)
-4. **Free certificates for brands**: Let's Encrypt or similar free CA for major companies
-5. **Compromised hosting**: cPanel/webmail subdomains exposed, suspicious paths like /update/login.php
-6. **Unusual patterns**: Random strings, excessive hyphens, security-themed keywords (verify, secure, confirm, update)
+1. **Typosquatting**: paypa1.com (1→l), g00gle.com (0→o), micros0ft.com
+2. **Hyphen confusion**: volksban-k-de.com (volksbank.de), pay-pal.com
+3. **Suspicious compounds**: secure-login-verify-account.com, update-payment-confirm.com
+4. **Brand impersonation**: Domain mimics bank/company but wrong TLD or structure
+5. **Free DV certificates**: Let's Encrypt, Sectigo DV for major brands (real companies use OV/EV)
+6. **Compromised hosting**: cPanel/webmail subdomains in SANs, suspicious paths
+7. **Security keywords**: verify, secure, confirm, update, login, account combined with brand names
+8. **Random strings**: Nonsense characters, excessive numbers
 
 LEARN FROM THESE EXAMPLES:
 {examples}
@@ -66,33 +88,114 @@ NOW ANALYZE THESE {count} CERTIFICATES:
 {certificates}
 
 CRITICAL INSTRUCTIONS:
-1. Output ONLY a JSON array, no other text
-2. No markdown code blocks (no ```)
-3. Each object must have: id, label, confidence, reasoning, red_flags
-4. Label must be exactly "phishing" or "benign"
-5. Confidence is 0.0 to 1.0
-6. Return exactly {count} results in order
+- Output ONLY a JSON array
+- NO markdown, NO code blocks, NO explanatory text
+- Each object needs: id, label ("phishing" or "benign"), confidence (0.0-1.0), reasoning, red_flags
+- Return exactly {count} results in order
 
-OUTPUT FORMAT:
+JSON OUTPUT:
 [
-  {{"id": 0, "label": "phishing", "confidence": 0.85, "reasoning": "specific evidence here", "red_flags": ["flag1", "flag2"]}},
-  {{"id": 1, "label": "benign", "confidence": 0.92, "reasoning": "why it's legitimate", "red_flags": []}}
+  {{"id": 0, "label": "phishing", "confidence": 0.85, "reasoning": "specific evidence", "red_flags": ["flag1", "flag2"]}},
+  {{"id": 1, "label": "benign", "confidence": 0.92, "reasoning": "why legitimate", "red_flags": []}}
 ]"""
 
     @staticmethod
+    def extract_meaningful_fields(cert_content: str) -> str:
+        """
+        Extract only meaningful fields from certificate for LLM analysis.
+        Removes the base64 certificate body which is not useful for phishing detection.
+        """
+        # Remove certificate body (between BEGIN and END CERTIFICATE)
+        cert_cleaned = re.sub(
+            r'-----BEGIN CERTIFICATE-----.*?-----END CERTIFICATE-----',
+            '',
+            cert_content,
+            flags=re.DOTALL
+        )
+        
+        # Extract key fields
+        extracted = []
+        
+        # Extract URL (most important)
+        url_match = re.search(r'https?://[^\s]+', cert_content)
+        if url_match:
+            extracted.append(f"URL: {url_match.group(0)}")
+        
+        # Extract Subject (CN = domain)
+        subject_match = re.search(r'subject[=\s]+(.+?)(?:\n|issuer)', cert_cleaned, re.IGNORECASE)
+        if subject_match:
+            subject = subject_match.group(1).strip()
+            extracted.append(f"Subject: {subject}")
+            
+            # Extract just the domain from CN
+            cn_match = re.search(r'CN\s*=\s*([^\s,]+)', subject)
+            if cn_match:
+                extracted.append(f"Domain: {cn_match.group(1)}")
+        
+        # Extract Issuer (CA information)
+        issuer_match = re.search(r'issuer[=\s]+(.+?)(?:\n|$)', cert_cleaned, re.IGNORECASE)
+        if issuer_match:
+            issuer = issuer_match.group(1).strip()
+            extracted.append(f"Issuer: {issuer}")
+            
+            # Determine certificate type
+            if 'Domain Validation' in issuer or issuer_match.group(0).count('=') <= 3:
+                extracted.append("Certificate Type: Domain Validation (DV)")
+            elif 'Organization Validation' in issuer or 'O=' in issuer:
+                extracted.append("Certificate Type: Organization Validation (OV)")
+            elif 'Extended Validation' in issuer or 'EV' in issuer:
+                extracted.append("Certificate Type: Extended Validation (EV)")
+            else:
+                extracted.append("Certificate Type: Domain Validation (DV)")
+        
+        # Extract Organization if present
+        org_match = re.search(r'O\s*=\s*([^,\n]+)', cert_content)
+        if org_match and 'Sectigo' not in org_match.group(1) and 'Let\'s Encrypt' not in org_match.group(1):
+            extracted.append(f"Organization: {org_match.group(1).strip()}")
+        
+        # Extract Subject Alternative Names (SANs)
+        san_section = re.search(r'Subject Alternative.*?\n(.*?)(?:\n\n|\Z)', cert_content, re.DOTALL | re.IGNORECASE)
+        if san_section:
+            san_text = san_section.group(1)
+            # Extract domains from SANs
+            san_domains = re.findall(r'DNS:([^\s,]+)', san_text)
+            if not san_domains:
+                # Try alternative format
+                san_domains = re.findall(r'(?:^|\s)([a-zA-Z0-9][a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,})(?:\s|,|$)', san_text)
+            
+            if san_domains:
+                extracted.append(f"SANs: {', '.join(san_domains[:10])}")  # Limit to 10 SANs
+        
+        # Extract validity period
+        validity_match = re.search(r'Not Before:\s*(.+?)\s+Not After:\s*(.+?)(?:\n|$)', cert_content)
+        if validity_match:
+            extracted.append(f"Valid: {validity_match.group(1)} to {validity_match.group(2)}")
+        
+        # Check for suspicious paths in URL
+        if url_match:
+            url = url_match.group(0)
+            path_match = re.search(r'https?://[^/]+(/[^\s]*)', url)
+            if path_match and path_match.group(1) not in ['/', '']:
+                extracted.append(f"Path: {path_match.group(1)}")
+        
+        return '\n'.join(extracted)
+    
+    @staticmethod
     def format_batch(cert_data_list: List[Tuple[int, str]]) -> str:
         """
-        Format multiple certificates for batch processing with few-shot examples.
+        Format multiple certificates with only meaningful fields.
         
         Args:
             cert_data_list: List of (index, certificate_content) tuples
         
         Returns:
-            Formatted prompt string with examples
+            Formatted prompt string with extracted fields only
         """
         certs_text = ""
         for idx, content in cert_data_list:
-            certs_text += f"\nCERTIFICATE ID: {idx}\n{content}\n"
+            # Extract meaningful fields only
+            meaningful_content = PromptTemplates.extract_meaningful_fields(content)
+            certs_text += f"\nCERTIFICATE ID: {idx}\n{meaningful_content}\n"
         
         return PromptTemplates.BATCH_PROMPT.format(
             examples=PromptTemplates.FEW_SHOT_EXAMPLES,
@@ -103,40 +206,8 @@ OUTPUT FORMAT:
     @staticmethod
     def truncate_certificate(cert_content: str, max_length: int = 3000) -> str:
         """
-        Intelligently truncate certificate content while preserving key fields.
+        No longer needed since we extract only meaningful fields.
+        But kept for backward compatibility.
         """
-        if len(cert_content) <= max_length:
-            return cert_content
-        
-        # Extract key information that should always be preserved
-        lines = cert_content.split('\n')
-        important_lines = []
-        other_lines = []
-        
-        important_keywords = [
-            'CN =', 'Subject:', 'Issuer:', 'issuer=', 'subject=',
-            'Certificate chain', 'Subject Alternative', 'Organization',
-            'URL', 'Domain', 'O =', 'OU ='
-        ]
-        
-        for line in lines:
-            if any(keyword in line for keyword in important_keywords):
-                important_lines.append(line)
-            else:
-                other_lines.append(line)
-        
-        # Always include important lines
-        result = '\n'.join(important_lines)
-        
-        # Add other lines if there's space
-        remaining_space = max_length - len(result)
-        if remaining_space > 100 and other_lines:
-            # Add beginning of other content
-            other_text = '\n'.join(other_lines)
-            if len(other_text) <= remaining_space:
-                result += '\n' + other_text
-            else:
-                # Add truncated portion
-                result += '\n' + other_text[:remaining_space - 50] + '\n[...TRUNCATED...]'
-        
-        return result
+        # Just return as-is since extract_meaningful_fields handles everything
+        return cert_content
