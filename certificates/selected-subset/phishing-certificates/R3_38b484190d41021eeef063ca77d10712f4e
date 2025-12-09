@@ -1,0 +1,66 @@
+http://login-auth2.com/cliente/index2.php?doa19ngxqgmx7zznc6pkprv2ui/ex7eu1nitujbfts9g--719ag3x7opxwm/hcjvdio0eh1o3scchohinhsmubl
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = login-auth2.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFojCCBIqgAwIBAgISA4tIQZDUECHu7wY8p30QcS9OMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MjcwMDU0NDVaFw0yMTEwMjUwMDU0NDNaMBoxGDAWBgNVBAMT
+D2xvZ2luLWF1dGgyLmNvbTCCAaIwDQYJKoZIhvcNAQEBBQADggGPADCCAYoCggGB
+ALXhj1FHgFh/lrNNBosGGbRdIQkU4SOVKt+BLYytY7JeqzJQ1W6dLJf4t0fuItZw
+bxaKHkN0ypywN56mJxnUKckK/j3h6Gfx3/QkN3c4eki1djeuF2kZldGqPWCpTtDa
+sLmCkA1alkzo4jdPo8OAJMPJGOIX6iOzKT9jvSRqe27Grg4sEH97wPcdLXlLXkQz
+pWymkXCg4AvniaqnplGPRxHmo80MPW/Zg5aFd9Rt4okDr36k92GHj+5jxZ6cpqC0
+1UvYyXLr1kE2KTGQBS42xP+Ob6NIiUX4K34oKmDYrh/RmldAiIwR256zNj+Pqgid
+M8Yhb4F3CLom0V6NW2RCu/dse8XgUZbY1G9wpKHwXjiITmhABFTupM/9kLqGOwM1
+TwKH4isVhRJ6DOIj6xVyD38GJ87GWKQqROk7XzQ5caFwdeR0ljB4s0cnV6izEKCz
+cTOIcwiW1D6i4r1ZNll5wd3Kalee+ny6T7aYHs1cXdFgVpTk6IkiHO3MRq+pr25W
+5QIDAQABo4ICSDCCAkQwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRtVRBLXhT3fwhq
+poNMDkaBaXPkmjAfBgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggr
+BgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAi
+BggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3JnLzAaBgNVHREEEzARgg9s
+b2dpbi1hdXRoMi5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMB
+AQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEC
+BgorBgEEAdZ5AgQCBIHzBIHwAO4AdABc3EOS/uarRUSxXprUVuYQN/vV+kfcoXOU
+sl7m9scOygAAAXrlq+VJAAAEAwBFMEMCHwMQ0hh/aYIVxZZgnH6NrjPekGNBfgdI
+xJkXCYWnSn0CIDFJ42SwO3smk2+PHGzX7UBYbqb9CANRZnD6J0yB3oRSAHYA9lyU
+L9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF65avlWgAABAMARzBFAiAk
+k/GiYFNup3z0xgP0Qv5NimhHkVdcjvLQF+KmCv0HwwIhAPOODgOW5yGkYiQTMrKc
+XKhGZUle36y8+C2fyX6QVS6OMA0GCSqGSIb3DQEBCwUAA4IBAQA0VDEnysijuyBH
+ruQpzM2wpFhSm4UCfDkOS4R0Pw+AfdSUdQhB3rzyR+r9WCX8I7BTvMObzSPzD/6Z
+ltXF6PNXo5bRyhvJN3s/VO3r2VSaS4xRAiUykOXTLrh/0pgH6S105qkgL685zGfU
+pYStMFWcJZURWrRB93gxBVXFEjqTUh8yrxxRoBxGE+vhzfRNd5JUVeNG+nltrZgn
+h5wfvAAU1hJ4t0qySlZcxYyPQ58o8Fu0pqOwlbkz9tXEPS3tEcwnkYo+PpGMLqQf
+Iy2j/87GLcEsznay0kFTYCG0jxEUgZVp7Z1GLpxQzjjEc7uOdEnIODsH+LpQtlwm
+1LKKXXvn
+-----END CERTIFICATE-----
+subject=CN = login-auth2.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3268 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 3072 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

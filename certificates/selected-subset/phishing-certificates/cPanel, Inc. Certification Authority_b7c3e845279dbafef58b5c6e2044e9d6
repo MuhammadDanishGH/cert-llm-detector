@@ -1,0 +1,70 @@
+http://www.nts-maritime.com/inwerty/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = nts-maritime.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGBTCCBO2gAwIBAgIRALfD6EUnnbr+9YtcbiBE6dYwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMjAxMjAwMDAwMDBaFw0yMjA0MjAyMzU5
+NTlaMBsxGTAXBgNVBAMTEG50cy1tYXJpdGltZS5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCs0CbCBpNeiF6lu55HItHUVC8/g/3iI5QJPE52C/QD
+IiCuuHxbjzl0Av/NxojJvUVPtq1OMVvy06QZQvmYizDraZRh54+j43+t5WDSMOiB
+wYP1yAKlCklRAJwBndikuDlLntqNdP2w4WhPZBYtvSmaHCk+QmBwNP05MEBVIqpf
+PezHzr2gIZQA3YovkUkGrvwdtCipqpxoeIj18NEaITEzXddHxJJnDLWkTcZWfNJQ
+h2UV+Q96JxtoJnQVFptW1dGoDjC8LAenNdTYzqPrXxJm1DhaeJnmaHSaRNRDo79n
+mjZcaOsmTkDtHhzcD1MKg9ah1NR63EyVMUhWnOy5do5jAgMBAAGjggLrMIIC5zAf
+BgNVHSMEGDAWgBR+A1plQWunfgrhuJ0I6h2OHWrHZTAdBgNVHQ4EFgQUCQPPkkQr
+RTylCKPo7Oi8iohu2W4wDgYDVR0PAQH/BAQDAgWgMAwGA1UdEwEB/wQCMAAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMEkGA1UdIARCMEAwNAYLKwYBBAGy
+MQECAjQwJTAjBggrBgEFBQcCARYXaHR0cHM6Ly9zZWN0aWdvLmNvbS9DUFMwCAYG
+Z4EMAQIBMEwGA1UdHwRFMEMwQaA/oD2GO2h0dHA6Ly9jcmwuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3JsMH0GCCsGAQUFBwEB
+BHEwbzBHBggrBgEFBQcwAoY7aHR0cDovL2NydC5jb21vZG9jYS5jb20vY1BhbmVs
+SW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6
+Ly9vY3NwLmNvbW9kb2NhLmNvbTCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AEal
+Vet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfnXNTj8AAAQDAEcwRQIg
+DfuTXD6meHEytw107r5p55q725araLG5j7pJHJSocboCIQDTa44XI0qSzlNyfH5+
+xS1OzkxIlldhneyfARZRTCDa+QB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do
+8JBilgb2AAABfnXNTf8AAAQDAEcwRQIgUP5nCDvp2jG7IG0TOa6yFg5oMqOjRztD
+ms4ghbkFFRsCIQDdMzQdmUm8fkA24fyStvKk+yDr/BSaHypshDfN9ck6+DBIBgNV
+HREEQTA/ghBudHMtbWFyaXRpbWUuY29tghVtYWlsLm50cy1tYXJpdGltZS5jb22C
+FHd3dy5udHMtbWFyaXRpbWUuY29tMA0GCSqGSIb3DQEBCwUAA4IBAQA+0PPJruE6
+qe/qmrDWE/SFIHXSb/sW9hBRN7/+h2YB155tidXXJRWqKWctbM0vkxyz8tfdKWXA
+LdwzyniwvOUGRhxfSGBakoeiLLeZ2Dm9p2MMkLiYxqWJ9vVZtRNmsVxLeimE4kc3
+EPB7+nO34TEM9oWgO2t/BmIAcdxKIYCA9kkW0xA066TRl3g5MgIWivIMLFT3qo8N
+VfbUsV5mUGn/zZjsEhQmWv8JVloRSXpJqzao/m66HWZ/n+KBRMtRfmHxDASQrZ/h
+TwnyBVAVc7YjwTQMA2O51kr5wtYpkUztRYkP5RI/RxXTFHc2wn0ZNtoR6p2TqLv+
+TbhP0/rHOvWX
+-----END CERTIFICATE-----
+subject=CN = nts-maritime.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5050 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

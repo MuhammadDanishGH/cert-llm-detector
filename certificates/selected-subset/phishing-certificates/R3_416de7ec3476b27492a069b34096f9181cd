@@ -1,0 +1,65 @@
+http://notethis.org/ys/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.notethis.org
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLzCCBBegAwIBAgISBBbefsNHaydJKgabNAlvkYHNMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjIwMTI3NTlaFw0yMjAyMjAwMTI3NThaMBkxFzAVBgNVBAMM
+Dioubm90ZXRoaXMub3JnMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+0ceLR2O3pjHjv300Vej5QaRt7PTfoQR980DsV1aFK4LBHBMHVqIoAo1Gd+XEC0rb
+yB88uvHIKSv3wJGEZsTqsgPY28ceJOsjOPuWxEomr9Fyg6FjcucCgoaST/ocWbHl
+REAAEGsanL4T90rapqhD5iWkwPgE+i+OXSBRZEMDaDVY78sc3kH1ktuvHLeoL3LG
+lyKFPQhmsLfmOFs0L7D2A80M5B3cIkN72vVsHhyZ7fEIRJVSn5Ix+BmmpUmaLuAj
+5r0hkPSRnRRCQ4RTrGeQ2xLZbHywWlpVfBi+y10COTDRAhAmP2Y97oGj1pZJMl/X
+e+OIhuGh87f1xT11Q1c2nQIDAQABo4ICVjCCAlIwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBTGPl0ohhzL6OOW4UidU6s+JioDcTAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzAnBgNVHREEIDAegg4qLm5vdGV0aGlzLm9yZ4IMbm90ZXRoaXMub3JnMEwGA1Ud
+IARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0
+dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDv
+AHYAKXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF9RXi6PgAABAMA
+RzBFAiAfch5QvUgvhNtdTo7Vnbdas3QLX98Jk+1ovnJUTNzZcwIhAMrkQL1wuSQ0
+ZS9wGpzLuBDCNZhmEMhWntcipY1r3DDbAHUAb1N2rDHwMRnYmQCkURX/dxUcEdkC
+wQApBo2yCJo32RMAAAF9RXi65QAABAMARjBEAiBHcJwfcNF3i1tyzMrxDsNRdNt3
+EYC3Ij4RhEFgmKqOnAIgTxUWtnsgZPuHoq5HwaQEWA6hx1eIV+CoC3pleBF6Rqsw
+DQYJKoZIhvcNAQELBQADggEBAAgNSrXfAEmW5MSVHgB6Yxp4BJdyQMBeqBHUhXMF
+y/bPF7958S6dXK5PXlsRZDmUyuwXX585p9Si7i0AzbVfs+qzL1FbkbQTmtPw3G/q
+oovtZuHjlOGXbeHC/lFvSqMat3cbtsSW1f4s4th+/sHjzp9tTjClRxnwZPAD9BuL
+/UNrqlJWH/tsVtPqfPPKUixnP9Qyt2e+XGwoSO3nGRT5CwPsBozpYnBy4q0OTE19
+rHWz4UoO3aG/7R6w7VV8imKiyxgF/NRfR1peaWGU05qAModyguohFCyaO5KB8/wS
+8OAcIhFfaJFSwlWGPjtlHgf2TnI1BagpGndFkiRWnVj7Bxg=
+-----END CERTIFICATE-----
+subject=CN = *.notethis.org
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4587 bytes and written 386 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

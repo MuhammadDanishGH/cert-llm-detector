@@ -1,0 +1,66 @@
+http://amozon.co.ip.xiaozaoaike.com.cn/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = amozon.co.ip.xiaozaoaike.com.cn
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRDCCBCygAwIBAgISBGVdNszHRAx/n1dK30zGzAFcMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMjYxMTA1MDBaFw0yMjAxMjQxMTA0NTlaMCoxKDAmBgNVBAMT
+H2Ftb3pvbi5jby5pcC54aWFvemFvYWlrZS5jb20uY24wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDF+7YyhevIsMlGPeSl/UmtHu4ej2w16FRmoapTupJH
+MuTov4XUcrZNvc5jhWMo0RuNtGwY6FSEO8g5QZRfjP6myBvibcH0933v6et8P6t6
+3sh/SUXyED51mJIIzynzvWuxw/EFNQD76hNau5Bm+ScPqJ6QLZNX16RSbbSoqOa5
+bp9V3x3qrh/ULVNYUSp3XlQ3zazfenYFZ6d8h9KCfZRqSheR2/AtEJYaj+IYIHtB
+qtkGcK+2VK1k0HvHYkwZKaDqpsNc+EKVRjUagphldw9IX0amzBaJubHa4NT+Pmvv
+1a7us+xIK21TzlnaLf+bQSZ4JBFkwuj8NrevjlSzqAL/AgMBAAGjggJaMIICVjAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwG
+A1UdEwEB/wQCMAAwHQYDVR0OBBYEFGo76Oz76QUhwqgQ+yfzuhKqtbomMB8GA1Ud
+IwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggr
+BgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRw
+Oi8vcjMuaS5sZW5jci5vcmcvMCoGA1UdEQQjMCGCH2Ftb3pvbi5jby5pcC54aWFv
+emFvYWlrZS5jb20uY24wTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMB
+AQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEE
+BgorBgEEAdZ5AgQCBIH1BIHyAPAAdQApeb7wnjk5IfBWc59jpXflvld9nGAK+PlN
+XSZcJV3HhAAAAXy8fUqBAAAEAwBGMEQCIB+3fEo0GH0EpcWtJrjKxg0BXjQiY274
+Tpa2Y3UuGFbdAiB3eDPhgdNhYhyRnR8HDxk0wqfJGwwDATR263YrRVkBqwB3AG9T
+dqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kTAAABfLx9S7MAAAQDAEgwRgIh
+ALeNW5vTMB+aM5zzGjo4m9NN+KUyDgW63HYbKn5QKVzJAiEA4ND6JD/o8K/nNCQ5
+H1Ny+zOq5t8mleRI7igMk26XN8QwDQYJKoZIhvcNAQELBQADggEBAFUV1HyGYw5S
+585X1qyjbw7BP+Fim+4iRq2WKdIACabWZQZ/zV5Em8OCcjBnyb3cVhepmXjKihtT
+TGIYzJpXKS7LGlkR2MhzuRykgZq8W2aFJ5mxXECUOtgnzPtc7vfBD5IsJk0Ais4A
+xw/uQYunc6xeDw67AxodF5VrAzRcEdiGU5rj6fpYwkppZ2LkU1vYAJOxY1Z1G7RD
+JV7McKCtJnEnOBAUGhz1o2GQxVzEen4lLn0M49EePZJjIDSDGlABD0mGABnrZQM8
+tgtJxnX/nuAVc4FKut8it6ZZVwnLBYsOoeSM3trF/Mz/T+I76Dgi4ml43YQbAIMf
+ZSjBmLLA5pI=
+-----END CERTIFICATE-----
+subject=CN = amozon.co.ip.xiaozaoaike.com.cn
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4608 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

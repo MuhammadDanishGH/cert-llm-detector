@@ -1,0 +1,97 @@
+http://vitalina.net/wp-content/plugins/akismet/xv2/signin/customer_center/customer-IDPP00C414/myaccount/identity/INC/antibot7.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = vitalina.net
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGmTCCBYGgAwIBAgISBBuEXB+KvwCeg62GO16h/dQsMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMDcwOTEzMjJaFw0y
+MDAxMDUwOTEzMjJaMBcxFTATBgNVBAMTDHZpdGFsaW5hLm5ldDCCAiIwDQYJKoZI
+hvcNAQEBBQADggIPADCCAgoCggIBAKnLWO1cBCdPcWVqpaIm3lEROU6Kj8uIHhXH
+oI8In/M+4XKsXSDR04wCQX6LSL8ivl2ZzbhGn0RjyZLG1/YC4Oi+r+dtOr8V0x3Y
+OW9TNwmUWUfFr+xvuY5FeXYGB43TEQmn85Q8iY8H1T+jo3sk7L7h5+H/iEF78IZZ
+3Is7Oyjm0XTrydA9OSIwD3JORtOgOoBjV98dkUpnswZfy+PC/8Ot4DEz73j2zc70
+6/he1oHKHUA5JNnuMitvzGiOrljWqPpjU4h3KXPyXefB9vp21IYjjbyIUvd7ZIaG
+u09mzqzfbQkQwFJyKipUV/IYBGY2roGmZoJiAQhnjVqA1XCd3eql0l6K/DrlHdYJ
+uNocVsPpC8JJz/fRd8Fq4487tTBT/hCyMrpN7F3xXQFgP1IvAX9yYm/wZkNAMLNF
+H0hBgzVHVe25VSLbfYaxtd/eFBh3UTrCcPEph37Ae2nCNjo5niDnTTiEM+fG6ajT
+/3yAi6BDMtlWZXT10ZORsmW25EOoFEXJ0IczGNfDX6594/AdoY+Ztq+DErHfPjIB
+iKGDhWHmizmFPp4Ca+sZcchny/8oTDdgb2EImWNTx64GHpLw/M6XzOVZ6KKrMATo
+bzUvdnkjb9eh9B0LlljMORHgKqR39h3j8oHbC/JxiLAJhU9MnrXmXip6zoB1QadW
+aEWugr6tAgMBAAGjggKqMIICpjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFKhkTsmp
+PhdiY3Rp8qqxT6VGhZsfMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyh
+MG8GCCsGAQUFBwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgz
+LmxldHNlbmNyeXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgz
+LmxldHNlbmNyeXB0Lm9yZy8wYQYDVR0RBFowWIIRbWFpbC52aXRhbGluYS5uZXSC
+EHBvcC52aXRhbGluYS5uZXSCEXNtdHAudml0YWxpbmEubmV0ggx2aXRhbGluYS5u
+ZXSCEHd3dy52aXRhbGluYS5uZXQwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYB
+BAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5v
+cmcwggEDBgorBgEEAdZ5AgQCBIH0BIHxAO8AdgBvU3asMfAxGdiZAKRRFf93FRwR
+2QLBACkGjbIImjfZEwAAAW2ltY95AAAEAwBHMEUCIQCHZkURmSKL+/QBdGFuc/oo
+gUTV81G4Y5uJaFC2pcR86wIgZ8hwx2N+vHTGU7HIZJt9bj78XZsR7w+J3qFsHj7E
+qDYAdQCyHgXMi6LNiiBOh2b5K7mKJSBna9r6cOeySVMt74uQXgAAAW2ltY9HAAAE
+AwBGMEQCIF1o4hvOVFhZVdsIdxxUuByRPwTF4LmUMdZnOdfQesmgAiAgKA+Gure9
+vI5mSgVmqi4PUoFXgUys+MFZQSD1RtDR6zANBgkqhkiG9w0BAQsFAAOCAQEAVS70
+vOUiJKpJvHdQQ+zd+Ibg1WZqc78Z36lSyaH+gl3NeTlUyEPzOvseXEkL8VDhmxDc
+loquobFl2NFFKwJMXUTclFoIbT3wrEI35ZKiLZ96ONTFdn/yHg4I4EavykCXSmQQ
+r6tn4R8s0jITooPq6b+ldv0yO+dlsbVubb2y6zVRP9Fgnkk70j/3FJ9MpbadLoVc
+dMiuhmvJBazyxHfdH7LR/M3LBHhaUBmAX/dLpRCsjEHZ9qQEBjHKY1rqAFDHf9yY
++E+QGkhyYG7K0jVm2G1eC5Xey+84wJabnL1X7QlL92lR+1RrjxYNZ8OfBwVWBdh6
+8zDEcwowKSlgJIH3rg==
+-----END CERTIFICATE-----
+subject=CN = vitalina.net
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3816 bytes and written 450 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 660DB27D1D45A31CA66B2563E0E08C11D7F60311E94585DABE92C093F8EA8240
+    Session-ID-ctx: 
+    Master-Key: 652720B9827E7DB0C63F71DD424753E36DB0E21C36EDB0604CC7DB025FA4C796C5E56EE35E1DCB2D62FB7ECEB376295E
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 53 be e0 95 dc 07 c3 d9-d5 f6 41 38 73 c0 9d fe   S.........A8s...
+    0010 - 3b 66 c0 dd a7 8d 03 a7-86 62 de c4 f7 f3 43 53   ;f.......b....CS
+    0020 - 30 f9 b4 e4 46 52 89 4c-58 e4 47 10 c4 f5 81 12   0...FR.LX.G.....
+    0030 - 0c da 8c f6 09 aa b2 eb-e5 87 a7 75 2b c6 a2 e1   ...........u+...
+    0040 - 99 5b b1 ba 26 8d 57 c8-ef 26 ea 6d bc cf 9e ba   .[..&.W..&.m....
+    0050 - 2e 9b d3 64 8a d6 43 8a-88 94 9d 2e fc ea 77 1e   ...d..C.......w.
+    0060 - 64 c0 11 33 d7 a4 3b 21-9b d7 49 67 6d 8d d7 f9   d..3..;!..Igm...
+    0070 - a2 d6 99 bf 17 79 27 c5-3f 6f 24 9f 57 32 d8 c2   .....y'.?o$.W2..
+    0080 - 85 e2 e8 7b ed aa c8 cd-f8 e8 b7 bf 7b 3c 49 a7   ...{........{<I.
+    0090 - 04 07 2d 26 83 9a cd e6-bc 9c d1 06 84 ba a9 b6   ..-&............
+    00a0 - 40 05 7f 57 0a 69 89 78-6d 0d d7 9c 26 99 66 78   @..W.i.xm...&.fx
+    00b0 - b6 b3 9c 34 91 4b 16 fa-49 f1 87 14 ba ed b5 25   ...4.K..I......%
+
+    Start Time: 1574517629
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

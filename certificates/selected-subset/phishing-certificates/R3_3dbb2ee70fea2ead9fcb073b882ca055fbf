@@ -1,0 +1,90 @@
+http://sdvbnye.ml/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.sdvbnye.ml
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFLjCCBBagAwIBAgISA9uy7nD+ourZ/LBzuILKBV+/MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMTUwMTM3MjVaFw0yMjA1MTYwMTM3MjRaMBkxFzAVBgNVBAMT
+Dnd3dy5zZHZibnllLm1sMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+x8OpNfidLzvqSynGMbRatAj3iPa/1Jp8X1Y2Cyo+S9M1r+Wd45UXpI+U6806wWrd
+2ojuJNG2OzYKaIIBtNbDLOEzoeCCQ4qV190hRCNUfKlpBm7ftPyqWepvPdWLSJCJ
+ZTHoNyLxXQaxRyqCTWhe6uRxPXsP8DFlOW1VGFDFU0XvQ/XNC+uEsMhE+9Y2OaTF
+wyZ4c5XzbpRVpKikheOUnmlBD72AtraJD0wgrJb5RdaVw18v7CWlfMQxOQR3p2+r
+4tAzO6W4chJLaDeRV5NyNhgYkOtpM3Gv4iuZVW9EPnf5/Q6w6Kgqnt/qwNBEu3m2
+1X2La1OMkdqRapSse2Y+DQIDAQABo4ICVTCCAlEwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBTPNQvgGDrZGu/8HoK6yC01Ol7jEjAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzAlBgNVHREEHjAcggpzZHZibnllLm1sgg53d3cuc2R2Ym55ZS5tbDBMBgNVHSAE
+RTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRw
+Oi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2
+AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABfvs95wEAAAQDAEcw
+RQIhALyoYBgT+4hh/Ln5irQBHxTjwLIW7KcnwV4BWEd6aPF+AiBfioF6owmIiA6q
+nq6fpAl2GvnDe7MPv6HYPW4Rm9Y6sgB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4
++U1dJlwlXceEAAABfvs95vEAAAQDAEcwRQIgTGu8n5wuFYW6ZuwrQcKotCF4RQ2e
+7m3KN6pLD0++i8cCIQCRRjgFcsWRX8lcHqmoURlmIYEIrA/89U3Wf2JkR1czMzAN
+BgkqhkiG9w0BAQsFAAOCAQEAtBmQYNDV4WlJ8c1/0U9r/eVvUDYmjF+MqRWV1P0d
+jIMKiO27YBWUBgDrWxW3CFscrNfefS5fsDEnRMnjyLEYRv4bPaxfiERl9IObRvuw
+llDLbdmHEW/soNGX6SJvYnMGEh8BE4mk9zaWoyUqCz4iIT2z/jWiBXIBTmOQGPx1
+XL9qtgbWEcodJkjYVzE26JK+YgqmvKXB7K1JU5a4wmokbHeXmJhNM6D6MM/G4CvS
+2OpbAghDyWr6r6LHQ03l985ntla/ewGiDAkoSgBXCPlRTo1AOdpTIaz8Ld7ap/qf
+JzJBThcjhMCRDRevwiOVY4Z3gcvUPuODVS5iPXJ2UY99XA==
+-----END CERTIFICATE-----
+subject=CN = www.sdvbnye.ml
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3316 bytes and written 397 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: A794BF48946385C13CBB1EC425DD53BE51CACC8B993BA7E0B7DB40B942618F29
+    Session-ID-ctx: 
+    Master-Key: A69B1B1965FAB3E98D86951B8ACB30166C66BDC9FEAD5E42E430FB0EFE03D030C362A320B36B9CBF002363EDD92C4887
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 0a 3d 52 66 b0 82 4b b2-6e 12 3c 43 0f 60 36 80   .=Rf..K.n.<C.`6.
+    0010 - dc a9 06 39 fd 77 56 f8-53 c3 28 60 2b 11 4b 3f   ...9.wV.S.(`+.K?
+    0020 - 46 e2 e0 31 8f 82 17 36-18 f0 95 19 d8 f3 2f f3   F..1...6....../.
+    0030 - a7 67 9e c0 be 5d 1a 28-9f 46 7a 58 1b 8d 69 6a   .g...].(.FzX..ij
+    0040 - 51 7d 3f 1e 0e 54 c2 24-ce 91 9b a4 2b b1 e5 6a   Q}?..T.$....+..j
+    0050 - 1e 38 c6 42 3b 1b 7d 74-22 e7 25 43 8f be f5 b7   .8.B;.}t".%C....
+    0060 - 46 9c ca 6b 19 f7 5c 34-a2 94 46 1a 4a 92 2f 77   F..k..\4..F.J./w
+    0070 - 4d 80 01 eb d9 8b ea d9-84 b2 f7 a8 2f e0 75 2f   M.........../.u/
+    0080 - c7 0c fa e7 1f fa 47 ce-28 7d b3 17 26 74 89 bc   ......G.(}..&t..
+    0090 - 91 fa b3 df f9 40 f4 86-c5 6e 39 90 2a 1f 7f b1   .....@...n9.*...
+    00a0 - e4 82 95 18 69 8e 06 65-bc 86 e6 ed f2 5f c1 4a   ....i..e....._.J
+    00b0 - dc 10 8a 68 fa cb 7f 2a-f1 d6 d4 42 ad d7 ec fb   ...h...*...B....
+    00c0 - 0c 3b 8f c2 91 13 98 a4-9f a2 b7 02 6d 1a 3a 9c   .;..........m.:.
+
+    Start Time: 1645101603
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

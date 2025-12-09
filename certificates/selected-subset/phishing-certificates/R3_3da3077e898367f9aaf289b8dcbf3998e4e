@@ -1,0 +1,67 @@
+https://eager-hodgkin.192-210-132-118.plesk.page/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = eager-hodgkin.192-210-132-118.plesk.page
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFhTCCBG2gAwIBAgISA9owd+iYNn+aryibjcvzmY5OMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MjgwOTM0MjJaFw0yMTEyMjcwOTM0MjFaMDMxMTAvBgNVBAMT
+KGVhZ2VyLWhvZGdraW4uMTkyLTIxMC0xMzItMTE4LnBsZXNrLnBhZ2UwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC/gt6XE8mcXNyy+YjKaYhkJ5bCjB40
+Tl2PgoSkSPbbw+1w3OQjxwJGqT1s+h0AgkP8hdJUMS3h7XBAwJvgMHKWC8lnF5es
+ZCEFmZ8YVJQ12jVK7MIIkc+RpSiDHTJVRpsPKhCLBUEs/jaROMxQOvTDVR3RhrdQ
+NzDVb/EE81y1LHIeoff3EAmfjqiMzUeXaDSg+bGdmi8Ghce4cUlyUN2K6nVhsbze
+eQE5cANXoukTjPv2fBHHm5bvVyhQAZo5d68ZghXJzkdQj8csVsjKLZuN0tYYoCLL
+SlRz2pIYs2hoPl6MdrmOgvM44BZq+GQhUjjz6zwUHTmoWbsUabLQF/6HAgMBAAGj
+ggKSMIICjjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFJNaNSEsbUTPBuR84zecQiVu
+oK/yMB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEB
+BEkwRzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUF
+BzAChhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMGEGA1UdEQRaMFiCKGVhZ2VyLWhv
+ZGdraW4uMTkyLTIxMC0xMzItMTE4LnBsZXNrLnBhZ2WCLHd3dy5lYWdlci1ob2Rn
+a2luLjE5Mi0yMTAtMTMyLTExOC5wbGVzay5wYWdlMEwGA1UdIARFMEMwCAYGZ4EM
+AQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0
+c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHcAlCC8Ho7VjWyI
+cx+CiyIsDdHaTV5sT5Q9YdtOL1hNosIAAAF8K/hAhQAABAMASDBGAiEAmSfsb9rn
+SUkNZHlEkD+sHohud5jQ8n/aFb48JQyDYbQCIQD649xIH27zQ8H0Q5E+rb71y/6B
+OfLTfXLIjHXXHOVmcQB2APZclC/RdzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTj
+AAABfCv4QHkAAAQDAEcwRQIgMGGGYMDNKk/gW2u3CGIOUkiTyng7gbvXj3BvDB1u
+1gECIQCYruCQ9ztw4BhYOHdF7ObeXCbj9sSi7YAzJFoosKJGADANBgkqhkiG9w0B
+AQsFAAOCAQEACMDvS8AAYDKxbSr9GWFjhRWNGZNLeAXpzeAUoUascD6wlbyKKmtk
+MMWtDzgZdc6xS/bI3XKwqYf9WUfg8ysD+D5vrFFPnN1VjLKtZ1aUYgwNsdKKtA2R
+pkyhcxlsL/0F0L2XmfhzUnaO/sWQNsVMAvOizQ+r8A2BTyHGySwPJfiS08ouzV+U
+mwi04JXTQrg7Y3A0sljI9cThMJZnsRghGNN77MZMzkTD04YKxLy8bOeCdiyWcvLB
+u1zE0dzbNg92L89PYPE8gPSmyp7FQUyLpufYDLX1l7ggzJpHu0eZ1+sQQj+M3PWk
+IrkvFkIQdQFkTR2yYZozguqaFgTg47R6Nw==
+-----END CERTIFICATE-----
+subject=CN = eager-hodgkin.192-210-132-118.plesk.page
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4673 bytes and written 414 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,65 @@
+https://trust-orlen.us/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.trust-orlen.us
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNzCCBB+gAwIBAgISA44n9zm+mSdtyHgh2mJxnyu4MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDkwOTA0MDhaFw0yMjAyMDcwOTA0MDdaMBsxGTAXBgNVBAMM
+ECoudHJ1c3Qtb3JsZW4udXMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQDbejjyZOJacEwC5H64OGmf9KQgX/hgv/Rl/6LfthqEP6yO+KDH85RU1vPINnbs
+vrw1UNSroOJPrNAcARQ1xNDdxGedi7Gvrjlco5dYGhopy22R0p/s/FwDqs+OkiO/
+dxK1os13PkgRNKWhQGEd+SRgkD4LeZOacQVfPayo1T0X7+2W98D1oPs6G8SJqa9B
+MRlpzRlKbR5h/cCaWdh67FphfMfDrpbScX2YOD07eZhaRcHZe+ynkxYq1zrIjt9M
+0gwNwpRkpaj3J9gP0zJX00165whqXmnquCjGS2SLi+kjaKCK5syX70CSsvIOX6iq
+pCKSou9RWiIGQieyVk2iG3h7AgMBAAGjggJcMIICWDAOBgNVHQ8BAf8EBAMCBaAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFJH/S9521bvjt10yKRHCIwbGY3y6MB8GA1UdIwQYMBaAFBQusxe3WFbL
+rlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov
+L3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v
+cmcvMCsGA1UdEQQkMCKCECoudHJ1c3Qtb3JsZW4udXOCDnRydXN0LW9ybGVuLnVz
+MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUH
+AgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB
+9gSB8wDxAHcA36Veq2iCTx9sre64X04+WurNohKkal6OOxLAIERcKnMAAAF9BCet
+NgAABAMASDBGAiEAiCjmSriXf92JOioYRXpRQqMOU16pXiCNCUtPYvrU8P4CIQDH
+cZiyO9e/oNw1D9U6c37PHT6wq5XgiPrTNbLShXDsZgB2ACl5vvCeOTkh8FZzn2Ol
+d+W+V32cYAr4+U1dJlwlXceEAAABfQQnrUIAAAQDAEcwRQIhANqEGTzzte0O4Q6T
+KKpAhHzfruKNL+1XUD3AA5iK3fNFAiAVsLs+ozak/vDNgWQwlLOPvY92M2CCqDa1
+SLmaWHFLQDANBgkqhkiG9w0BAQsFAAOCAQEAgxbbgjALPZXW5Z6Mn94jT3hUp5mh
+3/krn5xiPL7tQErQhnLgPdcTqEw5DN/qHSddAkG6ZfmloN/ZRR71qsKw7GrOm7wH
+fvlVttIYs9em6nawSh8w2HNexSzRdGY14N0RjdK1hd70VrRH1boLiHER9IDk1Chk
+ovV7m9WnE3C4NWPu4pIkXs4Bp7E7aaAXPEkW8zEXSZBtxZ1a4YDx7fkqroK8NdcG
+nMWZnn07owmmeezb7tJgirFc8DKQt5AQbVZAnPThRehVUmK42sEe8Hqe3ysuwRY+
+MwlPbiZBWrabhBb5ofCcBjBRlUhMK7kPzQ/j9HoI1eMXi0dUIvWxqYHWEQ==
+-----END CERTIFICATE-----
+subject=CN = *.trust-orlen.us
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4529 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

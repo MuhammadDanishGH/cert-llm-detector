@@ -1,0 +1,66 @@
+https://www.tudosobreombro.com/Agricole/Authentification/region.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = tudosobreombro.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFQDCCBCigAwIBAgISA4Zb/ibs4CeiPvGLsKKjLpgZMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA3MDQxNjU5MDZaFw0yMTEwMDIxNjU5MDVaMB0xGzAZBgNVBAMT
+EnR1ZG9zb2JyZW9tYnJvLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBALesRmlht4OjNsbaaLgV91GGjpQJA+SPQZkTOP4Lc4v7QxL4IWEsheZ5ab2r
+1P4OIKg46ZdKj0WNF9GQzO55uVfV2tAroqeuFhJ98L8pKwsiMw4mOdrUEeaO+aPQ
+1Qg2r9pTLXNvDJYaHc3xLTLbS7dHiaJ2AEMz8MdMcO0MH++RHyJxDV9SFU0YR6zo
+Qxf5q34IKmhB+QuK6t/zGk/3/ImqtcTJgzHyZtcJ4YgOee6qXdtLIXkvIbXOj/RE
+0R8oQ/swtnpRVj5fUwcG9tKKxfnBmeq0cE6D3O/97lf1qySWpXkt7h4vJbq/QFNw
+deOMVLpOiJpPv/k0TUuacq+9GTMCAwEAAaOCAmMwggJfMA4GA1UdDwEB/wQEAwIF
+oDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAd
+BgNVHQ4EFgQUC7uiAJe3D9rVj4keRst81TSCzAAwHwYDVR0jBBgwFoAUFC6zF7dY
+VsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVodHRw
+Oi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxlbmNy
+Lm9yZy8wMwYDVR0RBCwwKoIUKi50dWRvc29icmVvbWJyby5jb22CEnR1ZG9zb2Jy
+ZW9tYnJvLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAo
+MCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisG
+AQQB1nkCBAIEgfUEgfIA8AB2AJQgvB6O1Y1siHMfgosiLA3R2k1ebE+UPWHbTi9Y
+TaLCAAABenKshJAAAAQDAEcwRQIgMp5spKxo1RbodYzD8GOFc+3IZEfT6dGVsc4U
+aBQ/cx0CIQDs21jRnR1cZecoIIkX/o9BUBhOiycrzHRMFZWfgqOJ8wB2APZclC/R
+dzAiFFQYCDCUVo7jTRMZM7/fDC8gC8xO8WTjAAABenKshIsAAAQDAEcwRQIhAPqo
+nf983uz14/ctTvkYfAGnm83fZxGiWU7UmG2IOgHDAiAltTjg6ijlqjBPY919VtTo
+3NH+UKk+dbwaGdsZ5I7kTjANBgkqhkiG9w0BAQsFAAOCAQEAFHe00rKXHFiSQx8V
+OI/9l2oFgLRLwE8Xwnokot3HbdOPSebCzkyCxlP/o/o0ZESmKYuJmenN/eaGSHDs
+vwmJ1nm/e7RsrB7bXYLR0b3YUQwd4LnB25RHfTiHVXJ2sd6wF3TwFRvn4v6T6YuG
+d+kIp0LEnVDZeB46f1aR/MdAM3mo6aemBbXRtAjeSzG3Aesqh7L6bw8U97M148mQ
+0AdwH+AMdjnP3ZlBQfBod9U8YHV4z1kUaJAju0Bhf6AISj135NjXhCGh79h2vupZ
+q64OV6eNeWAJq/cdNWH9xmsbkrIZn/WiHElythcwvonaBDeR3ZLEJV3KO0VVA+nY
+YsxVTw==
+-----END CERTIFICATE-----
+subject=CN = tudosobreombro.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4604 bytes and written 404 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

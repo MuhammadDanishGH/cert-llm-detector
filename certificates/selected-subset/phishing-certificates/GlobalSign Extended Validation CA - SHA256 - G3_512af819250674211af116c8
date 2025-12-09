@@ -1,0 +1,70 @@
+https://spela.svenskaspel.se/logga-in?returnUrl=%2Fspela-tillsammans%2Fbli-medlem%2Fab8db549-dc76-49fb-860e-a65590b4e9f0%3FaffiliateId%3D3059106%26tduid%3D5ac5d4a527ef93bafb3cb13c3ba37592%26utm_source%3Dtradedoubler%26utm_medium%3Daffiliate%26utm_campaign%3DThe%2BGambling%2BCabin%26utm_content%3D_
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:businessCategory = Private Organization, serialNumber = 5564601812, jurisdictionC = SE, C = SE, ST = Gotlands lan, L = Visby, O = AB Svenska Spel, CN = spela.svenskaspel.se
+   i:C = BE, O = GlobalSign nv-sa, CN = GlobalSign Extended Validation CA - SHA256 - G3
+ 1 s:C = BE, O = GlobalSign nv-sa, CN = GlobalSign Extended Validation CA - SHA256 - G3
+   i:OU = GlobalSign Root CA - R3, O = GlobalSign, CN = GlobalSign
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGbTCCBVWgAwIBAgIMUSr4GSUGdCEa8RbIMA0GCSqGSIb3DQEBCwUAMGIxCzAJ
+BgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMTgwNgYDVQQDEy9H
+bG9iYWxTaWduIEV4dGVuZGVkIFZhbGlkYXRpb24gQ0EgLSBTSEEyNTYgLSBHMzAe
+Fw0yMDEwMjAwODIxMTFaFw0yMTExMjEwODIxMTFaMIG2MR0wGwYDVQQPDBRQcml2
+YXRlIE9yZ2FuaXphdGlvbjETMBEGA1UEBRMKNTU2NDYwMTgxMjETMBEGCysGAQQB
+gjc8AgEDEwJTRTELMAkGA1UEBhMCU0UxFTATBgNVBAgTDEdvdGxhbmRzIGxhbjEO
+MAwGA1UEBxMFVmlzYnkxGDAWBgNVBAoTD0FCIFN2ZW5za2EgU3BlbDEdMBsGA1UE
+AxMUc3BlbGEuc3ZlbnNrYXNwZWwuc2UwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDY4JVXPD3bxERfGEbvtJZQiUjvbN4gtod5X+Jb4HzGo2C6bvIW8E+a
+QAH79UC4Y1yzRtr2+6Jmv0S8hZgYEpvYkx033RkgfwmniVwJ1pwQjhBIHlIyHFY6
+Fi+GawWSYh3+5iaRz7iyCgd1xDUCIbqj5RiCjQebbUqx9mYcchyUSn5cqh6Mrhmp
+/BVg7LmXYnFeb5ODET272JwjQIwsb8y+K13AmWbCaTW1HGaiL9/KlHkkhzrBaYwp
+YojpN6/wZBpWRBrArkge6RHxF8/rcPhEwGIbMOVhiSoHE2qCsOCYuQI5bsQ9fPZr
+3kGCbfB0evtNVlE2O1oXxz1b+TKbqMapAgMBAAGjggLMMIICyDAOBgNVHQ8BAf8E
+BAMCBaAwgZYGCCsGAQUFBwEBBIGJMIGGMEcGCCsGAQUFBzAChjtodHRwOi8vc2Vj
+dXJlLmdsb2JhbHNpZ24uY29tL2NhY2VydC9nc2V4dGVuZHZhbHNoYTJnM3IzLmNy
+dDA7BggrBgEFBQcwAYYvaHR0cDovL29jc3AyLmdsb2JhbHNpZ24uY29tL2dzZXh0
+ZW5kdmFsc2hhMmczcjMwVQYDVR0gBE4wTDBBBgkrBgEEAaAyAQEwNDAyBggrBgEF
+BQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5jb20vcmVwb3NpdG9yeS8wBwYF
+Z4EMAQEwCQYDVR0TBAIwADBTBgNVHREETDBKghRzcGVsYS5zdmVuc2thc3BlbC5z
+ZYIYYXBwLnNwZWxhLnN2ZW5za2FzcGVsLnNlghh3d3cuc3BlbGEuc3ZlbnNrYXNw
+ZWwuc2UwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMB8GA1UdIwQYMBaA
+FN2z522oLujFTm7PdOZ1PJQVzugdMB0GA1UdDgQWBBR5UarALQ7O9qzYT+w8PJVO
+9e9LzTCCAQUGCisGAQQB1nkCBAIEgfYEgfMA8QB3AO7Ale6NcmQPkuPDuRvHEqNp
+agl7S2oaFDjmR7LL7cX5AAABdUUZImMAAAQDAEgwRgIhAJKLCBstz7MFs0YDhJon
+XKzIrS8lOb3nUhte0/1PI3D2AiEA3MsMfeYv6p6J2lMrw0m0WJt9E9feOPGACZe7
+XSwjuUgAdgD2XJQv0XcwIhRUGAgwlFaO400TGTO/3wwvIAvMTvFk4wAAAXVFGSKF
+AAAEAwBHMEUCIHVG6KDUL6+jdoT+SLBwP+tonNyTLApszzkzPC8eDrPuAiEAncri
+thnvuCzRxVma+H/7p4WKpYPGRVEthL7ae63uNe8wDQYJKoZIhvcNAQELBQADggEB
+AItyWnNO0S5ckmTFS6kpRv4jx9cdWq7s07BcLuLoCLgaBC6fXeESSRhah+gcDxoK
+D+9pwS91zYStS3Zj7ZtfIcr818qD171a8sWKYpX07Ly/VmKf3MNJki7mAlx1ew5K
+LlOGhuXOeWdAx+nwJWqwRrtiLyxCVJbraPcXnJx6NHiD9G20mVYynrsBdEh4mKJA
+tKwFwFJLEkiI825/P8j14bt1/+2nyUh9SN7jFnz+gPc8cd227ES5qmtIbIiXhxTp
+OD6BPMTHsvB9bOh9QQxOffjhkubzMOwOF+Yv/HCo5VppS9V/jSKtxqSXUP/LHxUH
+CGXAr4nNllS7lTW6Jtk/OFk=
+-----END CERTIFICATE-----
+subject=businessCategory = Private Organization, serialNumber = 5564601812, jurisdictionC = SE, C = SE, ST = Gotlands lan, L = Visby, O = AB Svenska Spel, CN = spela.svenskaspel.se
+
+issuer=C = BE, O = GlobalSign nv-sa, CN = GlobalSign Extended Validation CA - SHA256 - G3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3339 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

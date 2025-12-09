@@ -1,0 +1,97 @@
+http://tunmoprationms.net/rexneoplater
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = tunmoprationms.net
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGDDCCBPSgAwIBAgIQVFuBQf+Rtbo0p16OaCYIUjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDcxNzAwMDAwMFoXDTIxMTAxNTIzNTk1
+OVowHTEbMBkGA1UEAxMSdHVubW9wcmF0aW9ubXMubmV0MIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAw1mOSvwS0ZXBCBHfkefEjHCd+s8QZcFW9sT5kK9o
+O++C69Akb0uOpJWQ9RmUbKcLObDlsE9gyAflRwXbOPs8SuB5ex5C+txLgtH0fT/u
+2yquLR/dNuPk1dEmCo6Wfo5UnnGOqgyhoBnlpNU+tazl52bzznBqZDW9kCnRyMPU
+5gmRrpZ+G2N/Slp7viaJbQayG0J8xEH4CxHdtniEkOGfScLoRHNYlOtgSeZCYXnO
+p8H9ffhAlh8guXgZn1n2IunSOSomlrCcLQn9TPxHKwP/lXSH3fvYNfT30Cs5zHIB
+6yshK5eT77E/TQpxcGOZD9FjyRWITgVeVxfwX5ezATw1eQIDAQABo4IC8TCCAu0w
+HwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFDF5Tudz
+3w8B5GV/e5104HlPepWxMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQB
+sjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgG
+BmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNv
+bS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcB
+AQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5l
+bEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRw
+Oi8vb2NzcC5jb21vZG9jYS5jb20wggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdwB9
+PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXqzysEFAAAEAwBIMEYC
+IQCwDHHYSa8XzCHZnvhaEqWSeEr1sC3airPV5SylJp48EQIhANbKPgPHwFA3hmDV
+dYu3nGYd2OJxSVqmqUaT985sEYecAHUARJRlLrDuzq/EQAfYqP4owNrmgr7YyzG1
+P9MzlrW2gagAAAF6s8rAyAAABAMARjBEAiAFLlz7j8GJ4qZSOgnHNOpHl7KeE53B
+6QnH80FXgU0HqAIgNzfm2qct5hAT0c5suCkwvW1Owv0969UDIzAMrwBFgCgwTgYD
+VR0RBEcwRYISdHVubW9wcmF0aW9ubXMubmV0ghdtYWlsLnR1bm1vcHJhdGlvbm1z
+Lm5ldIIWd3d3LnR1bm1vcHJhdGlvbm1zLm5ldDANBgkqhkiG9w0BAQsFAAOCAQEA
+U7Jf82GplL3K98GO7fLLCpKVRKHilHAdSQ0tp1dJzk5wBuOO5NFDgTF+0xB1+E3D
+o4qcXfNHQd8VWEy3FbfMd4b+zSor4jVkWhP/USc//2UV38mL5qVH5f8Q4WY8gfy1
+RVBdek9IljypwIkv5J/FLrs7oVTPAHvUfoBMMjDLUHHcZdeOEmpJ3xcdLcQWNQu/
+c38BNsMy3qeR6xEakKnNq/efILeLY0t9aMw4hf4ZADRT/Nn8pHWWAOQ9sRfBYDEU
+C5FlfpI7VM4oLgBFU0ulTKlOLeDGMyCNcw5CHQIY+E3ngwn3wvQ/h5FYexGs1+6f
+JBbdbTpKu69RY8rJHHZ8gA==
+-----END CERTIFICATE-----
+subject=CN = tunmoprationms.net
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5170 bytes and written 413 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: A2951C10FFE761B2A40DD1E7E44EDB4018892C0615D443CB160CB9E690839A71
+    Session-ID-ctx: 
+    Master-Key: 9022D90EE7A42F72226F1BEC8B1DE2C56826B0C8701E0E82E3F145C60829208697A88B40DEC943502B9C7C0F5EF832D6
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - b5 99 46 44 ba d5 9a e4-db 44 6e 6b ab 80 a6 b8   ..FD.....Dnk....
+    0010 - aa 5e 94 5a a3 98 f1 63-3c 95 5f dd d6 96 67 b6   .^.Z...c<._...g.
+    0020 - 2d cb 95 41 b4 e2 cb b4-fb 15 e5 e4 1d 33 ca 74   -..A.........3.t
+    0030 - 98 8b c9 ef 7b 74 c4 a7-37 62 e0 55 d2 43 e7 ed   ....{t..7b.U.C..
+    0040 - dc 13 6e c6 50 73 64 fe-52 62 14 59 b7 c8 8b 1d   ..n.Psd.Rb.Y....
+    0050 - 3f 72 d7 26 f0 46 9b d8-74 51 de 18 cf a0 d3 a3   ?r.&.F..tQ......
+    0060 - f0 8c e9 3d 5c 87 61 73-6e 5b 9b 30 6f 02 84 2a   ...=\.asn[.0o..*
+    0070 - 93 ba 08 06 cc 55 fd 97-b5 bd 70 d0 6b 46 14 11   .....U....p.kF..
+    0080 - 96 cb 07 59 32 b1 90 bb-5d 13 3e 7a 2b 93 35 e5   ...Y2...].>z+.5.
+    0090 - 58 5d 1a fa 4d 5f c7 01-91 1d da 23 bf 04 45 1f   X]..M_.....#..E.
+    00a0 - cc fa ed ea 98 05 e8 88-eb c0 02 aa ce a0 b3 ac   ................
+    00b0 - 99 12 a9 41 da 4b 24 d0-7f 6a a0 c2 31 a2 0b f1   ...A.K$..j..1...
+    00c0 - fa c1 42 07 1f aa 94 72-66 2c 2b 9e 6c 27 b7 9a   ..B....rf,+.l'..
+
+    Start Time: 1626568771
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

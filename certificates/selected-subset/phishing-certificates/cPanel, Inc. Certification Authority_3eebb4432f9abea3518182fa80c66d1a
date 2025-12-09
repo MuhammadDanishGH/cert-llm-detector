@@ -1,0 +1,77 @@
+http://page-account-recover.web.id/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = page-account-recover.web.id
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHVjCCBj6gAwIBAgIQPuu0Qy+avqNRgYL6gMZtGjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTEwMjAwMDAwMFoXDTIyMDEzMTIzNTk1
+OVowJjEkMCIGA1UEAxMbcGFnZS1hY2NvdW50LXJlY292ZXIud2ViLmlkMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8le0Y1TzPqMC7lz7KwZ+sn7/DFIZ
+ZZK6tpLal04z0YX2SN84Xdmik9NGfzYEVemvF4RqRJVW3CAra4eXxqBkDF+oO231
+Toa6PxRItOWZg5NUIG3YArBKKylCdLuIGSH4+bC4IJ6N//SHmtNLZFBLe4S50W4/
+EEf/R08sj/mPlevVhSIb0CTnET5GbXZctnBbw3sGk0xqhkUxQGb6UUcvFoSVBW2R
+jKjV9FkMPAhr1CG3CUYlW/m+VcXHpUtCQ83A+QS9VDT3I6I7MpQ5bD7mHz5Sf9Os
+JTjPwy09C6AOt0Mr24JbLlJB6ingA5V1FQMf6WGOiMtz9UZryXCRP68JowIDAQAB
+o4IEMjCCBC4wHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0O
+BBYEFFVdUhYwRtUikKvNLXluCeT70xaxMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMB
+Af8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBA
+MDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5j
+b20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNv
+bW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9
+BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUF
+BzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEDBgorBgEEAdZ5AgQCBIH0
+BIHxAO8AdQBGpVXrdfqRIDC1oolp9PN9ESxBdL79SbiFq/L8cP5tRwAAAXzgqxwQ
+AAAEAwBGMEQCICnEYYDu2KRyxavhnynVRhVvEtlm+yZ57wQAv74+2RBAAiAC4m5R
+08Q0D+Rk+LDYhzwRroxMZnk2wuRIJmSF7ibIWQB2AEHIyrHfIkZKEMahOglCh15O
+MYsbA+vrS8do8JBilgb2AAABfOCrHB4AAAQDAEcwRQIgaN1h353yKhOgoJ/2Fc5K
+B3R/+rI/H3E47z/zPjG9SgACIQD2Q2lvNFD9mzimt32ZYv4QMsOkVcgrPZ0JcbcD
+Ovj4bTCCAY4GA1UdEQSCAYUwggGBghtwYWdlLWFjY291bnQtcmVjb3Zlci53ZWIu
+aWSCImNwYW5lbC5wYWdlLWFjY291bnQtcmVjb3Zlci53ZWIuaWSCJ2NwY2FsZW5k
+YXJzLnBhZ2UtYWNjb3VudC1yZWNvdmVyLndlYi5pZIImY3Bjb250YWN0cy5wYWdl
+LWFjY291bnQtcmVjb3Zlci53ZWIuaWSCIG1haWwucGFnZS1hY2NvdW50LXJlY292
+ZXIud2ViLmlkgi1wYWdlLWFjY291bnQtcmVjb3Zlci5jb25maXJtcGFnZWlkZW50
+aXR5LmxpbmuCI3dlYmRpc2sucGFnZS1hY2NvdW50LXJlY292ZXIud2ViLmlkgiN3
+ZWJtYWlsLnBhZ2UtYWNjb3VudC1yZWNvdmVyLndlYi5pZIIxd3d3LnBhZ2UtYWNj
+b3VudC1yZWNvdmVyLmNvbmZpcm1wYWdlaWRlbnRpdHkubGlua4Ifd3d3LnBhZ2Ut
+YWNjb3VudC1yZWNvdmVyLndlYi5pZDANBgkqhkiG9w0BAQsFAAOCAQEAAC8ayXkU
+JVhox4+5pS1fgSg3dzPheTkSwSwJkaQ5le5r2u7Vr94lM50OLDWGQ70CIF5THNc9
+1Kl1dUCMpOs+NJN5oglcnKgMUMM8qdUdIQCkUEH0QDEU1dCspdeoFXOP6jQEBYNy
+IVlIufCB7B4tG8d1Iz+eGAfjSjNg3+rZZD9m3fsCYfZ++RL6KpXQsQfhZHTqst2u
+R2WyQ2JX/4FiRrukYcUe/tW/NsdCQfdsz6wzXgDFXtC60sc/IekWmMGHGnADSn25
++PvHnIIUzKjJ6OdAqjONB8PLNlPLXoAMBedobnTAuqlP9CAeh+zjRHZyH/kZ7D2N
+UTuK4NCvqRz54w==
+-----END CERTIFICATE-----
+subject=CN = page-account-recover.web.id
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5301 bytes and written 385 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_CHACHA20_POLY1305_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

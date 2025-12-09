@@ -1,0 +1,74 @@
+https://dbs-onlinesupport.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = dbs-onlinesupport.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGvjCCBaagAwIBAgIRAOT+NTGKt0v/HKwacOiSiGowDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTEwMTcwMDAwMDBaFw0yMjAxMTUyMzU5
+NTlaMCAxHjAcBgNVBAMTFWRicy1vbmxpbmVzdXBwb3J0LmNvbTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBALiR5ABJPcbf/4ZHwr28StOpxnOLzQ3rFSyC
+HEqasros+hIKc98vmxyXGJOdI760hhQ5RwZhttnmYve20LOEtnoLeMolgYmO2qje
+wL3ZZia02ABHTy4Z9ed1tF9j9isuk7wwbuZct2owjglQqLjyl7QNxc6KZYZvjVC0
+aquVl8OLvUQTNb38mLD3KSuxnDkqEDKjEljMHsbHZe6pw9MMX3LTirGrUIDtM7gZ
+6zTBg9b2RjxuRdClv/5bxO9oW09fzfUH9P0Fhq+dFGT7fWiWUIBFWFnLnADtCVrw
+cJ3zbLx3mTEDykF4dx+hk9YJzB5ooIgV4z7Wodu3NY58ywSM2P8CAwEAAaOCA58w
+ggObMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBTw
+InC6btRsVhh+98bjFf6sDV0JVDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIw
+ADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0Bgsr
+BgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQ
+UzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9j
+YS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYB
+BQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9j
+UGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYY
+aHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDx
+AHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF8jkI/9QAABAMA
+RzBFAiEAwT2lN3O2WSAHk7qnJdhlTRT7lMCUXekqeupKACsuQoYCIEE3CPbtmXcj
+U1EhkgVfF8zuLnwLI1qCw0rFhQ4ejDYvAHcAQcjKsd8iRkoQxqE6CUKHXk4xixsD
+6+tLx2jwkGKWBvYAAAF8jkJADwAABAMASDBGAiEAu0jwHZ5pEfIRtCZSHTwqvrtz
++FEiagdxv/s6vuK7G44CIQCgtYjWEkOBvS+yOHe/0b98C0bhTfhgdfZ/Q2aZWoOj
+MDCB+gYDVR0RBIHyMIHvghVkYnMtb25saW5lc3VwcG9ydC5jb22CHGNwYW5lbC5k
+YnMtb25saW5lc3VwcG9ydC5jb22CIWNwY2FsZW5kYXJzLmRicy1vbmxpbmVzdXBw
+b3J0LmNvbYIgY3Bjb250YWN0cy5kYnMtb25saW5lc3VwcG9ydC5jb22CGm1haWwu
+ZGJzLW9ubGluZXN1cHBvcnQuY29tgh13ZWJkaXNrLmRicy1vbmxpbmVzdXBwb3J0
+LmNvbYIdd2VibWFpbC5kYnMtb25saW5lc3VwcG9ydC5jb22CGXd3dy5kYnMtb25s
+aW5lc3VwcG9ydC5jb20wDQYJKoZIhvcNAQELBQADggEBAIm4AvUmMYbTWV7TTLMQ
+36GkT5//j4w724tzYLUc9oshBck91Zgt0o9fuoHScsaOv8tAYSxoLLumu6VbolJg
+Dsojgqb2ceWskJLRi6/p8CvGV+cOKw6c8i2sd3rYM/OMUBc66DbMkUoat5EEM6tF
++zzLH929e1imKewjWViAPSoBLlxGiegLN4v0AtKFzeds7OhBfI1LV2hftr6PexNd
+ChYQiBxnQHvmxV6n3F4H1Dww/WAa74IlZP8DwdZSbpeM9EXPVOBL+kJ+VONNNxEC
+TBXuFbnQ9VqV54c5yApU2ZBUrmf5BVTjneCztGqqHL2PCeFRp30FPpzM46ghiIMd
+JMo=
+-----END CERTIFICATE-----
+subject=CN = dbs-onlinesupport.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5235 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

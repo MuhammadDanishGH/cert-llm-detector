@@ -1,0 +1,67 @@
+https://tiny-moon-2789.microsoftoffice365login.workers.dev/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.microsoftoffice365login.workers.dev
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFdTCCBF2gAwIBAgISA38HiUE4iRX5Oj9rkhTKrhC2MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEwMjYwNTU4MzRaFw0yMjAxMjQwNTU4MzNaMDAxLjAsBgNVBAMM
+JSoubWljcm9zb2Z0b2ZmaWNlMzY1bG9naW4ud29ya2Vycy5kZXYwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDEJbJbvkyQLWCdwi7Y6hdy9fyQ70BlekJr
+P3Gm4IvOWeZf0XCV2V3RwqO+WxQ4ANN3MWqCOnQ85uWxsWCZpqV28ONI2+m2YzUR
+TLopa7vlphcZvuTWdUoxmtuDBksnQW15S+TyLOlnjW7xCXTowbmyAywMIrRKxByO
+HFk1uVqsn8PCzmNhWIsB412pnEK3xaYQ9unLskIshBvA3jAJWURdlYO40kcSc3I2
+tXXXF7ONjfbbgQZQpNZo8SGNSssp01KoqDW9u9fYuLX/DhXCC6pmoUG23K8+/er0
+ubr3ANzkLJt6o1qa/MfhHrHJIkjyEWSMTL+56S+yFllWATBFtbkxAgMBAAGjggKF
+MIICgTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFJtnHy/Z3ICYFBMD+2NkKyc5FZOy
+MB8GA1UdIwQYMBaAFBQusxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkw
+RzAhBggrBgEFBQcwAYYVaHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAC
+hhZodHRwOi8vcjMuaS5sZW5jci5vcmcvMFUGA1UdEQROMEyCJSoubWljcm9zb2Z0
+b2ZmaWNlMzY1bG9naW4ud29ya2Vycy5kZXaCI21pY3Jvc29mdG9mZmljZTM2NWxv
+Z2luLndvcmtlcnMuZGV2MEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+BAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYA36Veq2iCTx9sre64X04+WurNohKkal6O
+OxLAIERcKnMAAAF8u2S+eQAABAMARzBFAiAVa65JTybnkut6CmRH7wiwqJ70v61n
+PwQ3z7GTNpE6nAIhAO8q+8oR0KE2G/U0wQi/ZrUnjzRPYy9JWDH3c3fSL943AHYA
+RqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF8u2S+tQAABAMARzBF
+AiEAuhbU4eOzTD3LPN2POjshZ/dzyec1gE3++2VW2cw04HkCICay7j+B+KJZ3h47
+3rOtb2dSUw/Q3cCs5FRsillXmKvTMA0GCSqGSIb3DQEBCwUAA4IBAQB1Ed4IWrDd
+Hg+McLUHsm9Ut7UpXdpVbIgF6WQc0kktwCAo/VfEotQHDTKPzfCbCqDqAe3GhmLp
+Q2OXcz4LGQzHe2eIozoqdT+N97d5SRtYANr2ONpsN4URKPMHKT1AHjnaXm4OZz47
+QtRrb8VYYa3442vlOJ5VgcHmv+JAJeiEW6WMRzGlTQ++TM49VunhMkvLtrgxMpYs
+MIL7cigY0DtH2Jy2ypjvGlgro73UctbjwoEg3vpkpuRK068RkSLTT1+MZ4tPw3AL
+2dcXb/C3+bvYMcDwsWCczJZcjYAlQsxd6LDPRxDsyfS49TS6pRJvkSBohLexOq2K
+44WYKp3d8NNA
+-----END CERTIFICATE-----
+subject=CN = *.microsoftoffice365login.workers.dev
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4591 bytes and written 424 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

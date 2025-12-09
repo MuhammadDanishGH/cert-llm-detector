@@ -1,0 +1,82 @@
+https://sparkassen-home-system.com/8EBVBD40CG
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = sparkassen-home-system.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+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
+D3e8NoMI51zuxIb+qvc=
+-----END CERTIFICATE-----
+subject=CN = sparkassen-home-system.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5028 bytes and written 413 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 4096 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 9A1FADDE162A32370E6E53E14007C3F26736EE293B6807B95FDD69833A69B199
+    Session-ID-ctx: 
+    Master-Key: 5779CBBDA351C6E63BA9F4AC974FE841B6AFD09A5F09394136948D06974BE025EEA15207B22A19AFC5EADFAAD6C7CE0A
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1636695504
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

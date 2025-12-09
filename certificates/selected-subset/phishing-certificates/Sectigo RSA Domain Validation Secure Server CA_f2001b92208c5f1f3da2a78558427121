@@ -1,0 +1,67 @@
+https://webloginfacebook.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = webloginfacebook.com
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+ 1 s:C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+   i:C = US, ST = New Jersey, L = Jersey City, O = The USERTRUST Network, CN = USERTrust RSA Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF0jCCBLqgAwIBAgIRAPIAG5IgjF8fPaKnhVhCcSEwDQYJKoZIhvcNAQELBQAw
+gY8xCzAJBgNVBAYTAkdCMRswGQYDVQQIExJHcmVhdGVyIE1hbmNoZXN0ZXIxEDAO
+BgNVBAcTB1NhbGZvcmQxGDAWBgNVBAoTD1NlY3RpZ28gTGltaXRlZDE3MDUGA1UE
+AxMuU2VjdGlnbyBSU0EgRG9tYWluIFZhbGlkYXRpb24gU2VjdXJlIFNlcnZlciBD
+QTAeFw0yMTEwMjYwMDAwMDBaFw0yMjAxMjQyMzU5NTlaMB8xHTAbBgNVBAMTFHdl
+YmxvZ2luZmFjZWJvb2suY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEA2B2igGvP6Iumh3Wbrk6OQCla3nFC451nb+R0A5vXQJhD/U6ssPlKUqF5FocU
+mrngV8J6N8jqZkkXTWumwK6SwLkY4MijdlQVHsLxXAaHZjlEhN+UHrmCxFtv3YGv
+Rdk+y0II28O0Rh1W6YbZZNU75gIEgeyvDnaZVDUDljiVzdFAq2eFjEGpUSivzKIT
+xQ+kKlqKH5/NRGc89jafDHK6bxXUYmghs4NAkx11Y6oyqiPcIEbDZyw3uGs6tada
+2FLxYjAeT6RrI0Qlu3nZ0ZziEGoz1Nx5STYVUQ8kGpekJCwV/PXh2ruC+Lk3iuIM
+OyuEZ0kvrtHUJ5vP08ZyqzMuFwIDAQABo4ICljCCApIwHwYDVR0jBBgwFoAUjYxe
+xFStiuF36Zv5mwXhuAGNYeEwHQYDVR0OBBYEFCt97LA0BQBD74XZ0IDYu8ANm4hF
+MA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgIHMCUwIwYIKwYB
+BQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATCBhAYIKwYB
+BQUHAQEEeDB2ME8GCCsGAQUFBzAChkNodHRwOi8vY3J0LnNlY3RpZ28uY29tL1Nl
+Y3RpZ29SU0FEb21haW5WYWxpZGF0aW9uU2VjdXJlU2VydmVyQ0EuY3J0MCMGCCsG
+AQUFBzABhhdodHRwOi8vb2NzcC5zZWN0aWdvLmNvbTCCAQQGCisGAQQB1nkCBAIE
+gfUEgfIA8AB3AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfLr9
+xI0AAAQDAEgwRgIhAIIV5fo0vJth9xmivV2LqxslnwRNXKXzuyfhTYfk9StgAiEA
+vvK9cdzW+4++aJFPyaojAkLNWxMiQ/sMtXPxfkoBYUUAdQBByMqx3yJGShDGoToJ
+QodeTjGLGwPr60vHaPCQYpYG9gAAAXy6/cRKAAAEAwBGMEQCIEhlD5ydtDYSAYFw
+h8+DXI7WjhiR3q0AMMv0nKWMgq0MAiBq/DNDY/XSpwOKwDoKQITrhtJccMC9zslJ
+ZR/Xz/Kg6DA5BgNVHREEMjAwghR3ZWJsb2dpbmZhY2Vib29rLmNvbYIYd3d3Lndl
+YmxvZ2luZmFjZWJvb2suY29tMA0GCSqGSIb3DQEBCwUAA4IBAQCZci36zwWUzTc7
+PacSDeYf6PaXklSTNC/IvW++xkEjaaAdSxFuTkjftrLFzms05F3/UrFnsAC0UrMl
+ocHyWJRx4kY5TA/+GTwmqMQm0r1h/+tQcDe4vh6BC/MHSKeUAe2utInPwa5njDeq
+q9hE9KWTmpKvYyWE/qYWjY9tQDcXcbUsXyLgeIsPTfVBtdwIXTYylQUPXtX6aBa+
+F7p3t+R+9wiWwXZiVe88RgYE8k9TQ0lSUjwammdV/bbEkVYinxoZ592sLoDfkOIj
+gphzXoL7fYiiSdejr/PAbmPnKijITEm2fZE4hu4X0hqxiXFVbH9kGqzTba25lwH2
+uDl+tN+h
+-----END CERTIFICATE-----
+subject=CN = webloginfacebook.com
+
+issuer=C = GB, ST = Greater Manchester, L = Salford, O = Sectigo Limited, CN = Sectigo RSA Domain Validation Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3618 bytes and written 394 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,94 @@
+http://www.margaritajosi.org/signin/customer_center/customer-IDPP00C689/myaccount/signin/?country.x=NL&amp;locale.x=en_NL
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = margaritajosi.org
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF2zCCBMOgAwIBAgISA1nXk6OHFQ+nGLtIN6w8aDkfMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTAzMTcwNTAzMTlaFw0x
+OTA2MTUwNTAzMTlaMBwxGjAYBgNVBAMTEW1hcmdhcml0YWpvc2kub3JnMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzcTi5cCpGaJLsEih3kl1x76bcb2D
+1MdFdoSJHwB1soT75sJpsYMvWLLwcO5c0VYD7Q3l7yQNaQyFLxVdu8WQp+2fvyn1
+dpxLF3smN9nkk07al3leBOr+ZpFIKbCV7WaxG9q76lHnmd/w2Jdv+e65Pr89L3Cm
+CAIrbPWCLdQD/c61XbZzA+zp8ffK1lXqe3WjmH1ix92PUEZv4qataKfQs5uXHLSU
+KJUJWaSJ+lq3oYdrHuYraLiFdwREBKzwiSONRL0VNhViQpbm7b7z7gCOlb+lZWIj
+uk1wQ+IuhPFvLXOotXq4LEN8xDdm/wUPjUPzulO/t5u11V7TWFNa/D6ewwIDAQAB
+o4IC5zCCAuMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQRNErtwKW75G+Ic6CUIKEe
+BP0dljAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMIGdBgNVHREEgZUwgZKCGGNwYW5lbC5tYXJnYXJpdGFqb3NpLm9yZ4IW
+bWFpbC5tYXJnYXJpdGFqb3NpLm9yZ4IRbWFyZ2FyaXRham9zaS5vcmeCGXdlYmRp
+c2subWFyZ2FyaXRham9zaS5vcmeCGXdlYm1haWwubWFyZ2FyaXRham9zaS5vcmeC
+FXd3dy5tYXJnYXJpdGFqb3NpLm9yZzBMBgNVHSAERTBDMAgGBmeBDAECATA3Bgsr
+BgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0
+Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB2AOJpS64m6OlACeiGG7Y7g9Q+
+5/50iPukjyiTAZ3d8dv+AAABaYo/UuoAAAQDAEcwRQIhANa6EHj8G1D7ohs1dvxz
+V8741a9U6xRZ46vC+Gjb766KAiA3wKtV2Hu94o0ur7vQ6x2wN5koplmsWXluOX31
+EriNSwB1AGPy283oO8wszwtyhCdXazOkjWF3j711pjixx2hUS9iNAAABaYo/Uz4A
+AAQDAEYwRAIgWP1o/OtL76YsNPRGny76jp6yJzcsEmV7A/cC5rKa+7ECIHHUyD8N
+vCe8QmMwFFvIY266cwDp6nt71GaMgzSbRVD5MA0GCSqGSIb3DQEBCwUAA4IBAQCV
+mzJonvExrR/3BbD8b0NOoOzBxeaXlWvN9SpeAklAsvJyNpvXdjH//0WjstKFqfbJ
+JkNE4oYHB4U+zHE9wZsyhlVn75/8w6lr9LR2WQCY5xZGRNHXRjXYgDHbvsCtD0bD
+rOu+h5qgKZhnUVSZxoNkj4kMB7bm2ENkkA/vC5X4KohRD7nk8FjI842VOKNCvDNr
+4wYrjiexf/Q8V4tQzmtFAePbhC4rqTxdnwsywJRQVsrtXGr/BDquvgjba5lcx3rv
+MTyN8Nd3KAk1EBKDuH267k7G7sCyCEM5jl/wqJESvT8APKf/lkC9UJl/Wr88uXqC
+wOsC3QRF609HvaJHGp1V
+-----END CERTIFICATE-----
+subject=CN = margaritajosi.org
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3386 bytes and written 459 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: F5AA225C172A0699E26C4BFF8190B0BD97D47466CBD9A427825AEDDA5B52471B
+    Session-ID-ctx: 
+    Master-Key: 41C049DE5749694FEADF1D894DC5BFB3E6F98CD3FAB91C48A45F50FF48D72DED15DD996153226CCCE8612B9DBEBAF4D8
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 2b 13 75 9c 77 2d e5 ca-7b 9c 0b 10 71 0c 8a 80   +.u.w-..{...q...
+    0010 - 63 34 b8 b9 f9 dd 94 7b-51 bb ef 7d be 6c 61 53   c4.....{Q..}.laS
+    0020 - 1d 76 8a 29 68 c5 27 08-25 ba c4 52 f1 5b 06 aa   .v.)h.'.%..R.[..
+    0030 - 61 d7 9b 56 3a d3 bf 18-4e 3c 4b 1c 55 db ff f1   a..V:...N<K.U...
+    0040 - b0 b2 25 e8 b7 60 6d 40-3d 09 0e 60 ff a5 ec 68   ..%..`m@=..`...h
+    0050 - 2d ba fd 85 e0 01 9c 9b-e8 db 44 49 97 b4 49 d2   -.........DI..I.
+    0060 - 53 e5 ec 3a ae ba 40 01-2b e7 71 3f 4e 24 b1 fc   S..:..@.+.q?N$..
+    0070 - be 3c 33 0d 46 be 5b 55-e4 a3 9c c3 83 fa e4 82   .<3.F.[U........
+    0080 - fd 03 a4 84 47 d0 ff ed-81 f5 3a 37 de 17 80 53   ....G.....:7...S
+    0090 - 9e 09 b8 f8 00 fb 29 af-fa 0a d1 7a c8 8d 01 43   ......)....z...C
+    00a0 - 5b 7d 25 96 73 42 d9 9f-8e a4 42 ff 40 c7 86 41   [}%.sB....B.@..A
+    00b0 - 0e 95 ec cb d6 74 d8 1a-b7 69 4c 94 89 ce 90 55   .....t...iL....U
+    00c0 - 08 c1 d3 83 c4 e6 42 8e-c8 ef 4c 21 f2 72 be c6   ......B...L!.r..
+
+    Start Time: 1558530024
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

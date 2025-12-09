@@ -1,0 +1,65 @@
+http://dataproxies.cf/v3/member.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = dataproxies.cf
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFNDCCBBygAwIBAgISBD2JJ/ZIj0udt0qOe6zshjpcMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAxMTYyMDIwNTFaFw0yMjA0MTYyMDIwNTBaMBkxFzAVBgNVBAMT
+DmRhdGFwcm94aWVzLmNmMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+w65sSho0ryov1xt+QtPi31jJHIOGPSq8Rtjl3msJe8fkfxFuBNghgoXDIzVGJblt
+/iEsEtBXCKqrqv0JNeYgPi1E3lzTetsNvFQMNkbzU5l8WrejX1O4IZQf3V3hwRIV
+4IdcSYyF5iQLdaLvjS7hHfI+9JmoHHyzeLrT08LtYnJx1vxwta7kde25+576qOuv
+zh+CGq62Sb4NPPeby/Dt+XquQQmtD5EWI+gvo57I0tJ0ySIxCO67OGLqOUKeG63R
+VSErO6tR+GOhzb8tqt1r5Tm9Mb4gSenqAN5kihKsCws698maPNSzPKBiFCMmig6r
+5Toxn2lVHJBIemabyButDQIDAQABo4ICWzCCAlcwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBT8RP4gs2KLvfXl3Qk8B+Ap2eTZbjAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzArBgNVHREEJDAighAqLmRhdGFwcm94aWVzLmNmgg5kYXRhcHJveGllcy5jZjBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB3AN+lXqtogk8fbK3uuF9OPlrqzaISpGpejjsSwCBEXCpzAAABfmTDq+wA
+AAQDAEgwRgIhANnATx+vK2JU6ufvTw+xxs26Cw65l6JsGqbPhzjn3EJqAiEAgnbK
+q6MTFDoTiYngFcY1uiRWokVptATTVwWvVQ8cqpkAdQApeb7wnjk5IfBWc59jpXfl
+vld9nGAK+PlNXSZcJV3HhAAAAX5kw6vbAAAEAwBGMEQCID5u3/7c0rTR+9IzeBJV
+1KKSBzZM3dxDGTscZH11B3B7AiAOevsgEMZZnmBicn452zgLg4r+fVINvP0DgW0U
++Fz3bjANBgkqhkiG9w0BAQsFAAOCAQEAWFBdE4OxeGIZvk3k4FMkJ32gMePuFBfi
+qUCHZX3lrra9zXgbL8xiMwJDjHEwPHMkXxqBMOBHyXLiFR6sgycXSqXvzh/5Sll+
+szBUaO/G2stbQvG9XA0eOgbKreyovEDoT3Q3q/e95i3TbT+gSIkPq9W5lQryvlqE
+tChHOSk7krw3PWWzm/TbSCaeKcJEaEYV9E+olIm3e0QoaMZdN92c/7iSQI26dnmf
+QtbX+KKc+loANlf3jciqEqrZIt15HkaQTsHjyPBd9MAslmx9WpeK25mMnSGfUBzB
+463rMBTIskEFc9eTMi5L3Dm+k4/u4NjhVqSBitQ0unqPBysPShtnGw==
+-----END CERTIFICATE-----
+subject=CN = dataproxies.cf
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4592 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

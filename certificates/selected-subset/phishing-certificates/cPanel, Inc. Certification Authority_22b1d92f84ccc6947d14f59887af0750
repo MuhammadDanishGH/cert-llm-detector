@@ -1,0 +1,73 @@
+https://cummingbrewhaus.com/hlessinger/office/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cummingbrewhaus.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGqzCCBZOgAwIBAgIQIrHZL4TMxpR9FPWYh68HUDANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTAxOTAwMDAwMFoXDTIyMDExNzIzNTk1
+OVowHjEcMBoGA1UEAxMTY3VtbWluZ2JyZXdoYXVzLmNvbTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBANxjB/oiv7+8r6YGOfTrCkGykO9Xw6Iz7l8kBi7Y
+NhCo9rXcxxjMP2kuQBI/6X5cJW8kqHLXyDFeuZseSBBdGb4v4+WSGzYfSua0CFtB
+be9VjlVbXdNK4Z+trB9YFc2p+0iSOzoqoYhW2Q4Aoqq+vuHknrnhRPpvOFSEaQso
+WXcRtGC7h9z//K0g+ChvUwiUM9v17Agyqd6d8f5a4z3tfVayuMZcxFC7o+1XtnHf
+8yt1pOYMrML9yzDldVBYv7NJi4+OUKtMZFkidGPpP3qmzAHSbEDGmEbIPEOSXDei
+X1kDhUUZ76SIAALvvJFXloas0OvsD0YPs15XxonxJtSKuUUCAwEAAaOCA48wggOL
+MB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBQiQnGv
+4C1MMmMUAeaI+JdW9zIfTzAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAd
+BgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEE
+AbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAI
+BgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5j
+b20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUH
+AQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFu
+ZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0
+cDovL29jc3AuY29tb2RvY2EuY29tMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYA
+RqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF8l9KWHgAABAMARzBF
+AiAe2RGHPaNiDgBQN5gU4YfqbMciUpdJypcgbP/a9inJUgIhANaV1Fwthfzk3uVH
+9HpBqSvPiB3dRv2Kiv6+bik8aJ41AHcAQcjKsd8iRkoQxqE6CUKHXk4xixsD6+tL
+x2jwkGKWBvYAAAF8l9KV5QAABAMASDBGAiEAuyTvDbH65flW5ED3Yh+ZFF4i2a6S
+/r7nOyNb+y63BBYCIQD5mg1vEYlr2EoUy1Nt7onB5+f0xmigFXnKh7BXuOYB9jCB
+6gYDVR0RBIHiMIHfghNjdW1taW5nYnJld2hhdXMuY29tghpjcGFuZWwuY3VtbWlu
+Z2JyZXdoYXVzLmNvbYIfY3BjYWxlbmRhcnMuY3VtbWluZ2JyZXdoYXVzLmNvbYIe
+Y3Bjb250YWN0cy5jdW1taW5nYnJld2hhdXMuY29tghhtYWlsLmN1bW1pbmdicmV3
+aGF1cy5jb22CG3dlYmRpc2suY3VtbWluZ2JyZXdoYXVzLmNvbYIbd2VibWFpbC5j
+dW1taW5nYnJld2hhdXMuY29tghd3d3cuY3VtbWluZ2JyZXdoYXVzLmNvbTANBgkq
+hkiG9w0BAQsFAAOCAQEAhTiiq3cGOS1CD05rIZjRGmdRmc+8zslFrXW0TdmM42R7
+ZExZDeg2/z1N72jV2r76IwbDuXGgk0hWs0UUtjma2mV9f6Ofn39x9UcSgdY02WXY
+BTPJ9oBbQDYeZxmdL20J1qp38iJy/Osb9GgzwHic45vRAGrDJz9G26NHTlc2NgwV
+KoMksrRSDikyR0kcD/hpWbuAifvjpnmf8Zh9Qh/oAIiv1XKIA0K/vnlVtynNqMvj
+sY2aYfWumEOM+xgwqZp5VT+tmHftsAVaJGsdiOnmNdXafj5hPF0vUfrHSm0wR5qV
+yx7g6rLhojhUIaoVh3TJPbxrJmLtvW88qKxtu069QQ==
+-----END CERTIFICATE-----
+subject=CN = cummingbrewhaus.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5216 bytes and written 393 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,66 @@
+https://www.sharptoolsindia.com/ooooooooonnn/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.sharptoolsindia.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFRDCCBCygAwIBAgISA8IY6uckPhcVnk0X+fpB5HrOMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA4MTgwNTU4MzVaFw0yMTExMTYwNTU4MzNaMCAxHjAcBgNVBAMM
+FSouc2hhcnB0b29sc2luZGlhLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBALqotueJUH06G+t9QUgL9o49OpC8e0i3GowsQIzLLSe9yzfVl3njqVa5
+/331zlpfi2/ID4F+A6jCm8NaQuW8199BKF9G3HwuSMq5ps8gd4frZCiCYLe9p8oE
+V41waOMz/i1nM9YLcJUyYVeRwNveFrd2iVrlUVw4lmz2TsaXNpIFL2iRU6zNry7G
+dzvsHiZaHgbEpitZvaEeaVTOgi3ed/3NeqooeEcHvFDXPbzs1fHAFreKscd+W0xk
++1n5/w7PjKTiRWBq4TGSH30pONESZyJqMNRkUIuBLtl9LlZOssHmkpWuzAJVk8Wg
+2yLxgTzBl61TakgBIULLRQk9FL6Pmp8CAwEAAaOCAmQwggJgMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQUMZgk2udlPaePC0ArhEfzKbEK3YAwHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wNQYDVR0RBC4wLIIVKi5zaGFycHRvb2xzaW5kaWEuY29tghNzaGFy
+cHRvb2xzaW5kaWEuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8T
+AQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIB
+AwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUA9lyUL9F3MCIUVBgIMJRWjuNNExkzv98M
+LyALzE7xZOMAAAF7WA34SwAABAMARjBEAiBYcdPbjk77J8mOjo2GXbrNF38AIYlY
+dU+JPaicYo9VVgIgIl9ZSZct7hkp8xVXwUWKN3tGuex93KM8+R/LaLsqXmAAdgBv
+U3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAXtYDfiaAAAEAwBHMEUC
+IGlT8EYRAmV3hQ7r1LjASndHGztC8W0QMmPYvm0TsfKeAiEAiTJs/n0Lm1zvQBg6
+LDQUBF95zBLM9XthlS9szq96WKcwDQYJKoZIhvcNAQELBQADggEBAKG7pMU5fd3v
+N8FLgfqSoeRu9ZdhY6Z6kduPFxbsiXRydtH5C67oV8EDck7vwJl5hIsJCVrxG2Bf
+7linoxNz8es90Zo7NtmqKGL7WFLytaW8XyHTxsN6XPGrVeW5wBeUYzzXk9/775Me
+xkCz67sd1z53Jh8XSMsls3kpkTqGUvRI1hC+nNwRx6y+PUgKp5+W4kpTFOtsSaAJ
+Jj23BQjxUnWYimnJqu8Rgkx637zRuCMlLdHtV6FB2mlYjVW8TYVIISdKrvWcZClI
+xbjxodPhMC7Vc563rc6qecT/e7gnLUieHFuPUfZx5TpJmcEjI/sx+kb8mTwejvv9
+hSZkn5UJqyE=
+-----END CERTIFICATE-----
+subject=CN = *.sharptoolsindia.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4608 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

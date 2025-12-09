@@ -1,0 +1,68 @@
+http://www.rbcities.com/Michael/Thistle/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = cpanel.rbcities.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFwjCCBKqgAwIBAgISBMfly2+fUe+57hKZZOA5CWArMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMDYxMjMzMDJaFw0yMjA1MDcxMjMzMDFaMB4xHDAaBgNVBAMT
+E2NwYW5lbC5yYmNpdGllcy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQC6C9VBbfEV6ckswfnYqd4cmCDQI+xttuqrs4xqNzfD/qbuloSY6u8XN5sk
+TzBsvZY7Y0eBhh649SeIJru0HSUWu8J31kGKwn16FuCqcpmMyD0PE5hF565GltXn
+O7PxN+bw1u5tYj2Zo9jX5x9m7TVM/QHMFo6B+nMDkTjtSA5MIJDd8OI7BIYzqAu8
+phn4lLOFCFbBplTP0TJ1spLGanKS9zUD0DbKREvfi7AGe1c7+LPnDCz2ef1dxMPK
+rdGm759wZllU7l6cyJRAHw1TYH8golshQveXiyJydtOcSWqronJFn51T/0aHaoHz
+LCI/ukuDmuI5AVJMzBF16SXKNK05AgMBAAGjggLkMIIC4DAOBgNVHQ8BAf8EBAMC
+BaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAw
+HQYDVR0OBBYEFC+WJXCNKs2sp4YQM5mekKY7ueN9MB8GA1UdIwQYMBaAFBQusxe3
+WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0
+cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5j
+ci5vcmcvMIGyBgNVHREEgaowgaeCE2NwYW5lbC5yYmNpdGllcy5jb22CGGNwY2Fs
+ZW5kYXJzLnJiY2l0aWVzLmNvbYIXY3Bjb250YWN0cy5yYmNpdGllcy5jb22CEW1h
+aWwucmJjaXRpZXMuY29tggxyYmNpdGllcy5jb22CFHdlYmRpc2sucmJjaXRpZXMu
+Y29tghR3ZWJtYWlsLnJiY2l0aWVzLmNvbYIQd3d3LnJiY2l0aWVzLmNvbTBMBgNV
+HSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpo
+dHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB1nkCBAIEgfYEgfMA
+8QB3AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfs886pgAAAQD
+AEgwRgIhAIBV28G3Xh1F/vqsOMqCAC0TQuttayzc/FNg4zxWGTeYAiEA9Qa1Ob6R
+urrBb7RrSnPiBhZW40un+P17AybhOqAyJmoAdgBvU3asMfAxGdiZAKRRFf93FRwR
+2QLBACkGjbIImjfZEwAAAX7PPOvIAAAEAwBHMEUCICn712SRaaj+OK0qJ9MBiPJH
+pfNFQcOj/tcg9GpyaC+/AiEAzNKp2sQs0jVGJ8HDtY59MUSNXxuuzxr/PV9Wz8Wq
+lxowDQYJKoZIhvcNAQELBQADggEBAFwQ6IeJy2VF4Z7vpWCTLXINUwH61Kv+C0Ve
+B7xScR1kQKLNZYV0ANfhrgk2XfOFSb89OO5009N8KYnISogMVIrv5Mrq4zXNZlZh
+p4kEPi4rjvY1lq1u7sXTDRpAn+S7KjMri47CtfqO56gtZhduc7cexSvc1C2Ggq6P
+ZBdN0MIyrYoI3H8cAzEJVWzLT7nY7//9KUu+mRND4rqwFpcuj6z36Cj5hSBMVbkL
+kgJ3PL+Pq7tmBxwyNb6jysgSaI8IkfLIPSVkHuI0ymcRSQkzIX1KQYa9yS6Q6p9q
+Nrsdl7xJ8MrpH7hy9m2smSts2OSc9MW0ySl+Ag+3eoHuyr/gmeA=
+-----END CERTIFICATE-----
+subject=CN = cpanel.rbcities.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4734 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

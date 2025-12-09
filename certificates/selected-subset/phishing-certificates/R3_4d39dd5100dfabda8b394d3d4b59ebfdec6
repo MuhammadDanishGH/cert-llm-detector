@@ -1,0 +1,70 @@
+http://kakalotkpklkpopopo.xyz/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = kakalotkpklkpopopo.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGGjCCBQKgAwIBAgISBNOd1RAN+r2os5TT1LWev97GMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMTgxNTUxMTdaFw0yMjAyMTYxNTUxMTZaMCExHzAdBgNVBAMT
+Fmtha2Fsb3RrcGtsa3BvcG9wby54eXowggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDJfP6d0P01K67PkDKNFfKG8J3QV9rGvBW+kUM72EwD4p3eERIK9gYt
+oc4fZbXYKTVnrNDBMutOzXGISa8N9EQ/G0yKjLJmkxI7v/jwU2TYlSnQYuQQ0w7T
+GeCPXUuRdq3C/k+wMJPlaLCiBvES9OmVVQ71wzvq/mHPjFUEPoQ1u+EYR1IjSbf2
+f8E3qCc7DNdIPFMEBYxgtViLlL8OurI6PjqjH3Tn1HprvP5tEkwxzUuA1ivKGu5D
+kNNPQ5c1K40iMDZrZijVqgH8RweMPnPBHua4nFN8dj/MkR9MtV9gy+zwgcYzuOoa
+TlC6NeOFkVu+zDAZy+/LH7Ju9e/XGEvzAgMBAAGjggM5MIIDNTAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFMKFE7UR+BTBuIblGDiPbJxSgKTUMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMIIBBwYDVR0RBIH/MIH8giNhdXRvZGlzY292ZXIua2FrYWxvdGtw
+a2xrcG9wb3BvLnh5eoIdY3BhbmVsLmtha2Fsb3RrcGtsa3BvcG9wby54eXqCImNw
+Y2FsZW5kYXJzLmtha2Fsb3RrcGtsa3BvcG9wby54eXqCIWNwY29udGFjdHMua2Fr
+YWxvdGtwa2xrcG9wb3BvLnh5eoIWa2FrYWxvdGtwa2xrcG9wb3BvLnh5eoIbbWFp
+bC5rYWthbG90a3BrbGtwb3BvcG8ueHl6gh53ZWJtYWlsLmtha2Fsb3RrcGtsa3Bv
+cG9wby54eXqCGnd3dy5rYWthbG90a3BrbGtwb3BvcG8ueHl6MEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAKXm+
+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF9M/WrQQAABAMARzBFAiBj
+Y7I54FFMARqoNFEM3Y7der7PDWH5MpneTHNxMCDJagIhAJslQOuptadSLZ/RXXdO
+uyBDH/1bbcf1yRjB+AjpPTNOAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2y
+CJo32RMAAAF9M/Ws5AAABAMARzBFAiEAjUhgOUuRS/ggymU4ONPFd0TVzj0XMy6k
+xTLYre+VdWsCIANMdgFxsjIc6KPcLyNWvCeqZ773WsD0KaOGLJqa9hhBMA0GCSqG
+SIb3DQEBCwUAA4IBAQAhiPkcmYPFKc5eiBt1uEU1p5CvM6gjBIAZnjuzSKADm2Jp
+iXXHCINsfscug+osHxpIVtCcI/QO2ur0Y8QtqwKapmysJ9WtyXmuaa6Pao93ycHk
+24PkcsDu1MN7gZectooZR0fGfb5QddHH/JaAepZ0FKQ+eCpTs2V2XLgYiYJWDnS9
+fwpRx93LCwGhsLxp10yifIv89xODTFPzvV9c2DBEBL8i34d75sLGn47SDEmLK1Fv
+OB9vTmk2lhV5ON7zJFJvdkF9lvQEir4/VfH8yZsomye30KqR0jcsyuzibYtm9QB2
+tyb67V+P60Upf+Y/eCJhfQrX+r7FDhPZ6JfWnPny
+-----END CERTIFICATE-----
+subject=CN = kakalotkpklkpopopo.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4752 bytes and written 396 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

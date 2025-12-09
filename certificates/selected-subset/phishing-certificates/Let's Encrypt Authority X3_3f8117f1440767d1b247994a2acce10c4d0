@@ -1,0 +1,95 @@
+https://quillaweb.com.co/WeTransfer/WeTransfer/WeTransfer/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = quillaweb.com.co
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGJDCCBQygAwIBAgISA/gRfxRAdn0bJHmUoqzOEMTQMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMTAwOTQ1NDlaFw0y
+MDAxMDgwOTQ1NDlaMBsxGTAXBgNVBAMTEHF1aWxsYXdlYi5jb20uY28wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDccg9gKKIUMWD+n1Kh67zbm2KQDWLj
+6ZnQrNI2sPuu4MO26/eKM+uHOwvYRRKmkHlS65+BPDECkpa4i5OH+wysU0iYpgav
+F418lxedZYFCbmjchs2xMDW4alQH93VmJBkL5whDx2Yz9QbwpBRuFL1leaN7Bh2d
+R0xwlgG2J7v/Y3BpXU3Zm0N2Give0ppF7TJoKdatryvjfJdYNKPAjesSTM2EmIRj
+/SwjmRBjCrq4wpe7N1uiq9irBT+ECr9kFWzg8FB5It6nQi1ZQ3k4MNAWUrnUhDeG
+vLeca5BR7WTvJUo2b0TgV6si3M49uZtCkrHdQFaIQfsXKMJhKZCdkfIjAgMBAAGj
+ggMxMIIDLTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFCcaP7n7G+o2CGSRiXRBrOB+
+fbISMB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEB
+BGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0
+Lm9yZy8wgeYGA1UdEQSB3jCB24IdYXV0b2Rpc2NvdmVyLnF1aWxsYXdlYi5jb20u
+Y2+CF2NwYW5lbC5xdWlsbGF3ZWIuY29tLmNvghRnY28ucXVpbGxhd2ViLmNvbS5j
+b4IVbWFpbC5xdWlsbGF3ZWIuY29tLmNvghBxdWlsbGF3ZWIuY29tLmNvghh3ZWJk
+aXNrLnF1aWxsYXdlYi5jb20uY2+CGHdlYm1haWwucXVpbGxhd2ViLmNvbS5jb4IY
+d3d3Lmdjby5xdWlsbGF3ZWIuY29tLmNvghR3d3cucXVpbGxhd2ViLmNvbS5jbzBM
+BgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIB
+FhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUE
+gfIA8AB2ACk8UZZUyDlluqpQ/FgH1Ldvv1h6KXLcpMMM9OVFR/R4AAABbbVGWfQA
+AAQDAEcwRQIgUqXQcoQxu1XQLEKd/c3P+DzJtKywbNtfr7o9fHvnEH0CIQDVIBJq
+L3VtnMnwq8Fch14DyZYTls1rzL+yNjQx/Xi/9QB2AF6nc/nfVsDntTZIfdBJ4DJ6
+kZoMhKESEoQYdZaBcUVYAAABbbVGW8sAAAQDAEcwRQIgHcLOgRACe2toO9+Ql9Re
+M7INW29JnIeODl6g6OmL+MoCIQDZ3YOX/ZStG/R/Mc3JMSvVFWzCL8+Tpav6YAb3
+zEf0iTANBgkqhkiG9w0BAQsFAAOCAQEAhcSe9wLbyXHmYOxbD30whiRbbMVLDfl/
+zTbz/Xu/fzr2rc0foJ8yF8hIq4bQp8k0MAUAp4bJbmUmzxoms+SmZI3B5OJgySEh
+X2jzVyIWZJVLrRKRDNVrTJEZpbuqQzrYzJxTvcZi6c+Sn1t+VANV1+wQgKWlAt7d
+zruPw1GRWA+q71qB0cZR8sKtFWxnJf0374DIG/uJgHW98sxV+2DpLCqQcyMYFODu
+8dSR5JI5PAWymAPedPCKl9wnJ1YRK9wCJlD2KbKob7zubLCD5Zt2mKPlmqjX4Dxc
+3kyCzKWt/O3m7b9l276fb6uYeM0zzUZCkJzexpB9GzcxeMDByYx3EQ==
+-----END CERTIFICATE-----
+subject=CN = quillaweb.com.co
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3459 bytes and written 454 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: CA9FE218FC1E13F301FC65CCBB96C37200D24989B4C6C189051CF46A80DBB8CA
+    Session-ID-ctx: 
+    Master-Key: A65C27981000ACA18B2FFCE335E0CD199100C2CF46D470A6D96A7D604FCFAE0F4BEF2514A95265445F493B295EF9934D
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 7f 37 46 8b 43 fd fc 90-16 92 c3 43 ab b9 5c e2   .7F.C......C..\.
+    0010 - 30 7c 08 24 e4 8f c8 ba-a7 da 88 e5 d2 39 65 2b   0|.$.........9e+
+    0020 - 57 07 75 97 a8 39 69 10-33 f4 1c a1 3d 68 e4 e0   W.u..9i.3...=h..
+    0030 - 93 68 93 f2 5e 95 ec 64-de 89 21 e6 67 1a 6c a8   .h..^..d..!.g.l.
+    0040 - b0 9f 99 a4 bf 8b ce f1-f2 5b 31 1c 4e 70 aa 9a   .........[1.Np..
+    0050 - e5 fb 6d 47 6e c0 f5 26-69 2b 89 de 4b 0f ce 6b   ..mGn..&i+..K..k
+    0060 - 21 b5 fa 69 cb 66 e5 09-d0 c8 a4 6e 26 e9 6d 04   !..i.f.....n&.m.
+    0070 - 42 fd a9 2a e0 f6 d7 54-e0 ab d6 58 4f 9f 3c bb   B..*...T...XO.<.
+    0080 - cb b9 cd ab 08 ad 4f 58-b0 87 02 a3 e1 ab 6f c9   ......OX......o.
+    0090 - 8b d1 b5 e5 8e 4e 87 06-66 08 63 2c db 14 35 2f   .....N..f.c,..5/
+    00a0 - c0 91 dc 07 50 02 eb 31-de 25 5f c6 d6 07 a4 ee   ....P..1.%_.....
+    00b0 - ba dc e7 ac e1 34 a7 1c-5f 4a 2d e6 c7 0f 19 ee   .....4.._J-.....
+    00c0 - cf 73 28 a4 23 08 af e9-92 27 99 00 f6 63 66 b8   .s(.#....'...cf.
+
+    Start Time: 1575122430
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

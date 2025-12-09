@@ -1,0 +1,66 @@
+https://www.yzmwh.com/wp-includes/images/images/images/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.yzmwh.com
+   i:C = CN, O = "TrustAsia Technologies, Inc.", OU = Domain Validated SSL, CN = TrustAsia TLS RSA CA
+ 1 s:C = CN, O = "TrustAsia Technologies, Inc.", OU = Domain Validated SSL, CN = TrustAsia TLS RSA CA
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFpDCCBIygAwIBAgIQD3071wNIRedQ81lrj+qtfzANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJDTjElMCMGA1UEChMcVHJ1c3RBc2lhIFRlY2hub2xvZ2llcywg
+SW5jLjEdMBsGA1UECxMURG9tYWluIFZhbGlkYXRlZCBTU0wxHTAbBgNVBAMTFFRy
+dXN0QXNpYSBUTFMgUlNBIENBMB4XDTE5MTAyMzAwMDAwMFoXDTIwMTAyMjEyMDAw
+MFowGDEWMBQGA1UEAxMNd3d3Lnl6bXdoLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBALFw1v7A/iJfw57E1DJUwoh69XLSJho3J9DdQq+WHKW0/uhU
+mwu19oR2UWckv8xpyzUR2fbAvTlSW3XC8w+HrEvUFgfmR3/CQDiaPqlXxKwSy/B3
+v9Tl7HBb5EsTbnN4PLTzB7/r4otHtZkAgGkJaN3RWmscMF8g0hrOQd1lReVjjjh0
+/edeh2aCHOfls3ApwUdP3prPmfDH5QTpgxC8sbes7p3i0Oz1KuUY6Lf0Oud2AgvQ
+CvDQgb3fRVMYZcf/8ldNs/Bph9JgJMrgWhVg2lL3BNEBA6o8vYaVt3h92evA2NqK
+iXpJxIzGqMFm3Ga6/xSKUTUID2D9tMG26UCgVtkCAwEAAaOCAo4wggKKMB8GA1Ud
+IwQYMBaAFH/TmfOgRw4xAFZWIo63zJ7dygGKMB0GA1UdDgQWBBQpuBdKWFQ6w0HT
+GShKeSaJvVb/yjAjBgNVHREEHDAagg13d3cueXptd2guY29tggl5em13aC5jb20w
+DgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBM
+BgNVHSAERTBDMDcGCWCGSAGG/WwBAjAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3
+dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECATCBkgYIKwYBBQUHAQEEgYUwgYIw
+NAYIKwYBBQUHMAGGKGh0dHA6Ly9zdGF0dXNlLmRpZ2l0YWxjZXJ0dmFsaWRhdGlv
+bi5jb20wSgYIKwYBBQUHMAKGPmh0dHA6Ly9jYWNlcnRzLmRpZ2l0YWxjZXJ0dmFs
+aWRhdGlvbi5jb20vVHJ1c3RBc2lhVExTUlNBQ0EuY3J0MAkGA1UdEwQCMAAwggEE
+BgorBgEEAdZ5AgQCBIH1BIHyAPAAdgCkuQmQtBhYFIe7E6LMZ3AKPDWYBPkb37jj
+d80OyA3cEAAAAW330UzTAAAEAwBHMEUCIEGoK6Nir8K7+YBTlq1kbf9Md3yxu3nO
+nWlVkeEJJ08KAiEAsDbZjOfNJjB4vyZox7YgZgLyWDQUV4BsLemA3K1uUe8AdgCH
+db/nWXz4jEOZX73zbv9WjUdWNv9KtWDBtOr/XqCDDwAAAW330U1VAAAEAwBHMEUC
+IQCEvDJWVNmvTsHBJatlFiOZDmgUDpwoBHGFUK4CtmIG6gIgabAJYwM3MkD3+43q
+WUQJ/LTEYybvAQjMYAatOSMSpBwwDQYJKoZIhvcNAQELBQADggEBAHN/bEK0OFIb
+Q+j5qnC1uhk4YCURQkUfDZE44cLoEXhlon5FJjF0e887QwkMq4siuT0OOnW6fWIv
+DFC7ct1qg/8eOWEcWiWtjb1W2Ge4Yit7homMEGyS+KzlRyBY9CwP32G7EIV9b+a9
+m60HxGcQGm7lrsc1tftAshzhDeOBS66xEfvP3Mb9ka1XBEVbIxHIC6q0cCQmGFJu
+kpfhf+gUxHBrLRBD/uasqkyz3tEVV/XkPP35HlWU+AGnyf3bW3zBiO9Fgpvh7tBh
+G/UUhHp6UhCB2frMMov2v3vacafu9meVZK3l7/c+hTSP2EGxY7YeLzQfjls+OXdz
+sYIDC1+XV8A=
+-----END CERTIFICATE-----
+subject=CN = www.yzmwh.com
+
+issuer=C = CN, O = "TrustAsia Technologies, Inc.", OU = Domain Validated SSL, CN = TrustAsia TLS RSA CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3215 bytes and written 405 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

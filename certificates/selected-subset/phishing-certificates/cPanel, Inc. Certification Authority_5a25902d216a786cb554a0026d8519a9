@@ -1,0 +1,76 @@
+http://mobile-365online-digital.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = mobile-365online-digital.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHKTCCBhGgAwIBAgIQWiWQLSFqeGy1VKACbYUZqTANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMTEyNTAwMDAwMFoXDTIyMDIyMzIzNTk1
+OVowJzElMCMGA1UEAxMcbW9iaWxlLTM2NW9ubGluZS1kaWdpdGFsLmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKkuMhFMrVntiB256/E6n5G9YCML
+q8g8lBKdvTmlyYv+roJC08LF9vx4ma53EXfn+2dLuqjWHE0PmNJx6aY3tyJwmKsk
+EsOSp9cFo/4BH1p9HXe9gdxsUNQQGj/5sfRhRckn/zHoVlX2WddHav98BVFP20XJ
+odR/ajv4YGDuq7mxaFodFmtCUz2nq4WfLFPnucot8z5MLzGEbCURFSPZYSmH/ayt
+rWqXd7i8L9sh1OtZKiheH2S0EdCCQlYtHAzttNZ1/mnBlJ3VLT7Cghuiw3/L7oxC
+Z+JgEv1ObPWVmsyzK22cpjLKn2jqAz9swkVNnW4qxokkhMA80Jk9RP8fqnkCAwEA
+AaOCBAQwggQAMB8GA1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1Ud
+DgQWBBTcHhpqggz2F2gMBr5BhPd+8rbSKDAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0T
+AQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIw
+QDA0BgsrBgEEAbIxAQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28u
+Y29tL0NQUzAIBgZngQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5j
+b21vZG9jYS5jb20vY1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmww
+fQYIKwYBBQUHAQEEcTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2Nh
+LmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEF
+BQcwAYYYaHR0cDovL29jc3AuY29tb2RvY2EuY29tMIIBBAYKKwYBBAHWeQIEAgSB
+9QSB8gDwAHYARqVV63X6kSAwtaKJafTzfREsQXS+/Um4havy/HD+bUcAAAF9WKS+
+DAAABAMARzBFAiABjRpT3oQS42Xi8tuUxwocaB9zirImsfozWKK+AzuPbgIhAIkQ
+qiPEomVFz0VR3xDyZe61+pM1omQzVoUVgYX9p1xkAHYAQcjKsd8iRkoQxqE6CUKH
+Xk4xixsD6+tLx2jwkGKWBvYAAAF9WKS92gAABAMARzBFAiAEnfaOmVqrSvqQQvUs
+HtsTmHXodFWPf0VF60Zs7V8KHgIhAMq/iEkf2yswDp6Bt3+Esj1irhgiaguRJCSC
+haMiiX0bMIIBXwYDVR0RBIIBVjCCAVKCHG1vYmlsZS0zNjVvbmxpbmUtZGlnaXRh
+bC5jb22CKWF1dG9kaXNjb3Zlci5tb2JpbGUtMzY1b25saW5lLWRpZ2l0YWwuY29t
+giNjcGFuZWwubW9iaWxlLTM2NW9ubGluZS1kaWdpdGFsLmNvbYIoY3BjYWxlbmRh
+cnMubW9iaWxlLTM2NW9ubGluZS1kaWdpdGFsLmNvbYInY3Bjb250YWN0cy5tb2Jp
+bGUtMzY1b25saW5lLWRpZ2l0YWwuY29tgiFtYWlsLm1vYmlsZS0zNjVvbmxpbmUt
+ZGlnaXRhbC5jb22CJHdlYmRpc2subW9iaWxlLTM2NW9ubGluZS1kaWdpdGFsLmNv
+bYIkd2VibWFpbC5tb2JpbGUtMzY1b25saW5lLWRpZ2l0YWwuY29tgiB3d3cubW9i
+aWxlLTM2NW9ubGluZS1kaWdpdGFsLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAGVKR
+Tt7G585TwFksksEtSNy6qAtzh+R9+Hw9bUMPiPebDUNWqYzbw82vgu5X7RUTVCEh
+a2qB6jz/lRGR+urfvJR9R0LkjHM6m6OSS1OGsU1pGyc3p5kvNZYdZNLFKzXI+Fx9
+cg9kUM/fWI+6TjcNOA9ssmR6is6NroUa7pLi484g2l7mFciAUNNfB9wD0BvLsXw9
+obi1NWZJptOglDlXcq1U3mRKNnY7BKK+DYO49XPZ+ibq70ah5+WylV6xMbWD89nP
+Ai27N11rEGPs4n+lCG4IcdiGult+1PkciflmHOyDWmEKfpgmCl41e8r8SRFk7qxA
+6ys0P9BwNftlvSlphA==
+-----END CERTIFICATE-----
+subject=CN = mobile-365online-digital.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5272 bytes and written 402 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

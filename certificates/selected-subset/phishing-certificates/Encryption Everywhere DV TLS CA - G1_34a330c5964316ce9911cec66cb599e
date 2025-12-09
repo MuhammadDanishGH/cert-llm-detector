@@ -1,0 +1,94 @@
+https://welcomebof.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.welcomebof.com
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+ 1 s:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGAzCCBOugAwIBAgIQA0ozDFlkMWzpkRzsZstZnjANBgkqhkiG9w0BAQsFADBu
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS0wKwYDVQQDEyRFbmNyeXB0aW9uIEV2ZXJ5d2hlcmUg
+RFYgVExTIENBIC0gRzEwHhcNMjEwOTExMDAwMDAwWhcNMjIwOTEwMjM1OTU5WjAb
+MRkwFwYDVQQDDBAqLndlbGNvbWVib2YuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAlYqdsZTGpbUPijLwmzJUh9DhXBnF0OTl5ms52JNPJQOybw4P
+uXsTrXVyg8vfvdS6Sju1B+xwZnDHvbqmC+sd6grikJZfUkCtZynKtc+RTOliS1kL
+4UZeElUUmh+3kQoq5A+DHR4IQQHHmKnSuneezMCnfmi8xXt37NtwWRHK7CPkdB7E
+6saJ5lXL1XWSVrnCBIs5t8UpLDjNJYpeQYCffPexgNu/xFpJ9aKQ+vtGQ1cKfBN9
+sD7iXWniJ3CdCaL1fzQdYwUqwL7/m43NFNZPkwfeD7bZKVQ1bT296Fp5V7b8VCGL
+BTVcDwaTs74rIYwd3e7OHkgtmb/1Z8VZ4pk42QIDAQABo4IC7jCCAuowHwYDVR0j
+BBgwFoAUVXRPsnJP9WC6UNHX5lFcmgGHGtcwHQYDVR0OBBYEFIOLT142PjXq89Jq
+W+NBE4q70/VFMCsGA1UdEQQkMCKCECoud2VsY29tZWJvZi5jb22CDndlbGNvbWVi
+b2YuY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwPgYDVR0gBDcwNTAzBgZngQwBAgEwKTAnBggrBgEFBQcCARYbaHR0cDov
+L3d3dy5kaWdpY2VydC5jb20vQ1BTMIGABggrBgEFBQcBAQR0MHIwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBKBggrBgEFBQcwAoY+aHR0cDov
+L2NhY2VydHMuZGlnaWNlcnQuY29tL0VuY3J5cHRpb25FdmVyeXdoZXJlRFZUTFND
+QS1HMS5jcnQwCQYDVR0TBAIwADCCAXwGCisGAQQB1nkCBAIEggFsBIIBaAFmAHUA
+KXm+8J45OSHwVnOfY6V35b5XfZxgCvj5TV0mXCVdx4QAAAF708QPywAABAMARjBE
+AiBaMEX7kWrbzksx+0SRGUuNloFUc0v8RT3FN5Q53QGAyAIgUsSJ0xQDQ5OFo7Sv
+ZSWZbNKB14x74SJc5YMwPQMLyE8AdQBRo7D1/QF5nFZtuDd4jwykeswbJ8v3nohC
+mg3+1IsF5QAAAXvTxBAaAAAEAwBGMEQCIAKXDn5wUFI0D9tOmBLxJUDkizQoLh+6
+K+tsQ3WcAM4XAiBHhOXKK3wNk7UznkJDopmzqv1UaVuraw519VO8iXTfZQB2AEHI
+yrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2AAABe9PED6sAAAQDAEcwRQIh
+AMNXFO4LQfT0bQaJS9JwZuAaD48/ZTzMNYZyiL8/aQJ1AiAIFXCuHUizR7KGbMsX
+5T87/tN6oNi/TTHfuXmYRrXG6zANBgkqhkiG9w0BAQsFAAOCAQEAHNYc65HOZy41
+/f4ItU0WtoOs+w0KwVmbV0q0Eqs5lMiExLvr89yhuOsm+/Q3pVrgB9B5CIm7Ihi4
+zc6mcoQJuCMRy8CCfpWOTR5JTL6nTyPttMIpX0ujTJFsRja1+M46gdPR7Sd77Xqo
+PpSNIvxOl/qp1CXyU3Y6vzuMtRiPowAfyw+hHtmIPbMPahQ2JB0Hxyz8H4XTRkGZ
+jvSXp3PCpnPtCQdw3/Ga3wEaa42SAS1rJdlGqHOc6Y5/JYXulF67jJIzTt1liCOU
+xT8i9zBQejGkbxtYsiGVCsUJEBFBW4dk6Jj/lxwuVbo36/dJGyBZWr4+/P/3C8E9
+jpT65+2FJA==
+-----END CERTIFICATE-----
+subject=CN = *.welcomebof.com
+
+issuer=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G1
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3405 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: D3356A66C2F29C506331C04898AD0AC3386E5A9581E2F64EBF2299DA988C00A0
+    Session-ID-ctx: 
+    Master-Key: 5D8054C6B1CF81842F60EADD7FCEC29F79CA45AA4C7788B0F5A747A0A11A5A440113F96E725D32E7945D22FC29DEEC45
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - e3 5b 31 ae f6 23 43 d2-4d 70 31 a7 31 58 52 74   .[1..#C.Mp1.1XRt
+    0010 - 0a 54 c4 db f3 75 87 b5-b7 60 5a b9 d9 06 c1 e8   .T...u...`Z.....
+    0020 - 26 b8 80 82 78 88 b7 fe-bd ed 7e bc e1 b2 45 86   &...x.....~...E.
+    0030 - 63 99 42 a5 75 f6 90 fe-bf 5d d0 73 d1 16 87 96   c.B.u....].s....
+    0040 - c8 7c 8d 89 de a3 95 85-08 5e 6d 8f 4b 4b 13 f3   .|.......^m.KK..
+    0050 - 54 07 43 f1 7d 7c 53 46-ed 3c 85 69 45 d9 41 e2   T.C.}|SF.<.iE.A.
+    0060 - 58 81 ba af 41 60 b5 3d-97 e5 6f ee 52 46 cb fa   X...A`.=..o.RF..
+    0070 - a9 9b 08 74 d2 88 a3 4a-7d 96 e5 ca 26 0a 5c e8   ...t...J}...&.\.
+    0080 - 6b 12 f5 e0 73 5e f1 41-1e ed 1d 47 2c 6e 99 60   k...s^.A...G,n.`
+    0090 - 31 04 ac ae 73 dc d4 a8-7d 32 93 fe 8d 70 6d 4f   1...s...}2...pmO
+    00a0 - 01 a0 6e e4 c4 1d 05 31-d4 1a f4 cd 78 49 83 24   ..n....1....xI.$
+    00b0 - 8d 5c c6 06 94 a4 66 a3-f5 f5 65 1b 36 05 7c de   .\....f...e.6.|.
+
+    Start Time: 1631623413
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

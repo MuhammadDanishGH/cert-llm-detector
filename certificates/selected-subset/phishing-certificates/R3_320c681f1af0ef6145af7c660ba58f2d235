@@ -1,0 +1,66 @@
+https://polkakesvvep-trade.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = polkakesvvep-trade.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFTjCCBDagAwIBAgISAyDGgfGvDvYUWvfGYLpY8tI1MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMDYxODU1NDhaFw0yMjAyMDQxODU1NDdaMCExHzAdBgNVBAMT
+FnBvbGtha2VzdnZlcC10cmFkZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDC135ci9UD+YpqhxO1B6F3FEFafGjHdj9oAPgS4UeZc640aQnnAWIy
+qZBKeGk7UMChBDoCcvDzVmIyLzisFd/MoHzG9g6Wia8iZWwl1dqjcr5c7unHVeGL
+wx4pDElsQH8NkwNye1gdBCKInrsK8VT1mbgP2xWKFnRuvo1bRv4mpjQw3vt/+gYF
+Nh1kJCQkb0yEq6TSGg3pqsbSQ2slJi0jzTnVIV0B0eICyWJlKq0BOS0ll0lXlZzH
+hwLt5CNY6ZZuqu1y/lCbr2M0lCuJ04qmVyCSCEECvAWRtxEkL8wFs80OPBV4MgDw
+xY5/OovqnQ230Pxi8JTum4PfblakyPGVAgMBAAGjggJtMIICaTAOBgNVHQ8BAf8E
+BAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQC
+MAAwHQYDVR0OBBYEFE9/Bf1nJ7reKefGSrgtmMflXe7zMB8GA1UdIwQYMBaAFBQu
+sxe3WFbLrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYV
+aHR0cDovL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5s
+ZW5jci5vcmcvMD0GA1UdEQQ2MDSCFnBvbGtha2VzdnZlcC10cmFkZS5jb22CGnd3
+dy5wb2xrYWtlc3Z2ZXAtdHJhZGUuY29tMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcG
+CysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5
+cHQub3JnMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYARqVV63X6kSAwtaKJafTz
+fREsQXS+/Um4havy/HD+bUcAAAF89tJGbAAABAMARzBFAiBjiTYV33PsTMw45Ig9
+xy1Hgon75pniV2Uaz5u4zdt3hgIhANhQ5cXZ+wOa7aL9H7/3/r2e7mfWQU9Zi4Is
+tvMdIZ5RAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAF89tJG
+ygAABAMARzBFAiBT3fN8QeWVIkv/os6sQ+jNtb5jAbQnME+yQLccwN8jswIhALak
+Y/k2GTOMyhY0yTKHCvBPqGA+RVaYo9YyXODavWaIMA0GCSqGSIb3DQEBCwUAA4IB
+AQB3poM9tGV63vBU+locEhSVhBmqHyAjFNhrBz9C19Jwdu8rpMqN20inr15gnuj3
+P/pnd56aSHqHNoWdTqW/p2PYBCn9fLKf73jipI5BI95EiyGPKg9oWdmSE1UVZkZT
+4IyR33p5LIZ5+3mhwmYpC2YkI3JTTJpfR5vtaR46IC2JAsWODr2eVE40/ncYj3vA
+Z6iumBEbW+zaZdMpBmsCLg1CIoPBKfUe08J1WzMWtV1w/xDgA/nzAIEjnVAFN4tC
+7en3372n2BQiylqFxAtDFfL/aQ3Y5FGAMWN0n6hzGSn9NIoeCjBUVnNJhUdLDsTx
+rUJJZFiXY87r5mHylosdBnCR
+-----END CERTIFICATE-----
+subject=CN = polkakesvvep-trade.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4602 bytes and written 380 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

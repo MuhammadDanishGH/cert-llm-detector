@@ -1,0 +1,76 @@
+http://bancalnternet-interbank.pe-l.com/doc/login.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bancalnternet-interbank.pe-l.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHJDCCBgygAwIBAgIRALKGLmtV37x34WMF5W7fhdAwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA5MjIwMDAwMDBaFw0yMTEyMjEyMzU5
+NTlaMCsxKTAnBgNVBAMTIGJhbmNhbG50ZXJuZXQtaW50ZXJiYW5rLnBlLWwuY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7v9KJ/X4BVn+x2K48fPu
+KwdOhMRakgjjxFNHWSuqsHBDwC8ISihdKczqeLN0vHO0Fj8OpZASNXYNI2C1cYCr
+uH8Ye0LfY5XI1nQIK3Ud7JUzzztTjPP50p9hDaQBSzk5KOUPhCe0k+AMUGTiRfgZ
+n1ZY7fBJO7DcqnUZ3JVxIzYQWgtGw5yR7hyJmrJi6e3wi2e5gAH20KJsv6cv5MYT
+a9zmpglUto3N0ocbvoKwVXyikqlVa3KzYM96kyGt5Q1j63TBfT3blwRGN/SKrmEE
+nbwBOFvnTXBmTTlw6Ao53So07m2qSM7krTcqaGDnA3DuEbYEoE1ofaoIkXxQ1NGV
+RQIDAQABo4ID+jCCA/YwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2Uw
+HQYDVR0OBBYEFBqo/aGscDwdcpzbqCalYJaDkUZKMA4GA1UdDwEB/wQEAwIFoDAM
+BgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNV
+HSAEQjBAMDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2Vj
+dGlnby5jb20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8v
+Y3JsLmNvbW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5
+LmNybDB9BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29t
+b2RvY2EuY29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQG
+CCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEFBgorBgEEAdZ5
+AgQCBIH2BIHzAPEAdwB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAA
+AXwN0c4pAAAEAwBIMEYCIQCSeFyEa95EJUoYx+6xtD8ABTApVC5vjdAGiyj4TfGY
+IwIhAPq5o8mvbenT5qMojzaAxagy9bLXxYn3126Vt+V6uTXBAHYARJRlLrDuzq/E
+QAfYqP4owNrmgr7YyzG1P9MzlrW2gagAAAF8DdHN6gAABAMARzBFAiEAiBnDMskL
+vu8vOsUKdq/lp/1lBLVchtK/AhbQ2PlpcLACID6woZuWdD6g/jZc/bE8rJ6bP9HY
+jUnjfUI/6UOeew1NMIIBVAYDVR0RBIIBSzCCAUeCIGJhbmNhbG50ZXJuZXQtaW50
+ZXJiYW5rLnBlLWwuY29tgidjcGFuZWwuYmFuY2FsbnRlcm5ldC1pbnRlcmJhbmsu
+cGUtbC5jb22CLGNwY2FsZW5kYXJzLmJhbmNhbG50ZXJuZXQtaW50ZXJiYW5rLnBl
+LWwuY29tgitjcGNvbnRhY3RzLmJhbmNhbG50ZXJuZXQtaW50ZXJiYW5rLnBlLWwu
+Y29tgiVtYWlsLmJhbmNhbG50ZXJuZXQtaW50ZXJiYW5rLnBlLWwuY29tgih3ZWJk
+aXNrLmJhbmNhbG50ZXJuZXQtaW50ZXJiYW5rLnBlLWwuY29tgih3ZWJtYWlsLmJh
+bmNhbG50ZXJuZXQtaW50ZXJiYW5rLnBlLWwuY29tgiR3d3cuYmFuY2FsbnRlcm5l
+dC1pbnRlcmJhbmsucGUtbC5jb20wDQYJKoZIhvcNAQELBQADggEBABvupRRUu+F6
+/JREOrI6mVVMZKqNaeergORW+wxDx35j5DVhbLfsz9WAtgD3UlPRcBBkRMSJqofP
+XgThGefOGoGD02XP0fu+tQxAiOuDM7J6imPl6AHU4x/XH2lJQ4ZnT2/a7689PG7P
+hsfGxgDrYNwbhrCISCL0qhIs+yP6PsUr6bAMtPPENTh6Lpp08f0w9hxH17Lv76KW
+9xk+rULaRsoyfzNn8KAjFC2A8ixFWB8uvfyvx1BEZgNnK/1n3r3g6wx/6TSCoNiK
+SoMJZR+6DrmgP3+9cKVKejxc96lncajE9oQ0VPLPzUCoWe05N400NaQyAt+nX178
+cvEdTW3HLi8=
+-----END CERTIFICATE-----
+subject=CN = bancalnternet-interbank.pe-l.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5337 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

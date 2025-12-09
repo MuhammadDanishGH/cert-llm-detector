@@ -1,0 +1,65 @@
+http://horahoremartuis.co.vu/help_login.html
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = horahoremartuis.co.vu
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFgDCCBGigAwIBAgISBCej9gALCTSvdaATAhbU6yvAMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTExMjAwNDAyNTlaFw0yMjAyMTgwNDAyNThaMCAxHjAcBgNVBAMT
+FWhvcmFob3JlbWFydHVpcy5jby52dTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBALB9ScwVI4ULhTWHz6HvmXMVCfCKGcxgbg+/YSkT9XGfS/nGUZyaIADa
+a5IVt6ZOTHCRH8tCmNISbgK0YKYn8AJGIlLMPSkpsxtM2R84nph0eRMkigu6nk3H
+I4slxrx0dO+fOcTpG4w/ERwHRCNQj5Uv69BmBg3CQm9ohE4pf0aTFgcbKSr0cor8
+MUDWbb+3sfU8DBajhttEi4ZfwKjKnFmoTCzn2vpvg9pcrqve0HzZUZCRXexaNwxU
+1omwr3uG3pfy/4nKtYU6zELwUbvF7DfiH37uCj9Fkt6E8yS7hhG+DhGyZCt+2N38
+aBDhh48EQy3Av/t9wYNy/+jlzbHeV/sCAwEAAaOCAqAwggKcMA4GA1UdDwEB/wQE
+AwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+ADAdBgNVHQ4EFgQU5YCdtnsROytrlrvPjxh0f35YEf4wHwYDVR0jBBgwFoAUFC6z
+F7dYVsuuUAlA5h+vnYsUwsYwVQYIKwYBBQUHAQEESTBHMCEGCCsGAQUFBzABhhVo
+dHRwOi8vcjMuby5sZW5jci5vcmcwIgYIKwYBBQUHMAKGFmh0dHA6Ly9yMy5pLmxl
+bmNyLm9yZy8wcAYDVR0RBGkwZ4IdKi50b3Jhc2lidXJhbWFuLWluZGF0dWthci5j
+b22CFWhvcmFob3JlbWFydHVpcy5jby52dYIvd3d3LmhvcmFob3JlbWFydHVpcy50
+b3Jhc2lidXJhbWFuLWluZGF0dWthci5jb20wTAYDVR0gBEUwQzAIBgZngQwBAgEw
+NwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5j
+cnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgBGpVXrdfqRIDC1oolp
+9PN9ESxBdL79SbiFq/L8cP5tRwAAAX07uerjAAAEAwBHMEUCIDE0cZTiPv/2Wk7Y
+ckoNu2OY9QpN/vVHNQ9Gh33LFmfdAiEA0ug6NzC7Mp10ialSAzU3Z5iRh0HeVd1+
++5+oXJ1WfqIAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAX07
+ue2WAAAEAwBHMEUCIBBuyoaL1nHEvZ6FAGZRwZ+NFQHr3srqgYtFLiWiRGUvAiEA
+x7H0AtK4cNMcscF4oIAzab7lszPmd7POOX82qINSee0wDQYJKoZIhvcNAQELBQAD
+ggEBAAMSd8NzJchZnkLZ0iwdt8r3Rm5C9V5X+7Qn+AtkFoUOnDrj+In918kAY9vB
+YdrGGIf4lvZlw1gie9rtpviBTnMyXKFQ9G+o/1Tg8T/+NUFwN0tRHjjcUeBY2Jx7
+W89By+ZhXNOKtiO5je0eX/yyEQXh2g9zB7NHJUMx99Ii6MRPEBccylR1Ov3gdv7Z
+iWa5zOvLxCd83Q6RXP6tmdBk3niZuF2zGWIqT50p55EVF4HGd+EC2ZruzzDieo+B
+dpPbMeqYw+UMavZSDKvYDT5/BUM3Ap7+rXgc7ZFisAILb1ddXaBIif9waqlVl+7o
+qGmm+Kv55Nzl1Tglp0V/9yMmuhY=
+-----END CERTIFICATE-----
+subject=CN = horahoremartuis.co.vu
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3283 bytes and written 395 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

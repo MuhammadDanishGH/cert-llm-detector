@@ -1,0 +1,94 @@
+http://wonderposteline.com/gova/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = wonderposteline.com
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF9jCCBN6gAwIBAgISAxTvEcIVtPQDyujfNNLViJvDMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA3MjkwNTM1MzNaFw0x
+OTEwMjcwNTM1MzNaMB4xHDAaBgNVBAMTE3dvbmRlcnBvc3RlbGluZS5jb20wggGi
+MA0GCSqGSIb3DQEBAQUAA4IBjwAwggGKAoIBgQCrdmjrImxNTcu/W+58QUorYOJi
+a9MspxT+Rrrm1JYHIenz3GH2/8j+Rh7t4D44Ao+A6+Fh8z2ZgS/21mOmDi9sTNrS
+/zf8FzRWI8kBAS/Onm/dJB9lb98gCfdnmPURDz9pyR6lNZIRpaKk/qFsjQokAauB
+fQQE5XVsPeVRLoV+jHH0l+e1DCaFbVVxzYq6zXJp/3iXBncnrDy3Y2xyCbt0Y6uk
+Pvr+c1pjBsXrfH6Dll8/27L8TO6p5a4n1LFpTYBgqy+irIbInMaK1yf9mPhFW7Uj
+janNqy3OG5JLLKvAvZSPKDWJ1e8yI/rVHOrSdvnsSoxFqH+P/0eyCZXny46H6r3P
+VFRt+DFZpWBQ9KD3St+WCyJxAImDSansiks4SjsuP78mLItXcof9UMPenRYTPVkW
+QngoT2h6F9BvveUZwOTRvuJIOPrYUB6Y8dySZSnHBPsk1JvZp0yx3hjD+FLpdv01
+FBdnwy9QhVLF8SUqYUcJmC3FqgVDcz7qXjdht/8CAwEAAaOCAoAwggJ8MA4GA1Ud
+DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0T
+AQH/BAIwADAdBgNVHQ4EFgQUSDtMECRVLYOFzmqyA/5QYUidzywwHwYDVR0jBBgw
+FoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBhMC4GCCsGAQUF
+BzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3JnMC8GCCsGAQUF
+BzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3JnLzA3BgNVHREE
+MDAughN3b25kZXJwb3N0ZWxpbmUuY29tghd3d3cud29uZGVycG9zdGVsaW5lLmNv
+bTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUF
+BwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIE
+gfQEgfEA7wB2AHR+2oMxrTMQkSGcziVPQnDCv/1eQiAIxjc1eeYQe8xWAAABbDxw
+/YYAAAQDAEcwRQIhAPUl6cewNKjujXX9+Bp/dWb+D63xlB091mUXTkUiDIPhAiBK
+tnIZuKN2rmWbMcTLBItUQWuGKXAdtVM912q5Rnd7RQB1AGPy283oO8wszwtyhCdX
+azOkjWF3j711pjixx2hUS9iNAAABbDxw/XgAAAQDAEYwRAIgTCapgjYb458XLkBM
+7h9y3ME3g2UePwr958F0GS16EfcCIAGN77uR6taKRD5E4xarsCSkCIy8MCcXAMiw
+IAXX8I+tMA0GCSqGSIb3DQEBCwUAA4IBAQBrQD+JN0S7+LmdkjN1Rb4Vh2FRPHgO
+qv9e4ARFKXZ3jGITPNLRlE4on4x4lKSBSbi/ScIwxXAh0mYlPNVLwCF+ORLpy/zn
+awY++BM92BfNizH5I67QSK0FQzVZ7NKXDZ4OcbnpNWN0Sc8AsSeHswhthg9vpgMQ
+RlxQHUp3PdP96+noNv0mAF5jr42ROcxFR5cxlCN2T2wOVpLizQJoD6m4BR4w96Lq
+s6Ty4nKk7kqXU54A9JiSSIg5xbGv28S3+m0ipqlHQ8nRFTweqWHy9rKPJ/MJdDvu
+01imxE933h2FpcbfbD6ObGeDT2bL3kotATss4Z66aa/IHPxKikNsbhEk
+-----END CERTIFICATE-----
+subject=CN = wonderposteline.com
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3541 bytes and written 457 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 3072 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 18589367BA7E71F4F19DAAEE5C5FE3DC01637D048EABEC45028A2372213A0ECD
+    Session-ID-ctx: 
+    Master-Key: BE2893E778FFFF54AD411EA281C925DC42F3195B4F8B00F514BD9E9801E16221ACCC42D0E607764231A59AB89D27EB15
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 5f 22 b2 99 6f a1 e0 95-ee 1a 65 4c 02 04 db 85   _"..o.....eL....
+    0010 - 71 2a 5e cb ce 62 fa 8d-18 f9 f5 ee 0e ba bf e2   q*^..b..........
+    0020 - b0 5d 6e 21 86 92 67 c4-86 bb ef 75 e1 a8 d3 5d   .]n!..g....u...]
+    0030 - 6a fc 3f 13 33 cc 45 a0-27 7c 46 a7 42 2e da 58   j.?.3.E.'|F.B..X
+    0040 - 00 9d d8 49 e6 7a f8 4b-24 c2 44 9a a9 37 f4 79   ...I.z.K$.D..7.y
+    0050 - 9a f8 87 99 d1 dd 0c e2-9b 23 c4 d8 39 5b 60 75   .........#..9[`u
+    0060 - 51 a5 df d7 b6 17 73 9f-35 72 70 d1 d6 b9 09 53   Q.....s.5rp....S
+    0070 - f8 1e b6 01 15 71 4f 17-2f 65 14 90 7a 07 cc d0   .....qO./e..z...
+    0080 - fc 62 08 d7 63 cf 68 c4-14 c3 50 35 d4 03 89 bd   .b..c.h...P5....
+    0090 - 4c e7 6d b0 cb 2e 25 d9-86 5b 89 a5 51 c1 9d e2   L.m...%..[..Q...
+    00a0 - bb d5 75 9a 8d a0 34 61-5f a9 a6 1d 59 b3 01 2a   ..u...4a_...Y..*
+    00b0 - e6 6c 83 fd df 73 56 29-32 f8 f2 b2 e2 93 3c d1   .l...sV)2.....<.
+    00c0 - dd 31 3c 33 15 c1 fb 1b-76 78 91 eb 43 35 6d 1f   .1<3....vx..C5m.
+
+    Start Time: 1564837223
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

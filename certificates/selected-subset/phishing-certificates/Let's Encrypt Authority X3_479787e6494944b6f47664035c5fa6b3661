@@ -1,0 +1,92 @@
+https://web3316.cweb01.gamingweb.de/proces/url/pagina
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = web3316.cweb01.gamingweb.de
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFjzCCBHegAwIBAgISBHl4fmSUlEtvR2ZANcX6azZhMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA4MTIwNzMyMzFaFw0x
+OTExMTAwNzMyMzFaMCYxJDAiBgNVBAMTG3dlYjMzMTYuY3dlYjAxLmdhbWluZ3dl
+Yi5kZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALHKtRBlALkoxmM0
+uskw1uvNbrVyt6Jr1SlusQOJBU16zLGAENZ4eFX+U14iDYlrgMaeN+sGZETjTtsR
+qiqRj6/NpDuF4rLmQyFWWoYUP3TtxP/wf8+Ljtmg3kaM2jZ8NVCqP6uOoTo/xUm6
+RjWMZ+KMnl4eQ363o6xpljcJNGKQWi0wphIHikgkbbOBPLPO8oW+rQhhDFs1sWPl
+Hs6eL/m3lywY2xGsN0ON9+b2nehpZXorrUAHnlntRC5Z7OliF3vi3MXUK1YZ/h7a
+CnOuLTc9xbCltpAlxvRSZISNdaLgrhJyPjBWZ83YVBJcTuaVrpmcyc/SFulp2/tg
+V7v19O8CAwEAAaOCApEwggKNMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggr
+BgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUXQFjjom7
+X3t4fvlknLdLN0bN6rEwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEw
+bwYIKwYBBQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMu
+bGV0c2VuY3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMu
+bGV0c2VuY3J5cHQub3JnLzBHBgNVHREEQDA+ght3ZWIzMzE2LmN3ZWIwMS5nYW1p
+bmd3ZWIuZGWCH3d3dy53ZWIzMzE2LmN3ZWIwMS5nYW1pbmd3ZWIuZGUwTAYDVR0g
+BEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0
+cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAA
+dgDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd3fHb/gAAAWyE9Ru5AAAEAwBH
+MEUCIQCO7RBx/l8W9kM2YQUyfjoAVLMNGddYe59SLsP1fJslnwIgcEr3lLAsw8Da
+JLHziSGNFOw+dKx15l62B9A7wB9rY0IAdgApPFGWVMg5ZbqqUPxYB9S3b79Yeily
+3KTDDPTlRUf0eAAAAWyE9RurAAAEAwBHMEUCIHKud9MS8rZJiKuBeW2iSRYA4Gb/
+tUAIrKA2Z4UQ9jCUAiEAs75o+9cWtfLdoibuO0k+OU+7oN3ld8B+NkG0soVR42cw
+DQYJKoZIhvcNAQELBQADggEBAJdEni7jXeeMi5QivFrrmOAbT1PCyZikFdUn9nR+
+ygxKK0qKrdCH4KPp2XnWhwrE6isUzS7XhCgxEzrpCtt2H0rRbuNWhMLb1S3pBHkM
+YIQYWI9e3lnwXtiqKE4fNc6BKcJoNCrXA0Hd0LXsctevHFGRWgCB0t3Typq28kNI
+lVMH2DKBFjrO1W/Cq4PGuFj+bsNCtUnQTIwP2Z4gSsOBRIwXpX7k57Q0MjMclwWO
+SvrLXqydTPRwzINLqnPQqUtCDGgWxTL9nY73+O4hV510hx4Lt3CgbQk0qOxYHYiG
+dEPRGM2RVq92z8OEJclGbwuqmlugyYqUTVRy08M61a1LrdQ=
+-----END CERTIFICATE-----
+subject=CN = web3316.cweb01.gamingweb.de
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3281 bytes and written 432 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 017E2D063BFD776B3D19665CB530A650E3C2F461B397C93914F61FF2E3F263C5
+    Session-ID-ctx: 
+    Master-Key: A8775F98AC1139BE8D06ABFF64C2C417FE96F28D9C2850F121DB35FD02D0E4CB9749F97CA0D1BBE6F5AECBD3BAE75AAE
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - ec 31 30 d6 7a 02 36 06-63 cb dc 15 1f 02 01 a3   .10.z.6.c.......
+    0010 - bf aa 55 31 fc 8f d2 02-ac fc 22 03 43 79 a7 40   ..U1......".Cy.@
+    0020 - e0 c0 50 20 af 7b 0e 52-ba d3 f1 c0 3d 8a a9 65   ..P .{.R....=..e
+    0030 - c5 db 1a f6 33 cc 09 da-be cf c7 25 82 7a ab 6a   ....3......%.z.j
+    0040 - 3b 01 06 45 c7 ce 3f d9-13 48 52 d9 90 de 23 00   ;..E..?..HR...#.
+    0050 - 36 8f bb 63 6b 43 a8 8d-8f b2 35 71 f0 71 d1 c5   6..ckC....5q.q..
+    0060 - b2 cc ea 47 8a 3e 7b c2-f8 dd 5d 74 7b f8 ff 5b   ...G.>{...]t{..[
+    0070 - 47 39 4e cb c1 99 f3 09-4f ed c8 7c 21 a9 f8 90   G9N.....O..|!...
+    0080 - 5e 27 3a 51 7d 36 94 29-86 5f 94 9c 53 6b f3 59   ^':Q}6.)._..Sk.Y
+    0090 - bd a1 29 fc e3 95 85 10-a4 9f 80 4b ed e8 fe 0d   ..)........K....
+    00a0 - 28 34 3f ec a6 cf 95 3f-18 a1 a0 46 61 8a 74 5a   (4?....?...Fa.tZ
+    00b0 - e6 fe 0e a6 ac a7 62 50-74 f4 38 82 a5 02 59 73   ......bPt.8...Ys
+    00c0 - 57 4e e6 f0 43 f9 50 62-ea 07 8e cd 89 c0 0d b2   WN..C.Pb........
+
+    Start Time: 1566478836
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

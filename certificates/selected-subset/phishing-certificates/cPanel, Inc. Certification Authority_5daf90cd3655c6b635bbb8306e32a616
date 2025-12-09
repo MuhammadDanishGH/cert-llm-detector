@@ -1,0 +1,74 @@
+http://tiktok-joinn.duckdns.org/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = tiktok-joinn.duckdns.org
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG2jCCBcKgAwIBAgIQXa+QzTZVxrY1u7gwbjKmFjANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDcxMTAwMDAwMFoXDTIxMTAwOTIzNTk1
+OVowIzEhMB8GA1UEAxMYdGlrdG9rLWpvaW5uLmR1Y2tkbnMub3JnMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAytuZTkUQ6oQP5Mcz6O0bRgvjprrHC+wU
+uSA95CC4aUC7lSI6J81d4OBFyIQcTAMwA/9bo6lPfi8Ap/VuWzGdlX6/kFlvr7z+
+V5yrVlrYHKubTT2cRt21qu+3+8JrNIkRWCExKpC8I48eBMEJGT1DnJxE8ovgQc6B
+8lj82F6Hu7nKayeMfzRbHfOO5UsK1XjcWyD26DDaGMlbEB/CvbhFAvLTlFDRl1fH
+Z2soyIvKIKuWDBmzajuYc53KlNHJHPuzjmqE2ZTIhcX84u0GkLoO3MKylKMkWEUs
+Xg+tXUxD8dly75O84p/ajXGDSxpiJDLnv+WTrlDYIv3jZF3wbxdxUQIDAQABo4ID
+uTCCA7UwHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYE
+FGMdQ3bd2mxF/AQf9vmNKY1ecb0wMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8E
+AjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQG
+CysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20v
+Q1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9k
+b2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9Bggr
+BgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29t
+L2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzAB
+hhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEEBgorBgEEAdZ5AgQCBIH1BIHy
+APAAdgB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXqTgUgAAAAE
+AwBHMEUCIFdUAGoH5dDRLRPpEuoL1JzMCsonBz9CNl2H6XTXFVptAiEAhv6DRJz5
+MiXmY8VaUKfUt+614GNiTLMuDds5rOgXQocAdgBElGUusO7Or8RAB9io/ijA2uaC
+vtjLMbU/0zOWtbaBqAAAAXqTgUgQAAAEAwBHMEUCIC95aELnTqeP8jsVryW5H0gI
+VIoqKyYZ4KjIvPyHgXKFAiEAr2BQHHnq3DIuHKWU4TK/W4/9f783I34cp73xl/x7
+YwIwggEUBgNVHREEggELMIIBB4IYdGlrdG9rLWpvaW5uLmR1Y2tkbnMub3Jngh9j
+cGFuZWwudGlrdG9rLWpvaW5uLmR1Y2tkbnMub3JngiRjcGNhbGVuZGFycy50aWt0
+b2stam9pbm4uZHVja2Rucy5vcmeCI2NwY29udGFjdHMudGlrdG9rLWpvaW5uLmR1
+Y2tkbnMub3Jngh1tYWlsLnRpa3Rvay1qb2lubi5kdWNrZG5zLm9yZ4Igd2ViZGlz
+ay50aWt0b2stam9pbm4uZHVja2Rucy5vcmeCIHdlYm1haWwudGlrdG9rLWpvaW5u
+LmR1Y2tkbnMub3Jnghx3d3cudGlrdG9rLWpvaW5uLmR1Y2tkbnMub3JnMA0GCSqG
+SIb3DQEBCwUAA4IBAQB4jBfVSUcEGwivqrtOA1DHhPrRR5KD5V8TO63W9BjEr3gH
+HTOIr9VOLqIup2oeS4Pm4Oxmyg4ib3UClKPdyB3mNnmJ3WW9K8vYWFaFfNIj8f3Q
+GQPNNxUCbedYXSZipLfAluyU/v8NusuyUV4YHS8x/Vu858KrXi9a4Rl3UTkcZeiT
+lb92G4Y+4aRYK5XO2OnadDJDTCKPEiG7gHKzjjk6lchke59FVqzoJeJpz+VgTGgF
+mX10PnNCIoDE5oQfhBmEPNYqezhxzTvajucIkGNm7EyHUHvleR29IK14RJiGfhF7
+CvJwArjd1E4KJvmRAScyasqISyOwjUBVprN32pKu
+-----END CERTIFICATE-----
+subject=CN = tiktok-joinn.duckdns.org
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5263 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,70 @@
+https://jangothemes.com/klaussner/sihle/home/?sslchannel=true&sessionid=PQHaWYr7pgPwASMMB4KdgNvXnn8yySv3SqhKf22kLcPvzwlT0On6OZeBvhfsFmVTYPGCwh8Rkr0gwawm
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = jangothemes.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGADCCBOigAwIBAgIRAPwCXRI7bPQ1JvvJk7JNIEkwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA4MjMwMDAwMDBaFw0yMTExMjEyMzU5
+NTlaMBoxGDAWBgNVBAMTD2phbmdvdGhlbWVzLmNvbTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAM3hou1Vg8bkU0DZtbdq9kZZWNbeSxTg1lLGuTl+NZRH
+vaqAUKPdpKFTGowGgspJBfm83a3/c23kpWqlvdvB4IjbdFI7JMlxR8iTZYQ2RiTe
+hBaX73+YS1g1MRy8se2buQ6uB8I4jAgEmuzWBcfujjlq4/ygd80lqBDC9taPCKzW
+hiUDUZpLTkYV6i9B7gvLPezejgHsFNJ2zgyyvCWSadmvyocBCRjAElSXEELtyxzS
+/WStoCktH6lMV1mTqhBpjsvRCCNCyy8n2hue9YOHAjUs7QoqM01mwPg4D5wZvqKt
+0H0+6eJbVB5tJniY12QZ3QLu0umUKJoI+AXa0DewFTcCAwEAAaOCAucwggLjMB8G
+A1UdIwQYMBaAFH4DWmVBa6d+CuG4nQjqHY4dasdlMB0GA1UdDgQWBBSPnIt2xCOg
+aIw+C11jrRhr05PoLzAOBgNVHQ8BAf8EBAMCBaAwDAYDVR0TAQH/BAIwADAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwSQYDVR0gBEIwQDA0BgsrBgEEAbIx
+AQICNDAlMCMGCCsGAQUFBwIBFhdodHRwczovL3NlY3RpZ28uY29tL0NQUzAIBgZn
+gQwBAgEwTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL2NybC5jb21vZG9jYS5jb20v
+Y1BhbmVsSW5jQ2VydGlmaWNhdGlvbkF1dGhvcml0eS5jcmwwfQYIKwYBBQUHAQEE
+cTBvMEcGCCsGAQUFBzAChjtodHRwOi8vY3J0LmNvbW9kb2NhLmNvbS9jUGFuZWxJ
+bmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNydDAkBggrBgEFBQcwAYYYaHR0cDov
+L29jc3AuY29tb2RvY2EuY29tMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAfT7y
++I//iFVoJMLAyp5SiXkrxQ54CX8uapdomX4i8NcAAAF7dUi+twAABAMARjBEAiAH
+GiSvDHi1m9JCwTU1XHw5gS4ywteC6EKDZ9Wxxy8VywIgYbJkdONlpDG/9VKCOWTJ
+AXJgGxrJg/cTLPnK0heCc04AdgBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOW
+tbaBqAAAAXt1SL54AAAEAwBHMEUCIF6vh4IBn/SKinQcI3N2fBxgWJi+oJx7k+QJ
+DFP1Vx/IAiEA5iqsoy1PFnqzN8mfBlbRQpCY7A4Aq1oU7aWyYAH1pB4wRQYDVR0R
+BD4wPIIPamFuZ290aGVtZXMuY29tghRtYWlsLmphbmdvdGhlbWVzLmNvbYITd3d3
+LmphbmdvdGhlbWVzLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAHsyCa+G7Kg7O/hQJ
+FuOt8rcj+1+TzQp9H3S/geiknNqwGwb4d1ibhnk6NbHpCIzlBMKqXJBdN3t8uOf7
+KzLtqGcaD7uNe/Ymbgg1nM5Rj/JBFsS+uE1DJ7D4j4NcJuuTh7PNctM38EcNqYKH
+ldCHPqZtgDJoav+3ge6ZkEdUHwO7he8Ng17zT43ehIudqVPakDdjFWHZtGuFRoaR
+eEnUKwQXGFEyH7U02GtOGxTgyTesdCkSfpi2xQxgdDQjEUxChClFaMaJnxAsiDPN
+dYs20bcPk9oANYnpDYSrwlhLrZyWFON9V8QKKf3XzI/2MmocMJIks9RrPUV5wbeF
+qvvCmg==
+-----END CERTIFICATE-----
+subject=CN = jangothemes.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5045 bytes and written 389 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

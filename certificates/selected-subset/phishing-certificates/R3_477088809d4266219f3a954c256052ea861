@@ -1,0 +1,65 @@
+https://smbc-cayd.shop
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = smbc-cayd.shop
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFIjCCBAqgAwIBAgISBHcIiAnUJmIZ86lUwlYFLqhhMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMjAyMjMxNDM4NTJaFw0yMjA1MjQxNDM4NTFaMBkxFzAVBgNVBAMT
+DnNtYmMtY2F5ZC5zaG9wMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+vkO01mR5NJR2fzgJdCSSwyBZ4BaoAfQ3RWHQIy5Q6rvAXzrKHt1pIxOD9IfWgY5o
+UYWXuo10PK+1kzVVf/vCjhYJ0oafVLibDQbmz5oIqGgU7IU8bzpgkZb3edRO6srZ
+jxVQt79kqV56Qigl8fDjGcmgXQGViU4acfa8fEq4O9LzBnm3C8waI7y3/4GRexqT
+Mz9iFUETutQ9ORcDiZ6aA1Up8cJiGzOiBBN74b+fHN8AT+7oG+Rh37THHKX8jj2F
+M1y39mVNdWIFqrDnd7oS+Ci/POF7xrL2V8/vOJRv5bhxacCQAALozYZkT4S0gQqw
+7NCS9fjnnZVDbWtIfWSjUQIDAQABo4ICSTCCAkUwDgYDVR0PAQH/BAQDAgWgMB0G
+A1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1Ud
+DgQWBBTbKEidVTSeRcMDqpla9th+0CQV8DAfBgNVHSMEGDAWgBQULrMXt1hWy65Q
+CUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUHMAGGFWh0dHA6Ly9y
+My5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3IzLmkubGVuY3Iub3Jn
+LzAZBgNVHREEEjAQgg5zbWJjLWNheWQuc2hvcDBMBgNVHSAERTBDMAgGBmeBDAEC
+ATA3BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNl
+bmNyeXB0Lm9yZzCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2AEHIyrHfIkZKEMah
+OglCh15OMYsbA+vrS8do8JBilgb2AAABfyc8OC4AAAQDAEcwRQIgfgvlPMtEDZD2
+QtIlRBn9SAjBW4ssgzjzJfMtJHD4HCQCIQDcXFS92upLjzVQk/U88DzB/CKh5cLp
+OPC99OzI9uSErQB2AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAAB
+fyc8OEgAAAQDAEcwRQIhANgQCxLtFuZ/llHWVLvH3hKKS7xYNExuObXS6356FvR0
+AiA8FDGS6irVQ53RVA8VhYSBHx76p9yb9RUvMORckObKgjANBgkqhkiG9w0BAQsF
+AAOCAQEAO510QR4ZfGoRWu63nohe3HRGaKgfaE0vLOQf5x3gwTWf/tv3UejNrTZI
+AqiZQv5xpWL6FPbgbaz5ebLfDJ1uuEiZyhdwY4UigE9X1Ei9zd5Pxr7eHZcunHEk
+riNOZn1TquaPAgo9PNkUEWopaS8P8bTM92RT9Yy2jtMEzqcrMLaq+hBKAadDRiNU
+73Kop72BPQS70Yz/vfSQf+DumvhtsRHpjcT9yp94sXm4od3E3W5St9BfDfJUAEO6
+8jBC/fa6Wl1hLM51cKvJpNyvrz4i39kbtaMOgcPLaCCpYnfyw67oZLXxoDFzmTal
+Z3tWy6OcjjhCUdCAsuP7L6qA6Ev8hw==
+-----END CERTIFICATE-----
+subject=CN = smbc-cayd.shop
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4574 bytes and written 388 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

@@ -1,0 +1,94 @@
+http://alfasoldas.com.br/js/us/delta.com/index.php
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = alfasoldas.com.br
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF/DCCBOSgAwIBAgISA8g7HRkf6e0DuhBU/NBwP5B0MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA0MTEwNjM1MDJaFw0x
+OTA3MTAwNjM1MDJaMBwxGjAYBgNVBAMTEWFsZmFzb2xkYXMuY29tLmJyMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAusnpLRmh3jTN+ztNOsVX6Nn3W1fP
+IdpeirP3pAGCq6ZCxLFSfM+x9HAPP6GZ4spS4oN0t2mJANFa5cJxdGsVmoFqSo9Y
+V8OMg4+5dFnINIPX6bX6pxfosTcGs2YCssiZ1rVEVdatUZ0tUjuVKxSoTLtQ6lpz
+fPvgCfI9tc6dgO+LT/c/KBAPonlzELdh91YElIpPPGTPedl3v1jM6wawf7nLRvw8
+RH69kDk8NXebNyUDV2C2M7XvKOgkP7cDdF30G+F1ZAUePp0FgYmWa8MG5tp7yWde
+ae1YMujM/d7tmIrqIm48AES49T7/VAfegbDjdXPMRa3pBxrBu9J+3XtcZwIDAQAB
+o4IDCDCCAwQwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQZWGi/xtsDB9KL1oUWbkiI
+npat7zAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMIG9BgNVHREEgbUwgbKCEWFsZmFzb2xkYXMuY29tLmJygh5hdXRvZGlz
+Y292ZXIuYWxmYXNvbGRhcy5jb20uYnKCGGNwYW5lbC5hbGZhc29sZGFzLmNvbS5i
+coIWbWFpbC5hbGZhc29sZGFzLmNvbS5icoIZd2ViZGlzay5hbGZhc29sZGFzLmNv
+bS5icoIZd2VibWFpbC5hbGZhc29sZGFzLmNvbS5icoIVd3d3LmFsZmFzb2xkYXMu
+Y29tLmJyMEwGA1UdIARFMEMwCAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYI
+KwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2VuY3J5cHQub3JnMIIBBAYKKwYBBAHW
+eQIEAgSB9QSB8gDwAHYA4mlLribo6UAJ6IYbtjuD1D7n/nSI+6SPKJMBnd3x2/4A
+AAFqC1JHAgAABAMARzBFAiAPsWxWiCtAZ597dDsl06TomNWMkj3rhc1xjuDLfgNO
+WQIhAORWOE+IfuSp/eNwWdAp9L9VErAmFow35fJktmJuZKlqAHYAY/Lbzeg7zCzP
+C3KEJ1drM6SNYXePvXWmOLHHaFRL2I0AAAFqC1JHegAABAMARzBFAiBPoJ0jtSlz
+XVLte+wN2orzSTaJPh/n7a7dhihP3fzBtgIhAKp87df1pZm7fm1GIkEd83ZoYGJQ
+j3cbIs2ojqr1DFX2MA0GCSqGSIb3DQEBCwUAA4IBAQB18ObktzB4BszHINLPdBmY
+wbUa8lekX/S58KjC9cr7agl0GFA/Np975GqLIob0wrwzx7PqER4MHgodor/LrhU7
+pmea6AJjujsWEM2dyctWcbFXR/eBt0ExOwuHXFRJx+K/jfIoUvn51tQh4CCGkK2S
+ZsjTOP/gxq7b1e2TQh/rQIaRePxAHh7WC0pDkF+bosfmnEoz8KNRowKAerP0NOZS
+ZralYTsJ1KDgw1Or4Kzgkd6Vp5tv8QBg2/yKMz9Waim90cHvERYFVtLJl4TTeP0J
+TNjqBAkzsSlAjpZH3Nd3g571O0FhwYwuL4AlOUrU0Elfmhzj/kZOsb6bY00SnPUt
+-----END CERTIFICATE-----
+subject=CN = alfasoldas.com.br
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3419 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: DFFF9BD655C4966403472F123F9128D8F8017D39C5F7EADE4CE46AFB4A686484
+    Session-ID-ctx: 
+    Master-Key: 2501364A9DAC7A05DCEBF52FE691A28CC4729065C03B2FF0AEE5A6CD6C3270ADD912BC5FF9F0CA1023B6344F454A5651
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - ab 3a ed c4 97 2a 7b ee-b1 ee db 6c f0 3b 29 42   .:...*{....l.;)B
+    0010 - b9 cf 81 20 95 eb 1b 85-c8 da 86 0d 56 41 7c 3b   ... ........VA|;
+    0020 - 0e 97 36 7a 74 3b 04 36-33 d4 89 1f 3e 4b 55 5e   ..6zt;.63...>KU^
+    0030 - 6f 21 d5 ea b0 21 d8 bc-c8 d2 a9 13 b2 dd 54 9e   o!...!........T.
+    0040 - 5f bc a6 df d8 e7 1e df-09 2a 9e f5 cf 62 7f d5   _........*...b..
+    0050 - 96 f0 c6 7b 63 51 27 24-53 09 fb e9 73 7f 2f 44   ...{cQ'$S...s./D
+    0060 - a7 3c 81 86 92 11 f2 6c-97 fe 7b dc 3c 90 68 f4   .<.....l..{.<.h.
+    0070 - 14 4d 5f 88 e2 01 74 92-a9 81 ee 41 b8 c4 b6 af   .M_...t....A....
+    0080 - 79 17 7e fb 5c 90 94 94-0d c5 5b 2e 92 e0 1e ba   y.~.\.....[.....
+    0090 - 4a 82 1f 39 57 9e 0d 07-28 0c 16 9b d1 e0 e3 53   J..9W...(......S
+    00a0 - 25 49 43 a0 9e a8 e4 7a-cd b7 46 c9 1b a7 8f 7f   %IC....z..F.....
+    00b0 - 5d ec e3 29 dd 15 35 e6-f8 d4 e1 44 e6 b0 3b c6   ]..)..5....D..;.
+    00c0 - 42 50 81 6a d1 2b c2 d8-2a 64 06 e3 d8 d2 8d 8f   BP.j.+..*d......
+
+    Start Time: 1558789224
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

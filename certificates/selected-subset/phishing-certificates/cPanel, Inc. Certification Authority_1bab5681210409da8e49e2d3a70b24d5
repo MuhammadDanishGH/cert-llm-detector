@@ -1,0 +1,75 @@
+http://greenachers.clanservers.com/
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = greenachers.clanservers.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG9jCCBd6gAwIBAgIQG6tWgSEECdqOSeLTpwsk1TANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzELMAkGA1UECBMCVFgxEDAOBgNVBAcTB0hvdXN0b24xFTAT
+BgNVBAoTDGNQYW5lbCwgSW5jLjEtMCsGA1UEAxMkY1BhbmVsLCBJbmMuIENlcnRp
+ZmljYXRpb24gQXV0aG9yaXR5MB4XDTIxMDYwMTAwMDAwMFoXDTIxMDgzMDIzNTk1
+OVowJjEkMCIGA1UEAxMbZ3JlZW5hY2hlcnMuY2xhbnNlcnZlcnMuY29tMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsB7EB8XWo+DlkX00Q29PPhBCKVSU
+9+jR8kdaNwA83Wj8AMDWgf23IJPqYPnLFY69dbp6iyX7J1YUt7KLJntu6sIk0qrO
+euBtrs7HMQmvyjFLV7wMNafQ+1FMlZ2XNg9N6VP4Gfrsf6SdJuaaH9SKHnX0kIJd
+GSjBcvBKHIhu/G2XhcmYHoN0s2Adceh9jkrVqrQFPRZkLul3iLgX7nh3DPa2qcTL
+0o8qhbxKbzkHp7xnPESnHayZVZrZB1p9mSqMkcq45uzrxlmI15FNxP3fHXr/7Aa0
+vFbxDYCCH2K4Dh53TPHi3yGJh9SIPGBaOclyxYp8VXXSu+lo1skFSI6+MwIDAQAB
+o4ID0jCCA84wHwYDVR0jBBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0O
+BBYEFGh8SCkJxeOPqS7imCl7ksVOg2CEMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMB
+Af8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBA
+MDQGCysGAQQBsjEBAgI0MCUwIwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5j
+b20vQ1BTMAgGBmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNv
+bW9kb2NhLmNvbS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9
+BggrBgEFBQcBAQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2Eu
+Y29tL2NQYW5lbEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUF
+BzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wggEFBgorBgEEAdZ5AgQCBIH2
+BIHzAPEAdgB9PvL4j/+IVWgkwsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXnG0iRD
+AAAEAwBHMEUCIQDCUamnoasV/QKMsSFrIXuIIhvXHPdcwQ/gKWq/5iBOkQIgJAq1
+kK3vzqGaQk7Xe+UQLO1MfjWSJ6gjiGRIUJwQK68AdwBElGUusO7Or8RAB9io/ijA
+2uaCvtjLMbU/0zOWtbaBqAAAAXnG0iQCAAAEAwBIMEYCIQDw+KJytccTZSeFs6zS
+mClIGSyyT0k/2cTVXA+CquNeuwIhAJiDFAtJqzXAn2DSTdSOlRWuodaFJbra0Oc9
+rQ1AXFwbMIIBLAYDVR0RBIIBIzCCAR+CG2dyZWVuYWNoZXJzLmNsYW5zZXJ2ZXJz
+LmNvbYIiY3BhbmVsLmdyZWVuYWNoZXJzLmNsYW5zZXJ2ZXJzLmNvbYInY3BjYWxl
+bmRhcnMuZ3JlZW5hY2hlcnMuY2xhbnNlcnZlcnMuY29tgiZjcGNvbnRhY3RzLmdy
+ZWVuYWNoZXJzLmNsYW5zZXJ2ZXJzLmNvbYIgbWFpbC5ncmVlbmFjaGVycy5jbGFu
+c2VydmVycy5jb22CI3dlYmRpc2suZ3JlZW5hY2hlcnMuY2xhbnNlcnZlcnMuY29t
+giN3ZWJtYWlsLmdyZWVuYWNoZXJzLmNsYW5zZXJ2ZXJzLmNvbYIfd3d3LmdyZWVu
+YWNoZXJzLmNsYW5zZXJ2ZXJzLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAEbcQDnjH
+YUzmNSZgkDuoix1ImzUkplu5na7CkzzGCGZu1SGYv7mLzykJsXjSPY6+6HQ3NREV
+iqUL/ByfhkMiRPkT5cfVE3XB6+dsaao765PmJypAEpWuWwzjVQCGaoxsnc7RDpmP
+sWvi2h29KlGtdwv1w0/wOP4+96RCXg1oVdycWa0l49LdoAKAdf7vxwkSI0D3ypEG
+GBCg05pVcN61/NaLkbFWOmPvgpQr2hwYhxvlggRd3EdktDzcC2NB/yv/G2yKNCa1
+kxBbluqBiXnSA6sUCoSY7Tl1WcNm46WsEbYRwnHKBSZyTL7bpS5TNCbjFwg8JelF
+AneKVCxsCzm1xA==
+-----END CERTIFICATE-----
+subject=CN = greenachers.clanservers.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5291 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

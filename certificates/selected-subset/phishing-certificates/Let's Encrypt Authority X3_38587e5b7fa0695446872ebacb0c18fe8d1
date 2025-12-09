@@ -1,0 +1,76 @@
+https://bestchange24.site
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bestchange24.site
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFcTCCBFmgAwIBAgISA4WH5bf6BpVEaHLrrLDBj+jRMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA2MDgwMTQwMjBaFw0x
+OTA5MDYwMTQwMjBaMBwxGjAYBgNVBAMTEWJlc3RjaGFuZ2UyNC5zaXRlMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvy4HAFi9P2gQi+xGpUi/gyhyiIZG
+eirwS4PAp2Veq8PnEndoRVU8QCthTcqxM4f5FnXDZNVbQGLdFgfaFz3w5TVBkjqt
+d1hISI9TqKyRiUYip/w0tQU209MM9Hu3eo/0UcKuyBNUDIxvB9K5onoSiQ3LJuDC
+zyik0de60RcMtnH/QPTYjubaEj3KHZ07M4e1+mMTKtoOaiLPLy1ZrqhtVC2PyXyU
+x+6f9kwdk6pNxI9VZLDpd4tQO4/t63R5Fz3TYJ2LK5fsA3OZw83HSTIY/4LG+tFC
+JFgidetxLNY24Zgz0LtEUSyHJBCTEn/psEhLqLIIbxKWo6jpJ4w884Q2IQIDAQAB
+o4ICfTCCAnkwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQBMTSICOyfvBdphN+ddj0m
+PuIVrjAfBgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcB
+AQRjMGEwLgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlw
+dC5vcmcwLwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlw
+dC5vcmcvMDMGA1UdEQQsMCqCEWJlc3RjaGFuZ2UyNC5zaXRlghV3d3cuYmVzdGNo
+YW5nZTI0LnNpdGUwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC3xMBAQEw
+KDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcwggEEBgor
+BgEEAdZ5AgQCBIH1BIHyAPAAdgDiaUuuJujpQAnohhu2O4PUPuf+dIj7pI8okwGd
+3fHb/gAAAWs09U+OAAAEAwBHMEUCIDi+5rJ36F9HutxLR2yfhOtYGezSO+RI54DJ
+Sgbq4H8lAiEA4HvhA4pZDf7cq+Khkmg+I/aPG7qfPFrIwr6S/tAVPJ4AdgApPFGW
+VMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAWs09VFzAAAEAwBHMEUCID4O
+xYYbHjpK44AGg5lMGVcdFf9crnlnIZB8tA+DQrDNAiEApNyWLQHbQ5IEsYVtxq9u
+afrCyJr/j6Z7BDRtQ9UTkXgwDQYJKoZIhvcNAQELBQADggEBAIcaX+VwR8YaKhMt
+wTtOh0E6msDVjsG53z3g4KDUKzoBHwRrwHNniJ5gUm/pt9tEuvrgYT6n3vO3cwwU
++ljnH/GUZzhAgzSd1ztEyXRtfQ7OwPsmjA8oswoxBZJl5HQmwagyEtBFeCn7o29R
+0D2eiwa2jKobjPj0YzGlGqFjRlEEWDoZn3JNSbB5zgucORDI8JeXuI07ZtbSKsLi
+tUGR6IkrmBSc23ls5Gf7i5nsaVVzK6caYmHR6CVaRh6HsEC8Cqzk2eN/rxa8vSsJ
+dGg6qQI61R4xqNcEhPqH0rTndmgnITNRAx6EbFiIW0zGgp6NXiJ3iUPwCyVWv/A+
+vDzY1gQ=
+-----END CERTIFICATE-----
+subject=CN = bestchange24.site
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3085 bytes and written 455 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 152D94DC2DD9524576326A0DA9B3BE4D3AE1590E3DF164F321C6E875B22775D8
+    Session-ID-ctx: 
+    Master-Key: A8B7233F4355A7CF0352D580206AC249786D6220FB95EE1F6001FAE5F7572B52140FA543E7BBB41FC56A62DF40F5A3A6
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1559998838
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

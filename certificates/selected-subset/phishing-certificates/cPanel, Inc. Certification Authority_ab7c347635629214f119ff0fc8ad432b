@@ -1,0 +1,71 @@
+https://aifit.io/wp-admin/document/folder/file/Achcopy/Owa/?email=
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = aifit.io
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = GB, ST = Greater Manchester, L = Salford, O = Comodo CA Limited, CN = AAA Certificate Services
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGSDCCBTCgAwIBAgIRAKt8NHY1YpIU8Rn/D8itQyswDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0yMTA4MTcwMDAwMDBaFw0yMTExMTUyMzU5
+NTlaMBMxETAPBgNVBAMTCGFpZml0LmlvMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAurzD4GueEGJQyESKHD3H9mhUqjb5Yh6sO5Ka3d02K5ZlSQCrG25R
+VSXUa4LXiXpqGhUYA4nzyYpQPPN1I3chMOyz9pPGLFjRsboLpEpE8TnS4fdhGZjb
+xrv03+nuRIv6sNVB/axUiA2tKeIELd66+lZPwcUsHfyPVqzwtzfS4j8dMxIpTYIh
+HoVuk6meOq47VhVjsgoncgnv9bryuOc5mpQiQ3Ic3qGTmr+TJZWTQnMKpnzUlnID
+LESt/8CYyeEVkKE+XBB0dNU+v40u3emf+m4YVnViGzh9Z/ZmLv02ZJYK02UwqfVN
+i4fUZg9d2oqfGODnDshyiLZkxIhixVXQ0wIDAQABo4IDNjCCAzIwHwYDVR0jBBgw
+FoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFA3NVh+RtVYHvhII8P8+
+FZgL+7oBMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQG
+CCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHSAEQjBAMDQGCysGAQQBsjEBAgI0MCUw
+IwYIKwYBBQUHAgEWF2h0dHBzOi8vc2VjdGlnby5jb20vQ1BTMAgGBmeBDAECATBM
+BgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNvbS9jUGFuZWxJ
+bmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcBAQRxMG8wRwYI
+KwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5lbEluY0NlcnRp
+ZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5j
+b21vZG9jYS5jb20wggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgB9PvL4j/+IVWgk
+wsDKnlKJeSvFDngJfy5ql2iZfiLw1wAAAXtUQdywAAAEAwBHMEUCIDL32xBtnLVK
+OKQEIH98qZ6DEAGGSw/MCvZqavspe2YXAiEAkYiMTVaHgivhfMkuzz6ks10FsY2F
+2irVHUa76lc+ao4AdgBElGUusO7Or8RAB9io/ijA2uaCvtjLMbU/0zOWtbaBqAAA
+AXtUQd1wAAAEAwBHMEUCIH9RHFmBoaNZOfIY3kerzFrD3c/a4+yDuZht1U5B3FXl
+AiEAkG+z3Usxdut9WSon/2r1z2FfeQ5KoQ26L/wgOfv7w48wgZIGA1UdEQSBijCB
+h4IIYWlmaXQuaW+CD2NwYW5lbC5haWZpdC5pb4IUY3BjYWxlbmRhcnMuYWlmaXQu
+aW+CE2NwY29udGFjdHMuYWlmaXQuaW+CDW1haWwuYWlmaXQuaW+CEHdlYmRpc2su
+YWlmaXQuaW+CEHdlYm1haWwuYWlmaXQuaW+CDHd3dy5haWZpdC5pbzANBgkqhkiG
+9w0BAQsFAAOCAQEAQDpsA1bdaU23auje588U16ae8tXAHSJ/vJwAkWTyc7031Taa
+VYa6AVkRyEbAtd/pa6adM3ANv4ZqVIHwhnRwWF5U6bus3dGOjyeJgbUxy6PS3M/J
+swl5MQaTerdx9iDfM4LHiOV9g4Ii41Yyf4d5lUbErjQT6zbcOFBxmx4mC73EbYTy
+3rsYdwLhTAi0sMlizgUnf5yahaLUBHkwFMsRQOH8bcxI1o0MripPjrGtPkoEEa2Q
+vpIakHZoXTuEm8ReDXnuBKG9RIXbbe2wuJrQt84Wg/oyaIbTbzLif5mph1UDk0Om
+yVkW5cSrdLPDf2NZ7u3T5L1mF9ShbaRZgc8VlA==
+-----END CERTIFICATE-----
+subject=CN = aifit.io
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5117 bytes and written 390 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

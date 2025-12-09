@@ -1,0 +1,67 @@
+https://www.empresa.lnterbank.banacceso.com/Login
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = www.empresa.lnterbank.banacceso.com
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFbjCCBFagAwIBAgISBI0Hd527UwjIW3tRIpU2oUnuMA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTEyMTExMzA4MjJaFw0yMjAzMTExMzA4MjFaMC4xLDAqBgNVBAMT
+I3d3dy5lbXByZXNhLmxudGVyYmFuay5iYW5hY2Nlc28uY29tMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAte48T2tIQ8ilcUEEkhZVHY09gnbOTa268aMr
+uM99RM4hC9dUKtltxugS5XZaVLrKxxNneKlYmnvtKd6H4CLlFvik16Ne8Ix9zzYF
+2waUhGgd/hSL+N7eCUR70fQUnDwidYKLC1XX2HvcDAfluWL599AVbf/DcHqEuKBp
+pLf4aOMkL35a/OOpFOa/4Gdj2J17YN0bR1IW4dEh9SPZbwQU7zwOzD+B1yyQs8+2
+0p475PpP+1qfxl/2+YTdjz03WlaItKQXAzLIEA09SB9MGFCzaOy4U62L3sWmDCKQ
+/Cj6N78MIs8427BGSx/U4MwRF3cduhAZN4AA0QaVUHOxy2MSRQIDAQABo4ICgDCC
+AnwwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBReDk07JPnAhTgIwAdkY0VfAUnuPDAf
+BgNVHSMEGDAWgBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcw
+IQYIKwYBBQUHMAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYW
+aHR0cDovL3IzLmkubGVuY3Iub3JnLzBPBgNVHREESDBGgh9lbXByZXNhLmxudGVy
+YmFuay5iYW5hY2Nlc28uY29tgiN3d3cuZW1wcmVzYS5sbnRlcmJhbmsuYmFuYWNj
+ZXNvLmNvbTBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYG
+CCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB
+1nkCBAIEgfYEgfMA8QB2AEHIyrHfIkZKEMahOglCh15OMYsbA+vrS8do8JBilgb2
+AAABfanSxk0AAAQDAEcwRQIhANELS9PffnQFydeXwoPA45L4Q0eD9jr+3cRISUf2
+bj5UAiAusG61nJs0dc1ZopSRfRo2n+rvqzg9OMQ44sSqepieHQB3ACl5vvCeOTkh
+8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfanSxjYAAAQDAEgwRgIhAOqcYU4/
+4i0zW/21fNBDSjFojVHrcOsoL1HYfj635MJiAiEA5iOVdsu9oyUmgErn9hypGe2+
+eaqteOhoRPvWhPlgYp8wDQYJKoZIhvcNAQELBQADggEBAKxPJUTgsGJYuQXXQhkS
+VrjTBiUsa/tO10lSE7aQpk0++ZRSDkITXS48st/Axzgs7YPTu2GEWSj3cU9DnBQ5
+l2mKIDswR3YWB1bF29dAo7ylo+4dMCr0gRx9eJNGTEXRPGl+s5D/wy3Y+70XP3Zl
+GeZPrNURax1bOptkUp2j2WZmdCY95JOCYAdUvBYet8vKB0a+pJnVQVknHstp6aMo
+xiLthn4X0u/veIV9UlYajVHFEXCQEN3COKnI0/lJ8cya8rFHFYtYLq89vYwFv8b7
+asZmaqpFnlWQKqphDOqsn3IcT0RmVmJEzGJX82dkajgqEbq/tNd4q+mJhTCxi6+c
+OI8=
+-----END CERTIFICATE-----
+subject=CN = www.empresa.lnterbank.banacceso.com
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4650 bytes and written 409 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

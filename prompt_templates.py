@@ -15,7 +15,7 @@ class PromptTemplates:
 
 {certificates}
 
-Respond with a JSON array (no markdown, no code blocks):
+Your output MUST BE an array of JSON objects like below. Do not output your thinking, reasoning, or any text outside the JSON array:
 [
   {{"id": 0, "label": "phishing" or "benign", "confidence": 0.0-1.0, "reasoning": "brief explanation", "red_flags": ["flag1", "flag2"]}},
   {{"id": 1, "label": "phishing" or "benign", "confidence": 0.0-1.0, "reasoning": "brief explanation", "red_flags": []}},
@@ -37,7 +37,8 @@ IMPORTANT: Return exactly {count} results in the same order as input."""
         """
         certs_text = ""
         for idx, content in cert_data_list:
-            certs_text += f"\n{'='*60}\nCERTIFICATE ID: {idx}\n{'='*60}\n{content}\n"
+            # certs_text += f"\n{'='*60}\nCERTIFICATE ID: {idx}\n{'='*60}\n{content}\n"
+            certs_text += f"\nCERTIFICATE ID: {idx}\nContent: {content}\n"
         
         return PromptTemplates.BATCH_PROMPT.format(
             count=len(cert_data_list),

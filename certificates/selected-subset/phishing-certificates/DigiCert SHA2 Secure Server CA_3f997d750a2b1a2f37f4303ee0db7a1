@@ -1,0 +1,83 @@
+https://www.ecovadis-surveys.com/register/account-details
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:C = FR, L = Paris, O = EcoVadis SAS, CN = *.ecovadis-surveys.com
+   i:C = US, O = DigiCert Inc, CN = DigiCert SHA2 Secure Server CA
+ 1 s:C = US, O = DigiCert Inc, CN = DigiCert SHA2 Secure Server CA
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGvjCCBaagAwIBAgIQA/mX11CisaLzf0MD7g23oTANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTkxMTEzMDAwMDAwWhcN
+MjExMTE3MTIwMDAwWjBVMQswCQYDVQQGEwJGUjEOMAwGA1UEBxMFUGFyaXMxFTAT
+BgNVBAoTDEVjb1ZhZGlzIFNBUzEfMB0GA1UEAwwWKi5lY292YWRpcy1zdXJ2ZXlz
+LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM8ROLCrdSLN9uuB
++0CNiC7djVFWfYjA4QilJLT9lM5Wbmvf3sJWvBqpn8llEHtpI9lq4KehRCTkbsnI
+3oPkXvvlfpy4/RhMZQ3Xc7GqpMw9WrTcii/SB2IZBiZTY8Fzuse+TIViSO6voh2Q
+uUaPJmeH3XtaAO9ce9vskl7YCKoQe3IdVzW6CPSotFW91WqdnbNlhlAQz0xTu9AF
+BXIK+a4jw2KqdLvA7md5p8DMcCylyMpNTWOmCJL0zR5ezk7qvvrGeAOBFJpqUMp0
+gqIes8mZQJFGEb/BubbbFUQjxNGHi0lGZWjGrgrtf7v4AdfBa6E1B2DlDXCixrcy
+OExq4wsCAwEAAaOCA5AwggOMMB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjnjUY4tCzh
+xtniMB0GA1UdDgQWBBTtLNFbYBV68FVHWZyjdxZQ6j7SIzBRBgNVHREESjBIghYq
+LmVjb3ZhZGlzLXN1cnZleXMuY29tghRlY292YWRpcy1zdXJ2ZXlzLmNvbYIYd3d3
+LmVjb3ZhZGlzLXN1cnZleXMuY29tMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAU
+BggrBgEFBQcDAQYIKwYBBQUHAwIwawYDVR0fBGQwYjAvoC2gK4YpaHR0cDovL2Ny
+bDMuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nNi5jcmwwL6AtoCuGKWh0dHA6Ly9j
+cmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzYuY3JsMEwGA1UdIARFMEMwNwYJ
+YIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNv
+bS9DUFMwCAYGZ4EMAQICMHwGCCsGAQUFBwEBBHAwbjAkBggrBgEFBQcwAYYYaHR0
+cDovL29jc3AuZGlnaWNlcnQuY29tMEYGCCsGAQUFBzAChjpodHRwOi8vY2FjZXJ0
+cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEyU2VjdXJlU2VydmVyQ0EuY3J0MAwG
+A1UdEwEB/wQCMAAwggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB2AO5Lvbd1zmC6
+4UJpH6vhnmajD35fsHLYgwDEe4l6qP3LAAABbmOrWcwAAAQDAEcwRQIgbmFnkTpU
+cKXZgGi9FitcdCAjkia9oRRSRzYB1tj3UsICIQDYe6P61nZ816GRf5qo/SyvT13a
+0fJ3Gzheva0nJwCJEAB3AId1v+dZfPiMQ5lfvfNu/1aNR1Y2/0q1YMG06v9eoIMP
+AAABbmOrWfsAAAQDAEgwRgIhAOw9XxV9HZcwBnC0K7bLSekVZ6UDqNgC6uoCoo/r
+YjbTAiEAs5/wS8r3KU26yG1myyq8nTI2GC5wK/f/ksO2Nk7nR4gAdgBElGUusO7O
+r8RAB9io/ijA2uaCvtjLMbU/0zOWtbaBqAAAAW5jq1l2AAAEAwBHMEUCIEK+WI0t
+i7oDGSCCBhPkN4oU91dU61+Uhqa+2XnoVS7DAiEAxGU4OVOJeJ6DJKZFlxIaBCOY
+L+7m58O/g5gjzWQlfKYwDQYJKoZIhvcNAQELBQADggEBAKi4mUTLLgJQyH5o9Ldu
+Tt8tL4eGogHOR9gvgnTwn9iUksGFUyQm12C6a3OIOI5QEQniB3HhIarpwe6QB3NG
+3LEDyktR7PKW+6xOLV5d+gKMLhgYEGKdxEIcSYmYROf/1mpl4O3TEU0cHzSfj2AO
+61fpEEzCffaVbmUPrOyrXhKUu/xiEXep+K/nv9aejXr2n941LMv8I5VmXOKi3pHw
+OkPxdWPqw2Q9wk6ZlQIC+sgaomxK8Uw6YaK+lw/h0CrAUOEcNqSyLutXaj2EiZj1
+YpZeFw9AAFRH9N63wqex4hgvi+HSruef4wD4UrhhRXcdM2lGOOx6C/OPwcQtwaPJ
+SyU=
+-----END CERTIFICATE-----
+subject=C = FR, L = Paris, O = EcoVadis SAS, CN = *.ecovadis-surveys.com
+
+issuer=C = US, O = DigiCert Inc, CN = DigiCert SHA2 Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3492 bytes and written 459 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-SHA256
+    Session-ID: DE0A0000B6F50F6B203AC926DEE19ED530B6BA900FF52D93F71A3AA893A84183
+    Session-ID-ctx: 
+    Master-Key: D9C10CE19C7835D5D0EB1F3491019DD6D70AC21DD69E6DD38C887A26A4F5C27991E0E2ED3960368E6F2C1B9527CB3C06
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1631880251
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---

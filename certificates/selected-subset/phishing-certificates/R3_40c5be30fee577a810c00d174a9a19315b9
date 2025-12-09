@@ -1,0 +1,66 @@
+https://olx-igmr.pl-id58610892.xyz
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = olx-igmr.pl-id58610892.xyz
+   i:C = US, O = Let's Encrypt, CN = R3
+ 1 s:C = US, O = Let's Encrypt, CN = R3
+   i:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+ 2 s:C = US, O = Internet Security Research Group, CN = ISRG Root X1
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFWzCCBEOgAwIBAgISBAxb4w/uV3qBDADRdKmhkxW5MA0GCSqGSIb3DQEBCwUA
+MDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD
+EwJSMzAeFw0yMTA5MzAxNjAyNTFaFw0yMTEyMjkxNjAyNTBaMCUxIzAhBgNVBAMT
+Gm9seC1pZ21yLnBsLWlkNTg2MTA4OTIueHl6MIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA5pg2gcn4MXc9SfbMJYUeGKe0GZzqqVt9ReWrIoReTpEiLLkR
+txzncLBYwxmCZNO0sRIYzJFVGZOvvFHJMxqsGpAWn3K3UX7by0/QBPr39PvsVXsW
+S18vDccXIUGdFIPiqLfOW4uYpYfK+Sgc39NwWTYDOaCQaIZcpl/7puiH82pmlLtt
+gjZ8P0SH0IoaDfkIzGwM3nXKtGfujQtVsqupyIEetlZH7LBwDUFrXVYNeFs4hpmK
+7TcdHO0BORcuud+3O5mTQR/U7PSBKqVpTq9hRCCge/VZfBgUb+gkaUQITbPZyIsH
+Ox2VU2IleJF3KE61tsM/5rUkFoLnyI5ycls8JQIDAQABo4ICdjCCAnIwDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAMBgNVHRMB
+Af8EAjAAMB0GA1UdDgQWBBRjASH/ve24EbMKJJ/8XO+/TY8OCDAfBgNVHSMEGDAW
+gBQULrMXt1hWy65QCUDmH6+dixTCxjBVBggrBgEFBQcBAQRJMEcwIQYIKwYBBQUH
+MAGGFWh0dHA6Ly9yMy5vLmxlbmNyLm9yZzAiBggrBgEFBQcwAoYWaHR0cDovL3Iz
+LmkubGVuY3Iub3JnLzBFBgNVHREEPjA8ghpvbHgtaWdtci5wbC1pZDU4NjEwODky
+Lnh5eoIed3d3Lm9seC1pZ21yLnBsLWlkNTg2MTA4OTIueHl6MEwGA1UdIARFMEMw
+CAYGZ4EMAQIBMDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9j
+cHMubGV0c2VuY3J5cHQub3JnMIIBBQYKKwYBBAHWeQIEAgSB9gSB8wDxAHYA9lyU
+L9F3MCIUVBgIMJRWjuNNExkzv98MLyALzE7xZOMAAAF8N6ikKAAABAMARzBFAiBO
+5ZQ4hQ2KVPiut8V30lGuEa07zmB2Ic7K+fyCuA3rDwIhAIvbquk+R9kJDXk4bEEO
+CYCGku3JYuOLP8+/MtkpvTQdAHcAXNxDkv7mq0VEsV6a1FbmEDf71fpH3KFzlLJe
+5vbHDsoAAAF8N6imiwAABAMASDBGAiEAwvh8KCBaWaugEgoKPKr/TwuhMt/rKZLb
+8YxqNuzo2nUCIQCgg+9rqI465E/rpyMnUYzmNIFUOODy4UeOW+oqE0dpNjANBgkq
+hkiG9w0BAQsFAAOCAQEAWXKfXhI60l/fRW+xgPBef6VpOpYMqRzdeJMfB3vcdTPU
+hEhAgromZvbvz75Gk4i0BQ6YHb5qDO2frBZCQuymNPVMaXXKZw+1fk9jKpRPsiUt
+D07OCjVshIGYdjUjiEEB8d/PuRkLGQBLFtbld1Srifp+7xaBc/ILcgc3SN4NYNGw
+cJIc8gd9kszFSGui8gEen486yTDx6JNlE9EkLgFx3B7Mj9I37QkoeATpFoD0PunZ
+a//BstzeMwEBg2I4bYzcxUM50zzK2EyKCYsD3Me4WnmXkxHr+RkDxxRlfRwtJ+Wy
+UhIGRDgsMBoJvhSxY74o4ViX4tIW0UKal57WXg2bEw==
+-----END CERTIFICATE-----
+subject=CN = olx-igmr.pl-id58610892.xyz
+
+issuer=C = US, O = Let's Encrypt, CN = R3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4615 bytes and written 384 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_128_GCM_SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---

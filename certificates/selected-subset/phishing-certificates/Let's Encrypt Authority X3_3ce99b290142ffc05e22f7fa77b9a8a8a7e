@@ -1,0 +1,91 @@
+https://bernex-accueille.ch/-/fr-bnp/usn/acces-cr/content/fr/national/npc/cg/bnp/056f8
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = bernex-accueille.ch
+   i:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+ 1 s:C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+   i:O = Digital Signature Trust Co., CN = DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFeDCCBGCgAwIBAgISA86ZspAUL/wF4i9/p3uaiop+MA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTEwMDEyMDU4MjBaFw0x
+OTEyMzAyMDU4MjBaMB4xHDAaBgNVBAMTE2Jlcm5leC1hY2N1ZWlsbGUuY2gwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDKyVYkC59Ubiy17eHAEaXRZ4ji
+KCP7szRz5wztBaQ28Url5xBrdooU/wJIwz9tezK9yFJN19mtdXeAiNtspw1F2fHG
+M1Aua/BhXKv3afcZPci719o1NB3H5SeTwf6g3ks/45zsQsLFCK2ovMn1rNQh6UQJ
+UupuJSWJC/vu9kpFKKrEVLN9cneU0jXq/FLCaK+chQ9RScPHhsn/SMYJ6s0EDNM7
+BnHY8gdi+le8q+xcVFcqpTMrz4sHypQTiiTd87fFW9Ae23FjNnGaywJQy0xjdtgN
+9N1c4SL8hQL1K9ajp5kfogVmABtzRykxxn8lrf2GyrUpTyJ6Vym5D1XSyfYdAgMB
+AAGjggKCMIICfjAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEG
+CCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFLfQpZpSxMPEGsLsyQgU
++g8uhxg1MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUF
+BwEBBGMwYTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNy
+eXB0Lm9yZy8wNwYDVR0RBDAwLoITYmVybmV4LWFjY3VlaWxsZS5jaIIXd3d3LmJl
+cm5leC1hY2N1ZWlsbGUuY2gwTAYDVR0gBEUwQzAIBgZngQwBAgEwNwYLKwYBBAGC
+3xMBAQEwKDAmBggrBgEFBQcCARYaaHR0cDovL2Nwcy5sZXRzZW5jcnlwdC5vcmcw
+ggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdgDiaUuuJujpQAnohhu2O4PUPuf+dIj7
+pI8okwGd3fHb/gAAAW2JVNNnAAAEAwBHMEUCIDhRW5rVFDBJL1WZzP0tkzic3NsG
+CgA9WlGrXln3c6tOAiEA90FcuxbYBYa655n36k7epRIUG8DsypbvXWn+k50ldRsA
+dwApPFGWVMg5ZbqqUPxYB9S3b79Yeily3KTDDPTlRUf0eAAAAW2JVNNdAAAEAwBI
+MEYCIQDD/WDuwNyKWuIYXVewQlmk4UqHL+/BqXdXiMK5AkJqFAIhAINR0eFbD+dq
+DUVN7rnujUp+skuIkygWmRDyy918C9PrMA0GCSqGSIb3DQEBCwUAA4IBAQAmOYIE
+rwVB2GxpGspRJ5oHIG3XB9d6jOYKRumImgLTACH+sHFVLNxo5QUUM9c5T7+G9pes
+SjvqRFnCHWvGdrIcQhNor1LSDOpVCHDKSJjbnKPeUSt8+sOBifOBTMYNnGkHFeGf
+vw/lhrtPMjI16ykdBJm+41/0E0PeF0imnKQgMEQE0EJzl/orYknNeHSuddZrsqVK
+TtPAXMiARj0cbN1kVYjv86VGqr8dQezSiXkg6OY7TpRIWLRlfJy8XolX7QcC2W0Q
+C/6iCkf+FVRJVbTiIB7NIAv9sEI3+RZdSxKNEHVClnx3KZB3R2i5n2sdKDDr7wyr
++fksW1wF0tR3ijy2
+-----END CERTIFICATE-----
+subject=CN = bernex-accueille.ch
+
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3271 bytes and written 457 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: 6797F77FA812B3D7F6091E8B68B060C1ED927E3177F7D0C90F24D298F15289DE
+    Session-ID-ctx: 
+    Master-Key: 9F591C107963EB9BB913736461FB13BE21E33AD119C219C6A7CA48618E27A5E963909209FB2083DD963457CB1E8BCDEE
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 39 3a 54 bd 99 aa 98 44-97 98 2a 70 49 92 d8 f7   9:T....D..*pI...
+    0010 - 79 57 01 00 cc e8 ee 66-9b 00 ee a1 e9 b9 43 62   yW.....f......Cb
+    0020 - 71 ed 5b 38 4f 75 6c cb-4b e2 d2 2a e6 5a eb df   q.[8Oul.K..*.Z..
+    0030 - 14 48 f8 f3 6a a6 78 99-e4 16 cd 2b 73 83 74 3f   .H..j.x....+s.t?
+    0040 - da 37 fb 41 1d 97 85 c6-0c 92 b1 cc 58 04 25 b5   .7.A........X.%.
+    0050 - 39 f6 aa 85 fb 8d 60 21-cf 8a 52 e9 77 34 55 0d   9.....`!..R.w4U.
+    0060 - 30 38 cf 3c 31 86 cf c3-e8 f1 84 40 14 9e b8 28   08.<1......@...(
+    0070 - 8f a4 9c 48 1e 25 ac 70-b6 73 27 39 34 2f 1b bb   ...H.%.p.s'94/..
+    0080 - 81 ff 0d 60 a8 75 95 96-6d bc 5c 93 2c 4f 7b ac   ...`.u..m.\.,O{.
+    0090 - d7 17 60 69 8c da 23 b5-7f 4b be 30 1e 4c 46 02   ..`i..#..K.0.LF.
+    00a0 - 57 da ed 65 61 c6 a6 1c-d3 f4 18 8d 2a 0b 39 09   W..ea.......*.9.
+    00b0 - 58 95 53 29 96 41 2d aa-97 ad cc 90 ce 71 b1 6c   X.S).A-......q.l
+
+    Start Time: 1573135289
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---

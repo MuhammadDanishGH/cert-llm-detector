@@ -1,0 +1,98 @@
+https://vip-btc.com
+----------END URL----------
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = vip-btc.com
+   i:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+ 1 s:C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+   i:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+ 2 s:C = GB, ST = Greater Manchester, L = Salford, O = COMODO CA Limited, CN = COMODO RSA Certification Authority
+   i:C = SE, O = AddTrust AB, OU = AddTrust External TTP Network, CN = AddTrust External CA Root
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGNDCCBRygAwIBAgIRANW+q+i+YWQ9ExQXiIt9d1gwDQYJKoZIhvcNAQELBQAw
+cjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMRAwDgYDVQQHEwdIb3VzdG9uMRUw
+EwYDVQQKEwxjUGFuZWwsIEluYy4xLTArBgNVBAMTJGNQYW5lbCwgSW5jLiBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0xOTA4MDMwMDAwMDBaFw0xOTExMDEyMzU5
+NTlaMBYxFDASBgNVBAMTC3ZpcC1idGMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAmOEH/vt15XI9n2cMp12dfGGb38/ypNU1Ivvx9v5JcarKctKF
+ibddjtonrLnOiqaZMbPyH73NB57BLyypS/ksxFEkBf2n93h/K/0xRArJO8Mv0LxB
+3gTq306YdMsgl73+POcjmPUbMhV+LrX0I1prHs/hkUkqbESe3XRebkT5FY36Egls
+g607rUkxAA2jPRr8m75hetIpdi9BtRIlVKAsQNzUh6581PU1A0CA2msj3fbIp+Ow
+4E+kuaxJISsLyIHRhqXAvwU7mERag4lXpCqgG10zQ2eDnfWdUlUH+URfi6td4HQI
+QvCzULatXsXK093gGDOFrvRrn+3F+OA/7YBGqwIDAQABo4IDHzCCAxswHwYDVR0j
+BBgwFoAUfgNaZUFrp34K4bidCOodjh1qx2UwHQYDVR0OBBYEFONZDoa7fNTTYVFY
+Rfm1Mz4qaHAqMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAAMB0GA1UdJQQW
+MBQGCCsGAQUFBwMBBggrBgEFBQcDAjBPBgNVHSAESDBGMDoGCysGAQQBsjEBAgI0
+MCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5jb20vQ1BTMAgG
+BmeBDAECATBMBgNVHR8ERTBDMEGgP6A9hjtodHRwOi8vY3JsLmNvbW9kb2NhLmNv
+bS9jUGFuZWxJbmNDZXJ0aWZpY2F0aW9uQXV0aG9yaXR5LmNybDB9BggrBgEFBQcB
+AQRxMG8wRwYIKwYBBQUHMAKGO2h0dHA6Ly9jcnQuY29tb2RvY2EuY29tL2NQYW5l
+bEluY0NlcnRpZmljYXRpb25BdXRob3JpdHkuY3J0MCQGCCsGAQUFBzABhhhodHRw
+Oi8vb2NzcC5jb21vZG9jYS5jb20wdwYDVR0RBHAwboILdmlwLWJ0Yy5jb22CEmNw
+YW5lbC52aXAtYnRjLmNvbYIQbWFpbC52aXAtYnRjLmNvbYITd2ViZGlzay52aXAt
+YnRjLmNvbYITd2VibWFpbC52aXAtYnRjLmNvbYIPd3d3LnZpcC1idGMuY29tMIIB
+AwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAY/Lbzeg7zCzPC3KEJ1drM6SNYXePvXWm
+OLHHaFRL2I0AAAFsWaU+jwAABAMARjBEAiB7K1N+ifyHoTegXkVDQqc73wDgiFZK
+2zSaX3MRjQU7hQIgUFiC5KDGtpdiZk8/29DbG7gIYLBSxK2FdPohg1DGb9IAdgB0
+ftqDMa0zEJEhnM4lT0Jwwr/9XkIgCMY3NXnmEHvMVgAAAWxZpT6sAAAEAwBHMEUC
+IQCwZY/wv6QRtr0dwdZx6W97Ink7RZkRkkfdyv89UYNCKAIgSKZxf7+NWUPNEtrI
+YfHioCgvPWN0+8/9+xCkk4E9d24wDQYJKoZIhvcNAQELBQADggEBABGVfXv1hG0h
+Y1ydIYW4l/bNfmiOOLrNpKfLyN0/9lqF4hrLNSrtdw/pJ1v+1A0DKgs+lLvUM65N
+qlc+jmQnvfFruFbzOmD3cRMIuhoZeB5fZIoZdNjmdXtYEHN2ofTSmRWoQRDejMnd
+X5+ubusMjnt88BtmYajyLOrvTv0aBwJuMbcSUS0+fW3QSrzrXnhUTZ6bTlxxuO2G
+hW9PKKYjMxPXew+2xXDzYESig0oNeLI1LZLUVw7b7muXJikQsVRpkdQhloVOreZB
+chmgH7JcqftdfqU+XYgITj70jUe7WkThb9hWdX22kfzOu/546gMzNgTBSmT1eNlm
+NP0IlvJu7+o=
+-----END CERTIFICATE-----
+subject=CN = vip-btc.com
+
+issuer=C = US, ST = TX, L = Houston, O = "cPanel, Inc.", CN = "cPanel, Inc. Certification Authority"
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5229 bytes and written 449 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 8D76A335ED2EFCF1A9C3091CBDABE219319B4F94BCF09A7351265841F26CC669
+    Session-ID-ctx: 
+    Master-Key: 32810507E042202A60B5D6EA2119374CE989B988B0501F5220EDAEE368D7579ED4E47C51DF00F138B1A3586BE1642068
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - a3 b8 fb 24 68 f9 09 ec-ce bd 95 04 61 34 ab d2   ...$h.......a4..
+    0010 - a6 b1 94 a8 af 3f e2 d1-a6 03 5e aa 99 55 d6 03   .....?....^..U..
+    0020 - 80 20 55 eb 27 06 08 75-48 d6 3f e1 b2 64 9a 1a   . U.'..uH.?..d..
+    0030 - 7a 11 b9 3e 49 9e 64 52-65 2d 6f d9 22 59 47 9b   z..>I.dRe-o."YG.
+    0040 - 46 42 f5 5c 35 26 6c 64-3f 17 3c b1 fb ea df 4b   FB.\5&ld?.<....K
+    0050 - d8 c3 e4 35 f2 ce e9 b9-69 d3 4d b6 54 fe 03 2e   ...5....i.M.T...
+    0060 - b8 77 76 79 7d 63 9d 5f-3e a1 d2 9c 76 d5 f4 70   .wvy}c._>...v..p
+    0070 - 63 da d8 42 c1 a9 ee 07-d6 6a 11 7d d9 71 9f 5d   c..B.....j.}.q.]
+    0080 - a6 fd 8c 91 ce 70 5c 21-24 d9 f8 2e 97 4f 94 bb   .....p\!$....O..
+    0090 - 75 59 60 b0 8c 5f 6d 82-d1 40 d9 a0 b6 fa f6 5e   uY`.._m..@.....^
+    00a0 - 61 0f 0e 2a 37 5c 9b 15-b6 d7 d2 e5 17 dc fe 19   a..*7\..........
+    00b0 - 97 1a d2 14 84 8b 4d c6-98 4b f3 ad a2 c8 6d fd   ......M..K....m.
+    00c0 - df ab c2 29 d3 c4 c5 19-72 63 cb e2 d0 4c b5 fa   ...)....rc...L..
+
+    Start Time: 1567774832
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+---
