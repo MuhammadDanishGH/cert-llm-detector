@@ -468,8 +468,8 @@ class OptimizedCertificateDetector:
         if phishing_subset.exists():
             self.process_certificates(phishing_subset, "phishing")
         
-        if benign_subset.exists():
-            self.process_certificates(benign_subset, "benign")
+        # if benign_subset.exists():
+        #     self.process_certificates(benign_subset, "benign")
         
         self._print_summary()
     
